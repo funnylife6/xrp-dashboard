@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 """
 XRP Daily Analyzer v2.0
-- 탭형 뉴스 (Ripple 공식 / 일반)
-- 입법/규제 트래커 (CLARITY Act, GENIUS Act, SEC/CFTC)
-- 기관 자금 흐름 (ETF, RLUSD, XRPL 트랜잭션)
-- 실시간 가격 갱신 (30초)
-의존성: pip install requests pandas
+- í­í ë´ì¤ (Ripple ê³µì / ì¼ë°)
+- ìë²/ê·ì  í¸ëì»¤ (CLARITY Act, GENIUS Act, SEC/CFTC)
+- ê¸°ê´ ìê¸ íë¦ (ETF, RLUSD, XRPL í¸ëì­ì)
+- ì¤ìê° ê°ê²© ê°±ì  (30ì´)
+ìì¡´ì±: pip install requests pandas
 """
 
 import requests
@@ -14,9 +14,9 @@ import json, os, sys, time
 import xml.etree.ElementTree as ET
 from datetime import datetime
 
-# ─────────────────────────────────────────────────
-# 1. 공통 유틸
-# ─────────────────────────────────────────────────
+# âââââââââââââââââââââââââââââââââââââââââââââââââ
+# 1. ê³µíµ ì í¸
+# âââââââââââââââââââââââââââââââââââââââââââââââââ
 
 def fetch_rss(url, max_items=10, label=""):
     headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
@@ -39,18 +39,18 @@ def fetch_rss(url, max_items=10, label=""):
             items.append({"title": clean, "url": link, "date": pub, "source": source})
         return items
     except Exception as e:
-        print(f"  ⚠ RSS 실패 ({label}): {e}")
+        print(f"  â  RSS ì¤í¨ ({label}): {e}")
         return []
 
 
 def fmt_large(v):
-    if not v: return "—"
+    if not v: return "â"
     if v >= 1e9: return f"${v/1e9:.2f}B"
     if v >= 1e6: return f"${v/1e6:.2f}M"
     return f"${v:,.0f}"
 
 def fmt_pct(v):
-    if v is None: return "—"
+    if v is None: return "â"
     return f"+{v:.2f}%" if v >= 0 else f"{v:.2f}%"
 
 def pct_color(v):
@@ -58,12 +58,12 @@ def pct_color(v):
     return "#10b981" if v >= 0 else "#ef4444"
 
 
-# ─────────────────────────────────────────────────
-# 2. 데이터 수집
-# ─────────────────────────────────────────────────
+# âââââââââââââââââââââââââââââââââââââââââââââââââ
+# 2. ë°ì´í° ìì§
+# âââââââââââââââââââââââââââââââââââââââââââââââââ
 
 def fetch_ohlc(days=90):
-    print("[1/7] 가격 데이터 수집 중...")
+    print("[1/7] ê°ê²© ë°ì´í° ìì§ ì¤...")
     try:
         r = requests.get(
             "https://api.coingecko.com/api/v3/coins/ripple/market_chart",
@@ -72,7 +72,7 @@ def fetch_ohlc(days=90):
         r.raise_for_status()
         data = r.json()
     except Exception as e:
-        print(f"  ⚠ 실패: {e}"); return None
+        print(f"  â  ì¤í¨: {e}"); return None
 
     prices = pd.DataFrame(data["prices"],        columns=["ts", "price"])
     vols   = pd.DataFrame(data["total_volumes"], columns=["ts", "volume"])
@@ -83,12 +83,12 @@ def fetch_ohlc(days=90):
     df["ts"] = pd.to_datetime(df["ts"], unit="ms", utc=True)
     df.set_index("ts", inplace=True)
     df = df[~df.index.duplicated(keep="last")]
-    print(f"  ✓ {len(df)}일치 완료")
+    print(f"  â {len(df)}ì¼ì¹ ìë£")
     return df
 
 
 def fetch_current_info():
-    print("[2/7] 시장 정보 수집 중...")
+    print("[2/7] ìì¥ ì ë³´ ìì§ ì¤...")
     try:
         r = requests.get(
             "https://api.coingecko.com/api/v3/coins/ripple",
@@ -116,24 +116,24 @@ def fetch_current_info():
             "sentiment_votes_up":  data.get("sentiment_votes_up_percentage", 0),
             "sentiment_votes_down":data.get("sentiment_votes_down_percentage", 0),
         }
-        print(f"  ✓ 현재가 ${info['price_usd']:,.4f}")
+        print(f"  â íì¬ê° ${info['price_usd']:,.4f}")
         return info
     except Exception as e:
-        print(f"  ⚠ 실패: {e}"); return {}
+        print(f"  â  ì¤í¨: {e}"); return {}
 
 
 def fetch_all_news():
-    print("[3/7] 뉴스 수집 중...")
+    print("[3/7] ë´ì¤ ìì§ ì¤...")
     general = fetch_rss(
         "https://news.google.com/rss/search?q=XRP+Ripple+price+news&hl=en&gl=US&ceid=US:en",
         10, "Google News"
     )
-    print(f"  ✓ 뉴스 {len(general)}건 수집")
+    print(f"  â ë´ì¤ {len(general)}ê±´ ìì§")
     return general[:10]
 
 
 def fetch_regulatory():
-    print("[4/7] 규제/입법 뉴스 수집 중...")
+    print("[4/7] ê·ì /ìë² ë´ì¤ ìì§ ì¤...")
     clarity = fetch_rss(
         "https://news.google.com/rss/search?q=CLARITY+Act+crypto+XRP&hl=en&gl=US&ceid=US:en",
         5, "CLARITY Act"
@@ -146,12 +146,12 @@ def fetch_regulatory():
         "https://news.google.com/rss/search?q=SEC+CFTC+XRP+regulation+2026&hl=en&gl=US&ceid=US:en",
         5, "SEC/CFTC"
     )
-    print(f"  ✓ CLARITY {len(clarity)}건 / GENIUS {len(genius)}건 / SEC {len(sec)}건")
+    print(f"  â CLARITY {len(clarity)}ê±´ / GENIUS {len(genius)}ê±´ / SEC {len(sec)}ê±´")
     return clarity, genius, sec
 
 
 def fetch_institutional():
-    print("[5/7] 기관 자금 흐름 수집 중...")
+    print("[5/7] ê¸°ê´ ìê¸ íë¦ ìì§ ì¤...")
 
     etf_news = fetch_rss(
         "https://news.google.com/rss/search?q=XRP+ETF+inflow+institutional&hl=en&gl=US&ceid=US:en",
@@ -170,7 +170,7 @@ def fetch_institutional():
                 xrpl["tx_today"]  = int(rows[0].get("transaction_count", 0))
                 xrpl["tx_7d_avg"] = int(sum(row.get("transaction_count", 0) for row in rows) / len(rows))
     except Exception as e:
-        print(f"  ⚠ XRPL stats 실패: {e}")
+        print(f"  â  XRPL stats ì¤í¨: {e}")
 
     rlusd_mcap = 0
     try:
@@ -181,14 +181,14 @@ def fetch_institutional():
         if r.ok:
             rlusd_mcap = r.json().get("ripple-usd", {}).get("usd_market_cap", 0)
     except Exception as e:
-        print(f"  ⚠ RLUSD 실패: {e}")
+        print(f"  â  RLUSD ì¤í¨: {e}")
 
-    print(f"  ✓ ETF뉴스 {len(etf_news)}건 / XRPL tx {xrpl['tx_today']:,} / RLUSD {fmt_large(rlusd_mcap)}")
+    print(f"  â ETFë´ì¤ {len(etf_news)}ê±´ / XRPL tx {xrpl['tx_today']:,} / RLUSD {fmt_large(rlusd_mcap)}")
     return etf_news, xrpl, rlusd_mcap
 
 
 def fetch_fear_greed():
-    print("[6/7] 공포-탐욕 지수 수집 중...")
+    print("[6/7] ê³µí¬-íì ì§ì ìì§ ì¤...")
     try:
         r = requests.get("https://api.alternative.me/fng/?limit=7", timeout=10)
         r.raise_for_status()
@@ -196,19 +196,19 @@ def fetch_fear_greed():
         if data:
             latest  = data[0]
             history = [{"value": int(d["value"]), "label": d["value_classification"]} for d in data]
-            print(f"  ✓ {latest['value']} ({latest['value_classification']})")
+            print(f"  â {latest['value']} ({latest['value_classification']})")
             return int(latest["value"]), latest["value_classification"], history
     except Exception as e:
-        print(f"  ⚠ 실패: {e}")
+        print(f"  â  ì¤í¨: {e}")
     return 50, "Neutral", []
 
 
-# ─────────────────────────────────────────────────
-# 3. 기술 지표
-# ─────────────────────────────────────────────────
+# âââââââââââââââââââââââââââââââââââââââââââââââââ
+# 3. ê¸°ì  ì§í
+# âââââââââââââââââââââââââââââââââââââââââââââââââ
 
 def calc_indicators(df):
-    print("[7/7] 기술 지표 계산 중...")
+    print("[7/7] ê¸°ì  ì§í ê³ì° ì¤...")
     df["ma7"]  = df["price"].rolling(7).mean()
     df["ma25"] = df["price"].rolling(25).mean()
     df["ma50"] = df["price"].rolling(50).mean()
@@ -231,7 +231,7 @@ def calc_indicators(df):
     df["bb_upper"] = bb_mid + 2 * bb_std
     df["bb_lower"] = bb_mid - 2 * bb_std
     df["vol_ma7"]  = df["volume"].rolling(7).mean()
-    print("  ✓ RSI / MACD / 볼린저밴드 / MA 완료")
+    print("  â RSI / MACD / ë³¼ë¦°ì ë°´ë / MA ìë£")
     return df
 
 
@@ -241,54 +241,54 @@ def gen_signals(df):
     price = latest["price"]
 
     if   latest["ma7"] > latest["ma25"] and prev["ma7"] <= prev["ma25"]:
-        signals.append({"name":"MA 크로스","verdict":"매수","detail":"7일MA 골든크로스 발생"}); score += 2
+        signals.append({"name":"MA í¬ë¡ì¤","verdict":"ë§¤ì","detail":"7ì¼MA ê³¨ë í¬ë¡ì¤ ë°ì"}); score += 2
     elif latest["ma7"] < latest["ma25"] and prev["ma7"] >= prev["ma25"]:
-        signals.append({"name":"MA 크로스","verdict":"매도","detail":"7일MA 데드크로스 발생"}); score -= 2
+        signals.append({"name":"MA í¬ë¡ì¤","verdict":"ë§¤ë","detail":"7ì¼MA ë°ëí¬ë¡ì¤ ë°ì"}); score -= 2
     elif latest["ma7"] > latest["ma25"]:
-        signals.append({"name":"MA 크로스","verdict":"매수","detail":f"MA7(${latest['ma7']:.4f}) > MA25(${latest['ma25']:.4f}) 유지"}); score += 1
+        signals.append({"name":"MA í¬ë¡ì¤","verdict":"ë§¤ì","detail":f"MA7(${latest['ma7']:.4f}) > MA25(${latest['ma25']:.4f}) ì ì§"}); score += 1
     else:
-        signals.append({"name":"MA 크로스","verdict":"매도","detail":f"MA7(${latest['ma7']:.4f}) < MA25(${latest['ma25']:.4f}) 유지"}); score -= 1
+        signals.append({"name":"MA í¬ë¡ì¤","verdict":"ë§¤ë","detail":f"MA7(${latest['ma7']:.4f}) < MA25(${latest['ma25']:.4f}) ì ì§"}); score -= 1
 
     rsi = latest["rsi"]
-    if   rsi < 30: signals.append({"name":"RSI","verdict":"강매수","detail":f"RSI {rsi:.1f} — 과매도"}); score += 2.5
-    elif rsi < 40: signals.append({"name":"RSI","verdict":"매수",  "detail":f"RSI {rsi:.1f} — 매수 우위"}); score += 1.5
-    elif rsi > 70: signals.append({"name":"RSI","verdict":"강매도","detail":f"RSI {rsi:.1f} — 과매수"}); score -= 2.5
-    elif rsi > 60: signals.append({"name":"RSI","verdict":"매도",  "detail":f"RSI {rsi:.1f} — 매도 우위"}); score -= 1.5
-    else:          signals.append({"name":"RSI","verdict":"중립",  "detail":f"RSI {rsi:.1f} — 중립 구간"})
+    if   rsi < 30: signals.append({"name":"RSI","verdict":"ê°ë§¤ì","detail":f"RSI {rsi:.1f} â ê³¼ë§¤ë"}); score += 2.5
+    elif rsi < 40: signals.append({"name":"RSI","verdict":"ë§¤ì",  "detail":f"RSI {rsi:.1f} â ë§¤ì ì°ì"}); score += 1.5
+    elif rsi > 70: signals.append({"name":"RSI","verdict":"ê°ë§¤ë","detail":f"RSI {rsi:.1f} â ê³¼ë§¤ì"}); score -= 2.5
+    elif rsi > 60: signals.append({"name":"RSI","verdict":"ë§¤ë",  "detail":f"RSI {rsi:.1f} â ë§¤ë ì°ì"}); score -= 1.5
+    else:          signals.append({"name":"RSI","verdict":"ì¤ë¦½",  "detail":f"RSI {rsi:.1f} â ì¤ë¦½ êµ¬ê°"})
 
     bb_upper = latest["bb_upper"]; bb_lower = latest["bb_lower"]
     bb_pos   = (price - bb_lower) / (bb_upper - bb_lower) * 100 if bb_upper != bb_lower else 50
-    if   price < bb_lower: signals.append({"name":"볼린저밴드","verdict":"매수","detail":"하단밴드 하회 — 반등 가능성"}); score += 1.5
-    elif price > bb_upper: signals.append({"name":"볼린저밴드","verdict":"매도","detail":"상단밴드 돌파 — 과열 구간"}); score -= 1.5
-    else:                  signals.append({"name":"볼린저밴드","verdict":"중립","detail":f"밴드 내 위치 {bb_pos:.0f}%"})
+    if   price < bb_lower: signals.append({"name":"ë³¼ë¦°ì ë°´ë","verdict":"ë§¤ì","detail":"íë¨ë°´ë íí â ë°ë± ê°ë¥ì±"}); score += 1.5
+    elif price > bb_upper: signals.append({"name":"ë³¼ë¦°ì ë°´ë","verdict":"ë§¤ë","detail":"ìë¨ë°´ë ëí â ê³¼ì´ êµ¬ê°"}); score -= 1.5
+    else:                  signals.append({"name":"ë³¼ë¦°ì ë°´ë","verdict":"ì¤ë¦½","detail":f"ë°´ë ë´ ìì¹ {bb_pos:.0f}%"})
 
     macd, sig = latest["macd"], latest["macd_sig"]
-    if   macd > sig and prev["macd"] <= prev["macd_sig"]: signals.append({"name":"MACD","verdict":"매수","detail":"골든크로스 발생"}); score += 2
-    elif macd < sig and prev["macd"] >= prev["macd_sig"]: signals.append({"name":"MACD","verdict":"매도","detail":"데드크로스 발생"}); score -= 2
-    elif macd > sig: signals.append({"name":"MACD","verdict":"매수","detail":"MACD > Signal 유지"}); score += 0.5
-    else:            signals.append({"name":"MACD","verdict":"매도","detail":"MACD < Signal 유지"}); score -= 0.5
+    if   macd > sig and prev["macd"] <= prev["macd_sig"]: signals.append({"name":"MACD","verdict":"ë§¤ì","detail":"ê³¨ë í¬ë¡ì¤ ë°ì"}); score += 2
+    elif macd < sig and prev["macd"] >= prev["macd_sig"]: signals.append({"name":"MACD","verdict":"ë§¤ë","detail":"ë°ëí¬ë¡ì¤ ë°ì"}); score -= 2
+    elif macd > sig: signals.append({"name":"MACD","verdict":"ë§¤ì","detail":"MACD > Signal ì ì§"}); score += 0.5
+    else:            signals.append({"name":"MACD","verdict":"ë§¤ë","detail":"MACD < Signal ì ì§"}); score -= 0.5
 
     vol, vol_ma = latest["volume"], latest["vol_ma7"]
     ratio = vol / vol_ma if vol_ma else 1
-    if   ratio > 1.5: signals.append({"name":"거래량","verdict":"주목","detail":f"7일 평균 {ratio:.1f}배 — 급등"})
-    elif ratio > 1.1: signals.append({"name":"거래량","verdict":"중립","detail":f"7일 평균 {ratio:.1f}배 — 소폭 증가"})
-    else:             signals.append({"name":"거래량","verdict":"중립","detail":f"7일 평균 {ratio:.1f}배 — 평이한 수준"})
+    if   ratio > 1.5: signals.append({"name":"ê±°ëë","verdict":"ì£¼ëª©","detail":f"7ì¼ íê·  {ratio:.1f}ë°° â ê¸ë±"})
+    elif ratio > 1.1: signals.append({"name":"ê±°ëë","verdict":"ì¤ë¦½","detail":f"7ì¼ íê·  {ratio:.1f}ë°° â ìí­ ì¦ê°"})
+    else:             signals.append({"name":"ê±°ëë","verdict":"ì¤ë¦½","detail":f"7ì¼ íê·  {ratio:.1f}ë°° â íì´í ìì¤"})
 
-    if   score >= 3:    direction, color, eng = "강한 매수 우위", "#10b981", "STRONG BUY"
-    elif score >= 1.5:  direction, color, eng = "매수 우위",      "#34d399", "BUY"
-    elif score <= -3:   direction, color, eng = "강한 매도 우위", "#ef4444", "STRONG SELL"
-    elif score <= -1.5: direction, color, eng = "매도 우위",      "#f87171", "SELL"
-    else:               direction, color, eng = "중립 / 관망",    "#f59e0b", "HOLD"
+    if   score >= 3:    direction, color, eng = "ê°í ë§¤ì ì°ì", "#10b981", "STRONG BUY"
+    elif score >= 1.5:  direction, color, eng = "ë§¤ì ì°ì",      "#34d399", "BUY"
+    elif score <= -3:   direction, color, eng = "ê°í ë§¤ë ì°ì", "#ef4444", "STRONG SELL"
+    elif score <= -1.5: direction, color, eng = "ë§¤ë ì°ì",      "#f87171", "SELL"
+    else:               direction, color, eng = "ì¤ë¦½ / ê´ë§",    "#f59e0b", "HOLD"
     return signals, score, direction, color, eng
 
 
-# ─────────────────────────────────────────────────
-# 4. HTML 빌드
-# ─────────────────────────────────────────────────
+# âââââââââââââââââââââââââââââââââââââââââââââââââ
+# 4. HTML ë¹ë
+# âââââââââââââââââââââââââââââââââââââââââââââââââ
 
 VERDICT_COLORS = {
-    "강매수":"#10b981","매수":"#34d399","강매도":"#ef4444",
-    "매도":"#f87171","중립":"#94a3b8","관망":"#f59e0b","주목":"#a78bfa",
+    "ê°ë§¤ì":"#10b981","ë§¤ì":"#34d399","ê°ë§¤ë":"#ef4444",
+    "ë§¤ë":"#f87171","ì¤ë¦½":"#94a3b8","ê´ë§":"#f59e0b","ì£¼ëª©":"#a78bfa",
 }
 
 def badge(v):
@@ -297,11 +297,11 @@ def badge(v):
 
 def news_items_html(items):
     if not items:
-        return '<p class="no-data">뉴스를 불러오는 중...</p>'
+        return '<p class="no-data">ë´ì¤ë¥¼ ë¶ë¬ì¤ë ì¤...</p>'
     html = ""
     for i, n in enumerate(items[:10]):
         cls = " latest" if i == 0 else ""
-        tag = "🔴 최신" if i == 0 else f"#{i+1}"
+        tag = "ð´ ìµì " if i == 0 else f"#{i+1}"
         html += f'''<a class="ni" href="{n['url']}" target="_blank" rel="noopener">
           <span class="ntag{cls}">{tag}</span>
           <span class="nt">{n['title']}</span>
@@ -311,7 +311,7 @@ def news_items_html(items):
 
 def reg_news_html(items):
     if not items:
-        return '<p class="no-data">관련 뉴스 없음</p>'
+        return '<p class="no-data">ê´ë ¨ ë´ì¤ ìì</p>'
     html = ""
     for n in items[:4]:
         html += f'''<a class="reg-ni" href="{n['url']}" target="_blank" rel="noopener">
@@ -328,7 +328,7 @@ def build_html(df, info, fg_value, fg_label, fg_history,
                clarity_news, genius_news, sec_news,
                etf_news, xrpl_stats, rlusd_mcap):
 
-    now_kst = datetime.now().strftime("%Y년 %m월 %d일 %H:%M KST")
+    now_kst = datetime.now().strftime("%Yë %mì %dì¼ %H:%M KST")
 
     chart_df  = df.tail(60).copy()
     labels    = [d.strftime("%m/%d") for d in chart_df.index.to_pydatetime()]
@@ -343,7 +343,7 @@ def build_html(df, info, fg_value, fg_label, fg_history,
     macd_hist = [round(v, 6) if not pd.isna(v) else None for v in chart_df["macd_hist"].tolist()]
     vol_data  = [round(v / 1e6, 2) for v in chart_df["volume"].tolist()]
     fg_values = [d["value"] for d in fg_history]
-    fg_labels = [f"D-{i}" if i > 0 else "오늘" for i in range(len(fg_history)-1, -1, -1)]
+    fg_labels = [f"D-{i}" if i > 0 else "ì¤ë" for i in range(len(fg_history)-1, -1, -1)]
 
     signal_cards = ""
     for s in signals:
@@ -370,22 +370,22 @@ def build_html(df, info, fg_value, fg_label, fg_history,
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
-<title>XRP 분석 리포트 — {now_kst}</title>
+<title>XRP ë¶ì ë¦¬í¬í¸ â {now_kst}</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;600;700&family=Syne:wght@400;600;700;800&display=swap" rel="stylesheet">
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
 <style>
 :root {{
-  --bg:#070c14;--surface:#0d1420;--card:#111827;--border:#1e2d42;
-  --text:#e2e8f0;--muted:#64748b;--accent:#00d4ff;--accent2:#7c3aed;
+  --bg:#f8fafc;--surface:#f1f5f9;--card:#ffffff;--border:#e2e8f0;
+  --text:#1e293b;--muted:#64748b;--accent:#0284c7;--accent2:#7c3aed;
   --green:#10b981;--red:#ef4444;--yellow:#f59e0b;--purple:#a78bfa;
   --mono:'JetBrains Mono',monospace;--sans:'Syne',sans-serif;
 }}
 *{{box-sizing:border-box;margin:0;padding:0}}
 body{{background:var(--bg);color:var(--text);font-family:var(--mono);overflow-x:hidden}}
 body::before{{content:'';position:fixed;inset:0;z-index:0;
-  background-image:linear-gradient(var(--border) 1px,transparent 1px),linear-gradient(90deg,var(--border) 1px,transparent 1px);
-  background-size:40px 40px;opacity:0.25;pointer-events:none}}
+  background-image:linear-gradient(#cbd5e1 1px,transparent 1px),linear-gradient(90deg,#cbd5e1 1px,transparent 1px);
+  background-size:40px 40px;opacity:0.06;pointer-events:none}}
 .wrap{{position:relative;z-index:1;max-width:1280px;margin:0 auto;padding:32px 24px}}
 .hdr{{display:flex;justify-content:space-between;align-items:flex-start;border-bottom:1px solid var(--border);padding-bottom:24px;margin-bottom:32px}}
 .sym{{font-family:var(--sans);font-size:52px;font-weight:800;background:linear-gradient(135deg,var(--accent),var(--accent2));-webkit-background-clip:text;-webkit-text-fill-color:transparent;line-height:1}}
@@ -486,7 +486,7 @@ body::before{{content:'';position:fixed;inset:0;z-index:0;
   <div class="hdr">
     <div>
       <div class="sym">XRP</div>
-      <div class="sub"><span class="dot"></span>일일 자동 분석 리포트 · Ripple / XRP Ledger</div>
+      <div class="sub"><span class="dot"></span>ì¼ì¼ ìë ë¶ì ë¦¬í¬í¸ Â· Ripple / XRP Ledger</div>
     </div>
     <div>
       <div class="ts">{now_kst}</div>
@@ -494,139 +494,139 @@ body::before{{content:'';position:fixed;inset:0;z-index:0;
     </div>
   </div>
 
-  <!-- ① 현재 시장 지표 -->
-  <p class="st">현재 시장 지표
-    <span class="rt-badge"><span class="dot"></span>실시간 · <span id="last-updated">갱신 중...</span></span>
+  <!-- â  íì¬ ìì¥ ì§í -->
+  <p class="st">íì¬ ìì¥ ì§í
+    <span class="rt-badge"><span class="dot"></span>ì¤ìê° Â· <span id="last-updated">ê°±ì  ì¤...</span></span>
   </p>
   <div class="g4">
     <div class="card">
-      <div class="cl">현재가 (USD)</div>
+      <div class="cl">íì¬ê° (USD)</div>
       <div class="cv" id="price-usd">${price_usd:,.4f}</div>
       <div class="cs" id="pct-24h" style="color:{pct_color(info.get('price_change_24h'))}">24h {fmt_pct(info.get('price_change_24h'))}</div>
     </div>
     <div class="card">
-      <div class="cl">현재가 (KRW)</div>
-      <div class="cv" id="price-krw">₩{info.get('price_krw',0):,.0f}</div>
+      <div class="cl">íì¬ê° (KRW)</div>
+      <div class="cv" id="price-krw">â©{info.get('price_krw',0):,.0f}</div>
       <div class="cs" id="pct-7d" style="color:{pct_color(info.get('price_change_7d'))}">7d {fmt_pct(info.get('price_change_7d'))}</div>
     </div>
     <div class="card">
-      <div class="cl">시가총액</div>
+      <div class="cl">ìê°ì´ì¡</div>
       <div class="cv" id="market-cap">{fmt_large(info.get('market_cap_usd',0))}</div>
-      <div class="cs">순위 #{info.get('market_cap_rank','—')}</div>
+      <div class="cs">ìì #{info.get('market_cap_rank','â')}</div>
     </div>
     <div class="card">
-      <div class="cl">24h 거래량</div>
+      <div class="cl">24h ê±°ëë</div>
       <div class="cv" id="volume-24h">{fmt_large(info.get('volume_24h',0))}</div>
       <div class="cs" id="pct-30d" style="color:{pct_color(info.get('price_change_30d'))}">30d {fmt_pct(info.get('price_change_30d'))}</div>
     </div>
   </div>
   <div class="g2">
     <div class="card">
-      <div class="cl">ATH 대비 현재가</div>
+      <div class="cl">ATH ëë¹ íì¬ê°</div>
       <div style="display:flex;justify-content:space-between;align-items:center">
         <div class="cv">${ath_usd:,.4f} <span style="font-size:13px;color:var(--muted)">ATH</span></div>
         <div style="color:var(--muted);font-size:12px">{ath_pct:.1f}%</div>
       </div>
       <div class="bar6"><div class="bar6-fill" style="width:{min(ath_pct,100):.1f}%;background:var(--green)"></div></div>
-      <div class="cs" style="margin-top:6px">ATH 대비 {ath_pct:.1f}% / 회복까지 {100-ath_pct:.1f}% 남음</div>
+      <div class="cs" style="margin-top:6px">ATH ëë¹ {ath_pct:.1f}% / íë³µê¹ì§ {100-ath_pct:.1f}% ë¨ì</div>
     </div>
     <div class="card">
-      <div class="cl">유통 / 총 공급량</div>
+      <div class="cl">ì íµ / ì´ ê³µê¸ë</div>
       <div style="display:flex;justify-content:space-between;align-items:center">
         <div class="cv">{circ/1e9:.1f}B XRP</div>
         <div style="color:var(--muted);font-size:12px">{supply_pct:.1f}%</div>
       </div>
       <div class="bar"><div class="bar-fill" style="width:{supply_pct:.1f}%;background:linear-gradient(90deg,var(--accent),var(--accent2))"></div></div>
-      <div class="cs" style="margin-top:6px">총 {total/1e9:.0f}B XRP 중 유통 {supply_pct:.1f}%</div>
+      <div class="cs" style="margin-top:6px">ì´ {total/1e9:.0f}B XRP ì¤ ì íµ {supply_pct:.1f}%</div>
     </div>
   </div>
 
-  <!-- ② 뉴스 -->
+  <!-- â¡ ë´ì¤ -->
   <div class="news-box">
     <div class="news-hdr">
-      <button class="tab-btn active">📰 XRP / Ripple 최신 뉴스</button>
-      <span class="news-meta"><span class="dot"></span><span id="news-updated">최신순 · 갱신 중...</span></span>
+      <button class="tab-btn active">ð° XRP / Ripple ìµì  ë´ì¤</button>
+      <span class="news-meta"><span class="dot"></span><span id="news-updated">ìµì ì Â· ê°±ì  ì¤...</span></span>
     </div>
     <div id="gen-list">{gen_html}</div>
   </div>
 
-  <!-- ③ 입법/규제 트래커 -->
-  <p class="st">입법 / 규제 트래커</p>
+  <!-- â¢ ìë²/ê·ì  í¸ëì»¤ -->
+  <p class="st">ìë² / ê·ì  í¸ëì»¤</p>
   <div class="reg-grid">
     <div class="reg-card">
       <div class="reg-card-hdr">
         <span class="reg-title">CLARITY Act</span>
-        <span class="status-badge" style="background:#f59e0b20;color:#f59e0b;border:1px solid #f59e0b40">상원 진행 중</span>
+        <span class="status-badge" style="background:#f59e0b20;color:#f59e0b;border:1px solid #f59e0b40">ìì ì§í ì¤</span>
       </div>
       <div class="reg-body">
-        <p class="reg-desc">디지털 자산 증권/상품 분류 기준 명확화 법안. 하원 통과 후 상원 심의 중. XRP 법적 지위에 직접 영향.</p>
+        <p class="reg-desc">ëì§í¸ ìì° ì¦ê¶/ìí ë¶ë¥ ê¸°ì¤ ëªíí ë²ì. íì íµê³¼ í ìì ì¬ì ì¤. XRP ë²ì  ì§ìì ì§ì  ìí¥.</p>
         {clarity_html}
       </div>
     </div>
     <div class="reg-card">
       <div class="reg-card-hdr">
         <span class="reg-title">GENIUS Act</span>
-        <span class="status-badge" style="background:#10b98120;color:#10b981;border:1px solid #10b98140">상원 통과</span>
+        <span class="status-badge" style="background:#10b98120;color:#10b981;border:1px solid #10b98140">ìì íµê³¼</span>
       </div>
       <div class="reg-body">
-        <p class="reg-desc">스테이블코인 발행 규제 프레임워크 법안. RLUSD 규제 적합성에 직접 영향. 하원 심의 중.</p>
+        <p class="reg-desc">ì¤íì´ë¸ì½ì¸ ë°í ê·ì  íë ììí¬ ë²ì. RLUSD ê·ì  ì í©ì±ì ì§ì  ìí¥. íì ì¬ì ì¤.</p>
         {genius_html}
       </div>
     </div>
     <div class="reg-card">
       <div class="reg-card-hdr">
-        <span class="reg-title">SEC / CFTC 동향</span>
-        <span class="status-badge" style="background:#10b98120;color:#10b981;border:1px solid #10b98140">XRP 상품 확인</span>
+        <span class="reg-title">SEC / CFTC ëí¥</span>
+        <span class="status-badge" style="background:#10b98120;color:#10b981;border:1px solid #10b98140">XRP ìí íì¸</span>
       </div>
       <div class="reg-body">
-        <p class="reg-desc">SEC 2026년 가이던스에서 XRP를 디지털 상품으로 재확인. 소송 종결 후 제도권 편입 가속화 국면.</p>
+        <p class="reg-desc">SEC 2026ë ê°ì´ëì¤ìì XRPë¥¼ ëì§í¸ ìíì¼ë¡ ì¬íì¸. ìì¡ ì¢ê²° í ì ëê¶ í¸ì ê°ìí êµ­ë©´.</p>
         {sec_html}
       </div>
     </div>
   </div>
 
-  <!-- ④ 기관 자금 흐름 -->
-  <p class="st">기관 자금 흐름</p>
+  <!-- â£ ê¸°ê´ ìê¸ íë¦ -->
+  <p class="st">ê¸°ê´ ìê¸ íë¦</p>
   <div class="inst-grid">
     <div class="inst-card">
-      <div class="ic-label">RLUSD 시가총액</div>
-      <div class="ic-value" style="color:var(--accent)">{fmt_large(rlusd_mcap) if rlusd_mcap else "수집 중"}</div>
-      <div class="ic-sub">Ripple 스테이블코인 · ODL 연동</div>
+      <div class="ic-label">RLUSD ìê°ì´ì¡</div>
+      <div class="ic-value" style="color:var(--accent)">{fmt_large(rlusd_mcap) if rlusd_mcap else "ìì§ ì¤"}</div>
+      <div class="ic-sub">Ripple ì¤íì´ë¸ì½ì¸ Â· ODL ì°ë</div>
     </div>
     <div class="inst-card">
-      <div class="ic-label">XRPL 일별 트랜잭션</div>
+      <div class="ic-label">XRPL ì¼ë³ í¸ëì­ì</div>
       <div class="ic-value" style="color:var(--green)">{xrpl_stats.get('tx_today',0):,}</div>
-      <div class="ic-sub">7일 평균 {xrpl_stats.get('tx_7d_avg',0):,}건</div>
+      <div class="ic-sub">7ì¼ íê·  {xrpl_stats.get('tx_7d_avg',0):,}ê±´</div>
     </div>
     <div class="inst-card">
-      <div class="ic-label">XRP 현물 ETF</div>
-      <div class="ic-value" style="color:var(--purple)">6개 승인</div>
-      <div class="ic-sub">SEC 승인 완료 · 자금 유입 모니터링</div>
+      <div class="ic-label">XRP íë¬¼ ETF</div>
+      <div class="ic-value" style="color:var(--purple)">6ê° ì¹ì¸</div>
+      <div class="ic-sub">SEC ì¹ì¸ ìë£ Â· ìê¸ ì ì ëª¨ëí°ë§</div>
     </div>
   </div>
   <div class="etf-box">
-    <div class="etf-hdr">기관 / ETF 관련 최신 동향</div>
+    <div class="etf-hdr">ê¸°ê´ / ETF ê´ë ¨ ìµì  ëí¥</div>
     {etf_html}
   </div>
 
-  <!-- 차트 -->
-  <p class="st">가격 & 기술 지표 차트 (60일)</p>
-  <div class="cc"><div class="ct">가격 / MA7 / MA25 / 볼린저밴드</div><div class="cwl"><canvas id="priceChart"></canvas></div></div>
+  <!-- ì°¨í¸ -->
+  <p class="st">ê°ê²© & ê¸°ì  ì§í ì°¨í¸ (60ì¼)</p>
+  <div class="cc"><div class="ct">ê°ê²© / MA7 / MA25 / ë³¼ë¦°ì ë°´ë</div><div class="cwl"><canvas id="priceChart"></canvas></div></div>
   <div class="g2">
     <div class="cc"><div class="ct">RSI-14</div><div class="cw"><canvas id="rsiChart"></canvas></div></div>
     <div class="cc"><div class="ct">MACD (12-26-9)</div><div class="cw"><canvas id="macdChart"></canvas></div></div>
   </div>
-  <div class="cc"><div class="ct">거래량 (백만 USD)</div><div class="cw"><canvas id="volChart"></canvas></div></div>
+  <div class="cc"><div class="ct">ê±°ëë (ë°±ë§ USD)</div><div class="cw"><canvas id="volChart"></canvas></div></div>
 
-  <!-- 시그널 -->
-  <p class="st">기술적 지표 시그널</p>
+  <!-- ìê·¸ë -->
+  <p class="st">ê¸°ì ì  ì§í ìê·¸ë</p>
   <div class="sg">{signal_cards}</div>
 
-  <!-- 시장 심리 -->
-  <p class="st">시장 심리 지표</p>
+  <!-- ìì¥ ì¬ë¦¬ -->
+  <p class="st">ìì¥ ì¬ë¦¬ ì§í</p>
   <div class="g2">
     <div class="card">
-      <div class="cl">공포-탐욕 지수 (7일)</div>
+      <div class="cl">ê³µí¬-íì ì§ì (7ì¼)</div>
       <div class="fgw">
         <div>
           <div class="fgv" style="color:{'#ef4444' if fg_value<30 else '#10b981' if fg_value>60 else '#f59e0b'}">{fg_value}</div>
@@ -634,7 +634,7 @@ body::before{{content:'';position:fixed;inset:0;z-index:0;
         </div>
         <div class="fgb">
           <div style="display:flex;justify-content:space-between;font-size:10px;color:var(--muted);margin-bottom:4px">
-            <span>공포(0)</span><span>중립(50)</span><span>탐욕(100)</span>
+            <span>ê³µí¬(0)</span><span>ì¤ë¦½(50)</span><span>íì(100)</span>
           </div>
           <div class="bar6"><div class="bar6-fill" style="width:{fg_value}%;background:{'#ef4444' if fg_value<30 else '#10b981' if fg_value>60 else '#f59e0b'}"></div></div>
           <div style="position:relative;height:90px;margin-top:12px"><canvas id="fgChart"></canvas></div>
@@ -642,11 +642,11 @@ body::before{{content:'';position:fixed;inset:0;z-index:0;
       </div>
     </div>
     <div class="card">
-      <div class="cl">커뮤니티 센티멘트</div>
+      <div class="cl">ì»¤ë®¤ëí° ì¼í°ë©í¸</div>
       <div style="margin-top:12px">
         <div style="display:flex;justify-content:space-between;font-size:12px;margin-bottom:6px">
-          <span style="color:var(--green)">▲ 긍정 {info.get('sentiment_votes_up',0):.1f}%</span>
-          <span style="color:var(--red)">▼ 부정 {info.get('sentiment_votes_down',0):.1f}%</span>
+          <span style="color:var(--green)">â² ê¸ì  {info.get('sentiment_votes_up',0):.1f}%</span>
+          <span style="color:var(--red)">â¼ ë¶ì  {info.get('sentiment_votes_down',0):.1f}%</span>
         </div>
         <div style="height:8px;background:var(--border);border-radius:4px;overflow:hidden">
           <div style="width:{info.get('sentiment_votes_up',50):.1f}%;height:100%;background:linear-gradient(90deg,var(--green),#34d399);border-radius:4px"></div>
@@ -666,8 +666,8 @@ body::before{{content:'';position:fixed;inset:0;z-index:0;
   </div>
 
   <div class="disc">
-    <strong style="color:var(--yellow)">⚠ 면책 고지</strong><br>
-    본 리포트는 기술적 지표 기반 자동 분석 자료로, 투자 권유가 아닙니다. 입법/규제 정보는 공개 뉴스 기반이며 법적 효력이 없습니다. 암호화폐 투자는 원금 손실 위험이 있으며, 모든 투자 결정은 본인의 판단과 책임 하에 이루어져야 합니다.
+    <strong style="color:var(--yellow)">â  ë©´ì± ê³ ì§</strong><br>
+    ë³¸ ë¦¬í¬í¸ë ê¸°ì ì  ì§í ê¸°ë° ìë ë¶ì ìë£ë¡, í¬ì ê¶ì ê° ìëëë¤. ìë²/ê·ì  ì ë³´ë ê³µê° ë´ì¤ ê¸°ë°ì´ë©° ë²ì  í¨ë ¥ì´ ììµëë¤. ìí¸íí í¬ìë ìê¸ ìì¤ ìíì´ ìì¼ë©°, ëª¨ë  í¬ì ê²°ì ì ë³¸ì¸ì íë¨ê³¼ ì±ì íì ì´ë£¨ì´ì ¸ì¼ í©ëë¤.
   </div>
 </div>
 
@@ -696,8 +696,8 @@ new Chart(document.getElementById('priceChart'),{{type:'line',data:{{labels:L,da
   {{label:'Price',data:P,borderColor:'#00d4ff',borderWidth:2,backgroundColor:'transparent'}},
   {{label:'MA7',data:M7,borderColor:'#f59e0b',borderWidth:1.5,borderDash:[4,2],backgroundColor:'transparent'}},
   {{label:'MA25',data:M25,borderColor:'#a78bfa',borderWidth:1.5,borderDash:[6,3],backgroundColor:'transparent'}},
-  {{label:'BB↑',data:BU,borderColor:'#ef444430',borderWidth:1,backgroundColor:'#ef44440a',fill:false}},
-  {{label:'BB↓',data:BL,borderColor:'#10b98130',borderWidth:1,backgroundColor:'#10b9810a',fill:'-1'}},
+  {{label:'BBâ',data:BU,borderColor:'#ef444430',borderWidth:1,backgroundColor:'#ef44440a',fill:false}},
+  {{label:'BBâ',data:BL,borderColor:'#10b98130',borderWidth:1,backgroundColor:'#10b9810a',fill:'-1'}},
 ]}},options:base}});
 
 new Chart(document.getElementById('rsiChart'),{{type:'line',data:{{labels:L,datasets:[
@@ -721,7 +721,7 @@ new Chart(document.getElementById('fgChart'),{{type:'line',data:{{labels:FL,data
   scales:{{x:{{grid:{{color:'#1e2d4240'}}}},y:{{grid:{{color:'#1e2d4240'}},min:0,max:100,position:'right'}}}},
   elements:{{point:{{radius:3}},line:{{tension:0.4}}}}}}}});
 
-// 실시간 가격 갱신 (30초)
+// ì¤ìê° ê°ê²© ê°±ì  (30ì´)
 function fL(v){{return v>=1e9?'$'+(v/1e9).toFixed(2)+'B':v>=1e6?'$'+(v/1e6).toFixed(2)+'M':'$'+v.toFixed(2)}}
 function fP(v){{return(v>=0?'+':'')+v.toFixed(2)+'%'}}
 function pC(v){{return v>=0?'#10b981':'#ef4444'}}
@@ -732,19 +732,19 @@ async function updatePrice(){{
     if(!r.ok)throw new Error();
     const md=(await r.json()).market_data;
     document.getElementById('price-usd').textContent='$'+md.current_price.usd.toFixed(4);
-    document.getElementById('price-krw').textContent='₩'+md.current_price.krw.toLocaleString();
+    document.getElementById('price-krw').textContent='â©'+md.current_price.krw.toLocaleString();
     document.getElementById('market-cap').textContent=fL(md.market_cap.usd);
     document.getElementById('volume-24h').textContent=fL(md.total_volume.usd);
     const p24=document.getElementById('pct-24h');p24.textContent='24h '+fP(md.price_change_percentage_24h);p24.style.color=pC(md.price_change_percentage_24h);
     const p7=document.getElementById('pct-7d');p7.textContent='7d '+fP(md.price_change_percentage_7d);p7.style.color=pC(md.price_change_percentage_7d);
     const p30=document.getElementById('pct-30d');p30.textContent='30d '+fP(md.price_change_percentage_30d);p30.style.color=pC(md.price_change_percentage_30d);
     const n=new Date();
-    document.getElementById('last-updated').textContent=n.getHours().toString().padStart(2,'0')+':'+n.getMinutes().toString().padStart(2,'0')+':'+n.getSeconds().toString().padStart(2,'0')+' 갱신';
-  }}catch(e){{document.getElementById('last-updated').textContent='갱신 실패';}}
+    document.getElementById('last-updated').textContent=n.getHours().toString().padStart(2,'0')+':'+n.getMinutes().toString().padStart(2,'0')+':'+n.getSeconds().toString().padStart(2,'0')+' ê°±ì ';
+  }}catch(e){{document.getElementById('last-updated').textContent='ê°±ì  ì¤í¨';}}
 }}
 updatePrice();setInterval(updatePrice,30000);
 
-// 실시간 뉴스 갱신 (30분)
+// ì¤ìê° ë´ì¤ ê°±ì  (30ë¶)
 const PROXY=url=>`https://api.allorigins.win/get?url=${{encodeURIComponent(url)}}`;
 const RSS_OFF='https://news.google.com/rss/search?q=Ripple+XRP+official&hl=en&gl=US&ceid=US:en';
 const RSS_GEN='https://news.google.com/rss/search?q=XRP+Ripple+price+news&hl=en&gl=US&ceid=US:en';
@@ -752,8 +752,8 @@ const OFFICIAL_DOMAINS=['ripple.com','xrpl.org','ripplex'];
 
 function timeAgo(d){{
   const s=(Date.now()-new Date(d).getTime())/1000;
-  if(s<60)return '방금';if(s<3600)return Math.floor(s/60)+'분 전';
-  if(s<86400)return Math.floor(s/3600)+'시간 전';return Math.floor(s/86400)+'일 전';
+  if(s<60)return 'ë°©ê¸';if(s<3600)return Math.floor(s/60)+'ë¶ ì ';
+  if(s<86400)return Math.floor(s/3600)+'ìê° ì ';return Math.floor(s/86400)+'ì¼ ì ';
 }}
 
 function parseRSS(xml){{
@@ -772,9 +772,9 @@ function renderNews(items,listId){{
   items.sort((a,b)=>new Date(b.date)-new Date(a.date));
   el.innerHTML=items.slice(0,10).map((n,i)=>
     `<a class="ni" href="${{n.url}}" target="_blank" rel="noopener">
-      <span class="ntag${{i===0?' latest':''}}">${{i===0?'🔴 최신':'#'+(i+1)}}</span>
+      <span class="ntag${{i===0?' latest':''}}">${{i===0?'ð´ ìµì ':'#'+(i+1)}}</span>
       <span class="nt">${{n.title}}</span>
-      <span class="nsrc">${{n.source}}${{n.date?' · '+timeAgo(n.date):''}}</span>
+      <span class="nsrc">${{n.source}}${{n.date?' Â· '+timeAgo(n.date):''}}</span>
     </a>`
   ).join('');
 }}
@@ -797,7 +797,7 @@ async function updateNews(){{
   await fetchNews(RSS_GEN,'gen-list',null);
   const n=new Date();
   document.getElementById('news-updated').textContent=
-    '최신순 · '+n.getHours().toString().padStart(2,'0')+':'+n.getMinutes().toString().padStart(2,'0')+' 갱신';
+    'ìµì ì Â· '+n.getHours().toString().padStart(2,'0')+':'+n.getMinutes().toString().padStart(2,'0')+' ê°±ì ';
 }}
 updateNews();setInterval(updateNews,30*60*1000);
 </script>
@@ -805,9 +805,9 @@ updateNews();setInterval(updateNews,30*60*1000);
 </html>"""
 
 
-# ─────────────────────────────────────────────────
-# 5. 메인
-# ─────────────────────────────────────────────────
+# âââââââââââââââââââââââââââââââââââââââââââââââââ
+# 5. ë©ì¸
+# âââââââââââââââââââââââââââââââââââââââââââââââââ
 
 def main():
     output_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "xrp_report.html")
@@ -818,7 +818,7 @@ def main():
 
     df = fetch_ohlc(90)
     if df is None or len(df) < 30:
-        print("❌ 가격 데이터 부족"); sys.exit(1)
+        print("â ê°ê²© ë°ì´í° ë¶ì¡±"); sys.exit(1)
 
     info                                    = fetch_current_info();      time.sleep(1)
     general_news                            = fetch_all_news();          time.sleep(1)
@@ -829,7 +829,7 @@ def main():
     df = calc_indicators(df)
     signals, score, direction, dir_color, dir_eng = gen_signals(df)
 
-    print("\n▶ HTML 생성 중...")
+    print("\nâ¶ HTML ìì± ì¤...")
     html = build_html(
         df, info, fg_value, fg_label, fg_history,
         signals, score, direction, dir_color, dir_eng,
@@ -840,8 +840,8 @@ def main():
     with open(output_path, "w", encoding="utf-8") as f:
         f.write(html)
 
-    print(f"\n✅ 완료 → {output_path}")
-    print(f"   방향성: {direction} ({score:+.1f}pt)")
+    print(f"\nâ ìë£ â {output_path}")
+    print(f"   ë°©í¥ì±: {direction} ({score:+.1f}pt)")
     print("=" * 54)
 
 
