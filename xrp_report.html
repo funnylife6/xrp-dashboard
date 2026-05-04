@@ -1,0 +1,557 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>XRP 분석 리포트 — 2026년 05월 04일 04:21 KST</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;600;700&family=Syne:wght@400;600;700;800&display=swap" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+<style>
+:root {
+  --bg:#070c14;--surface:#0d1420;--card:#111827;--border:#1e2d42;
+  --text:#e2e8f0;--muted:#64748b;--accent:#00d4ff;--accent2:#7c3aed;
+  --green:#10b981;--red:#ef4444;--yellow:#f59e0b;--purple:#a78bfa;
+  --mono:'JetBrains Mono',monospace;--sans:'Syne',sans-serif;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--bg);color:var(--text);font-family:var(--mono);overflow-x:hidden}
+body::before{content:'';position:fixed;inset:0;z-index:0;
+  background-image:linear-gradient(var(--border) 1px,transparent 1px),linear-gradient(90deg,var(--border) 1px,transparent 1px);
+  background-size:40px 40px;opacity:0.25;pointer-events:none}
+.wrap{position:relative;z-index:1;max-width:1280px;margin:0 auto;padding:32px 24px}
+.hdr{display:flex;justify-content:space-between;align-items:flex-start;border-bottom:1px solid var(--border);padding-bottom:24px;margin-bottom:32px}
+.sym{font-family:var(--sans);font-size:52px;font-weight:800;background:linear-gradient(135deg,var(--accent),var(--accent2));-webkit-background-clip:text;-webkit-text-fill-color:transparent;line-height:1}
+.sub{color:var(--muted);font-size:11px;margin-top:6px;letter-spacing:2px;text-transform:uppercase}
+.ts{color:var(--muted);font-size:11px;text-align:right}
+.tag{display:inline-block;margin-top:6px;background:var(--surface);border:1px solid var(--border);padding:4px 10px;font-size:10px;color:var(--accent);border-radius:2px;letter-spacing:1px}
+.g2{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-bottom:16px}
+.g3{display:grid;grid-template-columns:1fr 1fr 1fr;gap:16px;margin-bottom:16px}
+.g4{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;margin-bottom:16px}
+@media(max-width:900px){.g2,.g3,.g4{grid-template-columns:1fr 1fr}}
+@media(max-width:520px){.g2,.g3,.g4{grid-template-columns:1fr}}
+.card{background:var(--card);border:1px solid var(--border);border-radius:4px;padding:20px;transition:border-color .2s}
+.card:hover{border-color:#2e4060}
+.cl{font-size:10px;color:var(--muted);letter-spacing:2px;text-transform:uppercase;margin-bottom:10px}
+.cv{font-family:var(--sans);font-size:22px;font-weight:700}
+.cs{font-size:11px;color:var(--muted);margin-top:4px}
+.st{font-size:10px;letter-spacing:3px;text-transform:uppercase;color:var(--accent);
+  border-left:2px solid var(--accent);padding-left:10px;margin-bottom:16px;margin-top:32px;
+  display:flex;align-items:center;gap:12px}
+.rt-badge{font-size:9px;color:var(--muted);background:var(--surface);border:1px solid var(--border);
+  padding:2px 8px;border-radius:2px;display:flex;align-items:center;gap:4px}
+.dir{border:1px solid;border-radius:4px;padding:22px 28px;margin-bottom:28px;display:flex;
+  align-items:center;justify-content:space-between;position:relative;overflow:hidden}
+.dir::before{content:'';position:absolute;inset:0;background:currentColor;opacity:0.05}
+.dl{font-size:10px;color:var(--muted);letter-spacing:2px;text-transform:uppercase}
+.dm{font-family:var(--sans);font-size:30px;font-weight:800;margin-top:4px}
+.ds{font-size:12px;color:var(--muted);margin-top:4px}
+.de{font-family:var(--sans);font-size:44px;font-weight:800;opacity:.12;letter-spacing:-2px}
+.news-box{background:var(--card);border:1px solid var(--border);border-radius:4px;margin-bottom:28px;overflow:hidden}
+.news-hdr{display:flex;align-items:center;border-bottom:1px solid var(--border);background:var(--surface)}
+.tab-btn{padding:14px 20px;font-size:10px;letter-spacing:2px;text-transform:uppercase;
+  color:var(--muted);cursor:pointer;border:none;background:transparent;
+  border-bottom:2px solid transparent;transition:all .2s;font-family:var(--mono)}
+.tab-btn.active{color:var(--accent);border-bottom-color:var(--accent)}
+.tab-btn:hover{color:var(--text)}
+.news-meta{font-size:10px;color:var(--muted);margin-left:auto;padding:0 16px;display:flex;align-items:center;gap:6px}
+.tab-pane{display:none}.tab-pane.active{display:block}
+.ni{display:flex;align-items:flex-start;gap:12px;padding:13px 20px;border-bottom:1px solid var(--border);
+  text-decoration:none;transition:background .15s}
+.ni:last-child{border-bottom:none}
+.ni:hover{background:var(--surface)}
+.ntag{flex-shrink:0;font-size:9px;padding:2px 7px;background:#00d4ff15;color:var(--accent);
+  border:1px solid #00d4ff30;border-radius:2px;letter-spacing:1px;margin-top:1px;white-space:nowrap}
+.ntag.latest{background:#ef444415;color:#ef4444;border-color:#ef444430}
+.nt{font-size:12px;color:var(--text);line-height:1.5;flex:1}
+.nsrc{flex-shrink:0;font-size:10px;color:var(--muted);margin-left:12px;white-space:nowrap;align-self:center}
+.no-data{font-size:11px;color:var(--muted);padding:16px 20px}
+.reg-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-bottom:16px}
+@media(max-width:900px){.reg-grid{grid-template-columns:1fr}}
+.reg-card{background:var(--card);border:1px solid var(--border);border-radius:4px;overflow:hidden}
+.reg-card-hdr{padding:14px 18px;border-bottom:1px solid var(--border);display:flex;align-items:center;gap:10px;background:var(--surface)}
+.reg-title{font-size:11px;font-weight:700;color:var(--text);letter-spacing:1px}
+.status-badge{margin-left:auto;font-size:9px;padding:2px 8px;border-radius:2px;font-weight:700;letter-spacing:1px;white-space:nowrap}
+.reg-body{padding:14px 18px}
+.reg-desc{font-size:11px;color:var(--muted);line-height:1.6;margin-bottom:12px}
+.reg-ni{display:flex;align-items:flex-start;gap:8px;padding:8px 0;border-bottom:1px solid var(--border);text-decoration:none}
+.reg-ni:last-child{border-bottom:none}
+.reg-ni:hover .rni-title{color:var(--accent)}
+.rni-dot{width:4px;height:4px;background:var(--accent);border-radius:50%;flex-shrink:0;margin-top:5px}
+.rni-title{font-size:11px;color:var(--text);line-height:1.4;flex:1;transition:color .15s}
+.rni-src{font-size:9px;color:var(--muted);margin-left:6px;white-space:nowrap;align-self:center;flex-shrink:0}
+.inst-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-bottom:16px}
+@media(max-width:900px){.inst-grid{grid-template-columns:1fr 1fr}}
+.inst-card{background:var(--card);border:1px solid var(--border);border-radius:4px;padding:18px}
+.ic-label{font-size:10px;color:var(--muted);letter-spacing:2px;text-transform:uppercase;margin-bottom:8px}
+.ic-value{font-family:var(--sans);font-size:22px;font-weight:700}
+.ic-sub{font-size:10px;color:var(--muted);margin-top:4px}
+.etf-box{background:var(--card);border:1px solid var(--border);border-radius:4px;overflow:hidden}
+.etf-hdr{padding:12px 18px;border-bottom:1px solid var(--border);background:var(--surface);
+  font-size:10px;color:var(--muted);letter-spacing:2px;text-transform:uppercase}
+.cc{background:var(--card);border:1px solid var(--border);border-radius:4px;padding:20px;margin-bottom:16px}
+.ct{font-size:11px;color:var(--muted);letter-spacing:1px;margin-bottom:12px;text-transform:uppercase}
+.cw{position:relative;height:220px}.cwl{position:relative;height:280px}
+.sg{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}
+@media(max-width:800px){.sg{grid-template-columns:1fr 1fr}}
+.signal-card{background:var(--surface);border:1px solid var(--border);border-radius:4px;padding:14px}
+.signal-top{display:flex;justify-content:space-between;align-items:center;margin-bottom:8px}
+.signal-name{font-size:12px;font-weight:600}
+.badge{font-size:10px;padding:2px 8px;border-radius:2px;font-weight:600;letter-spacing:1px}
+.signal-detail{font-size:11px;color:var(--muted);line-height:1.5}
+.bar{height:8px;background:var(--border);border-radius:4px;overflow:hidden;margin-top:10px}
+.bar-fill{height:100%;border-radius:4px}
+.bar6{height:6px;background:var(--border);border-radius:3px;overflow:hidden;margin-top:8px}
+.bar6-fill{height:100%;border-radius:3px}
+.fgw{display:flex;align-items:center;gap:20px;margin-top:12px}
+.fgv{font-family:var(--sans);font-size:28px;font-weight:800}
+.fgl{font-size:11px;color:var(--muted);margin-top:2px}
+.fgb{flex:1}
+.disc{margin-top:40px;padding:16px 20px;background:var(--surface);border:1px solid var(--border);
+  border-left:2px solid var(--yellow);border-radius:4px;font-size:10px;color:var(--muted);line-height:1.7}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
+.dot{display:inline-block;width:6px;height:6px;background:var(--green);border-radius:50%;margin-right:6px;animation:pulse 2s infinite}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <div class="hdr">
+    <div>
+      <div class="sym">XRP</div>
+      <div class="sub"><span class="dot"></span>일일 자동 분석 리포트 · Ripple / XRP Ledger</div>
+    </div>
+    <div>
+      <div class="ts">2026년 05월 04일 04:21 KST</div>
+      <div class="tag">AUTO_GENERATED v2.0</div>
+    </div>
+  </div>
+
+  <!-- ① 현재 시장 지표 -->
+  <p class="st">현재 시장 지표
+    <span class="rt-badge"><span class="dot"></span>실시간 · <span id="last-updated">갱신 중...</span></span>
+  </p>
+  <div class="g4">
+    <div class="card">
+      <div class="cl">현재가 (USD)</div>
+      <div class="cv" id="price-usd">$1.4200</div>
+      <div class="cs" id="pct-24h" style="color:#10b981">24h +2.54%</div>
+    </div>
+    <div class="card">
+      <div class="cl">현재가 (KRW)</div>
+      <div class="cv" id="price-krw">₩2,086</div>
+      <div class="cs" id="pct-7d" style="color:#ef4444">7d -1.78%</div>
+    </div>
+    <div class="card">
+      <div class="cl">시가총액</div>
+      <div class="cv" id="market-cap">$87.66B</div>
+      <div class="cs">순위 #4</div>
+    </div>
+    <div class="card">
+      <div class="cl">24h 거래량</div>
+      <div class="cv" id="volume-24h">$1.58B</div>
+      <div class="cs" id="pct-30d" style="color:#10b981">30d +7.78%</div>
+    </div>
+  </div>
+  <div class="g2">
+    <div class="card">
+      <div class="cl">ATH 대비 현재가</div>
+      <div style="display:flex;justify-content:space-between;align-items:center">
+        <div class="cv">$3.6500 <span style="font-size:13px;color:var(--muted)">ATH</span></div>
+        <div style="color:var(--muted);font-size:12px">38.9%</div>
+      </div>
+      <div class="bar6"><div class="bar6-fill" style="width:38.9%;background:var(--green)"></div></div>
+      <div class="cs" style="margin-top:6px">ATH 대비 38.9% / 회복까지 61.1% 남음</div>
+    </div>
+    <div class="card">
+      <div class="cl">유통 / 총 공급량</div>
+      <div style="display:flex;justify-content:space-between;align-items:center">
+        <div class="cv">61.8B XRP</div>
+        <div style="color:var(--muted);font-size:12px">61.8%</div>
+      </div>
+      <div class="bar"><div class="bar-fill" style="width:61.8%;background:linear-gradient(90deg,var(--accent),var(--accent2))"></div></div>
+      <div class="cs" style="margin-top:6px">총 100B XRP 중 유통 61.8%</div>
+    </div>
+  </div>
+
+  <!-- ② 뉴스 -->
+  <div class="news-box">
+    <div class="news-hdr">
+      <button class="tab-btn active">📰 XRP / Ripple 최신 뉴스</button>
+      <span class="news-meta"><span class="dot"></span><span id="news-updated">최신순 · 갱신 중...</span></span>
+    </div>
+    <div id="gen-list"><a class="ni" href="https://news.google.com/rss/articles/CBMihgFBVV95cUxPbzFJbmVOUjlOZVRKamxhb010VzJJS28xeFBUSFpoaC1sQzFqT2hJaHI3MVpCak00MjNzZGM1S3NRR2V2T3l4SkdBWTdBcWlTTDVKMHlVc3UtTmFEeU1OU0NIckpWTWQ1eUl0QkRQZlBBdElhTGJqRXk0Z0RnQ0JndW1PLUpHZw?oc=5" target="_blank" rel="noopener">
+          <span class="ntag latest">🔴 최신</span>
+          <span class="nt">Ripple (XRP) Price Prediction for May</span>
+          <span class="nsrc">24/7 Wall St.</span>
+        </a><a class="ni" href="https://news.google.com/rss/articles/CBMiogFBVV95cUxNczdDeUJtU3Q3MmxiRmh5VTNKb2ZCeFdtZTBHMk5YRTl4QVNVNDlvV1dReHFQTEFDNEFDTjZiX1h4eEJYNm5VX2xlRzBta2poNmx6XzNqSTdHcGtFOGx4S19iLWtuZzc0bXJCY256TWQzSWlQVnJCMEVoWmxJV1pES0hLWDdkbTlxamZtaFpfWFRUNmNQRlpTOEdON0MwOVRValE?oc=5" target="_blank" rel="noopener">
+          <span class="ntag">#2</span>
+          <span class="nt">XRP Is Losing Ground to USD and Crashing Against BTC: Ripple Price Analysis</span>
+          <span class="nsrc">CryptoPotato</span>
+        </a><a class="ni" href="https://news.google.com/rss/articles/CBMikAFBVV95cUxNUkI0RzluQTZEbTdueUotd0p3SGVHNFFncUtKbkh6SnJ5MnVqUU5HNkFKbkxkUi05QlpaQjZiQ1RabkFRWENHRkFDMkJ4MkFPS1JSeUo2bmVNNkpkcUxhcTV3SnZyYmRiXzBlMHdhWGRRc1dEMFF2WlB5cl9lcDRPMl9aM2JLQVNZLUt4TjFUTlQ?oc=5" target="_blank" rel="noopener">
+          <span class="ntag">#3</span>
+          <span class="nt">XRP Price To $2.80? Bullish Sentiment Reaches Record Highs Amid Ripple's Viral Las Vegas Ad Campaign</span>
+          <span class="nsrc">Yahoo Finance</span>
+        </a><a class="ni" href="https://news.google.com/rss/articles/CBMirAFBVV95cUxOd1NQYjZ5ZjVGdG9wZGM1djBxZ2tMc25GSjdiTXFaYXMtTkRVaFlwT3dKRW9IYncyYllMR05MTnFrclB0U3JNbXZtMTFyQkdMWm11bGp0T1A3S3F6d1JhT2JWc3F0NjJsRXNXTV8zeFphWDVrM2V5VW9iSnRaTjRaaWRwN0ZoTFJCNEtReDVUMkt1QkJmVXdJWXc1YWpwaW5pVjNUa0I5UFYyU1VG?oc=5" target="_blank" rel="noopener">
+          <span class="ntag">#4</span>
+          <span class="nt">Why is XRP Price $1.39 Despite the Bullish Las Vegas Billboards?</span>
+          <span class="nsrc">Disruption Banking</span>
+        </a><a class="ni" href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaUl6eU53SHZtLUw0OUx5UHYxREJMNVdjUkJudWtmS3dlbVpMNjNzRktlcUtZUTN3Wjd5am9kVldQbWFrZ0IySHQzckxTTUNQUFN2dTRhUWNSVWxtLW1OSnNHLWk3VW1vd2hmbFlfaUNqY1VTWHBHYV9pMXRPUjFaVUxVZi1qRk5sQ0NhN2ZON2tWMjNKNzduZTNEdWs3cE95dGo4SjhXS2g3U2RPZzMxUi01ZDdTNXhwOTZ5Y0tHRW10eHd0aXRBbXMtdGNZMjVaMmYyNkQ5OA?oc=5" target="_blank" rel="noopener">
+          <span class="ntag">#5</span>
+          <span class="nt">Ripple Exec Disappoints XRP Bulls: 'If $10,000 XRP Was Real, It Would Already Be $20'</span>
+          <span class="nsrc">Benzinga</span>
+        </a><a class="ni" href="https://news.google.com/rss/articles/CBMibEFVX3lxTFB2ekdpeDc2ZDlyYjhaVFNiR2FZWGR1SlZOTUdFa1Vzb0JLVFdlWkFrNVFRTDJ2Um5jV3BBN1ZVc2lEeFA3T2UxYzJPdHpla2wzcTBRdmRBR2otVWFnY29ETV96MGs3OGpzYmJjSg?oc=5" target="_blank" rel="noopener">
+          <span class="ntag">#6</span>
+          <span class="nt">XRP Price Prediction: Daily, Weekly 2026 – 2040</span>
+          <span class="nsrc">CoinDCX</span>
+        </a><a class="ni" href="https://news.google.com/rss/articles/CBMia0FVX3lxTFBvd0NmZ1h0dmRITG1wN2NHYV9tZnpRQndkZ0pYcXV2eklkQk40eFllN3FoNEFCdmJfQk5tV1pBOW5CNnRLUWQzbGk2WlNXRU81UjFIRmd6cllVQnJJX1VYS1ZBUWNlS1didEZV?oc=5" target="_blank" rel="noopener">
+          <span class="ntag">#7</span>
+          <span class="nt">XRP Price Analysis: Buy Now or Wait for Ripple to Fall Below $1?</span>
+          <span class="nsrc">Cryptonews</span>
+        </a><a class="ni" href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxPLS00R2U0cS1aU2Nja0pIYVdhX3R2WTZmM0J5eVNOR3B5RU9GakttMWFqM2o5ZnZWZGs2ZFNuS2wyV1BvWmoyek9WQkxNRVo3OHJLbFJubGNFUjkzd21uX3RfcWRpckdIa3lrQV9VMURXMjdiZzFYVFNVVHVicTVLS3Y4S19fTzJMZ2Z3aGJqQU9EVUQ2SmZQeUNZRHBVUlY4c043X182N21tZ18tclRtVG85ZTU1dFZjRi1pWlJzVk0tR0otZkxtOWFvT2k0WVR5cFpmRDdTOA?oc=5" target="_blank" rel="noopener">
+          <span class="ntag">#8</span>
+          <span class="nt">XRP Price Prediction as Ripple ETFs Score Best Month in 2026 and as CLARITY Act Odds Jump</span>
+          <span class="nsrc">BanklessTimes</span>
+        </a><a class="ni" href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxQREY4MWxCLWR5d3MySU1rRGJLd3IxcjVfa21ab3NuR3Z3UUpndjFQa1JfMHliVGNNbEp4bXpFT3pmSG8tZjVKMW85N2JvSWVqbTFuZGZNM1BPR0YxVEpsSkFSeTQzeG83bWN6c3c5aXNWVVVzTlNBR0VCWDcyeW5MdzYzWUY4QXRi?oc=5" target="_blank" rel="noopener">
+          <span class="ntag">#9</span>
+          <span class="nt">Prediction: XRP (Ripple) Will Hit This Price in 2026</span>
+          <span class="nsrc">The Motley Fool</span>
+        </a><a class="ni" href="https://news.google.com/rss/articles/CBMie0FVX3lxTE1WX2VUQ2N2RG02MFRpd3VJbFl5VWZXMGxUT0hoZVBHV2wyQ3NNaVJnUXJGR0p5UXZNYUZvWEJqejhmcDBQNjdXQUF6eUphSlF0TGExa3JmbzU1WjhCNWtNVWRPRFY2ZW1weDlVWGJrNW14SjZMVEg5UU9VNA?oc=5" target="_blank" rel="noopener">
+          <span class="ntag">#10</span>
+          <span class="nt">Ripple price prediction | CLARITY Act Progress, SEC Roundtable</span>
+          <span class="nsrc">Capital.com</span>
+        </a></div>
+  </div>
+
+  <!-- ③ 입법/규제 트래커 -->
+  <p class="st">입법 / 규제 트래커</p>
+  <div class="reg-grid">
+    <div class="reg-card">
+      <div class="reg-card-hdr">
+        <span class="reg-title">CLARITY Act</span>
+        <span class="status-badge" style="background:#f59e0b20;color:#f59e0b;border:1px solid #f59e0b40">상원 진행 중</span>
+      </div>
+      <div class="reg-body">
+        <p class="reg-desc">디지털 자산 증권/상품 분류 기준 명확화 법안. 하원 통과 후 상원 심의 중. XRP 법적 지위에 직접 영향.</p>
+        <a class="reg-ni" href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV1FRYmJETDEzdHJfSm9CdjdpbDl6NlZLUXUwU0JaUWJtOURFN1BRYjM2emxiLTdmWlpwVnYzVHVxSDNNcHJ6MENnQnpuNDh0QXc0NThPY3pwN0xKNFRhajZqOFZDY3hrZktkUW5MOWtyc1ozakRBZzdHSjkwSnNvNjVqU3NJNHJic2RCRl93VEg5dTJCOXNEZFpLUkJrZmxoMXZ0bDBueHg?oc=5" target="_blank" rel="noopener">
+          <span class="rni-dot"></span>
+          <span class="rni-title">XRP Price: What Happens to XRP If the CLARITY Act Fails in May?</span>
+          <span class="rni-src">24/7 Wall St.</span>
+        </a><a class="reg-ni" href="https://news.google.com/rss/articles/CBMixAFBVV95cUxNVlFvVms4Mmw0WGdXWXNNbjlfNUVZcVo3YnAzYzBjcFJ1MG1ST0U4VmJIRnp4ZDh4MGp0RWl5dzVXMEZzekk1MmxWa2FZaGlzemVXbERSbzdjN3RVMldhdmNoTDhxdS1JQnQzbjRIQnRCZWFCLXNSaDlrMzBnT0k0WjNoVFJrTENMdkV4aE9ObWEwSmpjWGs0YW9WbjhLQ0ppRWxVTzlBblcydWtiYVh3bXNENm1FQU1QMVFkTjlHeEpVSDRa?oc=5" target="_blank" rel="noopener">
+          <span class="rni-dot"></span>
+          <span class="rni-title">Crypto industry backs CLARITY Act yield compromise, pushes Senate Banking for markup</span>
+          <span class="rni-src">CoinDesk</span>
+        </a><a class="reg-ni" href="https://news.google.com/rss/articles/CBMiogFBVV95cUxPV3dvV3hZVlJhVTFvdW9xV1UwbnNFZG1IcjctTDA1eTNuLVdpMnZXOHVXTWJGZXFzc3gzUGNtX1ZkS3lRcUVZa3duM3FSeFdkcUl4YTl0VGtiR3k4OVE1ZzVieW9qQ29JbkwtRF81VVlyLXpUUE9yZUF4ZE1JQmxHSFNMd0xGNDJBWXpnaEY1X09VcDI1ZE0yUjRyQjJ4WnhSNWc?oc=5" target="_blank" rel="noopener">
+          <span class="rni-dot"></span>
+          <span class="rni-title">CLARITY Act expected to reach President’s desk this summer, says Tim Scott</span>
+          <span class="rni-src">Crypto Briefing</span>
+        </a><a class="reg-ni" href="https://news.google.com/rss/articles/CBMimgFBVV95cUxPSEVveS0xbFozb2tXYk9NOWhybzRTZ1hYMmFqQXVqUTdQb2lxdm16TjJYc1JYSDlOdTZGdU9SRU9XeWJOSE1hS2RQdzJDWVhsQXVvbW1fMmRJS29fNUt3SEh6azRVdFAxbUpxVk9nX0w5ZjJyMkFEWWppazJ4OTZfWEZObzkySEFXOGo3RWhCZEkzUV93OHJkQ1h3?oc=5" target="_blank" rel="noopener">
+          <span class="rni-dot"></span>
+          <span class="rni-title">Legal Team Behind XRP Court Win Predicts Clarity Act Won’t Pass Congress</span>
+          <span class="rni-src">DailyCoin</span>
+        </a>
+      </div>
+    </div>
+    <div class="reg-card">
+      <div class="reg-card-hdr">
+        <span class="reg-title">GENIUS Act</span>
+        <span class="status-badge" style="background:#10b98120;color:#10b981;border:1px solid #10b98140">상원 통과</span>
+      </div>
+      <div class="reg-body">
+        <p class="reg-desc">스테이블코인 발행 규제 프레임워크 법안. RLUSD 규제 적합성에 직접 영향. 하원 심의 중.</p>
+        <a class="reg-ni" href="https://news.google.com/rss/articles/CBMimAFBVV95cUxOaWM1MmtLUlJtUHdqOGhhOWlmbC01RVpNeEJNMFc2RlBsS1E0bmRTZWJhamdpQlZ5N3lWMTVFa1dsdVNZQUd2aEt1clJfeDRuckdvMTBlLWx4Sl85VU5KYThCRHBYS1k2TWRaR21BOWNtU2F1QzN4VzlaNk8wN0NLTHNkX0lzX1AwSUoxMEpMNllKY2JJa0ZXVw?oc=5" target="_blank" rel="noopener">
+          <span class="rni-dot"></span>
+          <span class="rni-title">Public comment to OCC on implementation of the GENIUS Act</span>
+          <span class="rni-src">Brookings</span>
+        </a><a class="reg-ni" href="https://news.google.com/rss/articles/CBMiakFVX3lxTE1COEVaLWN2M3BCRExoY2JBN21HREoxRU9GQmtUTndUQTJfY1V3NEVJR1ZOakVDOTl1RDB0RjV1SUs3d2l3S0RfOWgwdmlQS3c2UWJUS196ei0yX3R2ZXc5REFKcS1UcGhnd0E?oc=5" target="_blank" rel="noopener">
+          <span class="rni-dot"></span>
+          <span class="rni-title">GENIUS Act secures dollar dominance via stablecoins</span>
+          <span class="rni-src">GIS Reports</span>
+        </a><a class="reg-ni" href="https://news.google.com/rss/articles/CBMimgFBVV95cUxNYm1neko4dDRZSzFkTkhFdGU4YTFJeXdMTEhuWW1PdVBXcXhsYjJ5STNWY2V4Zk12Q3dCcXhBRG5QTFJpYjBmU25mbFlkX0EzTGRHdjl0R1dIMXdBTDJTaGthQkJvT0s1VXprbGZ5RXp5UUlPRG1zQTAxS0xrQUhvb1ItTEpqVWNEbjk5X090NnpUZ1hyUnNDQ3ZR0gGfAUFVX3lxTE5sQU43dy11bkZTSFlUdkpWMUtRakFzOFdsU1hfMmxILTZ2THdfNmtCT3ZFUkxILTd4Y0xGSGJYdWxva3pvNXo0aVkyM0tGcTQ0dTdVOVpMa2VPUGllMGhxQlBQbWJKdGVmdW9uZ1RpbG9aVll1NjVCWFJsbnVCWk5CMUVhZnhDVTFXdndFcnY1UWpndlJwR1ZpRDFNejV3VQ?oc=5" target="_blank" rel="noopener">
+          <span class="rni-dot"></span>
+          <span class="rni-title">GENIUS Act stand-off: Phantom, Consensys oppose OCC’s stablecoin yield ban</span>
+          <span class="rni-src">AMBCrypto</span>
+        </a><a class="reg-ni" href="https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ0ZfLU5KVW5PbFdhUzVWMGpHOW84bjZfS2gzb1B0aVpXeUluempxcUF6cGRTYndwcER4ZkIxc3BfZmszbEVJNUxxTm9oMFZmOUI5NVY4NndVQ09WZnFvR19JNWNiWmFQVkpkYVl3Qi1vMXptX0ExeVhELTJhVmJpY29MZThCM1RvMVYwTkotcEJKSzZnbGJBY3RQQlJYWWR2ZVJyOUVkZHc0YW83N0FFY1dUMk5xU0FUOGR2eEF3?oc=5" target="_blank" rel="noopener">
+          <span class="rni-dot"></span>
+          <span class="rni-title">Tillis-Alsobrooks Reach Compromise On Stablecoin Yield In Clarity Act</span>
+          <span class="rni-src">Forbes</span>
+        </a>
+      </div>
+    </div>
+    <div class="reg-card">
+      <div class="reg-card-hdr">
+        <span class="reg-title">SEC / CFTC 동향</span>
+        <span class="status-badge" style="background:#10b98120;color:#10b981;border:1px solid #10b98140">XRP 상품 확인</span>
+      </div>
+      <div class="reg-body">
+        <p class="reg-desc">SEC 2026년 가이던스에서 XRP를 디지털 상품으로 재확인. 소송 종결 후 제도권 편입 가속화 국면.</p>
+        <a class="reg-ni" href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Gd2JrMlN5aTJwMDlOS3haWnBwVUZqcFM2RnVieEVDMWlxMnVwM2dRc2cwalB1QW80ZlEzaEJhcThlZko3cUJpWHVSMjVhRm44T01SRG9YbEx2RFE?oc=5" target="_blank" rel="noopener">
+          <span class="rni-dot"></span>
+          <span class="rni-title">After 5 Years, XRP Holders Breathe Free: The Lawsuit Is Over</span>
+          <span class="rni-src">Phemex</span>
+        </a><a class="reg-ni" href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcVgyVmZtSXVtSzJRU1NHQWphNDhZY1Y0RmRqcmZOT0JEQTJCOFpOLUIwY2FDZVBac1RKZ1lUb1dtLWVyNk80bGdja2RrMXMyTVVtY3lWQ3pFTDVnaER5VEVwdlNlbUdyNzRXSkJHT2VNeElYZU1BYWRMSGNnb3luZkNWMlVhWmhYSW9vbkctbUVUdHVYOXc4QWRFOHdLbkpTQzBIem5WOWo?oc=5" target="_blank" rel="noopener">
+          <span class="rni-dot"></span>
+          <span class="rni-title">SEC Names Bitcoin, Ether, Solana and 13 More Crypto Assets Digital Commodities — Not Securities</span>
+          <span class="rni-src">FinTech Weekly</span>
+        </a><a class="reg-ni" href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZThlckJyNElzcnpRMXBwaGM4UWdPQW1fNkdQamlTSW9pdTFvSnRPdlk1dHhJRWxrVGN4Q0VnLWsybGxJV1lIeGVpT0gzMHk4dWhJQVNLLV9TdXhhZnpzc0lwRFJjWkFISnQzaGs4T081WGotbWM0VFNYQ3RpdVZ5c0FMdWcxbU5CdWQ3OEw2MUwwNUpJM1hLdkN2NV9HX1FLWU1aV0ZOT2ZES0pzYjRtZUY0LUlubEtUcG5xTmxDbmVUaTgwN2szYUtZZm9feE9faGJKMg?oc=5" target="_blank" rel="noopener">
+          <span class="rni-dot"></span>
+          <span class="rni-title">SEC Issues Interpretive Framework for Crypto Asset Classification (FCTM)</span>
+          <span class="rni-src">Lowenstein Sandler LLP</span>
+        </a><a class="reg-ni" href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaE91WENfZmNlUjJST1hQYTl3S0czMm1hcjZtU3dNZll1blBDbkZYdnp5Z2FRTGdhME5XTDVGY25aaFJlclhRQ3FJXzh3YldaTkgzMlMxamc0UUxaSzhmTXdxNTdQb2JNYUdfT0NySGNZbk5FeGx3SFNFSzZHWkI2WHJ6b0NsdkZoTnVwUWdhaHFBMU9VUldhZXRNT3A5eHBnaU1NNVB0RGJKZTJEQ01lV2dwZ3FhZmpJdjhlYXZkdTFDdFdTMUF2bGl6eXMwNXlwWkFfZEZPNA?oc=5" target="_blank" rel="noopener">
+          <span class="rni-dot"></span>
+          <span class="rni-title">SEC CFTC Crypto Commodity List 2026: All 16 Digital Assets Named and What It Means</span>
+          <span class="rni-src">TradingView</span>
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <!-- ④ 기관 자금 흐름 -->
+  <p class="st">기관 자금 흐름</p>
+  <div class="inst-grid">
+    <div class="inst-card">
+      <div class="ic-label">RLUSD 시가총액</div>
+      <div class="ic-value" style="color:var(--accent)">$1.57B</div>
+      <div class="ic-sub">Ripple 스테이블코인 · ODL 연동</div>
+    </div>
+    <div class="inst-card">
+      <div class="ic-label">XRPL 일별 트랜잭션</div>
+      <div class="ic-value" style="color:var(--green)">0</div>
+      <div class="ic-sub">7일 평균 0건</div>
+    </div>
+    <div class="inst-card">
+      <div class="ic-label">XRP 현물 ETF</div>
+      <div class="ic-value" style="color:var(--purple)">6개 승인</div>
+      <div class="ic-sub">SEC 승인 완료 · 자금 유입 모니터링</div>
+    </div>
+  </div>
+  <div class="etf-box">
+    <div class="etf-hdr">기관 / ETF 관련 최신 동향</div>
+    <a class="reg-ni" href="https://news.google.com/rss/articles/CBMieEFVX3lxTE56bFhRZWJsRHBDaFlYRlU0LWFudkt6MFItaXFWekFuQ3RRdUI3Rk9ia0xXRFNfTVBMY2tBcUpMSU1RelVuWWIyQ25lYnBmcy1GbnhPSnBoRGF3TEZEUVE5dGdCQmhDS0c2cmkzcE1RQWxYOTB2RWgxdQ?oc=5" target="_blank" rel="noopener">
+          <span class="rni-dot"></span>
+          <span class="rni-title">XRP ETFs: The Institutional Era Has Begun</span>
+          <span class="rni-src">ripple.com</span>
+        </a><a class="reg-ni" href="https://news.google.com/rss/articles/CBMisgFBVV95cUxOU3RfNWNUcklna082R3ctNVNXRU1idTVZU2FjSFJoamxycTl4SnNTLTFudzd5R0VvODN1TjVWQl9JeHZHQTZCTzZ0LW5kYzMtVHpDZ2JWWXJsQlZtTDVkWHZsNnB4T1VfM2pzaGRyZ0lvX19tMGtDOUotcGdubll5ZkdZQjc5Nm9Uc0ZKc0VORVpKdUVHVmFhMEdkOXhub09yV0pDbHJ4ZFFneWdycXR5d01B0gG3AUFVX3lxTE5XWXhZX2I1c1BabkkxNmxRVWJPTExzb3VIdU9Ca3JNanRkQlhnR2NyZkNUM0JXX3dZWEtiaUtoMFJWMEFvOHhOMHpnQ0ZfdEhKX3pIeUJCRV9ub1hmaUJhMlV0cVh6S3A0aDBOSFc4WElYRVFqTDlNbFlqUzZ4MkVWMGVlbWZaakg2OGh0VTE0OFJMVTYzZkRQYVF2czljX052YmpudDgwMm1JdDJZNXBwV25jSG56QQ?oc=5" target="_blank" rel="noopener">
+          <span class="rni-dot"></span>
+          <span class="rni-title">XRP ETF News: April Sees Record Inflows as Institutional Demand Accelerates</span>
+          <span class="rni-src">Coinpedia</span>
+        </a><a class="reg-ni" href="https://news.google.com/rss/articles/CBMipAFBVV95cUxNN2hFdXQ3RG1JbEJjUlB1OTJqOFQta2NDbExQTFU5WHJYNDVwR0ZDSTVaZklUQjM2NmtsanlCdl9zYjBuQTRJZ3IzT2F3WWRBbzFmXzBLOXZOMXp6YmF2dFBKMzdVLThyVUd4VU1YTlZ2bnA3VWtqN0VQVm85VVRYaUlXWUZPb201OGdPekJVY2JGLW10NWRsM29vdkVaNEJrVXBCaQ?oc=5" target="_blank" rel="noopener">
+          <span class="rni-dot"></span>
+          <span class="rni-title">XRP ETF Inflows at $83M Raise Questions About Price Upside</span>
+          <span class="rni-src">Investing.com</span>
+        </a><a class="reg-ni" href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdG1vb0MwVDNSa3hLZHBHVjYydVNvY2pXTTctNlVIVzctb0x2NTBCMEVjbGczTWZWdWllbDdKNGx0b241V2pfYmpkRTZjdWxjSUFaMWNLNjNxS2VrUG91c2NVM3VJZVByc3V1LWZ0ZTFNM2pHeGRQTmFsWUxfTW56YTV2dTVnZEpOMlBSaXNjanZDdExvVWxQNEZOWF83WVNWWmtjOVNtdkw?oc=5" target="_blank" rel="noopener">
+          <span class="rni-dot"></span>
+          <span class="rni-title">XRP ETFs post $83.9M April inflows as price hits $1.40</span>
+          <span class="rni-src">MSN</span>
+        </a>
+  </div>
+
+  <!-- 차트 -->
+  <p class="st">가격 & 기술 지표 차트 (60일)</p>
+  <div class="cc"><div class="ct">가격 / MA7 / MA25 / 볼린저밴드</div><div class="cwl"><canvas id="priceChart"></canvas></div></div>
+  <div class="g2">
+    <div class="cc"><div class="ct">RSI-14</div><div class="cw"><canvas id="rsiChart"></canvas></div></div>
+    <div class="cc"><div class="ct">MACD (12-26-9)</div><div class="cw"><canvas id="macdChart"></canvas></div></div>
+  </div>
+  <div class="cc"><div class="ct">거래량 (백만 USD)</div><div class="cw"><canvas id="volChart"></canvas></div></div>
+
+  <!-- 시그널 -->
+  <p class="st">기술적 지표 시그널</p>
+  <div class="sg"><div class="signal-card">
+          <div class="signal-top"><span class="signal-name">MA 크로스</span><span class="badge" style="background:#f8717120;color:#f87171;border:1px solid #f8717150">매도</span></div>
+          <p class="signal-detail">MA7($1.3857) < MA25($1.4014) 유지</p>
+        </div><div class="signal-card">
+          <div class="signal-top"><span class="signal-name">RSI</span><span class="badge" style="background:#94a3b820;color:#94a3b8;border:1px solid #94a3b850">중립</span></div>
+          <p class="signal-detail">RSI 54.6 — 중립 구간</p>
+        </div><div class="signal-card">
+          <div class="signal-top"><span class="signal-name">볼린저밴드</span><span class="badge" style="background:#94a3b820;color:#94a3b8;border:1px solid #94a3b850">중립</span></div>
+          <p class="signal-detail">밴드 내 위치 55%</p>
+        </div><div class="signal-card">
+          <div class="signal-top"><span class="signal-name">MACD</span><span class="badge" style="background:#f8717120;color:#f87171;border:1px solid #f8717150">매도</span></div>
+          <p class="signal-detail">MACD < Signal 유지</p>
+        </div><div class="signal-card">
+          <div class="signal-top"><span class="signal-name">거래량</span><span class="badge" style="background:#94a3b820;color:#94a3b8;border:1px solid #94a3b850">중립</span></div>
+          <p class="signal-detail">7일 평균 1.0배 — 평이한 수준</p>
+        </div></div>
+
+  <!-- 시장 심리 -->
+  <p class="st">시장 심리 지표</p>
+  <div class="g2">
+    <div class="card">
+      <div class="cl">공포-탐욕 지수 (7일)</div>
+      <div class="fgw">
+        <div>
+          <div class="fgv" style="color:#f59e0b">40</div>
+          <div class="fgl">Fear</div>
+        </div>
+        <div class="fgb">
+          <div style="display:flex;justify-content:space-between;font-size:10px;color:var(--muted);margin-bottom:4px">
+            <span>공포(0)</span><span>중립(50)</span><span>탐욕(100)</span>
+          </div>
+          <div class="bar6"><div class="bar6-fill" style="width:40%;background:#f59e0b"></div></div>
+          <div style="position:relative;height:90px;margin-top:12px"><canvas id="fgChart"></canvas></div>
+        </div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="cl">커뮤니티 센티멘트</div>
+      <div style="margin-top:12px">
+        <div style="display:flex;justify-content:space-between;font-size:12px;margin-bottom:6px">
+          <span style="color:var(--green)">▲ 긍정 89.7%</span>
+          <span style="color:var(--red)">▼ 부정 10.3%</span>
+        </div>
+        <div style="height:8px;background:var(--border);border-radius:4px;overflow:hidden">
+          <div style="width:89.7%;height:100%;background:linear-gradient(90deg,var(--green),#34d399);border-radius:4px"></div>
+        </div>
+        <div style="margin-top:16px;display:grid;grid-template-columns:1fr 1fr;gap:12px">
+          <div>
+            <div style="font-size:10px;color:var(--muted);letter-spacing:1px">TWITTER FOLLOWERS</div>
+            <div style="font-size:18px;font-weight:700;margin-top:4px">0</div>
+          </div>
+          <div>
+            <div style="font-size:10px;color:var(--muted);letter-spacing:1px">REDDIT SUBSCRIBERS</div>
+            <div style="font-size:18px;font-weight:700;margin-top:4px">0</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="disc">
+    <strong style="color:var(--yellow)">⚠ 면책 고지</strong><br>
+    본 리포트는 기술적 지표 기반 자동 분석 자료로, 투자 권유가 아닙니다. 입법/규제 정보는 공개 뉴스 기반이며 법적 효력이 없습니다. 암호화폐 투자는 원금 손실 위험이 있으며, 모든 투자 결정은 본인의 판단과 책임 하에 이루어져야 합니다.
+  </div>
+</div>
+
+<script>
+function switchTab(id,btn){
+  document.querySelectorAll('.tab-pane').forEach(p=>p.classList.remove('active'));
+  document.querySelectorAll('.tab-btn').forEach(b=>b.classList.remove('active'));
+  document.getElementById('tab-'+id).classList.add('active');
+  btn.classList.add('active');
+}
+
+Chart.defaults.color='#64748b';Chart.defaults.borderColor='#1e2d42';
+Chart.defaults.font.family="'JetBrains Mono',monospace";Chart.defaults.font.size=10;
+
+const L=["03/07", "03/08", "03/09", "03/10", "03/11", "03/12", "03/13", "03/14", "03/15", "03/16", "03/17", "03/18", "03/19", "03/20", "03/21", "03/22", "03/23", "03/24", "03/25", "03/26", "03/27", "03/28", "03/29", "03/30", "03/31", "04/01", "04/02", "04/03", "04/04", "04/05", "04/06", "04/07", "04/08", "04/09", "04/10", "04/11", "04/12", "04/13", "04/14", "04/15", "04/16", "04/17", "04/18", "04/19", "04/20", "04/21", "04/22", "04/23", "04/24", "04/25", "04/26", "04/27", "04/28", "04/29", "04/30", "05/01", "05/02", "05/03", "05/04", "05/04"],P=[1.36372, 1.35647, 1.34221, 1.36209, 1.38594, 1.38529, 1.38569, 1.39849, 1.40604, 1.44714, 1.54455, 1.51881, 1.46356, 1.44691, 1.44551, 1.41265, 1.38568, 1.43121, 1.41496, 1.41335, 1.35991, 1.32419, 1.33228, 1.32692, 1.32224, 1.33961, 1.34819, 1.31913, 1.31776, 1.31495, 1.32461, 1.32085, 1.37952, 1.34271, 1.34403, 1.35609, 1.35533, 1.32498, 1.37627, 1.36216, 1.39192, 1.45288, 1.47719, 1.43269, 1.39379, 1.42491, 1.43079, 1.4295, 1.43926, 1.43366, 1.42417, 1.43059, 1.39992, 1.38063, 1.36893, 1.36721, 1.38389, 1.39312, 1.38782, 1.41853],M7=[1.38315, 1.37988, 1.37865, 1.37419, 1.37775, 1.37129, 1.36877, 1.37374, 1.38082, 1.39581, 1.42188, 1.44086, 1.45204, 1.46079, 1.4675, 1.46845, 1.45967, 1.44348, 1.42864, 1.42147, 1.40904, 1.39171, 1.38023, 1.37183, 1.35627, 1.3455, 1.33619, 1.33037, 1.32945, 1.32697, 1.32664, 1.32644, 1.33214, 1.33136, 1.33492, 1.34039, 1.34616, 1.34622, 1.35414, 1.35165, 1.35868, 1.37423, 1.39153, 1.40258, 1.41241, 1.41936, 1.42917, 1.43454, 1.43259, 1.42637, 1.42515, 1.43041, 1.42684, 1.41968, 1.41102, 1.40073, 1.39362, 1.38918, 1.38307, 1.38573],M25=[1.4052, 1.40347, 1.40245, 1.40248, 1.40168, 1.39673, 1.39322, 1.38964, 1.38689, 1.388, 1.39351, 1.39711, 1.39836, 1.40062, 1.40436, 1.4069, 1.40508, 1.40624, 1.40861, 1.40997, 1.41033, 1.40757, 1.40642, 1.40228, 1.39903, 1.39807, 1.39774, 1.39681, 1.39504, 1.3922, 1.38977, 1.38718, 1.38642, 1.38389, 1.37976, 1.37223, 1.36569, 1.36014, 1.35732, 1.35398, 1.35315, 1.35584, 1.35768, 1.35839, 1.35761, 1.36021, 1.36447, 1.36836, 1.37286, 1.37731, 1.38069, 1.38399, 1.38722, 1.38974, 1.3919, 1.3936, 1.39612, 1.39667, 1.39847, 1.40145];
+const BU=[1.49044, 1.48059, 1.46537, 1.44939, 1.44568, 1.44367, 1.43761, 1.43128, 1.43323, 1.44417, 1.48532, 1.50442, 1.51141, 1.5155, 1.51938, 1.51894, 1.5189, 1.5199, 1.51889, 1.51925, 1.51947, 1.52259, 1.52355, 1.52625, 1.52941, 1.53062, 1.53114, 1.53274, 1.53329, 1.52896, 1.49993, 1.47286, 1.45882, 1.44554, 1.4304, 1.42242, 1.41906, 1.40283, 1.3931, 1.3794, 1.38662, 1.41437, 1.44273, 1.45349, 1.45644, 1.46382, 1.47142, 1.4768, 1.48231, 1.48506, 1.48605, 1.48589, 1.48636, 1.48438, 1.48253, 1.48179, 1.48036, 1.47359, 1.4731, 1.47175],BL=[1.3182, 1.31633, 1.31699, 1.32169, 1.32204, 1.32191, 1.32367, 1.32662, 1.32623, 1.3248, 1.30318, 1.29284, 1.29198, 1.29702, 1.29976, 1.30639, 1.30566, 1.31168, 1.31113, 1.31178, 1.31117, 1.30482, 1.30287, 1.29665, 1.28713, 1.28135, 1.27708, 1.26754, 1.25817, 1.24928, 1.25631, 1.26359, 1.26922, 1.27208, 1.27708, 1.2794, 1.27972, 1.28533, 1.2912, 1.29977, 1.29576, 1.28087, 1.26701, 1.26682, 1.27103, 1.27217, 1.27284, 1.27849, 1.28513, 1.29426, 1.30322, 1.31436, 1.31593, 1.3217, 1.32604, 1.32789, 1.33218, 1.34576, 1.3474, 1.35439],RI=[38.68, 38.17, 37.14, 39.58, 42.47, 42.41, 42.47, 44.25, 45.32, 50.88, 60.99, 57.62, 51.08, 49.27, 49.11, 45.43, 42.61, 48.43, 46.61, 46.43, 40.63, 37.28, 38.52, 37.98, 37.5, 40.55, 42.06, 38.5, 38.33, 37.97, 40.05, 39.5, 50.93, 45.16, 45.4, 47.64, 47.51, 42.44, 51.8, 49.42, 54.2, 62.11, 64.72, 56.97, 51.2, 55.12, 55.84, 55.63, 56.95, 55.92, 54.13, 55.18, 49.38, 46.1, 44.18, 43.89, 47.48, 49.41, 48.31, 54.6];
+const MD=[-0.023055, -0.024056, -0.025704, -0.025117, -0.022467, -0.020188, -0.01814, -0.015308, -0.012312, -0.006545, 0.005818, 0.013384, 0.014753, 0.014328, 0.01372, 0.010467, 0.005646, 0.005438, 0.003917, 0.002551, -0.00281, -0.009828, -0.01457, -0.018546, -0.021823, -0.022756, -0.022544, -0.024439, -0.025754, -0.026716, -0.026394, -0.026141, -0.020964, -0.019606, -0.018213, -0.015951, -0.014059, -0.014837, -0.011186, -0.009324, -0.005385, 0.002626, 0.010811, 0.013551, 0.012441, 0.013911, 0.015374, 0.016242, 0.017515, 0.017866, 0.01718, 0.01696, 0.014147, 0.010243, 0.006135, 0.002709, 0.001324, 0.00096, 0.000242, 0.002126],MS=[-0.027181, -0.026556, -0.026385, -0.026132, -0.025399, -0.024357, -0.023113, -0.021552, -0.019704, -0.017072, -0.012494, -0.007319, -0.002904, 0.000542, 0.003178, 0.004635, 0.004838, 0.004958, 0.00475, 0.00431, 0.002886, 0.000343, -0.002639, -0.005821, -0.009021, -0.011768, -0.013923, -0.016026, -0.017972, -0.019721, -0.021055, -0.022072, -0.021851, -0.021402, -0.020764, -0.019801, -0.018653, -0.01789, -0.016549, -0.015104, -0.01316, -0.010003, -0.00584, -0.001962, 0.000918, 0.003517, 0.005888, 0.007959, 0.00987, 0.011469, 0.012612, 0.013481, 0.013614, 0.01294, 0.011579, 0.009805, 0.008109, 0.006679, 0.005392, 0.004739],MH=[0.004126, 0.0025, 0.000682, 0.001015, 0.002931, 0.004169, 0.004973, 0.006245, 0.007392, 0.010527, 0.018312, 0.020703, 0.017657, 0.013786, 0.010542, 0.005831, 0.000809, 0.00048, -0.000833, -0.001759, -0.005696, -0.010171, -0.01193, -0.012725, -0.012802, -0.010988, -0.00862, -0.008412, -0.007782, -0.006995, -0.005339, -0.004069, 0.000887, 0.001796, 0.002551, 0.00385, 0.004594, 0.003052, 0.005363, 0.00578, 0.007775, 0.012629, 0.016651, 0.015513, 0.011522, 0.010394, 0.009486, 0.008283, 0.007645, 0.006397, 0.004569, 0.003479, 0.000533, -0.002697, -0.005444, -0.007096, -0.006785, -0.005719, -0.00515, -0.002612];
+const VD=[2304.98, 1042.57, 1770.54, 2706.87, 3336.5, 2328.02, 1901.86, 3377.25, 1211.61, 1990.57, 4188.14, 4451.99, 2914.17, 2614.49, 1850.8, 1181.99, 1917.06, 3597.48, 2134.21, 1907.97, 2543.07, 2474.31, 1218.52, 1350.5, 1857.99, 2010.45, 1907.71, 2547.69, 1366.93, 922.3, 1493.54, 2022.86, 2344.35, 2578.62, 2507.11, 2110.56, 1568.09, 1736.31, 2573.45, 2586.0, 2861.26, 4183.5, 4002.17, 2437.01, 2768.86, 2836.2, 2488.64, 2444.29, 2516.65, 2084.16, 1023.1, 1218.52, 2164.56, 1693.21, 2200.54, 1613.33, 1733.47, 1179.97, 1015.51, 1581.24],FV=[33, 26, 29, 26, 39, 47, 40],FL=["D-6", "D-5", "D-4", "D-3", "D-2", "D-1", "\uc624\ub298"];
+
+const base={responsive:true,maintainAspectRatio:false,
+  plugins:{legend:{display:true,position:'top',labels:{boxWidth:10,padding:12}},tooltip:{mode:'index',intersect:false}},
+  scales:{x:{grid:{color:'#1e2d4240'},ticks:{maxTicksLimit:8}},y:{grid:{color:'#1e2d4240'},position:'right'}},
+  elements:{point:{radius:0},line:{tension:0.3}}};
+
+new Chart(document.getElementById('priceChart'),{type:'line',data:{labels:L,datasets:[
+  {label:'Price',data:P,borderColor:'#00d4ff',borderWidth:2,backgroundColor:'transparent'},
+  {label:'MA7',data:M7,borderColor:'#f59e0b',borderWidth:1.5,borderDash:[4,2],backgroundColor:'transparent'},
+  {label:'MA25',data:M25,borderColor:'#a78bfa',borderWidth:1.5,borderDash:[6,3],backgroundColor:'transparent'},
+  {label:'BB↑',data:BU,borderColor:'#ef444430',borderWidth:1,backgroundColor:'#ef44440a',fill:false},
+  {label:'BB↓',data:BL,borderColor:'#10b98130',borderWidth:1,backgroundColor:'#10b9810a',fill:'-1'},
+]},options:base});
+
+new Chart(document.getElementById('rsiChart'),{type:'line',data:{labels:L,datasets:[
+  {label:'RSI',data:RI,borderColor:'#a78bfa',borderWidth:1.5,backgroundColor:'transparent'}
+]},options:{...base,scales:{x:base.scales.x,y:{...base.scales.y,min:0,max:100,ticks:{stepSize:20}}}}});
+
+new Chart(document.getElementById('macdChart'),{type:'bar',data:{labels:L,datasets:[
+  {label:'Hist',data:MH,backgroundColor:MH.map(v=>v>=0?'#10b98160':'#ef444460'),type:'bar'},
+  {label:'MACD',data:MD,borderColor:'#00d4ff',borderWidth:1.5,backgroundColor:'transparent',type:'line'},
+  {label:'Sig',data:MS,borderColor:'#f59e0b',borderWidth:1.5,borderDash:[4,2],backgroundColor:'transparent',type:'line'},
+]},options:base});
+
+new Chart(document.getElementById('volChart'),{type:'bar',data:{labels:L,datasets:[
+  {label:'Vol(M$)',data:VD,backgroundColor:'#00d4ff25',borderColor:'#00d4ff50',borderWidth:1}
+]},options:{...base,plugins:{...base.plugins,legend:{display:false}}}});
+
+new Chart(document.getElementById('fgChart'),{type:'line',data:{labels:FL,datasets:[
+  {label:'F&G',data:FV,borderColor:'#f59e0b',backgroundColor:'#f59e0b15',borderWidth:2,fill:true}
+]},options:{responsive:true,maintainAspectRatio:false,
+  plugins:{legend:{display:false},tooltip:{mode:'index',intersect:false}},
+  scales:{x:{grid:{color:'#1e2d4240'}},y:{grid:{color:'#1e2d4240'},min:0,max:100,position:'right'}},
+  elements:{point:{radius:3},line:{tension:0.4}}}});
+
+// 실시간 가격 갱신 (30초)
+function fL(v){return v>=1e9?'$'+(v/1e9).toFixed(2)+'B':v>=1e6?'$'+(v/1e6).toFixed(2)+'M':'$'+v.toFixed(2)}
+function fP(v){return(v>=0?'+':'')+v.toFixed(2)+'%'}
+function pC(v){return v>=0?'#10b981':'#ef4444'}
+
+async function updatePrice(){
+  try{
+    const r=await fetch('https://api.coingecko.com/api/v3/coins/ripple?localization=false&tickers=false&community_data=false&developer_data=false');
+    if(!r.ok)throw new Error();
+    const md=(await r.json()).market_data;
+    document.getElementById('price-usd').textContent='$'+md.current_price.usd.toFixed(4);
+    document.getElementById('price-krw').textContent='₩'+md.current_price.krw.toLocaleString();
+    document.getElementById('market-cap').textContent=fL(md.market_cap.usd);
+    document.getElementById('volume-24h').textContent=fL(md.total_volume.usd);
+    const p24=document.getElementById('pct-24h');p24.textContent='24h '+fP(md.price_change_percentage_24h);p24.style.color=pC(md.price_change_percentage_24h);
+    const p7=document.getElementById('pct-7d');p7.textContent='7d '+fP(md.price_change_percentage_7d);p7.style.color=pC(md.price_change_percentage_7d);
+    const p30=document.getElementById('pct-30d');p30.textContent='30d '+fP(md.price_change_percentage_30d);p30.style.color=pC(md.price_change_percentage_30d);
+    const n=new Date();
+    document.getElementById('last-updated').textContent=n.getHours().toString().padStart(2,'0')+':'+n.getMinutes().toString().padStart(2,'0')+':'+n.getSeconds().toString().padStart(2,'0')+' 갱신';
+  }catch(e){document.getElementById('last-updated').textContent='갱신 실패';}
+}
+updatePrice();setInterval(updatePrice,30000);
+
+// 실시간 뉴스 갱신 (30분)
+const PROXY=url=>`https://api.allorigins.win/get?url=${encodeURIComponent(url)}`;
+const RSS_OFF='https://news.google.com/rss/search?q=Ripple+XRP+official&hl=en&gl=US&ceid=US:en';
+const RSS_GEN='https://news.google.com/rss/search?q=XRP+Ripple+price+news&hl=en&gl=US&ceid=US:en';
+const OFFICIAL_DOMAINS=['ripple.com','xrpl.org','ripplex'];
+
+function timeAgo(d){
+  const s=(Date.now()-new Date(d).getTime())/1000;
+  if(s<60)return '방금';if(s<3600)return Math.floor(s/60)+'분 전';
+  if(s<86400)return Math.floor(s/3600)+'시간 전';return Math.floor(s/86400)+'일 전';
+}
+
+function parseRSS(xml){
+  const doc=new DOMParser().parseFromString(xml,'text/xml');
+  return [...doc.querySelectorAll('item')].map(el=>{
+    const t=el.querySelector('title')?.textContent?.replace(/<[^>]+>/g,'').replace(/ - [^-]+$/,'').trim()||'';
+    const l=el.querySelector('link')?.textContent?.trim()||'#';
+    const d=el.querySelector('pubDate')?.textContent?.trim()||'';
+    const s=el.querySelector('source')?.textContent?.trim()||'';
+    return {title:t,url:l,date:d,source:s};
+  });
+}
+
+function renderNews(items,listId){
+  const el=document.getElementById(listId);if(!el)return;
+  items.sort((a,b)=>new Date(b.date)-new Date(a.date));
+  el.innerHTML=items.slice(0,10).map((n,i)=>
+    `<a class="ni" href="${n.url}" target="_blank" rel="noopener">
+      <span class="ntag${i===0?' latest':''}">${i===0?'🔴 최신':'#'+(i+1)}</span>
+      <span class="nt">${n.title}</span>
+      <span class="nsrc">${n.source}${n.date?' · '+timeAgo(n.date):''}</span>
+    </a>`
+  ).join('');
+}
+
+async function fetchNews(rssUrl,listId,filterFn){
+  try{
+    const r=await fetch(PROXY(rssUrl));if(!r.ok)return;
+    const xml=(await r.json()).contents;
+    if(!xml)return;
+    let items=parseRSS(xml);
+    if(filterFn){
+      const filtered=items.filter(filterFn);
+      items=filtered.length>=3?filtered:items;
+    }
+    if(items.length)renderNews(items,listId);
+  }catch(e){}
+}
+
+async function updateNews(){
+  await fetchNews(RSS_GEN,'gen-list',null);
+  const n=new Date();
+  document.getElementById('news-updated').textContent=
+    '최신순 · '+n.getHours().toString().padStart(2,'0')+':'+n.getMinutes().toString().padStart(2,'0')+' 갱신';
+}
+updateNews();setInterval(updateNews,30*60*1000);
+</script>
+</body>
+</html>
