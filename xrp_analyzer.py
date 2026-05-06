@@ -1690,9 +1690,10 @@ body::before{{content:'';position:fixed;inset:0;z-index:0;
 @keyframes pulse{{0%,100%{{opacity:1}}50%{{opacity:.3}}}}
 .dot{{display:inline-block;width:6px;height:6px;background:var(--green);border-radius:50%;margin-right:6px;animation:pulse 2s infinite}}
 /* ── PRO_RIPPLER Hero ── */
-.pro-nav{{display:flex;align-items:center;justify-content:space-between;
+.pro-nav{{display:flex;align-items:center;justify-content:space-between;gap:16px;
   padding:4px 4px 20px;background:transparent;margin-bottom:0;font-family:'Noto Sans KR',sans-serif}}
-.pro-logo-wrap{{display:flex;align-items:center;gap:10px}}
+.pro-logo-wrap{{display:flex;align-items:center;gap:10px;flex-shrink:0}}
+.pro-nav-center{{display:flex;align-items:center;justify-content:flex-start;flex:1;min-width:0}}
 .pro-logo-img{{width:44px;height:44px;object-fit:contain;display:block;flex-shrink:0}}
 .pro-logo-text{{font-family:'Noto Sans KR',sans-serif;font-size:22px;font-weight:900;
   color:#fff;letter-spacing:-0.5px;line-height:1.1}}
@@ -1713,7 +1714,7 @@ body::before{{content:'';position:fixed;inset:0;z-index:0;
 @media(max-width:640px){{.pro-hero{{grid-template-columns:1fr}}}}
 
 .hero-coin-float{{position:absolute;left:34.2%;bottom:38px;width:162px;height:162px;
-  transform:translate(0,0);opacity:.46;pointer-events:auto;cursor:grab;touch-action:none;z-index:1;
+  transform:translate(0,0);opacity:.46;pointer-events:auto;cursor:grab;touch-action:none;z-index:3;
   perspective:1100px;transform-style:preserve-3d;
   filter:drop-shadow(0 0 22px rgba(37,99,235,.18)) drop-shadow(0 10px 18px rgba(15,23,42,.08));
   transition:filter .2s ease,opacity .2s ease}}
@@ -1793,6 +1794,17 @@ body::before{{content:'';position:fixed;inset:0;z-index:0;
 .hm-value{{font-family:'Noto Sans KR',sans-serif;font-size:16px;font-weight:900;
   color:#06101d;white-space:nowrap}}
 .hm-pct{{font-size:12px;font-weight:700;white-space:nowrap}}
+
+.visitor-strip{{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin:-6px 0 18px}}
+.pro-nav .visitor-strip{{margin:0 0 0 16px;flex-wrap:nowrap;transform:translateY(1px)}}
+.visitor-pill{{display:flex;align-items:center;gap:8px;background:rgba(17,24,39,.72);border:1px solid var(--border);border-radius:8px;padding:8px 12px;box-shadow:0 8px 22px rgba(0,0,0,.12)}}
+.visitor-ico{{font-size:13px;line-height:1}}
+.visitor-label{{font-size:10px;color:#8aa0ba;letter-spacing:.08em;white-space:nowrap}}
+.visitor-value{{font-family:var(--mono);font-size:13px;font-weight:800;color:#e2e8f0;white-space:nowrap}}
+.visitor-pill.online .visitor-value{{color:#22c55e}}
+@media(max-width:900px){{.pro-nav .visitor-strip{{display:none}}}}
+@media(max-width:640px){{.visitor-strip{{gap:8px}}.visitor-pill{{padding:7px 9px}}.visitor-label{{font-size:9px}}.visitor-value{{font-size:12px}}}}
+
 </style>
 </head>
 <body>
@@ -1805,6 +1817,13 @@ body::before{{content:'';position:fixed;inset:0;z-index:0;
       <div>
         <div class="pro-logo-text">PRO_RIPPLER</div>
         <div class="pro-logo-sub">XRP 프로리플러 커뮤니티 플랫폼</div>
+      </div>
+    </div>
+    <div class="pro-nav-center">
+      <div class="visitor-strip" aria-label="방문자 카운터">
+        <div class="visitor-pill"><span class="visitor-ico">👥</span><span class="visitor-label">오늘 방문자</span><span class="visitor-value" id="visitor-today">—</span></div>
+        <div class="visitor-pill"><span class="visitor-ico">🌐</span><span class="visitor-label">전체 방문자</span><span class="visitor-value" id="visitor-total">—</span></div>
+        <div class="visitor-pill online"><span class="visitor-ico">🟢</span><span class="visitor-label">현재 접속</span><span class="visitor-value" id="visitor-online">—</span></div>
       </div>
     </div>
   </div>
@@ -2462,32 +2481,36 @@ function attachHeroCoinDrag(){{
   const coin=document.getElementById('hero-coin');
   if(!coin || coin.dataset.dragReady==='1')return;
   coin.dataset.dragReady='1';
-  let dragging=false,startX=0,startY=0;
+  let dragging=false,startX=0,startY=0,dx=0,dy=0,pointerId=null;
   const apply=(x,y,instant=false)=>{{
-    coin.style.transition=instant?'none':'transform .58s cubic-bezier(.18,.89,.32,1.28), filter .2s ease, opacity .2s ease';
+    coin.style.transition=instant?'none':'transform .62s cubic-bezier(.18,.89,.32,1.28), filter .2s ease, opacity .2s ease';
     coin.style.transform=`translate(${{x}}px,${{y}}px)`;
   }};
   coin.addEventListener('pointerdown',e=>{{
-    dragging=true;startX=e.clientX;startY=e.clientY;
+    e.preventDefault();
+    dragging=true;pointerId=e.pointerId;startX=e.clientX-dx;startY=e.clientY-dy;
     coin.classList.add('dragging');
     coin.setPointerCapture?.(e.pointerId);
-    apply(0,0,true);
+    apply(dx,dy,true);
   }});
-  coin.addEventListener('pointermove',e=>{{
-    if(!dragging)return;
-    apply(e.clientX-startX,e.clientY-startY,true);
-  }});
-  const release=e=>{{
-    if(!dragging)return;
-    dragging=false;
-    coin.classList.remove('dragging');
-    apply(0,0,false);
-    try{{coin.releasePointerCapture?.(e.pointerId);}}catch(_e){{}}
+  const move=e=>{{
+    if(!dragging || (pointerId!==null && e.pointerId!==pointerId))return;
+    e.preventDefault();
+    dx=e.clientX-startX;dy=e.clientY-startY;
+    apply(dx,dy,true);
   }};
+  const release=e=>{{
+    if(!dragging || (pointerId!==null && e.pointerId!==pointerId))return;
+    dragging=false;pointerId=null;dx=0;dy=0;
+    coin.classList.remove('dragging');
+    try{{coin.releasePointerCapture?.(e.pointerId);}}catch(_e){{}}
+    apply(0,0,false);
+  }};
+  coin.addEventListener('pointermove',move);
   coin.addEventListener('pointerup',release);
   coin.addEventListener('pointercancel',release);
   coin.addEventListener('lostpointercapture',()=>{{
-    if(dragging){{dragging=false;coin.classList.remove('dragging');apply(0,0,false);}}
+    if(dragging){{dragging=false;pointerId=null;dx=0;dy=0;coin.classList.remove('dragging');apply(0,0,false);}}
   }});
 }}
 attachHeroCoinDrag();
@@ -2498,6 +2521,74 @@ updateNews();setInterval(updateNews,5*60*1000);
 updateRegNews();setInterval(updateRegNews,5*60*1000);
 updateEtfNews();setInterval(updateEtfNews,5*60*1000);
 </script>
+
+<script type="module">
+import {{ initializeApp }} from "https://www.gstatic.com/firebasejs/12.12.1/firebase-app.js";
+import {{ getDatabase, ref, runTransaction, onValue, set, push, onDisconnect, serverTimestamp }} from "https://www.gstatic.com/firebasejs/12.12.1/firebase-database.js";
+
+const firebaseConfig = {{
+  apiKey: "AIzaSyDHFhs7jmeNFqtm-uC6p5jHi28u6c-70WA",
+  authDomain: "pro-rippler.firebaseapp.com",
+  databaseURL: "https://pro-rippler-default-rtdb.asia-southeast1.firebasedatabase.app",
+  projectId: "pro-rippler",
+  storageBucket: "pro-rippler.firebasestorage.app",
+  messagingSenderId: "542651530283",
+  appId: "1:542651530283:web:834d5384de776257bcbe6e"
+}};
+
+function kstDateKey(){{
+  const now = new Date();
+  const kst = new Date(now.getTime() + 9 * 60 * 60 * 1000);
+  return kst.toISOString().slice(0,10).replace(/-/g,"");
+}}
+function visitorFmt(n){{
+  const num = Number(n || 0);
+  return num.toLocaleString('ko-KR');
+}}
+function visitorSet(id, value){{
+  const el = document.getElementById(id);
+  if(el) el.textContent = value;
+}}
+
+try{{
+  const app = initializeApp(firebaseConfig);
+  const db = getDatabase(app);
+  const todayKey = kstDateKey();
+  const sessionKey = 'pro_rippler_visit_recorded_' + todayKey;
+
+  const totalRef = ref(db, 'visits/total');
+  const todayRef = ref(db, 'visits/daily/' + todayKey);
+
+  // 같은 브라우저 탭 세션에서는 새로고침해도 중복 증가를 막습니다.
+  if(!sessionStorage.getItem(sessionKey)){{
+    sessionStorage.setItem(sessionKey, '1');
+    runTransaction(totalRef, current => (Number(current || 0) + 1));
+    runTransaction(todayRef, current => (Number(current || 0) + 1));
+  }}
+
+  onValue(totalRef, snap => visitorSet('visitor-total', visitorFmt(snap.val())));
+  onValue(todayRef, snap => visitorSet('visitor-today', visitorFmt(snap.val())));
+
+  const connectedRef = ref(db, '.info/connected');
+  const presenceRef = push(ref(db, 'presence'));
+  onValue(connectedRef, snap => {{
+    if(snap.val() === true){{
+      set(presenceRef, {{ online:true, at:serverTimestamp() }});
+      onDisconnect(presenceRef).remove();
+    }}
+  }});
+  onValue(ref(db, 'presence'), snap => {{
+    const val = snap.val() || {{}};
+    visitorSet('visitor-online', visitorFmt(Object.keys(val).length));
+  }});
+}}catch(e){{
+  console.warn('visitor counter failed', e);
+  visitorSet('visitor-today', '수집중');
+  visitorSet('visitor-total', '수집중');
+  visitorSet('visitor-online', '—');
+}}
+</script>
+
 </body>
 </html>"""
 
