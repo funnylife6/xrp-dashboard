@@ -1704,11 +1704,22 @@ body::before{{content:'';position:fixed;inset:0;z-index:0;
   line-height:1.4;color:#06101d;margin-bottom:10px;letter-spacing:-1px;word-break:keep-all}}
 .hero-desc{{font-size:13px;color:#5a6b80;line-height:1.8;
   margin-bottom:20px;font-weight:500;word-break:keep-all}}
-.hero-btn{{display:inline-block;background:linear-gradient(180deg,#1e7fff,#005cff);color:#fff;
+.hero-btn{{display:inline-flex;align-items:center;justify-content:center;position:relative;overflow:visible;isolation:isolate;
+  background:linear-gradient(180deg,#1e7fff,#005cff);color:#fff;
   padding:11px 22px;border-radius:10px;font-size:15px;font-weight:800;
   text-decoration:none;font-family:'Noto Sans KR',sans-serif;border:none;cursor:pointer;
-  box-shadow:0 8px 20px rgba(0,94,255,.25);white-space:nowrap;width:fit-content}}
-.hero-btn:hover{{background:#1d4ed8}}
+  box-shadow:0 8px 20px rgba(0,94,255,.25);white-space:nowrap;width:fit-content;
+  transform:translateY(0);transition:transform .14s ease,box-shadow .18s ease,background .18s ease,filter .18s ease}}
+.hero-btn:hover{{background:linear-gradient(180deg,#2b8cff,#0a66ff);box-shadow:0 10px 26px rgba(0,94,255,.34),0 0 0 1px rgba(96,165,250,.16)}}
+.hero-btn:active{{transform:translateY(2px);box-shadow:0 4px 12px rgba(0,94,255,.22)}}
+.hero-btn.flash-red{{background:linear-gradient(180deg,#ff4d5e,#dc2626);box-shadow:0 8px 28px rgba(239,68,68,.42),0 0 0 1px rgba(255,120,120,.24);filter:saturate(1.08)}}
+.hero-ripple{{position:absolute;left:50%;top:50%;border-radius:999px;pointer-events:none;z-index:-1;
+  transform:translate(-50%,-50%) scale(.55);opacity:.72;
+  border:1.5px solid rgba(96,165,250,.72);
+  background:radial-gradient(circle,rgba(96,165,250,.20) 0%,rgba(96,165,250,.10) 34%,rgba(96,165,250,0) 68%);
+  box-shadow:0 0 18px rgba(96,165,250,.48),0 0 34px rgba(37,99,235,.24);
+  animation:heroRipple .62s cubic-bezier(.16,1,.3,1) forwards}}
+@keyframes heroRipple{{to{{transform:translate(-50%,-50%) scale(2.65);opacity:0;border-color:rgba(96,165,250,0)}}}}
 .hero-right{{padding:0;background:transparent;
   border-left:none;display:flex;align-items:center;justify-content:center}}
 /* 내부 흰색 카드 */
@@ -1724,7 +1735,8 @@ body::before{{content:'';position:fixed;inset:0;z-index:0;
 .hero-live-time{{font-size:11px;color:#94a3b8}}
 .hero-price-row{{display:flex;align-items:center;gap:12px}}
 .hero-price{{font-family:'Noto Sans KR',sans-serif;font-size:32px;font-weight:900;
-  color:#06101d;line-height:1;white-space:nowrap;letter-spacing:-1px}}
+  color:#06101d;line-height:1;white-space:nowrap;letter-spacing:-1px;transition:color .18s ease,text-shadow .18s ease,transform .18s ease}}
+.hero-price.price-boosting{{color:#ef4444;text-shadow:0 0 18px rgba(239,68,68,.32);transform:translateY(-1px)}}
 .hero-price-krw{{font-size:13px;font-weight:700;color:#64748b;line-height:1.1;white-space:nowrap}}
 .hero-pct-wrap{{display:flex;flex-direction:column;gap:2px;margin-top:2px}}
 .hero-pct{{font-size:14px;font-weight:700;line-height:1.2;white-space:nowrap}}
@@ -1975,6 +1987,8 @@ if(sparkCtx) {{
 
 // 가격/시총/거래량/24h/7d는 브라우저에서 CoinGecko API로 30초마다 갱신합니다.
 // API 실패 시에는 Python이 생성한 기존 값을 그대로 유지합니다.
+let liveHeroPriceUsd = Number({price_usd:.8f} || 0);
+let priceBoostRunning = false;
 function fL(v){{return v>=1e9?'$'+(v/1e9).toFixed(2)+'B':v>=1e6?'$'+(v/1e6).toFixed(2)+'M':'$'+Number(v||0).toFixed(2)}}
 function fP(v){{v=Number(v||0);return(v>=0?'+':'')+v.toFixed(2)+'%'}}
 function pC(v){{return Number(v||0)>=0?'#10b981':'#ef4444'}}
@@ -2026,7 +2040,10 @@ async function updatePrice(){{
     setPct('pct-24h','24h',pct24);
     setPct('pct-7d','7d',pct7);
 
-    setText('hero-price','$'+Number(price.usd||0).toLocaleString('en-US',{{minimumFractionDigits:4,maximumFractionDigits:4}}));
+    liveHeroPriceUsd = Number(price.usd || liveHeroPriceUsd || 0);
+    if(!priceBoostRunning){{
+      setText('hero-price','$'+liveHeroPriceUsd.toLocaleString('en-US',{{minimumFractionDigits:4,maximumFractionDigits:4}}));
+    }}
     const heroPct=document.getElementById('hero-pct');
     if(heroPct && pct24!==undefined && pct24!==null){{
       heroPct.textContent=(Number(pct24)>=0?'▲ ':'▼ ')+fP(pct24);
@@ -2330,6 +2347,72 @@ async function updatePagesLiveData(){{
     setText('hero-tps-sub','수집 실패');
   }}
 }}
+
+
+function formatHeroUsd(v){{
+  return '$'+Number(v||0).toLocaleString('en-US',{{minimumFractionDigits:4,maximumFractionDigits:4}});
+}}
+function easeOutCubic(t){{return 1-Math.pow(1-t,3);}}
+function easeInOutCubic(t){{return t<0.5?4*t*t*t:1-Math.pow(-2*t+2,3)/2;}}
+function animateHeroPriceNumber(from,to,duration,onDone){{
+  const el=document.getElementById('hero-price');
+  if(!el){{if(onDone)onDone();return;}}
+  const start=performance.now();
+  function frame(now){{
+    const t=Math.min(1,(now-start)/duration);
+    const eased=duration<=600?easeInOutCubic(t):easeOutCubic(t);
+    const value=from+(to-from)*eased;
+    el.textContent=formatHeroUsd(value);
+    if(t<1){{requestAnimationFrame(frame);}}
+    else{{el.textContent=formatHeroUsd(to);if(onDone)onDone();}}
+  }}
+  requestAnimationFrame(frame);
+}}
+function runPriceBoostTo100(){{
+  if(priceBoostRunning)return;
+  const el=document.getElementById('hero-price');
+  const fallback=el?Number(String(el.textContent||'').replace(/[^0-9.]/g,'')):0;
+  const start=Number(liveHeroPriceUsd || fallback || 0);
+  priceBoostRunning=true;
+  if(el)el.classList.add('price-boosting');
+  // 상승 2초 → $100 유지 1초 → 원래 실시간 가격으로 0.5초 복귀
+  animateHeroPriceNumber(start,100,2000,()=>{{
+    setTimeout(()=>{{
+      const backTo=Number(liveHeroPriceUsd || start || 0);
+      animateHeroPriceNumber(100,backTo,500,()=>{{
+        priceBoostRunning=false;
+        if(el)el.classList.remove('price-boosting');
+        setText('hero-price',formatHeroUsd(liveHeroPriceUsd || backTo));
+      }});
+    }},1000);
+  }});
+}}
+
+function attachHeroButtonEffects(){{
+  document.querySelectorAll('.hero-btn').forEach(btn=>{{
+    if(btn.dataset.rippleReady==='1') return;
+    btn.dataset.rippleReady='1';
+    btn.addEventListener('click',e=>{{
+      const rect=btn.getBoundingClientRect();
+      const size=Math.max(rect.width,rect.height)*1.15;
+      const ripple=document.createElement('span');
+      ripple.className='hero-ripple';
+      ripple.style.width=size+'px';
+      ripple.style.height=size+'px';
+      // 버튼 내부 클릭점이 아니라 버튼 중심에서 바깥으로 퍼지는 shockwave 방식
+      ripple.style.left='50%';
+      ripple.style.top='50%';
+      btn.appendChild(ripple);
+      btn.classList.remove('flash-red');
+      void btn.offsetWidth;
+      btn.classList.add('flash-red');
+      setTimeout(()=>btn.classList.remove('flash-red'),220);
+      runPriceBoostTo100();
+      ripple.addEventListener('animationend',()=>ripple.remove(),{{once:true}});
+    }});
+  }});
+}}
+attachHeroButtonEffects();
 
 updatePagesLiveData();setInterval(updatePagesLiveData,5*60*1000);
 
