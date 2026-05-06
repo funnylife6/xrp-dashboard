@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-06T22:42:23",
+  "generated_at": "2026-05-06T23:43:10",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.42,
-    "price_krw": 2057.19,
-    "price_change_24h": 0.91326,
-    "price_change_7d": 3.97917,
-    "price_change_30d": 6.09164,
-    "market_cap_usd": 87931186834,
+    "price_krw": 2057.05,
+    "price_change_24h": 0.81987,
+    "price_change_7d": 3.97134,
+    "price_change_30d": 6.59034,
+    "market_cap_usd": 87931360898,
     "market_cap_rank": 4,
-    "volume_24h": 2698353592,
+    "volume_24h": 2746128521,
     "circulating_supply": 61796225236.0,
     "total_supply": 99985670046.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 90.24,
-    "sentiment_votes_down": 9.76,
+    "sentiment_votes_up": 89.92,
+    "sentiment_votes_down": 10.08,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 29.28,
-    "recent_tps": 29.28,
-    "recent_tx_count": 2635,
+    "tps_24h_avg": 33.27,
+    "recent_tps": 33.27,
+    "recent_tx_count": 2994,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104055438,
+    "ledger_seq": 104056374,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-06 22:42:15 KST",
+    "updated_at": "2026-05-06 23:42:56 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -101,13 +101,6 @@
       "score": 3
     },
     {
-      "title": "리플, SEC와의 전쟁 종료...합의금 97% 삭감에 XRP 반전 예고",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE83cllrVzhkbms1VzNuZFdURmFyenhzMUxtQUFzR1dJRmtTc3ZvNTB6a2FQMlNkYWZlbWxXQWc4VHJFMVZ4bE9ZVmhB?oc=5",
-      "date": "Wed, 06 May 2026 17:20:00 GMT",
-      "source": "코인리더스",
-      "score": 3
-    },
-    {
       "title": "“폭발 직전인가”…리플XRP 유동성 급감 속 1.43달러 회복에 시장 긴장감",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5odXYxQW5NNno5dzhTcjJBX3h3b0VJd2dXSnJ0Sk1QUXN3NnNpaWF1anFDMDJkc1U5YnhJS3EtUG9ZQm5UVFhxMDdIel85TlgxTjc4RHdsOGpjdkppX1RtRnk2SVBpai0z?oc=5",
       "date": "Wed, 06 May 2026 15:00:00 GMT",
@@ -115,9 +108,9 @@
       "score": 3
     },
     {
-      "title": "리플 CEO “XRP는 이미 명확”…미 규제와 무관하다는 자신감",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjeEx1dTJrRFVFM2lPcVRTU2VBblpRR3gyLUdKNjBZRi1nVWdnWmZ2UTUtdXBDaEh4ZFVVU2pZblVmQmVXd0o1Mkdxa09Ld2VoWHExOFBhdGE1M2RlX0RlN9IBZkFVX3lxTE5sNTZCYVpQQl9fMnVGb2xTVW9wMTZVTWp2VGViZHFVcmdvbjBURy1aSTAzMFpGU1BjVHByV0NUM1JDUDZEcmVLSUpISjB4T3NVVUZkTUpXOHFJMk1RdS1WYXl2a084Zw?oc=5",
-      "date": "Wed, 06 May 2026 14:57:08 GMT",
+      "title": "리플 CEO \"XRP, 가장 강한 커뮤니티\"…멀티체인 시대 강조",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBONGZja3BIVm9JeWoxLVo2aUNPeVhVZXlyeW84THJDRHFOTlVwOVRmTjBtSVp4S2VFejJDbS1kdnhSYTVGUWROd0dVNHY5Tk5MeUVTU1JPaWpoY3Jna0kyatIBZkFVX3lxTE14Mkgta0c2ZV9tN1NnRUxPSno4TkVzNUoxSTVZYWdlTEpKNHRweDhBc2ItY3FDcDhYMXFkcUZfRW9IYmZYY1hHcjRYZl85bHdTaFdmeV9PdU9TWGZFQVZLV1JZSzB6QQ?oc=5",
+      "date": "Wed, 06 May 2026 11:27:24 GMT",
       "source": "tokenpost.kr",
       "score": 2
     },
@@ -161,6 +154,13 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zMWxuN1RHYUlNejl2M0ktbXRweHhDZm1QemF4TFRuMVA4NmpkX3lCTlhfak5ZN2N2WGo0OThhOWRoXzJxeEJrbkotRmNLa1FLdVdr?oc=5",
       "date": "Tue, 05 May 2026 21:02:00 GMT",
       "source": "네이트",
+      "score": 2
+    },
+    {
+      "title": "1.40달러 회복한 XRP, 주요 저항선 뚫고 본격 반등 랠리 시작할까",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUTZmczdLelNXbHdOa1BUSFZ6cUJzVTU3N2hMQXNuSkJ2S1hzU19OVGI5X1pXb2t3aWtONnpza0JkcW9iWE5HNTQtQ3ozc1dXWnBfOEJDUS1FWkdTeW9JRnhrcU10QndqeGhEVzBiVFdENkVhcnNXOXBWS29MWGxLTDhwczA5YkNa?oc=5",
+      "date": "Tue, 05 May 2026 20:49:15 GMT",
+      "source": "글로벌이코노믹",
       "score": 2
     }
   ]
