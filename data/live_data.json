@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-06T07:50:49",
+  "generated_at": "2026-05-06T08:11:47",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.43,
-    "price_krw": 2086.48,
-    "price_change_24h": 1.94962,
-    "price_change_7d": 3.11347,
-    "price_change_30d": 7.08508,
-    "market_cap_usd": 88534179765,
+    "price_krw": 2080.53,
+    "price_change_24h": 1.89937,
+    "price_change_7d": 3.0586,
+    "price_change_30d": 6.84166,
+    "market_cap_usd": 88507097698,
     "market_cap_rank": 4,
-    "volume_24h": 2105130914,
+    "volume_24h": 2111436648,
     "circulating_supply": 61796225236.0,
     "total_supply": 99985670046.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 87.93,
-    "sentiment_votes_down": 12.07,
+    "sentiment_votes_up": 87.61,
+    "sentiment_votes_down": 12.39,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 34.34,
-    "recent_tps": 34.34,
-    "recent_tx_count": 3091,
+    "tps_24h_avg": 31.97,
+    "recent_tps": 31.97,
+    "recent_tx_count": 2877,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104041650,
+    "ledger_seq": 104041975,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-06 07:50:41 KST",
+    "updated_at": "2026-05-06 08:11:36 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 2680000,
     "total_net_inflow_usd": 2680000,
     "total_value_traded_usd": 2680000,
-    "updated_at": "SoSoValue 순유입 부분 수집 05/06 07:50",
+    "updated_at": "SoSoValue 순유입 부분 수집 05/06 08:11",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -93,24 +93,10 @@
   ],
   "general_news": [
     {
-      "title": "리플, 기관금융 공략 속 XRP 실사용 확대 나섰다",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qQWg2dWh1TzFGN2tiSW52el84OW1QZnluc0VMWFU4eGdudVg3Z19tTUFGRVl0anc1MjdZRV9ob0tmUE8xaklsWWV3Y3AyR1k5MjQ3aTg5NFBQLXA4VTdOddIBZkFVX3lxTE9FQWp5V2NpcTBqQmt6LXk1WE13NzQ3TC1mUjJJR1QwMjBta24wZk5jMkE4TEFDa2lqSHVILW1rSGROcVJSRnhkei1pWmNXZGpUdnZmNTYybVN6Tks3SmotWFExZDh6Zw?oc=5",
-      "date": "Wed, 06 May 2026 06:57:19 GMT",
-      "source": "tokenpost.kr",
-      "score": 3
-    },
-    {
       "title": "비트코인 8만 달러 돌파와 XRP의 기회 — 2026년 5월 시장을 차분히 점검하다",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWjZGcEt0bWpTQVdrclFfT09KYndyeXNHSUp6QWlseFBnM2QtQVp2VUU2ZjM1blpyZjAyelI3VkljSS1qbGFvR0NRWTYzYnFoRHEtaVNucmVFUWRuSXVMRXZxWFhPYzlpa3NlWU9yT2hyOTE3anp6UmdwNks3aUNnc3Byd21TdWNqR3JjNw?oc=5",
       "date": "Wed, 06 May 2026 02:10:00 GMT",
       "source": "네이버 프리미엄콘텐츠",
-      "score": 1
-    },
-    {
-      "title": "리플 전 CTO \"암호화폐는 일생일대의 투자 기회\"",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9jT0NpeU52U2FiT2NEM29aMjAwQ3laeWJVT2N3eUROUXRnaXpURHdfTF9idmVfU0poTWxzQnhlNTUtTDcwMHZOd1AwM3lMcEx3YWFR?oc=5",
-      "date": "Wed, 06 May 2026 00:49:09 GMT",
-      "source": "네이트",
       "score": 1
     },
     {
@@ -126,6 +112,13 @@
       "date": "Tue, 05 May 2026 23:43:08 GMT",
       "source": "디지털투데이",
       "score": 1
+    },
+    {
+      "title": "\"아직 끝 아니다\"…엑스알피, 저항만 뚫으면 판 뒤집힌다",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBhNU80TmZwU3RXSm1ucTJWQTdBemJpVHMwR0ZWOExUUW9NSHhXcml2VDBrRnVlYU9ESkt3MEd4V0lCU2s1c3lrN2tR?oc=5",
+      "date": "Tue, 05 May 2026 22:32:00 GMT",
+      "source": "코인리더스",
+      "score": 0
     },
     {
       "title": "[알립니다] 리플이 보는 실물 자산의 토큰화 시장 미래는",
@@ -161,6 +154,13 @@
       "date": "Mon, 04 May 2026 04:55:00 GMT",
       "source": "네이버 프리미엄콘텐츠",
       "score": 3
+    },
+    {
+      "title": "리플(XRP), ‘클래리티 법안’ 통과 기대감에 촉각…시장 전반 영향 주목",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xV081Vk9JYVNVYVZveExqUkZhOWhoOTZpOFNNSzBhWF8teUpReHJRdkZ4RVhiOUN0ZUE4bkcxY19KdXozdU5tOFU5MzBELUJvLWR4VGp2dm5vekVWOENUUC1nTTZJUDFl?oc=5",
+      "date": "Mon, 04 May 2026 00:44:12 GMT",
+      "source": "CBC뉴스",
+      "score": 2
     }
   ]
 }
