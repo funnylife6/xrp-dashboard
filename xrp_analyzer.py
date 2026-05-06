@@ -1764,6 +1764,7 @@ body::before{{content:'';position:fixed;inset:0;z-index:0;
       <div class="hero-price-row">
         <div style="display:flex;flex-direction:column;gap:4px">
           <span class="hero-price" id="hero-price">${price_usd:,.4f}</span>
+          <span class="hero-price-krw" id="hero-price-krw">₩{info.get('price_krw',0):,.0f}</span>
         </div>
         <div class="hero-pct-wrap">
           <span class="hero-pct" id="hero-pct" style="color:{pct_color(info.get('price_change_24h'))}">{'▲' if (info.get('price_change_24h') or 0) >= 0 else '▼'} {fmt_pct(info.get('price_change_24h'))}</span>
@@ -2216,6 +2217,47 @@ function fmtPctJs(v){{
 function fmtClockKst(){{
   return new Intl.DateTimeFormat('ko-KR',{{timeZone:'Asia/Seoul',hour:'2-digit',minute:'2-digit',hour12:false}}).format(new Date())+' 갱신';
 }}
+function setPctColor(el,v){{
+  if(!el) return;
+  const n=Number(v);
+  if(Number.isFinite(n)) el.style.color = n>=0 ? '#10b981' : '#ef4444';
+}}
+function fmtKrw(v){{
+  const n=Number(v||0);
+  if(!Number.isFinite(n) || n<=0) return '—';
+  return '₩'+Math.round(n).toLocaleString('ko-KR');
+}}
+async function updateLivePrice(){{
+  try{{
+    const url='https://api.coingecko.com/api/v3/simple/price?ids=ripple&vs_currencies=usd,krw&include_market_cap=true&include_24hr_vol=true&include_24hr_change=true';
+    const r=await fetch(url,{{cache:'no-store'}});
+    if(!r.ok) throw new Error('CoinGecko live price fetch failed');
+    const data=await r.json();
+    const xrp=data.ripple||{{}};
+    const usd=Number(xrp.usd||0);
+    const krw=Number(xrp.krw||0);
+    const pct24=Number(xrp.usd_24h_change);
+    const mcap=Number(xrp.usd_market_cap||0);
+
+    if(usd>0) setText('hero-price',fmtUsd(usd));
+    const krwEl=document.getElementById('hero-price-krw');
+    if(krwEl && krw>0) krwEl.textContent=fmtKrw(krw);
+    if(mcap>0) setText('hero-mcap',fmtLargeUsd(mcap));
+
+    if(Number.isFinite(pct24)){{
+      const pct=document.getElementById('hero-pct');
+      const mp=document.getElementById('hero-mcap-pct');
+      const label=(pct24>=0?'▲ ':'▼ ')+fmtPctJs(pct24);
+      if(pct) pct.textContent=label;
+      if(mp) mp.textContent=fmtPctJs(pct24);
+      setPctColor(pct,pct24);
+      setPctColor(mp,pct24);
+    }}
+    setText('hero-updated',fmtClockKst());
+  }}catch(e){{
+    console.warn('가격 30초 자동 갱신 실패:',e);
+  }}
+}}
 async function updatePagesLiveData(){{
   try{{
     const r=await fetch('data/live_data.json?ts='+Date.now(),{{cache:'no-store'}});
@@ -2254,6 +2296,7 @@ async function updatePagesLiveData(){{
   }}
 }}
 
+updateLivePrice();setInterval(updateLivePrice,30000);
 updatePagesLiveData();setInterval(updatePagesLiveData,5*60*1000);
 
 updateNews();setInterval(updateNews,5*60*1000);
