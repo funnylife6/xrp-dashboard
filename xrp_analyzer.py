@@ -1473,6 +1473,14 @@ def fmt_tps_display(xrpl_stats):
         return "TPS 수집중"
 
 
+
+def fmt_krw_large_html(v):
+    """KRW 표시에서 통화기호만 작게 렌더링하기 위한 HTML formatter."""
+    txt = fmt_krw_large(v)
+    if txt.startswith("₩"):
+        return f'<span class="cur">₩</span><span class="num">{txt[1:]}</span>'
+    return f'<span class="num">{txt}</span>'
+
 def build_html(df, info, fg_value, fg_label, fg_history,
                signals, score, direction, dir_color, dir_eng,
                general_news,
@@ -1575,7 +1583,9 @@ body::before{{content:'';position:fixed;inset:0;z-index:0;
 .card{{background:var(--card);border:1px solid var(--border);border-radius:4px;padding:20px;transition:border-color .2s}}
 .card:hover{{border-color:#2e4060}}
 .cl{{font-size:10px;color:var(--muted);letter-spacing:2px;text-transform:uppercase;margin-bottom:10px}}
-.cv{{font-family:var(--sans);font-size:22px;font-weight:700}}
+.cv{{font-family:var(--sans);font-size:22px;font-weight:700;line-height:1.1;min-height:28px;display:flex;align-items:baseline;gap:2px;white-space:nowrap;font-variant-numeric:tabular-nums}}
+.cv .cur{{font-size:.5em;font-weight:700;line-height:1;transform:translateY(-1px);display:inline-block;opacity:.95}}
+.cv .num{{font-variant-numeric:tabular-nums}}
 .cs{{font-size:11px;color:var(--muted);margin-top:4px}}
 .st{{font-size:10px;letter-spacing:3px;text-transform:uppercase;color:var(--accent);
   border-left:2px solid var(--accent);padding-left:10px;margin-bottom:16px;margin-top:32px;
@@ -1764,7 +1774,6 @@ body::before{{content:'';position:fixed;inset:0;z-index:0;
       <div class="hero-price-row">
         <div style="display:flex;flex-direction:column;gap:4px">
           <span class="hero-price" id="hero-price">${price_usd:,.4f}</span>
-          <span class="hero-price-krw" id="hero-price-krw">₩{info.get('price_krw',0):,.0f}</span>
         </div>
         <div class="hero-pct-wrap">
           <span class="hero-pct" id="hero-pct" style="color:{pct_color(info.get('price_change_24h'))}">{'▲' if (info.get('price_change_24h') or 0) >= 0 else '▼'} {fmt_pct(info.get('price_change_24h'))}</span>
@@ -1808,22 +1817,22 @@ body::before{{content:'';position:fixed;inset:0;z-index:0;
   <div class="g4">
     <div class="card">
       <div class="cl">현재가 (USD)</div>
-      <div class="cv" id="price-usd">${price_usd:,.4f}</div>
+      <div class="cv" id="price-usd"><span class="cur">$</span><span class="num">{price_usd:,.4f}</span></div>
       <div class="cs" id="pct-24h" style="color:{pct_color(info.get('price_change_24h'))}">24h {fmt_pct(info.get('price_change_24h'))}</div>
     </div>
     <div class="card">
       <div class="cl">현재가 (KRW)</div>
-      <div class="cv" id="price-krw">₩{info.get('price_krw',0):,.0f}</div>
+      <div class="cv" id="price-krw"><span class="cur">₩</span><span class="num">{info.get('price_krw',0):,.0f}</span></div>
       <div class="cs" id="pct-7d" style="color:{pct_color(info.get('price_change_7d'))}">7d {fmt_pct(info.get('price_change_7d'))}</div>
     </div>
     <div class="card">
       <div class="cl">시가총액</div>
-      <div class="cv" id="market-cap">{fmt_krw_large(market_cap_krw)}</div>
+      <div class="cv" id="market-cap">{fmt_krw_large_html(market_cap_krw)}</div>
       <div class="cs">{fmt_large(info.get('market_cap_usd',0))} · 순위 #{info.get('market_cap_rank','—')}</div>
     </div>
     <div class="card">
       <div class="cl">24h 거래량</div>
-      <div class="cv" id="volume-24h">{fmt_krw_large(volume_24h_krw)}</div>
+      <div class="cv" id="volume-24h">{fmt_krw_large_html(volume_24h_krw)}</div>
       <div class="cs">{fmt_large(info.get('volume_24h',0))} · CMC KRW 환산</div>
     </div>
   </div>
@@ -1957,19 +1966,79 @@ if(sparkCtx) {{
   }});
 }}
 
-// 시장 지표는 CoinMarketCap 기준으로 Python 실행 시점에 생성합니다.
-// 브라우저에서 CoinGecko로 다시 덮어쓰면 CMC와 수치가 어긋나므로 자동 덮어쓰기를 비활성화합니다.
-function fL(v){{return v>=1e9?'$'+(v/1e9).toFixed(2)+'B':v>=1e6?'$'+(v/1e6).toFixed(2)+'M':'$'+v.toFixed(2)}}
-function fP(v){{return(v>=0?'+':'')+v.toFixed(2)+'%'}}
-function pC(v){{return v>=0?'#10b981':'#ef4444'}}
-function updatePrice(){{
-  const n=new Date();
-  const lu=document.getElementById('last-updated');
-  if(lu)lu.textContent=n.getHours().toString().padStart(2,'0')+':'+n.getMinutes().toString().padStart(2,'0')+' CMC 기준';
-  const hu=document.getElementById('hero-updated');
-  if(hu)hu.textContent=n.getHours().toString().padStart(2,'0')+':'+n.getMinutes().toString().padStart(2,'0');
+// 가격/시총/거래량/24h/7d는 브라우저에서 CoinGecko API로 30초마다 갱신합니다.
+// API 실패 시에는 Python이 생성한 기존 값을 그대로 유지합니다.
+function fL(v){{return v>=1e9?'$'+(v/1e9).toFixed(2)+'B':v>=1e6?'$'+(v/1e6).toFixed(2)+'M':'$'+Number(v||0).toFixed(2)}}
+function fP(v){{v=Number(v||0);return(v>=0?'+':'')+v.toFixed(2)+'%'}}
+function pC(v){{return Number(v||0)>=0?'#10b981':'#ef4444'}}
+function fKrwLarge(v){{
+  v=Number(v||0);
+  if(!v)return '<span class="num">—</span>';
+  const jo=Math.floor(v/1000000000000);
+  let eok=Math.round((v-jo*1000000000000)/100000000);
+  let j=jo;
+  if(eok>=10000){{j+=1;eok-=10000;}}
+  let body='';
+  if(j>0) body=j+'조 '+(eok?eok.toLocaleString('ko-KR')+'억':'');
+  else if(v>=100000000) body=Math.round(v/100000000).toLocaleString('ko-KR')+'억';
+  else if(v>=10000) body=Math.round(v/10000).toLocaleString('ko-KR')+'만';
+  else body=Math.round(v).toLocaleString('ko-KR');
+  return '<span class="cur">₩</span><span class="num">'+body.trim()+'</span>';
+}}
+function setMoneyHTML(id, symbol, value, decimals){{
+  const el=document.getElementById(id);
+  if(!el || value===undefined || value===null || Number.isNaN(Number(value)))return;
+  el.innerHTML='<span class="cur">'+symbol+'</span><span class="num">'+Number(value).toLocaleString('ko-KR',{{minimumFractionDigits:decimals,maximumFractionDigits:decimals}})+'</span>';
+}}
+function setText(id, text){{const el=document.getElementById(id);if(el)el.textContent=text;}}
+function setHtml(id, html){{const el=document.getElementById(id);if(el)el.innerHTML=html;}}
+function setPct(id, label, value){{
+  const el=document.getElementById(id);
+  if(!el || value===undefined || value===null || Number.isNaN(Number(value)))return;
+  el.textContent=label+' '+fP(value);
+  el.style.color=pC(value);
+}}
+async function updatePrice(){{
+  const now=new Date();
+  const hhmm=now.getHours().toString().padStart(2,'0')+':'+now.getMinutes().toString().padStart(2,'0');
+  try{{
+    const r=await fetch('https://api.coingecko.com/api/v3/coins/ripple?localization=false&tickers=false&market_data=true&community_data=false&developer_data=false&sparkline=false',{{cache:'no-store'}});
+    if(!r.ok)throw new Error('CoinGecko '+r.status);
+    const data=await r.json();
+    const md=data.market_data||{{}};
+    const price=md.current_price||{{}};
+    const mcap=md.market_cap||{{}};
+    const vol=md.total_volume||{{}};
+    const pct24=md.price_change_percentage_24h;
+    const pct7=md.price_change_percentage_7d;
+
+    setMoneyHTML('price-usd','$',price.usd,4);
+    setMoneyHTML('price-krw','₩',price.krw,0);
+    setHtml('market-cap',fKrwLarge(mcap.krw));
+    setHtml('volume-24h',fKrwLarge(vol.krw));
+    setPct('pct-24h','24h',pct24);
+    setPct('pct-7d','7d',pct7);
+
+    setText('hero-price','$'+Number(price.usd||0).toLocaleString('en-US',{{minimumFractionDigits:4,maximumFractionDigits:4}}));
+    const heroPct=document.getElementById('hero-pct');
+    if(heroPct && pct24!==undefined && pct24!==null){{
+      heroPct.textContent=(Number(pct24)>=0?'▲ ':'▼ ')+fP(pct24);
+      heroPct.style.color=pC(pct24);
+    }}
+    setText('hero-mcap',fL(mcap.usd||0));
+    const hm=document.getElementById('hero-mcap-pct');
+    if(hm && pct24!==undefined && pct24!==null){{hm.textContent=fP(pct24);hm.style.color=pC(pct24);}}
+
+    setText('last-updated',hhmm+' 실시간 가격');
+    setText('hero-updated',hhmm);
+  }}catch(e){{
+    console.warn('가격 갱신 실패:',e);
+    setText('last-updated',hhmm+' 가격 갱신 대기');
+    setText('hero-updated',hhmm);
+  }}
 }}
 updatePrice();
+setInterval(updatePrice,30000);
 
 // 국내 XRP / 리플 최신 뉴스 갱신 (5분)
 const PROXY=url=>`https://api.allorigins.win/get?url=${{encodeURIComponent(url)}}`;
@@ -2217,47 +2286,6 @@ function fmtPctJs(v){{
 function fmtClockKst(){{
   return new Intl.DateTimeFormat('ko-KR',{{timeZone:'Asia/Seoul',hour:'2-digit',minute:'2-digit',hour12:false}}).format(new Date())+' 갱신';
 }}
-function setPctColor(el,v){{
-  if(!el) return;
-  const n=Number(v);
-  if(Number.isFinite(n)) el.style.color = n>=0 ? '#10b981' : '#ef4444';
-}}
-function fmtKrw(v){{
-  const n=Number(v||0);
-  if(!Number.isFinite(n) || n<=0) return '—';
-  return '₩'+Math.round(n).toLocaleString('ko-KR');
-}}
-async function updateLivePrice(){{
-  try{{
-    const url='https://api.coingecko.com/api/v3/simple/price?ids=ripple&vs_currencies=usd,krw&include_market_cap=true&include_24hr_vol=true&include_24hr_change=true';
-    const r=await fetch(url,{{cache:'no-store'}});
-    if(!r.ok) throw new Error('CoinGecko live price fetch failed');
-    const data=await r.json();
-    const xrp=data.ripple||{{}};
-    const usd=Number(xrp.usd||0);
-    const krw=Number(xrp.krw||0);
-    const pct24=Number(xrp.usd_24h_change);
-    const mcap=Number(xrp.usd_market_cap||0);
-
-    if(usd>0) setText('hero-price',fmtUsd(usd));
-    const krwEl=document.getElementById('hero-price-krw');
-    if(krwEl && krw>0) krwEl.textContent=fmtKrw(krw);
-    if(mcap>0) setText('hero-mcap',fmtLargeUsd(mcap));
-
-    if(Number.isFinite(pct24)){{
-      const pct=document.getElementById('hero-pct');
-      const mp=document.getElementById('hero-mcap-pct');
-      const label=(pct24>=0?'▲ ':'▼ ')+fmtPctJs(pct24);
-      if(pct) pct.textContent=label;
-      if(mp) mp.textContent=fmtPctJs(pct24);
-      setPctColor(pct,pct24);
-      setPctColor(mp,pct24);
-    }}
-    setText('hero-updated',fmtClockKst());
-  }}catch(e){{
-    console.warn('가격 30초 자동 갱신 실패:',e);
-  }}
-}}
 async function updatePagesLiveData(){{
   try{{
     const r=await fetch('data/live_data.json?ts='+Date.now(),{{cache:'no-store'}});
@@ -2296,7 +2324,6 @@ async function updatePagesLiveData(){{
   }}
 }}
 
-updateLivePrice();setInterval(updateLivePrice,30000);
 updatePagesLiveData();setInterval(updatePagesLiveData,5*60*1000);
 
 updateNews();setInterval(updateNews,5*60*1000);

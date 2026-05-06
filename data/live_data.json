@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-05-06T07:09:38",
+  "generated_at": "2026-05-06T07:21:42",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.43,
-    "price_krw": 2074.28,
-    "market_cap_usd": 88081197062.0,
-    "volume_24h": 2196477469.0,
+    "price_krw": 2077.92,
+    "market_cap_usd": 88136983497.0,
+    "volume_24h": 2202524793.0,
     "circulating_supply": 61796225236.0,
     "total_supply": 100000000000.0,
     "market_cap_rank": 4,
-    "price_change_24h": 1.48,
+    "price_change_24h": 1.54,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
@@ -20,16 +20,16 @@
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 30.21,
-    "recent_tps": 30.21,
-    "recent_tx_count": 2719,
+    "tps_24h_avg": 33.69,
+    "recent_tps": 33.69,
+    "recent_tx_count": 3032,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104041013,
+    "ledger_seq": 104041201,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-06 07:09:25 KST",
+    "updated_at": "2026-05-06 07:21:36 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -41,7 +41,7 @@
     "aum_usd": 2680000,
     "total_net_inflow_usd": 2680000,
     "total_value_traded_usd": 2680000,
-    "updated_at": "SoSoValue 순유입 부분 수집 05/06 07:09",
+    "updated_at": "SoSoValue 순유입 부분 수집 05/06 07:21",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -98,6 +98,13 @@
       "score": 1
     },
     {
+      "title": "리플 전 CTO \"암호화폐는 일생일대의 투자 기회\"",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9jT0NpeU52U2FiT2NEM29aMjAwQ3laeWJVT2N3eUROUXRnaXpURHdfTF9idmVfU0poTWxzQnhlNTUtTDcwMHZOd1AwM3lMcEx3YWFR?oc=5",
+      "date": "Wed, 06 May 2026 00:49:09 GMT",
+      "source": "네이트",
+      "score": 1
+    },
+    {
       "title": "넥소, 리플(XRP) 담보 무이자 대출 도입... 청산 없는 구조에 시장 관심",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2NlNhTXhTVm1uSGFrTFQ0UXU2REstUXRYVU9pQTJFVHV2MkJ3cndjMlliaFpzekpDa19GN3d3c293b1ZiMUozTFRoQ3ZVOUVJcHFPTEVzR2w1VXRhQldNZDhNcWxMaXNYYTZYbkdlQS0?oc=5",
       "date": "Wed, 06 May 2026 00:30:00 GMT",
@@ -110,13 +117,6 @@
       "date": "Tue, 05 May 2026 23:43:08 GMT",
       "source": "디지털투데이",
       "score": 1
-    },
-    {
-      "title": "\"아직 끝 아니다\"…엑스알피, 저항만 뚫으면 판 뒤집힌다",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBhNU80TmZwU3RXSm1ucTJWQTdBemJpVHMwR0ZWOExUUW9NSHhXcml2VDBrRnVlYU9ESkt3MEd4V0lCU2s1c3lrN2tR?oc=5",
-      "date": "Tue, 05 May 2026 22:32:00 GMT",
-      "source": "코인리더스",
-      "score": 0
     },
     {
       "title": "[알립니다] 리플이 보는 실물 자산의 토큰화 시장 미래는",
@@ -140,6 +140,13 @@
       "score": 3
     },
     {
+      "title": "암호화폐(코인) 리플 부정자들에 대해 유명 분석가가 내놓은 확신 찬 반박",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EUVROVG5kc21wVmkxQmNGMWZrWXdqOUJkLU5Fa3p6dTJvTkE3enVCU1dXS1FUcnVZX19ITVdCZEFudHNRWGYzZXcwWl9QekF1bjFzbmVR?oc=5",
+      "date": "Tue, 05 May 2026 00:48:00 GMT",
+      "source": "위키트리",
+      "score": 1
+    },
+    {
       "title": "리플XRP ETF 자금 누적…기관 자금은 ‘조용한 확대’ 국면",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NVXZEY1pWUGlvTHhIZVM5NE5MdVh1N1lGWXlJb2VDQzV2N25kVDJpcmtqcGc0dmhmRXpkR0VtQi1HZ1ZyLWhEeGd4RHpveDBuNVQ1azFUTm9qYktCaktoV2M5QjEwcjND?oc=5",
       "date": "Mon, 04 May 2026 15:00:00 GMT",
@@ -152,13 +159,6 @@
       "date": "Mon, 04 May 2026 04:55:00 GMT",
       "source": "네이버 프리미엄콘텐츠",
       "score": 3
-    },
-    {
-      "title": "리플(XRP), ‘클래리티 법안’ 통과 기대감에 촉각…시장 전반 영향 주목",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xV081Vk9JYVNVYVZveExqUkZhOWhoOTZpOFNNSzBhWF8teUpReHJRdkZ4RVhiOUN0ZUE4bkcxY19KdXozdU5tOFU5MzBELUJvLWR4VGp2dm5vekVWOENUUC1nTTZJUDFl?oc=5",
-      "date": "Mon, 04 May 2026 00:44:12 GMT",
-      "source": "CBC뉴스",
-      "score": 2
     }
   ]
 }
