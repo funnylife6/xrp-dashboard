@@ -465,7 +465,7 @@ def fetch_current_info_coingecko_fallback():
             "reddit_subscribers":  cd.get("reddit_subscribers", 0),
             "sentiment_votes_up":  data.get("sentiment_votes_up_percentage", 0),
             "sentiment_votes_down":data.get("sentiment_votes_down_percentage", 0),
-            "source": "CoinGecko Fallback"
+            "source": "CoinGecko"
         }
     except Exception as e:
         print(f"  ⚠ CoinGecko 대체 실패: {e}")
@@ -473,18 +473,25 @@ def fetch_current_info_coingecko_fallback():
 
 
 def fetch_current_info():
-    print("[2/7] 시장 정보 수집 중... CoinMarketCap 우선")
-    info = fetch_current_info_cmc_api()
+    print("[2/7] 시장 정보 수집 중... CoinGecko 우선")
+
+    # 가격 / 시가총액 / 24H 거래량 / 7D 변동률은 CoinGecko를 기준으로 사용합니다.
+    # GitHub Pages 브라우저 30초 갱신 JS도 같은 CoinGecko 엔드포인트를 사용하므로
+    # 초기 HTML 값과 실시간 갱신 값의 출처가 일치합니다.
+    info = fetch_current_info_coingecko_fallback()
+
+    # CoinGecko 장애 시에만 CMC API/페이지/캐시를 폴백으로 사용합니다.
+    if not info:
+        info = fetch_current_info_cmc_api()
     if not info:
         info = fetch_current_info_cmc_page()
     if not info:
         cached = _load_market_cache()
         if cached:
-            cached["source"] = cached.get("source", "CoinMarketCap Cache") + " / Cache"
+            cached["source"] = cached.get("source", "Market Cache") + " / Cache"
             info = cached
-            print("  ✓ CMC 캐시 사용")
-    if not info:
-        info = fetch_current_info_coingecko_fallback()
+            print("  ✓ 시장 정보 캐시 사용")
+
     if info:
         print(f"  ✓ 현재가 ${info.get('price_usd',0):,.4f} / ₩{info.get('price_krw',0):,.0f} / 시총 {fmt_large(info.get('market_cap_usd',0))} / 거래량 {fmt_large(info.get('volume_24h',0))} ({info.get('source','')})")
     return info or {}
