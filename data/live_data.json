@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-06T15:09:18",
+  "generated_at": "2026-05-06T16:59:21",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.42,
-    "price_krw": 2062.7,
-    "price_change_24h": 0.83152,
-    "price_change_7d": 3.58487,
-    "price_change_30d": 5.83997,
-    "market_cap_usd": 88003944996,
+    "price_usd": 1.43,
+    "price_krw": 2072.33,
+    "price_change_24h": 1.56299,
+    "price_change_7d": 4.18848,
+    "price_change_30d": 6.22591,
+    "market_cap_usd": 88384340238,
     "market_cap_rank": 4,
-    "volume_24h": 2782516587,
+    "volume_24h": 2813957419,
     "circulating_supply": 61796225236.0,
     "total_supply": 99985670046.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 88.71,
-    "sentiment_votes_down": 11.29,
+    "sentiment_votes_up": 88.98,
+    "sentiment_votes_down": 11.02,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 45.52,
-    "recent_tps": 45.52,
-    "recent_tx_count": 4097,
+    "tps_24h_avg": 51.4,
+    "recent_tps": 51.4,
+    "recent_tx_count": 4626,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104048430,
+    "ledger_seq": 104050131,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-06 15:09:11 KST",
+    "updated_at": "2026-05-06 16:59:12 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 2680000,
     "total_net_inflow_usd": 2680000,
     "total_value_traded_usd": 2680000,
-    "updated_at": "SoSoValue 순유입 부분 수집 05/06 15:09",
+    "updated_at": "SoSoValue 순유입 부분 수집 05/06 16:59",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -107,6 +107,13 @@
       "score": 2
     },
     {
+      "title": "조만간 sk하이닉스 되는 코인 top3",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uNUh6QWI2VUJMWFU0UG9kZDFXQkVzQXVQWDF1V2VxcUdaaUo0T2NULUdYd3JwYWNKX2Z1d1ZLUV9XNTdlWTVSdFQwUEM1aEVKNDgtdXFLSkw?oc=5",
+      "date": "Wed, 06 May 2026 09:04:44 GMT",
+      "source": "코인니스",
+      "score": 8
+    },
+    {
       "title": "리플(XRP), 유동성 5년래 최저 수준…1.43달러까지 반등하며 ‘변곡점’ 시선",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE42X0VjVGpyLW9hckVLaXRsY1d3dGctZ1luWEVQTThxWWw5TllINzBfQm52ZGxnVktKVmFSLTg3QV9jUUZncDVuWnY2UFhmcVpiRGp5WEVGLVEwbUJkTExxeTBpNldVV3Jm?oc=5",
       "date": "Wed, 06 May 2026 07:58:25 GMT",
@@ -118,6 +125,13 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2NlNhTXhTVm1uSGFrTFQ0UXU2REstUXRYVU9pQTJFVHV2MkJ3cndjMlliaFpzekpDa19GN3d3c293b1ZiMUozTFRoQ3ZVOUVJcHFPTEVzR2w1VXRhQldNZDhNcWxMaXNYYTZYbkdlQS0?oc=5",
       "date": "Wed, 06 May 2026 00:30:00 GMT",
       "source": "블록체인투데이",
+      "score": 2
+    },
+    {
+      "title": "XRP, 1.20달러 지지선 굳히나…분석가 \"목표가는 10달러\"",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9abEVyMldvVXNnZk1qdGtxT2w0YUtYalo1RW8zbmppeGNBNElJcVphV3cxRUNmb1plZVFfOTlDRzJQLTBITW1GTkg0SjlGX190VXhmOWJNNjdUTWpyY3BXYWh6WVJCeHJUZ3VLU0dzQTNVbUk?oc=5",
+      "date": "Tue, 05 May 2026 23:43:08 GMT",
+      "source": "디지털투데이",
       "score": 2
     },
     {
@@ -147,20 +161,6 @@
       "date": "Mon, 04 May 2026 15:00:00 GMT",
       "source": "CBC뉴스",
       "score": 4
-    },
-    {
-      "title": "2026년 5월, XRP(리플) 완전 분석: 왜 기관 자금이 몰리고 있는가?",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQX29lcFVOdWQ5TkU1azFkLWJpdUhtMHUzZmRKbTlwSjVfclAtYlFqck1NRmRkWFMtUTl4anhHd1dHX2pfcWw2d2JWTTQyX1J3TFpPeW1DYjhGSmdmTFl4RHR3SW1zSTlTeUhPQ0xUell3U1ZIZDlwS2I0akZEdzBRRmdLT3Y2allRNFBscQ?oc=5",
-      "date": "Mon, 04 May 2026 04:55:00 GMT",
-      "source": "네이버 프리미엄콘텐츠",
-      "score": 3
-    },
-    {
-      "title": "리플(XRP), ‘클래리티 법안’ 통과 기대감에 촉각…시장 전반 영향 주목",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xV081Vk9JYVNVYVZveExqUkZhOWhoOTZpOFNNSzBhWF8teUpReHJRdkZ4RVhiOUN0ZUE4bkcxY19KdXozdU5tOFU5MzBELUJvLWR4VGp2dm5vekVWOENUUC1nTTZJUDFl?oc=5",
-      "date": "Mon, 04 May 2026 00:44:12 GMT",
-      "source": "CBC뉴스",
-      "score": 2
     }
   ]
 }
