@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-06T14:25:46",
+  "generated_at": "2026-05-06T15:09:18",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.42,
-    "price_krw": 2057.55,
-    "price_change_24h": 0.98574,
-    "price_change_7d": 2.71506,
-    "price_change_30d": 5.75578,
-    "market_cap_usd": 87755114686,
+    "price_krw": 2062.7,
+    "price_change_24h": 0.83152,
+    "price_change_7d": 3.58487,
+    "price_change_30d": 5.83997,
+    "market_cap_usd": 88003944996,
     "market_cap_rank": 4,
-    "volume_24h": 2778234585,
+    "volume_24h": 2782516587,
     "circulating_supply": 61796225236.0,
     "total_supply": 99985670046.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 88.24,
-    "sentiment_votes_down": 11.76,
+    "sentiment_votes_up": 88.71,
+    "sentiment_votes_down": 11.29,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 29.62,
-    "recent_tps": 29.62,
-    "recent_tx_count": 2666,
+    "tps_24h_avg": 45.52,
+    "recent_tps": 45.52,
+    "recent_tx_count": 4097,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104047758,
+    "ledger_seq": 104048430,
     "ledger_close_sec": 0.0,
-    "load_factor": 547.6953125,
+    "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-06 14:25:40 KST",
+    "updated_at": "2026-05-06 15:09:11 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 2680000,
     "total_net_inflow_usd": 2680000,
     "total_value_traded_usd": 2680000,
-    "updated_at": "SoSoValue 순유입 부분 수집 05/06 14:25",
+    "updated_at": "SoSoValue 순유입 부분 수집 05/06 15:09",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -142,13 +142,6 @@
       "score": 3
     },
     {
-      "title": "암호화폐(코인) 리플 부정자들에 대해 유명 분석가가 내놓은 확신 찬 반박",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EUVROVG5kc21wVmkxQmNGMWZrWXdqOUJkLU5Fa3p6dTJvTkE3enVCU1dXS1FUcnVZX19ITVdCZEFudHNRWGYzZXcwWl9QekF1bjFzbmVR?oc=5",
-      "date": "Tue, 05 May 2026 00:48:00 GMT",
-      "source": "위키트리",
-      "score": 2
-    },
-    {
       "title": "리플XRP ETF 자금 누적…기관 자금은 ‘조용한 확대’ 국면",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NVXZEY1pWUGlvTHhIZVM5NE5MdVh1N1lGWXlJb2VDQzV2N25kVDJpcmtqcGc0dmhmRXpkR0VtQi1HZ1ZyLWhEeGd4RHpveDBuNVQ1azFUTm9qYktCaktoV2M5QjEwcjND?oc=5",
       "date": "Mon, 04 May 2026 15:00:00 GMT",
@@ -161,6 +154,13 @@
       "date": "Mon, 04 May 2026 04:55:00 GMT",
       "source": "네이버 프리미엄콘텐츠",
       "score": 3
+    },
+    {
+      "title": "리플(XRP), ‘클래리티 법안’ 통과 기대감에 촉각…시장 전반 영향 주목",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xV081Vk9JYVNVYVZveExqUkZhOWhoOTZpOFNNSzBhWF8teUpReHJRdkZ4RVhiOUN0ZUE4bkcxY19KdXozdU5tOFU5MzBELUJvLWR4VGp2dm5vekVWOENUUC1nTTZJUDFl?oc=5",
+      "date": "Mon, 04 May 2026 00:44:12 GMT",
+      "source": "CBC뉴스",
+      "score": 2
     }
   ]
 }
