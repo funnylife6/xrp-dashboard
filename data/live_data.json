@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-05-06T12:24:53",
+  "generated_at": "2026-05-06T12:52:19",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.45,
-    "price_krw": 2099.18,
-    "price_change_24h": 2.96017,
-    "price_change_7d": 3.94424,
-    "price_change_30d": 7.11211,
-    "market_cap_usd": 89480779925,
+    "price_krw": 2096.22,
+    "price_change_24h": 2.57459,
+    "price_change_7d": 3.86204,
+    "price_change_30d": 7.0274,
+    "market_cap_usd": 89479602434,
     "market_cap_rank": 4,
-    "volume_24h": 2594656679,
+    "volume_24h": 2621532403,
     "circulating_supply": 61796225236.0,
     "total_supply": 99985670046.0,
     "ath_usd": 3.65,
@@ -22,16 +22,16 @@
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 40.91,
-    "recent_tps": 40.91,
-    "recent_tx_count": 3682,
+    "tps_24h_avg": 29.76,
+    "recent_tps": 29.76,
+    "recent_tx_count": 2678,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104045887,
+    "ledger_seq": 104046309,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-06 12:24:46 KST",
+    "updated_at": "2026-05-06 12:52:04 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 2680000,
     "total_net_inflow_usd": 2680000,
     "total_value_traded_usd": 2680000,
-    "updated_at": "SoSoValue 순유입 부분 수집 05/06 12:24",
+    "updated_at": "SoSoValue 순유입 부분 수집 05/06 12:52",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -104,7 +104,7 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9jT0NpeU52U2FiT2NEM29aMjAwQ3laeWJVT2N3eUROUXRnaXpURHdfTF9idmVfU0poTWxzQnhlNTUtTDcwMHZOd1AwM3lMcEx3YWFR?oc=5",
       "date": "Wed, 06 May 2026 00:49:09 GMT",
       "source": "네이트",
-      "score": 1
+      "score": 2
     },
     {
       "title": "넥소, 리플(XRP) 담보 무이자 대출 도입... 청산 없는 구조에 시장 관심",
@@ -118,14 +118,14 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9abEVyMldvVXNnZk1qdGtxT2w0YUtYalo1RW8zbmppeGNBNElJcVphV3cxRUNmb1plZVFfOTlDRzJQLTBITW1GTkg0SjlGX190VXhmOWJNNjdUTWpyY3BXYWh6WVJCeHJUZ3VLU0dzQTNVbUk?oc=5",
       "date": "Tue, 05 May 2026 23:43:08 GMT",
       "source": "디지털투데이",
-      "score": 1
+      "score": 2
     },
     {
       "title": "[알립니다] 리플이 보는 실물 자산의 토큰화 시장 미래는",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zMWxuN1RHYUlNejl2M0ktbXRweHhDZm1QemF4TFRuMVA4NmpkX3lCTlhfak5ZN2N2WGo0OThhOWRoXzJxeEJrbkotRmNLa1FLdVdr?oc=5",
       "date": "Tue, 05 May 2026 21:02:00 GMT",
       "source": "네이트",
-      "score": 1
+      "score": 2
     },
     {
       "title": "[리플 전망], XRP ETF 자금이 답이다? 2달러 가능성 갈리는 결정적 변수",
