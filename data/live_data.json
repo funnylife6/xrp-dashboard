@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-06T08:11:47",
+  "generated_at": "2026-05-06T08:33:21",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.43,
-    "price_krw": 2080.53,
-    "price_change_24h": 1.89937,
-    "price_change_7d": 3.0586,
-    "price_change_30d": 6.84166,
-    "market_cap_usd": 88507097698,
+    "price_krw": 2079.65,
+    "price_change_24h": 1.68249,
+    "price_change_7d": 2.95737,
+    "price_change_30d": 6.73672,
+    "market_cap_usd": 88460099772,
     "market_cap_rank": 4,
-    "volume_24h": 2111436648,
+    "volume_24h": 2125252514,
     "circulating_supply": 61796225236.0,
     "total_supply": 99985670046.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 87.61,
-    "sentiment_votes_down": 12.39,
+    "sentiment_votes_up": 88.39,
+    "sentiment_votes_down": 11.61,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 31.97,
-    "recent_tps": 31.97,
-    "recent_tx_count": 2877,
+    "tps_24h_avg": 43.64,
+    "recent_tps": 43.64,
+    "recent_tx_count": 3928,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104041975,
+    "ledger_seq": 104042310,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-06 08:11:36 KST",
+    "updated_at": "2026-05-06 08:33:16 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 2680000,
     "total_net_inflow_usd": 2680000,
     "total_value_traded_usd": 2680000,
-    "updated_at": "SoSoValue 순유입 부분 수집 05/06 08:11",
+    "updated_at": "SoSoValue 순유입 부분 수집 05/06 08:33",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -114,13 +114,6 @@
       "score": 1
     },
     {
-      "title": "\"아직 끝 아니다\"…엑스알피, 저항만 뚫으면 판 뒤집힌다",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBhNU80TmZwU3RXSm1ucTJWQTdBemJpVHMwR0ZWOExUUW9NSHhXcml2VDBrRnVlYU9ESkt3MEd4V0lCU2s1c3lrN2tR?oc=5",
-      "date": "Tue, 05 May 2026 22:32:00 GMT",
-      "source": "코인리더스",
-      "score": 0
-    },
-    {
       "title": "[알립니다] 리플이 보는 실물 자산의 토큰화 시장 미래는",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zMWxuN1RHYUlNejl2M0ktbXRweHhDZm1QemF4TFRuMVA4NmpkX3lCTlhfak5ZN2N2WGo0OThhOWRoXzJxeEJrbkotRmNLa1FLdVdr?oc=5",
       "date": "Tue, 05 May 2026 21:02:00 GMT",
@@ -135,11 +128,25 @@
       "score": 3
     },
     {
+      "title": "‘리플 투자 말라’…XRP 공동창업자 경고에 관계 재조명",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42X0hSUk5KVWFiTVJEWHljZWlxRTRHUEZWMXNta1lXUFdhX0tKVFB0b3FQX1U1Z2lIY3ZiZmoydFZtUWFvc19oXzZUYUx5MTdRVWwzNVBic2Z2WmwyaDBOcNIBZkFVX3lxTE9tRnVMdHZzWWppZUtrOEJBc05CUWhnbFNhb0dpMUdwMVIxODdVeG9RcC03dkNNZXN4eTJ1QjVGOGVDbnc1N0lTemNjV2IzOFZzOVNocXVjSTlWUVNjY3l3bTRQOEJ3QQ?oc=5",
+      "date": "Tue, 05 May 2026 18:27:28 GMT",
+      "source": "tokenpost.kr",
+      "score": 2
+    },
+    {
       "title": "리플 CEO “XRP 성공에 사활… RLUSD는 대체재 아닌 보완재”",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObllnMHZINUZJUjh0ZXltelJrUlhIVmhTczRpUDFFWERQMUFJUll3RXgteGZuTnYtUDVqSXhFeG1WSzV5MVFvQTFjZHBTNGJ4aHdkam0zS3NrNnlKVEN3TDN3elNnV1V6ZFZnT1lWSERJcHZEd1c3RmxBMUc1Y2lMdFE4MUZFSlUw?oc=5",
       "date": "Tue, 05 May 2026 04:31:08 GMT",
       "source": "글로벌이코노믹",
       "score": 3
+    },
+    {
+      "title": "암호화폐(코인) 리플 부정자들에 대해 유명 분석가가 내놓은 확신 찬 반박",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EUVROVG5kc21wVmkxQmNGMWZrWXdqOUJkLU5Fa3p6dTJvTkE3enVCU1dXS1FUcnVZX19ITVdCZEFudHNRWGYzZXcwWl9QekF1bjFzbmVR?oc=5",
+      "date": "Tue, 05 May 2026 00:48:00 GMT",
+      "source": "위키트리",
+      "score": 1
     },
     {
       "title": "리플XRP ETF 자금 누적…기관 자금은 ‘조용한 확대’ 국면",
@@ -154,13 +161,6 @@
       "date": "Mon, 04 May 2026 04:55:00 GMT",
       "source": "네이버 프리미엄콘텐츠",
       "score": 3
-    },
-    {
-      "title": "리플(XRP), ‘클래리티 법안’ 통과 기대감에 촉각…시장 전반 영향 주목",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xV081Vk9JYVNVYVZveExqUkZhOWhoOTZpOFNNSzBhWF8teUpReHJRdkZ4RVhiOUN0ZUE4bkcxY19KdXozdU5tOFU5MzBELUJvLWR4VGp2dm5vekVWOENUUC1nTTZJUDFl?oc=5",
-      "date": "Mon, 04 May 2026 00:44:12 GMT",
-      "source": "CBC뉴스",
-      "score": 2
     }
   ]
 }
