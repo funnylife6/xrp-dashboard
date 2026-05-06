@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-06T10:32:04",
+  "generated_at": "2026-05-06T12:24:53",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.45,
-    "price_krw": 2095.58,
-    "price_change_24h": 3.2638,
-    "price_change_7d": 4.19327,
-    "price_change_30d": 8.22871,
-    "market_cap_usd": 89630939471,
+    "price_krw": 2099.18,
+    "price_change_24h": 2.96017,
+    "price_change_7d": 3.94424,
+    "price_change_30d": 7.11211,
+    "market_cap_usd": 89480779925,
     "market_cap_rank": 4,
-    "volume_24h": 2439129284,
+    "volume_24h": 2594656679,
     "circulating_supply": 61796225236.0,
     "total_supply": 99985670046.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 87.72,
-    "sentiment_votes_down": 12.28,
+    "sentiment_votes_up": 87.29,
+    "sentiment_votes_down": 12.71,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 32.4,
-    "recent_tps": 32.4,
-    "recent_tx_count": 2916,
+    "tps_24h_avg": 40.91,
+    "recent_tps": 40.91,
+    "recent_tx_count": 3682,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104044143,
+    "ledger_seq": 104045887,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-06 10:31:53 KST",
+    "updated_at": "2026-05-06 12:24:46 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 2680000,
     "total_net_inflow_usd": 2680000,
     "total_value_traded_usd": 2680000,
-    "updated_at": "SoSoValue 순유입 부분 수집 05/06 10:32",
+    "updated_at": "SoSoValue 순유입 부분 수집 05/06 12:24",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -92,6 +92,20 @@
     }
   ],
   "general_news": [
+    {
+      "title": "리플 CEO \"XRP, 가장 강한 커뮤니티\"…멀티체인 시대 강조",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBONGZja3BIVm9JeWoxLVo2aUNPeVhVZXlyeW84THJDRHFOTlVwOVRmTjBtSVp4S2VFejJDbS1kdnhSYTVGUWROd0dVNHY5Tk5MeUVTU1JPaWpoY3Jna0kyatIBZkFVX3lxTE14Mkgta0c2ZV9tN1NnRUxPSno4TkVzNUoxSTVZYWdlTEpKNHRweDhBc2ItY3FDcDhYMXFkcUZfRW9IYmZYY1hHcjRYZl85bHdTaFdmeV9PdU9TWGZFQVZLV1JZSzB6QQ?oc=5",
+      "date": "Wed, 06 May 2026 11:27:24 GMT",
+      "source": "tokenpost.kr",
+      "score": 2
+    },
+    {
+      "title": "리플 전 CTO \"암호화폐는 일생일대의 투자 기회\"",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9jT0NpeU52U2FiT2NEM29aMjAwQ3laeWJVT2N3eUROUXRnaXpURHdfTF9idmVfU0poTWxzQnhlNTUtTDcwMHZOd1AwM3lMcEx3YWFR?oc=5",
+      "date": "Wed, 06 May 2026 00:49:09 GMT",
+      "source": "네이트",
+      "score": 1
+    },
     {
       "title": "넥소, 리플(XRP) 담보 무이자 대출 도입... 청산 없는 구조에 시장 관심",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2NlNhTXhTVm1uSGFrTFQ0UXU2REstUXRYVU9pQTJFVHV2MkJ3cndjMlliaFpzekpDa19GN3d3c293b1ZiMUozTFRoQ3ZVOUVJcHFPTEVzR2w1VXRhQldNZDhNcWxMaXNYYTZYbkdlQS0?oc=5",
@@ -147,20 +161,6 @@
       "date": "Mon, 04 May 2026 00:44:12 GMT",
       "source": "CBC뉴스",
       "score": 2
-    },
-    {
-      "title": "美 SEC, 엑스알피(XRP) '적격 자산' 인정… 비트코인·이더리움과 어깨 나란히",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRWlSVW1kOE9oVnVUM1dQWTRkSlhQT2daNE0xNXBZU1FaTnJJY1lCb1JWZUxnbXlBdldtR3Q4U3FZNlJ5WHNQcTg2Q2lobE9iYXE3OFhYY091V0c1ZC01T3pJR1FxaWoxTzY4SmFaU1NmbjFNU3l2SUVKYVh4R1gyOVEyQWlFNmN3?oc=5",
-      "date": "Sun, 03 May 2026 05:22:17 GMT",
-      "source": "글로벌이코노믹",
-      "score": 2
-    },
-    {
-      "title": "SEC, XRP ‘적격 자산’ 포함⋯ETF 승인 기대 커지나",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhNDdRSHZNQkY2R2RIWjJDUXNZa3hGZnYyYUtKZFdmRUlqRVphb2g5TXRxcnVaSXFWYzFuanA1TGllWDJCZ2J2OEhuMjdfTi1mR0V6OWpCb3k?oc=5",
-      "date": "Sun, 03 May 2026 00:07:00 GMT",
-      "source": "블록미디어",
-      "score": 3
     }
   ]
 }
