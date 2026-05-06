@@ -1752,6 +1752,7 @@ body::before{{content:'';position:fixed;inset:0;z-index:0;
 .hero-btn:hover{{background:linear-gradient(180deg,#2b8cff,#0a66ff);box-shadow:0 10px 26px rgba(0,94,255,.34),0 0 0 1px rgba(96,165,250,.16)}}
 .hero-btn:active{{transform:translateY(2px);box-shadow:0 4px 12px rgba(0,94,255,.22)}}
 .hero-btn.flash-red{{background:linear-gradient(180deg,#ff4d5e,#dc2626);box-shadow:0 8px 28px rgba(239,68,68,.42),0 0 0 1px rgba(255,120,120,.24);filter:saturate(1.08)}}
+.hero-btn.flash-purple{{background:linear-gradient(180deg,#a855f7,#7c3aed);box-shadow:0 8px 30px rgba(124,58,237,.46),0 0 0 1px rgba(196,181,253,.28);filter:saturate(1.12)}}
 .hero-ripple{{position:absolute;left:50%;top:50%;border-radius:999px;pointer-events:none;z-index:-1;
   transform:translate(-50%,-50%) scale(.55);opacity:.72;
   border:1.5px solid rgba(96,165,250,.72);
@@ -1776,6 +1777,7 @@ body::before{{content:'';position:fixed;inset:0;z-index:0;
 .hero-price{{font-family:'Noto Sans KR',sans-serif;font-size:32px;font-weight:900;
   color:#06101d;line-height:1;white-space:nowrap;letter-spacing:-1px;transition:color .18s ease,text-shadow .18s ease,transform .18s ease}}
 .hero-price.price-boosting{{color:#ef4444;text-shadow:0 0 18px rgba(239,68,68,.32);transform:translateY(-1px)}}
+.hero-price.price-mooning{{color:#8b5cf6;text-shadow:0 0 20px rgba(139,92,246,.42);transform:translateY(-1px) scale(1.015)}}
 .hero-price-krw{{font-size:13px;font-weight:700;color:#64748b;line-height:1.1;white-space:nowrap}}
 .hero-pct-wrap{{display:flex;flex-direction:column;gap:2px;margin-top:2px}}
 .hero-pct{{font-size:14px;font-weight:700;line-height:1.2;white-space:nowrap}}
@@ -2489,12 +2491,13 @@ function formatHeroUsd(v){{
 }}
 function easeOutCubic(t){{return 1-Math.pow(1-t,3);}}
 function easeInOutCubic(t){{return t<0.5?4*t*t*t:1-Math.pow(-2*t+2,3)/2;}}
-function animateHeroPriceNumber(from,to,duration,onDone){{
+function animateHeroPriceNumber(from,to,duration,onDone,token){{
   const el=document.getElementById('hero-price');
   if(!el){{if(onDone)onDone();return;}}
-  const start=performance.now();
+  const startTime=performance.now();
   function frame(now){{
-    const t=Math.min(1,(now-start)/duration);
+    if(token!==undefined && token!==boostAnimationToken) return;
+    const t=Math.min(1,(now-startTime)/duration);
     const eased=duration<=600?easeInOutCubic(t):easeOutCubic(t);
     const value=from+(to-from)*eased;
     el.textContent=formatHeroUsd(value);
@@ -2503,24 +2506,67 @@ function animateHeroPriceNumber(from,to,duration,onDone){{
   }}
   requestAnimationFrame(frame);
 }}
+
+let boostStage=0;       // 0: 평상시, 1: $100 연출/대기, 2: $589 연출
+let boostHold100=false; // $100에 도달해 2차 클릭을 받을 수 있는 구간
+let boostReturnTimer=null;
+let boostAnimationToken=0;
+
+function clearBoostReturnTimer(){{
+  if(boostReturnTimer){{clearTimeout(boostReturnTimer);boostReturnTimer=null;}}
+}}
+function resetPriceBoostState(backTo){{
+  const el=document.getElementById('hero-price');
+  priceBoostRunning=false;
+  boostStage=0;
+  boostHold100=false;
+  clearBoostReturnTimer();
+  if(el){{
+    el.classList.remove('price-boosting','price-mooning');
+    el.textContent=formatHeroUsd(liveHeroPriceUsd || backTo || 0);
+  }}
+}}
 function runPriceBoostTo100(){{
   if(priceBoostRunning)return;
   const el=document.getElementById('hero-price');
   const fallback=el?Number(String(el.textContent||'').replace(/[^0-9.]/g,'')):0;
   const start=Number(liveHeroPriceUsd || fallback || 0);
   priceBoostRunning=true;
-  if(el)el.classList.add('price-boosting');
-  // 상승 2초 → $100 유지 1초 → 원래 실시간 가격으로 0.5초 복귀
+  boostStage=1;
+  boostHold100=false;
+  clearBoostReturnTimer();
+  const token=++boostAnimationToken;
+  if(el){{el.classList.remove('price-mooning');el.classList.add('price-boosting');}}
+  // 첫 클릭: 상승 2초 → $100 유지 1초 → 원래 실시간 가격으로 0.5초 복귀
   animateHeroPriceNumber(start,100,2000,()=>{{
-    setTimeout(()=>{{
+    if(token!==boostAnimationToken || boostStage!==1)return;
+    boostHold100=true;
+    boostReturnTimer=setTimeout(()=>{{
+      if(token!==boostAnimationToken || boostStage!==1)return;
+      boostHold100=false;
       const backTo=Number(liveHeroPriceUsd || start || 0);
-      animateHeroPriceNumber(100,backTo,500,()=>{{
-        priceBoostRunning=false;
-        if(el)el.classList.remove('price-boosting');
-        setText('hero-price',formatHeroUsd(liveHeroPriceUsd || backTo));
-      }});
+      animateHeroPriceNumber(100,backTo,500,()=>resetPriceBoostState(backTo),token);
     }},1000);
-  }});
+  }},token);
+}}
+function runPriceBoostTo589(){{
+  if(boostStage!==1 || !boostHold100)return;
+  const el=document.getElementById('hero-price');
+  clearBoostReturnTimer();
+  boostHold100=false;
+  boostStage=2;
+  priceBoostRunning=true;
+  const token=++boostAnimationToken;
+  if(el){{el.classList.remove('price-boosting');el.classList.add('price-mooning');}}
+  // $100 대기 중 두 번째 클릭: $589까지 상승 → 잠깐 유지 → 실제 가격 복귀
+  animateHeroPriceNumber(100,589,2000,()=>{{
+    if(token!==boostAnimationToken || boostStage!==2)return;
+    boostReturnTimer=setTimeout(()=>{{
+      if(token!==boostAnimationToken || boostStage!==2)return;
+      const backTo=Number(liveHeroPriceUsd || 0);
+      animateHeroPriceNumber(589,backTo,500,()=>resetPriceBoostState(backTo),token);
+    }},1000);
+  }},token);
 }}
 
 function attachHeroButtonEffects(){{
@@ -2538,11 +2584,19 @@ function attachHeroButtonEffects(){{
       ripple.style.left='50%';
       ripple.style.top='50%';
       btn.appendChild(ripple);
-      btn.classList.remove('flash-red');
+
+      const secondBoostReady=(boostStage===1 && boostHold100);
+      btn.classList.remove('flash-red','flash-purple');
       void btn.offsetWidth;
-      btn.classList.add('flash-red');
-      setTimeout(()=>btn.classList.remove('flash-red'),220);
-      runPriceBoostTo100();
+      if(secondBoostReady){{
+        btn.classList.add('flash-purple');
+        setTimeout(()=>btn.classList.remove('flash-purple'),260);
+        runPriceBoostTo589();
+      }}else{{
+        btn.classList.add('flash-red');
+        setTimeout(()=>btn.classList.remove('flash-red'),220);
+        runPriceBoostTo100();
+      }}
       ripple.addEventListener('animationend',()=>ripple.remove(),{{once:true}});
     }});
   }});

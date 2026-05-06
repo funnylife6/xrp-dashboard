@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
-<title>XRP 분석 리포트 — 2026년 05월 06일 13:56 KST</title>
+<title>XRP 분석 리포트 — 2026년 05월 06일 14:25 KST</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;600;700&family=Syne:wght@400;600;700;800&family=Noto+Sans+KR:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
@@ -182,6 +182,7 @@ body::before{content:'';position:fixed;inset:0;z-index:0;
 .hero-btn:hover{background:linear-gradient(180deg,#2b8cff,#0a66ff);box-shadow:0 10px 26px rgba(0,94,255,.34),0 0 0 1px rgba(96,165,250,.16)}
 .hero-btn:active{transform:translateY(2px);box-shadow:0 4px 12px rgba(0,94,255,.22)}
 .hero-btn.flash-red{background:linear-gradient(180deg,#ff4d5e,#dc2626);box-shadow:0 8px 28px rgba(239,68,68,.42),0 0 0 1px rgba(255,120,120,.24);filter:saturate(1.08)}
+.hero-btn.flash-purple{background:linear-gradient(180deg,#a855f7,#7c3aed);box-shadow:0 8px 30px rgba(124,58,237,.46),0 0 0 1px rgba(196,181,253,.28);filter:saturate(1.12)}
 .hero-ripple{position:absolute;left:50%;top:50%;border-radius:999px;pointer-events:none;z-index:-1;
   transform:translate(-50%,-50%) scale(.55);opacity:.72;
   border:1.5px solid rgba(96,165,250,.72);
@@ -206,6 +207,7 @@ body::before{content:'';position:fixed;inset:0;z-index:0;
 .hero-price{font-family:'Noto Sans KR',sans-serif;font-size:32px;font-weight:900;
   color:#06101d;line-height:1;white-space:nowrap;letter-spacing:-1px;transition:color .18s ease,text-shadow .18s ease,transform .18s ease}
 .hero-price.price-boosting{color:#ef4444;text-shadow:0 0 18px rgba(239,68,68,.32);transform:translateY(-1px)}
+.hero-price.price-mooning{color:#8b5cf6;text-shadow:0 0 20px rgba(139,92,246,.42);transform:translateY(-1px) scale(1.015)}
 .hero-price-krw{font-size:13px;font-weight:700;color:#64748b;line-height:1.1;white-space:nowrap}
 .hero-pct-wrap{display:flex;flex-direction:column;gap:2px;margin-top:2px}
 .hero-pct{font-size:14px;font-weight:700;line-height:1.2;white-space:nowrap}
@@ -289,7 +291,7 @@ body::before{content:'';position:fixed;inset:0;z-index:0;
           <span class="hero-price" id="hero-price">$1.4200</span>
         </div>
         <div class="hero-pct-wrap">
-          <span class="hero-pct" id="hero-pct" style="color:#10b981">▲ +0.68%</span>
+          <span class="hero-pct" id="hero-pct" style="color:#10b981">▲ +0.99%</span>
           <span class="hero-pct-sub">24h 기준</span>
         </div>
       </div>
@@ -307,7 +309,7 @@ body::before{content:'';position:fixed;inset:0;z-index:0;
             <span class="hm-label">XRP Ledger TPS</span>
           </div>
           <div class="hm-row">
-            <span class="hm-value" id="hero-tps">39.16</span>
+            <span class="hm-value" id="hero-tps">29.62</span>
             <span class="hm-pct" style="color:#22c55e" id="hero-tps-sub">최근 ledger 평균</span>
           </div>
         </div>
@@ -317,8 +319,8 @@ body::before{content:'';position:fixed;inset:0;z-index:0;
             <span class="hm-label">XRP 시가총액</span>
           </div>
           <div class="hm-row">
-            <span class="hm-value" id="hero-mcap">$87.87B</span>
-            <span class="hm-pct" id="hero-mcap-pct" style="color:#10b981">+0.68%</span>
+            <span class="hm-value" id="hero-mcap">$87.76B</span>
+            <span class="hm-pct" id="hero-mcap-pct" style="color:#10b981">+0.99%</span>
           </div>
         </div>
       </div>
@@ -332,22 +334,22 @@ body::before{content:'';position:fixed;inset:0;z-index:0;
     <div class="card">
       <div class="cl">현재가 (USD)</div>
       <div class="cv" id="price-usd"><span class="cur">$</span><span class="num">1.4200</span></div>
-      <div class="cs" id="pct-24h" style="color:#10b981">24h +0.68%</div>
+      <div class="cs" id="pct-24h" style="color:#10b981">24h +0.99%</div>
     </div>
     <div class="card">
       <div class="cl">현재가 (KRW)</div>
-      <div class="cv" id="price-krw"><span class="cur">₩</span><span class="num">2,060</span></div>
-      <div class="cs" id="pct-7d" style="color:#10b981">7d +2.06%</div>
+      <div class="cv" id="price-krw"><span class="cur">₩</span><span class="num">2,058</span></div>
+      <div class="cs" id="pct-7d" style="color:#10b981">7d +2.72%</div>
     </div>
     <div class="card">
       <div class="cl">시가총액</div>
-      <div class="cv" id="market-cap"><span class="cur">₩</span><span class="num">127조 5,062억</span></div>
-      <div class="cs">$87.87B · 순위 #4</div>
+      <div class="cv" id="market-cap"><span class="cur">₩</span><span class="num">127조 1,553억</span></div>
+      <div class="cs">$87.76B · 순위 #4</div>
     </div>
     <div class="card">
       <div class="cl">24h 거래량</div>
-      <div class="cv" id="volume-24h"><span class="cur">₩</span><span class="num">3조 9,800억</span></div>
-      <div class="cs">$2.74B · CMC KRW 환산</div>
+      <div class="cv" id="volume-24h"><span class="cur">₩</span><span class="num">4조 256억</span></div>
+      <div class="cs">$2.78B · CMC KRW 환산</div>
     </div>
   </div>
   <div class="g2">
@@ -377,26 +379,26 @@ body::before{content:'';position:fixed;inset:0;z-index:0;
       <button class="tab-btn active">📰 국내 XRP / 리플 최신 뉴스</button>
       <span class="news-meta"><span class="dot"></span><span id="news-updated">최신순 · 갱신 중...</span></span>
     </div>
-    <div id="gen-list"><a class="ni" href="https://news.google.com/rss/articles/CBMiYEFVX3lxTFBONGZja3BIVm9JeWoxLVo2aUNPeVhVZXlyeW84THJDRHFOTlVwOVRmTjBtSVp4S2VFejJDbS1kdnhSYTVGUWROd0dVNHY5Tk5MeUVTU1JPaWpoY3Jna0kyatIBZkFVX3lxTE14Mkgta0c2ZV9tN1NnRUxPSno4TkVzNUoxSTVZYWdlTEpKNHRweDhBc2ItY3FDcDhYMXFkcUZfRW9IYmZYY1hHcjRYZl85bHdTaFdmeV9PdU9TWGZFQVZLV1JZSzB6QQ?oc=5" target="_blank" rel="noopener">
+    <div id="gen-list"><a class="ni" href="https://news.google.com/rss/articles/CBMiSkFVX3lxTE5aWWE1a21jOUg4RGlsRDVnLUFxS0NfVE4xdWw4MVVCcGxNZGh4a2xZTkRHNzgzc1ZJWnR5a1FpUjA3R2gtWElfWGN3?oc=5" target="_blank" rel="noopener">
           <span class="ntag breaking">⚡ 속보</span>
+          <span class="nt">"하반기 알트 시즌 온다"…전문가들이 주목한 핵심 코인 3개</span>
+          <span class="nsrc">코인리더스 · 56분 전</span>
+        </a><a class="ni" href="https://news.google.com/rss/articles/CBMiYEFVX3lxTFBONGZja3BIVm9JeWoxLVo2aUNPeVhVZXlyeW84THJDRHFOTlVwOVRmTjBtSVp4S2VFejJDbS1kdnhSYTVGUWROd0dVNHY5Tk5MeUVTU1JPaWpoY3Jna0kyatIBZkFVX3lxTE14Mkgta0c2ZV9tN1NnRUxPSno4TkVzNUoxSTVZYWdlTEpKNHRweDhBc2ItY3FDcDhYMXFkcUZfRW9IYmZYY1hHcjRYZl85bHdTaFdmeV9PdU9TWGZFQVZLV1JZSzB6QQ?oc=5" target="_blank" rel="noopener">
+          <span class="ntag">#2</span>
           <span class="nt">리플 CEO "XRP, 가장 강한 커뮤니티"…멀티체인 시대 강조</span>
           <span class="nsrc">tokenpost.kr · 2시간 전</span>
-        </a><a class="ni" href="https://news.google.com/rss/articles/CBMiSkFVX3lxTE05cC1PaFlUYlV6bW9jT0Rud0p6QjVpUEEza3JPV3ZkWHNNNG8ya3NXdmVnZlloaWNqdnBVd1dhSmNSb2tUcXBldTJn?oc=5" target="_blank" rel="noopener">
-          <span class="ntag">#2</span>
-          <span class="nt">리플 CEO "XRP 극단주의자 아냐"...비트코인 성공 지지 선언</span>
-          <span class="nsrc">코인리더스 · 10시간 전</span>
-        </a><a class="ni" href="https://news.google.com/rss/articles/CBMicEFVX3lxTFA2NlNhTXhTVm1uSGFrTFQ0UXU2REstUXRYVU9pQTJFVHV2MkJ3cndjMlliaFpzekpDa19GN3d3c293b1ZiMUozTFRoQ3ZVOUVJcHFPTEVzR2w1VXRhQldNZDhNcWxMaXNYYTZYbkdlQS0?oc=5" target="_blank" rel="noopener">
+        </a><a class="ni" href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE42X0VjVGpyLW9hckVLaXRsY1d3dGctZ1luWEVQTThxWWw5TllINzBfQm52ZGxnVktKVmFSLTg3QV9jUUZncDVuWnY2UFhmcVpiRGp5WEVGLVEwbUJkTExxeTBpNldVV3Jm?oc=5" target="_blank" rel="noopener">
           <span class="ntag">#3</span>
+          <span class="nt">리플(XRP), 유동성 5년래 최저 수준…1.43달러까지 반등하며 ‘변곡점’ 시선</span>
+          <span class="nsrc">CBC뉴스 · 6시간 전</span>
+        </a><a class="ni" href="https://news.google.com/rss/articles/CBMicEFVX3lxTFA2NlNhTXhTVm1uSGFrTFQ0UXU2REstUXRYVU9pQTJFVHV2MkJ3cndjMlliaFpzekpDa19GN3d3c293b1ZiMUozTFRoQ3ZVOUVJcHFPTEVzR2w1VXRhQldNZDhNcWxMaXNYYTZYbkdlQS0?oc=5" target="_blank" rel="noopener">
+          <span class="ntag">#4</span>
           <span class="nt">넥소, 리플(XRP) 담보 무이자 대출 도입... 청산 없는 구조에 시장 관심</span>
           <span class="nsrc">블록체인투데이 · 13시간 전</span>
-        </a><a class="ni" href="https://news.google.com/rss/articles/CBMic0FVX3lxTE9abEVyMldvVXNnZk1qdGtxT2w0YUtYalo1RW8zbmppeGNBNElJcVphV3cxRUNmb1plZVFfOTlDRzJQLTBITW1GTkg0SjlGX190VXhmOWJNNjdUTWpyY3BXYWh6WVJCeHJUZ3VLU0dzQTNVbUk?oc=5" target="_blank" rel="noopener">
-          <span class="ntag">#4</span>
-          <span class="nt">XRP, 1.20달러 지지선 굳히나…분석가 "목표가는 10달러"</span>
-          <span class="nsrc">디지털투데이 · 14시간 전</span>
         </a><a class="ni" href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zMWxuN1RHYUlNejl2M0ktbXRweHhDZm1QemF4TFRuMVA4NmpkX3lCTlhfak5ZN2N2WGo0OThhOWRoXzJxeEJrbkotRmNLa1FLdVdr?oc=5" target="_blank" rel="noopener">
           <span class="ntag">#5</span>
           <span class="nt">[알립니다] 리플이 보는 실물 자산의 토큰화 시장 미래는</span>
-          <span class="nsrc">네이트 · 16시간 전</span>
+          <span class="nsrc">네이트 · 17시간 전</span>
         </a><a class="ni" href="https://news.google.com/rss/articles/CBMigAFBVV95cUxPRENpRmpKWUZSS2x0ZndzMFAtbS0zN3BUTzdpREpQX3BURlkzRWlXTW1WUHowZW1TbFhYX2M5SC1fZXZwcmtyM204QTJCc1M4cC1uZnpuUmJHNTVwMnRraHJER2ZJcUZ2blBYa09PdmJJTFU2R3UtNVN3ajV6QWRiQw?oc=5" target="_blank" rel="noopener">
           <span class="ntag breaking">⚡ 속보</span>
           <span class="nt">[리플 전망], XRP ETF 자금이 답이다? 2달러 가능성 갈리는 결정적 변수</span>
@@ -405,18 +407,18 @@ body::before{content:'';position:fixed;inset:0;z-index:0;
           <span class="ntag breaking">⚡ 속보</span>
           <span class="nt">리플 CEO “XRP 성공에 사활… RLUSD는 대체재 아닌 보완재”</span>
           <span class="nsrc">글로벌이코노믹 · 05/05 04:31</span>
+        </a><a class="ni" href="https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EUVROVG5kc21wVmkxQmNGMWZrWXdqOUJkLU5Fa3p6dTJvTkE3enVCU1dXS1FUcnVZX19ITVdCZEFudHNRWGYzZXcwWl9QekF1bjFzbmVR?oc=5" target="_blank" rel="noopener">
+          <span class="ntag">#8</span>
+          <span class="nt">암호화폐(코인) 리플 부정자들에 대해 유명 분석가가 내놓은 확신 찬 반박</span>
+          <span class="nsrc">위키트리 · 05/05 00:48</span>
         </a><a class="ni" href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NVXZEY1pWUGlvTHhIZVM5NE5MdVh1N1lGWXlJb2VDQzV2N25kVDJpcmtqcGc0dmhmRXpkR0VtQi1HZ1ZyLWhEeGd4RHpveDBuNVQ1azFUTm9qYktCaktoV2M5QjEwcjND?oc=5" target="_blank" rel="noopener">
           <span class="ntag breaking">⚡ 속보</span>
           <span class="nt">리플XRP ETF 자금 누적…기관 자금은 ‘조용한 확대’ 국면</span>
           <span class="nsrc">CBC뉴스 · 05/04 15:00</span>
         </a><a class="ni" href="https://news.google.com/rss/articles/CBMijAFBVV95cUxQX29lcFVOdWQ5TkU1azFkLWJpdUhtMHUzZmRKbTlwSjVfclAtYlFqck1NRmRkWFMtUTl4anhHd1dHX2pfcWw2d2JWTTQyX1J3TFpPeW1DYjhGSmdmTFl4RHR3SW1zSTlTeUhPQ0xUell3U1ZIZDlwS2I0akZEdzBRRmdLT3Y2allRNFBscQ?oc=5" target="_blank" rel="noopener">
-          <span class="ntag">#9</span>
+          <span class="ntag">#10</span>
           <span class="nt">2026년 5월, XRP(리플) 완전 분석: 왜 기관 자금이 몰리고 있는가?</span>
           <span class="nsrc">네이버 프리미엄콘텐츠 · 05/04 04:55</span>
-        </a><a class="ni" href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xV081Vk9JYVNVYVZveExqUkZhOWhoOTZpOFNNSzBhWF8teUpReHJRdkZ4RVhiOUN0ZUE4bkcxY19KdXozdU5tOFU5MzBELUJvLWR4VGp2dm5vekVWOENUUC1nTTZJUDFl?oc=5" target="_blank" rel="noopener">
-          <span class="ntag">#10</span>
-          <span class="nt">리플(XRP), ‘클래리티 법안’ 통과 기대감에 촉각…시장 전반 영향 주목</span>
-          <span class="nsrc">CBC뉴스 · 05/04 00:44</span>
         </a></div>
   </div>
 
@@ -434,19 +436,19 @@ body::before{content:'';position:fixed;inset:0;z-index:0;
           <span class="rni-dot"></span>
           <span class="rni-content">
             <span class="rni-title">리플 CEO "향후 2주, 시장구조 규제 법안 통과 분수령"</span>
-            <span class="rni-src">블루밍비트 · 20시간 전</span>
+            <span class="rni-src">블루밍비트 · 21시간 전</span>
+          </span>
+        </a><a class="reg-ni" href="https://news.google.com/rss/articles/CBMickFVX3lxTE9BSVdKeDV0OUxhOEtWQ2w5WmpCU3VCLW5od3U5RG80QlJmZFlSQnd6YzFWTGs1TjNmUHAyRkRXN214LUY2ck1LVUQ0MnpyUjdCc0VNNG9oRVRDMzdWajFPdTh6VXc3Qm1nVTFYZjJhZGhuZw?oc=5" target="_blank" rel="noopener">
+          <span class="rni-dot"></span>
+          <span class="rni-content">
+            <span class="rni-title">팀 스콧 상원의원 "클래리티 법안 은행위 통과, 약 2주 소요될 것"</span>
+            <span class="rni-src">디지털애셋 · 04/15 07:00</span>
           </span>
         </a><a class="reg-ni" href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE05VEVzck5ReHpwdG5ESEJ6dFlCWDdiYkZRZHIxTDQxb0s3UHhQbjI4Zm5xRlBBQXZUUGVlWWxxMm43MF9wb3ZxN2lCeWVWekw3VWhGNlI1eW1MWUVYSG1jZzI3aGRPeUd4?oc=5" target="_blank" rel="noopener">
           <span class="rni-dot"></span>
           <span class="rni-content">
             <span class="rni-title">리플·솔라나, 4월 16일 SEC 회의 앞두고 ‘숨 고르기’…XRP 1.5달러·SOL 100달러 가능성은?</span>
             <span class="rni-src">CBC뉴스 · 04/11 07:00</span>
-          </span>
-        </a><a class="reg-ni" href="https://news.google.com/rss/articles/CBMickFVX3lxTFBmbkJxSTNKSUE5SFRGUkl1NlFnZ1BoR0hXYWx3bS1BVnFpSWRfd19TTkFNdWFFUnVjdnBMWVJHMWVub2JDM2I4YWdqc2ppRkI1Tm42TXZVYU1hRHJLRGRGaUJldHpXSWtYOFk3R3FFbUFUUQ?oc=5" target="_blank" rel="noopener">
-          <span class="rni-dot"></span>
-          <span class="rni-content">
-            <span class="rni-title">"시간 없다"...美 재무장관, 클래리티 법안 조속 처리 촉구</span>
-            <span class="rni-src">디지털애셋 · 04/09 07:00</span>
           </span>
         </a><a class="reg-ni" href="https://news.google.com/rss/articles/CBMi7AFBVV95cUxNMnA0d2U2c1hfR01PN2Zsamx1TnZfUGZEeVdRWEtKc1U2ZGg3Vk1XWDJrd215NlR4V1JkSmFyek9vOWwtamlWeDhPOVd4RXZEdk1xUjhyb0FSY2ptY0hlbE5nR2J5eUtoRU9ERldzWUtFYTEwMUhvZy1VRHRBN1FEN3ViWUh5dmJIWkJwWEt1bGlNVkIzXzhSNkZaMUlHX0o1bzg2MEN3UGkwWjFsZ1htdEgwazFFYUNRcHpsREpyM2FOQ3owTDZiakE0aVV0Q3pnTm1zRWxnUUZPXzRkVHBVOVpQYllkcUQwYVRJVg?oc=5" target="_blank" rel="noopener">
           <span class="rni-dot"></span>
@@ -532,27 +534,33 @@ body::before{content:'';position:fixed;inset:0;z-index:0;
   <div class="inst-grid">
     <div class="inst-card">
       <div class="ic-label">RLUSD 시가총액</div>
-      <div class="ic-value" style="color:var(--accent)">₩2조 2,348억</div>
+      <div class="ic-value" style="color:var(--accent)">₩2조 2,317억</div>
       <div class="ic-sub">$1.54B · CMC KRW 환산</div>
       <div class="ic-mini"><span>상태</span><b>모니터링</b></div>
     </div>
     <div class="inst-card">
       <div class="ic-label">XRPL 네트워크</div>
-      <div class="ic-value" style="color:var(--green)">39.16 TPS</div>
+      <div class="ic-value" style="color:var(--green)">29.62 TPS</div>
       <div class="ic-sub">24h TX 0건 · 7일 평균 0건</div>
-      <div class="ic-mini"><span>Ledger #104,047,304</span><b>Close 0.00s</b></div>
+      <div class="ic-mini"><span>Ledger #104,047,758</span><b>Close 0.00s</b></div>
     </div>
     <div class="inst-card">
       <div class="ic-label">XRP 현물 ETF 순유입</div>
       <div class="ic-value" style="color:var(--green)" id="etf-daily-inflow">일일 순유입 수집중</div>
       <div class="ic-sub">일일 순유입</div>
       <div class="ic-sub">누적 순유입 <b id="etf-total-inflow" style="color:var(--text)">$2.68M</b></div>
-      <div class="ic-mini"><span>ETF 순유입 부분 수집</span><b id="etf-flow-source">SoSoValue 순유입 부분 수집 05/06 13:56</b></div>
+      <div class="ic-mini"><span>ETF 순유입 부분 수집</span><b id="etf-flow-source">SoSoValue 순유입 부분 수집 05/06 14:25</b></div>
     </div>
   </div>
   <div class="etf-box">
     <div class="etf-hdr">기관 / ETF 관련 최신 동향</div>
-    <div id="etf-list"><a class="reg-ni" href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUTZmczdLelNXbHdOa1BUSFZ6cUJzVTU3N2hMQXNuSkJ2S1hzU19OVGI5X1pXb2t3aWtONnpza0JkcW9iWE5HNTQtQ3ozc1dXWnBfOEJDUS1FWkdTeW9JRnhrcU10QndqeGhEVzBiVFdENkVhcnNXOXBWS29MWGxLTDhwczA5YkNa?oc=5" target="_blank" rel="noopener">
+    <div id="etf-list"><a class="reg-ni" href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE42X0VjVGpyLW9hckVLaXRsY1d3dGctZ1luWEVQTThxWWw5TllINzBfQm52ZGxnVktKVmFSLTg3QV9jUUZncDVuWnY2UFhmcVpiRGp5WEVGLVEwbUJkTExxeTBpNldVV3Jm?oc=5" target="_blank" rel="noopener">
+          <span class="rni-dot"></span>
+          <span class="rni-content">
+            <span class="rni-title">리플(XRP), 유동성 5년래 최저 수준…1.43달러까지 반등하며 ‘변곡점’ 시선</span>
+            <span class="rni-src">CBC뉴스 · 6시간 전</span>
+          </span>
+        </a><a class="reg-ni" href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUTZmczdLelNXbHdOa1BUSFZ6cUJzVTU3N2hMQXNuSkJ2S1hzU19OVGI5X1pXb2t3aWtONnpza0JkcW9iWE5HNTQtQ3ozc1dXWnBfOEJDUS1FWkdTeW9JRnhrcU10QndqeGhEVzBiVFdENkVhcnNXOXBWS29MWGxLTDhwczA5YkNa?oc=5" target="_blank" rel="noopener">
           <span class="rni-dot"></span>
           <span class="rni-content">
             <span class="rni-title">1.40달러 회복한 XRP, 주요 저항선 뚫고 본격 반등 랠리 시작할까</span>
@@ -569,12 +577,6 @@ body::before{content:'';position:fixed;inset:0;z-index:0;
           <span class="rni-content">
             <span class="rni-title">비트와이즈의 압도적 독주… 4월 가상자산 시장 뒤흔든 XRP 현물 ETF의 돌풍 무슨 이슈?</span>
             <span class="rni-src">핀포인트뉴스 · 05/05 01:58</span>
-          </span>
-        </a><a class="reg-ni" href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NVXZEY1pWUGlvTHhIZVM5NE5MdVh1N1lGWXlJb2VDQzV2N25kVDJpcmtqcGc0dmhmRXpkR0VtQi1HZ1ZyLWhEeGd4RHpveDBuNVQ1azFUTm9qYktCaktoV2M5QjEwcjND?oc=5" target="_blank" rel="noopener">
-          <span class="rni-dot"></span>
-          <span class="rni-content">
-            <span class="rni-title">리플XRP ETF 자금 누적…기관 자금은 ‘조용한 확대’ 국면</span>
-            <span class="rni-src">CBC뉴스 · 05/04 15:00</span>
           </span>
         </a></div>
   </div>
@@ -594,7 +596,7 @@ function switchTab(id,btn){
 }
 
 // 히어로 스파크라인
-const heroSparkPrices = [1.37627, 1.36216, 1.39192, 1.45288, 1.47719, 1.43269, 1.39379, 1.42491, 1.43079, 1.4295, 1.43926, 1.43366, 1.42417, 1.43059, 1.39992, 1.38063, 1.36893, 1.36721, 1.38389, 1.39312, 1.38782, 1.39103, 1.41322, 1.4229];
+const heroSparkPrices = [1.37627, 1.36216, 1.39192, 1.45288, 1.47719, 1.43269, 1.39379, 1.42491, 1.43079, 1.4295, 1.43926, 1.43366, 1.42417, 1.43059, 1.39992, 1.38063, 1.36893, 1.36721, 1.38389, 1.39312, 1.38782, 1.39103, 1.41322, 1.42028];
 const sparkCtx = document.getElementById('sparkChart');
 if(sparkCtx) {
   new Chart(sparkCtx, {
@@ -602,7 +604,7 @@ if(sparkCtx) {
     data:{
       labels: ["04/14", "04/15", "04/16", "04/17", "04/18", "04/19", "04/20", "04/21", "04/22", "04/23", "04/24", "04/25", "04/26", "04/27", "04/28", "04/29", "04/30", "05/01", "05/02", "05/03", "05/04", "05/05", "05/06", "05/06"],
       datasets:[{
-        data: [1.37627, 1.36216, 1.39192, 1.45288, 1.47719, 1.43269, 1.39379, 1.42491, 1.43079, 1.4295, 1.43926, 1.43366, 1.42417, 1.43059, 1.39992, 1.38063, 1.36893, 1.36721, 1.38389, 1.39312, 1.38782, 1.39103, 1.41322, 1.4229],
+        data: [1.37627, 1.36216, 1.39192, 1.45288, 1.47719, 1.43269, 1.39379, 1.42491, 1.43079, 1.4295, 1.43926, 1.43366, 1.42417, 1.43059, 1.39992, 1.38063, 1.36893, 1.36721, 1.38389, 1.39312, 1.38782, 1.39103, 1.41322, 1.42028],
         borderColor:'#3b82f6',borderWidth:2,
         backgroundColor:'rgba(59,130,246,0.08)',
         fill:true,tension:0.4
@@ -1055,12 +1057,13 @@ function formatHeroUsd(v){
 }
 function easeOutCubic(t){return 1-Math.pow(1-t,3);}
 function easeInOutCubic(t){return t<0.5?4*t*t*t:1-Math.pow(-2*t+2,3)/2;}
-function animateHeroPriceNumber(from,to,duration,onDone){
+function animateHeroPriceNumber(from,to,duration,onDone,token){
   const el=document.getElementById('hero-price');
   if(!el){if(onDone)onDone();return;}
-  const start=performance.now();
+  const startTime=performance.now();
   function frame(now){
-    const t=Math.min(1,(now-start)/duration);
+    if(token!==undefined && token!==boostAnimationToken) return;
+    const t=Math.min(1,(now-startTime)/duration);
     const eased=duration<=600?easeInOutCubic(t):easeOutCubic(t);
     const value=from+(to-from)*eased;
     el.textContent=formatHeroUsd(value);
@@ -1069,24 +1072,67 @@ function animateHeroPriceNumber(from,to,duration,onDone){
   }
   requestAnimationFrame(frame);
 }
+
+let boostStage=0;       // 0: 평상시, 1: $100 연출/대기, 2: $589 연출
+let boostHold100=false; // $100에 도달해 2차 클릭을 받을 수 있는 구간
+let boostReturnTimer=null;
+let boostAnimationToken=0;
+
+function clearBoostReturnTimer(){
+  if(boostReturnTimer){clearTimeout(boostReturnTimer);boostReturnTimer=null;}
+}
+function resetPriceBoostState(backTo){
+  const el=document.getElementById('hero-price');
+  priceBoostRunning=false;
+  boostStage=0;
+  boostHold100=false;
+  clearBoostReturnTimer();
+  if(el){
+    el.classList.remove('price-boosting','price-mooning');
+    el.textContent=formatHeroUsd(liveHeroPriceUsd || backTo || 0);
+  }
+}
 function runPriceBoostTo100(){
   if(priceBoostRunning)return;
   const el=document.getElementById('hero-price');
   const fallback=el?Number(String(el.textContent||'').replace(/[^0-9.]/g,'')):0;
   const start=Number(liveHeroPriceUsd || fallback || 0);
   priceBoostRunning=true;
-  if(el)el.classList.add('price-boosting');
-  // 상승 2초 → $100 유지 1초 → 원래 실시간 가격으로 0.5초 복귀
+  boostStage=1;
+  boostHold100=false;
+  clearBoostReturnTimer();
+  const token=++boostAnimationToken;
+  if(el){el.classList.remove('price-mooning');el.classList.add('price-boosting');}
+  // 첫 클릭: 상승 2초 → $100 유지 1초 → 원래 실시간 가격으로 0.5초 복귀
   animateHeroPriceNumber(start,100,2000,()=>{
-    setTimeout(()=>{
+    if(token!==boostAnimationToken || boostStage!==1)return;
+    boostHold100=true;
+    boostReturnTimer=setTimeout(()=>{
+      if(token!==boostAnimationToken || boostStage!==1)return;
+      boostHold100=false;
       const backTo=Number(liveHeroPriceUsd || start || 0);
-      animateHeroPriceNumber(100,backTo,500,()=>{
-        priceBoostRunning=false;
-        if(el)el.classList.remove('price-boosting');
-        setText('hero-price',formatHeroUsd(liveHeroPriceUsd || backTo));
-      });
+      animateHeroPriceNumber(100,backTo,500,()=>resetPriceBoostState(backTo),token);
     },1000);
-  });
+  },token);
+}
+function runPriceBoostTo589(){
+  if(boostStage!==1 || !boostHold100)return;
+  const el=document.getElementById('hero-price');
+  clearBoostReturnTimer();
+  boostHold100=false;
+  boostStage=2;
+  priceBoostRunning=true;
+  const token=++boostAnimationToken;
+  if(el){el.classList.remove('price-boosting');el.classList.add('price-mooning');}
+  // $100 대기 중 두 번째 클릭: $589까지 상승 → 잠깐 유지 → 실제 가격 복귀
+  animateHeroPriceNumber(100,589,2000,()=>{
+    if(token!==boostAnimationToken || boostStage!==2)return;
+    boostReturnTimer=setTimeout(()=>{
+      if(token!==boostAnimationToken || boostStage!==2)return;
+      const backTo=Number(liveHeroPriceUsd || 0);
+      animateHeroPriceNumber(589,backTo,500,()=>resetPriceBoostState(backTo),token);
+    },1000);
+  },token);
 }
 
 function attachHeroButtonEffects(){
@@ -1104,11 +1150,19 @@ function attachHeroButtonEffects(){
       ripple.style.left='50%';
       ripple.style.top='50%';
       btn.appendChild(ripple);
-      btn.classList.remove('flash-red');
+
+      const secondBoostReady=(boostStage===1 && boostHold100);
+      btn.classList.remove('flash-red','flash-purple');
       void btn.offsetWidth;
-      btn.classList.add('flash-red');
-      setTimeout(()=>btn.classList.remove('flash-red'),220);
-      runPriceBoostTo100();
+      if(secondBoostReady){
+        btn.classList.add('flash-purple');
+        setTimeout(()=>btn.classList.remove('flash-purple'),260);
+        runPriceBoostTo589();
+      }else{
+        btn.classList.add('flash-red');
+        setTimeout(()=>btn.classList.remove('flash-red'),220);
+        runPriceBoostTo100();
+      }
       ripple.addEventListener('animationend',()=>ripple.remove(),{once:true});
     });
   });
