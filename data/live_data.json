@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-06T07:27:22",
+  "generated_at": "2026-05-06T07:50:49",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.43,
-    "price_krw": 2086.53,
-    "price_change_24h": 1.83281,
-    "price_change_7d": 3.00212,
-    "price_change_30d": 6.96944,
-    "market_cap_usd": 88500557975,
+    "price_krw": 2086.48,
+    "price_change_24h": 1.94962,
+    "price_change_7d": 3.11347,
+    "price_change_30d": 7.08508,
+    "market_cap_usd": 88534179765,
     "market_cap_rank": 4,
-    "volume_24h": 2137922944,
+    "volume_24h": 2105130914,
     "circulating_supply": 61796225236.0,
     "total_supply": 99985670046.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 88.14,
-    "sentiment_votes_down": 11.86,
+    "sentiment_votes_up": 87.93,
+    "sentiment_votes_down": 12.07,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 30.01,
-    "recent_tps": 30.01,
-    "recent_tx_count": 2701,
+    "tps_24h_avg": 34.34,
+    "recent_tps": 34.34,
+    "recent_tx_count": 3091,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104041287,
+    "ledger_seq": 104041650,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-06 07:27:11 KST",
+    "updated_at": "2026-05-06 07:50:41 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 2680000,
     "total_net_inflow_usd": 2680000,
     "total_value_traded_usd": 2680000,
-    "updated_at": "SoSoValue 순유입 부분 수집 05/06 07:27",
+    "updated_at": "SoSoValue 순유입 부분 수집 05/06 07:50",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -93,10 +93,24 @@
   ],
   "general_news": [
     {
+      "title": "리플, 기관금융 공략 속 XRP 실사용 확대 나섰다",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qQWg2dWh1TzFGN2tiSW52el84OW1QZnluc0VMWFU4eGdudVg3Z19tTUFGRVl0anc1MjdZRV9ob0tmUE8xaklsWWV3Y3AyR1k5MjQ3aTg5NFBQLXA4VTdOddIBZkFVX3lxTE9FQWp5V2NpcTBqQmt6LXk1WE13NzQ3TC1mUjJJR1QwMjBta24wZk5jMkE4TEFDa2lqSHVILW1rSGROcVJSRnhkei1pWmNXZGpUdnZmNTYybVN6Tks3SmotWFExZDh6Zw?oc=5",
+      "date": "Wed, 06 May 2026 06:57:19 GMT",
+      "source": "tokenpost.kr",
+      "score": 3
+    },
+    {
       "title": "비트코인 8만 달러 돌파와 XRP의 기회 — 2026년 5월 시장을 차분히 점검하다",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWjZGcEt0bWpTQVdrclFfT09KYndyeXNHSUp6QWlseFBnM2QtQVp2VUU2ZjM1blpyZjAyelI3VkljSS1qbGFvR0NRWTYzYnFoRHEtaVNucmVFUWRuSXVMRXZxWFhPYzlpa3NlWU9yT2hyOTE3anp6UmdwNks3aUNnc3Byd21TdWNqR3JjNw?oc=5",
       "date": "Wed, 06 May 2026 02:10:00 GMT",
       "source": "네이버 프리미엄콘텐츠",
+      "score": 1
+    },
+    {
+      "title": "리플 전 CTO \"암호화폐는 일생일대의 투자 기회\"",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9jT0NpeU52U2FiT2NEM29aMjAwQ3laeWJVT2N3eUROUXRnaXpURHdfTF9idmVfU0poTWxzQnhlNTUtTDcwMHZOd1AwM3lMcEx3YWFR?oc=5",
+      "date": "Wed, 06 May 2026 00:49:09 GMT",
+      "source": "네이트",
       "score": 1
     },
     {
@@ -128,25 +142,11 @@
       "score": 3
     },
     {
-      "title": "‘리플 투자 말라’…XRP 공동창업자 경고에 관계 재조명",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42X0hSUk5KVWFiTVJEWHljZWlxRTRHUEZWMXNta1lXUFdhX0tKVFB0b3FQX1U1Z2lIY3ZiZmoydFZtUWFvc19oXzZUYUx5MTdRVWwzNVBic2Z2WmwyaDBOcNIBZkFVX3lxTE9tRnVMdHZzWWppZUtrOEJBc05CUWhnbFNhb0dpMUdwMVIxODdVeG9RcC03dkNNZXN4eTJ1QjVGOGVDbnc1N0lTemNjV2IzOFZzOVNocXVjSTlWUVNjY3l3bTRQOEJ3QQ?oc=5",
-      "date": "Tue, 05 May 2026 18:27:28 GMT",
-      "source": "tokenpost.kr",
-      "score": 2
-    },
-    {
       "title": "리플 CEO “XRP 성공에 사활… RLUSD는 대체재 아닌 보완재”",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObllnMHZINUZJUjh0ZXltelJrUlhIVmhTczRpUDFFWERQMUFJUll3RXgteGZuTnYtUDVqSXhFeG1WSzV5MVFvQTFjZHBTNGJ4aHdkam0zS3NrNnlKVEN3TDN3elNnV1V6ZFZnT1lWSERJcHZEd1c3RmxBMUc1Y2lMdFE4MUZFSlUw?oc=5",
       "date": "Tue, 05 May 2026 04:31:08 GMT",
       "source": "글로벌이코노믹",
       "score": 3
-    },
-    {
-      "title": "암호화폐(코인) 리플 부정자들에 대해 유명 분석가가 내놓은 확신 찬 반박",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EUVROVG5kc21wVmkxQmNGMWZrWXdqOUJkLU5Fa3p6dTJvTkE3enVCU1dXS1FUcnVZX19ITVdCZEFudHNRWGYzZXcwWl9QekF1bjFzbmVR?oc=5",
-      "date": "Tue, 05 May 2026 00:48:00 GMT",
-      "source": "위키트리",
-      "score": 1
     },
     {
       "title": "리플XRP ETF 자금 누적…기관 자금은 ‘조용한 확대’ 국면",
