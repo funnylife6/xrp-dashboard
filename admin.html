@@ -228,14 +228,14 @@ async function loadAdminComments(){
 }
 
 loadAdminComments();
-<button onclick="logoutAdmin()">로그아웃</button>
-  <script>
+
 function logoutAdmin(){
-    sessionStorage.removeItem("admin_auth");
-    location.reload();
+  sessionStorage.removeItem("admin_auth");
+  location.reload();
 }
 </script>
 
+<button onclick="logoutAdmin()">로그아웃</button>
 </body>
 </html>
 ```
