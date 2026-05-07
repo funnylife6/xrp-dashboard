@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-07T22:55:05",
+  "generated_at": "2026-05-07T23:46:32",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.38,
-    "price_krw": 2016.35,
-    "price_change_24h": -2.65444,
-    "price_change_7d": 1.12042,
-    "price_change_30d": 5.13279,
-    "market_cap_usd": 85543471369,
+    "price_usd": 1.39,
+    "price_krw": 2019.21,
+    "price_change_24h": -2.57582,
+    "price_change_7d": 1.69041,
+    "price_change_30d": 3.69842,
+    "market_cap_usd": 85706178060,
     "market_cap_rank": 5,
-    "volume_24h": 1964257668,
+    "volume_24h": 1833467876,
     "circulating_supply": 61796225236.0,
     "total_supply": 99985670046.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 82.5,
-    "sentiment_votes_down": 17.5,
+    "sentiment_votes_up": 82.28,
+    "sentiment_votes_down": 17.72,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 30.77,
-    "recent_tps": 30.77,
-    "recent_tx_count": 2769,
+    "tps_24h_avg": 34.41,
+    "recent_tps": 34.41,
+    "recent_tx_count": 3097,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104077910,
+    "ledger_seq": 104078706,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-07 22:54:57 KST",
+    "updated_at": "2026-05-07 23:46:23 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -94,10 +94,24 @@
   ],
   "general_news": [
     {
+      "title": "[오늘의 비트코인] 美·이란 협상 불확실성에 8만달러 반납",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YUDlEQU9zYVlLY1pMR1dMMDhzNUFicUowZVBJUWZTdktSRVVqODZsaVZMY1ZpQnFaaVgzLXdyVlp5X3RWREZWZ1JsQmlCX3hlSjlrQ1Rn?oc=5",
+      "date": "Thu, 07 May 2026 23:27:25 GMT",
+      "source": "DealSite경제TV",
+      "score": 2
+    },
+    {
       "title": "비쓰리·비트코인·리플XRP 하락…중동 협상 불안에 코인시장 ‘관망 장세’",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBaUkJESy1yQU5VaWtnNHdGVEcxRG0xWkhTYUpVZjhGeHY3bmVWRExZT0FCNHpCNVo4SEE2dkxZdjNLM0I5bHkzTk5teUctM3I1ekZfTHl5MG9RaWZBdDNkaWFWNG5oam90QXdqbXJhRS1FUQ?oc=5",
       "date": "Thu, 07 May 2026 22:07:03 GMT",
       "source": "톱스타뉴스",
+      "score": 2
+    },
+    {
+      "title": "리플코인 시세: XRP/USD 실시간 가격 차트, 시가총액 & 오늘의 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcUYzZnpiMXFBUVd6eEY5TnRkeS15VWNVUWtma1lpYmoyTzRKbUw3WnZuSEdaSWlIUjNMRDFyeXY1Y3dSQlNncjNrVFp6S3RCS3UzUXJsZjdCZGg1TWJfeDFpMEljcERRS2Nab2tRUlp0VmVUUG5GTXg5enM2TUhTV3RHMnk0MHpROW9yaA?oc=5",
+      "date": "Thu, 07 May 2026 21:03:48 GMT",
+      "source": "CoinGecko",
       "score": 2
     },
     {
@@ -143,25 +157,11 @@
       "score": 4
     },
     {
-      "title": "트레이더들이 돌파구를 주시하는 가운데 리플 관련 XRP가 1.42달러 아래로 25% 하락",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOX0dGa0JSR2s3aHpIWXZrMVhOR3hYT0t5LUVmMWwzZGtPZXl3TGtYT2h3TVFwNVBBQ0o0Z1JzQjJacWpzTUI1TGZ6TXlOMlBMZUJTT2ZiVTA4cVRnb2JDYURQTWs5T0tvTXU5eF9XZTgza25UOXBVWi12azJYdWpubDdwNFlxdkd4NVMyWlRnbU1JOXBjQzU4YUczc19Cd0VSSEhkQXQ1TmFDVEluVzRTNTVPWQ?oc=5",
-      "date": "Wed, 06 May 2026 23:30:00 GMT",
-      "source": "CoinDesk",
-      "score": 2
-    },
-    {
       "title": "리플 CEO \"XRP, 이제 기관 담보로 쓰인다\"… 실사용 가치 증명 '자신감’",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa01QUEtIWGpGYkhCLXAyTlBCdEVaS1dyWmg3UlpKMjFEbTNPR2ExT0p0UE9wbHZ4bmdIYlRiT21JQ2JuWk1tVFFMcm1ZekxaeGNHeWhBUm5TVUpyV3I2eWJUeU14N2xIWjY3djlmREFIeTNHbk5PRTJ4UWVGcFkxVG93V2dnb3hp?oc=5",
       "date": "Wed, 06 May 2026 21:11:43 GMT",
       "source": "글로벌이코노믹",
       "score": 3
-    },
-    {
-      "title": "드디어 자산 30억 돌파했다",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9sUzNURzYwX21WbzB6Y2dOQXZjWktIY2JMLVRhYVdzR0JJclk5MmxoVkRreGhNenFfUllSblRGWkpyeFBqX3lTSS0zTlFpQnotLWY5RnB4Xzg?oc=5",
-      "date": "Wed, 06 May 2026 13:12:45 GMT",
-      "source": "코인니스",
-      "score": 8
     }
   ]
 }
