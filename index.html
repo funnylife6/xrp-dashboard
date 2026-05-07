@@ -1487,16 +1487,17 @@ try{
     </span>
   </div>
 
+  <div class="comment-right">
   <div class="comment-time">
     ${formatKst(comment.created_at)}
   </div>
 </div>
 
-          <div class="comment-actions">
-            <button class="like-btn" data-id="${comment.id}">
+           <div class="comment-actions">
+    <button class="like-btn" data-id="${comment.id}">
               추천 ${comment.like_count || 0}
             </button>
-            <button class="report-btn" data-id="${comment.id}">
+              <button class="report-btn" data-id="${comment.id}">
               신고
             </button>
           </div>
