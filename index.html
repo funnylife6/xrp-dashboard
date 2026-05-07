@@ -1419,7 +1419,7 @@ async function loadComments() {
     .select("*")
     .eq("is_hidden", false)
     .order("created_at", { ascending: false })
-    .limit(20);
+    .limit(5);
 
   if (error) {
     console.error(error);
