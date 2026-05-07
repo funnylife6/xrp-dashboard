@@ -414,6 +414,26 @@ body::before{content:'';position:fixed;inset:0;z-index:0;
   font-size:13px;
   font-weight:600;
 }
+.comment-page-numbers{
+  display:flex;
+  gap:8px;
+}
+
+.comment-page-numbers button{
+  background:#111827;
+  border:1px solid #1f2937;
+  color:#9ca3af;
+  min-width:32px;
+  height:32px;
+  border-radius:8px;
+  cursor:pointer;
+  font-size:13px;
+}
+
+.comment-page-numbers button.active-page{
+  border-color:#00d4ff;
+  color:#00d4ff;
+}
 </style>
 </head>
 <body>
