@@ -866,7 +866,7 @@ updateEtfNews();setInterval(updateEtfNews,5*60*1000);
     SUPABASE_KEY
   );
 
-  async function testSupabaseConnection() {
+  window.testSupabaseConnection = async function () {
     const { data, error } = await supabaseClient
       .from("comments")
       .select("*")
