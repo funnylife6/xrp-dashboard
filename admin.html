@@ -1,0 +1,225 @@
+```html
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+<title>PRO_RIPPLER 관리자</title>
+
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.min.js"></script>
+
+<style>
+body{
+  margin:0;
+  background:#050816;
+  color:#fff;
+  font-family:sans-serif;
+  padding:30px;
+}
+
+h1{
+  font-size:28px;
+  margin-bottom:24px;
+}
+
+.admin-list{
+  display:flex;
+  flex-direction:column;
+  gap:14px;
+}
+
+.comment-card{
+  background:#0b1220;
+  border:1px solid #1f2937;
+  border-radius:10px;
+  padding:16px;
+}
+
+.comment-top{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  margin-bottom:10px;
+}
+
+.nick{
+  color:#00d4ff;
+  font-weight:700;
+}
+
+.meta{
+  color:#64748b;
+  font-size:12px;
+}
+
+.content{
+  font-size:15px;
+  line-height:1.5;
+  margin-bottom:14px;
+}
+
+.actions{
+  display:flex;
+  gap:10px;
+}
+
+.btn{
+  border:none;
+  border-radius:8px;
+  padding:8px 14px;
+  cursor:pointer;
+  font-size:13px;
+  font-weight:700;
+}
+
+.hide-btn{
+  background:#f59e0b;
+  color:#fff;
+}
+
+.restore-btn{
+  background:#10b981;
+  color:#fff;
+}
+
+.delete-btn{
+  background:#ef4444;
+  color:#fff;
+}
+</style>
+</head>
+
+<body>
+
+<h1>🛡 PRO_RIPPLER 관리자</h1>
+
+<div id="admin-list" class="admin-list"></div>
+
+<script>
+const password = prompt("관리자 비밀번호 입력");
+
+if(password !== "0922"){
+  document.body.innerHTML = "<h1>Access Denied</h1>";
+  throw new Error("Unauthorized");
+}
+
+const SUPABASE_URL = "https://ofjuaamhrczddosmpcdd.supabase.co";
+const SUPABASE_KEY = "sb_publishable_DDh_lP5RbbzTXaO2wuVTtQ_u8q-uLda";
+
+const supabaseClient = window.supabase.createClient(
+  SUPABASE_URL,
+  SUPABASE_KEY
+);
+
+async function loadAdminComments(){
+
+  const { data, error } = await supabaseClient
+    .from("comments")
+    .select("*")
+    .order("created_at", { ascending:false });
+
+  if(error){
+    console.error(error);
+    return;
+  }
+
+  const list = document.getElementById("admin-list");
+
+  list.innerHTML = "";
+
+  data.forEach(comment => {
+
+    const item = document.createElement("div");
+
+    item.className = "comment-card";
+
+    item.innerHTML = `
+      <div class="comment-top">
+        <div class="nick">${comment.nickname}</div>
+
+        <div class="meta">
+          추천 ${comment.like_count || 0}
+          ·
+          신고 ${comment.report_count || 0}
+        </div>
+      </div>
+
+      <div class="content">
+        ${comment.content}
+      </div>
+
+      <div class="actions">
+
+        ${
+          comment.is_hidden
+          ?
+          `<button class="btn restore-btn">복구</button>`
+          :
+          `<button class="btn hide-btn">숨김</button>`
+        }
+
+        <button class="btn delete-btn">삭제</button>
+
+      </div>
+    `;
+
+    list.appendChild(item);
+
+    const hideBtn = item.querySelector(".hide-btn");
+
+    if(hideBtn){
+      hideBtn.addEventListener("click", async () => {
+
+        await supabaseClient
+          .from("comments")
+          .update({ is_hidden:true })
+          .eq("id", comment.id);
+
+        loadAdminComments();
+      });
+    }
+
+    const restoreBtn = item.querySelector(".restore-btn");
+
+    if(restoreBtn){
+      restoreBtn.addEventListener("click", async () => {
+
+        await supabaseClient
+          .from("comments")
+          .update({
+            is_hidden:false,
+            report_count:0
+          })
+          .eq("id", comment.id);
+
+        loadAdminComments();
+      });
+    }
+
+    const deleteBtn = item.querySelector(".delete-btn");
+
+    deleteBtn.addEventListener("click", async () => {
+
+      const ok = confirm("정말 삭제할까요?");
+
+      if(!ok) return;
+
+      await supabaseClient
+        .from("comments")
+        .delete()
+        .eq("id", comment.id);
+
+      loadAdminComments();
+    });
+
+  });
+
+}
+
+loadAdminComments();
+</script>
+
+</body>
+</html>
+```
