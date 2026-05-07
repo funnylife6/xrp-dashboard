@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-07T20:46:41",
+  "generated_at": "2026-05-07T21:49:29",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.39,
-    "price_krw": 2020.23,
-    "price_change_24h": -2.56111,
-    "price_change_7d": 1.1481,
-    "price_change_30d": 6.44703,
-    "market_cap_usd": 85630783078,
+    "price_usd": 1.38,
+    "price_krw": 2018.49,
+    "price_change_24h": -2.9381,
+    "price_change_7d": 1.08907,
+    "price_change_30d": 5.41609,
+    "market_cap_usd": 85573120441,
     "market_cap_rank": 5,
-    "volume_24h": 1944297102,
+    "volume_24h": 1928824106,
     "circulating_supply": 61796225236.0,
     "total_supply": 99985670046.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 85.56,
-    "sentiment_votes_down": 14.44,
+    "sentiment_votes_up": 83.13,
+    "sentiment_votes_down": 16.87,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 25.6,
-    "recent_tps": 25.6,
-    "recent_tx_count": 2304,
+    "tps_24h_avg": 46.18,
+    "recent_tps": 46.18,
+    "recent_tx_count": 4156,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104075920,
+    "ledger_seq": 104076893,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-07 20:46:27 KST",
+    "updated_at": "2026-05-07 21:49:19 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 7330000,
     "total_net_inflow_usd": 7330000,
     "total_value_traded_usd": 7330000,
-    "updated_at": "SoSoValue 순유입 부분 수집 05/07 20:46",
+    "updated_at": "SoSoValue 순유입 부분 수집 05/07 21:49",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -93,10 +93,10 @@
   ],
   "general_news": [
     {
-      "title": "\"XRP 낙관론? 차마 입이 안 떨어지네\"…기술 천재가 침묵을 선택한 이유",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBKN3owbUVjY0pmdkt3VFpRc0VBSFFCTnE1N1lMOWRvd3BCU25JSElDbHJPcjNsZjBBZXlqZnhtdi1ONTlybXJIdjZ5d2Q5NUZaVnl0cU9UekwyWV9hME45SnkyZDVfUFJCSmFiZGlram1HZmM?oc=5",
-      "date": "Thu, 07 May 2026 20:15:56 GMT",
-      "source": "핀포인트뉴스",
+      "title": "XRP, '바닥' 찍고 대형 돌파 준비?… 분석가 \"대부분이 놓치고 있는 기회“",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbHdNdVlDNEJRWnlYTmRwT2RnM0NSeFpOQUFRdnRfbXh0ZWVHd1RjRW82MHlFZDQzeHBOakJFZ1dNT01NZXQ3ZEFaOTBiRFRVM2p0bi1OZGNRZGNINEhia2JiSnFqUHlQQmtRYzhQQjM5ZS1UNE52d3d6bjA4TklRYk1NaGQ4bzFB?oc=5",
+      "date": "Thu, 07 May 2026 20:51:37 GMT",
+      "source": "글로벌이코노믹",
       "score": 2
     },
     {
@@ -107,17 +107,17 @@
       "score": 3
     },
     {
-      "title": "리플(XRP), 유동성 지표는?…횡보흐름 방향성 주목",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5V1FmaFZldjdGaGRZOTRMMlM3N1IwVHNVLXY5Q3dNaTNQTF9DQjk5UHJtWEJTZU16NGh4Vy1LalBucXNveXVJbkhkNTZnRElaS2ZUbVhGUDNtX0Z0NmphOG14aHFIY2Rj?oc=5",
-      "date": "Thu, 07 May 2026 15:30:00 GMT",
-      "source": "CBC뉴스",
-      "score": 2
-    },
-    {
       "title": "ETF 자금 몰리는데 왜 XRP만 멈췄나…리플의 이상한 정체는?",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GdlNjNmE2ZlFsWDFaNmZRTHNidWdjWmE5NFhGSmVGQ2huZzE3ZkI4Q3FSSzJzbm1oZURRU2dodFhhZGx4elJPVXhNV0hYS3BNZEluekJoQjBjS0oxTXRsbjNRdXBVS3lRdnlaNG1jOUh4MGvSAXdBVV95cUxNRG1fbXM0NUk3WGlsajlKU0V4NlBYN2duaktHUEE3a1Z6QTQ2Z3ltWU9RNmJvWDg0TFlnZVMwVjljOUllMV85cHhGcWF5UXNlZ3lSS084U2t5VWFEdHpMUUlmdkg2dHFVTWxaeWdCSkhHMVZMcmJmaw?oc=5",
       "date": "Thu, 07 May 2026 09:10:00 GMT",
       "source": "핀포인트뉴스",
+      "score": 3
+    },
+    {
+      "title": "리플이 JP모건과 미국 국채 장악...XRP 레저, 은행 결제망 흔들기",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE95dmdsV2NmdGdNZG5vN2hIMnczeThlRVpJVUZ0TVVIZ3ZBbXVsRDg4QU5Pb1Y1UlV3Q1ZEeUNmeDF6LXlDNnRZdnN3?oc=5",
+      "date": "Thu, 07 May 2026 06:32:00 GMT",
+      "source": "코인리더스",
       "score": 3
     },
     {
@@ -128,18 +128,18 @@
       "score": 2
     },
     {
+      "title": "리플 CEO \"XRP 맥시멀리스트 아니다…비트코인 성공도 원해\"",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xOXZQVl9XZVFDam5tRWxib3NsX0MzRmhVNjRTbS1QSGx1NDgydS1JcENFN2NPWGhjTXBWWjVzWXpfQUVCXzFHUVE3dVdxUjEyX2x3?oc=5",
+      "date": "Thu, 07 May 2026 01:28:08 GMT",
+      "source": "네이트",
+      "score": 2
+    },
+    {
       "title": "리플 CEO \"XRP, 이제 기관 담보 자산으로 쓰인다\"…실사용 확대 시사",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KVkN5UHNaTzF4aHB6REJRNm9aOENWaU9RdkVrNFM0LW10NFRjRFFZTjhtcWI2Tlk0TDdPY1ltZ3l3M0xwcXF0THVmc3F0anFwSWRjOXVVX0xWd196emNkbDRwaGU2c2I5X2YwWW5yY3lSSm8?oc=5",
       "date": "Thu, 07 May 2026 00:02:30 GMT",
       "source": "디지털투데이",
-      "score": 3
-    },
-    {
-      "title": "트레이더들이 돌파구를 주시하는 가운데 리플 관련 XRP가 1.42달러 아래로 25% 하락",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOX0dGa0JSR2s3aHpIWXZrMVhOR3hYT0t5LUVmMWwzZGtPZXl3TGtYT2h3TVFwNVBBQ0o0Z1JzQjJacWpzTUI1TGZ6TXlOMlBMZUJTT2ZiVTA4cVRnb2JDYURQTWs5T0tvTXU5eF9XZTgza25UOXBVWi12azJYdWpubDdwNFlxdkd4NVMyWlRnbU1JOXBjQzU4YUczc19Cd0VSSEhkQXQ1TmFDVEluVzRTNTVPWQ?oc=5",
-      "date": "Wed, 06 May 2026 23:30:00 GMT",
-      "source": "CoinDesk",
-      "score": 2
+      "score": 4
     },
     {
       "title": "리플 CEO \"XRP, 이제 기관 담보로 쓰인다\"… 실사용 가치 증명 '자신감’",
