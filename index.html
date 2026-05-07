@@ -1439,6 +1439,38 @@ bindCommentActions();
       }
     }
   }
+function bindCommentActions() {
+  document.querySelectorAll(".like-btn").forEach(btn => {
+    btn.addEventListener("click", async () => {
+      const id = btn.dataset.id;
+      const target = allComments.find(c => String(c.id) === String(id));
+      if (!target) return;
+
+      await supabaseClient
+        .from("comments")
+        .update({ like_count: (target.like_count || 0) + 1 })
+        .eq("id", id);
+
+      await loadComments();
+    });
+  });
+
+  document.querySelectorAll(".report-btn").forEach(btn => {
+    btn.addEventListener("click", async () => {
+      const id = btn.dataset.id;
+      const target = allComments.find(c => String(c.id) === String(id));
+      if (!target) return;
+
+      await supabaseClient
+        .from("comments")
+        .update({ report_count: (target.report_count || 0) + 1 })
+        .eq("id", id);
+
+      alert("신고가 접수되었습니다.");
+      await loadComments();
+    });
+  });
+}
 
   async function loadComments(){
     const { data, error } = await supabaseClient
