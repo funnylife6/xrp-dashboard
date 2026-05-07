@@ -1418,7 +1418,8 @@ async function loadComments() {
     .from("comments")
     .select("*")
     .eq("is_hidden", false)
-    .order("created_at", { ascending: false })
+  .order("like_count", { ascending: false })
+.order("created_at", { ascending: false })
     .limit(5);
 
   if (error) {
