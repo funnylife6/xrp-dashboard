@@ -1435,18 +1435,19 @@ async function loadComments() {
     const item = document.createElement("div");
     item.className = "comment-item";
 
-    item.innerHTML = `
-      <div class="comment-top">
-        <div class="comment-nick">${comment.nickname}</div>
-        <div class="comment-time">
-          ${new Date(comment.created_at).toLocaleString("ko-KR")}
-        </div>
-      </div>
+   item.innerHTML = `
+  <div class="comment-top">
+    <div class="comment-content">
+      <span class="comment-nick">${comment.nickname}</span>
+      ·
+      ${comment.content}
+    </div>
 
-      <div class="comment-content">
-        ${comment.content}
-      </div>
-    `;
+    <div class="comment-time">
+      ${new Date(comment.created_at).toLocaleString("ko-KR")}
+    </div>
+  </div>
+`;
 
     commentList.appendChild(item);
 
