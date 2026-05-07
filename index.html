@@ -855,5 +855,30 @@ updateNews();setInterval(updateNews,5*60*1000);
 updateRegNews();setInterval(updateRegNews,5*60*1000);
 updateEtfNews();setInterval(updateEtfNews,5*60*1000);
 </script>
-</body>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+
+<script>
+  const SUPABASE_URL = https://ofjuaamhrczddosmpcdd.supabase.co/rest/v1/;
+  const SUPABASE_KEY = sb_publishable_DDh_lP5RbbzTXaO2wuVTtQ_u8q-uLda;
+
+  const supabaseClient = supabase.createClient(
+    SUPABASE_URL,
+    SUPABASE_KEY
+  );
+
+  async function testSupabaseConnection() {
+    const { data, error } = await supabaseClient
+      .from("comments")
+      .select("*")
+      .limit(5);
+
+    if (error) {
+      console.error("Supabase 연결 실패:", error);
+    } else {
+      console.log("Supabase 연결 성공:", data);
+    }
+  }
+
+  testSupabaseConnection();
+</script></body>
 </html>
