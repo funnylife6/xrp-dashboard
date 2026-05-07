@@ -1491,9 +1491,7 @@ try{
   <div class="comment-time">
     ${formatKst(comment.created_at)}
   </div>
-</div>
-
-           <div class="comment-actions">
+       <div class="comment-actions">
     <button class="like-btn" data-id="${comment.id}">
               추천 ${comment.like_count || 0}
             </button>
@@ -1501,6 +1499,7 @@ try{
               신고
             </button>
           </div>
+        </div>
         </div>
       `).join("");
 
