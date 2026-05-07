@@ -1646,7 +1646,32 @@ async function loadComments(page = 1) {
     });
   });
 
-  document.getElementById("comment-page-info").textContent = currentCommentPage;
+ const { count } = await supabaseClient
+  .from("comments")
+  .select("*", { count: "exact", head: true })
+  .eq("is_hidden", false);
+
+const totalPages = Math.ceil(count / commentsPerPage);
+
+const pageNumbers = document.getElementById("comment-page-numbers");
+
+pageNumbers.innerHTML = "";
+
+for (let i = 1; i <= totalPages; i++) {
+  const btn = document.createElement("button");
+
+  btn.textContent = i;
+
+  if (i === currentCommentPage) {
+    btn.classList.add("active-page");
+  }
+
+  btn.addEventListener("click", () => {
+    loadComments(i);
+  });
+
+  pageNumbers.appendChild(btn);
+}
 }
 
 document.getElementById("prev-comments").addEventListener("click", () => {
