@@ -1652,7 +1652,7 @@ if (lastWriteDate === today) {
       alert("등록 실패: Supabase 테이블/권한을 확인해주세요.");
       return;
     }
-
+localStorage.setItem("comment_write_date", today);
     input.value = "";
     currentCommentPage = 1;
     await loadComments();
