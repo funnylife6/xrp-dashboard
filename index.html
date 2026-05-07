@@ -1381,7 +1381,6 @@ try{
 
   let allComments = [];
   let currentCommentPage = 1;
-  
 
   const input = document.getElementById("comment-input");
   const submit = document.getElementById("comment-submit");
@@ -1389,14 +1388,9 @@ try{
   const prevBtn = document.getElementById("prev-comments");
   const nextBtn = document.getElementById("next-comments");
   const pageNumbers = document.getElementById("comment-page-numbers");
+  const topCommentBox = document.getElementById("top-comment-box");
 
-  if (!input || !submit || !list) return;
-
-  if (!window.supabase) {
-    console.error("Supabase CDN이 로드되지 않았습니다.");
-    list.innerHTML = '<div class="comment-empty">댓글 시스템을 불러오지 못했습니다.</div>';
-    return;
-  }
+  if (!window.supabase || !input || !submit || !list) return;
 
   const supabaseClient = window.supabase.createClient(SUPABASE_URL, SUPABASE_KEY);
 
@@ -1418,95 +1412,154 @@ try{
   }
 
   function renderComments(){
-    const totalPages = Math.max(1, Math.ceil(allComments.length / COMMENTS_PER_PAGE));
+    const visibleComments = allComments.filter(c => !c.is_hidden);
+
+    const topComment = visibleComments.length
+      ? [...visibleComments].sort((a,b) => (b.like_count || 0) - (a.like_count || 0))[0]
+      : null;
+
+    if (topCommentBox) {
+      if (topComment && (topComment.like_count || 0) > 0) {
+        topCommentBox.innerHTML = `
+          <div class="top-comment-title">🔥 추천 많은 의견</div>
+          <div class="top-comment-content">${escapeHtml(topComment.content)}</div>
+          <div class="top-comment-meta">추천 ${topComment.like_count || 0}</div>
+        `;
+        topCommentBox.style.display = "block";
+      } else {
+        topCommentBox.innerHTML = "";
+        topCommentBox.style.display = "none";
+      }
+    }
+
+    const totalPages = Math.max(1, Math.ceil(visibleComments.length / COMMENTS_PER_PAGE));
     currentCommentPage = Math.min(Math.max(1, currentCommentPage), totalPages);
+
     const start = (currentCommentPage - 1) * COMMENTS_PER_PAGE;
-    const pageItems = allComments.slice(start, start + COMMENTS_PER_PAGE);
+    const pageItems = visibleComments.slice(start, start + COMMENTS_PER_PAGE);
 
     if (!pageItems.length) {
-      list.innerHTML = '<div class="comment-empty">아직 등록된 의견이 없습니다.</div>';
+      list.innerHTML = `<div class="comment-empty">아직 등록된 의견이 없습니다.</div>`;
     } else {
       list.innerHTML = pageItems.map(comment => `
-  <div class="comment-item">
-    <div class="comment-top">
-      <div class="comment-nick">${escapeHtml(comment.nickname || "익명 홀더")}</div>
-      <div class="comment-time">${formatKst(comment.created_at)}</div>
-    </div>
+        <div class="comment-item">
+          <div class="comment-top">
+            <div class="comment-nick">${escapeHtml(comment.nickname || "익명 홀더")}</div>
+            <div class="comment-time">${formatKst(comment.created_at)}</div>
+          </div>
 
-    <div class="comment-content">${escapeHtml(comment.content)}</div>
+          <div class="comment-content">${escapeHtml(comment.content)}</div>
 
-    <div class="comment-actions">
-      <button class="like-btn" data-id="${comment.id}">
-        추천 ${comment.like_count || 0}
-      </button>
-      <button class="report-btn" data-id="${comment.id}">
-        신고
-      </button>
-    </div>
-  </div>
-`).join("");
+          <div class="comment-actions">
+            <button class="like-btn" data-id="${comment.id}">
+              추천 ${comment.like_count || 0}
+            </button>
+            <button class="report-btn" data-id="${comment.id}">
+              신고
+            </button>
+          </div>
+        </div>
+      `).join("");
 
-bindCommentActions();
+      bindCommentActions();
     }
 
     if (prevBtn) prevBtn.disabled = currentCommentPage <= 1;
     if (nextBtn) nextBtn.disabled = currentCommentPage >= totalPages;
+
     if (pageNumbers) {
       pageNumbers.innerHTML = "";
-      for (let i=1; i<=totalPages; i++) {
+      for (let i = 1; i <= totalPages; i++) {
         const btn = document.createElement("button");
         btn.type = "button";
         btn.textContent = i;
         if (i === currentCommentPage) btn.classList.add("active-page");
-        btn.addEventListener("click", () => { currentCommentPage = i; renderComments(); });
+        btn.addEventListener("click", () => {
+          currentCommentPage = i;
+          renderComments();
+        });
         pageNumbers.appendChild(btn);
       }
     }
   }
-function bindCommentActions() {
-  document.querySelectorAll(".like-btn").forEach(btn => {
-    btn.addEventListener("click", async () => {
-      const id = btn.dataset.id;
-      const target = allComments.find(c => String(c.id) === String(id));
-      if (!target) return;
 
-      await supabaseClient
-        .from("comments")
-        .update({ like_count: (target.like_count || 0) + 1 })
-        .eq("id", id);
+  function bindCommentActions(){
+    document.querySelectorAll(".like-btn").forEach(btn => {
+      btn.addEventListener("click", async () => {
+        const id = btn.dataset.id;
+        const voteKey = `liked_${id}`;
 
-      await loadComments();
+        if (localStorage.getItem(voteKey)) {
+          alert("이미 추천한 의견입니다.");
+          return;
+        }
+
+        const target = allComments.find(c => String(c.id) === String(id));
+        if (!target) return;
+
+        const { error } = await supabaseClient
+          .from("comments")
+          .update({ like_count: (target.like_count || 0) + 1 })
+          .eq("id", id);
+
+        if (error) {
+          console.error(error);
+          alert("추천 실패");
+          return;
+        }
+
+        localStorage.setItem(voteKey, "true");
+        await loadComments();
+      });
     });
-  });
 
-  document.querySelectorAll(".report-btn").forEach(btn => {
-    btn.addEventListener("click", async () => {
-      const id = btn.dataset.id;
-      const target = allComments.find(c => String(c.id) === String(id));
-      if (!target) return;
+    document.querySelectorAll(".report-btn").forEach(btn => {
+      btn.addEventListener("click", async () => {
+        const id = btn.dataset.id;
+        const reportKey = `reported_${id}`;
 
-      await supabaseClient
-        .from("comments")
-        .update({ report_count: (target.report_count || 0) + 1 })
-        .eq("id", id);
+        if (localStorage.getItem(reportKey)) {
+          alert("이미 신고한 의견입니다.");
+          return;
+        }
 
-      alert("신고가 접수되었습니다.");
-      await loadComments();
+        const target = allComments.find(c => String(c.id) === String(id));
+        if (!target) return;
+
+        const nextReportCount = (target.report_count || 0) + 1;
+
+        const { error } = await supabaseClient
+          .from("comments")
+          .update({
+            report_count: nextReportCount,
+            is_hidden: nextReportCount >= 3
+          })
+          .eq("id", id);
+
+        if (error) {
+          console.error(error);
+          alert("신고 실패");
+          return;
+        }
+
+        localStorage.setItem(reportKey, "true");
+        alert("신고가 접수되었습니다.");
+        await loadComments();
+      });
     });
-  });
-}
+  }
 
   async function loadComments(){
     const { data, error } = await supabaseClient
       .from("comments")
-      .select("id,nickname,content,created_at,is_hidden")
+      .select("id,nickname,content,created_at,is_hidden,like_count,report_count")
       .eq("is_hidden", false)
       .order("created_at", { ascending:false })
       .limit(50);
 
     if (error) {
       console.error("댓글 불러오기 실패:", error);
-      list.innerHTML = '<div class="comment-empty">의견을 불러오지 못했습니다.</div>';
+      list.innerHTML = `<div class="comment-empty">의견을 불러오지 못했습니다.</div>`;
       return;
     }
 
@@ -1516,24 +1569,33 @@ function bindCommentActions() {
 
   async function addComment(){
     const content = input.value.trim();
-    if (!content) { alert("의견을 입력해주세요."); return; }
-    if (content.length > 100) { alert("100자 이하만 가능합니다."); return; }
+
+    if (!content) {
+      alert("의견을 입력해주세요.");
+      return;
+    }
+
+    if (content.length > 100) {
+      alert("100자 이내만 가능합니다.");
+      return;
+    }
 
     const bannedWords = ["시발", "병신", "광고", "도박"];
+
     if (bannedWords.some(word => content.includes(word))) {
       alert("사용할 수 없는 단어가 포함되어 있습니다.");
       return;
     }
 
-    submit.disabled = true;
-    submit.textContent = "등록중";
-
     const { error } = await supabaseClient
       .from("comments")
-      .insert([{ nickname:"익명 홀더", content }]);
-
-    submit.disabled = false;
-    submit.textContent = "등록하기";
+      .insert({
+        nickname: "익명 홀더",
+        content: content,
+        like_count: 0,
+        report_count: 0,
+        is_hidden: false
+      });
 
     if (error) {
       console.error("댓글 등록 실패:", error);
@@ -1547,9 +1609,23 @@ function bindCommentActions() {
   }
 
   submit.addEventListener("click", addComment);
-  input.addEventListener("keydown", e => { if (e.key === "Enter") addComment(); });
-  if (prevBtn) prevBtn.addEventListener("click", () => { currentCommentPage--; renderComments(); });
-  if (nextBtn) nextBtn.addEventListener("click", () => { currentCommentPage++; renderComments(); });
+  input.addEventListener("keydown", e => {
+    if (e.key === "Enter") addComment();
+  });
+
+  if (prevBtn) {
+    prevBtn.addEventListener("click", () => {
+      currentCommentPage--;
+      renderComments();
+    });
+  }
+
+  if (nextBtn) {
+    nextBtn.addEventListener("click", () => {
+      currentCommentPage++;
+      renderComments();
+    });
+  }
 
   loadComments();
 })();
