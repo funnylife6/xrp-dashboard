@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-07T15:11:23",
+  "generated_at": "2026-05-07T17:14:47",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.39,
-    "price_krw": 2020.72,
-    "price_change_24h": -2.03193,
-    "price_change_7d": 1.77994,
-    "price_change_30d": 6.77826,
-    "market_cap_usd": 86118321792,
+    "price_krw": 2025.39,
+    "price_change_24h": -2.60363,
+    "price_change_7d": 1.94742,
+    "price_change_30d": 7.26448,
+    "market_cap_usd": 85950643418,
     "market_cap_rank": 5,
-    "volume_24h": 1942580404,
+    "volume_24h": 1935669775,
     "circulating_supply": 61796225236.0,
     "total_supply": 99985670046.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 88.78,
-    "sentiment_votes_down": 11.22,
+    "sentiment_votes_up": 89.58,
+    "sentiment_votes_down": 10.42,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 47.42,
-    "recent_tps": 47.42,
-    "recent_tx_count": 4268,
+    "tps_24h_avg": 34.43,
+    "recent_tps": 34.43,
+    "recent_tx_count": 3099,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104070736,
+    "ledger_seq": 104072646,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-07 15:11:09 KST",
+    "updated_at": "2026-05-07 17:14:39 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 7330000,
     "total_net_inflow_usd": 7330000,
     "total_value_traded_usd": 7330000,
-    "updated_at": "SoSoValue 순유입 부분 수집 05/07 15:11",
+    "updated_at": "SoSoValue 순유입 부분 수집 05/07 17:14",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -60,6 +60,13 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE42X0VjVGpyLW9hckVLaXRsY1d3dGctZ1luWEVQTThxWWw5TllINzBfQm52ZGxnVktKVmFSLTg3QV9jUUZncDVuWnY2UFhmcVpiRGp5WEVGLVEwbUJkTExxeTBpNldVV3Jm?oc=5",
       "date": "Wed, 06 May 2026 07:58:25 GMT",
       "source": "CBC뉴스",
+      "score": 0
+    },
+    {
+      "title": "비트와이즈의 압도적 독주… 4월 가상자산 시장 뒤흔든 XRP 현물 ETF의 돌풍 무슨 이슈?",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5VTnJtUkRqZmczMWpoSEVxNUJfYVYxZThnSXJUWWVXMFhxbWQ1YjExejYwb2pQY2UzbGdmUkZPUHA5dVJYOF9ic08wMDVIbEdDQXdhRFVWRHBGUjhHekNoN25HN0tXUTV4YmJ3V0FLaTBVRnPSAXdBVV95cUxNSFUzam9adWM3MTdVNXhhWl9IZWxfOXkwcGt4R01objBwSUVyMDMwYTFrMW80ZVZYV2E4cjZBcXJUWS1wVmZwY2xTdkFLMUY1ZlBBOWhrTTlWcjJKSmxSSXd1MGtsUE9XNGJjcTd0dmREWW9nRmVVdw?oc=5",
+      "date": "Tue, 05 May 2026 01:58:33 GMT",
+      "source": "핀포인트뉴스",
       "score": 0
     },
     {
@@ -81,13 +88,6 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQX29lcFVOdWQ5TkU1azFkLWJpdUhtMHUzZmRKbTlwSjVfclAtYlFqck1NRmRkWFMtUTl4anhHd1dHX2pfcWw2d2JWTTQyX1J3TFpPeW1DYjhGSmdmTFl4RHR3SW1zSTlTeUhPQ0xUell3U1ZIZDlwS2I0akZEdzBRRmdLT3Y2allRNFBscQ?oc=5",
       "date": "Mon, 04 May 2026 04:55:00 GMT",
       "source": "네이버 프리미엄콘텐츠",
-      "score": 0
-    },
-    {
-      "title": "美 SEC, 엑스알피(XRP) '적격 자산' 인정… 비트코인·이더리움과 어깨 나란히",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRWlSVW1kOE9oVnVUM1dQWTRkSlhQT2daNE0xNXBZU1FaTnJJY1lCb1JWZUxnbXlBdldtR3Q4U3FZNlJ5WHNQcTg2Q2lobE9iYXE3OFhYY091V0c1ZC01T3pJR1FxaWoxTzY4SmFaU1NmbjFNU3l2SUVKYVh4R1gyOVEyQWlFNmN3?oc=5",
-      "date": "Sun, 03 May 2026 05:22:17 GMT",
-      "source": "글로벌이코노믹",
       "score": 0
     }
   ],
@@ -121,9 +121,23 @@
       "score": 2
     },
     {
+      "title": "월가 거물, 가상자산 거래 출격 임박...XRP ETF 보유 사실 동시 공개",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBxRjU5THoyWG04OFg3MFV1S3NodHBMZS1SSF9vZ0hieFVyc1hMemVRbmFaNmFqWGVZS1B5OHozNlNzdVJrOHVjaDlR?oc=5",
+      "date": "Thu, 07 May 2026 04:13:00 GMT",
+      "source": "코인리더스",
+      "score": 3
+    },
+    {
       "title": "리플 전 CTO \"XRP 20달러? 비트코인 초기 100달러 돌파와 비교 안돼…시총부터 달라\"",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBoTnoycl9KMHFQQ09lTkhJVW5iLW13V19nd2pNMExfQzFXNlVrTlF0UlZDR2dhQzNBbWpJZlBDanozY0dqS2F2MXlxbC04NlNfODZv?oc=5",
       "date": "Thu, 07 May 2026 02:26:12 GMT",
+      "source": "네이트",
+      "score": 2
+    },
+    {
+      "title": "리플 CEO \"XRP 맥시멀리스트 아니다…비트코인 성공도 원해\"",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xOXZQVl9XZVFDam5tRWxib3NsX0MzRmhVNjRTbS1QSGx1NDgydS1JcENFN2NPWGhjTXBWWjVzWXpfQUVCXzFHUVE3dVdxUjEyX2x3?oc=5",
+      "date": "Thu, 07 May 2026 01:28:08 GMT",
       "source": "네이트",
       "score": 2
     },
@@ -142,25 +156,11 @@
       "score": 3
     },
     {
-      "title": "리플(XRP), 유동성 5년래 최저 수준…1.43달러까지 반등하며 ‘변곡점’ 시선",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE42X0VjVGpyLW9hckVLaXRsY1d3dGctZ1luWEVQTThxWWw5TllINzBfQm52ZGxnVktKVmFSLTg3QV9jUUZncDVuWnY2UFhmcVpiRGp5WEVGLVEwbUJkTExxeTBpNldVV3Jm?oc=5",
-      "date": "Wed, 06 May 2026 07:58:25 GMT",
-      "source": "CBC뉴스",
-      "score": 3
-    },
-    {
-      "title": "[컨센서스 2026] 리플 CEO \"5년 내 판 바뀔 것\"…결제·RWA·스테이블코인 3축 청사진 발표",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBGRE1xaGs4dEVMeGZyS0k0OURqeXN2azZwRVBmeGh5Q2M5VlVjVXMxSFgyYkxoWXJWNnB6S1RpOTRrZFdaMjVpcGJ6VHZHSGQ0anB2SVVYTmk?oc=5",
-      "date": "Wed, 06 May 2026 02:05:00 GMT",
-      "source": "블록미디어",
-      "score": 2
-    },
-    {
-      "title": "XRP, 1.20달러 지지선 굳히나…분석가 \"목표가는 10달러\"",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9abEVyMldvVXNnZk1qdGtxT2w0YUtYalo1RW8zbmppeGNBNElJcVphV3cxRUNmb1plZVFfOTlDRzJQLTBITW1GTkg0SjlGX190VXhmOWJNNjdUTWpyY3BXYWh6WVJCeHJUZ3VLU0dzQTNVbUk?oc=5",
-      "date": "Tue, 05 May 2026 23:43:08 GMT",
-      "source": "디지털투데이",
-      "score": 2
+      "title": "드디어 자산 30억 돌파했다",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9sUzNURzYwX21WbzB6Y2dOQXZjWktIY2JMLVRhYVdzR0JJclk5MmxoVkRreGhNenFfUllSblRGWkpyeFBqX3lTSS0zTlFpQnotLWY5RnB4Xzg?oc=5",
+      "date": "Wed, 06 May 2026 13:12:45 GMT",
+      "source": "코인니스",
+      "score": 8
     }
   ]
 }
