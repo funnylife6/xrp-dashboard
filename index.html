@@ -331,6 +331,16 @@ body::before{content:'';position:fixed;inset:0;z-index:0;
   font-size:14px;
   line-height:1.5;
 }
+.like-btn{
+  background:none;
+  border:none;
+  color:#3b82f6;
+  cursor:pointer;
+  font-size:12px;
+  font-weight:600;
+  padding:0;
+}
+
 .report-btn{
   background:none;
   border:none;
@@ -340,7 +350,6 @@ body::before{content:'';position:fixed;inset:0;z-index:0;
   font-weight:600;
   padding:0;
 }
-
 </style>
 </head>
 <body>
@@ -1456,7 +1465,7 @@ async function loadComments() {
 
     <div class="comment-actions">
       <button class="like-btn" data-id="${comment.id}" data-like="${comment.like_count}">
-        👍 ${comment.like_count || 0}
+        추천 ${comment.like_count || 0}
       </button>
 
       <button class="report-btn" data-id="${comment.id}" data-report="${comment.report_count}">
