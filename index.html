@@ -1403,14 +1403,26 @@ try{
       list.innerHTML = '<div class="comment-empty">아직 등록된 의견이 없습니다.</div>';
     } else {
       list.innerHTML = pageItems.map(comment => `
-        <div class="comment-item">
-          <div class="comment-top">
-            <div class="comment-nick">${escapeHtml(comment.nickname || "익명 홀더")}</div>
-            <div class="comment-time">${formatKst(comment.created_at)}</div>
-          </div>
-          <div class="comment-content">${escapeHtml(comment.content)}</div>
-        </div>
-      `).join("");
+  <div class="comment-item">
+    <div class="comment-top">
+      <div class="comment-nick">${escapeHtml(comment.nickname || "익명 홀더")}</div>
+      <div class="comment-time">${formatKst(comment.created_at)}</div>
+    </div>
+
+    <div class="comment-content">${escapeHtml(comment.content)}</div>
+
+    <div class="comment-actions">
+      <button class="like-btn" data-id="${comment.id}">
+        추천 ${comment.like_count || 0}
+      </button>
+      <button class="report-btn" data-id="${comment.id}">
+        신고
+      </button>
+    </div>
+  </div>
+`).join("");
+
+bindCommentActions();
     }
 
     if (prevBtn) prevBtn.disabled = currentCommentPage <= 1;
