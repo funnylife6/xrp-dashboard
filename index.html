@@ -1612,6 +1612,13 @@ try{
 
   async function addComment(){
     const content = input.value.trim();
+    const today = new Date().toLocaleDateString();
+const lastWriteDate = localStorage.getItem("comment_write_date");
+
+if (lastWriteDate === today) {
+  alert("오늘은 이미 의견을 작성했습니다.");
+  return;
+}
 
     if (!content) {
       alert("의견을 입력해주세요.");
