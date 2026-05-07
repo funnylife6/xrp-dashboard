@@ -988,6 +988,104 @@ updateEtfNews();setInterval(updateEtfNews,5*60*1000);
   }
 
   testSupabaseConnection();
+async function loadComments() {
+
+  const { data, error } = await supabaseClient
+    .from("comments")
+    .select("*")
+    .eq("is_hidden", false)
+    .order("created_at", { ascending: false })
+    .limit(20);
+
+  if (error) {
+    console.error(error);
+    return;
+  }
+
+  const commentList = document.getElementById("comment-list");
+
+  commentList.innerHTML = "";
+
+  data.forEach(comment => {
+
+    const item = document.createElement("div");
+    item.className = "comment-item";
+
+    item.innerHTML = `
+      <div class="comment-top">
+        <div class="comment-nick">${comment.nickname}</div>
+        <div class="comment-time">
+          ${new Date(comment.created_at).toLocaleString("ko-KR")}
+        </div>
+      </div>
+
+      <div class="comment-content">
+        ${comment.content}
+      </div>
+    `;
+
+    commentList.appendChild(item);
+
+  });
+
+}
+
+document
+  .getElementById("comment-submit")
+  .addEventListener("click", async () => {
+
+    const input = document.getElementById("comment-input");
+
+    const content = input.value.trim();
+
+    if (!content) {
+      alert("의견을 입력해주세요.");
+      return;
+    }
+
+    if (content.length > 100) {
+      alert("100자 이하만 가능합니다.");
+      return;
+    }
+
+    const bannedWords = [
+      "시발",
+      "병신",
+      "광고",
+      "도박"
+    ];
+
+    const hasBadWord = bannedWords.some(word =>
+      content.includes(word)
+    );
+
+    if (hasBadWord) {
+      alert("사용할 수 없는 단어가 포함되어 있습니다.");
+      return;
+    }
+
+    const { error } = await supabaseClient
+      .from("comments")
+      .insert([
+        {
+          nickname: "익명 홀더",
+          content: content
+        }
+      ]);
+
+    if (error) {
+      console.error(error);
+      alert("등록 실패");
+      return;
+    }
+
+    input.value = "";
+
+    loadComments();
+
+  });
+
+loadComments();
 </script>
 
 </body>
