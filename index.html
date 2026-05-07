@@ -1532,7 +1532,13 @@ try{
 let currentCommentPage = 1;
 const commentsPerPage = 5;
 
+let currentCommentPage = 1;
+const commentsPerPage = 5;
+
 async function loadTopComment() {
+  const topBox = document.getElementById("top-comment-box");
+  if (!topBox) return;
+
   const { data, error } = await supabaseClient
     .from("comments")
     .select("*")
@@ -1546,21 +1552,20 @@ async function loadTopComment() {
     return;
   }
 
-  const topBox = document.getElementById("top-comment-box");
-
   if (!data || data.length === 0 || !data[0].like_count) {
     topBox.innerHTML = "";
+    topBox.style.display = "none";
     return;
   }
 
   const top = data[0];
+  topBox.style.display = "block";
 
   topBox.innerHTML = `
     <div class="top-comment-title">🔥 오늘의 TOP 의견</div>
     <div class="top-comment-content">
       <span class="comment-nick">${top.nickname}</span>
-      ·
-      ${top.content}
+      · ${top.content}
     </div>
     <div class="top-comment-meta">추천 ${top.like_count || 0}</div>
   `;
@@ -1585,6 +1590,8 @@ async function loadComments(page = 1) {
   }
 
   const commentList = document.getElementById("comment-list");
+  if (!commentList) return;
+
   commentList.innerHTML = "";
 
   data.forEach(comment => {
@@ -1595,8 +1602,7 @@ async function loadComments(page = 1) {
       <div class="comment-top">
         <div class="comment-content">
           <span class="comment-nick">${comment.nickname}</span>
-          ·
-          ${comment.content}
+          · ${comment.content}
         </div>
 
         <div class="comment-actions">
@@ -1672,33 +1678,77 @@ async function loadComments(page = 1) {
     });
   });
 
- const { count } = await supabaseClient
-  .from("comments")
-  .select("*", { count: "exact", head: true })
-  .eq("is_hidden", false);
+  await renderCommentPages();
+}
 
-const totalPages = Math.ceil(count / commentsPerPage);
+async function renderCommentPages() {
+  const pageNumbers = document.getElementById("comment-page-numbers");
+  if (!pageNumbers) return;
 
-const pageNumbers = document.getElementById("comment-page-numbers");
+  const { count, error } = await supabaseClient
+    .from("comments")
+    .select("*", { count: "exact", head: true })
+    .eq("is_hidden", false);
 
-pageNumbers.innerHTML = "";
-
-for (let i = 1; i <= totalPages; i++) {
-  const btn = document.createElement("button");
-
-  btn.textContent = i;
-
-  if (i === currentCommentPage) {
-    btn.classList.add("active-page");
+  if (error) {
+    console.error(error);
+    return;
   }
 
-  btn.addEventListener("click", () => {
-    loadComments(i);
-  });
+  const totalPages = Math.ceil((count || 0) / commentsPerPage);
+  pageNumbers.innerHTML = "";
 
-  pageNumbers.appendChild(btn);
+  for (let i = 1; i <= totalPages; i++) {
+    const btn = document.createElement("button");
+    btn.textContent = i;
+
+    if (i === currentCommentPage) {
+      btn.classList.add("active-page");
+    }
+
+    btn.addEventListener("click", () => {
+      loadComments(i);
+    });
+
+    pageNumbers.appendChild(btn);
+  }
 }
-}
+
+document.getElementById("comment-submit").addEventListener("click", async () => {
+  const input = document.getElementById("comment-input");
+  const content = input.value.trim();
+
+  if (!content) {
+    alert("의견을 입력해주세요.");
+    return;
+  }
+
+  if (content.length > 100) {
+    alert("100자 이하만 가능합니다.");
+    return;
+  }
+
+  const { error } = await supabaseClient
+    .from("comments")
+    .insert([
+      {
+        nickname: "익명 홀더",
+        content: content
+      }
+    ]);
+
+  if (error) {
+    console.error(error);
+    alert("등록 실패");
+    return;
+  }
+
+  input.value = "";
+
+  currentCommentPage = 1;
+  await loadTopComment();
+  await loadComments(1);
+});
 
 document.getElementById("prev-comments").addEventListener("click", () => {
   if (currentCommentPage <= 1) return;
