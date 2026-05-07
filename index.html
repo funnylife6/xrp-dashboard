@@ -305,7 +305,29 @@ body::before{content:'';position:fixed;inset:0;z-index:0;
       <div class="cs" style="margin-top:6px">총 100B XRP 중 유통 61.8%</div>
     </div>
   </div>
+<div class="community-box">
+  <div class="community-header">
+    <div class="community-title">💬 오늘의 한 줄 의견</div>
+    <div class="community-desc">
+      100자 이내로 자유롭게 의견을 남겨주세요
+    </div>
+  </div>
 
+  <div class="community-input-wrap">
+    <input
+      type="text"
+      id="comment-input"
+      maxlength="100"
+      placeholder="오늘의 XRP 한줄 의견을 입력하세요..."
+    />
+
+    <button id="comment-submit">
+      등록하기
+    </button>
+  </div>
+
+  <div id="comment-list" class="comment-list"></div>
+</div>
   <!-- ② 뉴스 -->
   <div class="news-box">
     <div class="news-hdr">
