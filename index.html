@@ -1439,15 +1439,55 @@ try{
   }
 
   testSupabaseConnection();
-async function loadComments() {
+let currentCommentPage = 1;
+const commentsPerPage = 5;
+
+async function loadTopComment() {
+  const { data, error } = await supabaseClient
+    .from("comments")
+    .select("*")
+    .eq("is_hidden", false)
+    .order("like_count", { ascending: false })
+    .order("created_at", { ascending: false })
+    .limit(1);
+
+  if (error) {
+    console.error(error);
+    return;
+  }
+
+  const topBox = document.getElementById("top-comment-box");
+
+  if (!data || data.length === 0 || !data[0].like_count) {
+    topBox.innerHTML = "";
+    return;
+  }
+
+  const top = data[0];
+
+  topBox.innerHTML = `
+    <div class="top-comment-title">🔥 오늘의 TOP 의견</div>
+    <div class="top-comment-content">
+      <span class="comment-nick">${top.nickname}</span>
+      ·
+      ${top.content}
+    </div>
+    <div class="top-comment-meta">추천 ${top.like_count || 0}</div>
+  `;
+}
+
+async function loadComments(page = 1) {
+  currentCommentPage = page;
+
+  const from = (page - 1) * commentsPerPage;
+  const to = from + commentsPerPage - 1;
 
   const { data, error } = await supabaseClient
     .from("comments")
     .select("*")
     .eq("is_hidden", false)
-  .order("like_count", { ascending: false })
-.order("created_at", { ascending: false })
-    .limit(5);
+    .order("created_at", { ascending: false })
+    .range(from, to);
 
   if (error) {
     console.error(error);
@@ -1455,100 +1495,107 @@ async function loadComments() {
   }
 
   const commentList = document.getElementById("comment-list");
-
   commentList.innerHTML = "";
 
   data.forEach(comment => {
-
     const item = document.createElement("div");
     item.className = "comment-item";
 
-   item.innerHTML = `
-  <div class="comment-top">
-    <div class="comment-content">
-      <span class="comment-nick">${comment.nickname}</span>
-      ·
-      ${comment.content}
-    </div>
+    item.innerHTML = `
+      <div class="comment-top">
+        <div class="comment-content">
+          <span class="comment-nick">${comment.nickname}</span>
+          ·
+          ${comment.content}
+        </div>
 
-    <div class="comment-actions">
-      <button class="like-btn" data-id="${comment.id}" data-like="${comment.like_count}">
-        추천 ${comment.like_count || 0}
-      </button>
+        <div class="comment-actions">
+          <button class="like-btn" data-id="${comment.id}">
+            추천 ${comment.like_count || 0}
+          </button>
 
-      <button class="report-btn" data-id="${comment.id}" data-report="${comment.report_count}">
-        신고
-      </button>
+          <button class="report-btn" data-id="${comment.id}">
+            신고
+          </button>
 
-      <span class="comment-time">
-        ${new Date(comment.created_at).toLocaleString("ko-KR")}
-      </span>
-    </div>
-  </div>
-`;
+          <span class="comment-time">
+            ${new Date(comment.created_at).toLocaleString("ko-KR")}
+          </span>
+        </div>
+      </div>
+    `;
 
     commentList.appendChild(item);
 
+    item.querySelector(".like-btn").addEventListener("click", async () => {
+      const votedKey = `liked_${comment.id}`;
+
+      if (localStorage.getItem(votedKey)) {
+        alert("이미 추천한 의견입니다.");
+        return;
+      }
+
+      const { error } = await supabaseClient
+        .from("comments")
+        .update({ like_count: (comment.like_count || 0) + 1 })
+        .eq("id", comment.id);
+
+      if (error) {
+        console.error(error);
+        alert("추천 실패");
+        return;
+      }
+
+      localStorage.setItem(votedKey, "true");
+      await loadTopComment();
+      await loadComments(currentCommentPage);
+    });
+
+    item.querySelector(".report-btn").addEventListener("click", async () => {
+      const reportKey = `reported_${comment.id}`;
+
+      if (localStorage.getItem(reportKey)) {
+        alert("이미 신고한 의견입니다.");
+        return;
+      }
+
+      const nextReportCount = (comment.report_count || 0) + 1;
+
+      const { error } = await supabaseClient
+        .from("comments")
+        .update({
+          report_count: nextReportCount,
+          is_hidden: nextReportCount >= 3
+        })
+        .eq("id", comment.id);
+
+      if (error) {
+        console.error(error);
+        alert("신고 실패");
+        return;
+      }
+
+      localStorage.setItem(reportKey, "true");
+      alert("신고가 접수되었습니다.");
+      await loadTopComment();
+      await loadComments(currentCommentPage);
+    });
   });
 
+  document.getElementById("comment-page-info").textContent = currentCommentPage;
 }
 
-document
-  .getElementById("comment-submit")
-  .addEventListener("click", async () => {
+document.getElementById("prev-comments").addEventListener("click", () => {
+  if (currentCommentPage <= 1) return;
+  loadComments(currentCommentPage - 1);
+});
 
-    const input = document.getElementById("comment-input");
+document.getElementById("next-comments").addEventListener("click", () => {
+  loadComments(currentCommentPage + 1);
+});
 
-    const content = input.value.trim();
-
-    if (!content) {
-      alert("의견을 입력해주세요.");
-      return;
-    }
-
-    if (content.length > 100) {
-      alert("100자 이하만 가능합니다.");
-      return;
-    }
-
-    const bannedWords = [
-      "시발",
-      "병신",
-      "광고",
-      "도박"
-    ];
-
-    const hasBadWord = bannedWords.some(word =>
-      content.includes(word)
-    );
-
-    if (hasBadWord) {
-      alert("사용할 수 없는 단어가 포함되어 있습니다.");
-      return;
-    }
-
-    const { error } = await supabaseClient
-      .from("comments")
-      .insert([
-        {
-          nickname: "익명 홀더",
-          content: content
-        }
-      ]);
-
-    if (error) {
-      console.error(error);
-      alert("등록 실패");
-      return;
-    }
-
-    input.value = "";
-
-    loadComments();
-
-  });
-
-loadComments();
+loadTopComment();
+loadComments(1);
 </script>
 
 </body>
