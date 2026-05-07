@@ -350,6 +350,54 @@ body::before{content:'';position:fixed;inset:0;z-index:0;
   font-weight:600;
   padding:0;
 }
+.top-comment-box{
+  border:1px solid rgba(0,212,255,.35);
+  background:rgba(0,212,255,.06);
+  border-radius:8px;
+  padding:12px;
+  margin-bottom:12px;
+}
+
+.top-comment-title{
+  color:#00d4ff;
+  font-size:13px;
+  font-weight:700;
+  margin-bottom:6px;
+}
+
+.top-comment-content{
+  font-size:14px;
+  color:#fff;
+}
+
+.top-comment-meta{
+  margin-top:6px;
+  color:#3b82f6;
+  font-size:12px;
+  font-weight:700;
+}
+
+.comment-pagination{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  gap:10px;
+  margin-top:12px;
+}
+
+.comment-pagination button{
+  background:none;
+  border:1px solid var(--border);
+  color:var(--text);
+  padding:6px 12px;
+  border-radius:6px;
+  cursor:pointer;
+}
+
+#comment-page-info{
+  color:var(--muted);
+  font-size:12px;
+}
 </style>
 </head>
 <body>
