@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-08T02:15:44",
+  "generated_at": "2026-05-08T05:15:44",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.38,
-    "price_krw": 2024.61,
-    "price_change_24h": -1.92174,
-    "price_change_7d": 1.29779,
-    "price_change_30d": 1.30879,
-    "market_cap_usd": 85449400895,
+    "price_usd": 1.39,
+    "price_krw": 2033.08,
+    "price_change_24h": -1.84726,
+    "price_change_7d": 0.71987,
+    "price_change_30d": 1.14087,
+    "market_cap_usd": 85591230894,
     "market_cap_rank": 5,
-    "volume_24h": 1742343557,
+    "volume_24h": 1543327274,
     "circulating_supply": 61796225236.0,
     "total_supply": 99985670046.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 82.05,
-    "sentiment_votes_down": 17.95,
+    "sentiment_votes_up": 81.33,
+    "sentiment_votes_down": 18.67,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 27.91,
-    "recent_tps": 27.91,
-    "recent_tx_count": 2289,
+    "tps_24h_avg": 50.18,
+    "recent_tps": 50.18,
+    "recent_tx_count": 4115,
     "recent_ledger_count": 24,
     "recent_window_sec": 82,
-    "ledger_seq": 104081012,
+    "ledger_seq": 104083793,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-08 02:15:29 KST",
+    "updated_at": "2026-05-08 05:15:32 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -64,20 +64,6 @@
       "score": 0
     },
     {
-      "title": "[리플 전망], XRP ETF 자금이 답이다? 2달러 가능성 갈리는 결정적 변수",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRENpRmpKWUZSS2x0ZndzMFAtbS0zN3BUTzdpREpQX3BURlkzRWlXTW1WUHowZW1TbFhYX2M5SC1fZXZwcmtyM204QTJCc1M4cC1uZnpuUmJHNTVwMnRraHJER2ZJcUZ2blBYa09PdmJJTFU2R3UtNVN3ajV6QWRiQw?oc=5",
-      "date": "Tue, 05 May 2026 19:54:30 GMT",
-      "source": "99Bitcoins",
-      "score": 0
-    },
-    {
-      "title": "비트와이즈의 압도적 독주… 4월 가상자산 시장 뒤흔든 XRP 현물 ETF의 돌풍 무슨 이슈?",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5VTnJtUkRqZmczMWpoSEVxNUJfYVYxZThnSXJUWWVXMFhxbWQ1YjExejYwb2pQY2UzbGdmUkZPUHA5dVJYOF9ic08wMDVIbEdDQXdhRFVWRHBGUjhHekNoN25HN0tXUTV4YmJ3V0FLaTBVRnPSAXdBVV95cUxNSFUzam9adWM3MTdVNXhhWl9IZWxfOXkwcGt4R01objBwSUVyMDMwYTFrMW80ZVZYV2E4cjZBcXJUWS1wVmZwY2xTdkFLMUY1ZlBBOWhrTTlWcjJKSmxSSXd1MGtsUE9XNGJjcTd0dmREWW9nRmVVdw?oc=5",
-      "date": "Tue, 05 May 2026 01:58:33 GMT",
-      "source": "핀포인트뉴스",
-      "score": 0
-    },
-    {
       "title": "리플XRP ETF 자금 누적…기관 자금은 ‘조용한 확대’ 국면",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NVXZEY1pWUGlvTHhIZVM5NE5MdVh1N1lGWXlJb2VDQzV2N25kVDJpcmtqcGc0dmhmRXpkR0VtQi1HZ1ZyLWhEeGd4RHpveDBuNVQ1azFUTm9qYktCaktoV2M5QjEwcjND?oc=5",
       "date": "Mon, 04 May 2026 15:00:00 GMT",
@@ -89,6 +75,20 @@
       "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxOSzMzd29XYmFvUGVqVlhjbHo5NERJbE8zdjF6a1pycnBmb3cySVozN0hrZVlnanNfdDFsbWtMeDJMRkJzeFRwaTB3MVNkYjYxT3VzTVdLcEVZQ0VQR3FheTZHTkhybDNSb0ttbEthVDlJd0U5NTIzWXMxTXNRM0U2VmR6cWFyZF9sb2VXTFVBbUVsVm9YZlFRY3FORGx0aVQzLWxTbURkVTF3NzRUdUpTT3p0X1NHRHRNeGpaSGVqcWhOTkpleXhQTnRQS0lKbl9XMTZwaHJUU1c2YzlsV3QxdDVDd2FFOVlrZkRfcURjNFlsNWpEWF9Dd1ZaU0I0b0Uxb1I0OW9yYXNkYnFvZTdIQTdVb1R1c2QzVkhFWHRiN1paNFhPZ2hNbW80OGZOal83RWtrQV9FLS1HME44UDJjY3hPTnRjODBYVDlpZ1dqczd3ZVk?oc=5",
       "date": "Mon, 04 May 2026 09:25:34 GMT",
       "source": "Yellow.com",
+      "score": 0
+    },
+    {
+      "title": "2026년 5월, XRP(리플) 완전 분석: 왜 기관 자금이 몰리고 있는가?",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQX29lcFVOdWQ5TkU1azFkLWJpdUhtMHUzZmRKbTlwSjVfclAtYlFqck1NRmRkWFMtUTl4anhHd1dHX2pfcWw2d2JWTTQyX1J3TFpPeW1DYjhGSmdmTFl4RHR3SW1zSTlTeUhPQ0xUell3U1ZIZDlwS2I0akZEdzBRRmdLT3Y2allRNFBscQ?oc=5",
+      "date": "Mon, 04 May 2026 04:55:00 GMT",
+      "source": "네이버 프리미엄콘텐츠",
+      "score": 0
+    },
+    {
+      "title": "美 SEC, 엑스알피(XRP) '적격 자산' 인정… 비트코인·이더리움과 어깨 나란히",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRWlSVW1kOE9oVnVUM1dQWTRkSlhQT2daNE0xNXBZU1FaTnJJY1lCb1JWZUxnbXlBdldtR3Q4U3FZNlJ5WHNQcTg2Q2lobE9iYXE3OFhYY091V0c1ZC01T3pJR1FxaWoxTzY4SmFaU1NmbjFNU3l2SUVKYVh4R1gyOVEyQWlFNmN3?oc=5",
+      "date": "Sun, 03 May 2026 05:22:17 GMT",
+      "source": "글로벌이코노믹",
       "score": 0
     }
   ],
@@ -106,13 +106,6 @@
       "date": "Thu, 07 May 2026 20:51:37 GMT",
       "source": "글로벌이코노믹",
       "score": 2
-    },
-    {
-      "title": "리플(XRP), 기관 채택 성장세 속 1.39달러 유지… 모건스탠리 암호화폐 거래 서비스 주목",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwR2I5Nl85ejRwdWFBclhHYUFsUUhwN0xydGxTSXh2aFhRQldXQVZaLXZWV1BhX2FhVFhYejNUcE9JRWVWbm5EX2l6RXNkdTZFSEhaa09ZTmgzT01yOHZZU9IBZkFVX3lxTE1xXzY5YXhuU2JhaHlRb0tiRkVycjlILXBVb0pSV1pXX0RUZENxekt4YjZrRlZyUm9Cbk12ZVNKZXVOc1luOXlqUy11NlFPeDZpX0pVNzBYS3ZON2ROUktKaW5heEF3UQ?oc=5",
-      "date": "Thu, 07 May 2026 19:00:56 GMT",
-      "source": "tokenpost.kr",
-      "score": 3
     },
     {
       "title": "ETF 자금 몰리는데 왜 XRP만 멈췄나…리플의 이상한 정체는?",
@@ -136,10 +129,17 @@
       "score": 2
     },
     {
-      "title": "리플 CEO \"XRP 맥시멀리스트 아니다…비트코인 성공도 원해\"",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xOXZQVl9XZVFDam5tRWxib3NsX0MzRmhVNjRTbS1QSGx1NDgydS1JcENFN2NPWGhjTXBWWjVzWXpfQUVCXzFHUVE3dVdxUjEyX2x3?oc=5",
-      "date": "Thu, 07 May 2026 01:28:00 GMT",
-      "source": "네이트",
+      "title": "리플(XRP) 규제 명확성과 파일럿 프로젝트 완료로 기술적 목표가 2.64달러",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55aGdxYlFfZnM4NWlpUXlnaXEwZmZka3pPYWV4dXkybGNRUlNvSno4U2xYZ2p1dUpsaEZKcWVfeFlEMm5mbWJjUmJKVzYzSjNWNG1iYVZHeTU2SUpUeGxQctIBZkFVX3lxTE43MTQ5T1R2NzJyNkdMNFBqb2tDNktRQlJTNDJvS0diV1ZINDdqQ0pTQVdJcFN5YTA4SDBMT0lWZHQxR3YwWkM2RUMyUWo3S0k2N05XOUdqZDNhemw5Q25VVnBjajRMZw?oc=5",
+      "date": "Thu, 07 May 2026 03:00:54 GMT",
+      "source": "tokenpost.kr",
+      "score": 2
+    },
+    {
+      "title": "리플 전 CTO \"XRP 20달러? 비트코인 초기 100달러 돌파와 비교 안돼…시총부터 달라\"",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1odEdFd1VoNXE0VkpYcDBJUU03eko1LVBtQmJlcF9xSnlzRVJ2MmxRa0h2Y0JkZy1hWXZwSURJekZfenhBZERtV0QtNnJla1NkeGRwUjJhRFNxR3FGTGRlZWhVSDhHaXZOLTRIOEh0Z21laHM?oc=5",
+      "date": "Thu, 07 May 2026 02:25:00 GMT",
+      "source": "디지털투데이",
       "score": 2
     },
     {
