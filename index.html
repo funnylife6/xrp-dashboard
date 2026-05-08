@@ -169,7 +169,11 @@ body::before{content:'';position:fixed;inset:0;z-index:0;
   font-weight:500;
   font-family:'Noto Sans KR',sans-serif;
 }
-.inst-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-bottom:16px}
+.inst-grid{
+  display:grid;
+  grid-template-columns:repeat(2,1fr);
+  gap:18px;
+}
 @media(max-width:900px){.inst-grid{grid-template-columns:1fr 1fr}}
 .inst-card{background:var(--card);border:1px solid var(--border);border-radius:4px;padding:18px}
 .ic-label{font-size:10px;color:var(--muted);letter-spacing:2px;text-transform:uppercase;margin-bottom:8px}
