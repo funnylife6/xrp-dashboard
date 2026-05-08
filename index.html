@@ -1259,32 +1259,50 @@ async function fetchNewsList(rssUrls,listId){
 }
 
 async function updateNews(){
+  const listEl = document.getElementById('gen-list');
+  const updatedEl = document.getElementById('news-updated');
+
   try{
     const res = await fetch('./news.json?ts=' + Date.now(), {
       cache:'no-store'
     });
 
-    if(!res.ok) throw new Error('news.json fetch failed');
+    if(!res.ok) throw new Error('news.json fetch failed: ' + res.status);
 
     const news = await res.json();
 
+    if(!Array.isArray(news) || news.length === 0){
+      throw new Error('news.json is empty or invalid');
+    }
+
     const converted = news.map(item => ({
       title: item.title,
-      url: item.link,
-      source: item.source,
-      date: item.pubDate
+      url: item.link || item.url || '#',
+      source: item.source || '뉴스',
+      date: item.pubDate || item.date || item.publishedAt || item.updated || ''
     }));
 
     renderNews(converted, 'gen-list');
 
-    if(converted[0]){
-      document.getElementById('news-updated').textContent =
+    if(updatedEl && converted[0]){
+      updatedEl.textContent =
         '최신 기사 입력 · ' + formatNewsDate(converted[0].date);
     }
 
   }catch(e){
     console.error('news.json 로딩 실패:', e);
-    document.getElementById('news-updated').textContent = '뉴스 로딩 실패';
+
+    if(updatedEl){
+      updatedEl.textContent = '뉴스 로딩 실패';
+    }
+
+    if(listEl){
+      listEl.innerHTML = `
+        <div class="no-data">
+          news.json을 불러오지 못했습니다. GitHub의 news.json 위치와 Actions 실행 상태를 확인하세요.
+        </div>
+      `;
+    }
   }
 }
 
