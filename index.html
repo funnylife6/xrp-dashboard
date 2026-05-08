@@ -1136,76 +1136,68 @@ function setPct(id, label, value){
   el.textContent=label+' '+fP(value);
   el.style.color=pC(value);
 }
-async function updatePrice
-updatePrice();
-setInterval(updatePrice,5*60*1000);
+async function updatePrice(){
+  const now=new Date();
+  const hhmm=now.getHours().toString().padStart(2,'0')+':'+now.getMinutes().toString().padStart(2,'0');
 
-// 국내 XRP / 리플 최신 뉴스 갱신 (5분)
-const PROXY=url=>`https://api.allorigins.win/get?url=${encodeURIComponent(url)}`;
-const RSS_GEN_LIST=[
-  'https://news.google.com/rss/search?q=site%3Acoinness.com+XRP+OR+%EB%A6%AC%ED%94%8C&hl=ko&gl=KR&ceid=KR:ko',
-  'https://news.google.com/rss/search?q=site%3Acoinness.com+RLUSD+OR+%EB%A6%AC%ED%94%8C&hl=ko&gl=KR&ceid=KR:ko',
-  'https://news.google.com/rss/search?q=site%3Acointelegraph.com+XRP+OR+Ripple&hl=ko&gl=KR&ceid=KR:ko',
-  'https://news.google.com/rss/search?q=site%3Acryptoslate.com+XRP+OR+Ripple&hl=ko&gl=KR&ceid=KR:ko',
-  'https://news.google.com/rss/search?q=%EB%A6%AC%ED%94%8C+XRP&hl=ko&gl=KR&ceid=KR:ko',
-  'https://news.google.com/rss/search?q=XRP+ETF+%EB%A6%AC%ED%94%8C&hl=ko&gl=KR&ceid=KR:ko',
-  'https://news.google.com/rss/search?q=%EB%A6%AC%ED%94%8C+SEC+XRP&hl=ko&gl=KR&ceid=KR:ko',
-  'https://news.google.com/rss/search?q=RLUSD+%EB%A6%AC%ED%94%8C+XRP&hl=ko&gl=KR&ceid=KR:ko'
-];
-const NEWS_PRIORITY_SOURCES=['코인니스','Coinness','Cointelegraph','CryptoSlate','연합뉴스','뉴스1','블로터','디지털애셋','매일경제','한국경제','이데일리','조선비즈','서울경제','코인데스크','토큰포스트'];
-const NEWS_PRIORITY_TERMS=['ETF','SEC','리플','XRP','RLUSD','송금','기관','은행','업비트','빗썸','현물'];
-const NEWS_BLOCK_TERMS=['prediction','forecast','price analysis','2030','2040','$50','$100','hit this price','crash','beyond'];
+  try{
+    const r=await fetch(
+      'https://api.coingecko.com/api/v3/coins/ripple?localization=false&tickers=false&market_data=true&community_data=false&developer_data=false&sparkline=false',
+      {cache:'no-store'}
+    );
 
+    if(!r.ok) throw new Error('CoinGecko '+r.status);
 
-function formatNewsDate(d){
+    const data=await r.json();
+    const md=data.market_data||{};
+    const price=md.current_price||{};
+    const mcap=md.market_cap||{};
+    const vol=md.total_volume||{};
+    const pct24=md.price_change_percentage_24h;
+    const pct7=md.price_change_percentage_7d;
 
-  if(!d) return '';
+    setMoneyHTML('price-usd','$',price.usd,4);
+    setMoneyHTML('price-krw','₩',price.krw,0);
 
-  const date = new Date(d);
+    setHtml('market-cap',fKrwLarge(mcap.krw));
+    setHtml('volume-24h',fKrwLarge(vol.krw));
 
-  if(isNaN(date.getTime())){
-    return d;
+    setPct('pct-24h','24h',pct24);
+    setPct('pct-7d','7d',pct7);
+
+    liveHeroPriceUsd=Number(price.usd||0);
+
+    if(!priceBoostRunning){
+      setText(
+        'hero-price',
+        '$'+liveHeroPriceUsd.toLocaleString('en-US',{
+          minimumFractionDigits:4,
+          maximumFractionDigits:4
+        })
+      );
+    }
+
+    setText('hero-mcap',fL(mcap.usd||0));
+
+    const heroPct=document.getElementById('hero-pct');
+    if(heroPct && pct24!==undefined && pct24!==null){
+      heroPct.textContent=(Number(pct24)>=0?'▲ ':'▼ ')+fP(pct24);
+      heroPct.style.color=pC(pct24);
+    }
+
+    const hm=document.getElementById('hero-mcap-pct');
+    if(hm && pct24!==undefined && pct24!==null){
+      hm.textContent=fP(pct24);
+      hm.style.color=pC(pct24);
+    }
+
+    setText('last-updated',hhmm+' CoinGecko 기준');
+    setText('hero-updated',hhmm);
+
+  }catch(e){
+    console.warn('CoinGecko 가격 갱신 실패:',e);
+    setText('last-updated',hhmm+' CoinGecko 수집 실패');
   }
-
-  const yyyy = date.getFullYear();
-  const mm = String(date.getMonth()+1).padStart(2,'0');
-  const dd = String(date.getDate()).padStart(2,'0');
-
-  const hh = String(date.getHours()).padStart(2,'0');
-  const min = String(date.getMinutes()).padStart(2,'0');
-
-  return `${yyyy}.${mm}.${dd} ${hh}:${min}`;
-}
-
-function parseRSS(xml){
-  const doc = new DOMParser().parseFromString(xml,'text/xml');
-
-  return [...doc.querySelectorAll('item')].map(el=>{
-
-    const t = el.querySelector('title')?.textContent
-      ?.replace(/<[^>]+>/g,'')
-      .replace(/ - [^-]+$/,'')
-      .trim() || '';
-
-    const l = el.querySelector('link')?.textContent?.trim() || '#';
-
-    const d =
-      el.querySelector('pubDate')?.textContent?.trim() ||
-      el.querySelector('published')?.textContent?.trim() ||
-      el.querySelector('updated')?.textContent?.trim() ||
-      el.querySelector('dc\\:date')?.textContent?.trim() ||
-      '';
-
-    const s = el.querySelector('source')?.textContent?.trim() || '';
-
-    return {
-      title: t,
-      url: l,
-      date: d,
-      source: s
-    };
-
-  });
 }
 
 function renderNews(items,listId){
