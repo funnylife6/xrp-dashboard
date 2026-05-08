@@ -1045,9 +1045,27 @@ button,input,textarea,select{font:inherit;}
       <div class="ic-mini"><span>Ledger #104,062,262</span><b>Close 0.00s</b></div>
     </div>
     <div class="inst-card">
-      <div class="ic-label">XRP 현물 ETF 순유입</div>
-      <div class="ic-value" style="color:var(--green)" id="etf-daily-inflow">일일 순유입 수집중</div>
-      <div class="ic-sub">일일 순유입</div>
+     <div class="ic-label">XRP 현물 ETF 플로우</div>
+
+<div class="ic-value"
+     id="xrpEtfDailyFlow"
+     style="color:var(--green)">
+  수집중
+</div>
+
+<div class="ic-sub">
+  일일 순유입
+</div>
+
+<div class="ic-mini">
+  <span>누적 AUM</span>
+  <b id="xrpEtfTotalAum">수집중</b>
+</div>
+
+<div class="ic-mini">
+  <span>XRP Locked</span>
+  <b id="xrpEtfLocked">수집중</b>
+</div>
       <div class="ic-sub">누적 순유입 <b id="etf-total-inflow" style="color:var(--text)">$7.33M</b></div>
       <div class="ic-mini"><span>ETF 순유입 부분 수집</span><b id="etf-flow-source">SoSoValue 순유입 부분 수집 05/07 06:04</b></div>
     </div>
