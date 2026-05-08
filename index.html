@@ -1175,11 +1175,7 @@ const NEWS_PRIORITY_SOURCES=['코인니스','Coinness','Cointelegraph','CryptoSl
 const NEWS_PRIORITY_TERMS=['ETF','SEC','리플','XRP','RLUSD','송금','기관','은행','업비트','빗썸','현물'];
 const NEWS_BLOCK_TERMS=['prediction','forecast','price analysis','2030','2040','$50','$100','hit this price','crash','beyond'];
 
-function timeAgo(d){
-  const s=(Date.now()-new Date(d).getTime())/1000;
-  if(s<60)return '방금';if(s<3600)return Math.floor(s/60)+'분 전';
-  if(s<86400)return Math.floor(s/3600)+'시간 전';return Math.floor(s/86400)+'일 전';
-}
+
 function formatNewsDate(d){
 
   if(!d) return '';
