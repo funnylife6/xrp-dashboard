@@ -100,8 +100,30 @@ body::before{content:'';position:fixed;inset:0;z-index:0;
 .reg-ni:hover .rni-title{color:var(--accent)}
 .rni-dot{width:4px;height:4px;background:var(--accent);border-radius:50%;flex-shrink:0;margin-top:7px}
 .rni-content{display:flex;flex-direction:column;gap:5px;min-width:0;flex:1}
-.rni-title{display:block;font-size:12px;color:var(--text);line-height:1.45;transition:color .15s;word-break:keep-all;overflow-wrap:break-word}
-.rni-src{display:block;font-size:9px;color:var(--muted);line-height:1.2;white-space:normal;opacity:.78}
+.rni-title{
+  display:block;
+  font-size:15.5px;
+  font-weight:700;
+  color:#f8fafc;
+  line-height:1.6;
+  transition:color .15s;
+  word-break:keep-all;
+  overflow-wrap:break-word;
+  letter-spacing:-0.2px;
+  font-family:'Noto Sans KR',sans-serif;
+}
+
+.rni-src{
+  display:block;
+  font-size:12px;
+  color:#ffffff;
+  line-height:1.45;
+  white-space:normal;
+  opacity:1;
+  margin-top:6px;
+  font-weight:500;
+  font-family:'Noto Sans KR',sans-serif;
+}
 .inst-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-bottom:16px}
 @media(max-width:900px){.inst-grid{grid-template-columns:1fr 1fr}}
 .inst-card{background:var(--card);border:1px solid var(--border);border-radius:4px;padding:18px}
