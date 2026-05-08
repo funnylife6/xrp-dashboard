@@ -1225,11 +1225,25 @@ function formatNewsDate(dateString) {
   if (!dateString) return "";
 
   const raw = String(dateString).trim();
+  let date;
 
-  // "4시간 전", "7분 전", "22시간 전" 같은 상대시간은 표시하지 않음
-  if (/전$/.test(raw)) return "";
+  // "4시간 전", "7시간 전", "22시간 전" 처리
+  const hourMatch = raw.match(/(\d+)\s*시간\s*전/);
+  if (hourMatch) {
+    date = new Date(Date.now() - Number(hourMatch[1]) * 60 * 60 * 1000);
+  }
 
-  const date = new Date(raw);
+  // "10분 전" 처리
+  const minMatch = raw.match(/(\d+)\s*분\s*전/);
+  if (!date && minMatch) {
+    date = new Date(Date.now() - Number(minMatch[1]) * 60 * 1000);
+  }
+
+  // 일반 날짜 처리
+  if (!date) {
+    date = new Date(raw);
+  }
+
   if (isNaN(date.getTime())) return "";
 
   const mm = String(date.getMonth() + 1).padStart(2, "0");
@@ -1238,6 +1252,22 @@ function formatNewsDate(dateString) {
   const mi = String(date.getMinutes()).padStart(2, "0");
 
   return `${mm}/${dd} ${hh}:${mi}`;
+}
+  function normalizeStaticNewsTimes() {
+  document.querySelectorAll(".rni-src, .nsrc").forEach(el => {
+    const text = el.textContent.trim();
+    const parts = text.split("·").map(v => v.trim());
+
+    if (parts.length < 2) return;
+
+    const src = parts[0];
+    const rawDate = parts.slice(1).join(" · ");
+    const fixedDate = formatNewsDate(rawDate);
+
+    if (fixedDate) {
+      el.textContent = `${src} · ${fixedDate}`;
+    }
+  });
 }
 function renderNews(items,listId){
   const el=document.getElementById(listId);if(!el)return;
