@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-08T16:50:04",
+  "generated_at": "2026-05-08T18:06:02",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.39,
-    "price_krw": 2035.96,
-    "price_change_24h": 0.22957,
-    "price_change_7d": -0.07498,
-    "price_change_30d": 3.35005,
-    "market_cap_usd": 86138946730,
+    "price_usd": 1.41,
+    "price_krw": 2065.13,
+    "price_change_24h": 1.54336,
+    "price_change_7d": 1.29835,
+    "price_change_30d": 3.96746,
+    "market_cap_usd": 87136961782,
     "market_cap_rank": 5,
-    "volume_24h": 1436351763,
+    "volume_24h": 1446266851,
     "circulating_supply": 61796225236.0,
     "total_supply": 99985670046.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 78.46,
-    "sentiment_votes_down": 21.54,
+    "sentiment_votes_up": 81.16,
+    "sentiment_votes_down": 18.84,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 38.88,
-    "recent_tps": 38.88,
-    "recent_tx_count": 3499,
+    "tps_24h_avg": 39.79,
+    "recent_tps": 39.79,
+    "recent_tx_count": 3581,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104094535,
+    "ledger_seq": 104095708,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-08 16:49:57 KST",
+    "updated_at": "2026-05-08 18:05:51 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -52,6 +52,13 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GdlNjNmE2ZlFsWDFaNmZRTHNidWdjWmE5NFhGSmVGQ2huZzE3ZkI4Q3FSSzJzbm1oZURRU2dodFhhZGx4elJPVXhNV0hYS3BNZEluekJoQjBjS0oxTXRsbjNRdXBVS3lRdnlaNG1jOUh4MGvSAXdBVV95cUxNRG1fbXM0NUk3WGlsajlKU0V4NlBYN2duaktHUEE3a1Z6QTQ2Z3ltWU9RNmJvWDg0TFlnZVMwVjljOUllMV85cHhGcWF5UXNlZ3lSS084U2t5VWFEdHpMUUlmdkg2dHFVTWxaeWdCSkhHMVZMcmJmaw?oc=5",
       "date": "Thu, 07 May 2026 09:10:00 GMT",
       "source": "핀포인트뉴스",
+      "score": 0
+    },
+    {
+      "title": "리플(XRP), 유동성 5년래 최저 수준…1.43달러까지 반등하며 ‘변곡점’ 시선",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE42X0VjVGpyLW9hckVLaXRsY1d3dGctZ1luWEVQTThxWWw5TllINzBfQm52ZGxnVktKVmFSLTg3QV9jUUZncDVuWnY2UFhmcVpiRGp5WEVGLVEwbUJkTExxeTBpNldVV3Jm?oc=5",
+      "date": "Wed, 06 May 2026 07:58:25 GMT",
+      "source": "CBC뉴스",
       "score": 0
     },
     {
@@ -80,13 +87,6 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQX29lcFVOdWQ5TkU1azFkLWJpdUhtMHUzZmRKbTlwSjVfclAtYlFqck1NRmRkWFMtUTl4anhHd1dHX2pfcWw2d2JWTTQyX1J3TFpPeW1DYjhGSmdmTFl4RHR3SW1zSTlTeUhPQ0xUell3U1ZIZDlwS2I0akZEdzBRRmdLT3Y2allRNFBscQ?oc=5",
       "date": "Mon, 04 May 2026 04:55:00 GMT",
       "source": "네이버 프리미엄콘텐츠",
-      "score": 0
-    },
-    {
-      "title": "美 SEC, 엑스알피(XRP) '적격 자산' 인정… 비트코인·이더리움과 어깨 나란히",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRWlSVW1kOE9oVnVUM1dQWTRkSlhQT2daNE0xNXBZU1FaTnJJY1lCb1JWZUxnbXlBdldtR3Q4U3FZNlJ5WHNQcTg2Q2lobE9iYXE3OFhYY091V0c1ZC01T3pJR1FxaWoxTzY4SmFaU1NmbjFNU3l2SUVKYVh4R1gyOVEyQWlFNmN3?oc=5",
-      "date": "Sun, 03 May 2026 05:22:17 GMT",
-      "source": "글로벌이코노믹",
       "score": 0
     }
   ],
