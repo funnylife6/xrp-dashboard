@@ -1201,13 +1201,33 @@ function timeAgo(d){
 }
 
 function parseRSS(xml){
-  const doc=new DOMParser().parseFromString(xml,'text/xml');
+  const doc = new DOMParser().parseFromString(xml,'text/xml');
+
   return [...doc.querySelectorAll('item')].map(el=>{
-    const t=el.querySelector('title')?.textContent?.replace(/<[^>]+>/g,'').replace(/ - [^-]+$/,'').trim()||'';
-    const l=el.querySelector('link')?.textContent?.trim()||'#';
-    const d=el.querySelector('pubDate')?.textContent?.trim()||'';
-    const s=el.querySelector('source')?.textContent?.trim()||'';
-    return {title:t,url:l,date:d,source:s};
+
+    const t = el.querySelector('title')?.textContent
+      ?.replace(/<[^>]+>/g,'')
+      .replace(/ - [^-]+$/,'')
+      .trim() || '';
+
+    const l = el.querySelector('link')?.textContent?.trim() || '#';
+
+    const d =
+      el.querySelector('pubDate')?.textContent?.trim() ||
+      el.querySelector('published')?.textContent?.trim() ||
+      el.querySelector('updated')?.textContent?.trim() ||
+      el.querySelector('dc\\:date')?.textContent?.trim() ||
+      '';
+
+    const s = el.querySelector('source')?.textContent?.trim() || '';
+
+    return {
+      title: t,
+      url: l,
+      date: d,
+      source: s
+    };
+
   });
 }
 
