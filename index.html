@@ -1260,7 +1260,12 @@ async function fetchNewsList(rssUrls,listId){
 
 async function updateNews(){
   try{
-    const res = await fetch('./news.json?ts=' + Date.now());
+    const res = await fetch('./news.json?ts=' + Date.now(), {
+      cache:'no-store'
+    });
+
+    if(!res.ok) throw new Error('news.json fetch failed');
+
     const news = await res.json();
 
     const converted = news.map(item => ({
@@ -1279,9 +1284,7 @@ async function updateNews(){
 
   }catch(e){
     console.error('news.json 로딩 실패:', e);
-
-    document.getElementById('news-updated').textContent =
-      '뉴스 로딩 실패';
+    document.getElementById('news-updated').textContent = '뉴스 로딩 실패';
   }
 }
 
