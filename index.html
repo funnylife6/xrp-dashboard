@@ -1336,17 +1336,24 @@ const RSS_SEC_LIST=[
 ];
 
 function renderRegNews(items,listId){
-  const el=document.getElementById(listId);if(!el)return;
+  const el=document.getElementById(listId);
+  if(!el)return;
+
   items.sort((a,b)=>new Date(b.date)-new Date(a.date));
-  el.innerHTML=items.slice(0,4).map(n=>
-    `<a class="reg-ni" href="${n.url}" target="_blank" rel="noopener">
+
+  el.innerHTML=items.slice(0,4).map((n,i)=>{
+    const src=n.source||'Google News KR';
+    const dateText=n.date ? formatNewsDate(n.date) : '';
+    const badge=i===0?'⚡ 최신':'#'+(i+1);
+
+    return `<a class="reg-ni" href="${n.url}" target="_blank" rel="noopener">
       <span class="rni-dot"></span>
       <span class="rni-content">
         <span class="rni-title">${n.title}</span>
-        <span class="rni-src">${n.source||'Google News KR'}${n.date?' · '+formatNewsDate(n.date):''}</span>
+        <span class="rni-src">${src}${dateText?' · '+dateText:''}</span>
       </span>
-    </a>`
-  ).join('');
+    </a>`;
+  }).join('');
 }
 
 async function fetchRegNewsList(rssUrls,listId){
