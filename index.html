@@ -1740,10 +1740,21 @@ updateNews();
 setInterval(updateNews,5*60*1000);
 
 updateRegNews();
-setInterval(updateRegNews,5*60*1000);
+normalizeStaticNewsTimes();
+
+setInterval(()=>{
+  updateRegNews();
+  normalizeStaticNewsTimes();
+}, 5*60*1000);
 
 updateEtfNews();
-setInterval(updateEtfNews,5*60*1000);
+
+setInterval(()=>{
+  updateEtfNews();
+  normalizeStaticNewsTimes();
+}, 5*60*1000);
+ 
+  normalizeStaticNewsTimes();
 </script>
 
 <script type="module">
