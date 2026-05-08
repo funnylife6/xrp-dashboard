@@ -16,60 +16,79 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Fetch XRP ETF Data
+      - name: Fetch SoSoValue XRP ETF data
         run: |
           python3 <<'PY'
-          import json, re, urllib.request
+          import json
+          import re
+          import urllib.request
           from datetime import datetime, timezone
 
-          url = "https://xrp-insights.com/"
+          url = "https://sosovalue.com/"
 
-          req = urllib.request.Request(
-              url,
-              headers={
-                  "User-Agent": "Mozilla/5.0"
-              }
-          )
+          headers = {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36",
+              "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+              "Accept-Language": "en-US,en;q=0.9,ko;q=0.8"
+          }
+
+          def clean(v):
+              if not v:
+                  return "확인중"
+              return re.sub(r"\s+", " ", str(v)).strip()
+
+          def pick_money_near(html, keywords):
+              for kw in keywords:
+                  pattern = rf"{kw}[\s\S]{{0,500}}?(-?\$?[\d,.]+(?:K|M|B|T)?)"
+                  m = re.search(pattern, html, re.I)
+                  if m:
+                      return clean(m.group(1))
+              return "확인중"
 
           try:
-              html = urllib.request.urlopen(req, timeout=20).read().decode("utf-8", errors="ignore")
+              req = urllib.request.Request(url, headers=headers)
+              html = urllib.request.urlopen(req, timeout=25).read().decode("utf-8", errors="ignore")
 
-              def find_value(labels):
-                  for label in labels:
-                      pattern = rf"{label}[\s\S]{{0,300}}?(\$[\d,.]+[KMBT]?|[\d,.]+M?\s*XRP|[\d,.]+B?\s*XRP)"
-                      m = re.search(pattern, html, re.I)
+              # XRP 관련 구간만 최대한 좁혀보기
+              xrp_pos = html.lower().find("xrp")
+              if xrp_pos != -1:
+                  section = html[max(0, xrp_pos - 3000):xrp_pos + 8000]
+              else:
+                  section = html
 
-                      if m:
-                          return re.sub(r"\s+", " ", m.group(1)).strip()
+              daily_flow = pick_money_near(section, [
+                  "Daily Net Inflow",
+                  "Daily Inflow",
+                  "Net Inflow",
+                  "Flow"
+              ])
 
-                  return "확인중"
+              total_net_inflow = pick_money_near(section, [
+                  "Cumulative Net Inflow",
+                  "Total Net Inflow",
+                  "Total Inflow"
+              ])
+
+              total_aum = pick_money_near(section, [
+                  "Total Net Assets",
+                  "Total AUM",
+                  "AUM"
+              ])
 
               data = {
-                  "source": "xrp-insights.com",
-                  "dailyFlow": find_value([
-                      "Daily Flow",
-                      "Daily Net Flow",
-                      "Daily Flows",
-                      "Net Flow"
-                  ]),
-                  "totalAum": find_value([
-                      "Total AUM",
-                      "AUM"
-                  ]),
-                  "xrpLocked": find_value([
-                      "XRP Locked",
-                      "Holdings",
-                      "XRP Holdings"
-                  ]),
+                  "source": "sosovalue.com",
+                  "dailyFlow": daily_flow,
+                  "totalNetInflow": total_net_inflow,
+                  "totalAum": total_aum,
                   "updatedAt": datetime.now(timezone.utc).isoformat()
               }
 
           except Exception as e:
               data = {
-                  "source": "xrp-insights.com",
+                  "source": "sosovalue.com",
                   "dailyFlow": "수집 실패",
+                  "totalNetInflow": "수집 실패",
                   "totalAum": "수집 실패",
-                  "xrpLocked": "수집 실패",
                   "error": str(e),
                   "updatedAt": datetime.now(timezone.utc).isoformat()
               }
@@ -80,13 +99,10 @@ jobs:
           print(json.dumps(data, ensure_ascii=False, indent=2))
           PY
 
-      - name: Commit XRP ETF Data
+      - name: Commit XRP ETF data
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-
           git add xrp-etf.json
-
-          git commit -m "Update XRP ETF data" || echo "No changes"
-
+          git commit -m "Update XRP ETF data from SoSoValue" || echo "No changes"
           git push
