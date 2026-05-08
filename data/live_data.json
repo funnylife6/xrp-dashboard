@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-08T11:51:39",
+  "generated_at": "2026-05-08T13:14:35",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.39,
-    "price_krw": 2039.06,
-    "price_change_24h": -1.54327,
-    "price_change_7d": 1.08424,
-    "price_change_30d": 0.63092,
-    "market_cap_usd": 85854948802,
+    "price_krw": 2030.98,
+    "price_change_24h": -1.70245,
+    "price_change_7d": 0.68359,
+    "price_change_30d": 0.63352,
+    "market_cap_usd": 85636719579,
     "market_cap_rank": 5,
-    "volume_24h": 1615522748,
+    "volume_24h": 1617115059,
     "circulating_supply": 61796225236.0,
     "total_supply": 99985670046.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 82.61,
-    "sentiment_votes_down": 17.39,
+    "sentiment_votes_up": 81.82,
+    "sentiment_votes_down": 18.18,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 23.27,
-    "recent_tps": 23.27,
-    "recent_tx_count": 2094,
+    "tps_24h_avg": 57.23,
+    "recent_tps": 57.23,
+    "recent_tx_count": 5151,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104089923,
+    "ledger_seq": 104091205,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-08 11:51:24 KST",
+    "updated_at": "2026-05-08 13:14:28 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -54,6 +54,13 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GdlNjNmE2ZlFsWDFaNmZRTHNidWdjWmE5NFhGSmVGQ2huZzE3ZkI4Q3FSSzJzbm1oZURRU2dodFhhZGx4elJPVXhNV0hYS3BNZEluekJoQjBjS0oxTXRsbjNRdXBVS3lRdnlaNG1jOUh4MGvSAXdBVV95cUxNRG1fbXM0NUk3WGlsajlKU0V4NlBYN2duaktHUEE3a1Z6QTQ2Z3ltWU9RNmJvWDg0TFlnZVMwVjljOUllMV85cHhGcWF5UXNlZ3lSS084U2t5VWFEdHpMUUlmdkg2dHFVTWxaeWdCSkhHMVZMcmJmaw?oc=5",
       "date": "Thu, 07 May 2026 09:10:00 GMT",
       "source": "핀포인트뉴스",
+      "score": 0
+    },
+    {
+      "title": "리플(XRP), 제도권 확장 신호…레버리지 ETF 확대·기업 플랫폼 출시 주목",
+      "url": "https://news.google.com/rss/articles/CBMipwdBVV95cUxNRHhURnF6UklpZ3NjeTczVDdWV3VadDJOaGtTS2xyWkZPSkZVRFlFTVhacjB6bGwxTlNvMl9xQTNXLXpydjVqSjFreU5zclNKMk1sR3JLSFY3eFpyZ0FiN2l3aEM3VE5rdlBQUC1idDEycG5sN3Z1UWU3R05lcXN5cDN6TXpRbXAtdlU3dWZmWXlQSlRiNnBqNnJCXzRWbDg4dWk0NHdHcnVtckp0dG13dzFTN1JycF9QTlZxVzByeF9ia084VUowblFEVVgzWDZjVHBrXzlXaUw4T0syU3hHZ2NBeWM2MTVqV3FZM1FkSmExV1hZd21WUDFxdHQtb1hVVWNQMEI2bDhOaTlCRjB6aVUzNDAwOUtscGpRRURTU0hYRGxndVlUN09MVWF2TnB2YlhEQlViaWM2dl9JMjhmbjhsUEoxQ3o1NXl0ZXMtbzg4dGtNR20xUUl6RzNvcEdpZ0g3bDBuSlBCLTJ3ejY0QXVXM1h6OXhWSVBXRUFRY25xbjNjeUctTERIY3NUc2NaUUVDUnhqc1hwM01nTGZId2d4QjRzS0ZGSG03RjMzc1RtSm1VX243RXY4WWZCb3JEMmpUR1NXaVljTDItZmtDMHRzNmkxTFdBOXNEbXF1LU5mWEtzU3lrNlk1N3hCUzY1TlNCZ0FtNVdfdFZtdDEyM2p1VnU3dVg1TkJwRWZiVVZYSGwydVhReFFFVTdUbU9BZGhLdmJJdzZJY1FFSnQ2NDVZWG5TYkdKc3NzOGdyQkpUUC1vS2Vnb0g1dDB5UXdmTzdRUjRqMU1ocEZ1dUtFNDVmWnZZYU8tTFR0bnFwN3NHMk1Gc0FMNGNER0lNTjM3V1dodmphZ25pajM5cDFjZExvV05Ba1BYU09jaDhLV2w1QVItMmJkTXVjOWVkamlEQm1TVXNyZ01oMmszLU9ibEZzUF9IdWFZYWk2eldnR3NEWWJaUUI0SExWOUgxeUFkY3diZjhsYVVYUDRmV3hrR2k1NGZGTl9tTmF0bEFlQnVOSzhPXzBXVVNRTXRYUmZQRFpVZzEtdlhUWEhJUzYza2F6bEVFYXRaSHpseFZEdXcwbjZvT2pyUHBGNElfRVpmS2NWZGxHakpPZTlvWGdmUDc4dThaVUVCS0tGWWk1MUMtLVBGUTB3Znh0bGVvLWprY0FPUmE3VHhiVUsweG9yQU9yOW1nc3lLVHRTVTJDRzhhRHJtcGc1Z0JZOUJ5Z0dwcDJ0R0FZbw?oc=5",
+      "date": "Thu, 07 May 2026 03:39:49 GMT",
+      "source": "CBC뉴스",
       "score": 0
     },
     {
@@ -83,21 +90,35 @@
       "date": "Mon, 04 May 2026 04:55:00 GMT",
       "source": "네이버 프리미엄콘텐츠",
       "score": 0
-    },
-    {
-      "title": "美 SEC, 엑스알피(XRP) '적격 자산' 인정… 비트코인·이더리움과 어깨 나란히",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRWlSVW1kOE9oVnVUM1dQWTRkSlhQT2daNE0xNXBZU1FaTnJJY1lCb1JWZUxnbXlBdldtR3Q4U3FZNlJ5WHNQcTg2Q2lobE9iYXE3OFhYY091V0c1ZC01T3pJR1FxaWoxTzY4SmFaU1NmbjFNU3l2SUVKYVh4R1gyOVEyQWlFNmN3?oc=5",
-      "date": "Sun, 03 May 2026 05:22:17 GMT",
-      "source": "글로벌이코노믹",
-      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "암호화폐(코인) XRP 시장 내 고래 지배력 90% 이상... 가격은 어떻게 변할까",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE16OHI2UjhPMVlvN2hDS0lKWHlFU0t1d2VBVDR6THpLVWRIWmN0U2dVdUN1SF9yakJpZWszOFFNMXBmQjU3MExYLWZ0eml6YV9iUkxmRS1n?oc=5",
+      "date": "Fri, 08 May 2026 07:00:00 GMT",
+      "source": "위키트리",
+      "score": 2
+    },
     {
       "title": "리플 전 CTO \"XRP 낙관 발언 꺼려진다…시장조작 오해 우려\"",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56bnI4SHpPVDUzc2lZX01yaFVqV2t1RmV2NUx6X0pFR09kMTVMNTljUzlZWE1Ub29DOEtIZXdrWXByUi1KRDVSZmtBdm5MUnRoVDAxNGg0Rm5BT1JMMzc4VExUbnhlemc3eU5GbTg4cVA3QjQ?oc=5",
       "date": "Fri, 08 May 2026 05:09:00 GMT",
       "source": "디지털투데이",
+      "score": 2
+    },
+    {
+      "title": "클래리티 7월에 되면 리플떡상한다",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE01SDB4eHhxR2tSNGo5YTh5UEtvSzBTendXVFVmY1VHVFVxci1aR001SkctLUh6Mk1QbzBlZTFXSDVvNS1yTDY0NV9YcGt4UHY2Vll5REo5Z04?oc=5",
+      "date": "Fri, 08 May 2026 04:10:28 GMT",
+      "source": "코인니스",
+      "score": 9
+    },
+    {
+      "title": "리플(XRP) 사? 팔아?… GPT·클로드·Grok의 엇갈린 전망",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xd3M4YkU1VmEtcWZWU01BbUZ2V0RKeEd4R3VRLWRvcDQxOXZzS1BfTHc0VXc5OTlaSXB5dURUbnN0SUZ5b3JpdHhPRFdlM3owSmFudXFLNDDSAV5BVV95cUxPOWppZnV3M0pySE5saFRzUWptN0JsRjdsN3p0V1d4VDdpU0JhU0hidjhzRkJSbUsxM2FuTG1EWjF2T0tfLWd4SFNYSmwxS3B3MU9LSHFncTloQXlQZHpB?oc=5",
+      "date": "Fri, 08 May 2026 00:50:16 GMT",
+      "source": "tokenpost.kr",
       "score": 2
     },
     {
@@ -136,32 +157,11 @@
       "score": 2
     },
     {
-      "title": "XRP, 17% 상승 기대 커졌지만…15억개 손익분기점 물량 부담",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NUE85c1lLZUZONUxwRDA2Y2ZTbng4VURma2VEOUNqVEZuS21OSEpfckROQ2h0WU1MR3NGN1VxUEhWajljRmUyNWdKS3h3cVVfUTJF?oc=5",
-      "date": "Thu, 07 May 2026 00:29:00 GMT",
-      "source": "네이트",
-      "score": 2
-    },
-    {
-      "title": "리플 CEO \"XRP, 이제 기관 담보 자산으로 쓰인다\"…실사용 확대 시사",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KVkN5UHNaTzF4aHB6REJRNm9aOENWaU9RdkVrNFM0LW10NFRjRFFZTjhtcWI2Tlk0TDdPY1ltZ3l3M0xwcXF0THVmc3F0anFwSWRjOXVVX0xWd196emNkbDRwaGU2c2I5X2YwWW5yY3lSSm8?oc=5",
-      "date": "Thu, 07 May 2026 00:02:30 GMT",
-      "source": "디지털투데이",
-      "score": 4
-    },
-    {
-      "title": "드디어 자산 30억 돌파했다",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9sUzNURzYwX21WbzB6Y2dOQXZjWktIY2JMLVRhYVdzR0JJclk5MmxoVkRreGhNenFfUllSblRGWkpyeFBqX3lTSS0zTlFpQnotLWY5RnB4Xzg?oc=5",
-      "date": "Wed, 06 May 2026 13:12:45 GMT",
-      "source": "코인니스",
-      "score": 8
-    },
-    {
-      "title": "[컨센서스 2026] 리플 CEO \"5년 내 판 바뀔 것\"…결제·RWA·스테이블코인 3축 청사진 발표",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBGRE1xaGs4dEVMeGZyS0k0OURqeXN2azZwRVBmeGh5Q2M5VlVjVXMxSFgyYkxoWXJWNnB6S1RpOTRrZFdaMjVpcGJ6VHZHSGQ0anB2SVVYTmk?oc=5",
-      "date": "Wed, 06 May 2026 02:05:00 GMT",
-      "source": "블록미디어",
-      "score": 2
+      "title": "리플(XRP), 제도권 확장 신호…레버리지 ETF 확대·기업 플랫폼 출시 주목",
+      "url": "https://news.google.com/rss/articles/CBMipwdBVV95cUxNRHhURnF6UklpZ3NjeTczVDdWV3VadDJOaGtTS2xyWkZPSkZVRFlFTVhacjB6bGwxTlNvMl9xQTNXLXpydjVqSjFreU5zclNKMk1sR3JLSFY3eFpyZ0FiN2l3aEM3VE5rdlBQUC1idDEycG5sN3Z1UWU3R05lcXN5cDN6TXpRbXAtdlU3dWZmWXlQSlRiNnBqNnJCXzRWbDg4dWk0NHdHcnVtckp0dG13dzFTN1JycF9QTlZxVzByeF9ia084VUowblFEVVgzWDZjVHBrXzlXaUw4T0syU3hHZ2NBeWM2MTVqV3FZM1FkSmExV1hZd21WUDFxdHQtb1hVVWNQMEI2bDhOaTlCRjB6aVUzNDAwOUtscGpRRURTU0hYRGxndVlUN09MVWF2TnB2YlhEQlViaWM2dl9JMjhmbjhsUEoxQ3o1NXl0ZXMtbzg4dGtNR20xUUl6RzNvcEdpZ0g3bDBuSlBCLTJ3ejY0QXVXM1h6OXhWSVBXRUFRY25xbjNjeUctTERIY3NUc2NaUUVDUnhqc1hwM01nTGZId2d4QjRzS0ZGSG03RjMzc1RtSm1VX243RXY4WWZCb3JEMmpUR1NXaVljTDItZmtDMHRzNmkxTFdBOXNEbXF1LU5mWEtzU3lrNlk1N3hCUzY1TlNCZ0FtNVdfdFZtdDEyM2p1VnU3dVg1TkJwRWZiVVZYSGwydVhReFFFVTdUbU9BZGhLdmJJdzZJY1FFSnQ2NDVZWG5TYkdKc3NzOGdyQkpUUC1vS2Vnb0g1dDB5UXdmTzdRUjRqMU1ocEZ1dUtFNDVmWnZZYU8tTFR0bnFwN3NHMk1Gc0FMNGNER0lNTjM3V1dodmphZ25pajM5cDFjZExvV05Ba1BYU09jaDhLV2w1QVItMmJkTXVjOWVkamlEQm1TVXNyZ01oMmszLU9ibEZzUF9IdWFZYWk2eldnR3NEWWJaUUI0SExWOUgxeUFkY3diZjhsYVVYUDRmV3hrR2k1NGZGTl9tTmF0bEFlQnVOSzhPXzBXVVNRTXRYUmZQRFpVZzEtdlhUWEhJUzYza2F6bEVFYXRaSHpseFZEdXcwbjZvT2pyUHBGNElfRVpmS2NWZGxHakpPZTlvWGdmUDc4dThaVUVCS0tGWWk1MUMtLVBGUTB3Znh0bGVvLWprY0FPUmE3VHhiVUsweG9yQU9yOW1nc3lLVHRTVTJDRzhhRHJtcGc1Z0JZOUJ5Z0dwcDJ0R0FZbw?oc=5",
+      "date": "Thu, 07 May 2026 03:39:49 GMT",
+      "source": "CBC뉴스",
+      "score": 3
     }
   ]
 }
