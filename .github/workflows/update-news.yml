@@ -16,18 +16,107 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Create news.json
+      - name: Fetch RSS and create news.json
         run: |
-          cat > news.json << 'EOF'
-          [
-            {
-              "title": "뉴스 자동 업데이트 테스트",
-              "link": "https://news.google.com",
-              "source": "Google News",
-              "pubDate": "2026-05-08T09:00:00+09:00"
-            }
+          python3 << 'PY'
+          import json
+          import urllib.request
+          import xml.etree.ElementTree as ET
+          from email.utils import parsedate_to_datetime
+          from datetime import timezone, timedelta
+
+          RSS_LIST = [
+              "https://news.google.com/rss/search?q=site%3Acoinness.com+XRP+OR+%EB%A6%AC%ED%94%8C&hl=ko&gl=KR&ceid=KR:ko",
+              "https://news.google.com/rss/search?q=site%3Acoinness.com+RLUSD+OR+%EB%A6%AC%ED%94%8C&hl=ko&gl=KR&ceid=KR:ko",
+              "https://news.google.com/rss/search?q=site%3Acointelegraph.com+XRP+OR+Ripple&hl=ko&gl=KR&ceid=KR:ko",
+              "https://news.google.com/rss/search?q=site%3Acryptoslate.com+XRP+OR+Ripple&hl=ko&gl=KR&ceid=KR:ko",
+              "https://news.google.com/rss/search?q=%EB%A6%AC%ED%94%8C+XRP&hl=ko&gl=KR&ceid=KR:ko",
+              "https://news.google.com/rss/search?q=XRP+ETF+%EB%A6%AC%ED%94%8C&hl=ko&gl=KR&ceid=KR:ko",
+              "https://news.google.com/rss/search?q=%EB%A6%AC%ED%94%8C+SEC+XRP&hl=ko&gl=KR&ceid=KR:ko",
+              "https://news.google.com/rss/search?q=RLUSD+%EB%A6%AC%ED%94%8C+XRP&hl=ko&gl=KR&ceid=KR:ko"
           ]
-          EOF
+
+          BLOCK_WORDS = [
+              "prediction", "forecast", "price analysis",
+              "2030", "2040", "$50", "$100",
+              "hit this price", "crash", "beyond"
+          ]
+
+          KST = timezone(timedelta(hours=9))
+          news = []
+          seen = set()
+
+          def clean_title(title):
+              title = title.replace("<![CDATA[", "").replace("]]>", "").strip()
+              if " - " in title:
+                  title = title.rsplit(" - ", 1)[0].strip()
+              return title
+
+          def parse_date(pub_date):
+              try:
+                  dt = parsedate_to_datetime(pub_date)
+                  if dt.tzinfo is None:
+                      dt = dt.replace(tzinfo=timezone.utc)
+                  return dt.astimezone(KST).isoformat()
+              except:
+                  return ""
+
+          for rss_url in RSS_LIST:
+              try:
+                  req = urllib.request.Request(
+                      rss_url,
+                      headers={"User-Agent": "Mozilla/5.0"}
+                  )
+
+                  with urllib.request.urlopen(req, timeout=20) as response:
+                      xml_data = response.read()
+
+                  root = ET.fromstring(xml_data)
+
+                  for item in root.findall(".//item"):
+                      title = item.findtext("title") or ""
+                      link = item.findtext("link") or ""
+                      pub_date = item.findtext("pubDate") or ""
+                      source = item.findtext("source") or "Google News"
+
+                      title = clean_title(title)
+
+                      if not title or not link:
+                          continue
+
+                      lower_title = title.lower()
+
+                      if any(word.lower() in lower_title for word in BLOCK_WORDS):
+                          continue
+
+                      key = title[:60]
+
+                      if key in seen:
+                          continue
+
+                      seen.add(key)
+
+                      news.append({
+                          "title": title,
+                          "link": link,
+                          "source": source,
+                          "pubDate": parse_date(pub_date)
+                      })
+
+              except Exception as e:
+                  print("RSS fetch failed:", rss_url, e)
+
+          news = [n for n in news if n["pubDate"]]
+
+          news.sort(key=lambda x: x["pubDate"], reverse=True)
+
+          news = news[:10]
+
+          with open("news.json", "w", encoding="utf-8") as f:
+              json.dump(news, f, ensure_ascii=False, indent=2)
+
+          print(f"Created news.json with {len(news)} items")
+          PY
 
       - name: Commit and push news.json
         run: |
