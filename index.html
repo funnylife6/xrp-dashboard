@@ -1224,7 +1224,12 @@ async function updatePrice(){
 function formatNewsDate(dateString) {
   if (!dateString) return "";
 
-  const date = new Date(dateString);
+  const raw = String(dateString).trim();
+
+  // "4시간 전", "7분 전", "22시간 전" 같은 상대시간은 표시하지 않음
+  if (/전$/.test(raw)) return "";
+
+  const date = new Date(raw);
   if (isNaN(date.getTime())) return "";
 
   const mm = String(date.getMonth() + 1).padStart(2, "0");
