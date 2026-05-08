@@ -1226,7 +1226,7 @@ function renderNews(items,listId){
     return `<a class="ni${isOld?' old-news':''}" href="${n.url}" target="_blank" rel="noopener">
       <span class="ntag${isBreaking?' breaking':''}">${tagText}</span>
       <span class="nt">${n.title}</span>
-      <span class="nsrc">${src}${n.date?' · '+timeAgo(n.date):''}</span>
+      <span class="nsrc">${src}${n.date?' · '+formatNewsDate(n.date):''}</span>
     </a>`;
   }).join('');
 }
