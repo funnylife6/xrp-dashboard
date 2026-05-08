@@ -1136,69 +1136,7 @@ function setPct(id, label, value){
   el.textContent=label+' '+fP(value);
   el.style.color=pC(value);
 }
-async function updatePrice(){
-  const now = new Date();
-  const hhmm = now.getHours().toString().padStart(2,'0') + ':' + now.getMinutes().toString().padStart(2,'0');
-
-  try{
-    const r = await fetch('./cmc_xrp_cache.json?ts=' + Date.now(), {
-      cache:'no-store'
-    });
-
-    if(!r.ok) throw new Error('cmc_xrp_cache.json fetch failed');
-
-    const data = await r.json();
-
-    const priceUsd = Number(data.price_usd || 0);
-    const priceKrw = Number(data.price_krw || 0);
-    const marketCapUsd = Number(data.market_cap_usd || 0);
-    const marketCapKrw = Number(data.market_cap_krw || 0);
-    const volumeKrw = Number(data.volume_24h_krw || 0);
-    const pct24 = Number(data.percent_change_24h || 0);
-    const pct7 = Number(data.percent_change_7d || 0);
-
-    if(!priceUsd || !priceKrw) throw new Error('Invalid CMC price data');
-
-    setMoneyHTML('price-usd','$',priceUsd,4);
-    setMoneyHTML('price-krw','₩',priceKrw,0);
-
-    setHtml('market-cap',fKrwLarge(marketCapKrw));
-    setHtml('volume-24h',fKrwLarge(volumeKrw));
-
-    setPct('pct-24h','24h',pct24);
-    setPct('pct-7d','7d',pct7);
-
-    liveHeroPriceUsd = priceUsd;
-
-    if(!priceBoostRunning){
-      setText('hero-price','$' + priceUsd.toLocaleString('en-US',{
-        minimumFractionDigits:4,
-        maximumFractionDigits:4
-      }));
-    }
-
-    setText('hero-mcap',fL(marketCapUsd));
-
-    const heroPct = document.getElementById('hero-pct');
-    if(heroPct){
-      heroPct.textContent = (pct24 >= 0 ? '▲ ' : '▼ ') + Math.abs(pct24).toFixed(2) + '%';
-      heroPct.style.color = pC(pct24);
-    }
-
-    const hm = document.getElementById('hero-mcap-pct');
-    if(hm){
-      hm.textContent = fP(pct24);
-      hm.style.color = pC(pct24);
-    }
-
-    setText('last-updated',hhmm + ' CMC 기준');
-    setText('hero-updated',hhmm);
-
-  }catch(e){
-    console.warn('CMC 가격 로딩 실패:', e);
-    setText('last-updated','CMC 가격 수집 실패');
-  }
-}
+async function updatePrice
 updatePrice();
 setInterval(updatePrice,5*60*1000);
 
