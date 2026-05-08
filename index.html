@@ -1654,11 +1654,20 @@ function attachHeroCoinDrag(){
 }
 attachHeroCoinDrag();
 
-updatePagesLiveData();setInterval(updatePrice,60000);
+updatePagesLiveData();
+setInterval(updatePagesLiveData,5*60*1000);
 
-updateNews();setInterval(updateNews,5*60*1000);
-updateRegNews();setInterval(updateRegNews,5*60*1000);
-updateEtfNews();setInterval(updateEtfNews,5*60*1000);
+updatePrice();
+setInterval(updatePrice,60000);
+
+updateNews();
+setInterval(updateNews,5*60*1000);
+
+updateRegNews();
+setInterval(updateRegNews,5*60*1000);
+
+updateEtfNews();
+setInterval(updateEtfNews,5*60*1000);
 </script>
 
 <script type="module">
