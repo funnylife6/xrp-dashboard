@@ -1180,6 +1180,25 @@ function timeAgo(d){
   if(s<60)return '방금';if(s<3600)return Math.floor(s/60)+'분 전';
   if(s<86400)return Math.floor(s/3600)+'시간 전';return Math.floor(s/86400)+'일 전';
 }
+  function formatNewsDate(d){
+
+  if(!d) return '';
+
+  const date = new Date(d);
+
+  if(isNaN(date.getTime())) return '';
+
+  return date.toLocaleString('ko-KR', {
+    timeZone:'Asia/Seoul',
+    year:'numeric',
+    month:'2-digit',
+    day:'2-digit',
+    hour:'2-digit',
+    minute:'2-digit',
+    hour12:false
+  });
+
+}
 
 function parseRSS(xml){
   const doc=new DOMParser().parseFromString(xml,'text/xml');
