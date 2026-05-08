@@ -35,6 +35,7 @@ body::before{content:'';position:fixed;inset:0;z-index:0;
 .card:hover{border-color:#2e4060}
 .cl{font-size:10px;color:var(--muted);letter-spacing:2px;text-transform:uppercase;margin-bottom:10px}
 .cv{font-family:var(--sans);font-size:22px;font-weight:700;line-height:1.1;min-height:28px;display:flex;align-items:baseline;gap:2px;white-space:nowrap;font-variant-numeric:tabular-nums}
+.cv.price-loading{font-size:17.6px}
 .cv .cur{font-size:.5em;font-weight:700;line-height:1;transform:translateY(-1px);display:inline-block;opacity:.95}
 .cv .num{font-variant-numeric:tabular-nums}
 .cs{font-size:11px;color:var(--muted);margin-top:4px}
@@ -303,6 +304,7 @@ body::before{content:'';position:fixed;inset:0;z-index:0;
 .hero-price-row{display:flex;align-items:center;gap:12px}
 .hero-price{font-family:'Noto Sans KR',sans-serif;font-size:32px;font-weight:900;
   color:#06101d;line-height:1;white-space:nowrap;letter-spacing:-1px;transition:color .18s ease,text-shadow .18s ease,transform .18s ease}
+.hero-price.price-loading{font-size:25.6px}
 .hero-price.price-boosting{color:#ef4444;text-shadow:0 0 18px rgba(239,68,68,.32);transform:translateY(-1px)}
 .hero-price.price-mooning{color:#8b5cf6;text-shadow:0 0 20px rgba(139,92,246,.42);transform:translateY(-1px) scale(1.015)}
 .hero-price-krw{font-size:13px;font-weight:700;color:#64748b;line-height:1.1;white-space:nowrap}
@@ -330,6 +332,7 @@ body::before{content:'';position:fixed;inset:0;z-index:0;
 .hm-row{display:flex;align-items:baseline;gap:6px}
 .hm-value{font-family:'Noto Sans KR',sans-serif;font-size:16px;font-weight:900;
   color:#06101d;white-space:nowrap}
+.hm-value.price-loading{font-size:12.8px}
 .hm-pct{font-size:12px;font-weight:700;white-space:nowrap}
 
 .visitor-strip{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin:-6px 0 18px}
@@ -771,7 +774,7 @@ button,input,textarea,select{font:inherit;}
       </div>
       <div class="hero-price-row">
         <div style="display:flex;flex-direction:column;gap:4px">
-          <span class="hero-price" id="hero-price">가격정보 불러오는중</span>
+          <span class="hero-price price-loading" id="hero-price">가격정보 수집중</span>
         </div>
         <div class="hero-pct-wrap">
           <span class="hero-pct" id="hero-pct" style="color:#64748b">수집중</span>
@@ -802,7 +805,7 @@ button,input,textarea,select{font:inherit;}
             <span class="hm-label">XRP 시가총액</span>
           </div>
           <div class="hm-row">
-            <span class="hm-value" id="hero-mcap">가격정보 불러오는중</span>
+            <span class="hm-value price-loading" id="hero-mcap">가격정보 수집중</span>
             <span class="hm-pct" id="hero-mcap-pct" style="color:#64748b">수집중</span>
           </div>
         </div>
@@ -816,22 +819,22 @@ button,input,textarea,select{font:inherit;}
   <div class="g4">
     <div class="card">
       <div class="cl">현재가 (USD)</div>
-      <div class="cv" id="price-usd"><span class="num">가격정보 불러오는중</span></div>
+      <div class="cv price-loading" id="price-usd"><span class="num">가격정보 수집중</span></div>
       <div class="cs" id="pct-24h" style="color:#64748b">24h 수집중</div>
     </div>
     <div class="card">
       <div class="cl">현재가 (KRW)</div>
-      <div class="cv" id="price-krw"><span class="num">가격정보 불러오는중</span></div>
+      <div class="cv price-loading" id="price-krw"><span class="num">가격정보 수집중</span></div>
       <div class="cs" id="pct-7d" style="color:#64748b">7d 수집중</div>
     </div>
     <div class="card">
       <div class="cl">시가총액</div>
-      <div class="cv" id="market-cap"><span class="num">가격정보 불러오는중</span></div>
+      <div class="cv price-loading" id="market-cap"><span class="num">가격정보 수집중</span></div>
       <div class="cs">시가총액 수집중</div>
     </div>
     <div class="card">
       <div class="cl">24h 거래량</div>
-      <div class="cv" id="volume-24h"><span class="num">가격정보 불러오는중</span></div>
+      <div class="cv price-loading" id="volume-24h"><span class="num">가격정보 수집중</span></div>
       <div class="cs">거래량 수집중</div>
     </div>
   </div>
@@ -1191,6 +1194,16 @@ function setMoneyHTML(id, symbol, value, decimals){
 }
 function setText(id, text){const el=document.getElementById(id);if(el)el.textContent=text;}
 function setHtml(id, html){const el=document.getElementById(id);if(el)el.innerHTML=html;}
+function setPriceLoading(isLoading){
+  ['hero-mcap','price-usd','price-krw','market-cap','volume-24h'].forEach(id=>{
+    const el=document.getElementById(id);
+    if(el) el.classList.toggle('price-loading', isLoading);
+  });
+  const hero=document.getElementById('hero-price');
+  if(hero && (!priceBoostRunning || !isLoading)){
+    hero.classList.toggle('price-loading', isLoading);
+  }
+}
 function setPct(id, label, value){
   const el=document.getElementById(id);
   if(!el || value===undefined || value===null || Number.isNaN(Number(value)))return;
@@ -1217,6 +1230,7 @@ async function updatePrice(){
     const pct24=md.price_change_percentage_24h;
     const pct7=md.price_change_percentage_7d;
 
+    setPriceLoading(false);
     setMoneyHTML('price-usd','$',price.usd,4);
     setMoneyHTML('price-krw','₩',price.krw,0);
 
@@ -1257,16 +1271,17 @@ async function updatePrice(){
 
   }catch(e){
     console.warn('CoinGecko 가격 갱신 실패:',e);
+    setPriceLoading(true);
     if(!priceBoostRunning){
-      setText('hero-price','가격정보 불러오는중');
+      setText('hero-price','가격정보 수집중');
     }
-    setText('hero-mcap','가격정보 불러오는중');
+    setText('hero-mcap','가격정보 수집중');
     setText('hero-pct','수집중');
     setText('hero-mcap-pct','수집중');
-    setHtml('price-usd','<span class="num">가격정보 불러오는중</span>');
-    setHtml('price-krw','<span class="num">가격정보 불러오는중</span>');
-    setHtml('market-cap','<span class="num">가격정보 불러오는중</span>');
-    setHtml('volume-24h','<span class="num">가격정보 불러오는중</span>');
+    setHtml('price-usd','<span class="num">가격정보 수집중</span>');
+    setHtml('price-krw','<span class="num">가격정보 수집중</span>');
+    setHtml('market-cap','<span class="num">가격정보 수집중</span>');
+    setHtml('volume-24h','<span class="num">가격정보 수집중</span>');
     setText('pct-24h','24h 수집중');
     setText('pct-7d','7d 수집중');
     ['hero-pct','hero-mcap-pct','pct-24h','pct-7d'].forEach(id=>{
