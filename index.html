@@ -1592,7 +1592,47 @@ async function updateEtfNews(){
   merged.sort((a,b)=>new Date(b.date)-new Date(a.date));
   if(merged.length) renderRegNews(merged,'etf-list');
 }
+async function updateXrpEtfFlow() {
 
+  try {
+
+    const res = await fetch(
+      "./xrp-etf.json?v=" + Date.now()
+    );
+
+    if (!res.ok) {
+      throw new Error("xrp-etf.json 로딩 실패");
+    }
+
+    const data = await res.json();
+
+    document.getElementById("xrpEtfDailyFlow").textContent =
+      data.dailyFlow || "확인중";
+
+    document.getElementById("xrpEtfTotalAum").textContent =
+      data.totalAum || "확인중";
+
+    document.getElementById("xrpEtfLocked").textContent =
+      data.xrpLocked || "확인중";
+
+  } catch (err) {
+
+    console.error(
+      "XRP ETF 데이터 업데이트 실패:",
+      err
+    );
+
+    document.getElementById("xrpEtfDailyFlow").textContent =
+      "수집 실패";
+  }
+}
+
+updateXrpEtfFlow();
+
+setInterval(
+  updateXrpEtfFlow,
+  30 * 60 * 1000
+);
 
 // GitHub Pages용 정적 JSON 갱신 데이터. GitHub Actions가 5분마다 data/live_data.json을 새로 생성합니다.
 function setText(id,value){ const el=document.getElementById(id); if(el) el.textContent=value; }
