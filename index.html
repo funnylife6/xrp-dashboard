@@ -1286,12 +1286,31 @@ async function fetchNewsList(rssUrls,listId){
 }
 
 async function updateNews(){
-  await fetchNewsList(RSS_GEN_LIST,'gen-list');
-  const n=new Date();
-  document.getElementById('news-updated').textContent=
-    'Coinness·해외·국내 · '+n.getHours().toString().padStart(2,'0')+':'+n.getMinutes().toString().padStart(2,'0')+' 갱신';
-}
+  try{
+    const res = await fetch('./news.json?ts=' + Date.now());
+    const news = await res.json();
 
+    const converted = news.map(item => ({
+      title: item.title,
+      url: item.link,
+      source: item.source,
+      date: item.pubDate
+    }));
+
+    renderNews(converted, 'gen-list');
+
+    if(converted[0]){
+      document.getElementById('news-updated').textContent =
+        '최신 기사 입력 · ' + formatNewsDate(converted[0].date);
+    }
+
+  }catch(e){
+    console.error('news.json 로딩 실패:', e);
+
+    document.getElementById('news-updated').textContent =
+      '뉴스 로딩 실패';
+  }
+}
 
 // 입법 / 규제 트래커도 국내 기사 기준으로 5분마다 갱신
 const RSS_CLARITY_LIST=[
