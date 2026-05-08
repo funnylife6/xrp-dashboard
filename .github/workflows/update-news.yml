@@ -1,0 +1,38 @@
+name: Update XRP News
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Create news.json
+        run: |
+          cat > news.json << 'EOF'
+          [
+            {
+              "title": "뉴스 자동 업데이트 테스트",
+              "link": "https://news.google.com",
+              "source": "Google News",
+              "pubDate": "2026-05-08T09:00:00+09:00"
+            }
+          ]
+          EOF
+
+      - name: Commit and push news.json
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add news.json
+          git commit -m "Update news.json" || exit 0
+          git push
