@@ -1729,12 +1729,12 @@ try{
   onValue(totalRef, snap => visitorSet('visitor-total', visitorFmt(snap.val())));
   onValue(todayRef, snap => visitorSet('visitor-today', visitorFmt(snap.val())));
 
- visitorSet('visitor-online', '-');
+ 
 }catch(e){
   console.warn('visitor counter failed', e);
   visitorSet('visitor-today', '수집중');
   visitorSet('visitor-total', '수집중');
-  visitorSet('visitor-online', '—');
+  
 }
 </script>
 
