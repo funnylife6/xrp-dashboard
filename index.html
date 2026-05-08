@@ -1137,45 +1137,71 @@ function setPct(id, label, value){
   el.style.color=pC(value);
 }
 async function updatePrice(){
-  const now=new Date();
-  const hhmm=now.getHours().toString().padStart(2,'0')+':'+now.getMinutes().toString().padStart(2,'0');
+  const now = new Date();
+  const hhmm = now.getHours().toString().padStart(2,'0') + ':' + now.getMinutes().toString().padStart(2,'0');
+
   try{
-    const r=await fetch('https://api.coingecko.com/api/v3/coins/ripple?localization=false&tickers=false&market_data=true&community_data=false&developer_data=false&sparkline=false',{cache:'no-store'});
-    if(!r.ok)throw new Error('CoinGecko '+r.status);
-    const data=await r.json();
-    const md=data.market_data||{};
-    const price=md.current_price||{};
-    const mcap=md.market_cap||{};
-    const vol=md.total_volume||{};
-    const pct24=md.price_change_percentage_24h;
-    const pct7=md.price_change_percentage_7d;
+    // 업비트 KRW-XRP 실시간 현재가
+    const r = await fetch('https://api.upbit.com/v1/ticker?markets=KRW-XRP', {
+      cache:'no-store'
+    });
 
-    setMoneyHTML('price-usd','$',price.usd,4);
-    setMoneyHTML('price-krw','₩',price.krw,0);
-    setHtml('market-cap',fKrwLarge(mcap.krw));
-    setHtml('volume-24h',fKrwLarge(vol.krw));
-    setPct('pct-24h','24h',pct24);
-    setPct('pct-7d','7d',pct7);
+    if(!r.ok) throw new Error('Upbit ' + r.status);
 
-    liveHeroPriceUsd = Number(price.usd || liveHeroPriceUsd || 0);
-    if(!priceBoostRunning){
-      setText('hero-price','$'+liveHeroPriceUsd.toLocaleString('en-US',{minimumFractionDigits:4,maximumFractionDigits:4}));
+    const data = await r.json();
+    const ticker = data[0];
+
+    const krwPrice = Number(ticker.trade_price || 0);
+    const changeRate24h = Number(ticker.signed_change_rate || 0) * 100;
+    const accTradePrice24h = Number(ticker.acc_trade_price_24h || 0);
+
+    if(!krwPrice) throw new Error('Invalid KRW price');
+
+    // 원화 현재가
+    setMoneyHTML('price-krw', '₩', krwPrice, 0);
+
+    // 24h 등락률
+    setPct('price-pct-24h', '24h', changeRate24h);
+
+    // 24h 거래대금
+    setHtml('volume-24h', fKrwLarge(accTradePrice24h));
+    setText('volume-sub', '업비트 KRW-XRP 기준');
+
+    // 히어로 카드에도 KRW 가격 표시
+    const heroPrice = document.getElementById('hero-price');
+    if(heroPrice){
+      heroPrice.textContent = '₩' + krwPrice.toLocaleString('ko-KR');
     }
-    const heroPct=document.getElementById('hero-pct');
-    if(heroPct && pct24!==undefined && pct24!==null){
-      heroPct.textContent=(Number(pct24)>=0?'▲ ':'▼ ')+fP(pct24);
-      heroPct.style.color=pC(pct24);
-    }
-    setText('hero-mcap',fL(mcap.usd||0));
-    const hm=document.getElementById('hero-mcap-pct');
-    if(hm && pct24!==undefined && pct24!==null){hm.textContent=fP(pct24);hm.style.color=pC(pct24);}
 
-    setText('last-updated',hhmm+' 실시간 가격');
-    setText('hero-updated',hhmm);
+    const heroKrw = document.getElementById('hero-price-krw');
+    if(heroKrw){
+      heroKrw.textContent = '업비트 KRW 기준';
+    }
+
+    const heroPct = document.getElementById('hero-pct');
+    if(heroPct){
+      heroPct.textContent = (changeRate24h >= 0 ? '▲ ' : '▼ ') + Math.abs(changeRate24h).toFixed(2) + '%';
+      heroPct.style.color = changeRate24h >= 0 ? '#10b981' : '#ef4444';
+    }
+
+    const liveTime = document.getElementById('hero-live-time');
+    if(liveTime){
+      liveTime.textContent = hhmm;
+    }
+
+    const updated = document.getElementById('last-updated');
+    if(updated){
+      updated.textContent = hhmm + ' 갱신';
+    }
+
   }catch(e){
-    console.warn('가격 갱신 실패:',e);
-    setText('last-updated',hhmm+' 가격 갱신 대기');
-    setText('hero-updated',hhmm);
+    console.warn('업비트 가격 로딩 실패:', e);
+
+    // 실패해도 예전 1.4100 같은 값으로 되돌리지 않음
+    const liveTime = document.getElementById('hero-live-time');
+    if(liveTime){
+      liveTime.textContent = '가격 수집 실패';
+    }
   }
 }
 updatePrice();
