@@ -1,0 +1,92 @@
+name: Update XRP ETF Data
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-xrp-etf:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch XRP ETF Data
+        run: |
+          python3 <<'PY'
+          import json, re, urllib.request
+          from datetime import datetime, timezone
+
+          url = "https://xrp-insights.com/"
+
+          req = urllib.request.Request(
+              url,
+              headers={
+                  "User-Agent": "Mozilla/5.0"
+              }
+          )
+
+          try:
+              html = urllib.request.urlopen(req, timeout=20).read().decode("utf-8", errors="ignore")
+
+              def find_value(labels):
+                  for label in labels:
+                      pattern = rf"{label}[\s\S]{{0,300}}?(\$[\d,.]+[KMBT]?|[\d,.]+M?\s*XRP|[\d,.]+B?\s*XRP)"
+                      m = re.search(pattern, html, re.I)
+
+                      if m:
+                          return re.sub(r"\s+", " ", m.group(1)).strip()
+
+                  return "확인중"
+
+              data = {
+                  "source": "xrp-insights.com",
+                  "dailyFlow": find_value([
+                      "Daily Flow",
+                      "Daily Net Flow",
+                      "Daily Flows",
+                      "Net Flow"
+                  ]),
+                  "totalAum": find_value([
+                      "Total AUM",
+                      "AUM"
+                  ]),
+                  "xrpLocked": find_value([
+                      "XRP Locked",
+                      "Holdings",
+                      "XRP Holdings"
+                  ]),
+                  "updatedAt": datetime.now(timezone.utc).isoformat()
+              }
+
+          except Exception as e:
+              data = {
+                  "source": "xrp-insights.com",
+                  "dailyFlow": "수집 실패",
+                  "totalAum": "수집 실패",
+                  "xrpLocked": "수집 실패",
+                  "error": str(e),
+                  "updatedAt": datetime.now(timezone.utc).isoformat()
+              }
+
+          with open("xrp-etf.json", "w", encoding="utf-8") as f:
+              json.dump(data, f, ensure_ascii=False, indent=2)
+
+          print(json.dumps(data, ensure_ascii=False, indent=2))
+          PY
+
+      - name: Commit XRP ETF Data
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add xrp-etf.json
+
+          git commit -m "Update XRP ETF data" || echo "No changes"
+
+          git push
