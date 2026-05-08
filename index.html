@@ -1318,7 +1318,7 @@ function renderRegNews(items,listId){
       <span class="rni-dot"></span>
       <span class="rni-content">
         <span class="rni-title">${n.title}</span>
-        <span class="rni-src">${n.source||'Google News KR'}${n.date?' · '+timeAgo(n.date):''}</span>
+        <span class="rni-src">${n.source||'Google News KR'}${n.date?' · '+formatNewsDate(n.date):''}</span>
       </span>
     </a>`
   ).join('');
