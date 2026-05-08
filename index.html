@@ -771,10 +771,10 @@ button,input,textarea,select{font:inherit;}
       </div>
       <div class="hero-price-row">
         <div style="display:flex;flex-direction:column;gap:4px">
-          <span class="hero-price" id="hero-price">$1.4100</span>
+          <span class="hero-price" id="hero-price">가격정보 불러오는중</span>
         </div>
         <div class="hero-pct-wrap">
-          <span class="hero-pct" id="hero-pct" style="color:#ef4444">▼ -0.95%</span>
+          <span class="hero-pct" id="hero-pct" style="color:#64748b">수집중</span>
           <span class="hero-pct-sub">24h 기준</span>
         </div>
       </div>
@@ -802,8 +802,8 @@ button,input,textarea,select{font:inherit;}
             <span class="hm-label">XRP 시가총액</span>
           </div>
           <div class="hm-row">
-            <span class="hm-value" id="hero-mcap">$87.18B</span>
-            <span class="hm-pct" id="hero-mcap-pct" style="color:#ef4444">-0.95%</span>
+            <span class="hm-value" id="hero-mcap">가격정보 불러오는중</span>
+            <span class="hm-pct" id="hero-mcap-pct" style="color:#64748b">수집중</span>
           </div>
         </div>
       </div>
@@ -816,23 +816,23 @@ button,input,textarea,select{font:inherit;}
   <div class="g4">
     <div class="card">
       <div class="cl">현재가 (USD)</div>
-      <div class="cv" id="price-usd"><span class="cur">$</span><span class="num">1.4100</span></div>
-      <div class="cs" id="pct-24h" style="color:#ef4444">24h -0.95%</div>
+      <div class="cv" id="price-usd"><span class="num">가격정보 불러오는중</span></div>
+      <div class="cs" id="pct-24h" style="color:#64748b">24h 수집중</div>
     </div>
     <div class="card">
       <div class="cl">현재가 (KRW)</div>
-      <div class="cv" id="price-krw"><span class="cur">₩</span><span class="num">2,046</span></div>
-      <div class="cs" id="pct-7d" style="color:#10b981">7d +3.52%</div>
+      <div class="cv" id="price-krw"><span class="num">가격정보 불러오는중</span></div>
+      <div class="cs" id="pct-7d" style="color:#64748b">7d 수집중</div>
     </div>
     <div class="card">
       <div class="cl">시가총액</div>
-      <div class="cv" id="market-cap"><span class="cur">₩</span><span class="num">126조 4,924억</span></div>
-      <div class="cs">$87.18B · 순위 #5</div>
+      <div class="cv" id="market-cap"><span class="num">가격정보 불러오는중</span></div>
+      <div class="cs">시가총액 수집중</div>
     </div>
     <div class="card">
       <div class="cl">24h 거래량</div>
-      <div class="cv" id="volume-24h"><span class="cur">₩</span><span class="num">3조 9,578억</span></div>
-      <div class="cs">$2.73B · CMC KRW 환산</div>
+      <div class="cv" id="volume-24h"><span class="num">가격정보 불러오는중</span></div>
+      <div class="cs">거래량 수집중</div>
     </div>
   </div>
   <div class="g2">
@@ -1257,6 +1257,22 @@ async function updatePrice(){
 
   }catch(e){
     console.warn('CoinGecko 가격 갱신 실패:',e);
+    if(!priceBoostRunning){
+      setText('hero-price','가격정보 불러오는중');
+    }
+    setText('hero-mcap','가격정보 불러오는중');
+    setText('hero-pct','수집중');
+    setText('hero-mcap-pct','수집중');
+    setHtml('price-usd','<span class="num">가격정보 불러오는중</span>');
+    setHtml('price-krw','<span class="num">가격정보 불러오는중</span>');
+    setHtml('market-cap','<span class="num">가격정보 불러오는중</span>');
+    setHtml('volume-24h','<span class="num">가격정보 불러오는중</span>');
+    setText('pct-24h','24h 수집중');
+    setText('pct-7d','7d 수집중');
+    ['hero-pct','hero-mcap-pct','pct-24h','pct-7d'].forEach(id=>{
+      const el=document.getElementById(id);
+      if(el) el.style.color='#64748b';
+    });
     setText('last-updated',hhmm+' CoinGecko 수집 실패');
   }
 }
