@@ -1495,15 +1495,15 @@ async function updatePagesLiveData(){
     const data=await r.json();
     const info=data.info||{};
     const xrpl=data.xrpl_stats||{};
-    if(info.price_usd){ setText('hero-price',fmtUsd(info.price_usd)); }
-    if(info.market_cap_usd){ setText('hero-mcap',fmtLargeUsd(info.market_cap_usd)); }
-    if(info.price_change_24h!==undefined){
+    //if(info.price_usd){ setText('hero-price',fmtUsd(info.price_usd)); }
+    //if(info.market_cap_usd){ setText('hero-mcap',fmtLargeUsd(info.market_cap_usd)); }
+    /*if(info.price_change_24h!==undefined){
       const pct=document.getElementById('hero-pct');
       const mp=document.getElementById('hero-mcap-pct');
       const label=(Number(info.price_change_24h)>=0?'▲ ':'▼ ')+fmtPctJs(info.price_change_24h);
       if(pct) pct.textContent=label;
       if(mp) mp.textContent=fmtPctJs(info.price_change_24h);
-    }
+    }*/
     const tpsVal = xrpl.tps_24h_avg ?? xrpl.recent_tps;
     if(tpsVal && Number(tpsVal)>0){
       setText('hero-tps',Number(tpsVal).toFixed(2));
