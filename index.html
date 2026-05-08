@@ -1272,14 +1272,14 @@ async function updateNews(){
     const news = await res.json();
 
     if(!Array.isArray(news) || news.length === 0){
-      throw new Error('news.json is empty or invalid');
+      throw new Error('news.json is empty');
     }
 
     const converted = news.map(item => ({
-      title: item.title,
-      url: item.link || item.url || '#',
-      source: item.source || '뉴스',
-      date: item.pubDate || item.date || item.publishedAt || item.updated || ''
+      title: item.title || '',
+      url: item.link || '#',
+      source: item.source || 'Google News',
+      date: item.pubDate || ''
     }));
 
     renderNews(converted, 'gen-list');
@@ -1299,7 +1299,7 @@ async function updateNews(){
     if(listEl){
       listEl.innerHTML = `
         <div class="no-data">
-          news.json을 불러오지 못했습니다. GitHub의 news.json 위치와 Actions 실행 상태를 확인하세요.
+          news.json은 존재하지만 index.html에서 불러오지 못했습니다. 콘솔 에러를 확인하세요.
         </div>
       `;
     }
