@@ -1687,18 +1687,7 @@ try{
   onValue(totalRef, snap => visitorSet('visitor-total', visitorFmt(snap.val())));
   onValue(todayRef, snap => visitorSet('visitor-today', visitorFmt(snap.val())));
 
-  const connectedRef = ref(db, '.info/connected');
-  const presenceRef = push(ref(db, 'presence'));
-  onValue(connectedRef, snap => {
-    if(snap.val() === true){
-      set(presenceRef, { online:true, at:serverTimestamp() });
-      onDisconnect(presenceRef).remove();
-    }
-  });
-  onValue(ref(db, 'presence'), snap => {
-    const val = snap.val() || {};
-    visitorSet('visitor-online', visitorFmt(Object.keys(val).length));
-  });
+ visitorSet('visitor-online', '-');
 }catch(e){
   console.warn('visitor counter failed', e);
   visitorSet('visitor-today', '수집중');
