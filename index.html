@@ -1199,7 +1199,19 @@ async function updatePrice(){
     setText('last-updated',hhmm+' CoinGecko 수집 실패');
   }
 }
+function formatNewsDate(dateString) {
+  if (!dateString) return "시간 정보 없음";
 
+  const date = new Date(dateString);
+  if (isNaN(date.getTime())) return "시간 정보 없음";
+
+  return date.toLocaleString("ko-KR", {
+    month: "numeric",
+    day: "numeric",
+    hour: "2-digit",
+    minute: "2-digit"
+  });
+}
 function renderNews(items,listId){
   const el=document.getElementById(listId);if(!el)return;
   const now=Date.now();
