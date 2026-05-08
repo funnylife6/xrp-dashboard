@@ -1104,7 +1104,7 @@ scheduleHeroShipVoyage();
 
 // 가격/시총/거래량/24h/7d는 브라우저에서 CoinGecko API로 30초마다 갱신합니다.
 // API 실패 시에는 Python이 생성한 기존 값을 그대로 유지합니다.
-let liveHeroPriceUsd = Number(1.41000000 || 0);
+let liveHeroPriceUsd = 0;
 let priceBoostRunning = false;
 function fL(v){return v>=1e9?'$'+(v/1e9).toFixed(2)+'B':v>=1e6?'$'+(v/1e6).toFixed(2)+'M':'$'+Number(v||0).toFixed(2)}
 function fP(v){v=Number(v||0);return(v>=0?'+':'')+v.toFixed(2)+'%'}
@@ -1200,7 +1200,7 @@ async function updatePrice(){
   }
 }
 updatePrice();
-setInterval(updatePrice,30000);
+setInterval(updatePrice,5*60*1000);
 
 // 국내 XRP / 리플 최신 뉴스 갱신 (5분)
 const PROXY=url=>`https://api.allorigins.win/get?url=${encodeURIComponent(url)}`;
