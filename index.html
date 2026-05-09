@@ -108,6 +108,46 @@ body::before{content:'';position:fixed;inset:0;z-index:0;
 }
 .nsrc{flex-shrink:0;font-size:10px;color:var(--muted);margin-left:12px;white-space:nowrap;align-self:center}
 .no-data{font-size:11px;color:var(--muted);padding:16px 20px}
+.board-tabs{display:flex;align-items:center;border-bottom:1px solid var(--border);background:var(--surface)}
+.board-tab-btn{
+  padding:14px 20px;font-family:'Noto Sans KR',sans-serif;font-size:12pt;font-weight:900;letter-spacing:-0.6px;
+  color:var(--muted);cursor:pointer;border:none;background:transparent;border-bottom:2px solid transparent;transition:all .2s
+}
+.board-tab-btn.active{color:var(--accent);border-bottom-color:var(--accent)}
+.board-tab-spacer{margin-left:auto}
+.board-pane{display:none}.board-pane.active{display:block}
+.board-write{border-bottom:1px solid var(--border);background:#0b1220;padding:14px 18px}
+.board-write-toggle{background:#111827;border:1px solid var(--border);color:#f8fafc;border-radius:6px;padding:9px 14px;font-size:12px;font-weight:900;cursor:pointer}
+.board-form{display:none;grid-template-columns:140px 1fr auto;gap:8px;margin-top:12px}
+.board-form.open{display:grid}
+.board-form input,.board-form textarea{background:#050816;border:1px solid var(--border);border-radius:6px;color:#fff;padding:11px 12px;font-family:'Noto Sans KR',sans-serif;font-size:13px;outline:none}
+.board-form textarea{grid-column:1 / 3;min-height:92px;resize:vertical}
+.board-form button{grid-row:1 / 3;grid-column:3;background:linear-gradient(135deg,var(--accent),var(--accent2));border:none;color:#fff;border-radius:6px;padding:0 18px;font-weight:900;cursor:pointer}
+.board-list{display:flex;flex-direction:column}
+.board-row{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:16px;align-items:center;padding:14px 20px;border-bottom:1px solid var(--border);cursor:pointer;transition:background .15s}
+.board-row:hover{background:var(--surface)}
+.board-row:last-child{border-bottom:none}
+.board-title{font-family:'Noto Sans KR',sans-serif;font-size:16px;font-weight:900;color:#f8fafc;line-height:1.45;word-break:break-word}
+.board-count{color:#ef4444;font-weight:900;margin-left:4px}
+.board-meta{font-size:11px;color:var(--muted);white-space:nowrap}
+.board-empty{font-size:12px;color:var(--muted);padding:18px 20px;border-bottom:1px solid var(--border)}
+.board-modal{position:fixed;inset:0;z-index:40;display:none;align-items:center;justify-content:center;background:rgba(2,6,23,.78);padding:20px}
+.board-modal.open{display:flex}
+.board-dialog{width:min(720px,100%);max-height:88vh;overflow:auto;background:#0b1220;border:1px solid var(--border);border-radius:12px;box-shadow:0 24px 70px rgba(0,0,0,.45)}
+.board-dialog-head{display:flex;justify-content:space-between;gap:12px;align-items:flex-start;padding:20px;border-bottom:1px solid var(--border)}
+.board-dialog-title{font-family:'Noto Sans KR',sans-serif;font-size:21px;font-weight:900;color:#fff;line-height:1.35}
+.board-close{background:#111827;border:1px solid var(--border);color:#cbd5e1;border-radius:6px;padding:8px 11px;cursor:pointer}
+.board-dialog-body{padding:20px}
+.board-detail-meta{font-size:12px;color:var(--muted);margin-bottom:14px}
+.board-detail-content{font-family:'Noto Sans KR',sans-serif;font-size:15px;line-height:1.75;color:#e5e7eb;white-space:pre-wrap;border-bottom:1px solid var(--border);padding-bottom:18px;margin-bottom:16px}
+.reply-title{font-family:'Noto Sans KR',sans-serif;font-size:15px;font-weight:900;color:#00d4ff;margin-bottom:10px}
+.reply-list{display:flex;flex-direction:column;gap:10px;margin-bottom:14px}
+.reply-item{background:#050816;border:1px solid var(--border);border-radius:8px;padding:11px 12px}
+.reply-meta{font-size:11px;color:var(--muted);margin-bottom:6px}
+.reply-content{font-size:13px;color:#f8fafc;line-height:1.55;white-space:pre-wrap}
+.reply-form{display:grid;grid-template-columns:120px 1fr auto;gap:8px}
+.reply-form input{background:#050816;border:1px solid var(--border);border-radius:6px;color:#fff;padding:10px}
+.reply-form button{background:#2563eb;border:none;color:white;border-radius:6px;padding:0 14px;font-weight:900;cursor:pointer}
 .reg-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-bottom:16px}
 @media(max-width:900px){.reg-grid{grid-template-columns:1fr}}
 .reg-card{background:var(--card);border:1px solid var(--border);border-radius:4px;overflow:hidden}
@@ -641,13 +681,25 @@ button,input,textarea,select{font:inherit;}
     overflow-x:auto;
     -webkit-overflow-scrolling:touch;
   }
+  .board-tabs{
+    overflow-x:auto;
+    -webkit-overflow-scrolling:touch;
+  }
   .tab-btn{
     flex:0 0 auto;
     padding:12px 14px;
     font-size:12pt;
     letter-spacing:-0.6px;
   }
+  .board-tab-btn{flex:0 0 auto;padding:12px 14px;font-size:12pt}
   .news-meta{display:none;}
+  .board-form{grid-template-columns:1fr}
+  .board-form textarea,.board-form button{grid-column:auto;grid-row:auto}
+  .board-form button{height:42px}
+  .board-row{grid-template-columns:1fr;gap:6px;padding:13px 16px}
+  .board-meta{white-space:normal}
+  .reply-form{grid-template-columns:1fr}
+  .reply-form button{height:40px}
   .ni{
     display:grid;
     grid-template-columns:auto 1fr;
@@ -955,14 +1007,60 @@ button,input,textarea,select{font:inherit;}
     </div>
   </div>
 
-  <!-- ② 뉴스 -->
+  <!-- ② 커뮤니티 / 뉴스 -->
   <div class="news-box">
-    <div class="news-hdr">
-      <button class="tab-btn active">📰 국내 XRP / 리플 최신 뉴스</button>
-      <span class="news-meta"><span class="dot"></span><span id="news-updated">최신순 · 갱신 중...</span></span>
+    <div class="board-tabs">
+      <button class="board-tab-btn active" data-board-tab="fundamental">📰 프로리플러 펀더멘탈</button>
+      <button class="board-tab-btn" data-board-tab="news">📰 국내 XRP / 리플 최신 뉴스</button>
+      <span class="news-meta board-tab-spacer"><span class="dot"></span><span id="news-updated">최신순 · 갱신 중...</span></span>
     </div>
-    <div id="gen-list">
-      <div class="no-data">뉴스를 불러오는 중입니다.</div>
+
+    <div class="board-pane active" id="board-pane-fundamental">
+      <div class="board-write">
+        <button class="board-write-toggle" id="board-write-toggle">글쓰기</button>
+        <div class="board-form" id="board-form">
+          <input type="text" id="board-nickname" maxlength="20" placeholder="닉네임" />
+          <input type="text" id="board-title" maxlength="80" placeholder="제목" />
+          <textarea id="board-content" maxlength="1000" placeholder="의견을 입력하세요"></textarea>
+          <button id="board-submit">등록</button>
+        </div>
+      </div>
+      <div class="board-list" id="board-list">
+        <div class="board-empty">게시글을 불러오는 중입니다.</div>
+      </div>
+      <div class="comment-pagination" id="board-pagination" style="display:none">
+        <button id="prev-board-posts">이전</button>
+        <div id="board-page-numbers" class="comment-page-numbers"></div>
+        <button id="next-board-posts">다음</button>
+      </div>
+    </div>
+
+    <div class="board-pane" id="board-pane-news">
+      <div id="gen-list">
+        <div class="no-data">뉴스를 불러오는 중입니다.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="board-modal" id="board-modal" aria-hidden="true">
+    <div class="board-dialog">
+      <div class="board-dialog-head">
+        <div>
+          <div class="board-dialog-title" id="board-detail-title"></div>
+          <div class="board-detail-meta" id="board-detail-meta"></div>
+        </div>
+        <button class="board-close" id="board-close">닫기</button>
+      </div>
+      <div class="board-dialog-body">
+        <div class="board-detail-content" id="board-detail-content"></div>
+        <div class="reply-title">댓글</div>
+        <div class="reply-list" id="reply-list"></div>
+        <div class="reply-form">
+          <input type="text" id="reply-nickname" maxlength="20" placeholder="닉네임" />
+          <input type="text" id="reply-content" maxlength="300" placeholder="댓글을 입력하세요" />
+          <button id="reply-submit">댓글 등록</button>
+        </div>
+      </div>
     </div>
   </div>
 
@@ -1947,11 +2045,16 @@ try{
   const SUPABASE_KEY = "sb_publishable_DDh_lP5RbbzTXaO2wuVTtQ_u8q-uLda";
   const COMMENTS_PER_PAGE = 5;
   const PRO_NEWS_PER_PAGE = 5;
+  const BOARD_POSTS_PER_PAGE = 8;
 
   let allComments = [];
   let currentCommentPage = 1;
   let allProNews = [];
   let currentProNewsPage = 1;
+  let allBoardPosts = [];
+  let boardReplyCounts = {};
+  let currentBoardPage = 1;
+  let activeBoardPost = null;
 
   const input = document.getElementById("comment-input");
   const submit = document.getElementById("comment-submit");
@@ -1965,6 +2068,28 @@ try{
   const prevProNewsBtn = document.getElementById("prev-pro-news");
   const nextProNewsBtn = document.getElementById("next-pro-news");
   const proNewsPageNumbers = document.getElementById("pro-news-page-numbers");
+  const boardTabs = Array.from(document.querySelectorAll(".board-tab-btn"));
+  const boardPanes = Array.from(document.querySelectorAll(".board-pane"));
+  const boardWriteToggle = document.getElementById("board-write-toggle");
+  const boardForm = document.getElementById("board-form");
+  const boardNickname = document.getElementById("board-nickname");
+  const boardTitle = document.getElementById("board-title");
+  const boardContent = document.getElementById("board-content");
+  const boardSubmit = document.getElementById("board-submit");
+  const boardList = document.getElementById("board-list");
+  const boardPagination = document.getElementById("board-pagination");
+  const prevBoardBtn = document.getElementById("prev-board-posts");
+  const nextBoardBtn = document.getElementById("next-board-posts");
+  const boardPageNumbers = document.getElementById("board-page-numbers");
+  const boardModal = document.getElementById("board-modal");
+  const boardClose = document.getElementById("board-close");
+  const boardDetailTitle = document.getElementById("board-detail-title");
+  const boardDetailMeta = document.getElementById("board-detail-meta");
+  const boardDetailContent = document.getElementById("board-detail-content");
+  const replyList = document.getElementById("reply-list");
+  const replyNickname = document.getElementById("reply-nickname");
+  const replyContent = document.getElementById("reply-content");
+  const replySubmit = document.getElementById("reply-submit");
   const targetButtons = Array.from(document.querySelectorAll(".prayer-target-btn"));
   const targetMeta = {
     "하느님": { icon:"🙏", className:"god" },
@@ -1998,6 +2123,223 @@ try{
 
   function escapeAttr(value){
     return escapeHtml(value).replace(/`/g,"&#096;");
+  }
+
+  function shortKstTime(dateText){
+    try{
+      return new Date(dateText).toLocaleString("ko-KR", {
+        timeZone:"Asia/Seoul",
+        month:"2-digit",
+        day:"2-digit",
+        hour:"2-digit",
+        minute:"2-digit"
+      }).replace(/\.\s?/g,"/").replace(/\/\s/," ");
+    }catch(e){
+      return "";
+    }
+  }
+
+  function switchBoardTab(tabId){
+    boardTabs.forEach(btn => btn.classList.toggle("active", btn.dataset.boardTab === tabId));
+    boardPanes.forEach(pane => pane.classList.toggle("active", pane.id === "board-pane-" + tabId));
+  }
+
+  async function fetchBoardReplyCounts(postIds){
+    boardReplyCounts = {};
+    if (!postIds.length) return;
+
+    const { data, error } = await supabaseClient
+      .from("board_replies")
+      .select("post_id")
+      .eq("is_hidden", false)
+      .in("post_id", postIds);
+
+    if (error || !Array.isArray(data)) return;
+    data.forEach(reply => {
+      const key = String(reply.post_id);
+      boardReplyCounts[key] = (boardReplyCounts[key] || 0) + 1;
+    });
+  }
+
+  function renderBoardPosts(){
+    if (!boardList) return;
+
+    if (!allBoardPosts.length) {
+      boardList.innerHTML = `<div class="board-empty">아직 등록된 글이 없습니다.</div>`;
+      if (boardPagination) boardPagination.style.display = "none";
+      return;
+    }
+
+    const totalPages = Math.max(1, Math.ceil(allBoardPosts.length / BOARD_POSTS_PER_PAGE));
+    currentBoardPage = Math.min(Math.max(1, currentBoardPage), totalPages);
+    const start = (currentBoardPage - 1) * BOARD_POSTS_PER_PAGE;
+    const pageItems = allBoardPosts.slice(start, start + BOARD_POSTS_PER_PAGE);
+
+    boardList.innerHTML = pageItems.map(post => {
+      const replyCount = boardReplyCounts[String(post.id)] || 0;
+      return `
+        <div class="board-row" data-post-id="${post.id}">
+          <div class="board-title">${escapeHtml(post.title)} <span class="board-count">[${replyCount}]</span></div>
+          <div class="board-meta">${escapeHtml(post.nickname)} · 조회 ${post.view_count || 0} · ${shortKstTime(post.created_at)}</div>
+        </div>
+      `;
+    }).join("");
+
+    boardList.querySelectorAll(".board-row").forEach(row => {
+      row.addEventListener("click", () => openBoardPost(row.dataset.postId));
+    });
+
+    if (boardPagination) boardPagination.style.display = totalPages > 1 ? "flex" : "none";
+    if (prevBoardBtn) prevBoardBtn.disabled = currentBoardPage <= 1;
+    if (nextBoardBtn) nextBoardBtn.disabled = currentBoardPage >= totalPages;
+
+    if (boardPageNumbers) {
+      boardPageNumbers.innerHTML = "";
+      for (let i = 1; i <= totalPages; i++) {
+        const btn = document.createElement("button");
+        btn.type = "button";
+        btn.textContent = i;
+        if (i === currentBoardPage) btn.classList.add("active-page");
+        btn.addEventListener("click", () => {
+          currentBoardPage = i;
+          renderBoardPosts();
+        });
+        boardPageNumbers.appendChild(btn);
+      }
+    }
+  }
+
+  async function loadBoardPosts(){
+    if (!boardList) return;
+
+    const { data, error } = await supabaseClient
+      .from("board_posts")
+      .select("id,nickname,title,content,view_count,is_hidden,created_at")
+      .eq("is_hidden", false)
+      .order("created_at", { ascending:false })
+      .limit(80);
+
+    if (error) {
+      console.error("게시글 불러오기 실패:", error);
+      boardList.innerHTML = `<div class="board-empty">게시글을 불러오지 못했습니다.</div>`;
+      if (boardPagination) boardPagination.style.display = "none";
+      return;
+    }
+
+    allBoardPosts = Array.isArray(data) ? data : [];
+    await fetchBoardReplyCounts(allBoardPosts.map(post => post.id));
+    renderBoardPosts();
+  }
+
+  async function addBoardPost(){
+    const nickname = boardNickname.value.trim();
+    const title = boardTitle.value.trim();
+    const content = boardContent.value.trim();
+
+    if (!nickname || !title || !content) {
+      alert("닉네임, 제목, 내용을 모두 입력해주세요.");
+      return;
+    }
+
+    const { error } = await supabaseClient
+      .from("board_posts")
+      .insert({ nickname, title, content, view_count:0, is_hidden:false });
+
+    if (error) {
+      console.error("게시글 등록 실패:", error);
+      alert("게시글 등록에 실패했습니다. Supabase 권한을 확인해주세요.");
+      return;
+    }
+
+    boardTitle.value = "";
+    boardContent.value = "";
+    boardForm.classList.remove("open");
+    currentBoardPage = 1;
+    await loadBoardPosts();
+  }
+
+  function closeBoardPost(){
+    activeBoardPost = null;
+    if (boardModal) {
+      boardModal.classList.remove("open");
+      boardModal.setAttribute("aria-hidden", "true");
+    }
+  }
+
+  async function openBoardPost(postId){
+    const post = allBoardPosts.find(item => String(item.id) === String(postId));
+    if (!post || !boardModal) return;
+
+    activeBoardPost = post;
+    boardDetailTitle.textContent = post.title || "";
+    boardDetailMeta.textContent = `${post.nickname || "익명"} · 조회 ${(post.view_count || 0) + 1} · ${formatKst(post.created_at)}`;
+    boardDetailContent.textContent = post.content || "";
+    replyList.innerHTML = `<div class="board-empty">댓글을 불러오는 중입니다.</div>`;
+    boardModal.classList.add("open");
+    boardModal.setAttribute("aria-hidden", "false");
+
+    supabaseClient
+      .from("board_posts")
+      .update({ view_count:(post.view_count || 0) + 1 })
+      .eq("id", post.id)
+      .then(() => {
+        post.view_count = (post.view_count || 0) + 1;
+        renderBoardPosts();
+      });
+
+    await loadBoardReplies(post.id);
+  }
+
+  async function loadBoardReplies(postId){
+    const { data, error } = await supabaseClient
+      .from("board_replies")
+      .select("id,post_id,nickname,content,is_hidden,created_at")
+      .eq("post_id", postId)
+      .eq("is_hidden", false)
+      .order("created_at", { ascending:true });
+
+    if (error) {
+      console.error("댓글 불러오기 실패:", error);
+      replyList.innerHTML = `<div class="board-empty">댓글을 불러오지 못했습니다.</div>`;
+      return;
+    }
+
+    if (!Array.isArray(data) || !data.length) {
+      replyList.innerHTML = `<div class="board-empty">아직 댓글이 없습니다.</div>`;
+      return;
+    }
+
+    replyList.innerHTML = data.map(reply => `
+      <div class="reply-item">
+        <div class="reply-meta">${escapeHtml(reply.nickname)} · ${formatKst(reply.created_at)}</div>
+        <div class="reply-content">${escapeHtml(reply.content)}</div>
+      </div>
+    `).join("");
+  }
+
+  async function addBoardReply(){
+    if (!activeBoardPost) return;
+    const nickname = replyNickname.value.trim();
+    const content = replyContent.value.trim();
+
+    if (!nickname || !content) {
+      alert("닉네임과 댓글을 입력해주세요.");
+      return;
+    }
+
+    const { error } = await supabaseClient
+      .from("board_replies")
+      .insert({ post_id:activeBoardPost.id, nickname, content, is_hidden:false });
+
+    if (error) {
+      console.error("댓글 등록 실패:", error);
+      alert("댓글 등록에 실패했습니다.");
+      return;
+    }
+
+    replyContent.value = "";
+    await loadBoardReplies(activeBoardPost.id);
+    await loadBoardPosts();
   }
 
   const proNewsSourceMeta = {
@@ -2273,6 +2615,40 @@ try{
     });
   });
 
+  boardTabs.forEach(btn => {
+    btn.addEventListener("click", () => switchBoardTab(btn.dataset.boardTab));
+  });
+
+  if (boardWriteToggle) {
+    boardWriteToggle.addEventListener("click", () => {
+      boardForm.classList.toggle("open");
+    });
+  }
+
+  if (boardSubmit) {
+    boardSubmit.addEventListener("click", addBoardPost);
+  }
+
+  if (boardContent) {
+    boardContent.addEventListener("keydown", e => {
+      if (e.key === "Enter" && (e.ctrlKey || e.metaKey)) addBoardPost();
+    });
+  }
+
+  if (boardClose) boardClose.addEventListener("click", closeBoardPost);
+  if (boardModal) {
+    boardModal.addEventListener("click", e => {
+      if (e.target === boardModal) closeBoardPost();
+    });
+  }
+
+  if (replySubmit) replySubmit.addEventListener("click", addBoardReply);
+  if (replyContent) {
+    replyContent.addEventListener("keydown", e => {
+      if (e.key === "Enter") addBoardReply();
+    });
+  }
+
   async function loadComments(){
     const { data, error } = await supabaseClient
       .from("comments")
@@ -2373,6 +2749,21 @@ try{
     });
   }
 
+  if (prevBoardBtn) {
+    prevBoardBtn.addEventListener("click", () => {
+      currentBoardPage--;
+      renderBoardPosts();
+    });
+  }
+
+  if (nextBoardBtn) {
+    nextBoardBtn.addEventListener("click", () => {
+      currentBoardPage++;
+      renderBoardPosts();
+    });
+  }
+
+  loadBoardPosts();
   loadComments();
   loadProRipplerNews();
   setInterval(loadProRipplerNews, 5 * 60 * 1000);
