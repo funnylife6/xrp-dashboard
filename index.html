@@ -136,7 +136,9 @@ body::before{content:'';position:fixed;inset:0;z-index:0;
 .board-dialog{width:min(720px,100%);max-height:88vh;overflow:auto;background:#0b1220;border:1px solid var(--border);border-radius:12px;box-shadow:0 24px 70px rgba(0,0,0,.45)}
 .support-dialog{width:min(760px,100%);background:#111827;border:1px solid var(--border);border-radius:14px;box-shadow:0 24px 70px rgba(0,0,0,.48);overflow:hidden;animation:modalRise .22s ease-out}
 .support-dialog-head{display:flex;justify-content:space-between;align-items:center;gap:12px;padding:16px 18px;border-bottom:1px solid var(--border)}
+.support-dialog-copy{display:flex;align-items:center;gap:22px;min-width:0}
 .support-dialog-title{font-family:'Noto Sans KR',sans-serif;font-size:16px;font-weight:900;color:#f8fafc}
+.support-dialog-note{font-family:'Noto Sans KR',sans-serif;font-size:14px;font-weight:900;color:#fff;line-height:1.55;white-space:nowrap}
 .support-qr-wrap{padding:14px;background:#111827}
 .support-qr-img{display:block;width:100%;height:auto;border-radius:12px;background:#fff}
 @keyframes modalRise{from{opacity:0;transform:translateY(18px) scale(.98)}to{opacity:1;transform:translateY(0) scale(1)}}
@@ -749,6 +751,9 @@ button,input,textarea,select{font:inherit;}
   }
   .visitor-label{font-size:9px;letter-spacing:.04em;}
   .visitor-value{font-size:12px;}
+  .support-dialog-head{align-items:flex-start;}
+  .support-dialog-copy{flex-direction:column;align-items:flex-start;gap:6px}
+  .support-dialog-note{font-size:12px;white-space:normal}
 
   .community-title{font-size:16px;}
   .community-desc{font-size:11px;line-height:1.5;}
@@ -1077,7 +1082,10 @@ button,input,textarea,select{font:inherit;}
   <div class="board-modal" id="support-modal" aria-hidden="true">
     <div class="support-dialog">
       <div class="support-dialog-head">
-        <div class="support-dialog-title">PRO_RIPPLER 운영자 커피한잔</div>
+        <div class="support-dialog-copy">
+          <div class="support-dialog-title">PRO_RIPPLER 운영자 커피한잔</div>
+          <div class="support-dialog-note">ㆍ후원해 주셔서 감사합니다<br>ㆍ해당QR은 XRP 주소입니다.</div>
+        </div>
         <button class="board-close" id="support-close" type="button">닫기</button>
       </div>
       <div class="support-qr-wrap">
