@@ -84,11 +84,11 @@ body::before{content:'';position:fixed;inset:0;z-index:0;
   text-decoration:none;transition:background .15s}
 .ni:last-child{border-bottom:none}
 .ni:hover{background:var(--surface)}
-.ntag{flex-shrink:0;font-size:9px;padding:2px 7px;background:#00d4ff15;color:var(--accent);
-  border:1px solid #00d4ff30;border-radius:2px;letter-spacing:1px;margin-top:1px;white-space:nowrap}
-.ntag.latest{background:#ef444415;color:#ef4444;border-color:#ef444430}
-.ntag.breaking{background:rgba(239,68,68,.16)!important;color:#f87171!important;border:1px solid rgba(239,68,68,.45)!important;box-shadow:0 0 14px rgba(239,68,68,.12)}
-.ntag.hot{background:#f59e0b15;color:#f59e0b;border-color:#f59e0b40}
+.ntag{
+  flex:0 0 auto;width:10px;height:10px;background:#f8fafc;border-radius:50%;
+  font-size:0;line-height:0;margin:7px 8px 0 2px
+}
+.ntag.latest,.ntag.breaking,.ntag.hot{background:#f8fafc;border:none;box-shadow:none;color:transparent}
 .ni.old-news{
   opacity:1 !important;
 }
@@ -214,6 +214,7 @@ body::before{content:'';position:fixed;inset:0;z-index:0;
 .pro-news-item:last-child{border-bottom:none}
 .pro-news-item[href]:hover{background:var(--surface);color:#fff}
 .pro-news-empty{padding:20px 26px;color:var(--muted);font-size:13px;border-bottom:1px solid var(--border)}
+.pro-news-pagination{border-top:1px solid var(--border);padding:14px 0;margin-top:0}
 .cc{background:var(--card);border:1px solid var(--border);border-radius:4px;padding:20px;margin-bottom:16px}
 .ct{font-size:11px;color:var(--muted);letter-spacing:1px;margin-bottom:12px;text-transform:uppercase}
 .cw{position:relative;height:220px}.cwl{position:relative;height:280px}
@@ -652,7 +653,7 @@ button,input,textarea,select{font:inherit;}
     font-size:9px;
     white-space:normal;
   }
-  .ntag{font-size:8.5px;padding:2px 6px;}
+  .ntag{width:9px;height:9px;margin:7px 6px 0 2px;padding:0;}
 
   .reg-card-hdr,.reg-body{padding:13px 14px;}
   .reg-title{font-size:10.5px;}
@@ -950,47 +951,9 @@ button,input,textarea,select{font:inherit;}
       <button class="tab-btn active">📰 국내 XRP / 리플 최신 뉴스</button>
       <span class="news-meta"><span class="dot"></span><span id="news-updated">최신순 · 갱신 중...</span></span>
     </div>
-    <div id="gen-list"><a class="ni" href="https://news.google.com/rss/articles/CBMicEFVX3lxTE5kZ1JRQXowek1keWdQdDJlZUxJbklGOFZuUFRXR1lWRzFCRlR0V2w5OFVHT2Z0ano2aWwtLVJzanpJaDFPMnRrNG5jTXF3eGVYRXJDbzFxMlI1cFEtVFVrVmxRSks0dnhTN3pBT0dmNmY?oc=5" target="_blank" rel="noopener">
-          <span class="ntag breaking">⚡ 속보</span>
-          <span class="nt">침묵의 리플(XRP), 폭풍전야인가... '1.47달러' 돌파 시 랠리 재개 가능성</span>
-          <span class="nsrc">블록체인투데이 · 56분 전</span>
-        </a><a class="ni" href="https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4QWJJeXRrMmZBNklGa0E3VXVIWTllR2p1MHBnVDRMQ29wOXVPd2ZnTjc1SGxxVnB2TzJSd04zYng3b2N0WG1Ka3Jmdm92ZVFNcVRoR0F0V0LSAV5BVV95cUxQTjhkWlVvbEtTT0dqYVMwdF8wRVFFRTRjMFN5bjVRWWtKRzVmUmxLV0RCZU9uQ0R2c3ZOMS1aZ3kyVzBKOU5HR1lQSHZDUURkZmJDRnZHNGtHWkwzXzR3?oc=5" target="_blank" rel="noopener">
-          <span class="ntag">#2</span>
-          <span class="nt">리플(XRP) 사? 팔아?… GPT·클로드·Grok의 엇갈린 전망</span>
-          <span class="nsrc">tokenpost.kr · 5시간 전</span>
-        </a><a class="ni" href="https://news.google.com/rss/articles/CBMic0FVX3lxTE1KVkN5UHNaTzF4aHB6REJRNm9aOENWaU9RdkVrNFM0LW10NFRjRFFZTjhtcWI2Tlk0TDdPY1ltZ3l3M0xwcXF0THVmc3F0anFwSWRjOXVVX0xWd196emNkbDRwaGU2c2I5X2YwWW5yY3lSSm8?oc=5" target="_blank" rel="noopener">
-          <span class="ntag">#3</span>
-          <span class="nt">리플 CEO "XRP, 이제 기관 담보 자산으로 쓰인다"…실사용 확대 시사</span>
-          <span class="nsrc">디지털투데이 · 6시간 전</span>
-        </a><a class="ni" href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa01QUEtIWGpGYkhCLXAyTlBCdEVaS1dyWmg3UlpKMjFEbTNPR2ExT0p0UE9wbHZ4bmdIYlRiT21JQ2JuWk1tVFFMcm1ZekxaeGNHeWhBUm5TVUpyV3I2eWJUeU14N2xIWjY3djlmREFIeTNHbk5PRTJ4UWVGcFkxVG93V2dnb3hp?oc=5" target="_blank" rel="noopener">
-          <span class="ntag">#4</span>
-          <span class="nt">리플 CEO "XRP, 이제 기관 담보로 쓰인다"… 실사용 가치 증명 '자신감’</span>
-          <span class="nsrc">글로벌이코노믹 · 8시간 전</span>
-        </a><a class="ni" href="https://news.google.com/rss/articles/CBMiSkFVX3lxTE83cllrVzhkbms1VzNuZFdURmFyenhzMUxtQUFzR1dJRmtTc3ZvNTB6a2FQMlNkYWZlbWxXQWc4VHJFMVZ4bE9ZVmhB?oc=5" target="_blank" rel="noopener">
-          <span class="ntag breaking">⚡ 속보</span>
-          <span class="nt">리플, SEC와의 전쟁 종료...합의금 97% 삭감에 XRP 반전 예고</span>
-          <span class="nsrc">코인리더스 · 12시간 전</span>
-        </a><a class="ni" href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE42X0VjVGpyLW9hckVLaXRsY1d3dGctZ1luWEVQTThxWWw5TllINzBfQm52ZGxnVktKVmFSLTg3QV9jUUZncDVuWnY2UFhmcVpiRGp5WEVGLVEwbUJkTExxeTBpNldVV3Jm?oc=5" target="_blank" rel="noopener">
-          <span class="ntag">#6</span>
-          <span class="nt">리플(XRP), 유동성 5년래 최저 수준…1.43달러까지 반등하며 ‘변곡점’ 시선</span>
-          <span class="nsrc">CBC뉴스 · 22시간 전</span>
-        </a><a class="ni" href="https://news.google.com/rss/articles/CBMijAFBVV95cUxPWjZGcEt0bWpTQVdrclFfT09KYndyeXNHSUp6QWlseFBnM2QtQVp2VUU2ZjM1blpyZjAyelI3VkljSS1qbGFvR0NRWTYzYnFoRHEtaVNucmVFUWRuSXVMRXZxWFhPYzlpa3NlWU9yT2hyOTE3anp6UmdwNks3aUNnc3Byd21TdWNqR3JjNw?oc=5" target="_blank" rel="noopener">
-          <span class="ntag">#7</span>
-          <span class="nt">비트코인 8만 달러 돌파와 XRP의 기회 — 2026년 5월 시장을 차분히 점검하다</span>
-          <span class="nsrc">네이버 프리미엄콘텐츠 · 05/06 02:10</span>
-        </a><a class="ni" href="https://news.google.com/rss/articles/CBMiWEFVX3lxTFBGRE1xaGs4dEVMeGZyS0k0OURqeXN2azZwRVBmeGh5Q2M5VlVjVXMxSFgyYkxoWXJWNnB6S1RpOTRrZFdaMjVpcGJ6VHZHSGQ0anB2SVVYTmk?oc=5" target="_blank" rel="noopener">
-          <span class="ntag">#8</span>
-          <span class="nt">[컨센서스 2026] 리플 CEO "5년 내 판 바뀔 것"…결제·RWA·스테이블코인 3축 청사진 발표</span>
-          <span class="nsrc">블록미디어 · 05/06 02:05</span>
-        </a><a class="ni" href="https://news.google.com/rss/articles/CBMic0FVX3lxTE9abEVyMldvVXNnZk1qdGtxT2w0YUtYalo1RW8zbmppeGNBNElJcVphV3cxRUNmb1plZVFfOTlDRzJQLTBITW1GTkg0SjlGX190VXhmOWJNNjdUTWpyY3BXYWh6WVJCeHJUZ3VLU0dzQTNVbUk?oc=5" target="_blank" rel="noopener">
-          <span class="ntag">#9</span>
-          <span class="nt">XRP, 1.20달러 지지선 굳히나…분석가 "목표가는 10달러"</span>
-          <span class="nsrc">디지털투데이 · 05/05 23:43</span>
-        </a><a class="ni" href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxObllnMHZINUZJUjh0ZXltelJrUlhIVmhTczRpUDFFWERQMUFJUll3RXgteGZuTnYtUDVqSXhFeG1WSzV5MVFvQTFjZHBTNGJ4aHdkam0zS3NrNnlKVEN3TDN3elNnV1V6ZFZnT1lWSERJcHZEd1c3RmxBMUc1Y2lMdFE4MUZFSlUw?oc=5" target="_blank" rel="noopener">
-          <span class="ntag breaking">⚡ 속보</span>
-          <span class="nt">리플 CEO “XRP 성공에 사활… RLUSD는 대체재 아닌 보완재”</span>
-          <span class="nsrc">글로벌이코노믹 · 05/05 04:31</span>
-        </a></div>
+    <div id="gen-list">
+      <div class="no-data">뉴스를 불러오는 중입니다.</div>
+    </div>
   </div>
 
   <!-- ③ 입법/규제 트래커 -->
@@ -1105,6 +1068,11 @@ button,input,textarea,select{font:inherit;}
     <div class="etf-hdr">프로리플러를 위한 소식</div>
     <div id="etf-list" class="pro-news-list">
       <div class="pro-news-empty">소식을 불러오는 중입니다.</div>
+    </div>
+    <div class="comment-pagination pro-news-pagination" id="pro-news-pagination" style="display:none">
+      <button id="prev-pro-news">이전</button>
+      <div id="pro-news-page-numbers" class="comment-page-numbers"></div>
+      <button id="next-pro-news">다음</button>
     </div>
   </div>
 
@@ -1385,16 +1353,12 @@ function renderNews(items,listId){
   const el=document.getElementById(listId);if(!el)return;
   const now=Date.now();
   items.sort((a,b)=>new Date(b.date)-new Date(a.date));
-  el.innerHTML=items.slice(0,10).map((n,i)=>{
+  el.innerHTML=items.slice(0,7).map(n=>{
     const ageSec=(now-new Date(n.date).getTime())/1000;
-    const isHot=ageSec>=0 && ageSec<=1800;
     const isOld=ageSec>7200;
     const src=n.source||'Google News KR';
-    const text=((n.title||'')+' '+src).toLowerCase();
-    const isBreaking=i===0 || isHot || ['속보','breaking','urgent','sec','etf','rlusd','소송','승인'].some(w=>text.includes(w));
-    const tagText=isBreaking?'⚡ 속보':'#'+(i+1);
     return `<a class="ni${isOld?' old-news':''}" href="${n.url}" target="_blank" rel="noopener">
-      <span class="ntag${isBreaking?' breaking':''}">${tagText}</span>
+      <span class="ntag" aria-hidden="true"></span>
       <span class="nt">${n.title}</span>
       <span class="nsrc">${src}${n.date?' · '+formatNewsDate(n.date):''}</span>
     </a>`;
@@ -1972,9 +1936,12 @@ try{
   const SUPABASE_URL = "https://ofjuaamhrczddosmpcdd.supabase.co";
   const SUPABASE_KEY = "sb_publishable_DDh_lP5RbbzTXaO2wuVTtQ_u8q-uLda";
   const COMMENTS_PER_PAGE = 5;
+  const PRO_NEWS_PER_PAGE = 5;
 
   let allComments = [];
   let currentCommentPage = 1;
+  let allProNews = [];
+  let currentProNewsPage = 1;
 
   const input = document.getElementById("comment-input");
   const submit = document.getElementById("comment-submit");
@@ -1984,6 +1951,10 @@ try{
   const pageNumbers = document.getElementById("comment-page-numbers");
   const topCommentBox = document.getElementById("top-comment-box");
   const proNewsList = document.getElementById("etf-list");
+  const proNewsPagination = document.getElementById("pro-news-pagination");
+  const prevProNewsBtn = document.getElementById("prev-pro-news");
+  const nextProNewsBtn = document.getElementById("next-pro-news");
+  const proNewsPageNumbers = document.getElementById("pro-news-page-numbers");
   const targetButtons = Array.from(document.querySelectorAll(".prayer-target-btn"));
   const targetMeta = {
     "하느님": { icon:"🙏", className:"god" },
@@ -2019,6 +1990,47 @@ try{
     return escapeHtml(value).replace(/`/g,"&#096;");
   }
 
+  function renderProRipplerNews(){
+    if (!proNewsList) return;
+
+    if (!allProNews.length) {
+      proNewsList.innerHTML = `<div class="pro-news-empty">등록된 소식이 없습니다.</div>`;
+      if (proNewsPagination) proNewsPagination.style.display = "none";
+      return;
+    }
+
+    const totalPages = Math.max(1, Math.ceil(allProNews.length / PRO_NEWS_PER_PAGE));
+    currentProNewsPage = Math.min(Math.max(1, currentProNewsPage), totalPages);
+    const start = (currentProNewsPage - 1) * PRO_NEWS_PER_PAGE;
+    const pageItems = allProNews.slice(start, start + PRO_NEWS_PER_PAGE);
+
+    proNewsList.innerHTML = pageItems.map(item => {
+      const title = escapeHtml(item.title || "");
+      const url = String(item.url || "").trim();
+      if (!url) return `<div class="pro-news-item">${title}</div>`;
+      return `<a class="pro-news-item" href="${escapeAttr(url)}" target="_blank" rel="noopener">${title}</a>`;
+    }).join("");
+
+    if (proNewsPagination) proNewsPagination.style.display = totalPages > 1 ? "flex" : "none";
+    if (prevProNewsBtn) prevProNewsBtn.disabled = currentProNewsPage <= 1;
+    if (nextProNewsBtn) nextProNewsBtn.disabled = currentProNewsPage >= totalPages;
+
+    if (proNewsPageNumbers) {
+      proNewsPageNumbers.innerHTML = "";
+      for (let i = 1; i <= totalPages; i++) {
+        const btn = document.createElement("button");
+        btn.type = "button";
+        btn.textContent = i;
+        if (i === currentProNewsPage) btn.classList.add("active-page");
+        btn.addEventListener("click", () => {
+          currentProNewsPage = i;
+          renderProRipplerNews();
+        });
+        proNewsPageNumbers.appendChild(btn);
+      }
+    }
+  }
+
   async function loadProRipplerNews(){
     if (!proNewsList) return;
 
@@ -2027,26 +2039,17 @@ try{
       .select("id,title,url,sort_order,is_active,created_at")
       .eq("is_active", true)
       .order("sort_order", { ascending:true })
-      .order("created_at", { ascending:false })
-      .limit(8);
+      .order("created_at", { ascending:false });
 
     if (error) {
       console.error("프로리플러 소식 불러오기 실패:", error);
       proNewsList.innerHTML = `<div class="pro-news-empty">소식을 불러오지 못했습니다.</div>`;
+      if (proNewsPagination) proNewsPagination.style.display = "none";
       return;
     }
 
-    if (!Array.isArray(data) || !data.length) {
-      proNewsList.innerHTML = `<div class="pro-news-empty">등록된 소식이 없습니다.</div>`;
-      return;
-    }
-
-    proNewsList.innerHTML = data.map(item => {
-      const title = escapeHtml(item.title || "");
-      const url = String(item.url || "").trim();
-      if (!url) return `<div class="pro-news-item">${title}</div>`;
-      return `<a class="pro-news-item" href="${escapeAttr(url)}" target="_blank" rel="noopener">${title}</a>`;
-    }).join("");
+    allProNews = Array.isArray(data) ? data : [];
+    renderProRipplerNews();
   }
 
   function selectedTargetText(){
@@ -2319,6 +2322,20 @@ try{
     nextBtn.addEventListener("click", () => {
       currentCommentPage++;
       renderComments();
+    });
+  }
+
+  if (prevProNewsBtn) {
+    prevProNewsBtn.addEventListener("click", () => {
+      currentProNewsPage--;
+      renderProRipplerNews();
+    });
+  }
+
+  if (nextProNewsBtn) {
+    nextProNewsBtn.addEventListener("click", () => {
+      currentProNewsPage++;
+      renderProRipplerNews();
     });
   }
 
