@@ -8,14 +8,16 @@
 <style>
 body{margin:0;background:#050816;color:#fff;font-family:Arial,'Noto Sans KR',sans-serif;padding:30px}
 h1{font-size:28px;margin:0 0 24px}
-h2{font-size:20px;margin:34px 0 14px;color:#00d4ff}
-.admin-section{margin-bottom:34px}
+h2{font-size:20px;margin:0;color:#00d4ff}
+.admin-section{background:#070d1d;border:1px solid #1f2937;border-radius:14px;padding:18px;margin-bottom:26px;box-shadow:0 14px 40px rgba(0,0,0,.18)}
+.section-head{display:flex;align-items:flex-end;justify-content:space-between;gap:14px;border-bottom:1px solid #1f2937;padding-bottom:14px;margin-bottom:16px}
+.section-desc{color:#64748b;font-size:12px;margin-top:6px}
 .admin-list{display:flex;flex-direction:column;gap:14px}
-.comment-card,.news-card,.news-form{background:#0b1220;border:1px solid #1f2937;border-radius:10px;padding:16px}
+.comment-card,.news-card,.board-card,.reply-card,.news-form{background:#0b1220;border:1px solid #1f2937;border-radius:10px;padding:16px}
 .comment-top,.news-top{display:flex;justify-content:space-between;align-items:center;gap:14px;margin-bottom:10px}
-.nick,.news-title{color:#00d4ff;font-weight:800}
+.nick,.news-title,.board-title,.reply-post-title{color:#00d4ff;font-weight:800}
 .meta{color:#64748b;font-size:12px}
-.content,.news-url{font-size:15px;line-height:1.5;margin-bottom:14px;word-break:break-word}
+.content,.news-url,.board-content,.reply-content{font-size:15px;line-height:1.5;margin-bottom:14px;word-break:break-word;white-space:pre-wrap}
 .news-url{color:#94a3b8;font-size:13px}
 .actions{display:flex;gap:10px;flex-wrap:wrap}
 .btn{border:none;border-radius:8px;padding:8px 14px;cursor:pointer;font-size:13px;font-weight:800;color:#fff}
@@ -34,12 +36,22 @@ h2{font-size:20px;margin:34px 0 14px;color:#00d4ff}
 <h1>🛡 PRO_RIPPLER 관리자</h1>
 
 <section class="admin-section">
-  <h2>기도문 관리</h2>
+  <div class="section-head">
+    <div>
+      <h2>기도문 관리</h2>
+      <div class="section-desc">메인 기도문의 숨김, 복구, 삭제를 관리합니다.</div>
+    </div>
+  </div>
   <div id="admin-list" class="admin-list"></div>
 </section>
 
 <section class="admin-section">
-  <h2>프로리플러를 위한 소식 관리</h2>
+  <div class="section-head">
+    <div>
+      <h2>프로리플러를 위한 소식 관리</h2>
+      <div class="section-desc">메인 하단 소식 제목, 링크, 플랫폼 로고, 노출 상태를 관리합니다.</div>
+    </div>
+  </div>
   <form id="pro-news-form" class="news-form">
     <input type="hidden" id="news-id" />
     <input type="text" id="news-title" maxlength="120" placeholder="소식 제목" required />
@@ -59,6 +71,26 @@ h2{font-size:20px;margin:34px 0 14px;color:#00d4ff}
     <button class="btn cancel-btn" id="news-cancel" type="button">취소</button>
   </form>
   <div id="pro-news-admin-list" class="admin-list"></div>
+</section>
+
+<section class="admin-section">
+  <div class="section-head">
+    <div>
+      <h2>펀더멘탈 게시글 관리</h2>
+      <div class="section-desc">익명 게시판의 게시글 숨김, 복구, 삭제를 관리합니다.</div>
+    </div>
+  </div>
+  <div id="board-post-admin-list" class="admin-list"></div>
+</section>
+
+<section class="admin-section">
+  <div class="section-head">
+    <div>
+      <h2>펀더멘탈 댓글 관리</h2>
+      <div class="section-desc">게시글 상세 화면에 달린 댓글을 숨김, 복구, 삭제합니다.</div>
+    </div>
+  </div>
+  <div id="board-reply-admin-list" class="admin-list"></div>
 </section>
 
 <button onclick="logoutAdmin()" style="position:fixed;top:20px;right:20px;z-index:9999;background:#111827;color:white;border:1px solid #1e2d42;padding:10px 16px;border-radius:8px;cursor:pointer;font-weight:700;box-shadow:0 4px 12px rgba(0,0,0,0.3)">로그아웃</button>
@@ -156,6 +188,8 @@ const newsSource = document.getElementById("news-source");
 const newsOrder = document.getElementById("news-order");
 const newsActive = document.getElementById("news-active");
 const newsList = document.getElementById("pro-news-admin-list");
+const boardPostList = document.getElementById("board-post-admin-list");
+const boardReplyList = document.getElementById("board-reply-admin-list");
 const sourceMeta = {
   youtube: { label:"유튜브", icon:"assets/source-youtube.png" },
   blog: { label:"네이버블로그", icon:"assets/source-blog.png" },
@@ -269,6 +303,128 @@ newsForm.addEventListener("submit", async e => {
 
 document.getElementById("news-cancel").addEventListener("click", resetNewsForm);
 
+async function loadBoardPostsAdmin(){
+  const { data, error } = await supabaseClient
+    .from("board_posts")
+    .select("*")
+    .order("created_at", { ascending:false });
+
+  if(error){
+    console.error(error);
+    boardPostList.innerHTML = `<div class="empty">게시글을 불러오지 못했습니다.</div>`;
+    return;
+  }
+
+  boardPostList.innerHTML = "";
+  if(!data.length){
+    boardPostList.innerHTML = `<div class="empty">관리할 게시글이 없습니다.</div>`;
+    return;
+  }
+
+  data.forEach(post => {
+    const item = document.createElement("div");
+    item.className = "board-card";
+    item.innerHTML = `
+      <div class="comment-top">
+        <div>
+          <div class="board-title">${escapeHtml(post.title)}</div>
+          <div class="meta">${escapeHtml(post.nickname || "익명")} · 조회 ${post.view_count || 0} · ${post.is_hidden ? "숨김" : "노출"}</div>
+        </div>
+      </div>
+      <div class="board-content">${escapeHtml(post.content || "")}</div>
+      <div class="actions">
+        ${post.is_hidden ? `<button class="btn restore-btn">복구</button>` : `<button class="btn hide-btn">숨김</button>`}
+        <button class="btn delete-btn">삭제</button>
+      </div>
+    `;
+    boardPostList.appendChild(item);
+
+    const hideBtn = item.querySelector(".hide-btn");
+    if(hideBtn){
+      hideBtn.addEventListener("click", async () => {
+        await supabaseClient.from("board_posts").update({ is_hidden:true }).eq("id", post.id);
+        loadBoardPostsAdmin();
+        loadBoardRepliesAdmin();
+      });
+    }
+
+    const restoreBtn = item.querySelector(".restore-btn");
+    if(restoreBtn){
+      restoreBtn.addEventListener("click", async () => {
+        await supabaseClient.from("board_posts").update({ is_hidden:false }).eq("id", post.id);
+        loadBoardPostsAdmin();
+      });
+    }
+
+    item.querySelector(".delete-btn").addEventListener("click", async () => {
+      if(!confirm("이 게시글과 댓글을 모두 삭제할까요?")) return;
+      await supabaseClient.from("board_posts").delete().eq("id", post.id);
+      loadBoardPostsAdmin();
+      loadBoardRepliesAdmin();
+    });
+  });
+}
+
+async function loadBoardRepliesAdmin(){
+  const { data, error } = await supabaseClient
+    .from("board_replies")
+    .select("*, board_posts(title)")
+    .order("created_at", { ascending:false });
+
+  if(error){
+    console.error(error);
+    boardReplyList.innerHTML = `<div class="empty">댓글을 불러오지 못했습니다.</div>`;
+    return;
+  }
+
+  boardReplyList.innerHTML = "";
+  if(!data.length){
+    boardReplyList.innerHTML = `<div class="empty">관리할 댓글이 없습니다.</div>`;
+    return;
+  }
+
+  data.forEach(reply => {
+    const item = document.createElement("div");
+    item.className = "reply-card";
+    item.innerHTML = `
+      <div class="comment-top">
+        <div>
+          <div class="reply-post-title">${escapeHtml(reply.board_posts?.title || "삭제된 게시글")}</div>
+          <div class="meta">${escapeHtml(reply.nickname || "익명")} · ${reply.is_hidden ? "숨김" : "노출"}</div>
+        </div>
+      </div>
+      <div class="reply-content">${escapeHtml(reply.content || "")}</div>
+      <div class="actions">
+        ${reply.is_hidden ? `<button class="btn restore-btn">복구</button>` : `<button class="btn hide-btn">숨김</button>`}
+        <button class="btn delete-btn">삭제</button>
+      </div>
+    `;
+    boardReplyList.appendChild(item);
+
+    const hideBtn = item.querySelector(".hide-btn");
+    if(hideBtn){
+      hideBtn.addEventListener("click", async () => {
+        await supabaseClient.from("board_replies").update({ is_hidden:true }).eq("id", reply.id);
+        loadBoardRepliesAdmin();
+      });
+    }
+
+    const restoreBtn = item.querySelector(".restore-btn");
+    if(restoreBtn){
+      restoreBtn.addEventListener("click", async () => {
+        await supabaseClient.from("board_replies").update({ is_hidden:false }).eq("id", reply.id);
+        loadBoardRepliesAdmin();
+      });
+    }
+
+    item.querySelector(".delete-btn").addEventListener("click", async () => {
+      if(!confirm("이 댓글을 삭제할까요?")) return;
+      await supabaseClient.from("board_replies").delete().eq("id", reply.id);
+      loadBoardRepliesAdmin();
+    });
+  });
+}
+
 function logoutAdmin(){
   sessionStorage.removeItem("admin_auth");
   location.reload();
@@ -276,6 +432,8 @@ function logoutAdmin(){
 
 loadAdminComments();
 loadProNewsAdmin();
+loadBoardPostsAdmin();
+loadBoardRepliesAdmin();
 </script>
 </body>
 </html>

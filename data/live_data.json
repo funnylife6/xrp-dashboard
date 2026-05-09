@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-09T12:59:25",
+  "generated_at": "2026-05-09T14:18:10",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.42,
-    "price_krw": 2077.06,
-    "price_change_24h": 2.25308,
-    "price_change_7d": 2.4298,
-    "price_change_30d": 6.54109,
-    "market_cap_usd": 87808817949,
+    "price_krw": 2074.93,
+    "price_change_24h": 1.79225,
+    "price_change_7d": 2.39906,
+    "price_change_30d": 6.62221,
+    "market_cap_usd": 87768569670,
     "market_cap_rank": 4,
-    "volume_24h": 1580388874,
+    "volume_24h": 1444384381,
     "circulating_supply": 61796225236.0,
     "total_supply": 99985670046.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 87.63,
-    "sentiment_votes_down": 12.37,
+    "sentiment_votes_up": 88.04,
+    "sentiment_votes_down": 11.96,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 21.74,
-    "recent_tps": 21.74,
-    "recent_tx_count": 1957,
+    "tps_24h_avg": 32.55,
+    "recent_tps": 32.55,
+    "recent_tx_count": 2897,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 104113232,
+    "recent_window_sec": 89,
+    "ledger_seq": 104114449,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-09 12:59:16 KST",
+    "updated_at": "2026-05-09 14:17:59 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,18 +92,18 @@
   ],
   "general_news": [
     {
+      "title": "XRP, 매수 신호 떴다…이번엔 정말 3달러 갈까?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9zcEs4cFU5anQtbWVydDlsM1M0RVpJeUlvU240MnVELWxSSDk1d19lMml4Ty11YjdfY3F4UEY3R1ZXUnowcGhERGV3?oc=5",
+      "date": "Sat, 09 May 2026 13:46:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
       "title": "“5조7000억 달러 움직였다?”…UBS, 리플XRP ETF 담았다는 소식에 시장 촉각",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pZ2k5WUdHV0I1RWFDQkk3a3FtcWE4X192VUJ5clpIcllqY2JQRzNIckhQazhXRHBTU0ExbGN0Z0dxYzZCSmxaaTdka1BXVVBiaDM3NTk4RGltdUNrVGJzb29nRkZDVEJU?oc=5",
       "date": "Sat, 09 May 2026 08:25:00 GMT",
       "source": "CBC뉴스",
       "score": 3
-    },
-    {
-      "title": "개미도 고래도 눈치만 본다… 피 말리는 횡보장 속 XRP의 잔인한 5월",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE02ekl2VTVoQ3JoUXRocGdBOUUyaHl6Z25OYzFqdlZKSVRMbzZGdEFINDlXdUlQUFl1MXBoTTBydDEyakZwUHkweS1R?oc=5",
-      "date": "Sat, 09 May 2026 08:18:00 GMT",
-      "source": "코인리더스",
-      "score": 2
     },
     {
       "title": "리플(XRP) 사? 팔아?… GPT·클로드·Grok의 엇갈린 전망",
@@ -128,8 +128,8 @@
     },
     {
       "title": "XRP 다음 카드는 RLUSD…리플의 스테이블코인 승부수",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE14V1BncGhyek8tdDExWlJvY29BSlNGMTV4QmtQNGhkNWxEejRzVFh2akJCSHc5SWR2UGcxdzQ2YTRUQkg2dWpTTVdHSDNYeDNqaEQwd0J1OHJBNDA0Yk5ic3R5MkpLM29qU3hOOXdvVEwzY3PSAXdBVV95cUxNTjdHWjNVTVJrNG5CeTY3b0JRUkxkZXl2MFdIWFN2dlMwYmN6VE9mQTJUbXhkWDY1djFSOHVwWW9rMkk5d01YZG1hNWdHbzhHYzNmMHZZYkZGZ3lPYVE1WlBzUTNFS1VuT0p0S1psNV9Nb29xMl9mYw?oc=5",
-      "date": "Fri, 08 May 2026 20:41:32 GMT",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ON0daM1VNUms0bkJ5NjdvQlFSTGRleXYwV0hYU3Z2UzBiY3pUT2ZBMlRteGRYNjV2MVI4dXBZb2sySTl3TVhkbWE1Z0dvOEdjM2YwdlliRkZneU9hUTVaUHNRM0VLVW5PSnRLWmw1X01vb3EyX2Zj0gF3QVVfeXFMTU43R1ozVU1SazRuQnk2N29CUVJMZGV5djBXSFhTdnZTMGJjelRPZkEyVG14ZFg2NXYxUjh1cFlvazJJOXdNWGRtYTVnR284R2MzZjB2WWJGRmd5T2FRNVpQc1EzRUtVbk9KdEtabDVfTW9vcTJfZmM?oc=5",
+      "date": "Fri, 08 May 2026 20:45:34 GMT",
       "source": "핀포인트뉴스",
       "score": 3
     },
