@@ -1,259 +1,258 @@
-```html
 <!DOCTYPE html>
 <html lang="ko">
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-
 <title>PRO_RIPPLER 관리자</title>
-
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.min.js"></script>
-
 <style>
-body{
-  margin:0;
-  background:#050816;
-  color:#fff;
-  font-family:sans-serif;
-  padding:30px;
-}
-
-h1{
-  font-size:28px;
-  margin-bottom:24px;
-}
-
-.admin-list{
-  display:flex;
-  flex-direction:column;
-  gap:14px;
-}
-
-.comment-card{
-  background:#0b1220;
-  border:1px solid #1f2937;
-  border-radius:10px;
-  padding:16px;
-}
-
-.comment-top{
-  display:flex;
-  justify-content:space-between;
-  align-items:center;
-  margin-bottom:10px;
-}
-
-.nick{
-  color:#00d4ff;
-  font-weight:700;
-}
-
-.meta{
-  color:#64748b;
-  font-size:12px;
-}
-
-.content{
-  font-size:15px;
-  line-height:1.5;
-  margin-bottom:14px;
-}
-
-.actions{
-  display:flex;
-  gap:10px;
-}
-
-.btn{
-  border:none;
-  border-radius:8px;
-  padding:8px 14px;
-  cursor:pointer;
-  font-size:13px;
-  font-weight:700;
-}
-
-.hide-btn{
-  background:#f59e0b;
-  color:#fff;
-}
-
-.restore-btn{
-  background:#10b981;
-  color:#fff;
-}
-
-.delete-btn{
-  background:#ef4444;
-  color:#fff;
-}
+body{margin:0;background:#050816;color:#fff;font-family:Arial,'Noto Sans KR',sans-serif;padding:30px}
+h1{font-size:28px;margin:0 0 24px}
+h2{font-size:20px;margin:34px 0 14px;color:#00d4ff}
+.admin-section{margin-bottom:34px}
+.admin-list{display:flex;flex-direction:column;gap:14px}
+.comment-card,.news-card,.news-form{background:#0b1220;border:1px solid #1f2937;border-radius:10px;padding:16px}
+.comment-top,.news-top{display:flex;justify-content:space-between;align-items:center;gap:14px;margin-bottom:10px}
+.nick,.news-title{color:#00d4ff;font-weight:800}
+.meta{color:#64748b;font-size:12px}
+.content,.news-url{font-size:15px;line-height:1.5;margin-bottom:14px;word-break:break-word}
+.news-url{color:#94a3b8;font-size:13px}
+.actions{display:flex;gap:10px;flex-wrap:wrap}
+.btn{border:none;border-radius:8px;padding:8px 14px;cursor:pointer;font-size:13px;font-weight:800;color:#fff}
+.hide-btn{background:#f59e0b}.restore-btn{background:#10b981}.delete-btn{background:#ef4444}
+.edit-btn{background:#3b82f6}.save-btn{background:#00a7e1}.cancel-btn{background:#475569}
+.news-form{display:grid;grid-template-columns:1fr 1fr 120px 120px;gap:10px;align-items:center;margin-bottom:14px}
+.news-form input,.news-form select{height:42px;background:#050816;border:1px solid #1f2937;border-radius:8px;color:#fff;padding:0 12px;font-size:14px}
+.news-form button{height:42px}
+.empty{padding:18px;border:1px dashed #1f2937;border-radius:10px;color:#64748b}
+@media(max-width:900px){.news-form{grid-template-columns:1fr}.comment-top,.news-top{align-items:flex-start;flex-direction:column}}
 </style>
 </head>
-
 <body>
-
 <h1>🛡 PRO_RIPPLER 관리자</h1>
 
-<div id="admin-list" class="admin-list"></div>
+<section class="admin-section">
+  <h2>기도문 관리</h2>
+  <div id="admin-list" class="admin-list"></div>
+</section>
+
+<section class="admin-section">
+  <h2>프로리플러를 위한 소식 관리</h2>
+  <form id="pro-news-form" class="news-form">
+    <input type="hidden" id="news-id" />
+    <input type="text" id="news-title" maxlength="120" placeholder="소식 제목" required />
+    <input type="url" id="news-url" placeholder="연결 링크 https://..." />
+    <input type="number" id="news-order" placeholder="정렬" value="0" />
+    <select id="news-active">
+      <option value="true">노출</option>
+      <option value="false">숨김</option>
+    </select>
+    <button class="btn save-btn" type="submit">저장</button>
+    <button class="btn cancel-btn" id="news-cancel" type="button">취소</button>
+  </form>
+  <div id="pro-news-admin-list" class="admin-list"></div>
+</section>
+
+<button onclick="logoutAdmin()" style="position:fixed;top:20px;right:20px;z-index:9999;background:#111827;color:white;border:1px solid #1e2d42;padding:10px 16px;border-radius:8px;cursor:pointer;font-weight:700;box-shadow:0 4px 12px rgba(0,0,0,0.3)">로그아웃</button>
 
 <script>
 const ADMIN_PASSWORD = "0922";
 
 if (sessionStorage.getItem("admin_auth") !== "ok") {
-
-    const input = prompt("관리자 비밀번호 입력");
-
-    if (input === ADMIN_PASSWORD) {
-
-        sessionStorage.setItem("admin_auth", "ok");
-
-    } else {
-
-        document.body.innerHTML = "<h1>Access Denied</h1>";
-        throw new Error("Unauthorized");
-
-    }
+  const input = prompt("관리자 비밀번호 입력");
+  if (input === ADMIN_PASSWORD) {
+    sessionStorage.setItem("admin_auth", "ok");
+  } else {
+    document.body.innerHTML = "<h1>Access Denied</h1>";
+    throw new Error("Unauthorized");
+  }
 }
+
 const SUPABASE_URL = "https://ofjuaamhrczddosmpcdd.supabase.co";
 const SUPABASE_KEY = "sb_publishable_DDh_lP5RbbzTXaO2wuVTtQ_u8q-uLda";
+const supabaseClient = window.supabase.createClient(SUPABASE_URL, SUPABASE_KEY);
 
-const supabaseClient = window.supabase.createClient(
-  SUPABASE_URL,
-  SUPABASE_KEY
-);
+function escapeHtml(value){
+  return String(value || "")
+    .replace(/&/g,"&amp;")
+    .replace(/</g,"&lt;")
+    .replace(/>/g,"&gt;")
+    .replace(/"/g,"&quot;")
+    .replace(/'/g,"&#039;");
+}
 
 async function loadAdminComments(){
-
   const { data, error } = await supabaseClient
     .from("comments")
     .select("*")
     .order("created_at", { ascending:false });
 
+  const list = document.getElementById("admin-list");
   if(error){
     console.error(error);
+    list.innerHTML = `<div class="empty">기도문을 불러오지 못했습니다.</div>`;
     return;
   }
 
-  const list = document.getElementById("admin-list");
-
   list.innerHTML = "";
+  if(!data.length){
+    list.innerHTML = `<div class="empty">관리할 기도문이 없습니다.</div>`;
+    return;
+  }
 
   data.forEach(comment => {
-
     const item = document.createElement("div");
-
     item.className = "comment-card";
-
     item.innerHTML = `
       <div class="comment-top">
-        <div class="nick">${comment.nickname}</div>
-
-        <div class="meta">
-          추천 ${comment.like_count || 0}
-          ·
-          신고 ${comment.report_count || 0}
-        </div>
+        <div class="nick">${escapeHtml(comment.prayer_target || comment.nickname || "익명 홀더")}</div>
+        <div class="meta">추천 ${comment.like_count || 0} · 신고 ${comment.report_count || 0}</div>
       </div>
-
-      <div class="content">
-        ${comment.content}
-      </div>
-
+      <div class="content">${escapeHtml(comment.content)}</div>
       <div class="actions">
-
-        ${
-          comment.is_hidden
-          ?
-          `<button class="btn restore-btn">복구</button>`
-          :
-          `<button class="btn hide-btn">숨김</button>`
-        }
-
+        ${comment.is_hidden ? `<button class="btn restore-btn">복구</button>` : `<button class="btn hide-btn">숨김</button>`}
         <button class="btn delete-btn">삭제</button>
-
       </div>
     `;
-
     list.appendChild(item);
 
     const hideBtn = item.querySelector(".hide-btn");
-
     if(hideBtn){
       hideBtn.addEventListener("click", async () => {
-
-        await supabaseClient
-          .from("comments")
-          .update({ is_hidden:true })
-          .eq("id", comment.id);
-
+        await supabaseClient.from("comments").update({ is_hidden:true }).eq("id", comment.id);
         loadAdminComments();
       });
     }
 
     const restoreBtn = item.querySelector(".restore-btn");
-
     if(restoreBtn){
       restoreBtn.addEventListener("click", async () => {
-
-        await supabaseClient
-          .from("comments")
-          .update({
-            is_hidden:false,
-            report_count:0
-          })
-          .eq("id", comment.id);
-
+        await supabaseClient.from("comments").update({ is_hidden:false, report_count:0 }).eq("id", comment.id);
         loadAdminComments();
       });
     }
 
-    const deleteBtn = item.querySelector(".delete-btn");
-
-    deleteBtn.addEventListener("click", async () => {
-
-      const ok = confirm("정말 삭제할까요?");
-
-      if(!ok) return;
-
-      await supabaseClient
-        .from("comments")
-        .delete()
-        .eq("id", comment.id);
-
+    item.querySelector(".delete-btn").addEventListener("click", async () => {
+      if(!confirm("정말 삭제할까요?")) return;
+      await supabaseClient.from("comments").delete().eq("id", comment.id);
       loadAdminComments();
     });
-
   });
-
 }
 
-loadAdminComments();
+const newsForm = document.getElementById("pro-news-form");
+const newsId = document.getElementById("news-id");
+const newsTitle = document.getElementById("news-title");
+const newsUrl = document.getElementById("news-url");
+const newsOrder = document.getElementById("news-order");
+const newsActive = document.getElementById("news-active");
+const newsList = document.getElementById("pro-news-admin-list");
+
+function resetNewsForm(){
+  newsId.value = "";
+  newsTitle.value = "";
+  newsUrl.value = "";
+  newsOrder.value = "0";
+  newsActive.value = "true";
+}
+
+async function loadProNewsAdmin(){
+  const { data, error } = await supabaseClient
+    .from("pro_rippler_news")
+    .select("*")
+    .order("sort_order", { ascending:true })
+    .order("created_at", { ascending:false });
+
+  if(error){
+    console.error(error);
+    newsList.innerHTML = `<div class="empty">소식을 불러오지 못했습니다.</div>`;
+    return;
+  }
+
+  newsList.innerHTML = "";
+  if(!data.length){
+    newsList.innerHTML = `<div class="empty">등록된 소식이 없습니다.</div>`;
+    return;
+  }
+
+  data.forEach(news => {
+    const item = document.createElement("div");
+    item.className = "news-card";
+    item.innerHTML = `
+      <div class="news-top">
+        <div class="news-title">${escapeHtml(news.title)}</div>
+        <div class="meta">정렬 ${news.sort_order || 0} · ${news.is_active ? "노출" : "숨김"}</div>
+      </div>
+      <div class="news-url">${escapeHtml(news.url || "링크 없음")}</div>
+      <div class="actions">
+        <button class="btn edit-btn">수정</button>
+        <button class="btn ${news.is_active ? "hide-btn" : "restore-btn"}">${news.is_active ? "숨김" : "노출"}</button>
+        <button class="btn delete-btn">삭제</button>
+      </div>
+    `;
+    newsList.appendChild(item);
+
+    item.querySelector(".edit-btn").addEventListener("click", () => {
+      newsId.value = news.id;
+      newsTitle.value = news.title || "";
+      newsUrl.value = news.url || "";
+      newsOrder.value = news.sort_order || 0;
+      newsActive.value = String(news.is_active);
+      newsTitle.focus();
+    });
+
+    item.querySelector(news.is_active ? ".hide-btn" : ".restore-btn").addEventListener("click", async () => {
+      await supabaseClient.from("pro_rippler_news").update({ is_active:!news.is_active, updated_at:new Date().toISOString() }).eq("id", news.id);
+      loadProNewsAdmin();
+    });
+
+    item.querySelector(".delete-btn").addEventListener("click", async () => {
+      if(!confirm("이 소식을 삭제할까요?")) return;
+      await supabaseClient.from("pro_rippler_news").delete().eq("id", news.id);
+      loadProNewsAdmin();
+    });
+  });
+}
+
+newsForm.addEventListener("submit", async e => {
+  e.preventDefault();
+  const payload = {
+    title: newsTitle.value.trim(),
+    url: newsUrl.value.trim() || null,
+    sort_order: Number(newsOrder.value || 0),
+    is_active: newsActive.value === "true",
+    updated_at: new Date().toISOString()
+  };
+
+  if(!payload.title){
+    alert("제목을 입력해주세요.");
+    return;
+  }
+
+  const request = newsId.value
+    ? supabaseClient.from("pro_rippler_news").update(payload).eq("id", newsId.value)
+    : supabaseClient.from("pro_rippler_news").insert(payload);
+
+  const { error } = await request;
+  if(error){
+    console.error(error);
+    alert("저장 실패: Supabase 권한을 확인해주세요.");
+    return;
+  }
+
+  resetNewsForm();
+  loadProNewsAdmin();
+});
+
+document.getElementById("news-cancel").addEventListener("click", resetNewsForm);
 
 function logoutAdmin(){
   sessionStorage.removeItem("admin_auth");
   location.reload();
 }
-</script>
 
-<button
-  onclick="logoutAdmin()"
-  style="
-    position:fixed;
-    top:20px;
-    right:20px;
-    z-index:9999;
-    background:#111827;
-    color:white;
-    border:1px solid #1e2d42;
-    padding:10px 16px;
-    border-radius:8px;
-    cursor:pointer;
-    font-weight:700;
-    box-shadow:0 4px 12px rgba(0,0,0,0.3);
-  "
->
-  로그아웃
-</button>
+loadAdminComments();
+loadProNewsAdmin();
+</script>
 </body>
 </html>
-

@@ -197,6 +197,23 @@ body::before{content:'';position:fixed;inset:0;z-index:0;
   letter-spacing:-0.8px;
   line-height:1.2;
 }
+.pro-news-list{display:flex;flex-direction:column}
+.pro-news-item{
+  display:block;
+  padding:22px 26px;
+  border-bottom:1px solid var(--border);
+  color:#f8fafc;
+  text-decoration:none;
+  font-family:'Noto Sans KR',sans-serif;
+  font-size:21px;
+  font-weight:900;
+  line-height:1.45;
+  letter-spacing:-0.7px;
+  transition:background .15s,color .15s
+}
+.pro-news-item:last-child{border-bottom:none}
+.pro-news-item[href]:hover{background:var(--surface);color:#fff}
+.pro-news-empty{padding:20px 26px;color:var(--muted);font-size:13px;border-bottom:1px solid var(--border)}
 .cc{background:var(--card);border:1px solid var(--border);border-radius:4px;padding:20px;margin-bottom:16px}
 .ct{font-size:11px;color:var(--muted);letter-spacing:1px;margin-bottom:12px;text-transform:uppercase}
 .cw{position:relative;height:220px}.cwl{position:relative;height:280px}
@@ -1085,32 +1102,10 @@ button,input,textarea,select{font:inherit;}
 
 
  <div class="etf-box">
-    <div class="etf-hdr">ETF 관련 최신 동향</div>
-    <div id="etf-list"><a class="reg-ni" href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE42X0VjVGpyLW9hckVLaXRsY1d3dGctZ1luWEVQTThxWWw5TllINzBfQm52ZGxnVktKVmFSLTg3QV9jUUZncDVuWnY2UFhmcVpiRGp5WEVGLVEwbUJkTExxeTBpNldVV3Jm?oc=5" target="_blank" rel="noopener">
-          <span class="rni-dot"></span>
-          <span class="rni-content">
-            <span class="rni-title">리플(XRP), 유동성 5년래 최저 수준…1.43달러까지 반등하며 ‘변곡점’ 시선</span>
-            <span class="rni-src">CBC뉴스 · 22시간 전</span>
-          </span>
-        </a><a class="reg-ni" href="https://news.google.com/rss/articles/CBMic0FVX3lxTE5VTnJtUkRqZmczMWpoSEVxNUJfYVYxZThnSXJUWWVXMFhxbWQ1YjExejYwb2pQY2UzbGdmUkZPUHA5dVJYOF9ic08wMDVIbEdDQXdhRFVWRHBGUjhHekNoN25HN0tXUTV4YmJ3V0FLaTBVRnPSAXdBVV95cUxNSFUzam9adWM3MTdVNXhhWl9IZWxfOXkwcGt4R01objBwSUVyMDMwYTFrMW80ZVZYV2E4cjZBcXJUWS1wVmZwY2xTdkFLMUY1ZlBBOWhrTTlWcjJKSmxSSXd1MGtsUE9XNGJjcTd0dmREWW9nRmVVdw?oc=5" target="_blank" rel="noopener">
-          <span class="rni-dot"></span>
-          <span class="rni-content">
-            <span class="rni-title">비트와이즈의 압도적 독주… 4월 가상자산 시장 뒤흔든 XRP 현물 ETF의 돌풍 무슨 이슈?</span>
-            <span class="rni-src">핀포인트뉴스 · 05/05 01:58</span>
-          </span>
-        </a><a class="reg-ni" href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NVXZEY1pWUGlvTHhIZVM5NE5MdVh1N1lGWXlJb2VDQzV2N25kVDJpcmtqcGc0dmhmRXpkR0VtQi1HZ1ZyLWhEeGd4RHpveDBuNVQ1azFUTm9qYktCaktoV2M5QjEwcjND?oc=5" target="_blank" rel="noopener">
-          <span class="rni-dot"></span>
-          <span class="rni-content">
-            <span class="rni-title">리플XRP ETF 자금 누적…기관 자금은 ‘조용한 확대’ 국면</span>
-            <span class="rni-src">CBC뉴스 · 05/04 15:00</span>
-          </span>
-        </a><a class="reg-ni" href="https://news.google.com/rss/articles/CBMi0wJBVV95cUxOSzMzd29XYmFvUGVqVlhjbHo5NERJbE8zdjF6a1pycnBmb3cySVozN0hrZVlnanNfdDFsbWtMeDJMRkJzeFRwaTB3MVNkYjYxT3VzTVdLcEVZQ0VQR3FheTZHTkhybDNSb0ttbEthVDlJd0U5NTIzWXMxTXNRM0U2VmR6cWFyZF9sb2VXTFVBbUVsVm9YZlFRY3FORGx0aVQzLWxTbURkVTF3NzRUdUpTT3p0X1NHRHRNeGpaSGVqcWhOTkpleXhQTnRQS0lKbl9XMTZwaHJUU1c2YzlsV3QxdDVDd2FFOVlrZkRfcURjNFlsNWpEWF9Dd1ZaU0I0b0Uxb1I0OW9yYXNkYnFvZTdIQTdVb1R1c2QzVkhFWHRiN1paNFhPZ2hNbW80OGZOal83RWtrQV9FLS1HME44UDJjY3hPTnRjODBYVDlpZ1dqczd3ZVk?oc=5" target="_blank" rel="noopener">
-          <span class="rni-dot"></span>
-          <span class="rni-content">
-            <span class="rni-title">ETF 수요 식자 바이낸스 XRP 유동성, 5년 내 최저 수준으로 급감</span>
-            <span class="rni-src">Yellow.com · 05/04 09:25</span>
-          </span>
-        </a></div>
+    <div class="etf-hdr">프로리플러를 위한 소식</div>
+    <div id="etf-list" class="pro-news-list">
+      <div class="pro-news-empty">소식을 불러오는 중입니다.</div>
+    </div>
   </div>
 
   <div class="disc">
@@ -1904,13 +1899,6 @@ setInterval(()=>{
   normalizeStaticNewsTimes();
 }, 5*60*1000);
 
-updateEtfNews();
-
-setInterval(()=>{
-  updateEtfNews();
-  normalizeStaticNewsTimes();
-}, 5*60*1000);
-
   updateXrpEtfFlow();
 
 setInterval(
@@ -1995,6 +1983,7 @@ try{
   const nextBtn = document.getElementById("next-comments");
   const pageNumbers = document.getElementById("comment-page-numbers");
   const topCommentBox = document.getElementById("top-comment-box");
+  const proNewsList = document.getElementById("etf-list");
   const targetButtons = Array.from(document.querySelectorAll(".prayer-target-btn"));
   const targetMeta = {
     "하느님": { icon:"🙏", className:"god" },
@@ -2024,6 +2013,40 @@ try{
     }catch(e){
       return "";
     }
+  }
+
+  function escapeAttr(value){
+    return escapeHtml(value).replace(/`/g,"&#096;");
+  }
+
+  async function loadProRipplerNews(){
+    if (!proNewsList) return;
+
+    const { data, error } = await supabaseClient
+      .from("pro_rippler_news")
+      .select("id,title,url,sort_order,is_active,created_at")
+      .eq("is_active", true)
+      .order("sort_order", { ascending:true })
+      .order("created_at", { ascending:false })
+      .limit(8);
+
+    if (error) {
+      console.error("프로리플러 소식 불러오기 실패:", error);
+      proNewsList.innerHTML = `<div class="pro-news-empty">소식을 불러오지 못했습니다.</div>`;
+      return;
+    }
+
+    if (!Array.isArray(data) || !data.length) {
+      proNewsList.innerHTML = `<div class="pro-news-empty">등록된 소식이 없습니다.</div>`;
+      return;
+    }
+
+    proNewsList.innerHTML = data.map(item => {
+      const title = escapeHtml(item.title || "");
+      const url = String(item.url || "").trim();
+      if (!url) return `<div class="pro-news-item">${title}</div>`;
+      return `<a class="pro-news-item" href="${escapeAttr(url)}" target="_blank" rel="noopener">${title}</a>`;
+    }).join("");
   }
 
   function selectedTargetText(){
@@ -2300,6 +2323,8 @@ try{
   }
 
   loadComments();
+  loadProRipplerNews();
+  setInterval(loadProRipplerNews, 5 * 60 * 1000);
 })();
 </script>
 
