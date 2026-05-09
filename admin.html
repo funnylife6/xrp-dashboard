@@ -7,8 +7,15 @@
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.min.js"></script>
 <style>
 body{margin:0;background:#050816;color:#fff;font-family:Arial,'Noto Sans KR',sans-serif;padding:30px}
+body.auth-locked .admin-section,body.auth-locked #logout-btn{display:none}
 h1{font-size:28px;margin:0 0 24px}
 h2{font-size:20px;margin:0;color:#00d4ff}
+.auth-card{max-width:440px;background:#070d1d;border:1px solid #1f2937;border-radius:14px;padding:22px;box-shadow:0 14px 40px rgba(0,0,0,.22)}
+.auth-card h2{margin-bottom:8px}
+.auth-desc{color:#94a3b8;font-size:13px;line-height:1.55;margin-bottom:18px}
+.auth-form{display:grid;gap:10px}
+.auth-form input{height:44px;background:#050816;border:1px solid #1f2937;border-radius:8px;color:#fff;padding:0 12px;font-size:14px}
+.auth-error{min-height:18px;color:#ef4444;font-size:12px;font-weight:800}
 .admin-section{background:#070d1d;border:1px solid #1f2937;border-radius:14px;padding:18px;margin-bottom:26px;box-shadow:0 14px 40px rgba(0,0,0,.18)}
 .section-head{display:flex;align-items:flex-end;justify-content:space-between;gap:14px;border-bottom:1px solid #1f2937;padding-bottom:14px;margin-bottom:16px}
 .section-desc{color:#64748b;font-size:12px;margin-top:6px}
@@ -32,8 +39,19 @@ h2{font-size:20px;margin:0;color:#00d4ff}
 @media(max-width:900px){.news-form{grid-template-columns:1fr}.comment-top,.news-top{align-items:flex-start;flex-direction:column}}
 </style>
 </head>
-<body>
+<body class="auth-locked">
 <h1>🛡 PRO_RIPPLER 관리자</h1>
+
+<section id="auth-section" class="auth-card">
+  <h2>관리자 로그인</h2>
+  <div class="auth-desc">Supabase 관리자 계정으로 로그인해야 관리 기능을 사용할 수 있습니다.</div>
+  <form id="auth-form" class="auth-form">
+    <input type="email" id="admin-email" placeholder="관리자 이메일" autocomplete="username" required />
+    <input type="password" id="admin-password" placeholder="비밀번호" autocomplete="current-password" required />
+    <button class="btn save-btn" type="submit">로그인</button>
+    <div id="auth-error" class="auth-error"></div>
+  </form>
+</section>
 
 <section class="admin-section">
   <div class="section-head">
@@ -93,24 +111,40 @@ h2{font-size:20px;margin:0;color:#00d4ff}
   <div id="board-reply-admin-list" class="admin-list"></div>
 </section>
 
-<button onclick="logoutAdmin()" style="position:fixed;top:20px;right:20px;z-index:9999;background:#111827;color:white;border:1px solid #1e2d42;padding:10px 16px;border-radius:8px;cursor:pointer;font-weight:700;box-shadow:0 4px 12px rgba(0,0,0,0.3)">로그아웃</button>
+<button id="logout-btn" onclick="logoutAdmin()" style="position:fixed;top:20px;right:20px;z-index:9999;background:#111827;color:white;border:1px solid #1e2d42;padding:10px 16px;border-radius:8px;cursor:pointer;font-weight:700;box-shadow:0 4px 12px rgba(0,0,0,0.3)">로그아웃</button>
 
 <script>
-const ADMIN_PASSWORD = "0922";
-
-if (sessionStorage.getItem("admin_auth") !== "ok") {
-  const input = prompt("관리자 비밀번호 입력");
-  if (input === ADMIN_PASSWORD) {
-    sessionStorage.setItem("admin_auth", "ok");
-  } else {
-    document.body.innerHTML = "<h1>Access Denied</h1>";
-    throw new Error("Unauthorized");
-  }
-}
-
 const SUPABASE_URL = "https://ofjuaamhrczddosmpcdd.supabase.co";
 const SUPABASE_KEY = "sb_publishable_DDh_lP5RbbzTXaO2wuVTtQ_u8q-uLda";
 const supabaseClient = window.supabase.createClient(SUPABASE_URL, SUPABASE_KEY);
+
+const authSection = document.getElementById("auth-section");
+const authForm = document.getElementById("auth-form");
+const authError = document.getElementById("auth-error");
+
+function showAdmin(){
+  document.body.classList.remove("auth-locked");
+  authSection.style.display = "none";
+}
+
+function showLogin(message = ""){
+  document.body.classList.add("auth-locked");
+  authSection.style.display = "block";
+  authError.textContent = message;
+}
+
+authForm.addEventListener("submit", async e => {
+  e.preventDefault();
+  authError.textContent = "";
+  const email = document.getElementById("admin-email").value.trim();
+  const password = document.getElementById("admin-password").value;
+  const { error } = await supabaseClient.auth.signInWithPassword({ email, password });
+  if (error) {
+    showLogin("로그인 정보를 확인해주세요.");
+    return;
+  }
+  await initializeAdmin();
+});
 
 function escapeHtml(value){
   return String(value || "")
@@ -425,15 +459,27 @@ async function loadBoardRepliesAdmin(){
   });
 }
 
-function logoutAdmin(){
-  sessionStorage.removeItem("admin_auth");
+async function logoutAdmin(){
+  await supabaseClient.auth.signOut();
   location.reload();
 }
 
-loadAdminComments();
-loadProNewsAdmin();
-loadBoardPostsAdmin();
-loadBoardRepliesAdmin();
+async function initializeAdmin(){
+  const { data } = await supabaseClient.auth.getSession();
+  if (!data.session) {
+    showLogin();
+    return;
+  }
+  showAdmin();
+  await Promise.all([
+    loadAdminComments(),
+    loadProNewsAdmin(),
+    loadBoardPostsAdmin(),
+    loadBoardRepliesAdmin()
+  ]);
+}
+
+initializeAdmin();
 </script>
 </body>
 </html>
