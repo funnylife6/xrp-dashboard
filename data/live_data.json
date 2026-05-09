@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-09T11:43:18",
+  "generated_at": "2026-05-09T12:59:25",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.42,
-    "price_krw": 2079.26,
-    "price_change_24h": 2.29624,
-    "price_change_7d": 2.53838,
-    "price_change_30d": 6.31796,
-    "market_cap_usd": 87897630319,
+    "price_krw": 2077.06,
+    "price_change_24h": 2.25308,
+    "price_change_7d": 2.4298,
+    "price_change_30d": 6.54109,
+    "market_cap_usd": 87808817949,
     "market_cap_rank": 4,
-    "volume_24h": 1523376017,
+    "volume_24h": 1580388874,
     "circulating_supply": 61796225236.0,
     "total_supply": 99985670046.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 87.88,
-    "sentiment_votes_down": 12.12,
+    "sentiment_votes_up": 87.63,
+    "sentiment_votes_down": 12.37,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 44.21,
-    "recent_tps": 44.21,
-    "recent_tx_count": 3979,
+    "tps_24h_avg": 21.74,
+    "recent_tps": 21.74,
+    "recent_tx_count": 1957,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104112058,
+    "ledger_seq": 104113232,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-09 11:43:12 KST",
+    "updated_at": "2026-05-09 12:59:16 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -99,6 +99,13 @@
       "score": 3
     },
     {
+      "title": "개미도 고래도 눈치만 본다… 피 말리는 횡보장 속 XRP의 잔인한 5월",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE02ekl2VTVoQ3JoUXRocGdBOUUyaHl6Z25OYzFqdlZKSVRMbzZGdEFINDlXdUlQUFl1MXBoTTBydDEyakZwUHkweS1R?oc=5",
+      "date": "Sat, 09 May 2026 08:18:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
       "title": "리플(XRP) 사? 팔아?… GPT·클로드·Grok의 엇갈린 전망",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBoYXU3V3ZjeFJ2SXFsd0ZXSlFEVWNybE1oZzhTUFBwcWcyZVpjV3FVOUNpaWNycTRmYXc4bDk2VS12Si1ZM0xVVFBkUFFCRHF4aFc0eHZIOHPSAV5BVV95cUxPbHZPZk40NnhzMzNuek1tX0pMQmZ2cWhSemZfTGg0ckMyY3phUm56NDVpd1NUQmhNdmJkSTh0VktaSTg0NXJIN3A5Qy1aR1I0b1JhTnNhTG9CbHIwWTh3?oc=5",
       "date": "Sat, 09 May 2026 00:50:11 GMT",
@@ -127,6 +134,13 @@
       "score": 3
     },
     {
+      "title": "JPMorgan, Mastercard, RLUSD로 첫 5초 만기 미국 국채 상환 처리",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNZkw2YlFLRTRiMWtFeXM4ek9xcGs1cmxoQjhDZk94OVZWVmQzN3ZhMlBvRVlVWjMwMGxHZm42UHAtU2VTdzQ3VS1FRnR5MTM1R05Jd3ZSUmduTGdfVTZmOHhaVUtvVGh1NTBveE9mUzlnaWgtZTN5cHhfSHRYVlVQVWJOUG93TEUwTm96NFQ2aVVBOC00ZlNyNzZkeGhWUlg1TTRUMnI1WlBCYmszY2UtRnp6TGVTYVdEX3RFOW4teVBYeWtYaFdPX0pLZmJmVnAxTjRETWpVczR5ZUFfdjl0UXI2NHNSSVlyT3J3WDh0YmRKR2RrOEZnai1faWFiTGtHd3ctTUtuNko?oc=5",
+      "date": "Fri, 08 May 2026 17:36:10 GMT",
+      "source": "Yellow.com",
+      "score": 1
+    },
+    {
       "title": "리플 전 CTO \"XRP 낙관 발언 꺼려진다…시장조작 오해 우려\"",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zQUxRLVRRLWh2NHFhSGd3Y1ZkMHRjRllTZDVBYnBFaHVmMHhHbGpkejF5ampRTlFEWTJhMU40dkttcnY5U1ZVdVdSYUpxUzVUeHVr?oc=5",
       "date": "Fri, 08 May 2026 05:10:00 GMT",
@@ -146,20 +160,6 @@
       "date": "Thu, 07 May 2026 09:10:00 GMT",
       "source": "핀포인트뉴스",
       "score": 3
-    },
-    {
-      "title": "리플이 JP모건과 미국 국채 장악...XRP 레저, 은행 결제망 흔들기",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE95dmdsV2NmdGdNZG5vN2hIMnczeThlRVpJVUZ0TVVIZ3ZBbXVsRDg4QU5Pb1Y1UlV3Q1ZEeUNmeDF6LXlDNnRZdnN3?oc=5",
-      "date": "Thu, 07 May 2026 06:32:00 GMT",
-      "source": "코인리더스",
-      "score": 3
-    },
-    {
-      "title": "침묵의 리플(XRP), 폭풍전야인가... '1.47달러' 돌파 시 랠리 재개 가능성",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kZ1JRQXowek1keWdQdDJlZUxJbklGOFZuUFRXR1lWRzFCRlR0V2w5OFVHT2Z0ano2aWwtLVJzanpJaDFPMnRrNG5jTXF3eGVYRXJDbzFxMlI1cFEtVFVrVmxRSks0dnhTN3pBT0dmNmY?oc=5",
-      "date": "Thu, 07 May 2026 05:07:38 GMT",
-      "source": "블록체인투데이",
-      "score": 2
     }
   ]
 }
