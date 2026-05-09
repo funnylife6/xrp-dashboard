@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-05-08T23:50:06",
+  "generated_at": "2026-05-09T02:09:21",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.42,
-    "price_krw": 2071.34,
-    "price_change_24h": 2.15117,
-    "price_change_7d": 2.04854,
-    "price_change_30d": 4.74837,
-    "market_cap_usd": 87536153246,
+    "price_usd": 1.43,
+    "price_krw": 2095.02,
+    "price_change_24h": 3.64342,
+    "price_change_7d": 3.42341,
+    "price_change_30d": 6.92667,
+    "market_cap_usd": 88555874162,
     "market_cap_rank": 4,
-    "volume_24h": 1504218771,
+    "volume_24h": 1546987409,
     "circulating_supply": 61796225236.0,
     "total_supply": 99985670046.0,
     "ath_usd": 3.65,
@@ -22,16 +22,16 @@
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 35.22,
-    "recent_tps": 35.22,
-    "recent_tx_count": 3135,
+    "tps_24h_avg": 39.24,
+    "recent_tps": 39.24,
+    "recent_tx_count": 3532,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 104101024,
+    "recent_window_sec": 90,
+    "ledger_seq": 104103180,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-08 23:49:54 KST",
+    "updated_at": "2026-05-09 02:09:15 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,9 +92,16 @@
   ],
   "general_news": [
     {
+      "title": "XRP로 벼락부자 어렵다…소액 투자자 100만달러 시나리오 '먼 꿈'",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9nLVVkS1NRR1FqV0NfLVhQakJSZVJhbHlmZHBvckZPODlxb1VtdzR1aFU1UVN0RFl0cTVyMktMVm5RcDJiR1VIZWlJX2JrcW8yR3E4OGRhZ3pyQlF1YVVBakFDTFVZYVhsNHRKMDlRMTFCQ0U?oc=5",
+      "date": "Fri, 08 May 2026 22:10:00 GMT",
+      "source": "디지털투데이",
+      "score": 2
+    },
+    {
       "title": "블랙록 “리플 ‘3경원’ 매수” 폭탄선언 “XRP 30달러 보게될 것” 파장",
-      "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxQXzg1MkpSdW01V0VQbnE1M2RGbEZKYlV5S3h3VTktb2x4ZXF4aTRrbFBvRnNpTFY1X204MURRUm5na1ROc2lUSGNqeTBTVWZYVEZZRzNkd3lNbVUxQ2xuc1loTWt6OGY3YnREUHZVdkRtQnFUbl83VkdsUDRwSlk3ZW9xb2NCYnFPelBEekozdVdpOGxYbUxTT09Mb0dDNU5XNlEtMXFDWFhXbDZQLVlFakpvbHhud3JXS2w3QjZCNS10SnctSWJrM3JQLTN6UXF5YVlsMlRlRFh4eEVXclFRcURCd2ljdE1HWWloLVY5dktYMG56T0xZZDNlYlB5MGM2VUo3czNyMWlZc192eWo3WjdIck9JOHBxekdNbEduYkNOSk5TRVVVOE5oak9VMmVoMm9KRVpwcE5yaVM1cENOd0NmRGtqeTFBT0FZSlNTWWU0WmxnVkdtQjVEb3ZxQnhsUkpvSVNXdTBqSWZENDhjOENQQlBqSE5ZN0JZbQ?oc=5",
-      "date": "Fri, 08 May 2026 21:18:15 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNNkZnaVI5S2Fndkx5MTg3MEpaSXdHTy13VG5ldW96TW50QlotbGw4LTJ4MmpUVTdYTHNQdUwtZUlfSW95ZldieVc3WWFkd2MtQkhncUF2Q05vamVHV1pVOTkwbVJTQVRWZkVtczVlZnA2cVVKWklkU045bndjVGx3QlZVaXpKbzNJdndGTnh4NVJxZTJXLVdqNjBxb3hkM09mUlBGNERFN0hRX3hPTDRQbWM2VzhyU2poSzhoRm1sUUNtaF9YZG9GbU9YblpGWE1mRWsxSmFEd3p2NTZkSVB2OHRaY25YOGw2Q2F4Y2pYWlVGTnRpT3dYNUJsVmRsQ2VlWkNRWjJZSUZaNktSYWRROXdCRFpYanlDLXF5NkNVdFcwX3pyRklBOHlCRW00WXBnNHZaV1VZTE55a09lUUhuZG1MVWJYWENMM0hseUU2STZWMk9DVnRxUkJxVS1HZV96TzRxZmxZYW4xb3lsWC0waGdKZ1RIMlQya0VPeHh3?oc=5",
+      "date": "Fri, 08 May 2026 21:13:31 GMT",
       "source": "MSN",
       "score": 2
     },
@@ -114,23 +121,9 @@
     },
     {
       "title": "리플 전 CTO \"XRP 낙관 발언 꺼려진다…시장조작 오해 우려\"",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56bnI4SHpPVDUzc2lZX01yaFVqV2t1RmV2NUx6X0pFR09kMTVMNTljUzlZWE1Ub29DOEtIZXdrWXByUi1KRDVSZmtBdm5MUnRoVDAxNGg0Rm5BT1JMMzc4VExUbnhlemc3eU5GbTg4cVA3QjQ?oc=5",
-      "date": "Fri, 08 May 2026 05:09:00 GMT",
-      "source": "디지털투데이",
-      "score": 2
-    },
-    {
-      "title": "클래리티 7월에 되면 리플떡상한다",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE01SDB4eHhxR2tSNGo5YTh5UEtvSzBTendXVFVmY1VHVFVxci1aR001SkctLUh6Mk1QbzBlZTFXSDVvNS1yTDY0NV9YcGt4UHY2Vll5REo5Z04?oc=5",
-      "date": "Fri, 08 May 2026 04:10:28 GMT",
-      "source": "코인니스",
-      "score": 9
-    },
-    {
-      "title": "XRP 20달러 시나리오…본격 상승은 '이 구간' 넘어야",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5xckZJaDEzWWdtYVNsal95VVZ4MlVtVFVMeWczdkVmR2ZVcXJYMnRXQnRTU0hvU2xFN1F0YXVYR0I0ekVURGQ5YVV5VlQ3WUJFalBJVlBQX1NaS3pkcGhtLU1NSndxaUhoUms5OW14bUtfY2s?oc=5",
-      "date": "Fri, 08 May 2026 01:55:58 GMT",
-      "source": "디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zQUxRLVRRLWh2NHFhSGd3Y1ZkMHRjRllTZDVBYnBFaHVmMHhHbGpkejF5ampRTlFEWTJhMU40dkttcnY5U1ZVdVdSYUpxUzVUeHVr?oc=5",
+      "date": "Fri, 08 May 2026 05:10:00 GMT",
+      "source": "네이트",
       "score": 2
     },
     {
@@ -160,6 +153,13 @@
       "date": "Thu, 07 May 2026 06:32:00 GMT",
       "source": "코인리더스",
       "score": 3
+    },
+    {
+      "title": "침묵의 리플(XRP), 폭풍전야인가... '1.47달러' 돌파 시 랠리 재개 가능성",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kZ1JRQXowek1keWdQdDJlZUxJbklGOFZuUFRXR1lWRzFCRlR0V2w5OFVHT2Z0ano2aWwtLVJzanpJaDFPMnRrNG5jTXF3eGVYRXJDbzFxMlI1cFEtVFVrVmxRSks0dnhTN3pBT0dmNmY?oc=5",
+      "date": "Thu, 07 May 2026 05:07:38 GMT",
+      "source": "블록체인투데이",
+      "score": 2
     }
   ]
 }
