@@ -192,25 +192,35 @@ body::before{content:'';position:fixed;inset:0;z-index:0;
   font-size:18px;
   font-weight:900;
 
-  color:#f8fafc;
+  color:#c084fc;
 
   letter-spacing:-0.8px;
   line-height:1.2;
+  text-shadow:0 0 8px rgba(192,132,252,.8),0 0 18px rgba(124,58,237,.5);
+  animation:proNewsGlow 2.4s ease-in-out infinite;
+}
+@keyframes proNewsGlow{
+  0%,100%{text-shadow:0 0 7px rgba(192,132,252,.65),0 0 16px rgba(124,58,237,.42)}
+  50%{text-shadow:0 0 14px rgba(216,180,254,.95),0 0 30px rgba(168,85,247,.72)}
 }
 .pro-news-list{display:flex;flex-direction:column}
 .pro-news-item{
-  display:block;
+  display:flex;
+  align-items:center;
+  gap:12px;
   padding:22px 26px;
   border-bottom:1px solid var(--border);
   color:#f8fafc;
   text-decoration:none;
   font-family:'Noto Sans KR',sans-serif;
-  font-size:21px;
+  font-size:18px;
   font-weight:900;
   line-height:1.45;
   letter-spacing:-0.7px;
   transition:background .15s,color .15s
 }
+.pro-news-source-icon{width:28px;height:28px;border-radius:7px;object-fit:cover;flex:0 0 auto}
+.pro-news-title{display:block;min-width:0}
 .pro-news-item:last-child{border-bottom:none}
 .pro-news-item[href]:hover{background:var(--surface);color:#fff}
 .pro-news-empty{padding:20px 26px;color:var(--muted);font-size:13px;border-bottom:1px solid var(--border)}
@@ -1990,6 +2000,18 @@ try{
     return escapeHtml(value).replace(/`/g,"&#096;");
   }
 
+  const proNewsSourceMeta = {
+    youtube: { label:"유튜브", icon:"assets/source-youtube.png" },
+    blog: { label:"네이버블로그", icon:"assets/source-blog.png" },
+    x: { label:"X", icon:"assets/source-x.png" }
+  };
+
+  function renderProNewsSourceIcon(sourceType){
+    const meta = proNewsSourceMeta[sourceType];
+    if (!meta) return "";
+    return `<img class="pro-news-source-icon" src="${escapeAttr(meta.icon)}" alt="${escapeAttr(meta.label)}" />`;
+  }
+
   function renderProRipplerNews(){
     if (!proNewsList) return;
 
@@ -2007,8 +2029,9 @@ try{
     proNewsList.innerHTML = pageItems.map(item => {
       const title = escapeHtml(item.title || "");
       const url = String(item.url || "").trim();
-      if (!url) return `<div class="pro-news-item">${title}</div>`;
-      return `<a class="pro-news-item" href="${escapeAttr(url)}" target="_blank" rel="noopener">${title}</a>`;
+      const content = `${renderProNewsSourceIcon(item.source_type)}<span class="pro-news-title">${title}</span>`;
+      if (!url) return `<div class="pro-news-item">${content}</div>`;
+      return `<a class="pro-news-item" href="${escapeAttr(url)}" target="_blank" rel="noopener">${content}</a>`;
     }).join("");
 
     if (proNewsPagination) proNewsPagination.style.display = totalPages > 1 ? "flex" : "none";
@@ -2034,12 +2057,23 @@ try{
   async function loadProRipplerNews(){
     if (!proNewsList) return;
 
-    const { data, error } = await supabaseClient
+    let { data, error } = await supabaseClient
       .from("pro_rippler_news")
-      .select("id,title,url,sort_order,is_active,created_at")
+      .select("id,title,url,source_type,sort_order,is_active,created_at")
       .eq("is_active", true)
       .order("sort_order", { ascending:true })
       .order("created_at", { ascending:false });
+
+    if (error) {
+      const fallback = await supabaseClient
+        .from("pro_rippler_news")
+        .select("id,title,url,sort_order,is_active,created_at")
+        .eq("is_active", true)
+        .order("sort_order", { ascending:true })
+        .order("created_at", { ascending:false });
+      data = fallback.data;
+      error = fallback.error;
+    }
 
     if (error) {
       console.error("프로리플러 소식 불러오기 실패:", error);

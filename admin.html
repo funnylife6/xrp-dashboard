@@ -21,9 +21,11 @@ h2{font-size:20px;margin:34px 0 14px;color:#00d4ff}
 .btn{border:none;border-radius:8px;padding:8px 14px;cursor:pointer;font-size:13px;font-weight:800;color:#fff}
 .hide-btn{background:#f59e0b}.restore-btn{background:#10b981}.delete-btn{background:#ef4444}
 .edit-btn{background:#3b82f6}.save-btn{background:#00a7e1}.cancel-btn{background:#475569}
-.news-form{display:grid;grid-template-columns:1fr 1fr 120px 120px;gap:10px;align-items:center;margin-bottom:14px}
+.news-form{display:grid;grid-template-columns:1fr 1fr 150px 120px 120px;gap:10px;align-items:center;margin-bottom:14px}
 .news-form input,.news-form select{height:42px;background:#050816;border:1px solid #1f2937;border-radius:8px;color:#fff;padding:0 12px;font-size:14px}
 .news-form button{height:42px}
+.source-pill{display:inline-flex;align-items:center;gap:7px;color:#cbd5e1;font-size:12px;font-weight:800}
+.source-pill img{width:20px;height:20px;border-radius:5px;object-fit:cover}
 .empty{padding:18px;border:1px dashed #1f2937;border-radius:10px;color:#64748b}
 @media(max-width:900px){.news-form{grid-template-columns:1fr}.comment-top,.news-top{align-items:flex-start;flex-direction:column}}
 </style>
@@ -42,6 +44,12 @@ h2{font-size:20px;margin:34px 0 14px;color:#00d4ff}
     <input type="hidden" id="news-id" />
     <input type="text" id="news-title" maxlength="120" placeholder="소식 제목" required />
     <input type="url" id="news-url" placeholder="연결 링크 https://..." />
+    <select id="news-source">
+      <option value="">플랫폼 없음</option>
+      <option value="youtube">유튜브</option>
+      <option value="blog">네이버블로그</option>
+      <option value="x">X</option>
+    </select>
     <input type="number" id="news-order" placeholder="정렬" value="0" />
     <select id="news-active">
       <option value="true">노출</option>
@@ -144,14 +152,27 @@ const newsForm = document.getElementById("pro-news-form");
 const newsId = document.getElementById("news-id");
 const newsTitle = document.getElementById("news-title");
 const newsUrl = document.getElementById("news-url");
+const newsSource = document.getElementById("news-source");
 const newsOrder = document.getElementById("news-order");
 const newsActive = document.getElementById("news-active");
 const newsList = document.getElementById("pro-news-admin-list");
+const sourceMeta = {
+  youtube: { label:"유튜브", icon:"assets/source-youtube.png" },
+  blog: { label:"네이버블로그", icon:"assets/source-blog.png" },
+  x: { label:"X", icon:"assets/source-x.png" }
+};
+
+function sourceLabel(sourceType){
+  const meta = sourceMeta[sourceType];
+  if(!meta) return "플랫폼 없음";
+  return `<span class="source-pill"><img src="${meta.icon}" alt="" />${meta.label}</span>`;
+}
 
 function resetNewsForm(){
   newsId.value = "";
   newsTitle.value = "";
   newsUrl.value = "";
+  newsSource.value = "";
   newsOrder.value = "0";
   newsActive.value = "true";
 }
@@ -181,7 +202,7 @@ async function loadProNewsAdmin(){
     item.innerHTML = `
       <div class="news-top">
         <div class="news-title">${escapeHtml(news.title)}</div>
-        <div class="meta">정렬 ${news.sort_order || 0} · ${news.is_active ? "노출" : "숨김"}</div>
+        <div class="meta">${sourceLabel(news.source_type)} · 정렬 ${news.sort_order || 0} · ${news.is_active ? "노출" : "숨김"}</div>
       </div>
       <div class="news-url">${escapeHtml(news.url || "링크 없음")}</div>
       <div class="actions">
@@ -196,6 +217,7 @@ async function loadProNewsAdmin(){
       newsId.value = news.id;
       newsTitle.value = news.title || "";
       newsUrl.value = news.url || "";
+      newsSource.value = news.source_type || "";
       newsOrder.value = news.sort_order || 0;
       newsActive.value = String(news.is_active);
       newsTitle.focus();
@@ -219,6 +241,7 @@ newsForm.addEventListener("submit", async e => {
   const payload = {
     title: newsTitle.value.trim(),
     url: newsUrl.value.trim() || null,
+    source_type: newsSource.value || null,
     sort_order: Number(newsOrder.value || 0),
     is_active: newsActive.value === "true",
     updated_at: new Date().toISOString()
