@@ -346,18 +346,27 @@ body::before{content:'';position:fixed;inset:0;z-index:0;
 @media(max-width:640px){.visitor-strip{gap:8px}.visitor-pill{padding:7px 9px}.visitor-label{font-size:9px}.visitor-value{font-size:12px}}
 
 
-/* ── One-line Community Comments ── */
+/* ── XRP Prayer Community ── */
 .community-box{
   background:var(--card);
   border:1px solid var(--border);
   border-radius:10px;
   padding:20px;
   margin:16px 0 16px;
+  box-shadow:0 14px 34px rgba(2,8,23,.18) inset;
 }
 .community-header{margin-bottom:14px;}
-.community-title{font-size:18px;font-weight:700;margin-bottom:6px;}
+.community-title{font-family:'Noto Sans KR',sans-serif;font-size:22px;font-weight:900;margin-bottom:6px;letter-spacing:-.6px;}
 .community-desc{font-size:12px;color:var(--muted);}
-.community-input-wrap{display:flex;gap:10px;margin-bottom:18px;}
+.prayer-target-label{font-size:12px;color:var(--muted);margin:16px 0 8px}
+.prayer-targets{display:grid;grid-template-columns:repeat(5,1fr);gap:10px;margin-bottom:12px}
+.prayer-target-btn{
+  height:46px;background:#0d1726;border:1px solid var(--border);border-radius:8px;color:#f8fafc;
+  cursor:pointer;font-family:'Noto Sans KR',sans-serif;font-size:17px;font-weight:800;
+  display:flex;align-items:center;justify-content:center;gap:10px;transition:border-color .18s,box-shadow .18s,background .18s
+}
+.prayer-target-btn.active{border-color:var(--accent);box-shadow:0 0 0 1px rgba(0,212,255,.35),0 0 18px rgba(0,212,255,.1);background:#0b1d31}
+.community-input-wrap{display:grid;grid-template-columns:1fr 140px;gap:10px;margin-bottom:12px;}
 #comment-input{
   flex:1;background:#0b1220;border:1px solid var(--border);color:#fff;
   padding:14px;border-radius:8px;outline:none;font-family:var(--mono);
@@ -387,6 +396,14 @@ body::before{content:'';position:fixed;inset:0;z-index:0;
   font-size:14px;
   font-weight:700;
   white-space:nowrap;
+  min-width:108px;
+  background:#0a1423;
+  border-radius:6px;
+  padding:7px 10px;
+  display:inline-flex;
+  align-items:center;
+  justify-content:flex-start;
+  gap:6px;
 }
 
 .comment-time{
@@ -398,14 +415,24 @@ body::before{content:'';position:fixed;inset:0;z-index:0;
   display:flex;
   align-items:center;
   gap:10px;
-  flex-wrap:wrap;
+  flex:1 1 auto;
+  flex-wrap:nowrap;
+  min-width:0;
 }
+.comment-targets{display:flex;align-items:center;gap:6px;flex-wrap:wrap;flex:0 0 auto}
 .comment-text{
   color:#fff;
   font-size:14px;
   line-height:1.4;
   word-break:break-word;
+  min-width:0;
 }
+.target-god{color:#00d4ff}
+.target-buddha{color:#fbbf24}
+.target-bread{color:#38bdf8}
+.target-musk{color:#22d3ee}
+.target-trump{color:#f87171}
+.comment-right{display:flex;flex-direction:column;align-items:flex-end;gap:6px;flex:0 0 auto}
 
 .comment-empty{font-size:12px;color:var(--muted);border:1px dashed var(--border);background:#0b1220;border-radius:8px;padding:12px;}
 .comment-pagination{display:flex;justify-content:center;align-items:center;gap:8px;margin-top:14px;}
@@ -420,7 +447,7 @@ body::before{content:'';position:fixed;inset:0;z-index:0;
 .comment-page-numbers button.active-page{
   border-color:#00d4ff!important;color:#00d4ff!important;background:rgba(0,212,255,.08)!important;font-weight:700;
 }
-@media(max-width:520px){.community-input-wrap{flex-direction:column}#comment-submit{height:44px}}
+@media(max-width:700px){.prayer-targets{grid-template-columns:1fr 1fr}.community-input-wrap{grid-template-columns:1fr}#comment-submit{height:44px}}
 
 .comment-actions{
   display:flex;
@@ -428,7 +455,15 @@ body::before{content:'';position:fixed;inset:0;z-index:0;
   align-items:center;
   gap:10px;
   margin-top:2px;
+  white-space:nowrap;
 }
+
+.success-rate{
+  color:#fbbf24;
+  font-size:13px;
+  font-weight:900;
+}
+.success-rate.high{color:#22c55e}
 
 .like-btn{
   background:none;
@@ -627,11 +662,9 @@ button,input,textarea,select{font:inherit;}
 
   .community-title{font-size:16px;}
   .community-desc{font-size:11px;line-height:1.5;}
-  .community-input-wrap{
-    display:flex;
-    flex-direction:column;
-    gap:8px;
-  }
+  .prayer-targets{grid-template-columns:1fr 1fr;gap:8px}
+  .prayer-target-btn{height:42px;font-size:14px}
+  .community-input-wrap{display:grid;grid-template-columns:1fr;gap:8px;}
   #comment-input{
     width:100%;
     min-height:44px;
@@ -655,13 +688,16 @@ button,input,textarea,select{font:inherit;}
     display:flex;
     align-items:center;
     gap:6px;
-    flex-wrap:nowrap;
+    flex-wrap:wrap;
     min-width:0;
   }
+  .comment-targets{gap:5px}
   .comment-nick{
     flex:0 0 auto;
     font-size:12.5px;
     white-space:nowrap;
+    min-width:88px;
+    padding:6px 8px;
   }
   .comment-text{
     flex:1 1 auto;
@@ -672,10 +708,12 @@ button,input,textarea,select{font:inherit;}
     overflow-wrap:anywhere;
   }
   .comment-time{font-size:10px;}
+  .comment-right{align-items:flex-start;width:100%;}
   .comment-actions{
     gap:6px;
     justify-content:flex-start;
     margin-top:6px;
+    flex-wrap:wrap;
   }
   .like-btn,.report-btn{font-size:11px;padding:0;}
   .comment-pagination{gap:6px;flex-wrap:wrap;}
@@ -862,13 +900,22 @@ button,input,textarea,select{font:inherit;}
 
   <div class="community-box">
     <div class="community-header">
-      <div class="community-title">💬 오늘의 한 줄 의견</div>
-      <div class="community-desc">100자 이내로 자유롭게 의견을 남겨주세요</div>
+      <div class="community-title">🙏 오늘의 XRP 기도문</div>
+      <div class="community-desc">오늘도 XRP의 발사를 간절히 기원합니다</div>
+    </div>
+
+    <div class="prayer-target-label">기도 대상 선택 (중복 선택 가능)</div>
+    <div class="prayer-targets" id="prayer-targets">
+      <button type="button" class="prayer-target-btn active" data-target="하느님">🙏 하느님</button>
+      <button type="button" class="prayer-target-btn" data-target="부처님">🧘 부처님</button>
+      <button type="button" class="prayer-target-btn" data-target="빵형">🍞 빵형</button>
+      <button type="button" class="prayer-target-btn" data-target="머스크">🚀 머스크</button>
+      <button type="button" class="prayer-target-btn" data-target="트럼프">🇺🇸 트럼프</button>
     </div>
 
     <div class="community-input-wrap">
-      <input type="text" id="comment-input" maxlength="100" placeholder="오늘의 XRP 한줄 의견을 입력하세요..." />
-      <button id="comment-submit">등록하기</button>
+      <input type="text" id="comment-input" maxlength="100" placeholder="XRP를 위해 간절히 기도하는 한 줄을 남겨주세요..." />
+      <button id="comment-submit">기도 올리기</button>
     </div>
 
     <div id="comment-list" class="comment-list"></div>
@@ -1948,6 +1995,15 @@ try{
   const nextBtn = document.getElementById("next-comments");
   const pageNumbers = document.getElementById("comment-page-numbers");
   const topCommentBox = document.getElementById("top-comment-box");
+  const targetButtons = Array.from(document.querySelectorAll(".prayer-target-btn"));
+  const targetMeta = {
+    "하느님": { icon:"🙏", className:"god" },
+    "부처님": { icon:"🧘", className:"buddha" },
+    "빵형": { icon:"🍞", className:"bread" },
+    "머스크": { icon:"🚀", className:"musk" },
+    "트럼프": { icon:"🇺🇸", className:"trump" }
+  };
+  let selectedPrayerTargets = ["하느님"];
 
   if (!window.supabase || !input || !submit || !list) return;
 
@@ -1970,6 +2026,37 @@ try{
     }
   }
 
+  function selectedTargetText(){
+    return selectedPrayerTargets.join(", ");
+  }
+
+  function normalizeTargets(value){
+    return String(value || "하느님")
+      .split(",")
+      .map(v => v.trim())
+      .filter(Boolean);
+  }
+
+  function renderTargetBadges(value){
+    return normalizeTargets(value).map(target => {
+      const meta = targetMeta[target] || { icon:"🙏", className:"god" };
+      return `<span class="comment-nick target-${meta.className}">${meta.icon} ${escapeHtml(target)}</span>`;
+    }).join("");
+  }
+
+  function prayerSeed(comment){
+    const raw = String(comment.id || comment.created_at || comment.content || "");
+    let hash = 0;
+    for (let i = 0; i < raw.length; i++) hash = (hash * 31 + raw.charCodeAt(i)) % 1000;
+    return hash;
+  }
+
+  function prayerSuccessRate(comment){
+    const base = ((prayerSeed(comment) % 28) + 4) / 10;
+    const likes = Number(comment.like_count || 0);
+    return Math.min(99.9, base + likes * 0.6).toFixed(1);
+  }
+
   function renderComments(){
     const visibleComments = allComments.filter(c => !c.is_hidden);
 
@@ -1980,7 +2067,7 @@ try{
     if (topCommentBox) {
       if (topComment && (topComment.like_count || 0) > 0) {
         topCommentBox.innerHTML = `
-          <div class="top-comment-title">🔥 추천 많은 의견</div>
+          <div class="top-comment-title">🔥 기도 성공률 높은 기도문</div>
           <div class="top-comment-content">${escapeHtml(topComment.content)}</div>
           <div class="top-comment-meta">추천 ${topComment.like_count || 0}</div>
         `;
@@ -1998,37 +2085,31 @@ try{
     const pageItems = visibleComments.slice(start, start + COMMENTS_PER_PAGE);
 
     if (!pageItems.length) {
-      list.innerHTML = `<div class="comment-empty">아직 등록된 의견이 없습니다.</div>`;
+      list.innerHTML = `<div class="comment-empty">아직 올라온 기도문이 없습니다.</div>`;
     } else {
-      list.innerHTML = pageItems.map(comment => `
-        <div class="comment-item">
-         <div class="comment-top">
-  <div class="comment-inline">
-    <span class="comment-nick">
-      ${escapeHtml(comment.nickname || "익명 홀더")}
-    </span>
+      list.innerHTML = pageItems.map(comment => {
+        const successRate = prayerSuccessRate(comment);
+        const successClass = Number(successRate) >= 10 ? " high" : "";
+        return `
+          <div class="comment-item">
+            <div class="comment-top">
+              <div class="comment-inline">
+                <div class="comment-targets">${renderTargetBadges(comment.prayer_target || comment.nickname)}</div>
+                <span class="comment-text">${escapeHtml(comment.content)}</span>
+              </div>
 
-    <span class="comment-text">
-      ${escapeHtml(comment.content)}
-    </span>
-  </div>
-
-  <div class="comment-right">
-  <div class="comment-time">
-    ${formatKst(comment.created_at)}
-  </div>
-       <div class="comment-actions">
-    <button class="like-btn" data-id="${comment.id}">
-              추천 ${comment.like_count || 0}
-            </button>
-              <button class="report-btn" data-id="${comment.id}">
-              신고
-            </button>
+              <div class="comment-right">
+                <div class="comment-time">${formatKst(comment.created_at)}</div>
+                <div class="comment-actions">
+                  <span class="success-rate${successClass}">기도 성공률 ${successRate}%</span>
+                  <button class="like-btn" data-id="${comment.id}">추천 ${comment.like_count || 0}</button>
+                  <button class="report-btn" data-id="${comment.id}">신고</button>
+                </div>
+              </div>
+            </div>
           </div>
-        </div>
-        </div>
-         </div>
-      `).join("");
+        `;
+      }).join("");
 
       bindCommentActions();
     }
@@ -2059,7 +2140,7 @@ try{
         const voteKey = `liked_${id}`;
 
         if (localStorage.getItem(voteKey)) {
-          alert("이미 추천한 의견입니다.");
+          alert("이미 추천한 기도문입니다.");
           return;
         }
 
@@ -2088,7 +2169,7 @@ try{
         const reportKey = `reported_${id}`;
 
         if (localStorage.getItem(reportKey)) {
-          alert("이미 신고한 의견입니다.");
+          alert("이미 신고한 기도문입니다.");
           return;
         }
 
@@ -2118,17 +2199,33 @@ try{
     });
   }
 
+  targetButtons.forEach(btn => {
+    btn.addEventListener("click", () => {
+      const target = btn.dataset.target;
+      if (!target) return;
+      if (selectedPrayerTargets.includes(target)) {
+        if (selectedPrayerTargets.length === 1) return;
+        selectedPrayerTargets = selectedPrayerTargets.filter(item => item !== target);
+      } else {
+        selectedPrayerTargets.push(target);
+      }
+      targetButtons.forEach(item => {
+        item.classList.toggle("active", selectedPrayerTargets.includes(item.dataset.target));
+      });
+    });
+  });
+
   async function loadComments(){
     const { data, error } = await supabaseClient
       .from("comments")
-      .select("id,nickname,content,created_at,is_hidden,like_count,report_count")
+      .select("id,nickname,content,prayer_target,created_at,is_hidden,like_count,report_count")
       .eq("is_hidden", false)
       .order("created_at", { ascending:false })
       .limit(50);
 
     if (error) {
-      console.error("댓글 불러오기 실패:", error);
-      list.innerHTML = `<div class="comment-empty">의견을 불러오지 못했습니다.</div>`;
+      console.error("기도문 불러오기 실패:", error);
+      list.innerHTML = `<div class="comment-empty">기도문을 불러오지 못했습니다.</div>`;
       return;
     }
 
@@ -2139,15 +2236,15 @@ try{
   async function addComment(){
     const content = input.value.trim();
     const today = new Date().toLocaleDateString();
-const lastWriteDate = localStorage.getItem("comment_write_date");
+    const lastWriteDate = localStorage.getItem("prayer_write_date");
 
-if (lastWriteDate === today) {
-  alert("오늘은 이미 의견을 작성했습니다.");
-  return;
-}
+    if (lastWriteDate === today) {
+      alert("오늘은 이미 기도문을 올렸습니다.");
+      return;
+    }
 
     if (!content) {
-      alert("의견을 입력해주세요.");
+      alert("기도문을 입력해주세요.");
       return;
     }
 
@@ -2167,6 +2264,7 @@ if (lastWriteDate === today) {
       .from("comments")
       .insert({
         nickname: "익명 홀더",
+        prayer_target: selectedTargetText(),
         content: content,
         like_count: 0,
         report_count: 0,
@@ -2174,11 +2272,11 @@ if (lastWriteDate === today) {
       });
 
     if (error) {
-      console.error("댓글 등록 실패:", error);
+      console.error("기도문 등록 실패:", error);
       alert("등록 실패: Supabase 테이블/권한을 확인해주세요.");
       return;
     }
-localStorage.setItem("comment_write_date", today);
+    localStorage.setItem("prayer_write_date", today);
     input.value = "";
     currentCommentPage = 1;
     await loadComments();
