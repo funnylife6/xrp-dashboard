@@ -134,6 +134,12 @@ body::before{content:'';position:fixed;inset:0;z-index:0;
 .board-modal{position:fixed;inset:0;z-index:40;display:none;align-items:center;justify-content:center;background:rgba(2,6,23,.78);padding:20px}
 .board-modal.open{display:flex}
 .board-dialog{width:min(720px,100%);max-height:88vh;overflow:auto;background:#0b1220;border:1px solid var(--border);border-radius:12px;box-shadow:0 24px 70px rgba(0,0,0,.45)}
+.support-dialog{width:min(760px,100%);background:#111827;border:1px solid var(--border);border-radius:14px;box-shadow:0 24px 70px rgba(0,0,0,.48);overflow:hidden;animation:modalRise .22s ease-out}
+.support-dialog-head{display:flex;justify-content:space-between;align-items:center;gap:12px;padding:16px 18px;border-bottom:1px solid var(--border)}
+.support-dialog-title{font-family:'Noto Sans KR',sans-serif;font-size:16px;font-weight:900;color:#f8fafc}
+.support-qr-wrap{padding:14px;background:#111827}
+.support-qr-img{display:block;width:100%;height:auto;border-radius:12px;background:#fff}
+@keyframes modalRise{from{opacity:0;transform:translateY(18px) scale(.98)}to{opacity:1;transform:translateY(0) scale(1)}}
 .board-dialog-head{display:flex;justify-content:space-between;gap:12px;align-items:flex-start;padding:20px;border-bottom:1px solid var(--border)}
 .board-dialog-title{font-family:'Noto Sans KR',sans-serif;font-size:21px;font-weight:900;color:#fff;line-height:1.35}
 .board-close{background:#111827;border:1px solid var(--border);color:#cbd5e1;border-radius:6px;padding:8px 11px;cursor:pointer}
@@ -406,6 +412,9 @@ body::before{content:'';position:fixed;inset:0;z-index:0;
 .visitor-strip{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin:-6px 0 18px}
 .pro-nav .visitor-strip{margin:0 0 0 16px;flex-wrap:nowrap;transform:translateY(1px)}
 .visitor-pill{display:flex;align-items:center;gap:8px;background:rgba(17,24,39,.72);border:1px solid var(--border);border-radius:8px;padding:8px 12px;box-shadow:0 8px 22px rgba(0,0,0,.12)}
+.support-pill{cursor:pointer;font-family:'Noto Sans KR',sans-serif;font-size:10px;font-weight:900;color:#38bdf8;letter-spacing:.04em;white-space:nowrap;animation:supportBlink 1.35s ease-in-out infinite}
+.support-pill:hover{border-color:#38bdf8;box-shadow:0 0 22px rgba(56,189,248,.22)}
+@keyframes supportBlink{0%,100%{color:#38bdf8;text-shadow:0 0 10px rgba(56,189,248,.55)}50%{color:#fff;text-shadow:0 0 12px rgba(255,255,255,.65)}}
 .visitor-ico{font-size:13px;line-height:1}
 .visitor-label{font-size:10px;color:#8aa0ba;letter-spacing:.08em;white-space:nowrap}
 .visitor-value{font-family:var(--mono);font-size:13px;font-weight:800;color:#e2e8f0;white-space:nowrap}
@@ -729,7 +738,7 @@ button,input,textarea,select{font:inherit;}
 
   .visitor-strip{
     display:grid;
-    grid-template-columns:1fr 1fr;
+    grid-template-columns:1fr;
     gap:8px;
     margin:0 0 14px;
   }
@@ -868,7 +877,8 @@ button,input,textarea,select{font:inherit;}
       <div class="visitor-strip" aria-label="방문자 카운터">
         <div class="visitor-pill"><span class="visitor-ico">👥</span><span class="visitor-label">오늘 방문자</span><span class="visitor-value" id="visitor-today">—</span></div>
         <div class="visitor-pill"><span class="visitor-ico">🌐</span><span class="visitor-label">전체 방문자</span><span class="visitor-value" id="visitor-total">—</span></div>
-       
+        <button class="visitor-pill support-pill" id="support-open" type="button">PRO_RIPPLER 운영자 커피한잔</button>
+
       </div>
     </div>
   </div>
@@ -1060,6 +1070,18 @@ button,input,textarea,select{font:inherit;}
           <input type="text" id="reply-content" maxlength="300" placeholder="댓글을 입력하세요" />
           <button id="reply-submit">댓글 등록</button>
         </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="board-modal" id="support-modal" aria-hidden="true">
+    <div class="support-dialog">
+      <div class="support-dialog-head">
+        <div class="support-dialog-title">PRO_RIPPLER 운영자 커피한잔</div>
+        <button class="board-close" id="support-close" type="button">닫기</button>
+      </div>
+      <div class="support-qr-wrap">
+        <img class="support-qr-img" src="assets/support-qr.jpg" alt="PRO_RIPPLER 운영자 커피 후원 QR 코드">
       </div>
     </div>
   </div>
@@ -2035,6 +2057,37 @@ try{
   visitorSet('visitor-total', '수집중');
   
 }
+</script>
+
+<script>
+(function(){
+  const openBtn = document.getElementById("support-open");
+  const modal = document.getElementById("support-modal");
+  const closeBtn = document.getElementById("support-close");
+
+  function openSupportModal(){
+    if (!modal) return;
+    modal.classList.add("open");
+    modal.setAttribute("aria-hidden", "false");
+  }
+
+  function closeSupportModal(){
+    if (!modal) return;
+    modal.classList.remove("open");
+    modal.setAttribute("aria-hidden", "true");
+  }
+
+  if (openBtn) openBtn.addEventListener("click", openSupportModal);
+  if (closeBtn) closeBtn.addEventListener("click", closeSupportModal);
+  if (modal) {
+    modal.addEventListener("click", e => {
+      if (e.target === modal) closeSupportModal();
+    });
+  }
+  document.addEventListener("keydown", e => {
+    if (e.key === "Escape") closeSupportModal();
+  });
+})();
 </script>
 
 
