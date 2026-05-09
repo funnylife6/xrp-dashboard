@@ -133,7 +133,7 @@ body::before{content:'';position:fixed;inset:0;z-index:0;
 .board-empty{font-size:12px;color:var(--muted);padding:18px 20px;border-bottom:1px solid var(--border)}
 .board-modal{position:fixed;inset:0;z-index:40;display:none;align-items:center;justify-content:center;background:rgba(2,6,23,.78);padding:20px}
 .board-modal.open{display:flex}
-.board-dialog{width:min(720px,100%);max-height:88vh;overflow:auto;background:#0b1220;border:1px solid var(--border);border-radius:12px;box-shadow:0 24px 70px rgba(0,0,0,.45)}
+.board-dialog{width:min(720px,100%);max-height:88vh;overflow:auto;background:#f8fafc;border:1px solid #dbe4ef;border-radius:14px;box-shadow:0 24px 70px rgba(0,0,0,.45)}
 .support-dialog{width:min(760px,100%);background:#111827;border:1px solid var(--border);border-radius:14px;box-shadow:0 24px 70px rgba(0,0,0,.48);overflow:hidden;animation:modalRise .22s ease-out}
 .support-dialog-head{display:flex;justify-content:space-between;align-items:center;gap:12px;padding:16px 18px;border-bottom:1px solid var(--border)}
 .support-dialog-copy{display:flex;align-items:center;gap:22px;min-width:0}
@@ -142,19 +142,20 @@ body::before{content:'';position:fixed;inset:0;z-index:0;
 .support-qr-wrap{padding:14px;background:#111827}
 .support-qr-img{display:block;width:100%;height:auto;border-radius:12px;background:#fff}
 @keyframes modalRise{from{opacity:0;transform:translateY(18px) scale(.98)}to{opacity:1;transform:translateY(0) scale(1)}}
-.board-dialog-head{display:flex;justify-content:space-between;gap:12px;align-items:flex-start;padding:20px;border-bottom:1px solid var(--border)}
-.board-dialog-title{font-family:'Noto Sans KR',sans-serif;font-size:21px;font-weight:900;color:#fff;line-height:1.35}
-.board-close{background:#111827;border:1px solid var(--border);color:#cbd5e1;border-radius:6px;padding:8px 11px;cursor:pointer}
+.board-dialog-head{display:flex;justify-content:space-between;gap:12px;align-items:flex-start;padding:20px;border-bottom:1px solid #dbe4ef;background:#f1f5f9}
+.board-dialog-title{font-family:'Noto Sans KR',sans-serif;font-size:21px;font-weight:900;color:#06101d;line-height:1.35}
+.board-close{background:#fff;border:1px solid #cbd5e1;color:#334155;border-radius:6px;padding:8px 11px;cursor:pointer}
+.support-dialog .board-close{background:#111827;border-color:var(--border);color:#cbd5e1}
 .board-dialog-body{padding:20px}
-.board-detail-meta{font-size:12px;color:var(--muted);margin-bottom:14px}
-.board-detail-content{font-family:'Noto Sans KR',sans-serif;font-size:15px;line-height:1.75;color:#e5e7eb;white-space:pre-wrap;border-bottom:1px solid var(--border);padding-bottom:18px;margin-bottom:16px}
-.reply-title{font-family:'Noto Sans KR',sans-serif;font-size:15px;font-weight:900;color:#00d4ff;margin-bottom:10px}
+.board-detail-meta{font-size:12px;color:#64748b;margin-bottom:14px}
+.board-detail-content{font-family:'Noto Sans KR',sans-serif;font-size:15px;line-height:1.75;color:#111827;white-space:pre-wrap;border-bottom:1px solid #dbe4ef;padding-bottom:18px;margin-bottom:16px}
+.reply-title{font-family:'Noto Sans KR',sans-serif;font-size:15px;font-weight:900;color:#0284c7;margin-bottom:10px}
 .reply-list{display:flex;flex-direction:column;gap:10px;margin-bottom:14px}
-.reply-item{background:#050816;border:1px solid var(--border);border-radius:8px;padding:11px 12px}
-.reply-meta{font-size:11px;color:var(--muted);margin-bottom:6px}
-.reply-content{font-size:13px;color:#f8fafc;line-height:1.55;white-space:pre-wrap}
+.reply-item{background:#fff;border:1px solid #dbe4ef;border-radius:8px;padding:11px 12px;box-shadow:0 8px 18px rgba(15,23,42,.04)}
+.reply-meta{font-size:11px;color:#64748b;margin-bottom:6px}
+.reply-content{font-size:13px;color:#111827;line-height:1.55;white-space:pre-wrap}
 .reply-form{display:grid;grid-template-columns:120px 1fr auto;gap:8px}
-.reply-form input{background:#050816;border:1px solid var(--border);border-radius:6px;color:#fff;padding:10px}
+.reply-form input{background:#fff;border:1px solid #cbd5e1;border-radius:6px;color:#111827;padding:10px}
 .reply-form button{background:#2563eb;border:none;color:white;border-radius:6px;padding:0 14px;font-weight:900;cursor:pointer}
 .reg-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-bottom:16px}
 @media(max-width:900px){.reg-grid{grid-template-columns:1fr}}
