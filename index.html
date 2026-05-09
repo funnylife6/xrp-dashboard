@@ -358,7 +358,6 @@ body::before{content:'';position:fixed;inset:0;z-index:0;
 .community-header{margin-bottom:14px;}
 .community-title{font-family:'Noto Sans KR',sans-serif;font-size:22px;font-weight:900;margin-bottom:6px;letter-spacing:-.6px;}
 .community-desc{font-size:12px;color:var(--muted);}
-.prayer-target-label{font-size:12px;color:var(--muted);margin:16px 0 8px}
 .prayer-targets{display:grid;grid-template-columns:repeat(5,1fr);gap:10px;margin-bottom:12px}
 .prayer-target-btn{
   height:46px;background:#0d1726;border:1px solid var(--border);border-radius:8px;color:#f8fafc;
@@ -904,7 +903,6 @@ button,input,textarea,select{font:inherit;}
       <div class="community-desc">오늘도 XRP의 발사를 간절히 기원합니다</div>
     </div>
 
-    <div class="prayer-target-label">기도 대상 선택 (중복 선택 가능)</div>
     <div class="prayer-targets" id="prayer-targets">
       <button type="button" class="prayer-target-btn active" data-target="하느님">🙏 하느님</button>
       <button type="button" class="prayer-target-btn" data-target="부처님">🧘 부처님</button>
@@ -2003,7 +2001,7 @@ try{
     "머스크": { icon:"🚀", className:"musk" },
     "트럼프": { icon:"🇺🇸", className:"trump" }
   };
-  let selectedPrayerTargets = ["하느님"];
+  let selectedPrayerTarget = "하느님";
 
   if (!window.supabase || !input || !submit || !list) return;
 
@@ -2027,7 +2025,7 @@ try{
   }
 
   function selectedTargetText(){
-    return selectedPrayerTargets.join(", ");
+    return selectedPrayerTarget;
   }
 
   function normalizeTargets(value){
@@ -2203,14 +2201,9 @@ try{
     btn.addEventListener("click", () => {
       const target = btn.dataset.target;
       if (!target) return;
-      if (selectedPrayerTargets.includes(target)) {
-        if (selectedPrayerTargets.length === 1) return;
-        selectedPrayerTargets = selectedPrayerTargets.filter(item => item !== target);
-      } else {
-        selectedPrayerTargets.push(target);
-      }
+      selectedPrayerTarget = target;
       targetButtons.forEach(item => {
-        item.classList.toggle("active", selectedPrayerTargets.includes(item.dataset.target));
+        item.classList.toggle("active", item.dataset.target === selectedPrayerTarget);
       });
     });
   });
