@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-09T19:39:33",
+  "generated_at": "2026-05-09T20:37:14",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.42,
-    "price_krw": 2079.4,
-    "price_change_24h": 0.06101,
-    "price_change_7d": 2.11413,
-    "price_change_30d": 4.6931,
-    "market_cap_usd": 87893464467,
+    "price_krw": 2076.43,
+    "price_change_24h": 0.37178,
+    "price_change_7d": 1.96858,
+    "price_change_30d": 4.72335,
+    "market_cap_usd": 87816485988,
     "market_cap_rank": 4,
-    "volume_24h": 1273954543,
+    "volume_24h": 1300915679,
     "circulating_supply": 61796225236.0,
     "total_supply": 99985670046.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 83.51,
-    "sentiment_votes_down": 16.49,
+    "sentiment_votes_up": 81.25,
+    "sentiment_votes_down": 18.75,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 34.44,
-    "recent_tps": 34.44,
-    "recent_tx_count": 3100,
+    "tps_24h_avg": 25.24,
+    "recent_tps": 25.24,
+    "recent_tx_count": 2272,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104119418,
+    "ledger_seq": 104120313,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-09 19:39:20 KST",
+    "updated_at": "2026-05-09 20:37:08 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,13 +92,6 @@
   ],
   "general_news": [
     {
-      "title": "리플, 2023년 이후 인수에 30억달러 투입…갈링하우스 CEO “XRP 생태계 강화 겨냥\"",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBsUXRVVE90ZUtOZG9Dby1BNFhHalhjOTBtb0VSalU5WUUxQmVCYWFlRWpPLUFqWkotTzJUMThPamJzZE1IS1VRMnVkT2s3WE9BYWpqcWQtMkNrZnNsTlZyUjUwQ1ZGaWo5bHdGMHBRMEJ3THM?oc=5",
-      "date": "Sat, 09 May 2026 11:12:23 GMT",
-      "source": "디지털투데이",
-      "score": 2
-    },
-    {
       "title": "“5조7000억 달러 움직였다?”…UBS, 리플XRP ETF 담았다는 소식에 시장 촉각",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pZ2k5WUdHV0I1RWFDQkk3a3FtcWE4X192VUJ5clpIcllqY2JQRzNIckhQazhXRHBTU0ExbGN0Z0dxYzZCSmxaaTdka1BXVVBiaDM3NTk4RGltdUNrVGJzb29nRkZDVEJU?oc=5",
       "date": "Sat, 09 May 2026 08:25:00 GMT",
@@ -113,10 +106,10 @@
       "score": 8
     },
     {
-      "title": "리플 CEO \"리플의 모든 인수합병은 XRP 유용성 증진이 최우선\"",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUWYteXluSTkwWW1SR2sxcVNTOWtObHdxVUJxaEhfUnJ5QlhQMXBoaDNYSTVCOGF2LW50Z0toZjhRLTIyckhJbWZyRmVHSnFYYUkxNDdrV3pIbTIwbnZaTmp0cnJjaWpvb3R0MnJiNGRJemxLazJ0aXhDbkg1LXhlc2NacHVZNEwx?oc=5",
-      "date": "Sat, 09 May 2026 04:48:58 GMT",
-      "source": "글로벌이코노믹",
+      "title": "리플(XRP) 사? 팔아?… GPT·클로드·Grok의 엇갈린 전망",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBoYXU3V3ZjeFJ2SXFsd0ZXSlFEVWNybE1oZzhTUFBwcWcyZVpjV3FVOUNpaWNycTRmYXc4bDk2VS12Si1ZM0xVVFBkUFFCRHF4aFc0eHZIOHPSAV5BVV95cUxPbHZPZk40NnhzMzNuek1tX0pMQmZ2cWhSemZfTGg0ckMyY3phUm56NDVpd1NUQmhNdmJkSTh0VktaSTg0NXJIN3A5Qy1aR1I0b1JhTnNhTG9CbHIwWTh3?oc=5",
+      "date": "Sat, 09 May 2026 00:50:11 GMT",
+      "source": "tokenpost.kr",
       "score": 2
     },
     {
@@ -124,6 +117,13 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9nLVVkS1NRR1FqV0NfLVhQakJSZVJhbHlmZHBvckZPODlxb1VtdzR1aFU1UVN0RFl0cTVyMktMVm5RcDJiR1VIZWlJX2JrcW8yR3E4OGRhZ3pyQlF1YVVBakFDTFVZYVhsNHRKMDlRMTFCQ0U?oc=5",
       "date": "Fri, 08 May 2026 22:10:00 GMT",
       "source": "디지털투데이",
+      "score": 2
+    },
+    {
+      "title": "블랙록 “리플 ‘3경원’ 매수” 폭탄선언 “XRP 30달러 보게될 것” 파장",
+      "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxQXzg1MkpSdW01V0VQbnE1M2RGbEZKYlV5S3h3VTktb2x4ZXF4aTRrbFBvRnNpTFY1X204MURRUm5na1ROc2lUSGNqeTBTVWZYVEZZRzNkd3lNbVUxQ2xuc1loTWt6OGY3YnREUHZVdkRtQnFUbl83VkdsUDRwSlk3ZW9xb2NCYnFPelBEekozdVdpOGxYbUxTT09Mb0dDNU5XNlEtMXFDWFhXbDZQLVlFakpvbHhud3JXS2w3QjZCNS10SnctSWJrM3JQLTN6UXF5YVlsMlRlRFh4eEVXclFRcURCd2ljdE1HWWloLVY5dktYMG56T0xZZDNlYlB5MGM2VUo3czNyMWlZc192eWo3WjdIck9JOHBxekdNbEduYkNOSk5TRVVVOE5oak9VMmVoMm9KRVpwcE5yaVM1cENOd0NmRGtqeTFBT0FZSlNTWWU0WmxnVkdtQjVEb3ZxQnhsUkpvSVNXdTBqSWZENDhjOENQQlBqSE5ZN0JZbQ?oc=5",
+      "date": "Fri, 08 May 2026 21:18:09 GMT",
+      "source": "MSN",
       "score": 2
     },
     {
