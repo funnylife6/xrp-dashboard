@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-09T16:28:39",
+  "generated_at": "2026-05-09T17:29:11",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.42,
-    "price_krw": 2074.0,
-    "price_change_24h": 1.6839,
-    "price_change_7d": 1.9382,
-    "price_change_30d": 6.49202,
-    "market_cap_usd": 87659624623,
+    "price_krw": 2078.23,
+    "price_change_24h": 1.58308,
+    "price_change_7d": 2.06409,
+    "price_change_30d": 5.01389,
+    "market_cap_usd": 87834957574,
     "market_cap_rank": 4,
-    "volume_24h": 1515362171,
+    "volume_24h": 1425682123,
     "circulating_supply": 61796225236.0,
     "total_supply": 99985670046.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 86.67,
-    "sentiment_votes_down": 13.33,
+    "sentiment_votes_up": 86.21,
+    "sentiment_votes_down": 13.79,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 25.93,
-    "recent_tps": 25.93,
-    "recent_tx_count": 2308,
+    "tps_24h_avg": 40.91,
+    "recent_tps": 40.91,
+    "recent_tx_count": 3682,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 104116466,
+    "recent_window_sec": 90,
+    "ledger_seq": 104117402,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-09 16:28:27 KST",
+    "updated_at": "2026-05-09 17:28:57 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -49,7 +49,7 @@
   "etf_news": [
     {
       "title": "“5조7000억 달러 움직였다?”…UBS, 리플XRP ETF 담았다는 소식에 시장 촉각",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pZ2k5WUdHV0I1RWFDQkk3a3FtcWE4X192VUJ5clpIcllqY2JQRzNIckhQazhXRHBTU0ExbGN0Z0dxYzZCSmxaaTdka1BXVVBiaDM3NTk4RGltdUNrVGJzb29nRkZDVEJU?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9tandvN1BJUEUxOFpLTFJEWHJLaVF6WWc1QnpFYVFZSUZUNmxSUDBYdmtVQ29DZXZ2dHlEVW0xel9NNXpyQnhvMjNiVWw3Z1RlcDRkNEprLTg2OXhaTUVkQ1ZVNA?oc=5",
       "date": "Sat, 09 May 2026 08:25:00 GMT",
       "source": "CBC뉴스",
       "score": 0
@@ -93,17 +93,10 @@
   "general_news": [
     {
       "title": "“5조7000억 달러 움직였다?”…UBS, 리플XRP ETF 담았다는 소식에 시장 촉각",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pZ2k5WUdHV0I1RWFDQkk3a3FtcWE4X192VUJ5clpIcllqY2JQRzNIckhQazhXRHBTU0ExbGN0Z0dxYzZCSmxaaTdka1BXVVBiaDM3NTk4RGltdUNrVGJzb29nRkZDVEJU?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9tandvN1BJUEUxOFpLTFJEWHJLaVF6WWc1QnpFYVFZSUZUNmxSUDBYdmtVQ29DZXZ2dHlEVW0xel9NNXpyQnhvMjNiVWw3Z1RlcDRkNEprLTg2OXhaTUVkQ1ZVNA?oc=5",
       "date": "Sat, 09 May 2026 08:25:00 GMT",
       "source": "CBC뉴스",
       "score": 3
-    },
-    {
-      "title": "개미도 고래도 눈치만 본다… 피 말리는 횡보장 속 XRP의 잔인한 5월",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE02ekl2VTVoQ3JoUXRocGdBOUUyaHl6Z25OYzFqdlZKSVRMbzZGdEFINDlXdUlQUFl1MXBoTTBydDEyakZwUHkweS1R?oc=5",
-      "date": "Sat, 09 May 2026 08:18:00 GMT",
-      "source": "코인리더스",
-      "score": 2
     },
     {
       "title": "xrp 목표가",
@@ -111,13 +104,6 @@
       "date": "Sat, 09 May 2026 05:15:05 GMT",
       "source": "코인니스",
       "score": 8
-    },
-    {
-      "title": "리플(XRP) 사? 팔아?… GPT·클로드·Grok의 엇갈린 전망",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBoYXU3V3ZjeFJ2SXFsd0ZXSlFEVWNybE1oZzhTUFBwcWcyZVpjV3FVOUNpaWNycTRmYXc4bDk2VS12Si1ZM0xVVFBkUFFCRHF4aFc0eHZIOHPSAV5BVV95cUxPbHZPZk40NnhzMzNuek1tX0pMQmZ2cWhSemZfTGg0ckMyY3phUm56NDVpd1NUQmhNdmJkSTh0VktaSTg0NXJIN3A5Qy1aR1I0b1JhTnNhTG9CbHIwWTh3?oc=5",
-      "date": "Sat, 09 May 2026 00:50:11 GMT",
-      "source": "tokenpost.kr",
-      "score": 2
     },
     {
       "title": "XRP로 벼락부자 어렵다…소액 투자자 100만달러 시나리오 '먼 꿈'",
@@ -148,6 +134,13 @@
       "score": 1
     },
     {
+      "title": "“5초 만에 국채 상환 끝”… 온도·JP모건·리플이 연 ‘365/24시간 결제’ 시대",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KeWE4bGtFdndtMGU2UzA3ZnRSc0NWWkc1U3RSck03UERsOUFDS3ZzdTEteEpWSC1lTHRCbFBSYkpHZ0xDUlZrUDZnRS1jWjZq?oc=5",
+      "date": "Fri, 08 May 2026 06:06:00 GMT",
+      "source": "블록미디어",
+      "score": 2
+    },
+    {
       "title": "리플 전 CTO \"XRP 낙관 발언 꺼려진다…시장조작 오해 우려\"",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zQUxRLVRRLWh2NHFhSGd3Y1ZkMHRjRllTZDVBYnBFaHVmMHhHbGpkejF5ampRTlFEWTJhMU40dkttcnY5U1ZVdVdSYUpxUzVUeHVr?oc=5",
       "date": "Fri, 08 May 2026 05:10:00 GMT",
@@ -159,6 +152,13 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBaUkJESy1yQU5VaWtnNHdGVEcxRG0xWkhTYUpVZjhGeHY3bmVWRExZT0FCNHpCNVo4SEE2dkxZdjNLM0I5bHkzTk5teUctM3I1ekZfTHl5MG9RaWZBdDNkaWFWNG5oam90QXdqbXJhRS1FUQ?oc=5",
       "date": "Thu, 07 May 2026 22:07:03 GMT",
       "source": "톱스타뉴스",
+      "score": 2
+    },
+    {
+      "title": "XRP, '바닥' 찍고 대형 돌파 준비?… 분석가 \"대부분이 놓치고 있는 기회“",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbHdNdVlDNEJRWnlYTmRwT2RnM0NSeFpOQUFRdnRfbXh0ZWVHd1RjRW82MHlFZDQzeHBOakJFZ1dNT01NZXQ3ZEFaOTBiRFRVM2p0bi1OZGNRZGNINEhia2JiSnFqUHlQQmtRYzhQQjM5ZS1UNE52d3d6bjA4TklRYk1NaGQ4bzFB?oc=5",
+      "date": "Thu, 07 May 2026 20:51:37 GMT",
+      "source": "글로벌이코노믹",
       "score": 2
     }
   ]
