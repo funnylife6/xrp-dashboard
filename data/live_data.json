@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-09T17:29:11",
+  "generated_at": "2026-05-09T18:13:58",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.42,
-    "price_krw": 2078.23,
-    "price_change_24h": 1.58308,
-    "price_change_7d": 2.06409,
-    "price_change_30d": 5.01389,
-    "market_cap_usd": 87834957574,
+    "price_krw": 2078.07,
+    "price_change_24h": 0.58703,
+    "price_change_7d": 2.16416,
+    "price_change_30d": 5.17836,
+    "market_cap_usd": 87853035229,
     "market_cap_rank": 4,
-    "volume_24h": 1425682123,
+    "volume_24h": 1376433549,
     "circulating_supply": 61796225236.0,
     "total_supply": 99985670046.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 86.21,
-    "sentiment_votes_down": 13.79,
+    "sentiment_votes_up": 84.85,
+    "sentiment_votes_down": 15.15,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 40.91,
-    "recent_tps": 40.91,
-    "recent_tx_count": 3682,
+    "tps_24h_avg": 49.09,
+    "recent_tps": 49.09,
+    "recent_tx_count": 4418,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104117402,
+    "ledger_seq": 104118095,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-09 17:28:57 KST",
+    "updated_at": "2026-05-09 18:13:43 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -49,7 +49,7 @@
   "etf_news": [
     {
       "title": "“5조7000억 달러 움직였다?”…UBS, 리플XRP ETF 담았다는 소식에 시장 촉각",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9tandvN1BJUEUxOFpLTFJEWHJLaVF6WWc1QnpFYVFZSUZUNmxSUDBYdmtVQ29DZXZ2dHlEVW0xel9NNXpyQnhvMjNiVWw3Z1RlcDRkNEprLTg2OXhaTUVkQ1ZVNA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pZ2k5WUdHV0I1RWFDQkk3a3FtcWE4X192VUJ5clpIcllqY2JQRzNIckhQazhXRHBTU0ExbGN0Z0dxYzZCSmxaaTdka1BXVVBiaDM3NTk4RGltdUNrVGJzb29nRkZDVEJU?oc=5",
       "date": "Sat, 09 May 2026 08:25:00 GMT",
       "source": "CBC뉴스",
       "score": 0
@@ -93,7 +93,7 @@
   "general_news": [
     {
       "title": "“5조7000억 달러 움직였다?”…UBS, 리플XRP ETF 담았다는 소식에 시장 촉각",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9tandvN1BJUEUxOFpLTFJEWHJLaVF6WWc1QnpFYVFZSUZUNmxSUDBYdmtVQ29DZXZ2dHlEVW0xel9NNXpyQnhvMjNiVWw3Z1RlcDRkNEprLTg2OXhaTUVkQ1ZVNA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pZ2k5WUdHV0I1RWFDQkk3a3FtcWE4X192VUJ5clpIcllqY2JQRzNIckhQazhXRHBTU0ExbGN0Z0dxYzZCSmxaaTdka1BXVVBiaDM3NTk4RGltdUNrVGJzb29nRkZDVEJU?oc=5",
       "date": "Sat, 09 May 2026 08:25:00 GMT",
       "source": "CBC뉴스",
       "score": 3
