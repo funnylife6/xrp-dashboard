@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-09T21:37:09",
+  "generated_at": "2026-05-09T22:35:47",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.42,
-    "price_krw": 2078.16,
-    "price_change_24h": 0.33142,
-    "price_change_7d": 2.02975,
-    "price_change_30d": 4.84799,
-    "market_cap_usd": 87843043972,
+    "price_krw": 2078.69,
+    "price_change_24h": 0.18908,
+    "price_change_7d": 2.05594,
+    "price_change_30d": 5.05752,
+    "market_cap_usd": 87869436801,
     "market_cap_rank": 4,
-    "volume_24h": 1163436794,
+    "volume_24h": 1171579165,
     "circulating_supply": 61796225236.0,
     "total_supply": 99985670046.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 83.0,
-    "sentiment_votes_down": 17.0,
+    "sentiment_votes_up": 80.41,
+    "sentiment_votes_down": 19.59,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 20.46,
-    "recent_tps": 20.46,
-    "recent_tx_count": 1841,
+    "tps_24h_avg": 26.17,
+    "recent_tps": 26.17,
+    "recent_tx_count": 2355,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104121237,
+    "ledger_seq": 104122146,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-09 21:36:54 KST",
+    "updated_at": "2026-05-09 22:35:41 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -53,6 +53,13 @@
       "date": "Sat, 09 May 2026 08:25:00 GMT",
       "source": "CBC뉴스",
       "score": 0
+    },
+    {
+      "title": "비트코인 제쳤다…ETF 시장이 XRP(리플)로 뒤집혔다",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5aY0toWUI0VDBhZmpFb0V4RlNQelFrdmJpYkhHWTZyYkZpXzIxbVpValROaExXVEdRT19jWGg3NkMtd1o3U2tQb2hB?oc=5",
+      "date": "Fri, 08 May 2026 08:17:25 GMT",
+      "source": "서울경제",
+      "score": 5
     },
     {
       "title": "ETF 자금 몰리는데 왜 XRP만 멈췄나…리플의 이상한 정체는?",
@@ -80,13 +87,6 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pVDltbktjR0FwQ3dxd1hCZjFuZGpqV3FWUnZVZm9TUV92bXRNVHhCUWtpZVAtamFObTZRa1BtUE1Fbm9MdmhqY0ptVlBabHcta0VieWx2VmhvdUdiM3pBSTNuWTJ4d0YyUkZOVDdZOFU2OWs?oc=5",
       "date": "Thu, 30 Apr 2026 07:00:00 GMT",
       "source": "디지털투데이",
-      "score": 0
-    },
-    {
-      "title": "미국 XRP 현물 ETF는 하루 만에 총 359만 1400달러의 순유입을 기록했습니다.",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jUWF1b0lQX3NTaHdBMXNzRUdiTWczZjBIcEF2djNOSzE4d0ZsUHZuSzhJTU81cWRnaVdJRUl2bEp5Y01CRUNHOVNCNjZGV0M4d3hySEZSdUpMNG9yRGR5T1NPb0c4MzhHQmpyOHZKcXk3U2VPSmxhWW1tY3ktX0E?oc=5",
-      "date": "Thu, 30 Apr 2026 07:00:00 GMT",
-      "source": "PANews",
       "score": 0
     }
   ],
@@ -141,6 +141,13 @@
       "score": 1
     },
     {
+      "title": "비트코인 제쳤다…ETF 시장이 XRP(리플)로 뒤집혔다",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5aY0toWUI0VDBhZmpFb0V4RlNQelFrdmJpYkhHWTZyYkZpXzIxbVpValROaExXVEdRT19jWGg3NkMtd1o3U2tQb2hB?oc=5",
+      "date": "Fri, 08 May 2026 08:17:25 GMT",
+      "source": "서울경제",
+      "score": 10
+    },
+    {
       "title": "“5초 만에 국채 상환 끝”… 온도·JP모건·리플이 연 ‘365/24시간 결제’ 시대",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KeWE4bGtFdndtMGU2UzA3ZnRSc0NWWkc1U3RSck03UERsOUFDS3ZzdTEteEpWSC1lTHRCbFBSYkpHZ0xDUlZrUDZnRS1jWjZq?oc=5",
       "date": "Fri, 08 May 2026 06:06:00 GMT",
@@ -152,13 +159,6 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zQUxRLVRRLWh2NHFhSGd3Y1ZkMHRjRllTZDVBYnBFaHVmMHhHbGpkejF5ampRTlFEWTJhMU40dkttcnY5U1ZVdVdSYUpxUzVUeHVr?oc=5",
       "date": "Fri, 08 May 2026 05:10:00 GMT",
       "source": "네이트",
-      "score": 2
-    },
-    {
-      "title": "XRP, '바닥' 찍고 대형 돌파 준비?… 분석가 \"대부분이 놓치고 있는 기회“",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbHdNdVlDNEJRWnlYTmRwT2RnM0NSeFpOQUFRdnRfbXh0ZWVHd1RjRW82MHlFZDQzeHBOakJFZ1dNT01NZXQ3ZEFaOTBiRFRVM2p0bi1OZGNRZGNINEhia2JiSnFqUHlQQmtRYzhQQjM5ZS1UNE52d3d6bjA4TklRYk1NaGQ4bzFB?oc=5",
-      "date": "Thu, 07 May 2026 20:51:37 GMT",
-      "source": "글로벌이코노믹",
       "score": 2
     }
   ]
