@@ -1010,12 +1010,12 @@ button,input,textarea,select{font:inherit;}
   <!-- ② 커뮤니티 / 뉴스 -->
   <div class="news-box">
     <div class="board-tabs">
-      <button class="board-tab-btn active" data-board-tab="fundamental">📰 프로리플러 펀더멘탈</button>
-      <button class="board-tab-btn" data-board-tab="news">📰 국내 XRP / 리플 최신 뉴스</button>
+      <button class="board-tab-btn active" data-board-tab="news">📰 국내 XRP / 리플 최신 뉴스</button>
+      <button class="board-tab-btn" data-board-tab="fundamental">📰 프로리플러 펀더멘탈</button>
       <span class="news-meta board-tab-spacer"><span class="dot"></span><span id="news-updated">최신순 · 갱신 중...</span></span>
     </div>
 
-    <div class="board-pane active" id="board-pane-fundamental">
+    <div class="board-pane" id="board-pane-fundamental">
       <div class="board-write">
         <button class="board-write-toggle" id="board-write-toggle">글쓰기</button>
         <div class="board-form" id="board-form">
@@ -1035,7 +1035,7 @@ button,input,textarea,select{font:inherit;}
       </div>
     </div>
 
-    <div class="board-pane" id="board-pane-news">
+    <div class="board-pane active" id="board-pane-news">
       <div id="gen-list">
         <div class="no-data">뉴스를 불러오는 중입니다.</div>
       </div>
@@ -1137,7 +1137,7 @@ button,input,textarea,select{font:inherit;}
     </div>
     <div class="reg-card">
       <div class="reg-card-hdr">
-        <span class="reg-title">SEC / CFTC 동향</span>
+        <span class="reg-title">SEC / CFTC</span>
         <span class="status-badge" style="background:#10b98120;color:#10b981;border:1px solid #10b98140">XRP 상품 확인</span>
       </div>
       <div class="reg-body">
