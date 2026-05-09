@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-09T18:13:58",
+  "generated_at": "2026-05-09T19:39:33",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.42,
-    "price_krw": 2078.07,
-    "price_change_24h": 0.58703,
-    "price_change_7d": 2.16416,
-    "price_change_30d": 5.17836,
-    "market_cap_usd": 87853035229,
+    "price_krw": 2079.4,
+    "price_change_24h": 0.06101,
+    "price_change_7d": 2.11413,
+    "price_change_30d": 4.6931,
+    "market_cap_usd": 87893464467,
     "market_cap_rank": 4,
-    "volume_24h": 1376433549,
+    "volume_24h": 1273954543,
     "circulating_supply": 61796225236.0,
     "total_supply": 99985670046.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 84.85,
-    "sentiment_votes_down": 15.15,
+    "sentiment_votes_up": 83.51,
+    "sentiment_votes_down": 16.49,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 49.09,
-    "recent_tps": 49.09,
-    "recent_tx_count": 4418,
+    "tps_24h_avg": 34.44,
+    "recent_tps": 34.44,
+    "recent_tx_count": 3100,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104118095,
+    "ledger_seq": 104119418,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-09 18:13:43 KST",
+    "updated_at": "2026-05-09 19:39:20 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,6 +92,13 @@
   ],
   "general_news": [
     {
+      "title": "리플, 2023년 이후 인수에 30억달러 투입…갈링하우스 CEO “XRP 생태계 강화 겨냥\"",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBsUXRVVE90ZUtOZG9Dby1BNFhHalhjOTBtb0VSalU5WUUxQmVCYWFlRWpPLUFqWkotTzJUMThPamJzZE1IS1VRMnVkT2s3WE9BYWpqcWQtMkNrZnNsTlZyUjUwQ1ZGaWo5bHdGMHBRMEJ3THM?oc=5",
+      "date": "Sat, 09 May 2026 11:12:23 GMT",
+      "source": "디지털투데이",
+      "score": 2
+    },
+    {
       "title": "“5조7000억 달러 움직였다?”…UBS, 리플XRP ETF 담았다는 소식에 시장 촉각",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pZ2k5WUdHV0I1RWFDQkk3a3FtcWE4X192VUJ5clpIcllqY2JQRzNIckhQazhXRHBTU0ExbGN0Z0dxYzZCSmxaaTdka1BXVVBiaDM3NTk4RGltdUNrVGJzb29nRkZDVEJU?oc=5",
       "date": "Sat, 09 May 2026 08:25:00 GMT",
@@ -106,6 +113,13 @@
       "score": 8
     },
     {
+      "title": "리플 CEO \"리플의 모든 인수합병은 XRP 유용성 증진이 최우선\"",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUWYteXluSTkwWW1SR2sxcVNTOWtObHdxVUJxaEhfUnJ5QlhQMXBoaDNYSTVCOGF2LW50Z0toZjhRLTIyckhJbWZyRmVHSnFYYUkxNDdrV3pIbTIwbnZaTmp0cnJjaWpvb3R0MnJiNGRJemxLazJ0aXhDbkg1LXhlc2NacHVZNEwx?oc=5",
+      "date": "Sat, 09 May 2026 04:48:58 GMT",
+      "source": "글로벌이코노믹",
+      "score": 2
+    },
+    {
       "title": "XRP로 벼락부자 어렵다…소액 투자자 100만달러 시나리오 '먼 꿈'",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9nLVVkS1NRR1FqV0NfLVhQakJSZVJhbHlmZHBvckZPODlxb1VtdzR1aFU1UVN0RFl0cTVyMktMVm5RcDJiR1VIZWlJX2JrcW8yR3E4OGRhZ3pyQlF1YVVBakFDTFVZYVhsNHRKMDlRMTFCQ0U?oc=5",
       "date": "Fri, 08 May 2026 22:10:00 GMT",
@@ -113,16 +127,9 @@
       "score": 2
     },
     {
-      "title": "블랙록 “리플 ‘3경원’ 매수” 폭탄선언 “XRP 30달러 보게될 것” 파장",
-      "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxQXzg1MkpSdW01V0VQbnE1M2RGbEZKYlV5S3h3VTktb2x4ZXF4aTRrbFBvRnNpTFY1X204MURRUm5na1ROc2lUSGNqeTBTVWZYVEZZRzNkd3lNbVUxQ2xuc1loTWt6OGY3YnREUHZVdkRtQnFUbl83VkdsUDRwSlk3ZW9xb2NCYnFPelBEekozdVdpOGxYbUxTT09Mb0dDNU5XNlEtMXFDWFhXbDZQLVlFakpvbHhud3JXS2w3QjZCNS10SnctSWJrM3JQLTN6UXF5YVlsMlRlRFh4eEVXclFRcURCd2ljdE1HWWloLVY5dktYMG56T0xZZDNlYlB5MGM2VUo3czNyMWlZc192eWo3WjdIck9JOHBxekdNbEduYkNOSk5TRVVVOE5oak9VMmVoMm9KRVpwcE5yaVM1cENOd0NmRGtqeTFBT0FZSlNTWWU0WmxnVkdtQjVEb3ZxQnhsUkpvSVNXdTBqSWZENDhjOENQQlBqSE5ZN0JZbQ?oc=5",
-      "date": "Fri, 08 May 2026 21:18:09 GMT",
-      "source": "MSN",
-      "score": 2
-    },
-    {
       "title": "XRP 다음 카드는 RLUSD…리플의 스테이블코인 승부수",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ON0daM1VNUms0bkJ5NjdvQlFSTGRleXYwV0hYU3Z2UzBiY3pUT2ZBMlRteGRYNjV2MVI4dXBZb2sySTl3TVhkbWE1Z0dvOEdjM2YwdlliRkZneU9hUTVaUHNRM0VLVW5PSnRLWmw1X01vb3EyX2Zj0gF3QVVfeXFMTU43R1ozVU1SazRuQnk2N29CUVJMZGV5djBXSFhTdnZTMGJjelRPZkEyVG14ZFg2NXYxUjh1cFlvazJJOXdNWGRtYTVnR284R2MzZjB2WWJGRmd5T2FRNVpQc1EzRUtVbk9KdEtabDVfTW9vcTJfZmM?oc=5",
-      "date": "Fri, 08 May 2026 20:45:34 GMT",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE14V1BncGhyek8tdDExWlJvY29BSlNGMTV4QmtQNGhkNWxEejRzVFh2akJCSHc5SWR2UGcxdzQ2YTRUQkg2dWpTTVdHSDNYeDNqaEQwd0J1OHJBNDA0Yk5ic3R5MkpLM29qU3hOOXdvVEwzY3PSAXdBVV95cUxNTjdHWjNVTVJrNG5CeTY3b0JRUkxkZXl2MFdIWFN2dlMwYmN6VE9mQTJUbXhkWDY1djFSOHVwWW9rMkk5d01YZG1hNWdHbzhHYzNmMHZZYkZGZ3lPYVE1WlBzUTNFS1VuT0p0S1psNV9Nb29xMl9mYw?oc=5",
+      "date": "Fri, 08 May 2026 20:41:32 GMT",
       "source": "핀포인트뉴스",
       "score": 3
     },
@@ -145,13 +152,6 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zQUxRLVRRLWh2NHFhSGd3Y1ZkMHRjRllTZDVBYnBFaHVmMHhHbGpkejF5ampRTlFEWTJhMU40dkttcnY5U1ZVdVdSYUpxUzVUeHVr?oc=5",
       "date": "Fri, 08 May 2026 05:10:00 GMT",
       "source": "네이트",
-      "score": 2
-    },
-    {
-      "title": "비쓰리·비트코인·리플XRP 하락…중동 협상 불안에 코인시장 ‘관망 장세’",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBaUkJESy1yQU5VaWtnNHdGVEcxRG0xWkhTYUpVZjhGeHY3bmVWRExZT0FCNHpCNVo4SEE2dkxZdjNLM0I5bHkzTk5teUctM3I1ekZfTHl5MG9RaWZBdDNkaWFWNG5oam90QXdqbXJhRS1FUQ?oc=5",
-      "date": "Thu, 07 May 2026 22:07:03 GMT",
-      "source": "톱스타뉴스",
       "score": 2
     },
     {
