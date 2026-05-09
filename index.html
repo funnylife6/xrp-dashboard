@@ -365,6 +365,8 @@ body::before{content:'';position:fixed;inset:0;z-index:0;
   display:flex;align-items:center;justify-content:center;gap:10px;transition:border-color .18s,box-shadow .18s,background .18s
 }
 .prayer-target-btn.active{border-color:var(--accent);box-shadow:0 0 0 1px rgba(0,212,255,.35),0 0 18px rgba(0,212,255,.1);background:#0b1d31}
+.target-photo{width:22px;height:22px;border-radius:50%;object-fit:cover;display:inline-block;flex:0 0 auto}
+.comment-nick .target-photo{width:20px;height:20px}
 .community-input-wrap{display:grid;grid-template-columns:1fr 140px;gap:10px;margin-bottom:12px;}
 #comment-input{
   flex:1;background:#0b1220;border:1px solid var(--border);color:#fff;
@@ -906,9 +908,9 @@ button,input,textarea,select{font:inherit;}
     <div class="prayer-targets" id="prayer-targets">
       <button type="button" class="prayer-target-btn active" data-target="하느님">🙏 하느님</button>
       <button type="button" class="prayer-target-btn" data-target="부처님">🧘 부처님</button>
-      <button type="button" class="prayer-target-btn" data-target="빵형">🍞 빵형</button>
-      <button type="button" class="prayer-target-btn" data-target="머스크">🚀 머스크</button>
-      <button type="button" class="prayer-target-btn" data-target="트럼프">🇺🇸 트럼프</button>
+      <button type="button" class="prayer-target-btn" data-target="빵형"><img class="target-photo" src="assets/bread.png" alt="" /> 빵형</button>
+      <button type="button" class="prayer-target-btn" data-target="머스크"><img class="target-photo" src="assets/musk.png" alt="" /> 머스크</button>
+      <button type="button" class="prayer-target-btn" data-target="트럼프"><img class="target-photo" src="assets/trump.png" alt="" /> 트럼프</button>
     </div>
 
     <div class="community-input-wrap">
@@ -1997,9 +1999,9 @@ try{
   const targetMeta = {
     "하느님": { icon:"🙏", className:"god" },
     "부처님": { icon:"🧘", className:"buddha" },
-    "빵형": { icon:"🍞", className:"bread" },
-    "머스크": { icon:"🚀", className:"musk" },
-    "트럼프": { icon:"🇺🇸", className:"trump" }
+    "빵형": { image:"assets/bread.png", className:"bread" },
+    "머스크": { image:"assets/musk.png", className:"musk" },
+    "트럼프": { image:"assets/trump.png", className:"trump" }
   };
   let selectedPrayerTarget = "하느님";
 
@@ -2038,7 +2040,10 @@ try{
   function renderTargetBadges(value){
     return normalizeTargets(value).map(target => {
       const meta = targetMeta[target] || { icon:"🙏", className:"god" };
-      return `<span class="comment-nick target-${meta.className}">${meta.icon} ${escapeHtml(target)}</span>`;
+      const marker = meta.image
+        ? `<img class="target-photo" src="${escapeHtml(meta.image)}" alt="" />`
+        : escapeHtml(meta.icon || "🙏");
+      return `<span class="comment-nick target-${meta.className}">${marker} ${escapeHtml(target)}</span>`;
     }).join("");
   }
 
