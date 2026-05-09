@@ -34,10 +34,10 @@ body::before{content:'';position:fixed;inset:0;z-index:0;
 .card{background:var(--card);border:1px solid var(--border);border-radius:4px;padding:20px;transition:border-color .2s}
 .card:hover{border-color:#2e4060}
 .cl{font-size:10px;color:var(--muted);letter-spacing:2px;text-transform:uppercase;margin-bottom:10px}
-.cv{font-family:var(--sans);font-size:22px;font-weight:700;line-height:1.1;min-height:28px;display:flex;align-items:baseline;gap:2px;white-space:nowrap;font-variant-numeric:tabular-nums}
+.cv{font-family:'Noto Sans KR',system-ui,sans-serif;font-size:22px;font-weight:900;line-height:1.1;min-height:28px;display:flex;align-items:baseline;gap:2px;white-space:nowrap;font-variant-numeric:tabular-nums;letter-spacing:0;font-feature-settings:"tnum" 1,"lnum" 1;-webkit-font-smoothing:antialiased;text-rendering:geometricPrecision}
 .cv.price-loading{font-size:17.6px}
 .cv .cur{font-size:.5em;font-weight:700;line-height:1;transform:translateY(-1px);display:inline-block;opacity:.95}
-.cv .num{font-variant-numeric:tabular-nums}
+.cv .num{font-variant-numeric:tabular-nums;font-feature-settings:"tnum" 1,"lnum" 1}
 .cs{font-size:11px;color:var(--muted);margin-top:4px}
 .st{
   font-family:'Noto Sans KR',sans-serif;
