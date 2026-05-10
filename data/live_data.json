@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-10T18:51:05",
+  "generated_at": "2026-05-10T19:55:07",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.49,
-    "price_krw": 2175.32,
-    "price_change_24h": 4.70656,
-    "price_change_7d": 6.70663,
-    "price_change_30d": 10.07322,
-    "market_cap_usd": 91924821768,
+    "price_usd": 1.48,
+    "price_krw": 2166.79,
+    "price_change_24h": 4.14576,
+    "price_change_7d": 6.28819,
+    "price_change_30d": 9.34393,
+    "market_cap_usd": 91601026509,
     "market_cap_rank": 4,
-    "volume_24h": 2142389660,
+    "volume_24h": 2290453718,
     "circulating_supply": 61796225236.0,
     "total_supply": 99985670046.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 89.31,
-    "sentiment_votes_down": 10.69,
+    "sentiment_votes_up": 90.85,
+    "sentiment_votes_down": 9.15,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 45.54,
-    "recent_tps": 45.54,
-    "recent_tx_count": 4099,
+    "tps_24h_avg": 32.44,
+    "recent_tps": 32.44,
+    "recent_tx_count": 2920,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104140940,
+    "ledger_seq": 104141929,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-10 18:50:51 KST",
+    "updated_at": "2026-05-10 19:54:56 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -48,6 +48,13 @@
   },
   "etf_news": [
     {
+      "title": "비트코인 제쳤다…ETF 시장이 XRP(리플)로 뒤집혔다",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5aY0toWUI0VDBhZmpFb0V4RlNQelFrdmJpYkhHWTZyYkZpXzIxbVpValROaExXVEdRT19jWGg3NkMtd1o3U2tQb2hB?oc=5",
+      "date": "Sat, 09 May 2026 15:42:06 GMT",
+      "source": "서울경제",
+      "score": 5
+    },
+    {
       "title": "“5조7000억 달러 움직였다?”…UBS, 리플XRP ETF 담았다는 소식에 시장 촉각",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pZ2k5WUdHV0I1RWFDQkk3a3FtcWE4X192VUJ5clpIcllqY2JQRzNIckhQazhXRHBTU0ExbGN0Z0dxYzZCSmxaaTdka1BXVVBiaDM3NTk4RGltdUNrVGJzb29nRkZDVEJU?oc=5",
       "date": "Sat, 09 May 2026 08:25:00 GMT",
@@ -59,13 +66,6 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GdlNjNmE2ZlFsWDFaNmZRTHNidWdjWmE5NFhGSmVGQ2huZzE3ZkI4Q3FSSzJzbm1oZURRU2dodFhhZGx4elJPVXhNV0hYS3BNZEluekJoQjBjS0oxTXRsbjNRdXBVS3lRdnlaNG1jOUh4MGvSAXdBVV95cUxNRG1fbXM0NUk3WGlsajlKU0V4NlBYN2duaktHUEE3a1Z6QTQ2Z3ltWU9RNmJvWDg0TFlnZVMwVjljOUllMV85cHhGcWF5UXNlZ3lSS084U2t5VWFEdHpMUUlmdkg2dHFVTWxaeWdCSkhHMVZMcmJmaw?oc=5",
       "date": "Thu, 07 May 2026 09:10:00 GMT",
       "source": "핀포인트뉴스",
-      "score": 0
-    },
-    {
-      "title": "ETF 수요 식자 바이낸스 XRP 유동성, 5년 내 최저 수준으로 급감",
-      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxOSzMzd29XYmFvUGVqVlhjbHo5NERJbE8zdjF6a1pycnBmb3cySVozN0hrZVlnanNfdDFsbWtMeDJMRkJzeFRwaTB3MVNkYjYxT3VzTVdLcEVZQ0VQR3FheTZHTkhybDNSb0ttbEthVDlJd0U5NTIzWXMxTXNRM0U2VmR6cWFyZF9sb2VXTFVBbUVsVm9YZlFRY3FORGx0aVQzLWxTbURkVTF3NzRUdUpTT3p0X1NHRHRNeGpaSGVqcWhOTkpleXhQTnRQS0lKbl9XMTZwaHJUU1c2YzlsV3QxdDVDd2FFOVlrZkRfcURjNFlsNWpEWF9Dd1ZaU0I0b0Uxb1I0OW9yYXNkYnFvZTdIQTdVb1R1c2QzVkhFWHRiN1paNFhPZ2hNbW80OGZOal83RWtrQV9FLS1HME44UDJjY3hPTnRjODBYVDlpZ1dqczd3ZVk?oc=5",
-      "date": "Mon, 04 May 2026 09:25:34 GMT",
-      "source": "Yellow.com",
       "score": 0
     },
     {
@@ -106,6 +106,13 @@
       "score": 2
     },
     {
+      "title": "리플(XRP), SWIFT 전환과 미국 입법 앞두고 기관 매수 가속화",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13cjlGNmVYeml3OHM0UG16TmZfOFFvZkg3b0pxMEZ1WTBHOHp3aXJkME1yWjhtVFN5OVI5OW40eG9rLWtxRGdxWi1NWHV6T0g1QzJ3NkJ1OEFlcVdUalVLY9IBZkFVX3lxTE1CYUV4RVVsS3plUV9uLXhPNkgtM1ZoYjFHZTI5LXY1dzFfU2hKbU1nN3c0WENrMElmdjZLV0kzZ2JMc3l3R2h3Y1dVSUtqdl9kOWZ0ajF3Ums0THE3bFVkLUZaMlVqUQ?oc=5",
+      "date": "Sun, 10 May 2026 03:00:52 GMT",
+      "source": "tokenpost.kr",
+      "score": 3
+    },
+    {
       "title": "XRP, SWIFT 'ISO 20022' 대변혁 중심에 서나…글로벌 금융 판도 뒤바뀐다",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNY3VydXc1T3YzZjhvTEVKdXVGUExrMlBnamk2SERjYVJPczZ6S2s5TGRYb09XNFB3TnV1dE56UnNySkJzMDd6cmxLT2VGbVRCNnNrU0VCbFZsS202eUJyMlBwTjZBVHEtZW9kNVlyRTFidHZEY29EcXNMR25jbXNQUUJtSS1SbW8?oc=5",
       "date": "Sun, 10 May 2026 02:11:45 GMT",
@@ -114,16 +121,9 @@
     },
     {
       "title": "리플 CEO “CLARITY 법안 없어도 문제없어”",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IUHR6UEtqNXdyZDdHU05xOUIwTGRaUGNxcTg4U3JBblowVk5hSGdrUWlncnVobjZSR1dyeENNMWR3VGQ0U2NhY3AwU0NZamY2MVd3SnpiYllPQmJYQnliMFBNNA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wVkVzMEVsMDVCdlBHSWFrTGYwY2cxSXJZZHRQZ0F0SnZnajNER05kNHUyLTV6eVZ0T240TW1EUlpVdUQ5eGFmSVV1QW5lZk50ZExGYXJoeklqSkNyVGtJY3JBTFpScTJr?oc=5",
       "date": "Sun, 10 May 2026 00:59:50 GMT",
       "source": "CBC뉴스",
-      "score": 2
-    },
-    {
-      "title": "리플(XRP) 사? 팔아?… GPT·클로드·Grok의 엇갈린 전망",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE54dS0tOEU0TFpuV3JNa2Y1OUVuWXcxaEFPR2VsTVNVa21TMlR0VUNfYkFmZ241SWhlaS1MMFZXT0t5czFJN1FkTjJWai1QZGdfVExNY3IxU3XSAV5BVV95cUxQS3cyQVRDek5ndlNKSUpKWWxrMWFuM09ocHNXSTBRQ1RvYkgwZjE2ZDFtT0pUTm9tQW52RFhHX2hFdk40MThjM0xNX0w0c19US1B1YlQ0TzMyN1F3Ym5B?oc=5",
-      "date": "Sun, 10 May 2026 00:50:09 GMT",
-      "source": "tokenpost.kr",
       "score": 2
     },
     {
@@ -132,6 +132,13 @@
       "date": "Sat, 09 May 2026 21:30:00 GMT",
       "source": "코인리더스",
       "score": 2
+    },
+    {
+      "title": "비트코인 제쳤다…ETF 시장이 XRP(리플)로 뒤집혔다",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5aY0toWUI0VDBhZmpFb0V4RlNQelFrdmJpYkhHWTZyYkZpXzIxbVpValROaExXVEdRT19jWGg3NkMtd1o3U2tQb2hB?oc=5",
+      "date": "Sat, 09 May 2026 15:42:06 GMT",
+      "source": "서울경제",
+      "score": 10
     },
     {
       "title": "“5조7000억 달러 움직였다?”…UBS, 리플XRP ETF 담았다는 소식에 시장 촉각",
@@ -153,13 +160,6 @@
       "date": "Sat, 09 May 2026 04:48:58 GMT",
       "source": "글로벌이코노믹",
       "score": 2
-    },
-    {
-      "title": "XRP 다음 카드는 RLUSD…리플의 스테이블코인 승부수",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE14V1BncGhyek8tdDExWlJvY29BSlNGMTV4QmtQNGhkNWxEejRzVFh2akJCSHc5SWR2UGcxdzQ2YTRUQkg2dWpTTVdHSDNYeDNqaEQwd0J1OHJBNDA0Yk5ic3R5MkpLM29qU3hOOXdvVEwzY3PSAXdBVV95cUxNTjdHWjNVTVJrNG5CeTY3b0JRUkxkZXl2MFdIWFN2dlMwYmN6VE9mQTJUbXhkWDY1djFSOHVwWW9rMkk5d01YZG1hNWdHbzhHYzNmMHZZYkZGZ3lPYVE1WlBzUTNFS1VuT0p0S1psNV9Nb29xMl9mYw?oc=5",
-      "date": "Fri, 08 May 2026 20:41:32 GMT",
-      "source": "핀포인트뉴스",
-      "score": 3
     }
   ]
 }
