@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-10T05:48:19",
+  "generated_at": "2026-05-10T07:59:57",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.42,
-    "price_krw": 2073.15,
-    "price_change_24h": -0.68754,
-    "price_change_7d": 2.49404,
-    "price_change_30d": 5.7242,
-    "market_cap_usd": 87624964409,
+    "price_krw": 2075.93,
+    "price_change_24h": -0.25853,
+    "price_change_7d": 2.54789,
+    "price_change_30d": 5.70353,
+    "market_cap_usd": 87768908260,
     "market_cap_rank": 4,
-    "volume_24h": 1022668520,
+    "volume_24h": 1029322521,
     "circulating_supply": 61796225236.0,
     "total_supply": 99985670046.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 81.93,
-    "sentiment_votes_down": 18.07,
+    "sentiment_votes_up": 79.22,
+    "sentiment_votes_down": 20.78,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 29.79,
-    "recent_tps": 29.79,
-    "recent_tx_count": 2681,
+    "tps_24h_avg": 26.5,
+    "recent_tps": 26.5,
+    "recent_tx_count": 2385,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104128833,
+    "ledger_seq": 104130873,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-10 05:48:11 KST",
+    "updated_at": "2026-05-10 07:59:46 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,10 +92,24 @@
   ],
   "general_news": [
     {
-      "title": "리플(XRP) 사? 팔아?… GPT·클로드·Grok의 엇갈린 전망",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE54dS0tOEU0TFpuV3JNa2Y1OUVuWXcxaEFPR2VsTVNVa21TMlR0VUNfYkFmZ241SWhlaS1MMFZXT0t5czFJN1FkTjJWai1QZGdfVExNY3IxU3XSAV5BVV95cUxQS3cyQVRDek5ndlNKSUpKWWxrMWFuM09ocHNXSTBRQ1RvYkgwZjE2ZDFtT0pUTm9tQW52RFhHX2hFdk40MThjM0xNX0w0c19US1B1YlQ0TzMyN1F3Ym5B?oc=5",
-      "date": "Sun, 10 May 2026 00:50:09 GMT",
-      "source": "tokenpost.kr",
+      "title": "XRP, 5월 '운명의 14일' 맞나… 클래리티 법안 상원 심의 앞두고 '투심' 술렁",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQXdBejQ2YkgySjFEWVlmbUFUMGdqZWlZYlNVMEl0NUtOTTV0MVlkNXZnOHNaNDA0LVZvdnEyX0xIakpWQ1pYR1N2SGhhQlhWZ3NGTGVhOUxVVV9EYm80ZGswWHU4bWFzUVNJNTZUWnlBd0tBS3lPVlI1c0N2NzhGXzFKVEFIMWVq?oc=5",
+      "date": "Sun, 10 May 2026 05:57:09 GMT",
+      "source": "글로벌이코노믹",
+      "score": 2
+    },
+    {
+      "title": "리플의 RLUSD 지원금 결과, 2,500만 달러가 미국 교실에 어떻게 전달되었는지 보여준다",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZnN4N1RmMGtvcGp5SUtINFpVMEUyb3NINFI3LV82a0h3ZGdVa3dHQldZMG1MbVIzMkhDYUhkN0dGTW1LVkxnMXZuU0NxTWJnX0pGYm5MVzNERlRLeGtaa2Nic0Vtb3lCdXQ1MUg3SVllV2xrMW9oTHU0dEJoek1QNzJJWUVSMlhoQl9TeENHZk11M08tVjZIMm1lNG5fRFdVM1dFckJsOVRvdExkTDNBTy0zUTE1b01fRkRCMkZQMDJoWFZxX3RKWG1zWlU?oc=5",
+      "date": "Sun, 10 May 2026 04:22:40 GMT",
+      "source": "Bitcoin News",
+      "score": 2
+    },
+    {
+      "title": "리플 CEO “CLARITY 법안 없어도 문제없어”",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wVkVzMEVsMDVCdlBHSWFrTGYwY2cxSXJZZHRQZ0F0SnZnajNER05kNHUyLTV6eVZ0T240TW1EUlpVdUQ5eGFmSVV1QW5lZk50ZExGYXJoeklqSkNyVGtJY3JBTFpScTJr?oc=5",
+      "date": "Sun, 10 May 2026 00:59:50 GMT",
+      "source": "CBC뉴스",
       "score": 2
     },
     {
@@ -113,13 +127,6 @@
       "score": 3
     },
     {
-      "title": "5조달러 UBS까지 담았다…XRP 기관 매수 시대 본격 시작됐나",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5mc1R2TmtYelBpcXdrYjhfaVFiRkRvVmhrSHpGU1RqVmZwVGJsM2xxSzJnUHNaNmZGUjMwbWpQemVxYmdyVURtQWRn?oc=5",
-      "date": "Sat, 09 May 2026 06:26:00 GMT",
-      "source": "코인리더스",
-      "score": 3
-    },
-    {
       "title": "xrp 목표가",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ZQ3VZWXNSUkgxWU5YSEVJb2F2X3JhWjVpZU9yWUxpNXNuOG95VmhwbHlFdlZreXQxWk4xOHBKUEpsZmVJTjNXVEI4MEkwYjJuUHZ6WXJ0OFk?oc=5",
       "date": "Sat, 09 May 2026 05:15:05 GMT",
@@ -134,16 +141,16 @@
       "score": 2
     },
     {
-      "title": "XRP로 벼락부자 어렵다…소액 투자자 100만달러 시나리오 '먼 꿈'",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9nLVVkS1NRR1FqV0NfLVhQakJSZVJhbHlmZHBvckZPODlxb1VtdzR1aFU1UVN0RFl0cTVyMktMVm5RcDJiR1VIZWlJX2JrcW8yR3E4OGRhZ3pyQlF1YVVBakFDTFVZYVhsNHRKMDlRMTFCQ0U?oc=5",
-      "date": "Fri, 08 May 2026 22:10:00 GMT",
-      "source": "디지털투데이",
-      "score": 2
-    },
-    {
       "title": "블랙록 “리플 ‘3경원’ 매수” 폭탄선언 “XRP 30달러 보게될 것” 파장",
       "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxQXzg1MkpSdW01V0VQbnE1M2RGbEZKYlV5S3h3VTktb2x4ZXF4aTRrbFBvRnNpTFY1X204MURRUm5na1ROc2lUSGNqeTBTVWZYVEZZRzNkd3lNbVUxQ2xuc1loTWt6OGY3YnREUHZVdkRtQnFUbl83VkdsUDRwSlk3ZW9xb2NCYnFPelBEekozdVdpOGxYbUxTT09Mb0dDNU5XNlEtMXFDWFhXbDZQLVlFakpvbHhud3JXS2w3QjZCNS10SnctSWJrM3JQLTN6UXF5YVlsMlRlRFh4eEVXclFRcURCd2ljdE1HWWloLVY5dktYMG56T0xZZDNlYlB5MGM2VUo3czNyMWlZc192eWo3WjdIck9JOHBxekdNbEduYkNOSk5TRVVVOE5oak9VMmVoMm9KRVpwcE5yaVM1cENOd0NmRGtqeTFBT0FZSlNTWWU0WmxnVkdtQjVEb3ZxQnhsUkpvSVNXdTBqSWZENDhjOENQQlBqSE5ZN0JZbQ?oc=5",
       "date": "Fri, 08 May 2026 21:18:09 GMT",
+      "source": "MSN",
+      "score": 2
+    },
+    {
+      "title": "1.4달러 찍고 주춤한 리플, 리플이 꿈꾸는 XRP의 미래 가치는 얼마인가?",
+      "url": "https://news.google.com/rss/articles/CBMirgNBVV95cUxQcDlVWUdxX1pxZnBzMnJiOUVoWWhKNlFtYndaTUVJUUJGNFFlN3hDRU40YnVoLWh4TzJhZDdTNzc2VWRNQUtoQmtPYVJLM3hQR254NlRmODZIQ09uSmFuMm5NSVZXamxMV0hKSTBpeUdXeE00MlpvMTRHS3ZzVkxsRS1VS0ZFUWtHQzN3cy16MFFZRjBkYTQzelQ3U3hPTTZYNVluVXJEU3ljZjI1algyV1JHcmtqUGVWY3RiM094ZDZvNC1NUl9scnBNX211UGFGczFsdEcyNkJJb1JwdDZlMUEzX2pTS2Z6bERZRXI3MUNFdUJoRW0xQ016VVZ1Xzl2QVdoeTVocEtRWDIydDFVTU5Fa2lDRnB1dExsX2J2cmdna0pERURqajJQbDlxa3ZsSHNwaXJ1dzVOX2M5aDNVUWNndmxnWEJNRmtkOGJYcWpwTFRjVno2TDVCd0wyZHVYNlBJckRZRHF3eGM3ZUx4UUszZVdVX3hLbUp3MmZjTGgtSWNveGpjR01fQUtUWm1EQ1k4VktTNW1tTVg0U2Fsald2d0FmeDVfYXVQNC13?oc=5",
+      "date": "Fri, 08 May 2026 21:03:31 GMT",
       "source": "MSN",
       "score": 2
     },
@@ -153,13 +160,6 @@
       "date": "Fri, 08 May 2026 20:41:32 GMT",
       "source": "핀포인트뉴스",
       "score": 3
-    },
-    {
-      "title": "JPMorgan, Mastercard, RLUSD로 첫 5초 만기 미국 국채 상환 처리",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNZkw2YlFLRTRiMWtFeXM4ek9xcGs1cmxoQjhDZk94OVZWVmQzN3ZhMlBvRVlVWjMwMGxHZm42UHAtU2VTdzQ3VS1FRnR5MTM1R05Jd3ZSUmduTGdfVTZmOHhaVUtvVGh1NTBveE9mUzlnaWgtZTN5cHhfSHRYVlVQVWJOUG93TEUwTm96NFQ2aVVBOC00ZlNyNzZkeGhWUlg1TTRUMnI1WlBCYmszY2UtRnp6TGVTYVdEX3RFOW4teVBYeWtYaFdPX0pLZmJmVnAxTjRETWpVczR5ZUFfdjl0UXI2NHNSSVlyT3J3WDh0YmRKR2RrOEZnai1faWFiTGtHd3ctTUtuNko?oc=5",
-      "date": "Fri, 08 May 2026 17:36:10 GMT",
-      "source": "Yellow.com",
-      "score": 1
     }
   ]
 }
