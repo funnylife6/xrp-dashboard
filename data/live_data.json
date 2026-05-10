@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-10T09:41:45",
+  "generated_at": "2026-05-10T10:56:46",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.42,
-    "price_krw": 2082.05,
-    "price_change_24h": 0.20797,
-    "price_change_7d": 2.69692,
-    "price_change_30d": 6.54782,
-    "market_cap_usd": 87993044021,
+    "price_usd": 1.43,
+    "price_krw": 2086.58,
+    "price_change_24h": 0.43597,
+    "price_change_7d": 2.87397,
+    "price_change_30d": 6.54525,
+    "market_cap_usd": 88103282323,
     "market_cap_rank": 4,
-    "volume_24h": 1031478709,
+    "volume_24h": 1069532148,
     "circulating_supply": 61796225236.0,
     "total_supply": 99985670046.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 81.01,
-    "sentiment_votes_down": 18.99,
+    "sentiment_votes_up": 81.48,
+    "sentiment_votes_down": 18.52,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 53.7,
-    "recent_tps": 53.7,
-    "recent_tx_count": 4833,
+    "tps_24h_avg": 29.64,
+    "recent_tps": 29.64,
+    "recent_tx_count": 2668,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104132450,
+    "ledger_seq": 104133610,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-10 09:41:34 KST",
+    "updated_at": "2026-05-10 10:56:33 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -53,13 +53,6 @@
       "date": "Sat, 09 May 2026 08:25:00 GMT",
       "source": "CBC뉴스",
       "score": 0
-    },
-    {
-      "title": "비트코인 제쳤다…ETF 시장이 XRP(리플)로 뒤집혔다",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5aY0toWUI0VDBhZmpFb0V4RlNQelFrdmJpYkhHWTZyYkZpXzIxbVpValROaExXVEdRT19jWGg3NkMtd1o3U2tQb2hB?oc=5",
-      "date": "Fri, 08 May 2026 08:17:25 GMT",
-      "source": "서울경제",
-      "score": 5
     },
     {
       "title": "ETF 자금 몰리는데 왜 XRP만 멈췄나…리플의 이상한 정체는?",
@@ -88,6 +81,13 @@
       "date": "Thu, 30 Apr 2026 07:00:00 GMT",
       "source": "디지털투데이",
       "score": 0
+    },
+    {
+      "title": "미국 XRP 현물 ETF는 하루 만에 총 359만 1400달러의 순유입을 기록했습니다.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jUWF1b0lQX3NTaHdBMXNzRUdiTWczZjBIcEF2djNOSzE4d0ZsUHZuSzhJTU81cWRnaVdJRUl2bEp5Y01CRUNHOVNCNjZGV0M4d3hySEZSdUpMNG9yRGR5T1NPb0c4MzhHQmpyOHZKcXk3U2VPSmxhWW1tY3ktX0E?oc=5",
+      "date": "Thu, 30 Apr 2026 07:00:00 GMT",
+      "source": "PANews",
+      "score": 0
     }
   ],
   "general_news": [
@@ -107,9 +107,16 @@
     },
     {
       "title": "리플 CEO “CLARITY 법안 없어도 문제없어”",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wVkVzMEVsMDVCdlBHSWFrTGYwY2cxSXJZZHRQZ0F0SnZnajNER05kNHUyLTV6eVZ0T240TW1EUlpVdUQ5eGFmSVV1QW5lZk50ZExGYXJoeklqSkNyVGtJY3JBTFpScTJr?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IUHR6UEtqNXdyZDdHU05xOUIwTGRaUGNxcTg4U3JBblowVk5hSGdrUWlncnVobjZSR1dyeENNMWR3VGQ0U2NhY3AwU0NZamY2MVd3SnpiYllPQmJYQnliMFBNNA?oc=5",
       "date": "Sun, 10 May 2026 00:59:50 GMT",
       "source": "CBC뉴스",
+      "score": 2
+    },
+    {
+      "title": "XRP 재단, 새 판 짠다...전무이사·CTO 동시 선임으로 생태계 변신 시동",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1xZWNoYlJ3bW13bGtyOTE4ZnlWeWNqdUNSbnNHckF0NzhjekwwWDJRejBnMmFYNmFvVEpjMnlTUlYxeWZnUklwTGdR?oc=5",
+      "date": "Sat, 09 May 2026 21:30:00 GMT",
+      "source": "코인리더스",
       "score": 2
     },
     {
@@ -153,13 +160,6 @@
       "date": "Fri, 08 May 2026 21:03:31 GMT",
       "source": "MSN",
       "score": 2
-    },
-    {
-      "title": "XRP 다음 카드는 RLUSD…리플의 스테이블코인 승부수",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE14V1BncGhyek8tdDExWlJvY29BSlNGMTV4QmtQNGhkNWxEejRzVFh2akJCSHc5SWR2UGcxdzQ2YTRUQkg2dWpTTVdHSDNYeDNqaEQwd0J1OHJBNDA0Yk5ic3R5MkpLM29qU3hOOXdvVEwzY3PSAXdBVV95cUxNTjdHWjNVTVJrNG5CeTY3b0JRUkxkZXl2MFdIWFN2dlMwYmN6VE9mQTJUbXhkWDY1djFSOHVwWW9rMkk5d01YZG1hNWdHbzhHYzNmMHZZYkZGZ3lPYVE1WlBzUTNFS1VuT0p0S1psNV9Nb29xMl9mYw?oc=5",
-      "date": "Fri, 08 May 2026 20:41:32 GMT",
-      "source": "핀포인트뉴스",
-      "score": 3
     }
   ]
 }
