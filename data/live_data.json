@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-10T07:59:57",
+  "generated_at": "2026-05-10T09:41:45",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.42,
-    "price_krw": 2075.93,
-    "price_change_24h": -0.25853,
-    "price_change_7d": 2.54789,
-    "price_change_30d": 5.70353,
-    "market_cap_usd": 87768908260,
+    "price_krw": 2082.05,
+    "price_change_24h": 0.20797,
+    "price_change_7d": 2.69692,
+    "price_change_30d": 6.54782,
+    "market_cap_usd": 87993044021,
     "market_cap_rank": 4,
-    "volume_24h": 1029322521,
+    "volume_24h": 1031478709,
     "circulating_supply": 61796225236.0,
     "total_supply": 99985670046.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 79.22,
-    "sentiment_votes_down": 20.78,
+    "sentiment_votes_up": 81.01,
+    "sentiment_votes_down": 18.99,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 26.5,
-    "recent_tps": 26.5,
-    "recent_tx_count": 2385,
+    "tps_24h_avg": 53.7,
+    "recent_tps": 53.7,
+    "recent_tx_count": 4833,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104130873,
+    "ledger_seq": 104132450,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-10 07:59:46 KST",
+    "updated_at": "2026-05-10 09:41:34 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,17 +92,17 @@
   ],
   "general_news": [
     {
-      "title": "XRP, 5월 '운명의 14일' 맞나… 클래리티 법안 상원 심의 앞두고 '투심' 술렁",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQXdBejQ2YkgySjFEWVlmbUFUMGdqZWlZYlNVMEl0NUtOTTV0MVlkNXZnOHNaNDA0LVZvdnEyX0xIakpWQ1pYR1N2SGhhQlhWZ3NGTGVhOUxVVV9EYm80ZGswWHU4bWFzUVNJNTZUWnlBd0tBS3lPVlI1c0N2NzhGXzFKVEFIMWVq?oc=5",
-      "date": "Sun, 10 May 2026 05:57:09 GMT",
-      "source": "글로벌이코노믹",
-      "score": 2
-    },
-    {
       "title": "리플의 RLUSD 지원금 결과, 2,500만 달러가 미국 교실에 어떻게 전달되었는지 보여준다",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZnN4N1RmMGtvcGp5SUtINFpVMEUyb3NINFI3LV82a0h3ZGdVa3dHQldZMG1MbVIzMkhDYUhkN0dGTW1LVkxnMXZuU0NxTWJnX0pGYm5MVzNERlRLeGtaa2Nic0Vtb3lCdXQ1MUg3SVllV2xrMW9oTHU0dEJoek1QNzJJWUVSMlhoQl9TeENHZk11M08tVjZIMm1lNG5fRFdVM1dFckJsOVRvdExkTDNBTy0zUTE1b01fRkRCMkZQMDJoWFZxX3RKWG1zWlU?oc=5",
       "date": "Sun, 10 May 2026 04:22:40 GMT",
       "source": "Bitcoin News",
+      "score": 2
+    },
+    {
+      "title": "XRP, SWIFT 'ISO 20022' 대변혁 중심에 서나…글로벌 금융 판도 뒤바뀐다",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNY3VydXc1T3YzZjhvTEVKdXVGUExrMlBnamk2SERjYVJPczZ6S2s5TGRYb09XNFB3TnV1dE56UnNySkJzMDd6cmxLT2VGbVRCNnNrU0VCbFZsS202eUJyMlBwTjZBVHEtZW9kNVlyRTFidHZEY29EcXNMR25jbXNQUUJtSS1SbW8?oc=5",
+      "date": "Sun, 10 May 2026 02:11:45 GMT",
+      "source": "글로벌이코노믹",
       "score": 2
     },
     {
