@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-11T20:13:28",
+  "generated_at": "2026-05-11T21:48:05",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.48,
-    "price_krw": 2181.04,
-    "price_change_24h": -0.26025,
-    "price_change_7d": 5.36748,
-    "price_change_30d": 8.40473,
-    "market_cap_usd": 91446605621,
+    "price_usd": 1.47,
+    "price_krw": 2171.98,
+    "price_change_24h": 0.56379,
+    "price_change_7d": 5.66446,
+    "price_change_30d": 8.15532,
+    "market_cap_usd": 90933015784,
     "market_cap_rank": 4,
-    "volume_24h": 3254747424,
+    "volume_24h": 2588543161,
     "circulating_supply": 61796225236.0,
     "total_supply": 99985670046.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 87.32,
-    "sentiment_votes_down": 12.68,
+    "sentiment_votes_up": 87.84,
+    "sentiment_votes_down": 12.16,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 49.68,
-    "recent_tps": 49.68,
-    "recent_tx_count": 4074,
+    "tps_24h_avg": 32.5,
+    "recent_tps": 32.5,
+    "recent_tx_count": 2925,
     "recent_ledger_count": 24,
-    "recent_window_sec": 82,
-    "ledger_seq": 104164484,
+    "recent_window_sec": 90,
+    "ledger_seq": 104165943,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-11 20:13:20 KST",
+    "updated_at": "2026-05-11 21:47:58 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -47,6 +47,13 @@
     "data_source": "news_parse"
   },
   "etf_news": [
+    {
+      "title": "비트코인 시세…이더리움·리플·솔라나 가격",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9wT1NUQXRsYm9ySzc4TGdOXzhIZTJKUWNJbXMzRWt4LWdTcU5Ta0xEb2U1TGlXZF9NUXN6dWNtTkpzSHVFaTlPN3BPMWRoWEE?oc=5",
+      "date": "Mon, 11 May 2026 20:17:15 GMT",
+      "source": "v.daum.net",
+      "score": 0
+    },
     {
       "title": "\"비교 불가한 알트코인\"…XRP 20달러 고지 점령설에 기관 자금 '들썩'",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45U2ZwTlFWX2xHNFJ5eTJpQmZaQVJYSllwVFJBbFk3UkVVZ19xSlNIMEFZLWl1M3ZTSVZiSUcxbmw1MU9OTkNJS1ZzWE9xN1h1T19ycVlOMW9YVUozZ0JZY2c5OVNhRG15S3FoSDlRalI?oc=5",
@@ -81,22 +88,29 @@
       "date": "Thu, 07 May 2026 09:10:00 GMT",
       "source": "핀포인트뉴스",
       "score": 0
-    },
-    {
-      "title": "2026년 5월, XRP(리플) 완전 분석: 왜 기관 자금이 몰리고 있는가?",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQX29lcFVOdWQ5TkU1azFkLWJpdUhtMHUzZmRKbTlwSjVfclAtYlFqck1NRmRkWFMtUTl4anhHd1dHX2pfcWw2d2JWTTQyX1J3TFpPeW1DYjhGSmdmTFl4RHR3SW1zSTlTeUhPQ0xUell3U1ZIZDlwS2I0akZEdzBRRmdLT3Y2allRNFBscQ?oc=5",
-      "date": "Mon, 04 May 2026 04:55:00 GMT",
-      "source": "네이버 프리미엄콘텐츠",
-      "score": 0
     }
   ],
   "general_news": [
     {
       "title": "리플 '美지방은행 1만개' 기습 '인수'… \"XRP '1년 안에' 12달러 갈 것\"",
       "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNMV9VTGJJMW1nT1hacVhTRE9wWHRrYmpGSTZVU3VKN1gtV0RRdjBwYWM5b0pvdVpxbWFvbGpfcFFrNmxxMmtPUF9CNkxaM0U3emlXTlg3THhxNUVGSkdQczVJWWpuRWJjTEhMZHZDQlhpNHZBTC16MUxKVllnMEFDbExEYkpCRXlyZGFqeVJfTGhvYjZ0bXNVY1NiRFVfb2tITllzenphLWNVcEZ2b3ZzNzhWRlZUeFVfbVZsdkF1V3pOUWVMNGp2OURFSElZS0MxeTBjcFJEdTJ3M29PaVZOQWg0bVRKZVRzanJqZTRiMlVSQ3lCQ3RNWUhLTDNqQ21tT0MwUGRudFlBQlJlUDZCUkJpQWVFQVNqZ01QU29HWGUwcUU4WVBoWjNKWDU4NTBkN1VuQ1o5cWVob2RDSDNTVWtCMVBNdldfWmxnbWNjVEp5aEpLUEtBRzVBaElYc0JJWmlvbVVmS0RsbkM0SU8zXzBrMA?oc=5",
-      "date": "Mon, 11 May 2026 15:33:30 GMT",
+      "date": "Mon, 11 May 2026 15:33:09 GMT",
       "source": "MSN",
       "score": 3
+    },
+    {
+      "title": "XRP vs SOL 대립은 끝...슈워츠, 솔라나 핵심 인물에 프라이버시 프로토콜 명칭 제안",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1RODhTbWdfRVFEU0RPaHlKendLQ0ZiVFZEUFZNWHExSjU1bmtTM1BOWDdwb094UXlWZXd2ZVNkSGlHMW16empPSlJR?oc=5",
+      "date": "Mon, 11 May 2026 13:20:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
+      "title": "암호화폐 리플, 타 주요 코인 대비 뚜렷한 상승세... 그럴 만한 이유 있었다",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTbWx6c0Z2ZXpFNXZnd1ZNMnFQRDZkQTZuWnVxS056bGtyblQ2Z2doSE5DWEY5djZ1aVNhOXprWDJoYkpyRUlPMG5RVHAxU0J1MXpCMTl3?oc=5",
+      "date": "Mon, 11 May 2026 07:23:00 GMT",
+      "source": "위키트리",
+      "score": 2
     },
     {
       "title": "\"비교 불가한 알트코인\"…XRP 20달러 고지 점령설에 기관 자금 '들썩'",
@@ -141,25 +155,11 @@
       "score": 3
     },
     {
-      "title": "\"리플의 성공은 곧 XRP의 성공\" 갈링하우스, 장기적 동행 의지 강조",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5PVV9OWTFyMG1iNE5acGg4Y0s1NjNZY1d5S3FGa2ZBZjAyWWhibGI3XzllOFN0WjI2OFJOQ2VocnYyNWVISEFJRHMwemFVMk9KeEtlMDRYMUEwTFVzdVIyMkNfZ0RSVnZJYTdXS2F3?oc=5",
-      "date": "Sun, 10 May 2026 05:21:29 GMT",
-      "source": "gukjenews.com",
-      "score": 2
-    },
-    {
       "title": "xrp 목표가",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ZQ3VZWXNSUkgxWU5YSEVJb2F2X3JhWjVpZU9yWUxpNXNuOG95VmhwbHlFdlZreXQxWk4xOHBKUEpsZmVJTjNXVEI4MEkwYjJuUHZ6WXJ0OFk?oc=5",
       "date": "Sat, 09 May 2026 05:15:05 GMT",
       "source": "코인니스",
       "score": 8
-    },
-    {
-      "title": "리플 CEO \"리플의 모든 인수합병은 XRP 유용성 증진이 최우선\"",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUWYteXluSTkwWW1SR2sxcVNTOWtObHdxVUJxaEhfUnJ5QlhQMXBoaDNYSTVCOGF2LW50Z0toZjhRLTIyckhJbWZyRmVHSnFYYUkxNDdrV3pIbTIwbnZaTmp0cnJjaWpvb3R0MnJiNGRJemxLazJ0aXhDbkg1LXhlc2NacHVZNEwx?oc=5",
-      "date": "Sat, 09 May 2026 04:48:58 GMT",
-      "source": "글로벌이코노믹",
-      "score": 2
     }
   ]
 }
