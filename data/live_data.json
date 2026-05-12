@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-12T22:40:06",
+  "generated_at": "2026-05-12T23:53:47",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.44,
-    "price_krw": 2149.69,
-    "price_change_24h": -2.02344,
-    "price_change_7d": 1.70277,
-    "price_change_30d": 7.849,
-    "market_cap_usd": 89021092719,
+    "price_krw": 2145.39,
+    "price_change_24h": -2.83107,
+    "price_change_7d": 1.37032,
+    "price_change_30d": 7.49646,
+    "market_cap_usd": 88719717030,
     "market_cap_rank": 5,
-    "volume_24h": 2157890410,
+    "volume_24h": 2066802936,
     "circulating_supply": 61796225236.0,
     "total_supply": 99985670046.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 84.96,
-    "sentiment_votes_down": 15.04,
+    "sentiment_votes_up": 85.45,
+    "sentiment_votes_down": 14.55,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 31.67,
-    "recent_tps": 31.67,
-    "recent_tx_count": 2850,
+    "tps_24h_avg": 21.67,
+    "recent_tps": 21.67,
+    "recent_tx_count": 1950,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104189008,
+    "ledger_seq": 104190146,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-12 22:40:00 KST",
+    "updated_at": "2026-05-12 23:53:32 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -47,6 +47,13 @@
     "data_source": "news_parse"
   },
   "etf_news": [
+    {
+      "title": "엑스알피 현물 ETF 자금 유입 확대…기관 수요 회복 조짐",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9oQzEzb1pHMVRUa2V0WGdyNEw0S0cwRkRXVVZpNS00Qng0LW5VMGpmYUZ3SVMzeFQ1ZEJyc3psak92REJqNk5nS3hTNXhTek1p?oc=5",
+      "date": "Tue, 12 May 2026 23:03:31 GMT",
+      "source": "블루밍비트",
+      "score": 0
+    },
     {
       "title": "리플 현물 ETF 자금 유입 '활활'… 누적 13억 5,000만 달러 돌파",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0ZjVKOERCLVp3VElKU0dEdGpRdDdEOEF3RlkzWXV6ZkNvR2pTV21hV1Rwb0c5ZHdINi11M001U3dONmNoRGU4aXhhendkWndvSmxXejN1aDM2MXVZZUxTUlFEQ0NYUlVWY0lPSENB?oc=5",
@@ -81,13 +88,6 @@
       "date": "Mon, 11 May 2026 22:23:00 GMT",
       "source": "CoinDesk",
       "score": 0
-    },
-    {
-      "title": "\"비교 불가한 알트코인\"…XRP 20달러 고지 점령설에 기관 자금 '들썩'",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45U2ZwTlFWX2xHNFJ5eTJpQmZaQVJYSllwVFJBbFk3UkVVZ19xSlNIMEFZLWl1M3ZTSVZiSUcxbmw1MU9OTkNJS1ZzWE9xN1h1T19ycVlOMW9YVUozZ0JZY2c5OVNhRG15S3FoSDlRalI?oc=5",
-      "date": "Mon, 11 May 2026 06:52:39 GMT",
-      "source": "블록체인투데이",
-      "score": 0
     }
   ],
   "general_news": [
@@ -103,13 +103,6 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE14RTg1QlNQenNHbDViMVo5Y0wwdWJ1enFGeUdnUHFwUmRSMERRMlpwOTZCSzByYk5lQktwS1V5MU45VDUxS0RRcHJiUzB6S2Z1NVdZc1dsUWhMTVZTT001YWNnRlNBV0V2cXJycVR0RzM3dw?oc=5",
       "date": "Tue, 12 May 2026 22:24:21 GMT",
       "source": "톱스타뉴스",
-      "score": 2
-    },
-    {
-      "title": "웜홀 파트너십으로 리플, RLUSD 스테이블코인을 이더리움 레이어 2로 확장",
-      "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQSURERUVtMXQ5ak5nX2x2djZOV0FFTnZaYnJXekNJV0JmU25BYlI5c2YtS2psR3Y4RkExazc5M0I2NHh4WUpXNVlyTERZODM3UmFab3hSU3pUS1ZUZnpXR0tFVThJdFNTUWRMLXMyWWphMXpzSDd1REtPN1FfZ1VueHNwT0o0UV9zdXBVcnA3OG5JQ0k5TWVfTEVRbE02VUc2OXItaGp4TUhveE8xS0Q5RzZJcmY1MFlCVGFUYWdicjNmS3hyUm5fcHltS3ozdXROOTB1YTZzNU1PUTllUjM2NkdOTW5rM09OOS1ZRkI4QjZucUNwdUtUbjM2d3pmOWsyRUt2SFNYMVZwcWtQdHhPU0I1NDBwM2hwTzlfbzZqdW50LU81bDItTVR5SFhFOTQtQUVPc3RITWF4eFhpZlFEOFZ5clFteWF0ZTZsUmlNTnlGODFUTHR3ZXp1VzlmODBCS1ZTaE9uOFVKeVJsc1FwMXNiRFktUkxyeFA1bC1VeVRDQkZ3UUcxT1VtMUFUaTNSeUhtTm1JMA?oc=5",
-      "date": "Tue, 12 May 2026 16:24:23 GMT",
-      "source": "Yellow.com",
       "score": 2
     },
     {
@@ -160,6 +153,13 @@
       "date": "Mon, 11 May 2026 02:10:00 GMT",
       "source": "디지털투데이",
       "score": 2
+    },
+    {
+      "title": "리플 XRP 대전환 — 기관의 조용한 매집, 그리고 5월 14일의 운명",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPck9abnJLR2hpYmU3UXY3VWhRTGE5OVpCd2dGc2pRalRmQWVQaXZac3BGajRzMk9mS3BBRnJqNWxyREFyWHN1dzBrUFFEeVZTUUQyWmt0RnliVUFvcFd0dVdnaVFEbmtKZE9VSnRiU3F6TkNDTzlyeHJfUlpyVkRhVnlNNWdtUUNIdnBsUg?oc=5",
+      "date": "Mon, 11 May 2026 01:31:00 GMT",
+      "source": "네이버 프리미엄콘텐츠",
+      "score": 3
     }
   ]
 }
