@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-12T19:59:24",
+  "generated_at": "2026-05-12T21:22:26",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.44,
-    "price_krw": 2150.95,
-    "price_change_24h": -2.44222,
-    "price_change_7d": 2.22441,
-    "price_change_30d": 8.13892,
-    "market_cap_usd": 89078975697,
+    "price_krw": 2146.71,
+    "price_change_24h": -2.15564,
+    "price_change_7d": 1.86069,
+    "price_change_30d": 8.05765,
+    "market_cap_usd": 88910328070,
     "market_cap_rank": 5,
-    "volume_24h": 2209105954,
+    "volume_24h": 2141489507,
     "circulating_supply": 61796225236.0,
     "total_supply": 99985670046.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 85.83,
-    "sentiment_votes_down": 14.17,
+    "sentiment_votes_up": 85.47,
+    "sentiment_votes_down": 14.53,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 29.44,
-    "recent_tps": 29.44,
-    "recent_tx_count": 2414,
+    "tps_24h_avg": 36.12,
+    "recent_tps": 36.12,
+    "recent_tx_count": 3251,
     "recent_ledger_count": 24,
-    "recent_window_sec": 82,
-    "ledger_seq": 104186522,
+    "recent_window_sec": 90,
+    "ledger_seq": 104187807,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-12 19:59:10 KST",
+    "updated_at": "2026-05-12 21:22:16 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,11 +43,18 @@
     "aum_usd": 7590000,
     "total_net_inflow_usd": 7590000,
     "total_value_traded_usd": 7590000,
-    "updated_at": "SoSoValue 순유입 부분 수집 05/12 19:59",
+    "updated_at": "SoSoValue 순유입 부분 수집 05/12 21:22",
     "data_source": "sosovalue",
     "partial": true
   },
   "etf_news": [
+    {
+      "title": "미국 XRP 현물 ETF에 4달 만에 최대 자금 유입",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2LVVIWjVIM2FTZ1BiNFE4LXMycjkxdlA4OXNRWTh6ZEMycW5ReEs3V3JSaktJZTN3N1UwMXVGOUV6U29LRjl1NG5XQ1V1SkZhM05wSlM1blI2S0lXOHFfcEhtUDhiSVFMblpiRQ?oc=5",
+      "date": "Tue, 12 May 2026 20:00:08 GMT",
+      "source": "경향게임스",
+      "score": 0
+    },
     {
       "title": "XRP 현물 ETF, 2580만달러 몰렸다…1월 이후 일일 최대 순유입",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5aOGlVSXYyRjlDYzlKS3ZPZU1Ra29PTWpvbXhYdG15YWtXdWk3N3FpSXA2TUp2dU1RNkpQU1FWeDhxY0EzRldrQjJERkw2bmlBZE43SGUxcDJid3M5Y2o4elRwcXdjUzdhazBJekJqdFZFMjQ?oc=5",
@@ -82,16 +89,16 @@
       "date": "Mon, 11 May 2026 06:52:39 GMT",
       "source": "블록체인투데이",
       "score": 0
-    },
-    {
-      "title": "리플 XRP 대전환 — 기관의 조용한 매집, 그리고 5월 14일의 운명",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPck9abnJLR2hpYmU3UXY3VWhRTGE5OVpCd2dGc2pRalRmQWVQaXZac3BGajRzMk9mS3BBRnJqNWxyREFyWHN1dzBrUFFEeVZTUUQyWmt0RnliVUFvcFd0dVdnaVFEbmtKZE9VSnRiU3F6TkNDTzlyeHJfUlpyVkRhVnlNNWdtUUNIdnBsUg?oc=5",
-      "date": "Mon, 11 May 2026 01:31:00 GMT",
-      "source": "네이버 프리미엄콘텐츠",
-      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "엑스알피(리플) 운명의 14일...올해 말 '8달러' 전망 뜬 이유",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8ydGdBQ2NVRzlLek9ZZHRrRXJ3THVEU0VRc2RpUGFRX0hESHpjM0VtR08zMWpDakw1OGkxT0dMMlBtTFc1OHJYOFEzZ3ZpVkFtMFdrcEcyNnVrUzZqZ2hrZU4zbVJjeUM1X1hkOW9n?oc=5",
+      "date": "Tue, 12 May 2026 15:01:00 GMT",
+      "source": "gukjenews.com",
+      "score": 2
+    },
     {
       "title": "리플(XRP), 온도 파이낸스·JP모건과 협력으로 토큰화 자산 시장 확대",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1EeW90MmhHbXBYQnVZb3dxQnJBaHRBV19LZFhLTGpSM215R3VhUmdHVW5WWUhIQUMzemVsYkV4ZzNVRGFmR0xvUUstdUpNUjJuOVFtaVVTLWE4RmNUSi1mZNIBZkFVX3lxTE1UT0U2QmJ1NHdCNUJkbUJEZUpMQmhteU8xSkRpZU14dDVvalVweGw1Qm16YVF0T0ctMUhONDl5R0UxSUZ6N3Y0RV9mekg2V2t4TU15c2Ryak81UTVYT1NnaGxaeDBZZw?oc=5",
@@ -147,13 +154,6 @@
       "date": "Mon, 11 May 2026 01:31:00 GMT",
       "source": "네이버 프리미엄콘텐츠",
       "score": 3
-    },
-    {
-      "title": "솔레이어·수이·리플XRP 상승…美 국채금리 하락에 코인시장 ‘투심 회복’",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFRlFnWGE4QnpxaXFMNkhPSEtjOHJoaU8xN2JwcnNNV0FQbWp6MEdkU2I1OC1Hd05lTXVBbW1Ba21NOEVGVm1IejN4WkhOYXQtWE9icE14cHZZOEt1eWEzNkswXzQ5Y29oUDdlN0Nodk5kZw?oc=5",
-      "date": "Sun, 10 May 2026 22:02:47 GMT",
-      "source": "톱스타뉴스",
-      "score": 2
     },
     {
       "title": "\"리플의 성공은 곧 XRP의 성공\" 갈링하우스, 장기적 동행 의지 강조",
