@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-12T08:29:48",
+  "generated_at": "2026-05-12T10:59:28",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.47,
-    "price_krw": 2181.96,
-    "price_change_24h": 1.36493,
-    "price_change_7d": 4.23393,
-    "price_change_30d": 10.21335,
-    "market_cap_usd": 90499300218,
+    "price_usd": 1.45,
+    "price_krw": 2158.27,
+    "price_change_24h": -0.1496,
+    "price_change_7d": 3.26681,
+    "price_change_30d": 8.87627,
+    "market_cap_usd": 89519868993,
     "market_cap_rank": 4,
-    "volume_24h": 2392697839,
+    "volume_24h": 2261226562,
     "circulating_supply": 61796225236.0,
     "total_supply": 99985670046.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 88.11,
-    "sentiment_votes_down": 11.89,
+    "sentiment_votes_up": 87.92,
+    "sentiment_votes_down": 12.08,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 30.22,
-    "recent_tps": 30.22,
-    "recent_tx_count": 2690,
+    "tps_24h_avg": 18.66,
+    "recent_tps": 18.66,
+    "recent_tx_count": 1679,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 104175863,
+    "recent_window_sec": 90,
+    "ledger_seq": 104178173,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-12 08:29:43 KST",
+    "updated_at": "2026-05-12 10:59:21 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,16 +43,16 @@
     "aum_usd": 7590000,
     "total_net_inflow_usd": 7590000,
     "total_value_traded_usd": 7590000,
-    "updated_at": "SoSoValue 순유입 부분 수집 05/12 08:29",
+    "updated_at": "SoSoValue 순유입 부분 수집 05/12 10:59",
     "data_source": "sosovalue",
     "partial": true
   },
   "etf_news": [
     {
-      "title": "고래들이 움직였다! 클래러티법 심사 앞두고 XRP 현물 ETF로 자금 폭발적 유입",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9pcmUxeTZFU0tEMzYxbTVxSWIxVFVtYUlidFdIZG12UUZENXM4WmlqOXhqUHRXNFlkSEZpVFcydHZ3eTk5V29xbVBR?oc=5",
-      "date": "Mon, 11 May 2026 21:42:00 GMT",
-      "source": "코인리더스",
+      "title": "XRP 현물 ETF, 하루 2580만달러 순유입…1월 이후 최대 규모",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE81YlB5WDUwSTg5TnJwZ1c5S0lmTHFRLVhJemtWeHJDUzlUM1FqS09iTjZSUEZRR1dMQ2g4Nk1neFBaWi1iS0RNTTFTLXZhajNG?oc=5",
+      "date": "Tue, 12 May 2026 09:50:53 GMT",
+      "source": "블루밍비트",
       "score": 0
     },
     {
@@ -77,27 +77,41 @@
       "score": 0
     },
     {
-      "title": "“암호화폐(코인) 리플, ETF·은행 채택 등 큰 호재에도 5년 내 1달러 밑으로 갈 듯”",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oR0pHWldlS2lYTHJGOGpPemVzM2FqSnZFRWJTSWFLSlR0NkpVUUNnQTFMZHgzVDlvZjdhdmRoSDRqOUJfa0toOWFaRGM0UlNIbG9YME5n?oc=5",
-      "date": "Sun, 10 May 2026 07:26:00 GMT",
-      "source": "위키트리",
+      "title": "“5조7000억 달러 움직였다?”…UBS, 리플XRP ETF 담았다는 소식에 시장 촉각",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pZ2k5WUdHV0I1RWFDQkk3a3FtcWE4X192VUJ5clpIcllqY2JQRzNIckhQazhXRHBTU0ExbGN0Z0dxYzZCSmxaaTdka1BXVVBiaDM3NTk4RGltdUNrVGJzb29nRkZDVEJU?oc=5",
+      "date": "Sat, 09 May 2026 08:25:00 GMT",
+      "source": "CBC뉴스",
       "score": 0
     },
     {
-      "title": "클래리티 7월에 되면 리플떡상한다",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE01SDB4eHhxR2tSNGo5YTh5UEtvSzBTendXVFVmY1VHVFVxci1aR001SkctLUh6Mk1QbzBlZTFXSDVvNS1yTDY0NV9YcGt4UHY2Vll5REo5Z04?oc=5",
-      "date": "Fri, 08 May 2026 04:10:28 GMT",
-      "source": "코인니스",
+      "title": "ETF 자금 몰리는데 왜 XRP만 멈췄나…리플의 이상한 정체는?",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GdlNjNmE2ZlFsWDFaNmZRTHNidWdjWmE5NFhGSmVGQ2huZzE3ZkI4Q3FSSzJzbm1oZURRU2dodFhhZGx4elJPVXhNV0hYS3BNZEluekJoQjBjS0oxTXRsbjNRdXBVS3lRdnlaNG1jOUh4MGvSAXdBVV95cUxNRG1fbXM0NUk3WGlsajlKU0V4NlBYN2duaktHUEE3a1Z6QTQ2Z3ltWU9RNmJvWDg0TFlnZVMwVjljOUllMV85cHhGcWF5UXNlZ3lSS084U2t5VWFEdHpMUUlmdkg2dHFVTWxaeWdCSkhHMVZMcmJmaw?oc=5",
+      "date": "Thu, 07 May 2026 09:10:00 GMT",
+      "source": "핀포인트뉴스",
       "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "XRP 현물 ETF, 하루 2580만달러 순유입…1월 이후 최대 규모",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE81YlB5WDUwSTg5TnJwZ1c5S0lmTHFRLVhJemtWeHJDUzlUM1FqS09iTjZSUEZRR1dMQ2g4Nk1neFBaWi1iS0RNTTFTLXZhajNG?oc=5",
+      "date": "Tue, 12 May 2026 09:50:53 GMT",
+      "source": "블루밍비트",
+      "score": 3
+    },
     {
       "title": "\"억만장자 기회 놓쳤을 수도\"…XRP·비트코인 대량 매도한 전 리플 CTO 속내",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3LVBHcmNqZjMzenFRVGgxRGUwcmFRa3FDWWRLUEV1dXlST2Q0eWNVUnVLaDN3d0ttLVB4WG1kSWlDNXFUZHBLQjk3RTRURHNOekNz?oc=5",
       "date": "Tue, 12 May 2026 05:11:00 GMT",
       "source": "네이트",
       "score": 2
+    },
+    {
+      "title": "코인 세금 부과해야 한다",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wVGtOR1pNY281Z3VRT1Z1NS1EQWUtdE52MkVLd2tQVUhCZzZQSVB3cTZncUN4Z1g1UEVKLXJSWlRUREs2andqeDZtRUdqN0FGS29DOGRLMFQ?oc=5",
+      "date": "Tue, 12 May 2026 02:22:33 GMT",
+      "source": "코인니스",
+      "score": 8
     },
     {
       "title": "리플(XRP) 사? 팔아?… GPT·클로드·Grok의 엇갈린 전망",
@@ -147,20 +161,6 @@
       "date": "Sun, 10 May 2026 22:02:47 GMT",
       "source": "톱스타뉴스",
       "score": 2
-    },
-    {
-      "title": "xrp 목표가",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ZQ3VZWXNSUkgxWU5YSEVJb2F2X3JhWjVpZU9yWUxpNXNuOG95VmhwbHlFdlZreXQxWk4xOHBKUEpsZmVJTjNXVEI4MEkwYjJuUHZ6WXJ0OFk?oc=5",
-      "date": "Sat, 09 May 2026 05:15:05 GMT",
-      "source": "코인니스",
-      "score": 8
-    },
-    {
-      "title": "XRP 다음 카드는 RLUSD…리플의 스테이블코인 승부수",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE14V1BncGhyek8tdDExWlJvY29BSlNGMTV4QmtQNGhkNWxEejRzVFh2akJCSHc5SWR2UGcxdzQ2YTRUQkg2dWpTTVdHSDNYeDNqaEQwd0J1OHJBNDA0Yk5ic3R5MkpLM29qU3hOOXdvVEwzY3PSAXdBVV95cUxNTjdHWjNVTVJrNG5CeTY3b0JRUkxkZXl2MFdIWFN2dlMwYmN6VE9mQTJUbXhkWDY1djFSOHVwWW9rMkk5d01YZG1hNWdHbzhHYzNmMHZZYkZGZ3lPYVE1WlBzUTNFS1VuT0p0S1psNV9Nb29xMl9mYw?oc=5",
-      "date": "Fri, 08 May 2026 20:41:32 GMT",
-      "source": "핀포인트뉴스",
-      "score": 3
     }
   ]
 }
