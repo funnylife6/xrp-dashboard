@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-12T18:00:05",
+  "generated_at": "2026-05-12T19:59:24",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.43,
-    "price_krw": 2140.73,
-    "price_change_24h": -3.0783,
-    "price_change_7d": 1.53119,
-    "price_change_30d": 8.29706,
-    "market_cap_usd": 88605951336,
-    "market_cap_rank": 4,
-    "volume_24h": 2246488970,
+    "price_usd": 1.44,
+    "price_krw": 2150.95,
+    "price_change_24h": -2.44222,
+    "price_change_7d": 2.22441,
+    "price_change_30d": 8.13892,
+    "market_cap_usd": 89078975697,
+    "market_cap_rank": 5,
+    "volume_24h": 2209105954,
     "circulating_supply": 61796225236.0,
     "total_supply": 99985670046.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 86.36,
-    "sentiment_votes_down": 13.64,
+    "sentiment_votes_up": 85.83,
+    "sentiment_votes_down": 14.17,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 22.27,
-    "recent_tps": 22.27,
-    "recent_tx_count": 1982,
+    "tps_24h_avg": 29.44,
+    "recent_tps": 29.44,
+    "recent_tx_count": 2414,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 104184678,
+    "recent_window_sec": 82,
+    "ledger_seq": 104186522,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-12 17:59:52 KST",
+    "updated_at": "2026-05-12 19:59:10 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 7590000,
     "total_net_inflow_usd": 7590000,
     "total_value_traded_usd": 7590000,
-    "updated_at": "SoSoValue 순유입 부분 수집 05/12 18:00",
+    "updated_at": "SoSoValue 순유입 부분 수집 05/12 19:59",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -135,13 +135,6 @@
       "score": 3
     },
     {
-      "title": "리플 CEO “CLARITY 법안 없어도 문제없어”",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wVkVzMEVsMDVCdlBHSWFrTGYwY2cxSXJZZHRQZ0F0SnZnajNER05kNHUyLTV6eVZ0T240TW1EUlpVdUQ5eGFmSVV1QW5lZk50ZExGYXJoeklqSkNyVGtJY3JBTFpScTJr?oc=5",
-      "date": "Mon, 11 May 2026 14:31:32 GMT",
-      "source": "CBC뉴스",
-      "score": 2
-    },
-    {
       "title": "리플 CEO \"XRP 이탈론 어이없다…사업 확장도 전략의 일환\"",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA4cU5ldjV6TTEyeHI0QXlkSWZWRVRMVnNQUmUyOHFlYzFabFJoYW1ELWtvQlpuV3hPeGliM3g1SUppakJWWXB3TmdQNThkeU5wOVJaV0k1ZmoyMWs0V3JDbVZjT3AxaWRoelVaN2xKZnVvVTQ?oc=5",
       "date": "Mon, 11 May 2026 02:10:00 GMT",
@@ -156,10 +149,17 @@
       "score": 3
     },
     {
-      "title": "리플의 RLUSD 지원금 결과, 2,500만 달러가 미국 교실에 어떻게 전달되었는지 보여준다",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZnN4N1RmMGtvcGp5SUtINFpVMEUyb3NINFI3LV82a0h3ZGdVa3dHQldZMG1MbVIzMkhDYUhkN0dGTW1LVkxnMXZuU0NxTWJnX0pGYm5MVzNERlRLeGtaa2Nic0Vtb3lCdXQ1MUg3SVllV2xrMW9oTHU0dEJoek1QNzJJWUVSMlhoQl9TeENHZk11M08tVjZIMm1lNG5fRFdVM1dFckJsOVRvdExkTDNBTy0zUTE1b01fRkRCMkZQMDJoWFZxX3RKWG1zWlU?oc=5",
-      "date": "Sun, 10 May 2026 04:22:40 GMT",
-      "source": "Bitcoin News",
+      "title": "솔레이어·수이·리플XRP 상승…美 국채금리 하락에 코인시장 ‘투심 회복’",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFRlFnWGE4QnpxaXFMNkhPSEtjOHJoaU8xN2JwcnNNV0FQbWp6MEdkU2I1OC1Hd05lTXVBbW1Ba21NOEVGVm1IejN4WkhOYXQtWE9icE14cHZZOEt1eWEzNkswXzQ5Y29oUDdlN0Nodk5kZw?oc=5",
+      "date": "Sun, 10 May 2026 22:02:47 GMT",
+      "source": "톱스타뉴스",
+      "score": 2
+    },
+    {
+      "title": "\"리플의 성공은 곧 XRP의 성공\" 갈링하우스, 장기적 동행 의지 강조",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5PVV9OWTFyMG1iNE5acGg4Y0s1NjNZY1d5S3FGa2ZBZjAyWWhibGI3XzllOFN0WjI2OFJOQ2VocnYyNWVISEFJRHMwemFVMk9KeEtlMDRYMUEwTFVzdVIyMkNfZ0RSVnZJYTdXS2F3?oc=5",
+      "date": "Sun, 10 May 2026 05:21:29 GMT",
+      "source": "gukjenews.com",
       "score": 2
     }
   ]
