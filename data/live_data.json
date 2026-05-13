@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-13T16:38:56",
+  "generated_at": "2026-05-13T18:53:35",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.42,
-    "price_krw": 2114.04,
-    "price_change_24h": -0.51632,
-    "price_change_7d": -0.66416,
-    "price_change_30d": 5.93992,
-    "market_cap_usd": 87767201167,
+    "price_usd": 1.43,
+    "price_krw": 2124.81,
+    "price_change_24h": -0.61365,
+    "price_change_7d": -0.2312,
+    "price_change_30d": 6.53086,
+    "market_cap_usd": 88150430804,
     "market_cap_rank": 5,
-    "volume_24h": 2288641693,
+    "volume_24h": 2029274149,
     "circulating_supply": 61796225236.0,
     "total_supply": 99985670046.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 80.68,
-    "sentiment_votes_down": 19.32,
+    "sentiment_votes_up": 82.14,
+    "sentiment_votes_down": 17.86,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 22.93,
-    "recent_tps": 22.93,
-    "recent_tx_count": 2064,
+    "tps_24h_avg": 33.04,
+    "recent_tps": 33.04,
+    "recent_tx_count": 2974,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104205696,
+    "ledger_seq": 104207782,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-13 16:38:45 KST",
+    "updated_at": "2026-05-13 18:53:27 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 4190000,
     "total_net_inflow_usd": 4190000,
     "total_value_traded_usd": 4190000,
-    "updated_at": "SoSoValue 순유입 부분 수집 05/13 16:38",
+    "updated_at": "SoSoValue 순유입 부분 수집 05/13 18:53",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -93,6 +93,13 @@
   ],
   "general_news": [
     {
+      "title": "리플 XRP 300달러 가능할까…은행 인프라 확산이 변수로 부상",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FVTRTaXBTbFc4VDV5Wnd5LVZMQlJlWllycXg0TDQ1ejVIWllOb2FUNHhUeTB5eXg0VnZpZ0FjRjZzUm5sWHdVVmQ0TXJzTDBISnI0Qlk1Q09SOGRLbDZScNIBZkFVX3lxTE0yYUc0cWloUzRidTNqaFVLb2Q0NlVpbzYtOVAtMmplUEpBbUxJcnUxX1pLTmtjTUhYekFUYmFjeGt0V0FGM2xlU0tIbWZYT3c3LVNVNE1aZDBGYUplQ2pDYkp0Yk9QUQ?oc=5",
+      "date": "Wed, 13 May 2026 16:39:42 GMT",
+      "source": "tokenpost.kr",
+      "score": 3
+    },
+    {
       "title": "XRP 약세에도 큰손 늘었다…상승 랠리 기대감↑",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5uU1BLUXVLRE55SEFXRlZzaWs5UGtLT2NCSjJQeDktTzUtTmF4aHZmOGZEai0wbU9lQkdFMzJCUnhBbjliakRaT3RRWXduUXZibXFUM1I4Rzl6Zy1JVGRKTUNpZnc2QmkxYURsdTBLVVN3bFU?oc=5",
       "date": "Wed, 13 May 2026 15:09:00 GMT",
@@ -104,13 +111,6 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10MWJVRWNsY05PeEFDckZwU0Z6NXFUSl9kTHcwbTBwX0lnaGR5cVppTXV4XzFYUlUxemg3cC1qSVlNTmphTThzbDMycXVLR05Hb0MtSmNKdXZaNTJobTBnMlN6MzJCQUg0cGlkaHd3?oc=5",
       "date": "Wed, 13 May 2026 15:04:00 GMT",
       "source": "gukjenews.com",
-      "score": 2
-    },
-    {
-      "title": "XRP 중간 보유자 33만 2230지갑 최고치…연초 대비 20% 하락",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA1VHR1bjVpZml1Zk5QeTl1VkFFemMzbklrX3o4RUdQUjg0Rll0RWF2Rk5rNWJ6NDVFOGJPdlppbU9xMmd2Tk9GaVREaVRXYV9ObElnTGV2RnZNSWhuYkJ6TU5mVXNub2g3SVZGMlVHMHd1ZDhnOGxJ?oc=5",
-      "date": "Wed, 13 May 2026 13:12:34 GMT",
-      "source": "BeInCrypto",
       "score": 2
     },
     {
