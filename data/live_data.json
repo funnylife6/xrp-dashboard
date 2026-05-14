@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-14T16:07:29",
+  "generated_at": "2026-05-14T18:15:26",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.47,
-    "price_krw": 2196.95,
-    "price_change_24h": 4.19408,
-    "price_change_7d": 5.71491,
-    "price_change_30d": 7.10893,
-    "market_cap_usd": 90905142924,
-    "market_cap_rank": 5,
-    "volume_24h": 2265109088,
+    "price_usd": 1.5,
+    "price_krw": 2245.72,
+    "price_change_24h": 5.21103,
+    "price_change_7d": 8.47753,
+    "price_change_30d": 9.81254,
+    "market_cap_usd": 92291657193,
+    "market_cap_rank": 4,
+    "volume_24h": 2609569038,
     "circulating_supply": 61796225236.0,
     "total_supply": 99985670046.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 80.85,
-    "sentiment_votes_down": 19.15,
+    "sentiment_votes_up": 82.46,
+    "sentiment_votes_down": 17.54,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 31.67,
-    "recent_tps": 31.67,
-    "recent_tx_count": 2850,
+    "tps_24h_avg": 52.51,
+    "recent_tps": 52.51,
+    "recent_tx_count": 4726,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104227505,
+    "ledger_seq": 104229482,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-14 16:07:14 KST",
+    "updated_at": "2026-05-14 18:15:14 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -52,13 +52,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaQmY2RlZSeWxvV2hHVEpDV01EUXdPRmVZVWYzOGpjWUlXVUxUUkJoOVlyT29CTlRlSnJGYjVUSnhBcTlfdVgxWUN5ajVSN3NnQ1hLOVNPLXFmbmNqSzBlbGZsUVo4anJU?oc=5",
       "date": "Thu, 14 May 2026 15:00:00 GMT",
       "source": "CBC뉴스",
-      "score": 0
-    },
-    {
-      "title": "잘나가던 솔라나·도지코인까지 '날벼락'… ETF 상품 지위 박탈 위기의 진실",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9LWDVxMEp6bHU1Yjl0c1AxWFlybGZ2b0dTbTlzYmYyWF9xQ3NwcXhHQVoyS3lsZUpDMnVLejlCUHR2MXl0YWRWM1hhcDVMcGFGNUhFdFdIR09xajl0VFpBa20wZ0xrTWFKeTRWdnB3NnUxc1XSAXdBVV95cUxNNUZaNkhJdE1ZZlBOeWhKVDBfMW9tRGlJMGw4RUhLNWVaUFRISjFyRGZRZDhtWGJQSk5fVnhNeE5pSWhxenFmc05fa0xjZGpMZERvZ1NHbWlibVhCTjZRQ2VaeU1GLXExdTdqMS1seTlvM3hNWmk2WQ?oc=5",
-      "date": "Thu, 14 May 2026 10:16:48 GMT",
-      "source": "핀포인트뉴스",
       "score": 0
     },
     {
@@ -88,6 +81,13 @@
       "date": "Tue, 12 May 2026 20:00:08 GMT",
       "source": "경향게임스",
       "score": 0
+    },
+    {
+      "title": "XRP 현물 ETF, 2580만달러 몰렸다…1월 이후 일일 최대 순유입",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5aOGlVSXYyRjlDYzlKS3ZPZU1Ra29PTWpvbXhYdG15YWtXdWk3N3FpSXA2TUp2dU1RNkpQU1FWeDhxY0EzRldrQjJERkw2bmlBZE43SGUxcDJid3M5Y2o4elRwcXdjUzdhazBJekJqdFZFMjQ?oc=5",
+      "date": "Tue, 12 May 2026 13:27:10 GMT",
+      "source": "디지털투데이",
+      "score": 0
     }
   ],
   "general_news": [
@@ -104,13 +104,6 @@
       "date": "Thu, 14 May 2026 15:00:00 GMT",
       "source": "CBC뉴스",
       "score": 3
-    },
-    {
-      "title": "리플 CEO \"XRP, 5초면 결제 완료·40억 건 처리\"",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9sNktwQ050QkVTcGE3RDNUN081Q3FpTk8xcVF6aEsxck5RRkxlYi1GQjNwX2RNcHpfTDZSVnVEdW1Ic3dIeXNUc1Z3?oc=5",
-      "date": "Thu, 14 May 2026 14:00:00 GMT",
-      "source": "코인리더스",
-      "score": 2
     },
     {
       "title": "리플 전 CTO, ‘최악 보안 결함’ 경고",
@@ -153,6 +146,13 @@
       "date": "Tue, 12 May 2026 22:24:24 GMT",
       "source": "gukjenews.com",
       "score": 4
+    },
+    {
+      "title": "비트코인·리플XRP 하락·사하라에이아이 급등…美 CPI에 코인시장 ‘관망확대’",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE14RTg1QlNQenNHbDViMVo5Y0wwdWJ1enFGeUdnUHFwUmRSMERRMlpwOTZCSzByYk5lQktwS1V5MU45VDUxS0RRcHJiUzB6S2Z1NVdZc1dsUWhMTVZTT001YWNnRlNBV0V2cXJycVR0RzM3dw?oc=5",
+      "date": "Tue, 12 May 2026 22:24:21 GMT",
+      "source": "톱스타뉴스",
+      "score": 2
     },
     {
       "title": "XRP 현물 ETF, 하루 2580만달러 순유입…1월 이후 최대 규모",
