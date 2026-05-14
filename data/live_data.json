@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-14T09:56:27",
+  "generated_at": "2026-05-14T11:47:37",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.43,
-    "price_krw": 2130.07,
-    "price_change_24h": -2.72551,
-    "price_change_7d": 0.88285,
-    "price_change_30d": 4.31755,
-    "market_cap_usd": 88259517564,
+    "price_krw": 2137.64,
+    "price_change_24h": -1.29048,
+    "price_change_7d": 1.6182,
+    "price_change_30d": 4.49449,
+    "market_cap_usd": 88522802216,
     "market_cap_rank": 5,
-    "volume_24h": 2092125524,
+    "volume_24h": 2127575564,
     "circulating_supply": 61796225236.0,
     "total_supply": 99985670046.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 78.08,
-    "sentiment_votes_down": 21.92,
+    "sentiment_votes_up": 78.95,
+    "sentiment_votes_down": 21.05,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 32.45,
-    "recent_tps": 32.45,
-    "recent_tx_count": 2661,
+    "tps_24h_avg": 34.54,
+    "recent_tps": 34.54,
+    "recent_tx_count": 3074,
     "recent_ledger_count": 24,
-    "recent_window_sec": 82,
-    "ledger_seq": 104221773,
+    "recent_window_sec": 89,
+    "ledger_seq": 104223489,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-14 09:56:19 KST",
+    "updated_at": "2026-05-14 11:47:26 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -48,6 +48,13 @@
   },
   "etf_news": [
     {
+      "title": "잘나가던 솔라나·도지코인까지 '날벼락'… ETF 상품 지위 박탈 위기의 진실",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9LWDVxMEp6bHU1Yjl0c1AxWFlybGZ2b0dTbTlzYmYyWF9xQ3NwcXhHQVoyS3lsZUpDMnVLejlCUHR2MXl0YWRWM1hhcDVMcGFGNUhFdFdIR09xajl0VFpBa20wZ0xrTWFKeTRWdnB3NnUxc1XSAXdBVV95cUxNNUZaNkhJdE1ZZlBOeWhKVDBfMW9tRGlJMGw4RUhLNWVaUFRISjFyRGZRZDhtWGJQSk5fVnhNeE5pSWhxenFmc05fa0xjZGpMZERvZ1NHbWlibVhCTjZRQ2VaeU1GLXExdTdqMS1seTlvM3hNWmk2WQ?oc=5",
+      "date": "Thu, 14 May 2026 10:16:48 GMT",
+      "source": "핀포인트뉴스",
+      "score": 0
+    },
+    {
       "title": "리플(XRP) 1.43달러로 밀렸는데…‘지갑’ 역대 최대, 고래 매집 신호인가",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xdWdMQTA4ZF93LU1xeHA5bkhOSFlKSjhFMUt6WGFFeG1iU0ViYWJWQTRtWVl0M1hHSTdBN2lNUU8zZG9mYnF5ZVoyUkVPR0g4Rmhlek0tV05zNVlsR1FVZVYzUmNuY2Nq?oc=5",
       "date": "Thu, 14 May 2026 05:25:43 GMT",
@@ -58,6 +65,13 @@
       "title": "XRP 조정장 끝?…ETF 자금 유입에 낙관론 확산",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CUUxTSlBqYVhYVFFGaXVUX0d3RzdIcFU5b3lRbVVsS2VtMFI0eE95LU9IanVCRDJGdkJIa3dVVHNFNlZfa2REUUtLYjBpNDJFLWs0SWg1aWFKSlRnSGo4eEo3Nk1fQTBzdjBiREc5WUgtQnc?oc=5",
       "date": "Wed, 13 May 2026 01:29:00 GMT",
+      "source": "디지털투데이",
+      "score": 0
+    },
+    {
+      "title": "리플 전 CTO \"비트코인·이더리움보다 XRP가 수익률 높았다\"",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YOGVvdHBHNUZTNm9OM0ZsOHNwTXZwc0k0bl9JVHVRNGg5OUNCbGlRd0w0YVJoeHM3Rkl2SDcwTzB6NDNIS3Vab3dSaDgtR2lGODVnMzlmY2haaFZLeWNvbGs5QWVpTC1QMzgxeWZVclZPcGc?oc=5",
+      "date": "Wed, 13 May 2026 01:25:00 GMT",
       "source": "디지털투데이",
       "score": 0
     },
@@ -73,20 +87,6 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2LVVIWjVIM2FTZ1BiNFE4LXMycjkxdlA4OXNRWTh6ZEMycW5ReEs3V3JSaktJZTN3N1UwMXVGOUV6U29LRjl1NG5XQ1V1SkZhM05wSlM1blI2S0lXOHFfcEhtUDhiSVFMblpiRQ?oc=5",
       "date": "Tue, 12 May 2026 20:00:08 GMT",
       "source": "경향게임스",
-      "score": 0
-    },
-    {
-      "title": "XRP 현물 ETF, 2580만달러 몰렸다…1월 이후 일일 최대 순유입",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5aOGlVSXYyRjlDYzlKS3ZPZU1Ra29PTWpvbXhYdG15YWtXdWk3N3FpSXA2TUp2dU1RNkpQU1FWeDhxY0EzRldrQjJERkw2bmlBZE43SGUxcDJid3M5Y2o4elRwcXdjUzdhazBJekJqdFZFMjQ?oc=5",
-      "date": "Tue, 12 May 2026 13:27:10 GMT",
-      "source": "디지털투데이",
-      "score": 0
-    },
-    {
-      "title": "XRP 현물 ETF, 하루 2580만달러 순유입…1월 이후 최대 규모",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE81YlB5WDUwSTg5TnJwZ1c5S0lmTHFRLVhJemtWeHJDUzlUM1FqS09iTjZSUEZRR1dMQ2g4Nk1neFBaWi1iS0RNTTFTLXZhajNG?oc=5",
-      "date": "Tue, 12 May 2026 09:50:53 GMT",
-      "source": "블루밍비트",
       "score": 0
     }
   ],
