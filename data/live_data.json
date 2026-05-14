@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-13T22:59:50",
+  "generated_at": "2026-05-14T00:04:37",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.42,
-    "price_krw": 2118.87,
-    "price_change_24h": -1.18095,
-    "price_change_7d": -0.31541,
-    "price_change_30d": 5.23645,
-    "market_cap_usd": 87909700328,
+    "price_usd": 1.43,
+    "price_krw": 2127.79,
+    "price_change_24h": -0.56971,
+    "price_change_7d": 0.25388,
+    "price_change_30d": 3.86255,
+    "market_cap_usd": 88171948242,
     "market_cap_rank": 5,
-    "volume_24h": 2330356416,
+    "volume_24h": 2357888828,
     "circulating_supply": 61796225236.0,
     "total_supply": 99985670046.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 83.13,
-    "sentiment_votes_down": 16.87,
+    "sentiment_votes_up": 83.33,
+    "sentiment_votes_down": 16.67,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 32.29,
-    "recent_tps": 32.29,
-    "recent_tx_count": 2874,
+    "tps_24h_avg": 36.6,
+    "recent_tps": 36.6,
+    "recent_tx_count": 3257,
     "recent_ledger_count": 24,
     "recent_window_sec": 89,
-    "ledger_seq": 104211598,
+    "ledger_seq": 104212606,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-13 22:59:35 KST",
+    "updated_at": "2026-05-14 00:04:26 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -99,13 +99,6 @@
       "score": 2
     },
     {
-      "title": "리플 XRP 300달러 가능할까…은행 인프라 확산이 변수로 부상",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FVTRTaXBTbFc4VDV5Wnd5LVZMQlJlWllycXg0TDQ1ejVIWllOb2FUNHhUeTB5eXg0VnZpZ0FjRjZzUm5sWHdVVmQ0TXJzTDBISnI0Qlk1Q09SOGRLbDZScNIBZkFVX3lxTE0yYUc0cWloUzRidTNqaFVLb2Q0NlVpbzYtOVAtMmplUEpBbUxJcnUxX1pLTmtjTUhYekFUYmFjeGt0V0FGM2xlU0tIbWZYT3c3LVNVNE1aZDBGYUplQ2pDYkp0Yk9QUQ?oc=5",
-      "date": "Wed, 13 May 2026 16:39:42 GMT",
-      "source": "tokenpost.kr",
-      "score": 3
-    },
-    {
       "title": "XRP 약세에도 큰손 늘었다…상승 랠리 기대감↑",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5uU1BLUXVLRE55SEFXRlZzaWs5UGtLT2NCSjJQeDktTzUtTmF4aHZmOGZEai0wbU9lQkdFMzJCUnhBbjliakRaT3RRWXduUXZibXFUM1I4Rzl6Zy1JVGRKTUNpZnc2QmkxYURsdTBLVVN3bFU?oc=5",
       "date": "Wed, 13 May 2026 15:09:00 GMT",
@@ -117,13 +110,6 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10MWJVRWNsY05PeEFDckZwU0Z6NXFUSl9kTHcwbTBwX0lnaGR5cVppTXV4XzFYUlUxemg3cC1qSVlNTmphTThzbDMycXVLR05Hb0MtSmNKdXZaNTJobTBnMlN6MzJCQUg0cGlkaHd3?oc=5",
       "date": "Wed, 13 May 2026 15:04:00 GMT",
       "source": "gukjenews.com",
-      "score": 2
-    },
-    {
-      "title": "XRP, 워런이 막자 '꿈틀'...리플 마스터 계좌 차단 시도에 시장 '초긴장'",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5uUnYzMlBKeHpBaU5NNEhId1VQVlR0RlpLRlpaUm5xSkRwZGprNnNVenAtcExHTjZ1ZURkaTFNTlRYNDRSVzJxcmNR?oc=5",
-      "date": "Wed, 13 May 2026 11:20:00 GMT",
-      "source": "코인리더스",
       "score": 2
     },
     {
@@ -155,11 +141,25 @@
       "score": 2
     },
     {
+      "title": "리플 전 CTO 데이비드 슈워츠, 가장 큰 수익 낸 코인 공개",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE54aG93MTBWOGhFM19QdXhjZEEwZGlpR3NtRGdqbW9nVUhfcUZDbGRrR0lEdFNfbTNNTGtUQWpUTndCeU9QdVd3QjNoTkdIUjhsNnJvaDVBZlJNSC1leWtETmlpRmZtV0NQU0I4aldVT2Rrd28?oc=5",
+      "date": "Tue, 12 May 2026 10:15:36 GMT",
+      "source": "BeInCrypto",
+      "score": 2
+    },
+    {
       "title": "XRP 현물 ETF, 하루 2580만달러 순유입…1월 이후 최대 규모",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE81YlB5WDUwSTg5TnJwZ1c5S0lmTHFRLVhJemtWeHJDUzlUM1FqS09iTjZSUEZRR1dMQ2g4Nk1neFBaWi1iS0RNTTFTLXZhajNG?oc=5",
       "date": "Tue, 12 May 2026 09:50:53 GMT",
       "source": "블루밍비트",
       "score": 3
+    },
+    {
+      "title": "\"억만장자 기회 놓쳤을 수도\"…XRP·비트코인 대량 매도한 전 리플 CTO 속내",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Zay1IYWVWWTljYWJvdXdrSmQ1dVBsX1U2RUlWTEhsYXBUNjVIV3BVVnRiMUxsTElHZkdiUUVxbldiUWtzUUZZRmZyeW5YSUcwUy1xbmxBSml4SE5ZV3lHcTFtNmxWQm5BaHRRenlBemo0a2c?oc=5",
+      "date": "Tue, 12 May 2026 05:10:00 GMT",
+      "source": "디지털투데이",
+      "score": 2
     }
   ]
 }
