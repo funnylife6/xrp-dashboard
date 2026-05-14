@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-14T18:15:26",
+  "generated_at": "2026-05-14T20:12:26",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.5,
-    "price_krw": 2245.72,
-    "price_change_24h": 5.21103,
-    "price_change_7d": 8.47753,
-    "price_change_30d": 9.81254,
-    "market_cap_usd": 92291657193,
+    "price_usd": 1.51,
+    "price_krw": 2252.75,
+    "price_change_24h": 6.28022,
+    "price_change_7d": 8.85305,
+    "price_change_30d": 11.41449,
+    "market_cap_usd": 93304014952,
     "market_cap_rank": 4,
-    "volume_24h": 2609569038,
+    "volume_24h": 3568845653,
     "circulating_supply": 61796225236.0,
     "total_supply": 99985670046.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 82.46,
-    "sentiment_votes_down": 17.54,
+    "sentiment_votes_up": 86.62,
+    "sentiment_votes_down": 13.38,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 52.51,
-    "recent_tps": 52.51,
-    "recent_tx_count": 4726,
+    "tps_24h_avg": 46.38,
+    "recent_tps": 46.38,
+    "recent_tx_count": 4174,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104229482,
+    "ledger_seq": 104231287,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-14 18:15:14 KST",
+    "updated_at": "2026-05-14 20:12:11 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,13 +92,6 @@
   ],
   "general_news": [
     {
-      "title": "엑스알피(리플) 목표가 10달러...법 통과 앞두고 '순유입 최고치'",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1uYzZYUHJNUEhMVjBvOFpZWXU5b1k1bjB1VWFLaVdfRURnQ0RkckU3MWRIelhTUXB6N1J6ajFFdXYtN0MyLVkxcHN2ekNrcE0wektMVFU0TjF0VDc3UEJUcDM4d3JUWWxNd1lKNW1n?oc=5",
-      "date": "Thu, 14 May 2026 15:02:00 GMT",
-      "source": "gukjenews.com",
-      "score": 2
-    },
-    {
       "title": "리플(XRP) 9.5억달러 매집했던 에버노스…미실현 손실만 3.9억달러",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaQmY2RlZSeWxvV2hHVEpDV01EUXdPRmVZVWYzOGpjWUlXVUxUUkJoOVlyT29CTlRlSnJGYjVUSnhBcTlfdVgxWUN5ajVSN3NnQ1hLOVNPLXFmbmNqSzBlbGZsUVo4anJU?oc=5",
       "date": "Thu, 14 May 2026 15:00:00 GMT",
@@ -134,6 +127,20 @@
       "score": 2
     },
     {
+      "title": "\"스위프트 구시대 시스템 종료\"… 엑스알피(XRP), 국제 결제 표준 전환 최대 수혜주 부상",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVUpfOWhPQXZvZ0RtN25PRlpldm5nZkdJeExqLV95R2dhOXk3RDZjcTZwQnpsakV2OUhwQmNZNVl4M2NVOFA2aGtWSGZtZUlNaFFndGdjSE04NzZQaUlxSjI1MlBWdUxtaDg5WDhSZ2N2YThSMnltTDc3cXdDbGpDN0xsV2lkbmlI?oc=5",
+      "date": "Wed, 13 May 2026 20:48:23 GMT",
+      "source": "글로벌이코노믹",
+      "score": 2
+    },
+    {
+      "title": "엑스알피(리플) 상승세 시작? 자금 유입·법 통과로 '10달러' 전망",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10MWJVRWNsY05PeEFDckZwU0Z6NXFUSl9kTHcwbTBwX0lnaGR5cVppTXV4XzFYUlUxemg3cC1qSVlNTmphTThzbDMycXVLR05Hb0MtSmNKdXZaNTJobTBnMlN6MzJCQUg0cGlkaHd3?oc=5",
+      "date": "Wed, 13 May 2026 15:04:00 GMT",
+      "source": "gukjenews.com",
+      "score": 2
+    },
+    {
       "title": "리플 전 CTO \"비트코인·이더리움보다 XRP가 수익률 높았다\"",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43TzBwZmZRMXFrQWxWYjdtRXZjVlVmUWh3anJLUjRvY0xOc0xOZ0d1aVF4X2U5WGNBcWNkdjRSWDZqX1FFQ3lEd0xvbzdrMzJlOF9V?oc=5",
       "date": "Wed, 13 May 2026 01:26:00 GMT",
@@ -146,13 +153,6 @@
       "date": "Tue, 12 May 2026 22:24:24 GMT",
       "source": "gukjenews.com",
       "score": 4
-    },
-    {
-      "title": "비트코인·리플XRP 하락·사하라에이아이 급등…美 CPI에 코인시장 ‘관망확대’",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE14RTg1QlNQenNHbDViMVo5Y0wwdWJ1enFGeUdnUHFwUmRSMERRMlpwOTZCSzByYk5lQktwS1V5MU45VDUxS0RRcHJiUzB6S2Z1NVdZc1dsUWhMTVZTT001YWNnRlNBV0V2cXJycVR0RzM3dw?oc=5",
-      "date": "Tue, 12 May 2026 22:24:21 GMT",
-      "source": "톱스타뉴스",
-      "score": 2
     },
     {
       "title": "XRP 현물 ETF, 하루 2580만달러 순유입…1월 이후 최대 규모",
