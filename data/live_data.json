@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-05-14T11:47:37",
+  "generated_at": "2026-05-14T13:51:59",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.43,
-    "price_krw": 2137.64,
-    "price_change_24h": -1.29048,
-    "price_change_7d": 1.6182,
-    "price_change_30d": 4.49449,
-    "market_cap_usd": 88522802216,
+    "price_usd": 1.45,
+    "price_krw": 2157.5,
+    "price_change_24h": 1.56448,
+    "price_change_7d": 2.63179,
+    "price_change_30d": 5.96729,
+    "market_cap_usd": 89411067046,
     "market_cap_rank": 5,
-    "volume_24h": 2127575564,
+    "volume_24h": 2125321691,
     "circulating_supply": 61796225236.0,
     "total_supply": 99985670046.0,
     "ath_usd": 3.65,
@@ -22,16 +22,16 @@
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 34.54,
-    "recent_tps": 34.54,
-    "recent_tx_count": 3074,
+    "tps_24h_avg": 33.13,
+    "recent_tps": 33.13,
+    "recent_tx_count": 2949,
     "recent_ledger_count": 24,
     "recent_window_sec": 89,
-    "ledger_seq": 104223489,
+    "ledger_seq": 104225410,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-14 11:47:26 KST",
+    "updated_at": "2026-05-14 13:51:43 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -155,11 +155,11 @@
       "score": 4
     },
     {
-      "title": "웜홀 파트너십으로 리플, RLUSD 스테이블코인을 이더리움 레이어 2로 확장",
-      "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQSURERUVtMXQ5ak5nX2x2djZOV0FFTnZaYnJXekNJV0JmU25BYlI5c2YtS2psR3Y4RkExazc5M0I2NHh4WUpXNVlyTERZODM3UmFab3hSU3pUS1ZUZnpXR0tFVThJdFNTUWRMLXMyWWphMXpzSDd1REtPN1FfZ1VueHNwT0o0UV9zdXBVcnA3OG5JQ0k5TWVfTEVRbE02VUc2OXItaGp4TUhveE8xS0Q5RzZJcmY1MFlCVGFUYWdicjNmS3hyUm5fcHltS3ozdXROOTB1YTZzNU1PUTllUjM2NkdOTW5rM09OOS1ZRkI4QjZucUNwdUtUbjM2d3pmOWsyRUt2SFNYMVZwcWtQdHhPU0I1NDBwM2hwTzlfbzZqdW50LU81bDItTVR5SFhFOTQtQUVPc3RITWF4eFhpZlFEOFZ5clFteWF0ZTZsUmlNTnlGODFUTHR3ZXp1VzlmODBCS1ZTaE9uOFVKeVJsc1FwMXNiRFktUkxyeFA1bC1VeVRDQkZ3UUcxT1VtMUFUaTNSeUhtTm1JMA?oc=5",
-      "date": "Tue, 12 May 2026 16:24:23 GMT",
-      "source": "Yellow.com",
-      "score": 2
+      "title": "XRP 현물 ETF, 하루 2580만달러 순유입…1월 이후 최대 규모",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE81YlB5WDUwSTg5TnJwZ1c5S0lmTHFRLVhJemtWeHJDUzlUM1FqS09iTjZSUEZRR1dMQ2g4Nk1neFBaWi1iS0RNTTFTLXZhajNG?oc=5",
+      "date": "Tue, 12 May 2026 09:50:53 GMT",
+      "source": "블루밍비트",
+      "score": 3
     }
   ]
 }
