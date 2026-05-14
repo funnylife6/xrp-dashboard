@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-14T07:28:54",
+  "generated_at": "2026-05-14T09:56:27",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.43,
-    "price_krw": 2132.94,
-    "price_change_24h": -1.86593,
-    "price_change_7d": 1.56064,
-    "price_change_30d": 4.42327,
-    "market_cap_usd": 88450262143,
+    "price_krw": 2130.07,
+    "price_change_24h": -2.72551,
+    "price_change_7d": 0.88285,
+    "price_change_30d": 4.31755,
+    "market_cap_usd": 88259517564,
     "market_cap_rank": 5,
-    "volume_24h": 2139960517,
+    "volume_24h": 2092125524,
     "circulating_supply": 61796225236.0,
     "total_supply": 99985670046.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 81.08,
-    "sentiment_votes_down": 18.92,
+    "sentiment_votes_up": 78.08,
+    "sentiment_votes_down": 21.92,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 21.5,
-    "recent_tps": 21.5,
-    "recent_tx_count": 1763,
+    "tps_24h_avg": 32.45,
+    "recent_tps": 32.45,
+    "recent_tx_count": 2661,
     "recent_ledger_count": 24,
     "recent_window_sec": 82,
-    "ledger_seq": 104219489,
+    "ledger_seq": 104221773,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-14 07:28:38 KST",
+    "updated_at": "2026-05-14 09:56:19 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,6 +92,13 @@
   ],
   "general_news": [
     {
+      "title": "리플 전 CTO, ‘최악 보안 결함’ 경고",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9aY1RkTWJUWDRleE9FN2tOUzFicTJ4UDJ5akNuVk1hb19PWC1IWU0tR0pGcENEaTNxUkxTUktqdndhUGpBcnRGVjZfdEtiWDNDaUw5SjE0YjQ4ZjlMQ0JQb2UtZjZkM19jVWVvTGcwUlVmWGR0UnNXNg?oc=5",
+      "date": "Thu, 14 May 2026 07:45:40 GMT",
+      "source": "BeInCrypto",
+      "score": 2
+    },
+    {
       "title": "리플(XRP) 1.43달러로 밀렸는데…‘지갑’ 역대 최대, 고래 매집 신호인가",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xdWdMQTA4ZF93LU1xeHA5bkhOSFlKSjhFMUt6WGFFeG1iU0ViYWJWQTRtWVl0M1hHSTdBN2lNUU8zZG9mYnF5ZVoyUkVPR0g4Rmhlek0tV05zNVlsR1FVZVYzUmNuY2Nq?oc=5",
       "date": "Thu, 14 May 2026 05:25:43 GMT",
@@ -134,17 +141,10 @@
       "score": 2
     },
     {
-      "title": "XRP 중간 보유자 33만 2230지갑 최고치…연초 대비 20% 하락",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA1VHR1bjVpZml1Zk5QeTl1VkFFemMzbklrX3o4RUdQUjg0Rll0RWF2Rk5rNWJ6NDVFOGJPdlppbU9xMmd2Tk9GaVREaVRXYV9ObElnTGV2RnZNSWhuYkJ6TU5mVXNub2g3SVZGMlVHMHd1ZDhnOGxJ?oc=5",
-      "date": "Wed, 13 May 2026 13:12:34 GMT",
-      "source": "BeInCrypto",
-      "score": 2
-    },
-    {
-      "title": "🔥 \"5월 14일, 운명의 망치가 떨어진다\" — 리플의 모든 것이 걸린 24시간, 워싱턴·룩셈부르크·모스크바가 동시에 움직이는 이유",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNVRRblR6Q0QwTXdMc01GdUFhS21NdHRQQUYxNHpBSzN5NmlxTWVFRlYyaXRoZFczZVFGNk12N3daR2tKWC0tSXZOMURqZzJoZlJSenRuYnltbHhSYzM1Wm94NUdlNmtyU1A5RUROR0ZzeEppU19fVktBeS1RVnh2NS1KZGdtb3dmbkVucQ?oc=5",
-      "date": "Wed, 13 May 2026 02:24:00 GMT",
-      "source": "네이버 프리미엄콘텐츠",
+      "title": "리플 전 CTO \"비트코인·이더리움보다 XRP가 수익률 높았다\"",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43TzBwZmZRMXFrQWxWYjdtRXZjVlVmUWh3anJLUjRvY0xOc0xOZ0d1aVF4X2U5WGNBcWNkdjRSWDZqX1FFQ3lEd0xvbzdrMzJlOF9V?oc=5",
+      "date": "Wed, 13 May 2026 01:26:00 GMT",
+      "source": "네이트",
       "score": 2
     },
     {
@@ -155,10 +155,10 @@
       "score": 4
     },
     {
-      "title": "비트코인·리플XRP 하락·사하라에이아이 급등…美 CPI에 코인시장 ‘관망확대’",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE14RTg1QlNQenNHbDViMVo5Y0wwdWJ1enFGeUdnUHFwUmRSMERRMlpwOTZCSzByYk5lQktwS1V5MU45VDUxS0RRcHJiUzB6S2Z1NVdZc1dsUWhMTVZTT001YWNnRlNBV0V2cXJycVR0RzM3dw?oc=5",
-      "date": "Tue, 12 May 2026 22:24:21 GMT",
-      "source": "톱스타뉴스",
+      "title": "웜홀 파트너십으로 리플, RLUSD 스테이블코인을 이더리움 레이어 2로 확장",
+      "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQSURERUVtMXQ5ak5nX2x2djZOV0FFTnZaYnJXekNJV0JmU25BYlI5c2YtS2psR3Y4RkExazc5M0I2NHh4WUpXNVlyTERZODM3UmFab3hSU3pUS1ZUZnpXR0tFVThJdFNTUWRMLXMyWWphMXpzSDd1REtPN1FfZ1VueHNwT0o0UV9zdXBVcnA3OG5JQ0k5TWVfTEVRbE02VUc2OXItaGp4TUhveE8xS0Q5RzZJcmY1MFlCVGFUYWdicjNmS3hyUm5fcHltS3ozdXROOTB1YTZzNU1PUTllUjM2NkdOTW5rM09OOS1ZRkI4QjZucUNwdUtUbjM2d3pmOWsyRUt2SFNYMVZwcWtQdHhPU0I1NDBwM2hwTzlfbzZqdW50LU81bDItTVR5SFhFOTQtQUVPc3RITWF4eFhpZlFEOFZ5clFteWF0ZTZsUmlNTnlGODFUTHR3ZXp1VzlmODBCS1ZTaE9uOFVKeVJsc1FwMXNiRFktUkxyeFA1bC1VeVRDQkZ3UUcxT1VtMUFUaTNSeUhtTm1JMA?oc=5",
+      "date": "Tue, 12 May 2026 16:24:23 GMT",
+      "source": "Yellow.com",
       "score": 2
     }
   ]
