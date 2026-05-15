@@ -1,51 +1,50 @@
 {
-  "generated_at": "2026-05-15T21:52:51",
+  "generated_at": "2026-05-15T22:47:43",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.43,
-    "price_krw": 2147.33,
-    "price_change_24h": -4.23625,
-    "price_change_7d": 1.59121,
-    "price_change_30d": 3.30471,
-    "market_cap_usd": 88650215768,
+    "price_krw": 2145.21,
+    "price_change_24h": -4.68357,
+    "price_change_7d": 0.83612,
+    "price_change_30d": 3.12539,
+    "market_cap_usd": 88561232192,
     "market_cap_rank": 5,
-    "volume_24h": 2588670933,
-    "circulating_supply": 61796225236.0,
-    "total_supply": 99985670046.0,
+    "volume_24h": 2517813149,
+    "circulating_supply": 61829045420.0,
+    "total_supply": 99985666473.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 87.8,
-    "sentiment_votes_down": 12.2,
+    "sentiment_votes_up": 87.34,
+    "sentiment_votes_down": 12.66,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 21.62,
-    "recent_tps": 21.62,
-    "recent_tx_count": 1924,
+    "tps_24h_avg": 29.8,
+    "recent_tps": 29.8,
+    "recent_tx_count": 2652,
     "recent_ledger_count": 24,
     "recent_window_sec": 89,
-    "ledger_seq": 104255146,
+    "ledger_seq": 104255996,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-15 21:52:41 KST",
+    "updated_at": "2026-05-15 22:47:37 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
   },
   "etf_flow": {
-    "approved_count": 4,
+    "approved_count": 0,
     "daily_inflow_usd": 0,
     "weekly_inflow_usd": 0,
-    "aum_usd": 7010000,
-    "total_net_inflow_usd": 7010000,
-    "total_value_traded_usd": 7010000,
-    "updated_at": "SoSoValue 순유입 부분 수집 05/15 21:52",
-    "data_source": "sosovalue",
-    "partial": true
+    "aum_usd": 0,
+    "total_net_inflow_usd": 0,
+    "total_value_traded_usd": 0,
+    "updated_at": "뉴스 자동 파싱 대기",
+    "data_source": "news_parse"
   },
   "etf_news": [
     {
@@ -93,6 +92,13 @@
   ],
   "general_news": [
     {
+      "title": "아이리스 급락·리플XRP 하락·비트코인 약세…국채금리 급등에 관망세 확대",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZR2VGVlh0eFNJX1VFYzFqYVFTRmNhUmtsMWstSkxIQWlndUVWU0xhSzcyTXltc0RXWXFyVGN3Zkozems0SlRtX01Ia21FckhzN1BMUXRzWTUzWGFYZVZWMlRVbFBCV0hoVHhvV2RoM3hLdw?oc=5",
+      "date": "Fri, 15 May 2026 21:54:54 GMT",
+      "source": "톱스타뉴스",
+      "score": 2
+    },
+    {
       "title": "JP모건·마스터카드도 눈독…리플, 결국 25달러 간다",
       "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPel9peFdtMkZoSUwySmVrT3dSSm1Ta3VUeEtZWE93MVdkOE5GQ1h1eURFUDRDRURNN1QtUjVpbEdhWG96Y0RsRmNzVkhiOUNFV0JGZ1dZWkR0N01FOElUQjZpWllXRnpNTk5PSG03QmxpVllkNHN4bFVkUkU3cS15MVNCaXBkSkozSGlIekpkaF9XMFhBdnJtOG5sR0QtTm1PVUp2MEtGenRWckxaRnpDUkgzU0FZallMTjB2V1pLUW0zRTlXcC1IRDlqbnV1WUs3dTZuNFVkX0w4ZTVwOU9BUFlic2JWQkxRclBWT2piZTlEVXhwX3N2OVhheGRDZlB0eUc0WXJKemcwckRtbU1hU0s1Yzh0OXBfS1pSeDJ0ZVU5ZnRMY19vSE1aSkJaclNCTVF2akk0TndRQThnal93bk9ZTDJPOFZOb01zX1NjbTh6Zw?oc=5",
       "date": "Fri, 15 May 2026 17:24:23 GMT",
@@ -111,13 +117,6 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5FQzAwMEU3U0F5VVprU0dQdlpLTElQZzA0djdxanFXeXFfNWdiNjlObWVnX3hRNVhkckZobEJlSkp1bHRtbGhiNjR5a0pEblVOclZCelhRVEZ3OThtQmQxX0hjLXNsSzl1c0NjY3JsVmtaZms?oc=5",
       "date": "Thu, 14 May 2026 23:13:42 GMT",
       "source": "디지털투데이",
-      "score": 2
-    },
-    {
-      "title": "코인거래액 47.0%↓…리플XRP·비트코인 상승, 미중 기대에도 관망 확대",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vTW1iQXRQVElMOU96elZ4STI4ZmxwS056OU1aT3pxRURkaXRwdDhma3RtZHlGYTlDaFNxaHpZeDRycWxWZFlDYzJZQ1VTSGRMc1ZPRXpPOTdPeDlRV2R1Y3hDSmZmdGhfcG5nVWVBeDhKUQ?oc=5",
-      "date": "Thu, 14 May 2026 22:47:38 GMT",
-      "source": "톱스타뉴스",
       "score": 2
     },
     {
