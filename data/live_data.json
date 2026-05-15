@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-15T02:29:40",
+  "generated_at": "2026-05-15T06:09:40",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.48,
-    "price_krw": 2220.97,
-    "price_change_24h": 3.40684,
-    "price_change_7d": 6.94135,
-    "price_change_30d": 8.76731,
-    "market_cap_usd": 91566924904,
-    "market_cap_rank": 4,
-    "volume_24h": 3813838329,
+    "price_usd": 1.46,
+    "price_krw": 2202.56,
+    "price_change_24h": 1.96371,
+    "price_change_7d": 5.71182,
+    "price_change_30d": 7.67079,
+    "market_cap_usd": 90228376398,
+    "market_cap_rank": 5,
+    "volume_24h": 3992372993,
     "circulating_supply": 61796225236.0,
     "total_supply": 99985670046.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 88.06,
-    "sentiment_votes_down": 11.94,
+    "sentiment_votes_up": 88.6,
+    "sentiment_votes_down": 11.4,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 32.63,
-    "recent_tps": 32.63,
-    "recent_tx_count": 2937,
+    "tps_24h_avg": 30.24,
+    "recent_tps": 30.24,
+    "recent_tx_count": 2722,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104237114,
+    "ledger_seq": 104240513,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-15 02:29:26 KST",
+    "updated_at": "2026-05-15 06:09:26 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 7010000,
     "total_net_inflow_usd": 7010000,
     "total_value_traded_usd": 7010000,
-    "updated_at": "SoSoValue 순유입 부분 수집 05/15 02:29",
+    "updated_at": "SoSoValue 순유입 부분 수집 05/15 06:09",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -93,6 +93,13 @@
   ],
   "general_news": [
     {
+      "title": "리플 CEO, XRP 독점적 경쟁력 강조... \"결제 혁신 위해 태어난 자산\"",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeHVuNnNJczhvZWZGb1VIOUk3ODA4U1pPcHJFbDhBNjFoUVRqOHo3VXpteEJVV1o2b2w4YW10bkpLcXg2dGFrYXRXSkUwWjR6ZG1KYzgwcmNrN3RnUFp2djFiRFVkWWdsbkRRQTNtY01JdElFQ3E2ZHN1dmV3Rkh5blZGUXdESFJV?oc=5",
+      "date": "Fri, 15 May 2026 01:41:55 GMT",
+      "source": "글로벌이코노믹",
+      "score": 2
+    },
+    {
       "title": "트럼프 방중·뜨거운 CPI 속 비트코인 반등…XRP 5% 급등·워시 인준 주목",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5FQzAwMEU3U0F5VVprU0dQdlpLTElQZzA0djdxanFXeXFfNWdiNjlObWVnX3hRNVhkckZobEJlSkp1bHRtbGhiNjR5a0pEblVOclZCelhRVEZ3OThtQmQxX0hjLXNsSzl1c0NjY3JsVmtaZms?oc=5",
       "date": "Thu, 14 May 2026 23:13:42 GMT",
@@ -107,11 +114,11 @@
       "score": 2
     },
     {
-      "title": "엑스알피(XRP) 시세 5%↑...클래러티법 통과에 '300달러' 전망",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFaHB1dVF6b0drb05zRFJnVWxQaEFWZ29Pa0FfVmdGTUx5Wm5GYl9PM2hyZ2FaZEtKaGRXaWpXLWZHUC10bGh4OUNFZ2NkWW5HeG1sYjVXa3ZqLUFMeHRBTDZxUjJmT01yOW5FUVBn?oc=5",
-      "date": "Thu, 14 May 2026 22:30:15 GMT",
-      "source": "gukjenews.com",
-      "score": 2
+      "title": "뱡신들아 비트코인이랑 전혀 관계없다",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CckZHWHRwZWNNbDliaVZxY0lkendtVXpPeEt2c1dYSmRKbHljWDVMdzhDVzBrUjA5VjM5ckFyZENqZ2szX2lIT21IY1Z4bmx6cVIyYm1XREY?oc=5",
+      "date": "Thu, 14 May 2026 17:08:51 GMT",
+      "source": "코인니스",
+      "score": 8
     },
     {
       "title": "리플(XRP) 9.5억달러 매집했던 에버노스…미실현 손실만 3.9억달러",
@@ -150,17 +157,10 @@
     },
     {
       "title": "리플 전 CTO \"비트코인·이더리움보다 XRP가 수익률 높았다\"",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YOGVvdHBHNUZTNm9OM0ZsOHNwTXZwc0k0bl9JVHVRNGg5OUNCbGlRd0w0YVJoeHM3Rkl2SDcwTzB6NDNIS3Vab3dSaDgtR2lGODVnMzlmY2haaFZLeWNvbGs5QWVpTC1QMzgxeWZVclZPcGc?oc=5",
-      "date": "Wed, 13 May 2026 01:25:00 GMT",
-      "source": "디지털투데이",
-      "score": 3
-    },
-    {
-      "title": "[알트]..클래리티법안 최대수혜 코인은?",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1MeG5ySjdWc21YOEJROTBZR1FvRjFwQjRLU3N5dk52cFV0eHlhelFkRzNBb2JNZ1pmTnV0dHRnaXV1TWlwbXVDRXBmbm55VjZlUWpSUjJrTG8?oc=5",
-      "date": "Tue, 12 May 2026 23:15:54 GMT",
-      "source": "코인니스",
-      "score": 8
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43TzBwZmZRMXFrQWxWYjdtRXZjVlVmUWh3anJLUjRvY0xOc0xOZ0d1aVF4X2U5WGNBcWNkdjRSWDZqX1FFQ3lEd0xvbzdrMzJlOF9V?oc=5",
+      "date": "Wed, 13 May 2026 01:26:00 GMT",
+      "source": "네이트",
+      "score": 2
     }
   ]
 }
