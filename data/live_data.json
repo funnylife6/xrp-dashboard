@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-15T22:47:43",
+  "generated_at": "2026-05-15T23:48:20",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.43,
-    "price_krw": 2145.21,
-    "price_change_24h": -4.68357,
-    "price_change_7d": 0.83612,
-    "price_change_30d": 3.12539,
-    "market_cap_usd": 88561232192,
+    "price_krw": 2147.53,
+    "price_change_24h": -3.81678,
+    "price_change_7d": 1.10592,
+    "price_change_30d": 3.23677,
+    "market_cap_usd": 88659800403,
     "market_cap_rank": 5,
-    "volume_24h": 2517813149,
+    "volume_24h": 2478670014,
     "circulating_supply": 61829045420.0,
     "total_supply": 99985666473.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 87.34,
-    "sentiment_votes_down": 12.66,
+    "sentiment_votes_up": 87.42,
+    "sentiment_votes_down": 12.58,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 29.8,
-    "recent_tps": 29.8,
-    "recent_tx_count": 2652,
+    "tps_24h_avg": 36.18,
+    "recent_tps": 36.18,
+    "recent_tx_count": 2967,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 104255996,
+    "recent_window_sec": 82,
+    "ledger_seq": 104256939,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-15 22:47:37 KST",
+    "updated_at": "2026-05-15 23:48:09 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,6 +92,13 @@
   ],
   "general_news": [
     {
+      "title": "JP모건·마스터카드도 눈독…리플, 결국 25달러 간다",
+      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPb2d2cHFWLXF1UXA0NkVkbVlSek5VVDFHQ2pvc3d5TmdvdFFJcmNoUmRBY0JOMzVyZ1hMN0hoVHluM0Rrcm51R2lJdlVBR2xHbXFFNkk5VUJ3UWRrSE8xZmNOT1JhZE10bGItMl9BWW9hcUZmVTN3Y0MyWTZTdzVxSGVpelVJajV6LWZRWW9udi1CdFBLRC1OVHE3cFJGdWVSVEpnUUFuYWJPRWJ4QjRHWHlOQXZoT1RnZG1oQk1lcmxyWUZUekktdlctVkgzMGhpTWhfLTdseWxKZzhQNU1VQXBuWU85S3YyVU5fRUR0YUhOUjZzdWwtRWx2ZloydV8yZ0F5WWE0TkFsV2lyQ1MtQWthSEQxU2plVXRqWjhwWURZbGdZUEFraUFKcHdSQ0NSeGtTVlc1WERmTmxnYVk2UU1IM0k5T1RYTnBnVXpfa1d0UWc?oc=5",
+      "date": "Fri, 15 May 2026 22:29:39 GMT",
+      "source": "MSN",
+      "score": 2
+    },
+    {
       "title": "아이리스 급락·리플XRP 하락·비트코인 약세…국채금리 급등에 관망세 확대",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZR2VGVlh0eFNJX1VFYzFqYVFTRmNhUmtsMWstSkxIQWlndUVWU0xhSzcyTXltc0RXWXFyVGN3Zkozems0SlRtX01Ia21FckhzN1BMUXRzWTUzWGFYZVZWMlRVbFBCV0hoVHhvV2RoM3hLdw?oc=5",
       "date": "Fri, 15 May 2026 21:54:54 GMT",
@@ -99,17 +106,17 @@
       "score": 2
     },
     {
-      "title": "JP모건·마스터카드도 눈독…리플, 결국 25달러 간다",
-      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPel9peFdtMkZoSUwySmVrT3dSSm1Ta3VUeEtZWE93MVdkOE5GQ1h1eURFUDRDRURNN1QtUjVpbEdhWG96Y0RsRmNzVkhiOUNFV0JGZ1dZWkR0N01FOElUQjZpWllXRnpNTk5PSG03QmxpVllkNHN4bFVkUkU3cS15MVNCaXBkSkozSGlIekpkaF9XMFhBdnJtOG5sR0QtTm1PVUp2MEtGenRWckxaRnpDUkgzU0FZallMTjB2V1pLUW0zRTlXcC1IRDlqbnV1WUs3dTZuNFVkX0w4ZTVwOU9BUFlic2JWQkxRclBWT2piZTlEVXhwX3N2OVhheGRDZlB0eUc0WXJKemcwckRtbU1hU0s1Yzh0OXBfS1pSeDJ0ZVU5ZnRMY19vSE1aSkJaclNCTVF2akk0TndRQThnal93bk9ZTDJPOFZOb01zX1NjbTh6Zw?oc=5",
-      "date": "Fri, 15 May 2026 17:24:23 GMT",
-      "source": "MSN",
-      "score": 2
+      "title": "리플X, XRP 레저에 프라이버시·영지식 증명 더한다…기관용 인프라 진화 주목",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjVXRZZDdYRVJ5T05tclk2aDVFWDU2Njc3ZzVLZVNYMFZsdEpqQWtJeVh5NlduYlgyR1BOMnFYb2R2V3UwSXIybTBHVzU3VGdQQ3hQbTJBWlpfV03SAWBBVV95cUxPZl9uUWpkZUV4LXZvU3BMT0NOc25zOXItUThjYmRXOU1Nd3hvSnFoX3NkVllTMkE4TGFsMlM5VXBIcXNjalpDUzdhY01zNzd3a21lUkR4YXE2blNkYmd4RkQ?oc=5",
+      "date": "Fri, 15 May 2026 06:25:06 GMT",
+      "source": "tokenpost.kr",
+      "score": 3
     },
     {
-      "title": "리플 CEO, XRP 독점적 경쟁력 강조... \"결제 혁신 위해 태어난 자산\"",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeHVuNnNJczhvZWZGb1VIOUk3ODA4U1pPcHJFbDhBNjFoUVRqOHo3VXpteEJVV1o2b2w4YW10bkpLcXg2dGFrYXRXSkUwWjR6ZG1KYzgwcmNrN3RnUFp2djFiRFVkWWdsbkRRQTNtY01JdElFQ3E2ZHN1dmV3Rkh5blZGUXdESFJV?oc=5",
-      "date": "Fri, 15 May 2026 01:41:55 GMT",
-      "source": "글로벌이코노믹",
+      "title": "[코인Talk] JP모건도 선택했다…XRP 레저, 5초 만에 국경 간 국채 결제 성공",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkamE3SndZNHE1eFcxNVh4RktfRjJYd3VxcUdKd2laMXN2ZVNlS3pEWWtGOVgyNmRGdVcyVVVDYzluS2dwbloxUlhBVHZnaWp4OVVfYWxZMk5TSWkwNjB3bmxnclVJZHJ5?oc=5",
+      "date": "Fri, 15 May 2026 05:37:56 GMT",
+      "source": "녹색경제신문",
       "score": 2
     },
     {
@@ -132,13 +139,6 @@
       "date": "Thu, 14 May 2026 17:08:51 GMT",
       "source": "코인니스",
       "score": 8
-    },
-    {
-      "title": "리플 전 CTO, ‘최악 보안 결함’ 경고",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9aY1RkTWJUWDRleE9FN2tOUzFicTJ4UDJ5akNuVk1hb19PWC1IWU0tR0pGcENEaTNxUkxTUktqdndhUGpBcnRGVjZfdEtiWDNDaUw5SjE0YjQ4ZjlMQ0JQb2UtZjZkM19jVWVvTGcwUlVmWGR0UnNXNg?oc=5",
-      "date": "Thu, 14 May 2026 07:45:40 GMT",
-      "source": "BeInCrypto",
-      "score": 2
     },
     {
       "title": "슈워츠 \"리플이 XRP 합의 통제? 말도 안 되는 소리\"… 중앙집중화 논란 일축",
