@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-15T19:20:31",
+  "generated_at": "2026-05-15T20:38:58",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.43,
-    "price_krw": 2148.82,
-    "price_change_24h": -6.99823,
-    "price_change_7d": 0.80621,
-    "price_change_30d": 3.94573,
-    "market_cap_usd": 88644492148,
+    "price_krw": 2148.16,
+    "price_change_24h": -4.94322,
+    "price_change_7d": 1.15103,
+    "price_change_30d": 3.38515,
+    "market_cap_usd": 88599975975,
     "market_cap_rank": 5,
-    "volume_24h": 3144995017,
+    "volume_24h": 2737820988,
     "circulating_supply": 61796225236.0,
     "total_supply": 99985670046.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 90.4,
-    "sentiment_votes_down": 9.6,
+    "sentiment_votes_up": 89.2,
+    "sentiment_votes_down": 10.8,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 33.61,
-    "recent_tps": 33.61,
-    "recent_tx_count": 2756,
+    "tps_24h_avg": 28.2,
+    "recent_tps": 28.2,
+    "recent_tx_count": 2538,
     "recent_ledger_count": 24,
-    "recent_window_sec": 82,
-    "ledger_seq": 104252776,
+    "recent_window_sec": 90,
+    "ledger_seq": 104253997,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-15 19:20:20 KST",
+    "updated_at": "2026-05-15 20:38:49 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 7010000,
     "total_net_inflow_usd": 7010000,
     "total_value_traded_usd": 7010000,
-    "updated_at": "SoSoValue 순유입 부분 수집 05/15 19:20",
+    "updated_at": "SoSoValue 순유입 부분 수집 05/15 20:38",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -156,11 +156,11 @@
       "score": 2
     },
     {
-      "title": "코인니스 - 가장 빠르고 정확한 코인 투자 뉴스, 커뮤니티",
-      "url": "https://news.google.com/rss/articles/CBMiOEFVX3lxTFBEaHNPZ0FXcVNyMXRsSDVldFhzQXJMUFlfNlZfc015dnRHWElSLUpkRXNfeExNWUFi?oc=5",
-      "date": "Wed, 13 May 2026 07:00:00 GMT",
-      "source": "코인니스",
-      "score": 8
+      "title": "리플 전 CTO \"비트코인·이더리움보다 XRP가 수익률 높았다\"",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YOGVvdHBHNUZTNm9OM0ZsOHNwTXZwc0k0bl9JVHVRNGg5OUNCbGlRd0w0YVJoeHM3Rkl2SDcwTzB6NDNIS3Vab3dSaDgtR2lGODVnMzlmY2haaFZLeWNvbGs5QWVpTC1QMzgxeWZVclZPcGc?oc=5",
+      "date": "Wed, 13 May 2026 01:25:00 GMT",
+      "source": "디지털투데이",
+      "score": 3
     }
   ]
 }
