@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-15T06:09:40",
+  "generated_at": "2026-05-15T09:27:37",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.46,
-    "price_krw": 2202.56,
-    "price_change_24h": 1.96371,
-    "price_change_7d": 5.71182,
-    "price_change_30d": 7.67079,
-    "market_cap_usd": 90228376398,
+    "price_usd": 1.47,
+    "price_krw": 2202.03,
+    "price_change_24h": 2.33793,
+    "price_change_7d": 5.5509,
+    "price_change_30d": 8.43015,
+    "market_cap_usd": 90596309983,
     "market_cap_rank": 5,
-    "volume_24h": 3992372993,
+    "volume_24h": 4139797803,
     "circulating_supply": 61796225236.0,
     "total_supply": 99985670046.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 88.6,
-    "sentiment_votes_down": 11.4,
+    "sentiment_votes_up": 90.16,
+    "sentiment_votes_down": 9.84,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 30.24,
-    "recent_tps": 30.24,
-    "recent_tx_count": 2722,
+    "tps_24h_avg": 48.92,
+    "recent_tps": 48.92,
+    "recent_tx_count": 4403,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104240513,
+    "ledger_seq": 104243572,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-15 06:09:26 KST",
+    "updated_at": "2026-05-15 09:27:23 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 7010000,
     "total_net_inflow_usd": 7010000,
     "total_value_traded_usd": 7010000,
-    "updated_at": "SoSoValue 순유입 부분 수집 05/15 06:09",
+    "updated_at": "SoSoValue 순유입 부분 수집 05/15 09:27",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -100,6 +100,13 @@
       "score": 2
     },
     {
+      "title": "XRP 일봉 좋은 신호가 나왔군 흠흠",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9NSEo1dzJxbUlfWk9IdENWVG9GNHFiNW5yZk5YYUdVRC1jd0FzMFE1dmhjaDdoMlpJV0d5c20zc24yOE9NVnB0OW9QTUYwRlFYNERablBlc1Y?oc=5",
+      "date": "Fri, 15 May 2026 00:52:46 GMT",
+      "source": "코인니스",
+      "score": 8
+    },
+    {
       "title": "트럼프 방중·뜨거운 CPI 속 비트코인 반등…XRP 5% 급등·워시 인준 주목",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5FQzAwMEU3U0F5VVprU0dQdlpLTElQZzA0djdxanFXeXFfNWdiNjlObWVnX3hRNVhkckZobEJlSkp1bHRtbGhiNjR5a0pEblVOclZCelhRVEZ3OThtQmQxX0hjLXNsSzl1c0NjY3JsVmtaZms?oc=5",
       "date": "Thu, 14 May 2026 23:13:42 GMT",
@@ -153,13 +160,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVUpfOWhPQXZvZ0RtN25PRlpldm5nZkdJeExqLV95R2dhOXk3RDZjcTZwQnpsakV2OUhwQmNZNVl4M2NVOFA2aGtWSGZtZUlNaFFndGdjSE04NzZQaUlxSjI1MlBWdUxtaDg5WDhSZ2N2YThSMnltTDc3cXdDbGpDN0xsV2lkbmlI?oc=5",
       "date": "Wed, 13 May 2026 20:48:23 GMT",
       "source": "글로벌이코노믹",
-      "score": 2
-    },
-    {
-      "title": "리플 전 CTO \"비트코인·이더리움보다 XRP가 수익률 높았다\"",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43TzBwZmZRMXFrQWxWYjdtRXZjVlVmUWh3anJLUjRvY0xOc0xOZ0d1aVF4X2U5WGNBcWNkdjRSWDZqX1FFQ3lEd0xvbzdrMzJlOF9V?oc=5",
-      "date": "Wed, 13 May 2026 01:26:00 GMT",
-      "source": "네이트",
       "score": 2
     }
   ]
