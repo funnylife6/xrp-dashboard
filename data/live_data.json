@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-15T09:27:37",
+  "generated_at": "2026-05-15T11:33:44",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.47,
-    "price_krw": 2202.03,
-    "price_change_24h": 2.33793,
-    "price_change_7d": 5.5509,
-    "price_change_30d": 8.43015,
-    "market_cap_usd": 90596309983,
+    "price_krw": 2204.14,
+    "price_change_24h": 2.42881,
+    "price_change_7d": 5.78977,
+    "price_change_30d": 8.3331,
+    "market_cap_usd": 90932758546,
     "market_cap_rank": 5,
-    "volume_24h": 4139797803,
+    "volume_24h": 4196025427,
     "circulating_supply": 61796225236.0,
     "total_supply": 99985670046.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 90.16,
-    "sentiment_votes_down": 9.84,
+    "sentiment_votes_up": 89.34,
+    "sentiment_votes_down": 10.66,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 48.92,
-    "recent_tps": 48.92,
-    "recent_tx_count": 4403,
+    "tps_24h_avg": 25.8,
+    "recent_tps": 25.8,
+    "recent_tx_count": 2322,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104243572,
+    "ledger_seq": 104245526,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-15 09:27:23 KST",
+    "updated_at": "2026-05-15 11:33:30 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 7010000,
     "total_net_inflow_usd": 7010000,
     "total_value_traded_usd": 7010000,
-    "updated_at": "SoSoValue 순유입 부분 수집 05/15 09:27",
+    "updated_at": "SoSoValue 순유입 부분 수집 05/15 11:33",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -121,6 +121,13 @@
       "score": 2
     },
     {
+      "title": "엑스알피(XRP) 시세 5%↑...클래러티법 통과에 '300달러' 전망",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFaHB1dVF6b0drb05zRFJnVWxQaEFWZ29Pa0FfVmdGTUx5Wm5GYl9PM2hyZ2FaZEtKaGRXaWpXLWZHUC10bGh4OUNFZ2NkWW5HeG1sYjVXa3ZqLUFMeHRBTDZxUjJmT01yOW5FUVBn?oc=5",
+      "date": "Thu, 14 May 2026 22:30:15 GMT",
+      "source": "gukjenews.com",
+      "score": 2
+    },
+    {
       "title": "뱡신들아 비트코인이랑 전혀 관계없다",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CckZHWHRwZWNNbDliaVZxY0lkendtVXpPeEt2c1dYSmRKbHljWDVMdzhDVzBrUjA5VjM5ckFyZENqZ2szX2lIT21IY1Z4bmx6cVIyYm1XREY?oc=5",
       "date": "Thu, 14 May 2026 17:08:51 GMT",
@@ -153,13 +160,6 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12WExkVkFKQVprMTZQSzMxQm1xLU1YZzQ5WVRfSEFiQW5hSWpqcXI1QXdtRmtHQXRzYVJGVm1qRkNaNkVpWFdCZHotTXR5UlVBcldLdXh4elMzeGpkWFZVSzBaeVRFRE9TbnpKSnk3VWI?oc=5",
       "date": "Thu, 14 May 2026 00:30:00 GMT",
       "source": "블록체인투데이",
-      "score": 2
-    },
-    {
-      "title": "\"스위프트 구시대 시스템 종료\"… 엑스알피(XRP), 국제 결제 표준 전환 최대 수혜주 부상",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVUpfOWhPQXZvZ0RtN25PRlpldm5nZkdJeExqLV95R2dhOXk3RDZjcTZwQnpsakV2OUhwQmNZNVl4M2NVOFA2aGtWSGZtZUlNaFFndGdjSE04NzZQaUlxSjI1MlBWdUxtaDg5WDhSZ2N2YThSMnltTDc3cXdDbGpDN0xsV2lkbmlI?oc=5",
-      "date": "Wed, 13 May 2026 20:48:23 GMT",
-      "source": "글로벌이코노믹",
       "score": 2
     }
   ]
