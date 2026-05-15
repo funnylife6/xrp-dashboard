@@ -1,50 +1,51 @@
 {
-  "generated_at": "2026-05-14T23:49:46",
+  "generated_at": "2026-05-15T02:29:40",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.49,
-    "price_krw": 2223.87,
-    "price_change_24h": 4.4353,
-    "price_change_7d": 7.50072,
-    "price_change_30d": 9.47121,
-    "market_cap_usd": 92128858115,
+    "price_usd": 1.48,
+    "price_krw": 2220.97,
+    "price_change_24h": 3.40684,
+    "price_change_7d": 6.94135,
+    "price_change_30d": 8.76731,
+    "market_cap_usd": 91566924904,
     "market_cap_rank": 4,
-    "volume_24h": 3800666462,
+    "volume_24h": 3813838329,
     "circulating_supply": 61796225236.0,
     "total_supply": 99985670046.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 87.89,
-    "sentiment_votes_down": 12.11,
+    "sentiment_votes_up": 88.06,
+    "sentiment_votes_down": 11.94,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 28.23,
-    "recent_tps": 28.23,
-    "recent_tx_count": 2541,
+    "tps_24h_avg": 32.63,
+    "recent_tps": 32.63,
+    "recent_tx_count": 2937,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104234644,
+    "ledger_seq": 104237114,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-14 23:49:31 KST",
+    "updated_at": "2026-05-15 02:29:26 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
   },
   "etf_flow": {
-    "approved_count": 0,
+    "approved_count": 4,
     "daily_inflow_usd": 0,
     "weekly_inflow_usd": 0,
-    "aum_usd": 0,
-    "total_net_inflow_usd": 0,
-    "total_value_traded_usd": 0,
-    "updated_at": "뉴스 자동 파싱 대기",
-    "data_source": "news_parse"
+    "aum_usd": 7010000,
+    "total_net_inflow_usd": 7010000,
+    "total_value_traded_usd": 7010000,
+    "updated_at": "SoSoValue 순유입 부분 수집 05/15 02:29",
+    "data_source": "sosovalue",
+    "partial": true
   },
   "etf_news": [
     {
@@ -106,6 +107,13 @@
       "score": 2
     },
     {
+      "title": "엑스알피(XRP) 시세 5%↑...클래러티법 통과에 '300달러' 전망",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFaHB1dVF6b0drb05zRFJnVWxQaEFWZ29Pa0FfVmdGTUx5Wm5GYl9PM2hyZ2FaZEtKaGRXaWpXLWZHUC10bGh4OUNFZ2NkWW5HeG1sYjVXa3ZqLUFMeHRBTDZxUjJmT01yOW5FUVBn?oc=5",
+      "date": "Thu, 14 May 2026 22:30:15 GMT",
+      "source": "gukjenews.com",
+      "score": 2
+    },
+    {
       "title": "리플(XRP) 9.5억달러 매집했던 에버노스…미실현 손실만 3.9억달러",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaQmY2RlZSeWxvV2hHVEpDV01EUXdPRmVZVWYzOGpjWUlXVUxUUkJoOVlyT29CTlRlSnJGYjVUSnhBcTlfdVgxWUN5ajVSN3NnQ1hLOVNPLXFmbmNqSzBlbGZsUVo4anJU?oc=5",
       "date": "Thu, 14 May 2026 15:00:00 GMT",
@@ -121,9 +129,9 @@
     },
     {
       "title": "디센트, 'XRP 얼라이언스' 출범…리플 생태계 확대",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE54QW1oWDlPSi1OcHVob2hCMlRCZWlHVmJqRTE1ZGNHSFIweTFiQ1NFZXR6ZHpxY011ZGZHUUhPd2lyaDZlNU56bFlmay1WT1NyalVv?oc=5",
-      "date": "Thu, 14 May 2026 00:56:00 GMT",
-      "source": "네이트",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBzbVlEQ29BLXdnUGtuUW4zLVJneDVwY1IwNkp4SmJLdDRXNTlWQ0xhdXZlejlhbVlLVHhmVThwMHBVUnRsSThSZE4yU2I?oc=5",
+      "date": "Thu, 14 May 2026 00:55:04 GMT",
+      "source": "아이뉴스24",
       "score": 2
     },
     {
@@ -141,13 +149,6 @@
       "score": 2
     },
     {
-      "title": "엑스알피(리플) 상승세 시작? 자금 유입·법 통과로 '10달러' 전망",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10MWJVRWNsY05PeEFDckZwU0Z6NXFUSl9kTHcwbTBwX0lnaGR5cVppTXV4XzFYUlUxemg3cC1qSVlNTmphTThzbDMycXVLR05Hb0MtSmNKdXZaNTJobTBnMlN6MzJCQUg0cGlkaHd3?oc=5",
-      "date": "Wed, 13 May 2026 15:04:00 GMT",
-      "source": "gukjenews.com",
-      "score": 2
-    },
-    {
       "title": "리플 전 CTO \"비트코인·이더리움보다 XRP가 수익률 높았다\"",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YOGVvdHBHNUZTNm9OM0ZsOHNwTXZwc0k0bl9JVHVRNGg5OUNCbGlRd0w0YVJoeHM3Rkl2SDcwTzB6NDNIS3Vab3dSaDgtR2lGODVnMzlmY2haaFZLeWNvbGs5QWVpTC1QMzgxeWZVclZPcGc?oc=5",
       "date": "Wed, 13 May 2026 01:25:00 GMT",
@@ -155,11 +156,11 @@
       "score": 3
     },
     {
-      "title": "리플 현물 ETF 자금 유입 '활활'… 누적 13억 5,000만 달러 돌파",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0ZjVKOERCLVp3VElKU0dEdGpRdDdEOEF3RlkzWXV6ZkNvR2pTV21hV1Rwb0c5ZHdINi11M001U3dONmNoRGU4aXhhendkWndvSmxXejN1aDM2MXVZZUxTUlFEQ0NYUlVWY0lPSENB?oc=5",
-      "date": "Tue, 12 May 2026 22:24:24 GMT",
-      "source": "gukjenews.com",
-      "score": 4
+      "title": "[알트]..클래리티법안 최대수혜 코인은?",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1MeG5ySjdWc21YOEJROTBZR1FvRjFwQjRLU3N5dk52cFV0eHlhelFkRzNBb2JNZ1pmTnV0dHRnaXV1TWlwbXVDRXBmbm55VjZlUWpSUjJrTG8?oc=5",
+      "date": "Tue, 12 May 2026 23:15:54 GMT",
+      "source": "코인니스",
+      "score": 8
     }
   ]
 }
