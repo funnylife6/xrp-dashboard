@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-15T11:33:44",
+  "generated_at": "2026-05-15T13:48:04",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.47,
-    "price_krw": 2204.14,
-    "price_change_24h": 2.42881,
-    "price_change_7d": 5.78977,
-    "price_change_30d": 8.3331,
-    "market_cap_usd": 90932758546,
+    "price_usd": 1.44,
+    "price_krw": 2161.82,
+    "price_change_24h": -0.46582,
+    "price_change_7d": 3.64814,
+    "price_change_30d": 5.47998,
+    "market_cap_usd": 89043577246,
     "market_cap_rank": 5,
-    "volume_24h": 4196025427,
+    "volume_24h": 4194362874,
     "circulating_supply": 61796225236.0,
     "total_supply": 99985670046.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 89.34,
-    "sentiment_votes_down": 10.66,
+    "sentiment_votes_up": 89.47,
+    "sentiment_votes_down": 10.53,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 25.8,
-    "recent_tps": 25.8,
-    "recent_tx_count": 2322,
+    "tps_24h_avg": 52.0,
+    "recent_tps": 52.0,
+    "recent_tx_count": 4680,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104245526,
+    "ledger_seq": 104247607,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-15 11:33:30 KST",
+    "updated_at": "2026-05-15 13:47:49 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,18 +43,11 @@
     "aum_usd": 7010000,
     "total_net_inflow_usd": 7010000,
     "total_value_traded_usd": 7010000,
-    "updated_at": "SoSoValue 순유입 부분 수집 05/15 11:33",
+    "updated_at": "SoSoValue 순유입 부분 수집 05/15 13:48",
     "data_source": "sosovalue",
     "partial": true
   },
   "etf_news": [
-    {
-      "title": "리플(XRP) 9.5억달러 매집했던 에버노스…미실현 손실만 3.9억달러",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaQmY2RlZSeWxvV2hHVEpDV01EUXdPRmVZVWYzOGpjWUlXVUxUUkJoOVlyT29CTlRlSnJGYjVUSnhBcTlfdVgxWUN5ajVSN3NnQ1hLOVNPLXFmbmNqSzBlbGZsUVo4anJU?oc=5",
-      "date": "Thu, 14 May 2026 15:00:00 GMT",
-      "source": "CBC뉴스",
-      "score": 0
-    },
     {
       "title": "XRP 조정장 끝?…ETF 자금 유입에 낙관론 확산",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CUUxTSlBqYVhYVFFGaXVUX0d3RzdIcFU5b3lRbVVsS2VtMFI0eE95LU9IanVCRDJGdkJIa3dVVHNFNlZfa2REUUtLYjBpNDJFLWs0SWg1aWFKSlRnSGo4eEo3Nk1fQTBzdjBiREc5WUgtQnc?oc=5",
@@ -89,9 +82,23 @@
       "date": "Tue, 12 May 2026 13:27:10 GMT",
       "source": "디지털투데이",
       "score": 0
+    },
+    {
+      "title": "XRP 현물 ETF, 하루 2580만달러 순유입…1월 이후 최대 규모",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE81YlB5WDUwSTg5TnJwZ1c5S0lmTHFRLVhJemtWeHJDUzlUM1FqS09iTjZSUEZRR1dMQ2g4Nk1neFBaWi1iS0RNTTFTLXZhajNG?oc=5",
+      "date": "Tue, 12 May 2026 09:50:53 GMT",
+      "source": "블루밍비트",
+      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "\"규제 해소 낙관론 확산\" 비트코인·XRP 상승세 속 소외된 이더리움 2,250달러 사수 관건",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9kaU51UDRiWVRvT0xfMVhwSHk3QkV1UTJ6WkM1blk4R0Exb1FtTG5JbTc1c2tjNmFzMEpUeEU1Q0F4MVd2bzctX3Rn?oc=5",
+      "date": "Fri, 15 May 2026 12:26:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
     {
       "title": "리플 CEO, XRP 독점적 경쟁력 강조... \"결제 혁신 위해 태어난 자산\"",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeHVuNnNJczhvZWZGb1VIOUk3ODA4U1pPcHJFbDhBNjFoUVRqOHo3VXpteEJVV1o2b2w4YW10bkpLcXg2dGFrYXRXSkUwWjR6ZG1KYzgwcmNrN3RnUFp2djFiRFVkWWdsbkRRQTNtY01JdElFQ3E2ZHN1dmV3Rkh5blZGUXdESFJV?oc=5",
@@ -135,13 +142,6 @@
       "score": 8
     },
     {
-      "title": "리플(XRP) 9.5억달러 매집했던 에버노스…미실현 손실만 3.9억달러",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaQmY2RlZSeWxvV2hHVEpDV01EUXdPRmVZVWYzOGpjWUlXVUxUUkJoOVlyT29CTlRlSnJGYjVUSnhBcTlfdVgxWUN5ajVSN3NnQ1hLOVNPLXFmbmNqSzBlbGZsUVo4anJU?oc=5",
-      "date": "Thu, 14 May 2026 15:00:00 GMT",
-      "source": "CBC뉴스",
-      "score": 3
-    },
-    {
       "title": "리플 전 CTO, ‘최악 보안 결함’ 경고",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9aY1RkTWJUWDRleE9FN2tOUzFicTJ4UDJ5akNuVk1hb19PWC1IWU0tR0pGcENEaTNxUkxTUktqdndhUGpBcnRGVjZfdEtiWDNDaUw5SjE0YjQ4ZjlMQ0JQb2UtZjZkM19jVWVvTGcwUlVmWGR0UnNXNg?oc=5",
       "date": "Thu, 14 May 2026 07:45:40 GMT",
@@ -149,17 +149,17 @@
       "score": 2
     },
     {
-      "title": "디센트, 'XRP 얼라이언스' 출범…리플 생태계 확대",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBzbVlEQ29BLXdnUGtuUW4zLVJneDVwY1IwNkp4SmJLdDRXNTlWQ0xhdXZlejlhbVlLVHhmVThwMHBVUnRsSThSZE4yU2I?oc=5",
-      "date": "Thu, 14 May 2026 00:55:04 GMT",
-      "source": "아이뉴스24",
-      "score": 2
-    },
-    {
       "title": "슈워츠 \"리플이 XRP 합의 통제? 말도 안 되는 소리\"… 중앙집중화 논란 일축",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12WExkVkFKQVprMTZQSzMxQm1xLU1YZzQ5WVRfSEFiQW5hSWpqcXI1QXdtRmtHQXRzYVJGVm1qRkNaNkVpWFdCZHotTXR5UlVBcldLdXh4elMzeGpkWFZVSzBaeVRFRE9TbnpKSnk3VWI?oc=5",
       "date": "Thu, 14 May 2026 00:30:00 GMT",
       "source": "블록체인투데이",
+      "score": 2
+    },
+    {
+      "title": "\"스위프트 구시대 시스템 종료\"… 엑스알피(XRP), 국제 결제 표준 전환 최대 수혜주 부상",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVUpfOWhPQXZvZ0RtN25PRlpldm5nZkdJeExqLV95R2dhOXk3RDZjcTZwQnpsakV2OUhwQmNZNVl4M2NVOFA2aGtWSGZtZUlNaFFndGdjSE04NzZQaUlxSjI1MlBWdUxtaDg5WDhSZ2N2YThSMnltTDc3cXdDbGpDN0xsV2lkbmlI?oc=5",
+      "date": "Wed, 13 May 2026 20:48:23 GMT",
+      "source": "글로벌이코노믹",
       "score": 2
     }
   ]
