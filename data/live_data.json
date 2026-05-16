@@ -1,50 +1,51 @@
 {
-  "generated_at": "2026-05-15T23:48:20",
+  "generated_at": "2026-05-16T02:11:50",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.43,
-    "price_krw": 2147.53,
-    "price_change_24h": -3.81678,
-    "price_change_7d": 1.10592,
-    "price_change_30d": 3.23677,
-    "market_cap_usd": 88659800403,
+    "price_usd": 1.44,
+    "price_krw": 2153.27,
+    "price_change_24h": -3.21521,
+    "price_change_7d": 0.93427,
+    "price_change_30d": 2.93097,
+    "market_cap_usd": 88883277997,
     "market_cap_rank": 5,
-    "volume_24h": 2478670014,
+    "volume_24h": 2324517176,
     "circulating_supply": 61829045420.0,
     "total_supply": 99985666473.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 87.42,
-    "sentiment_votes_down": 12.58,
+    "sentiment_votes_up": 89.51,
+    "sentiment_votes_down": 10.49,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 36.18,
-    "recent_tps": 36.18,
-    "recent_tx_count": 2967,
+    "tps_24h_avg": 19.06,
+    "recent_tps": 19.06,
+    "recent_tx_count": 1715,
     "recent_ledger_count": 24,
-    "recent_window_sec": 82,
-    "ledger_seq": 104256939,
+    "recent_window_sec": 90,
+    "ledger_seq": 104259173,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-15 23:48:09 KST",
+    "updated_at": "2026-05-16 02:11:44 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
   },
   "etf_flow": {
-    "approved_count": 0,
+    "approved_count": 4,
     "daily_inflow_usd": 0,
     "weekly_inflow_usd": 0,
-    "aum_usd": 0,
-    "total_net_inflow_usd": 0,
-    "total_value_traded_usd": 0,
-    "updated_at": "뉴스 자동 파싱 대기",
-    "data_source": "news_parse"
+    "aum_usd": 6900000,
+    "total_net_inflow_usd": 6900000,
+    "total_value_traded_usd": 6900000,
+    "updated_at": "SoSoValue 순유입 부분 수집 05/16 02:11",
+    "data_source": "sosovalue",
+    "partial": true
   },
   "etf_news": [
     {
@@ -106,24 +107,10 @@
       "score": 2
     },
     {
-      "title": "리플X, XRP 레저에 프라이버시·영지식 증명 더한다…기관용 인프라 진화 주목",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjVXRZZDdYRVJ5T05tclk2aDVFWDU2Njc3ZzVLZVNYMFZsdEpqQWtJeVh5NlduYlgyR1BOMnFYb2R2V3UwSXIybTBHVzU3VGdQQ3hQbTJBWlpfV03SAWBBVV95cUxPZl9uUWpkZUV4LXZvU3BMT0NOc25zOXItUThjYmRXOU1Nd3hvSnFoX3NkVllTMkE4TGFsMlM5VXBIcXNjalpDUzdhY01zNzd3a21lUkR4YXE2blNkYmd4RkQ?oc=5",
-      "date": "Fri, 15 May 2026 06:25:06 GMT",
-      "source": "tokenpost.kr",
-      "score": 3
-    },
-    {
-      "title": "[코인Talk] JP모건도 선택했다…XRP 레저, 5초 만에 국경 간 국채 결제 성공",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkamE3SndZNHE1eFcxNVh4RktfRjJYd3VxcUdKd2laMXN2ZVNlS3pEWWtGOVgyNmRGdVcyVVVDYzluS2dwbloxUlhBVHZnaWp4OVVfYWxZMk5TSWkwNjB3bmxnclVJZHJ5?oc=5",
-      "date": "Fri, 15 May 2026 05:37:56 GMT",
-      "source": "녹색경제신문",
-      "score": 2
-    },
-    {
       "title": "트럼프 방중·뜨거운 CPI 속 비트코인 반등…XRP 5% 급등·워시 인준 주목",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5FQzAwMEU3U0F5VVprU0dQdlpLTElQZzA0djdxanFXeXFfNWdiNjlObWVnX3hRNVhkckZobEJlSkp1bHRtbGhiNjR5a0pEblVOclZCelhRVEZ3OThtQmQxX0hjLXNsSzl1c0NjY3JsVmtaZms?oc=5",
-      "date": "Thu, 14 May 2026 23:13:42 GMT",
-      "source": "디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5fM1ktVmpTbXI4eWl6YVdqNjNiaEpSaE0xcTVyQUFmM1BjOWJienNJbGR0cVIwbUgyUF9MVVBTZjdxalBsOWpKTXJ6NlZiVy1QSXNj?oc=5",
+      "date": "Thu, 14 May 2026 23:14:00 GMT",
+      "source": "네이트",
       "score": 2
     },
     {
@@ -141,10 +128,24 @@
       "score": 8
     },
     {
+      "title": "리플 전 CTO, ‘최악 보안 결함’ 경고",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9aY1RkTWJUWDRleE9FN2tOUzFicTJ4UDJ5akNuVk1hb19PWC1IWU0tR0pGcENEaTNxUkxTUktqdndhUGpBcnRGVjZfdEtiWDNDaUw5SjE0YjQ4ZjlMQ0JQb2UtZjZkM19jVWVvTGcwUlVmWGR0UnNXNg?oc=5",
+      "date": "Thu, 14 May 2026 07:45:40 GMT",
+      "source": "BeInCrypto",
+      "score": 2
+    },
+    {
       "title": "슈워츠 \"리플이 XRP 합의 통제? 말도 안 되는 소리\"… 중앙집중화 논란 일축",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12WExkVkFKQVprMTZQSzMxQm1xLU1YZzQ5WVRfSEFiQW5hSWpqcXI1QXdtRmtHQXRzYVJGVm1qRkNaNkVpWFdCZHotTXR5UlVBcldLdXh4elMzeGpkWFZVSzBaeVRFRE9TbnpKSnk3VWI?oc=5",
       "date": "Thu, 14 May 2026 00:30:00 GMT",
       "source": "블록체인투데이",
+      "score": 2
+    },
+    {
+      "title": "리플 전 CTO \"비트코인 보상 구조, 최악의 보안 모델일 수도\" 직격",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1FMExyaHpZYmhfS0dxam5CM1hrSE5TNDVwU2pWYnVlOXM2QTdMU1JnSExOeWRlb3NSbmtmRmdmRjBoV0czZXp4YnhOTEduWHlZaGVpTDhEU1VsUk1vNGhBTGdza1hqUDNJVUZwUmFHLUtZMm8?oc=5",
+      "date": "Thu, 14 May 2026 00:24:00 GMT",
+      "source": "디지털투데이",
       "score": 2
     },
     {
