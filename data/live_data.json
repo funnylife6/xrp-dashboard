@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-05-16T16:50:33",
+  "generated_at": "2026-05-16T17:50:45",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.42,
-    "price_krw": 2120.36,
-    "price_change_24h": -1.9406,
-    "price_change_7d": 0.08884,
-    "price_change_30d": -0.85471,
-    "market_cap_usd": 87474730348,
+    "price_krw": 2123.88,
+    "price_change_24h": -2.01927,
+    "price_change_7d": 0.06263,
+    "price_change_30d": -0.15505,
+    "market_cap_usd": 87644930793,
     "market_cap_rank": 5,
-    "volume_24h": 1790237802,
+    "volume_24h": 1623286855,
     "circulating_supply": 61829045420.0,
     "total_supply": 99985666473.0,
     "ath_usd": 3.65,
@@ -22,16 +22,16 @@
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 18.06,
-    "recent_tps": 18.06,
-    "recent_tx_count": 1625,
+    "tps_24h_avg": 29.51,
+    "recent_tps": 29.51,
+    "recent_tx_count": 2626,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 104272852,
+    "recent_window_sec": 89,
+    "ledger_seq": 104273788,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-16 16:50:20 KST",
+    "updated_at": "2026-05-16 17:50:32 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 6900000,
     "total_net_inflow_usd": 6900000,
     "total_value_traded_usd": 6900000,
-    "updated_at": "SoSoValue 순유입 부분 수집 05/16 16:50",
+    "updated_at": "SoSoValue 순유입 부분 수집 05/16 17:50",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -114,10 +114,10 @@
       "score": 2
     },
     {
-      "title": "리플 CEO, XRP 독점적 경쟁력 강조... \"결제 혁신 위해 태어난 자산\"",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeHVuNnNJczhvZWZGb1VIOUk3ODA4U1pPcHJFbDhBNjFoUVRqOHo3VXpteEJVV1o2b2w4YW10bkpLcXg2dGFrYXRXSkUwWjR6ZG1KYzgwcmNrN3RnUFp2djFiRFVkWWdsbkRRQTNtY01JdElFQ3E2ZHN1dmV3Rkh5blZGUXdESFJV?oc=5",
-      "date": "Fri, 15 May 2026 01:41:55 GMT",
-      "source": "글로벌이코노믹",
+      "title": "\"XRP 100달러 간다\" 클래리티 법안이 쏘아 올린 공, 현실 가능성은?",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtd3hMVGNUdGNuNmZKYks5bkVNU3N0QTJaRk1lQnc2WEFDYXRNajc5aGp4cTQ2cHJ3Ym5pQnJqc1dRYTFZTmF5TzV5ak1ocnU1ZlFId1NZMzY?oc=5",
+      "date": "Fri, 15 May 2026 08:19:00 GMT",
+      "source": "블록미디어",
       "score": 2
     },
     {
@@ -156,11 +156,11 @@
       "score": 2
     },
     {
-      "title": "리플 전 CTO \"비트코인·이더리움보다 XRP가 수익률 높았다\"",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YOGVvdHBHNUZTNm9OM0ZsOHNwTXZwc0k0bl9JVHVRNGg5OUNCbGlRd0w0YVJoeHM3Rkl2SDcwTzB6NDNIS3Vab3dSaDgtR2lGODVnMzlmY2haaFZLeWNvbGs5QWVpTC1QMzgxeWZVclZPcGc?oc=5",
-      "date": "Wed, 13 May 2026 01:25:00 GMT",
-      "source": "디지털투데이",
-      "score": 3
+      "title": "코인니스 - 가장 빠르고 정확한 코인 투자 뉴스, 커뮤니티",
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE4xaEg2ZEswRGRFMHA3WVlZMXFhNlBqbHNYSWRMRV8wNjRGVTVIb29WbG1MWmdtZTBJZzBZZ0xB?oc=5",
+      "date": "Wed, 13 May 2026 07:00:00 GMT",
+      "source": "코인니스",
+      "score": 8
     }
   ]
 }
