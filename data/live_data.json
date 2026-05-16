@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-16T05:39:32",
+  "generated_at": "2026-05-16T07:53:18",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.43,
-    "price_krw": 2134.78,
-    "price_change_24h": -2.26033,
-    "price_change_7d": -0.25591,
-    "price_change_30d": 1.50202,
-    "market_cap_usd": 88108536650,
+    "price_usd": 1.42,
+    "price_krw": 2119.9,
+    "price_change_24h": -3.68244,
+    "price_change_7d": -0.6755,
+    "price_change_30d": 0.67843,
+    "market_cap_usd": 87553164720,
     "market_cap_rank": 5,
-    "volume_24h": 2161095852,
+    "volume_24h": 2265319046,
     "circulating_supply": 61829045420.0,
     "total_supply": 99985666473.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 87.5,
-    "sentiment_votes_down": 12.5,
+    "sentiment_votes_up": 83.51,
+    "sentiment_votes_down": 16.49,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 35.43,
-    "recent_tps": 35.43,
-    "recent_tx_count": 2905,
+    "tps_24h_avg": 16.54,
+    "recent_tps": 16.54,
+    "recent_tx_count": 1472,
     "recent_ledger_count": 24,
-    "recent_window_sec": 82,
-    "ledger_seq": 104262407,
+    "recent_window_sec": 89,
+    "ledger_seq": 104264495,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-16 05:39:18 KST",
+    "updated_at": "2026-05-16 07:53:10 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,18 +43,11 @@
     "aum_usd": 6900000,
     "total_net_inflow_usd": 6900000,
     "total_value_traded_usd": 6900000,
-    "updated_at": "SoSoValue 순유입 부분 수집 05/16 05:39",
+    "updated_at": "SoSoValue 순유입 부분 수집 05/16 07:53",
     "data_source": "sosovalue",
     "partial": true
   },
   "etf_news": [
-    {
-      "title": "리플(XRP) 1.43달러로 밀렸는데…‘지갑’ 역대 최대, 고래 매집 신호인가",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xdWdMQTA4ZF93LU1xeHA5bkhOSFlKSjhFMUt6WGFFeG1iU0ViYWJWQTRtWVl0M1hHSTdBN2lNUU8zZG9mYnF5ZVoyUkVPR0g4Rmhlek0tV05zNVlsR1FVZVYzUmNuY2Nq?oc=5",
-      "date": "Thu, 14 May 2026 05:25:43 GMT",
-      "source": "CBC뉴스",
-      "score": 0
-    },
     {
       "title": "XRP 조정장 끝?…ETF 자금 유입에 낙관론 확산",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CUUxTSlBqYVhYVFFGaXVUX0d3RzdIcFU5b3lRbVVsS2VtMFI0eE95LU9IanVCRDJGdkJIa3dVVHNFNlZfa2REUUtLYjBpNDJFLWs0SWg1aWFKSlRnSGo4eEo3Nk1fQTBzdjBiREc5WUgtQnc?oc=5",
@@ -88,6 +81,13 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5aOGlVSXYyRjlDYzlKS3ZPZU1Ra29PTWpvbXhYdG15YWtXdWk3N3FpSXA2TUp2dU1RNkpQU1FWeDhxY0EzRldrQjJERkw2bmlBZE43SGUxcDJid3M5Y2o4elRwcXdjUzdhazBJekJqdFZFMjQ?oc=5",
       "date": "Tue, 12 May 2026 13:27:10 GMT",
       "source": "디지털투데이",
+      "score": 0
+    },
+    {
+      "title": "XRP 현물 ETF, 하루 2580만달러 순유입…1월 이후 최대 규모",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE81YlB5WDUwSTg5TnJwZ1c5S0lmTHFRLVhJemtWeHJDUzlUM1FqS09iTjZSUEZRR1dMQ2g4Nk1neFBaWi1iS0RNTTFTLXZhajNG?oc=5",
+      "date": "Tue, 12 May 2026 09:50:53 GMT",
+      "source": "블루밍비트",
       "score": 0
     }
   ],
@@ -128,18 +128,11 @@
       "score": 2
     },
     {
-      "title": "트럼프 방중·뜨거운 CPI 속 비트코인 반등…XRP 5% 급등·워시 인준 주목",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5fM1ktVmpTbXI4eWl6YVdqNjNiaEpSaE0xcTVyQUFmM1BjOWJienNJbGR0cVIwbUgyUF9MVVBTZjdxalBsOWpKTXJ6NlZiVy1QSXNj?oc=5",
-      "date": "Thu, 14 May 2026 23:14:00 GMT",
-      "source": "네이트",
-      "score": 2
-    },
-    {
-      "title": "리플(XRP) 1.43달러로 밀렸는데…‘지갑’ 역대 최대, 고래 매집 신호인가",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xdWdMQTA4ZF93LU1xeHA5bkhOSFlKSjhFMUt6WGFFeG1iU0ViYWJWQTRtWVl0M1hHSTdBN2lNUU8zZG9mYnF5ZVoyUkVPR0g4Rmhlek0tV05zNVlsR1FVZVYzUmNuY2Nq?oc=5",
-      "date": "Thu, 14 May 2026 05:25:43 GMT",
-      "source": "CBC뉴스",
-      "score": 3
+      "title": "코인니스 - 가장 빠르고 정확한 코인 투자 뉴스, 커뮤니티",
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE4xaEg2ZEswRGRFMHA3WVlZMXFhNlBqbHNYSWRMRV8wNjRGVTVIb29WbG1MWmdtZTBJZzBZZ0xB?oc=5",
+      "date": "Thu, 14 May 2026 07:00:00 GMT",
+      "source": "코인니스",
+      "score": 8
     },
     {
       "title": "\"스위프트 구시대 시스템 종료\"… 엑스알피(XRP), 국제 결제 표준 전환 최대 수혜주 부상",
@@ -161,6 +154,13 @@
       "date": "Wed, 13 May 2026 01:25:00 GMT",
       "source": "디지털투데이",
       "score": 3
+    },
+    {
+      "title": "리플 현물 ETF 자금 유입 '활활'… 누적 13억 5,000만 달러 돌파",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0ZjVKOERCLVp3VElKU0dEdGpRdDdEOEF3RlkzWXV6ZkNvR2pTV21hV1Rwb0c5ZHdINi11M001U3dONmNoRGU4aXhhendkWndvSmxXejN1aDM2MXVZZUxTUlFEQ0NYUlVWY0lPSENB?oc=5",
+      "date": "Tue, 12 May 2026 22:24:24 GMT",
+      "source": "gukjenews.com",
+      "score": 4
     }
   ]
 }
