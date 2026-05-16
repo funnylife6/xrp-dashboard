@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-16T14:38:19",
+  "generated_at": "2026-05-16T15:51:54",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.41,
-    "price_krw": 2108.6,
-    "price_change_24h": -2.13449,
-    "price_change_7d": -0.76742,
-    "price_change_30d": 0.00465,
-    "market_cap_usd": 87039983866,
+    "price_krw": 2117.73,
+    "price_change_24h": -1.30748,
+    "price_change_7d": -0.12482,
+    "price_change_30d": 0.37892,
+    "market_cap_usd": 87414374343,
     "market_cap_rank": 5,
-    "volume_24h": 1845149066,
+    "volume_24h": 1693167153,
     "circulating_supply": 61829045420.0,
     "total_supply": 99985666473.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 81.82,
-    "sentiment_votes_down": 18.18,
+    "sentiment_votes_up": 80.0,
+    "sentiment_votes_down": 20.0,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 39.34,
-    "recent_tps": 39.34,
-    "recent_tx_count": 3226,
+    "tps_24h_avg": 42.01,
+    "recent_tps": 42.01,
+    "recent_tx_count": 3781,
     "recent_ledger_count": 24,
-    "recent_window_sec": 82,
-    "ledger_seq": 104270796,
+    "recent_window_sec": 90,
+    "ledger_seq": 104271940,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-16 14:38:07 KST",
+    "updated_at": "2026-05-16 15:51:41 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 6900000,
     "total_net_inflow_usd": 6900000,
     "total_value_traded_usd": 6900000,
-    "updated_at": "SoSoValue 순유입 부분 수집 05/16 14:38",
+    "updated_at": "SoSoValue 순유입 부분 수집 05/16 15:51",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -135,13 +135,6 @@
       "score": 2
     },
     {
-      "title": "코인니스 - 가장 빠르고 정확한 코인 투자 뉴스, 커뮤니티",
-      "url": "https://news.google.com/rss/articles/CBMiOEFVX3lxTFBEaHNPZ0FXcVNyMXRsSDVldFhzQXJMUFlfNlZfc015dnRHWElSLUpkRXNfeExNWUFi?oc=5",
-      "date": "Thu, 14 May 2026 07:00:00 GMT",
-      "source": "코인니스",
-      "score": 8
-    },
-    {
       "title": "리플(XRP) 1.43달러로 밀렸는데…‘지갑’ 역대 최대, 고래 매집 신호인가",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xdWdMQTA4ZF93LU1xeHA5bkhOSFlKSjhFMUt6WGFFeG1iU0ViYWJWQTRtWVl0M1hHSTdBN2lNUU8zZG9mYnF5ZVoyUkVPR0g4Rmhlek0tV05zNVlsR1FVZVYzUmNuY2Nq?oc=5",
       "date": "Thu, 14 May 2026 05:25:43 GMT",
@@ -160,6 +153,13 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1FMExyaHpZYmhfS0dxam5CM1hrSE5TNDVwU2pWYnVlOXM2QTdMU1JnSExOeWRlb3NSbmtmRmdmRjBoV0czZXp4YnhOTEduWHlZaGVpTDhEU1VsUk1vNGhBTGdza1hqUDNJVUZwUmFHLUtZMm8?oc=5",
       "date": "Thu, 14 May 2026 00:24:00 GMT",
       "source": "디지털투데이",
+      "score": 2
+    },
+    {
+      "title": "\"스위프트 구시대 시스템 종료\"… 엑스알피(XRP), 국제 결제 표준 전환 최대 수혜주 부상",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVUpfOWhPQXZvZ0RtN25PRlpldm5nZkdJeExqLV95R2dhOXk3RDZjcTZwQnpsakV2OUhwQmNZNVl4M2NVOFA2aGtWSGZtZUlNaFFndGdjSE04NzZQaUlxSjI1MlBWdUxtaDg5WDhSZ2N2YThSMnltTDc3cXdDbGpDN0xsV2lkbmlI?oc=5",
+      "date": "Wed, 13 May 2026 20:48:23 GMT",
+      "source": "글로벌이코노믹",
       "score": 2
     }
   ]
