@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-16T23:43:42",
+  "generated_at": "2026-05-17T02:26:51",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.41,
-    "price_krw": 2117.57,
-    "price_change_24h": -1.40064,
-    "price_change_7d": -0.69727,
-    "price_change_30d": -2.26459,
-    "market_cap_usd": 87408444978,
+    "price_krw": 2105.06,
+    "price_change_24h": -2.24131,
+    "price_change_7d": -0.77772,
+    "price_change_30d": -2.51148,
+    "market_cap_usd": 86950858862,
     "market_cap_rank": 5,
-    "volume_24h": 1584886277,
+    "volume_24h": 1596651198,
     "circulating_supply": 61829045420.0,
     "total_supply": 99985666473.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 76.0,
-    "sentiment_votes_down": 24.0,
+    "sentiment_votes_up": 74.65,
+    "sentiment_votes_down": 25.35,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 38.66,
-    "recent_tps": 38.66,
-    "recent_tx_count": 3441,
+    "tps_24h_avg": 20.99,
+    "recent_tps": 20.99,
+    "recent_tx_count": 1889,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 104279287,
+    "recent_window_sec": 90,
+    "ledger_seq": 104281821,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-16 23:43:36 KST",
+    "updated_at": "2026-05-17 02:26:40 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 6900000,
     "total_net_inflow_usd": 6900000,
     "total_value_traded_usd": 6900000,
-    "updated_at": "SoSoValue 순유입 부분 수집 05/16 23:43",
+    "updated_at": "SoSoValue 순유입 부분 수집 05/17 02:26",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -93,6 +93,13 @@
   ],
   "general_news": [
     {
+      "title": "클래리티 법안과 리플의 투자 기회",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTG5ZbENFVXo2WnhXNGFnNlBQZG1RYzM2ai0zQ3RmNUlHalFhaVlvZDBydXY4b040WHVxZldxVG92cDVWM0FIRk80RzJWZEFxYThWeEdnMzZvdU02V0ZyQjgtVGl0c0p6TF9ocmdhYTdaM1JIMUdnbGhNQy00OXFnOWVGLV9XUQ?oc=5",
+      "date": "Sun, 17 May 2026 00:13:00 GMT",
+      "source": "네이버 프리미엄콘텐츠",
+      "score": 2
+    },
+    {
       "title": "CME·나스닥, 리플 XRP 포함 지수 선물 출시",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Yd3dQQy1RYlFtUy1tTVZfVy1yLWZBNG0yNndtVnhOWS1naFdxMTFrWnFZeTJVc0RMYnlvZnNuNS1KY0FDaEgzSFJadnYxU2ZZU3RoRjBMcmpHZ0RpbWNaaG55M0RJZ3JoVmNPY0dGSU1HUQ?oc=5",
       "date": "Sat, 16 May 2026 22:58:09 GMT",
@@ -128,13 +135,6 @@
       "score": 8
     },
     {
-      "title": "[코인Talk] JP모건도 선택했다…XRP 레저, 5초 만에 국경 간 국채 결제 성공",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkamE3SndZNHE1eFcxNVh4RktfRjJYd3VxcUdKd2laMXN2ZVNlS3pEWWtGOVgyNmRGdVcyVVVDYzluS2dwbloxUlhBVHZnaWp4OVVfYWxZMk5TSWkwNjB3bmxnclVJZHJ5?oc=5",
-      "date": "Fri, 15 May 2026 05:37:56 GMT",
-      "source": "녹색경제신문",
-      "score": 2
-    },
-    {
       "title": "트럼프 방중·뜨거운 CPI 속 비트코인 반등…XRP 5% 급등·워시 인준 주목",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5FQzAwMEU3U0F5VVprU0dQdlpLTElQZzA0djdxanFXeXFfNWdiNjlObWVnX3hRNVhkckZobEJlSkp1bHRtbGhiNjR5a0pEblVOclZCelhRVEZ3OThtQmQxX0hjLXNsSzl1c0NjY3JsVmtaZms?oc=5",
       "date": "Thu, 14 May 2026 23:13:42 GMT",
@@ -149,17 +149,17 @@
       "score": 2
     },
     {
+      "title": "코인니스 - 가장 빠르고 정확한 코인 투자 뉴스, 커뮤니티",
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE4xaEg2ZEswRGRFMHA3WVlZMXFhNlBqbHNYSWRMRV8wNjRGVTVIb29WbG1MWmdtZTBJZzBZZ0xB?oc=5",
+      "date": "Thu, 14 May 2026 07:00:00 GMT",
+      "source": "코인니스",
+      "score": 8
+    },
+    {
       "title": "슈워츠 \"리플이 XRP 합의 통제? 말도 안 되는 소리\"… 중앙집중화 논란 일축",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12WExkVkFKQVprMTZQSzMxQm1xLU1YZzQ5WVRfSEFiQW5hSWpqcXI1QXdtRmtHQXRzYVJGVm1qRkNaNkVpWFdCZHotTXR5UlVBcldLdXh4elMzeGpkWFZVSzBaeVRFRE9TbnpKSnk3VWI?oc=5",
       "date": "Thu, 14 May 2026 00:30:00 GMT",
       "source": "블록체인투데이",
-      "score": 2
-    },
-    {
-      "title": "\"스위프트 구시대 시스템 종료\"… 엑스알피(XRP), 국제 결제 표준 전환 최대 수혜주 부상",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVUpfOWhPQXZvZ0RtN25PRlpldm5nZkdJeExqLV95R2dhOXk3RDZjcTZwQnpsakV2OUhwQmNZNVl4M2NVOFA2aGtWSGZtZUlNaFFndGdjSE04NzZQaUlxSjI1MlBWdUxtaDg5WDhSZ2N2YThSMnltTDc3cXdDbGpDN0xsV2lkbmlI?oc=5",
-      "date": "Wed, 13 May 2026 20:48:23 GMT",
-      "source": "글로벌이코노믹",
       "score": 2
     }
   ]
