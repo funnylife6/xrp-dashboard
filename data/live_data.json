@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-17T22:12:43",
+  "generated_at": "2026-05-17T23:27:26",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.42,
-    "price_krw": 2120.58,
-    "price_change_24h": 0.27096,
-    "price_change_7d": -2.34788,
-    "price_change_30d": -4.42463,
-    "market_cap_usd": 87587759993,
+    "price_usd": 1.41,
+    "price_krw": 2106.3,
+    "price_change_24h": -0.52837,
+    "price_change_7d": -3.38656,
+    "price_change_30d": -5.38122,
+    "market_cap_usd": 86900088292,
     "market_cap_rank": 5,
-    "volume_24h": 1146685773,
+    "volume_24h": 1157912591,
     "circulating_supply": 61829045420.0,
     "total_supply": 99985666473.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 86.11,
-    "sentiment_votes_down": 13.89,
+    "sentiment_votes_up": 84.93,
+    "sentiment_votes_down": 15.07,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 27.59,
-    "recent_tps": 27.59,
-    "recent_tx_count": 2483,
+    "tps_24h_avg": 25.51,
+    "recent_tps": 25.51,
+    "recent_tx_count": 2270,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 104300304,
+    "recent_window_sec": 89,
+    "ledger_seq": 104301468,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-17 22:12:30 KST",
+    "updated_at": "2026-05-17 23:27:13 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 6900000,
     "total_net_inflow_usd": 6900000,
     "total_value_traded_usd": 6900000,
-    "updated_at": "SoSoValue 순유입 부분 수집 05/17 22:12",
+    "updated_at": "SoSoValue 순유입 부분 수집 05/17 23:27",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -128,6 +128,13 @@
       "score": 2
     },
     {
+      "title": "XRP, ETF 돈폭탄에도 가격은 '제자리 걸음'...1.55달러 벽에 왜 자꾸 멈추나?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBSNE5YcTNfREJvRE50VWROTmVKMFc4aC1UdGhGblZwOEhDeWpFNEdxSjgzODI4V0FqdDUzNWxPV0dONzdNc1JCdnVn?oc=5",
+      "date": "Sun, 17 May 2026 09:00:00 GMT",
+      "source": "코인리더스",
+      "score": 3
+    },
+    {
       "title": "글로벌 대형 은행들, SWIFT 새 결제 체계 앞두고 리플 XRP 기술 이미 통합",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWk9LbUlDM0ZXMWROd2RFb2wwenVhSmJTUFNBZUZIRV96ZnV4Q1JOZEpIcWs2TWhsdFpFZTJGR1NNeXN4MUxUOHhKRUJEN18xYWRrckJ0UThTYXN0dUFJbG12ZW9YeVhHWi1OY3d6akRIUHk3VHc0RGtCY205eDNGWlE2d2NNR0Rx?oc=5",
       "date": "Sun, 17 May 2026 05:26:50 GMT",
@@ -147,13 +154,6 @@
       "date": "Sun, 17 May 2026 03:35:00 GMT",
       "source": "CBC뉴스",
       "score": 3
-    },
-    {
-      "title": "리플(XRP) 사? 팔아?… GPT·클로드·Grok의 엇갈린 전망",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1MkJYRW1XeHhJaUZBWHE1ZjNYOWZHdnhoN3dpMjZFdkR3VW5KZTlGSDNndGZVdkdENmQtMkFYU2UxU240V0p4Q25hWHlDc2FRMFN4ZV9KX1jSAV5BVV95cUxQYXFfdnlxelB4ZkVzUm1YTnBsNDVZMURadTBWYjZ0di1aY1dDNW05RTZ6WGNFV1hXS21fSHQ1RXhteVhaaGxJS21tSnp1YWdIVzhUVk9iaGVrbVk3Ukdn?oc=5",
-      "date": "Sun, 17 May 2026 00:50:04 GMT",
-      "source": "tokenpost.kr",
-      "score": 2
     },
     {
       "title": "[독점] 美 상원 움직이자 리플 폭발 -> XRP ‘금융 인프라 자산’ 재평가 시작 => 리플 기업가치 35조 돌파 = 월가 “XRP 4달러는 시작일 뿐” > SEC 족쇄 풀린 리플의 반격 >> 美 금융권 “XRP 결국 10달러 간다”",
