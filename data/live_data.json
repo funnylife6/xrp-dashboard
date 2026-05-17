@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-17T06:00:33",
+  "generated_at": "2026-05-17T08:28:46",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.42,
-    "price_krw": 2120.82,
-    "price_change_24h": -0.67969,
-    "price_change_7d": -0.16855,
-    "price_change_30d": -1.08536,
-    "market_cap_usd": 87540340910,
+    "price_krw": 2121.46,
+    "price_change_24h": 0.06902,
+    "price_change_7d": -0.11603,
+    "price_change_30d": -1.11084,
+    "market_cap_usd": 87573295889,
     "market_cap_rank": 5,
-    "volume_24h": 1481185177,
+    "volume_24h": 1324913347,
     "circulating_supply": 61829045420.0,
     "total_supply": 99985666473.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 74.03,
-    "sentiment_votes_down": 25.97,
+    "sentiment_votes_up": 77.63,
+    "sentiment_votes_down": 22.37,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 16.9,
-    "recent_tps": 16.9,
-    "recent_tx_count": 1521,
+    "tps_24h_avg": 20.36,
+    "recent_tps": 20.36,
+    "recent_tx_count": 1832,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104285148,
+    "ledger_seq": 104287457,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-17 06:00:27 KST",
+    "updated_at": "2026-05-17 08:28:32 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 6900000,
     "total_net_inflow_usd": 6900000,
     "total_value_traded_usd": 6900000,
-    "updated_at": "SoSoValue 순유입 부분 수집 05/17 06:00",
+    "updated_at": "SoSoValue 순유입 부분 수집 05/17 08:28",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -93,17 +93,24 @@
   ],
   "general_news": [
     {
-      "title": "글로벌 대형 은행들, SWIFT 새 결제 체계 앞두고 리플 XRP 기술 이미 통합",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWk9LbUlDM0ZXMWROd2RFb2wwenVhSmJTUFNBZUZIRV96ZnV4Q1JOZEpIcWs2TWhsdFpFZTJGR1NNeXN4MUxUOHhKRUJEN18xYWRrckJ0UThTYXN0dUFJbG12ZW9YeVhHWi1OY3d6akRIUHk3VHc0RGtCY205eDNGWlE2d2NNR0Rx?oc=5",
-      "date": "Sun, 17 May 2026 05:26:50 GMT",
+      "title": "\"XRP, 비트코인 대비 10배 수익률 잠재력\"",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeDJWdkJhNVdKQ1lPWV9oOTUzMHFtRUlSWmV0TmMzSXpTdGJVS2N4ckoyV2lzWE1WVlhmT2pxZzY4UGZpelRqejRLX29yU0NoVmYxZ3dDNnZSSEh1c3RUS2dhVHY4MGR6V0JwY2NTUEFITGtSa2NVWVV0UHNoM0NmdHprSHBsRHFS?oc=5",
+      "date": "Sun, 17 May 2026 04:15:28 GMT",
       "source": "글로벌이코노믹",
-      "score": 3
+      "score": 2
     },
     {
       "title": "“조용한 매집 시작됐나”…리플XRP ETF 자금 유입 급증",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMcVpmMklGTG85cVF4UnFoZW5mOHBmRDgtNVd1cVhUcUk0OEJwM3JrZ09hQnBTZTAwR3haY3NVNlZmeEZqcXZLbjNZaEFnU1VtSzNIbWFpS1lhSk9weWd0NVhOVFcxeW01?oc=5",
       "date": "Sun, 17 May 2026 03:35:00 GMT",
       "source": "CBC뉴스",
+      "score": 3
+    },
+    {
+      "title": "[독점] 美 상원 움직이자 리플 폭발 -> XRP ‘금융 인프라 자산’ 재평가 시작 => 리플 기업가치 35조 돌파 = 월가 “XRP 4달러는 시작일 뿐” > SEC 족쇄 풀린 리플의 반격 >> 美 금융권 “XRP 결국 10달러 간다”",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mNXJBWU00Q0d6cHRobUx1dDVUNzFLX2F0S2xrZzRDNFJvVkVCMkFzNVZ0TV9KX0NPQzJkeGJhZXVYaFdDbU5qQTdZb2JHd1dYWVc0RmJFYjVCdG1XMGZDRExsY003cXRfR3lhNWdfRVo0dw?oc=5",
+      "date": "Sun, 17 May 2026 00:13:38 GMT",
+      "source": "데일리머니",
       "score": 3
     },
     {
@@ -135,31 +142,24 @@
       "score": 2
     },
     {
-      "title": "리플 CEO가 꼽는 'XRP 차별점' 보니…속도·수수료·관심도 부각",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMSkdqWGUzdlJ2RmpXa3huaEtPdFhzbi0xN0szdDgySF9CN2tJTE9hdlRPa09SLUx0eGNoQlJhcUtCbUU2UWtmQzdPZXM2NVZYOFJr?oc=5",
-      "date": "Fri, 15 May 2026 22:01:00 GMT",
-      "source": "네이트",
+      "title": "리플 '고래들 지갑 33만개' 기습 돌파… XRP '1경원' 유입 \"20달러 간다\"",
+      "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNUUNIWXd0cVZJM3Rmd1M2QVVzdWdIeDJHZ1hUaTdpS211ZjZMQUM1a1A3dFJyOW9CTlhMa3JLU0drN29rR2I5RHVwendfN1FOeGd1RVNGYWtjQ2ZHWC1KN2lHcDR4R3ZqUDJEekxDVFgwR005TkpEaE9ja0hDSXZocDhuVlZ0XzRXY29FVGFlNjZ0eVdfajY3ZmhfVk5ObEVLbGc1UmlpS01uUVQtNGd1UTRBQk5VVWJobmFMaVR0M2JyR05qdVpHN1FfQ0g0MVZ4cnJ6MGtOUjhLZVkwZEFTVUVtQWMzcklxNTJFMmFNb3Fwc3d5NHJ0dExXNHYtSnpUOU9jV1ZxbUJJZ2ZHbDQ1VGNvazVRd3h3QjJ0Smd5aWNZMUp3c2M4VlJYQlpqbjZ0dWM0ejRnc3VDbFl3V3drQUJDQTVDOGQ5aE9UdTY2T3EydzNqNlI3R2pYVU5XRTJYWm9vYm5jSDF2TV9HZEpqMFB5Zi1aRVZjcU1mYjR1OE53Zw?oc=5",
+      "date": "Sat, 16 May 2026 21:34:55 GMT",
+      "source": "MSN",
       "score": 2
+    },
+    {
+      "title": "고래들이 많이 가지고 있다는 건 호재임.",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZclFnblk5TGxDYTZINWNaZVZTNkdERXZpODhXWkFjemloT2F1eWJ0OE5HZ2s1dlBBZlBRRnR0SXNfcTJJN0pPWXVCcXJIMVZaVVpQS3ZGYXU?oc=5",
+      "date": "Sat, 16 May 2026 00:44:49 GMT",
+      "source": "코인니스",
+      "score": 8
     },
     {
       "title": "트럼프 방중·뜨거운 CPI 속 비트코인 반등…XRP 5% 급등·워시 인준 주목",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5FQzAwMEU3U0F5VVprU0dQdlpLTElQZzA0djdxanFXeXFfNWdiNjlObWVnX3hRNVhkckZobEJlSkp1bHRtbGhiNjR5a0pEblVOclZCelhRVEZ3OThtQmQxX0hjLXNsSzl1c0NjY3JsVmtaZms?oc=5",
       "date": "Thu, 14 May 2026 23:13:42 GMT",
       "source": "디지털투데이",
-      "score": 2
-    },
-    {
-      "title": "엑스알피(XRP) 시세 5%↑...클래러티법 통과에 '300달러' 전망",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFaHB1dVF6b0drb05zRFJnVWxQaEFWZ29Pa0FfVmdGTUx5Wm5GYl9PM2hyZ2FaZEtKaGRXaWpXLWZHUC10bGh4OUNFZ2NkWW5HeG1sYjVXa3ZqLUFMeHRBTDZxUjJmT01yOW5FUVBn?oc=5",
-      "date": "Thu, 14 May 2026 22:30:15 GMT",
-      "source": "gukjenews.com",
-      "score": 2
-    },
-    {
-      "title": "슈워츠 \"리플이 XRP 합의 통제? 말도 안 되는 소리\"… 중앙집중화 논란 일축",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12WExkVkFKQVprMTZQSzMxQm1xLU1YZzQ5WVRfSEFiQW5hSWpqcXI1QXdtRmtHQXRzYVJGVm1qRkNaNkVpWFdCZHotTXR5UlVBcldLdXh4elMzeGpkWFZVSzBaeVRFRE9TbnpKSnk3VWI?oc=5",
-      "date": "Thu, 14 May 2026 00:30:00 GMT",
-      "source": "블록체인투데이",
       "score": 2
     }
   ]
