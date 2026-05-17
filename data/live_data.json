@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-17T17:52:51",
+  "generated_at": "2026-05-17T18:57:38",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.41,
-    "price_krw": 2113.58,
-    "price_change_24h": -0.49476,
-    "price_change_7d": -2.30179,
-    "price_change_30d": -5.09119,
-    "market_cap_usd": 87209662823,
+    "price_krw": 2113.66,
+    "price_change_24h": -0.32458,
+    "price_change_7d": -4.14471,
+    "price_change_30d": -5.72933,
+    "market_cap_usd": 87210133392,
     "market_cap_rank": 5,
-    "volume_24h": 1021305724,
+    "volume_24h": 1034262756,
     "circulating_supply": 61829045420.0,
     "total_supply": 99985666473.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 83.82,
-    "sentiment_votes_down": 16.18,
+    "sentiment_votes_up": 86.76,
+    "sentiment_votes_down": 13.24,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 17.17,
-    "recent_tps": 17.17,
-    "recent_tx_count": 1545,
+    "tps_24h_avg": 17.41,
+    "recent_tps": 17.41,
+    "recent_tx_count": 1567,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104296246,
+    "ledger_seq": 104297261,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-17 17:52:36 KST",
+    "updated_at": "2026-05-17 18:57:28 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 6900000,
     "total_net_inflow_usd": 6900000,
     "total_value_traded_usd": 6900000,
-    "updated_at": "SoSoValue 순유입 부분 수집 05/17 17:52",
+    "updated_at": "SoSoValue 순유입 부분 수집 05/17 18:57",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -64,7 +64,7 @@
     },
     {
       "title": "“조용한 매집 시작됐나”…리플XRP ETF 자금 유입 급증",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMcVpmMklGTG85cVF4UnFoZW5mOHBmRDgtNVd1cVhUcUk0OEJwM3JrZ09hQnBTZTAwR3haY3NVNlZmeEZqcXZLbjNZaEFnU1VtSzNIbWFpS1lhSk9weWd0NVhOVFcxeW01?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9RWmNCbWM1d3FjZ3gzcFRTSXhDX1VrN1M4dThjWG9sTlpvdnAyRW52aUhCNUdPR25IMC1fMzF5a3JsUnlOcW1YRzRnYjlibjRBem80ZXViNER2QXYtanpHX3cxNA?oc=5",
       "date": "Sun, 17 May 2026 03:35:00 GMT",
       "source": "CBC뉴스",
       "score": 0
@@ -77,17 +77,17 @@
       "score": 0
     },
     {
-      "title": "리플 전 CTO \"비트코인·이더리움보다 XRP가 수익률 높았다\"",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YOGVvdHBHNUZTNm9OM0ZsOHNwTXZwc0k0bl9JVHVRNGg5OUNCbGlRd0w0YVJoeHM3Rkl2SDcwTzB6NDNIS3Vab3dSaDgtR2lGODVnMzlmY2haaFZLeWNvbGs5QWVpTC1QMzgxeWZVclZPcGc?oc=5",
-      "date": "Wed, 13 May 2026 01:25:00 GMT",
-      "source": "디지털투데이",
-      "score": 0
-    },
-    {
       "title": "리플 현물 ETF 자금 유입 '활활'… 누적 13억 5,000만 달러 돌파",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0ZjVKOERCLVp3VElKU0dEdGpRdDdEOEF3RlkzWXV6ZkNvR2pTV21hV1Rwb0c5ZHdINi11M001U3dONmNoRGU4aXhhendkWndvSmxXejN1aDM2MXVZZUxTUlFEQ0NYUlVWY0lPSENB?oc=5",
       "date": "Tue, 12 May 2026 22:24:24 GMT",
       "source": "gukjenews.com",
+      "score": 0
+    },
+    {
+      "title": "미국 XRP 현물 ETF에 4달 만에 최대 자금 유입",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2LVVIWjVIM2FTZ1BiNFE4LXMycjkxdlA4OXNRWTh6ZEMycW5ReEs3V3JSaktJZTN3N1UwMXVGOUV6U29LRjl1NG5XQ1V1SkZhM05wSlM1blI2S0lXOHFfcEhtUDhiSVFMblpiRQ?oc=5",
+      "date": "Tue, 12 May 2026 20:00:08 GMT",
+      "source": "경향게임스",
       "score": 0
     }
   ],
@@ -136,7 +136,7 @@
     },
     {
       "title": "“조용한 매집 시작됐나”…리플XRP ETF 자금 유입 급증",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMcVpmMklGTG85cVF4UnFoZW5mOHBmRDgtNVd1cVhUcUk0OEJwM3JrZ09hQnBTZTAwR3haY3NVNlZmeEZqcXZLbjNZaEFnU1VtSzNIbWFpS1lhSk9weWd0NVhOVFcxeW01?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9RWmNCbWM1d3FjZ3gzcFRTSXhDX1VrN1M4dThjWG9sTlpvdnAyRW52aUhCNUdPR25IMC1fMzF5a3JsUnlOcW1YRzRnYjlibjRBem80ZXViNER2QXYtanpHX3cxNA?oc=5",
       "date": "Sun, 17 May 2026 03:35:00 GMT",
       "source": "CBC뉴스",
       "score": 3
