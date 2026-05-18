@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-18T13:39:24",
+  "generated_at": "2026-05-18T16:44:47",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.38,
-    "price_krw": 2064.78,
-    "price_change_24h": -2.75824,
-    "price_change_7d": -5.18165,
-    "price_change_30d": -3.94256,
-    "market_cap_usd": 85589665156,
+    "price_krw": 2055.27,
+    "price_change_24h": -2.77488,
+    "price_change_7d": -6.49829,
+    "price_change_30d": -4.14968,
+    "market_cap_usd": 85022198453,
     "market_cap_rank": 5,
-    "volume_24h": 2075893997,
+    "volume_24h": 2130485961,
     "circulating_supply": 61829045420.0,
     "total_supply": 99985666473.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 83.33,
-    "sentiment_votes_down": 16.67,
+    "sentiment_votes_up": 80.56,
+    "sentiment_votes_down": 19.44,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 23.77,
-    "recent_tps": 23.77,
-    "recent_tx_count": 2139,
+    "tps_24h_avg": 28.49,
+    "recent_tps": 28.49,
+    "recent_tx_count": 2564,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104314755,
+    "ledger_seq": 104317642,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-18 13:39:11 KST",
+    "updated_at": "2026-05-18 16:44:34 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,11 +43,25 @@
     "aum_usd": 6900000,
     "total_net_inflow_usd": 6900000,
     "total_value_traded_usd": 6900000,
-    "updated_at": "SoSoValue 순유입 부분 수집 05/18 13:39",
+    "updated_at": "SoSoValue 순유입 부분 수집 05/18 16:44",
     "data_source": "sosovalue",
     "partial": true
   },
   "etf_news": [
+    {
+      "title": "리플XRP, 골드만삭스 전량 매도에도 시장 긴장감…“기관 이탈인가, 재정비인가”",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1iNEV6WTNpX0ZNQloxSlU5SUwwYlVxLXNzRGhNMzBBbW92djZrRUZpQkxNZmdxN2dLNXF1SXJsS1ZhSTFQUlB2NDh6UjZjcHZMS2R2WnZHbEF1bGhlbk5vV1pmcHFoU0lw?oc=5",
+      "date": "Mon, 18 May 2026 15:00:00 GMT",
+      "source": "CBC뉴스",
+      "score": 0
+    },
+    {
+      "title": "골드만삭스, 리플 전량 매도…'알트코인 대폭락' 신호탄 되나",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ORDFqYmZGWWpXc0g2djBRS3ozUi1ENUJxb2hQSmdCbkFETVprcl9aNC1uME8taEJLU2dFZERfUkdaNi1PeHR5c1V0bmY3R0pXN0tQSnlxYjhrLW9JT1YzWkVZamsyV3JmMmt2SlRuSQ?oc=5",
+      "date": "Mon, 18 May 2026 14:53:00 GMT",
+      "source": "리드경제",
+      "score": 0
+    },
     {
       "title": "리플XRP 또 기관 자금 중심에 섰다…티 로우 프라이스, 15종 암호화폐 ETF 수정안 제출",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tTFd3amFsbmFudVRCbWE4aGp5aFJrQ1NaZlpCbVgwRE01YWdKS1ZlaHkwX25aV1RZQ2NsOUd1V2Q3SmRrRzIwOWNvdXJwNHl5a20wblVaNlJlNW02ZC04OTJ6TmFqRkpS?oc=5",
@@ -63,13 +77,6 @@
       "score": 0
     },
     {
-      "title": "리플·솔라나 다음은 BNB? '네 번째 거물' ETF 출시 임박 신호",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9xR3Y0RjRYaGNkM3B1T0MxWU4zUHVLcG9VbUt5YmxQV19Cd3FYaFNkcTh6VU81TDVVbm9DMjE3cWtCOG9HTlk2eVlaa1QyTFBCaFpWWUMwc3pZb2cyRDhBbTZpMGZoWm1tYV9fSDVnWQ?oc=5",
-      "date": "Mon, 18 May 2026 03:36:00 GMT",
-      "source": "리드경제",
-      "score": 0
-    },
-    {
       "title": "미국 XRP 현물 ETF, 지난주 906억원 순유입...올해 최대",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ubk85MG9BZkVVdWNQaGFFTkVxbHllQm0yWWVkRkVoaklrRDdWNTBCd0ttb3gxMFdGbmtiMWhKOThvQ0d6eS1iVFRkUzE0YmFKWVViSTEzbW1UTkNjWGdrOG02dkVkTWRHV1JqOTdsWWdzQQ?oc=5",
       "date": "Mon, 18 May 2026 00:30:00 GMT",
@@ -82,16 +89,30 @@
       "date": "Sun, 17 May 2026 20:50:57 GMT",
       "source": "글로벌이코노믹",
       "score": 0
-    },
-    {
-      "title": "리플XRP 현물 ETF에 약 6천만달러 몰렸다?…비트코인 빠질 때 리플로 향한 자금, 왜?",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82Nk9wWUJaZnQ1djdnX2dQT2hmVnV0QWNrcGtkeHltdjFUMlY2RExlcllBNVkxNnVwa1B0dk80dkk5LUJTWlA5Um55b05MbUVURVJIVWNwbHlEekxmdTNlbnljdmFoTkpk?oc=5",
-      "date": "Sun, 17 May 2026 15:00:00 GMT",
-      "source": "CBC뉴스",
-      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "리플XRP, 골드만삭스 전량 매도에도 시장 긴장감…“기관 이탈인가, 재정비인가”",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1iNEV6WTNpX0ZNQloxSlU5SUwwYlVxLXNzRGhNMzBBbW92djZrRUZpQkxNZmdxN2dLNXF1SXJsS1ZhSTFQUlB2NDh6UjZjcHZMS2R2WnZHbEF1bGhlbk5vV1pmcHFoU0lw?oc=5",
+      "date": "Mon, 18 May 2026 15:00:00 GMT",
+      "source": "CBC뉴스",
+      "score": 4
+    },
+    {
+      "title": "리플로 100억 벌었다더니 결국 한국 투자자들만 당했습니다",
+      "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxQQXBtdENFVXZJVllmNlQtRWI0ZkVVMXViS1owckZaTmF5akJzTDc1RWlhazhJUXg3encyZmNqMlgtejNqa0lGaWtTTTlraTB1QWRtTnh2V1daNzUweDlvNXZCMEg2NzZNSmlpdklTQlhnY0FRcng4LTlzUnliQ2QxNkpLamkxdkNweHlUZE1Db011NlV0VlE2RlhWdUhmZzk1UnZZU2RGeWx4TmhnYzItY21XNVgtNklFYlVMQ3JGWjBvWVZQMF8yVjZMcC1pM2RiMnRRSVBuZVRzU2V3Y0RWZGZyU0lQQVBpaGFlYzhhZ0F3cnlPcHhtdVkzdjYtX2VVRkw3ZVJZcWFxMUFLckx3M1JHTHhqekZUR1VGTmJDbW9fTE9SSmlDZFVJRktpbWRaT2dWR2VoaGdQcjJyVndmM1BORE0xSUZmVVNPQ0pyOXIxaVYtcU9oQkZMT3RYWGJ6OVdTY3RkZUtUMlFrZmoyYlhNTHZvQk9KS0FSYlh3?oc=5",
+      "date": "Mon, 18 May 2026 14:26:15 GMT",
+      "source": "MSN",
+      "score": 2
+    },
+    {
+      "title": "리플 실사용 논리, 규제 명확성 앞 대반전 예고...XRP 인생 역전 구간 오나?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9PbEd1RUJhMnhHeXQyN3NkV2lWTmRLcm82SlpaZ3Jya2Q4LUpkczFabnk5MEpkUEJEV0N5WTg1LUExQWJ2d3BjWlhB?oc=5",
+      "date": "Mon, 18 May 2026 13:00:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
     {
       "title": "리플XRP 또 기관 자금 중심에 섰다…티 로우 프라이스, 15종 암호화폐 ETF 수정안 제출",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tTFd3amFsbmFudVRCbWE4aGp5aFJrQ1NaZlpCbVgwRE01YWdKS1ZlaHkwX25aV1RZQ2NsOUd1V2Q3SmRrRzIwOWNvdXJwNHl5a20wblVaNlJlNW02ZC04OTJ6TmFqRkpS?oc=5",
@@ -114,13 +135,6 @@
       "score": 2
     },
     {
-      "title": "제도권 자금 삼키는 리플 원장… RWA 대세론 속 풀지 못한 디커플링 과제",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mTGoycXV6eWw4UXRUdEY0RXA0X3ozcmdBZG4tcFZta3p3OVUtd25HVDBoQmpTMVBUU3NXUjVIclI1V3Z1cmpwQ285dEk5MUI1TmZUcWd3TVhVYUZuRnFxT2JFRC13cVpVb1hsY3YxZkc?oc=5",
-      "date": "Mon, 18 May 2026 02:16:17 GMT",
-      "source": "블록체인투데이",
-      "score": 2
-    },
-    {
       "title": "미국 XRP 현물 ETF, 지난주 906억원 순유입...올해 최대",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ubk85MG9BZkVVdWNQaGFFTkVxbHllQm0yWWVkRkVoaklrRDdWNTBCd0ttb3gxMFdGbmtiMWhKOThvQ0d6eS1iVFRkUzE0YmFKWVViSTEzbW1UTkNjWGdrOG02dkVkTWRHV1JqOTdsWWdzQQ?oc=5",
       "date": "Mon, 18 May 2026 00:30:00 GMT",
@@ -135,18 +149,11 @@
       "score": 2
     },
     {
-      "title": "솔라나 리플 지금 산애들은 신기한게",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ZU0psa0RjczV4NDJMZXpRTlNiX2tPbDl2VnVQR1JlT19PWFFTb0hLNTRra2xudTlGalE2MUx5emhOZkZYQmhGS1FSSUJGcGlabUpWME81Q3c?oc=5",
-      "date": "Sun, 17 May 2026 15:20:46 GMT",
-      "source": "코인니스",
-      "score": 9
-    },
-    {
-      "title": "리플XRP 현물 ETF에 약 6천만달러 몰렸다?…비트코인 빠질 때 리플로 향한 자금, 왜?",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82Nk9wWUJaZnQ1djdnX2dQT2hmVnV0QWNrcGtkeHltdjFUMlY2RExlcllBNVkxNnVwa1B0dk80dkk5LUJTWlA5Um55b05MbUVURVJIVWNwbHlEekxmdTNlbnljdmFoTkpk?oc=5",
-      "date": "Sun, 17 May 2026 15:00:00 GMT",
-      "source": "CBC뉴스",
-      "score": 4
+      "title": "리플(XRP), 거래소 보유량 감소와 기관 투자자 유입에 따른 가치 상승 기대",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CdFdGNzI2ZWkyTGY4OENkOW5yQUU3R0tnYkFQMlgxd2U3VktxamxuOHlOSmt3VE5wenRkUlNOcGVWRU1hbV8xZTlPTGM2enJEQ1A0VXlIRVhPdUM3WkVFctIBZkFVX3lxTE9zV1J5d3Z6ZDNDS0g5cVhmWkMwTnRZSkQ4ZVBucUIwSXYycDVIN3l6b0NGMDBXMlhHNVRTVWc4cUhua2lZTkVsc2F4NDNQOFJXVENuQ2xhZTBnVDNDekFJWmwtOFJMQQ?oc=5",
+      "date": "Sun, 17 May 2026 19:00:43 GMT",
+      "source": "tokenpost.kr",
+      "score": 3
     },
     {
       "title": "\"내가 XRP를 밀고했다고?\" 호스킨슨, 이더게이트 음모론 일축",
@@ -154,13 +161,6 @@
       "date": "Sun, 17 May 2026 11:49:00 GMT",
       "source": "블록미디어",
       "score": 2
-    },
-    {
-      "title": "[독점] 美 상원 움직이자 리플 폭발 -> XRP ‘금융 인프라 자산’ 재평가 시작 => 리플 기업가치 35조 돌파 = 월가 “XRP 4달러는 시작일 뿐” > SEC 족쇄 풀린 리플의 반격 >> 美 금융권 “XRP 결국 10달러 간다”",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mNXJBWU00Q0d6cHRobUx1dDVUNzFLX2F0S2xrZzRDNFJvVkVCMkFzNVZ0TV9KX0NPQzJkeGJhZXVYaFdDbU5qQTdZb2JHd1dYWVc0RmJFYjVCdG1XMGZDRExsY003cXRfR3lhNWdfRVo0dw?oc=5",
-      "date": "Sun, 17 May 2026 00:13:38 GMT",
-      "source": "데일리머니",
-      "score": 3
     }
   ]
 }
