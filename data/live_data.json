@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-18T22:53:00",
+  "generated_at": "2026-05-18T23:59:06",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.39,
-    "price_krw": 2066.79,
-    "price_change_24h": -1.51785,
-    "price_change_7d": -5.70445,
-    "price_change_30d": -2.85106,
-    "market_cap_usd": 85885235981,
+    "price_krw": 2073.12,
+    "price_change_24h": -0.8752,
+    "price_change_7d": -5.61176,
+    "price_change_30d": -3.24412,
+    "market_cap_usd": 85855312196,
     "market_cap_rank": 5,
-    "volume_24h": 2568739221,
+    "volume_24h": 2166060072,
     "circulating_supply": 61829045420.0,
     "total_supply": 99985666473.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 82.35,
-    "sentiment_votes_down": 17.65,
+    "sentiment_votes_up": 82.61,
+    "sentiment_votes_down": 17.39,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 16.57,
-    "recent_tps": 16.57,
-    "recent_tx_count": 1475,
+    "tps_24h_avg": 18.28,
+    "recent_tps": 18.28,
+    "recent_tx_count": 1499,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 104323386,
+    "recent_window_sec": 82,
+    "ledger_seq": 104324417,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-18 22:52:50 KST",
+    "updated_at": "2026-05-18 23:58:58 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -76,17 +76,17 @@
       "score": 0
     },
     {
+      "title": "비트코인·이더리움·XRP 하락 지속…ETF 유출과 약세 심리 영향",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9JSkgweWZMMUszYTgtbWg0Y0JLeDI2ODZid05IQl9IT3FrZ2kzN3lUWTc5aF9JNUY0REl6ZVhTMld1d3h5RUhYN25n?oc=5",
+      "date": "Mon, 18 May 2026 12:18:00 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
+    {
       "title": "리플XRP 또 기관 자금 중심에 섰다…티 로우 프라이스, 15종 암호화폐 ETF 수정안 제출",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tTFd3amFsbmFudVRCbWE4aGp5aFJrQ1NaZlpCbVgwRE01YWdKS1ZlaHkwX25aV1RZQ2NsOUd1V2Q3SmRrRzIwOWNvdXJwNHl5a20wblVaNlJlNW02ZC04OTJ6TmFqRkpS?oc=5",
       "date": "Mon, 18 May 2026 07:45:19 GMT",
       "source": "CBC뉴스",
-      "score": 0
-    },
-    {
-      "title": "美 비트코인 현물 ETF, 6주 연속 순유입 종료…주간 10억달러 순유출",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFByZ09fSldBeTFLT3ByT19MZlNyMWJvVXBxWERLdG5LZW15Z3JGbE1ZWWZfYXB0elNMSGJpcGJXdHhXTVJObkpZYWdKbUFBWE1n?oc=5",
-      "date": "Mon, 18 May 2026 05:19:37 GMT",
-      "source": "블루밍비트",
       "score": 0
     }
   ],
