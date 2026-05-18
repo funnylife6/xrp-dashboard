@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-05-18T16:44:47",
+  "generated_at": "2026-05-18T18:27:58",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.38,
-    "price_krw": 2055.27,
-    "price_change_24h": -2.77488,
-    "price_change_7d": -6.49829,
-    "price_change_30d": -4.14968,
-    "market_cap_usd": 85022198453,
+    "price_usd": 1.37,
+    "price_krw": 2040.44,
+    "price_change_24h": -2.82683,
+    "price_change_7d": -7.23161,
+    "price_change_30d": -4.54476,
+    "market_cap_usd": 84584135302,
     "market_cap_rank": 5,
-    "volume_24h": 2130485961,
+    "volume_24h": 2412307151,
     "circulating_supply": 61829045420.0,
     "total_supply": 99985666473.0,
     "ath_usd": 3.65,
@@ -22,16 +22,16 @@
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 28.49,
-    "recent_tps": 28.49,
-    "recent_tx_count": 2564,
+    "tps_24h_avg": 23.82,
+    "recent_tps": 23.82,
+    "recent_tx_count": 2144,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104317642,
+    "ledger_seq": 104319247,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-18 16:44:34 KST",
+    "updated_at": "2026-05-18 18:27:45 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 6900000,
     "total_net_inflow_usd": 6900000,
     "total_value_traded_usd": 6900000,
-    "updated_at": "SoSoValue 순유입 부분 수집 05/18 16:44",
+    "updated_at": "SoSoValue 순유입 부분 수집 05/18 18:27",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -156,11 +156,11 @@
       "score": 3
     },
     {
-      "title": "\"내가 XRP를 밀고했다고?\" 호스킨슨, 이더게이트 음모론 일축",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HUWVvbG8ySld5S3ltZ0pBTmN1ZzhxaG9FbG1IUExudGU4YTR2c0tXQ2RSbGV1LWx6cGQ4ak5YekRsQ3B2dkJtQVpZOWJMV2M2dTJfNUpDRXM?oc=5",
-      "date": "Sun, 17 May 2026 11:49:00 GMT",
-      "source": "블록미디어",
-      "score": 2
+      "title": "솔라나 리플 지금 산애들은 신기한게",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ZU0psa0RjczV4NDJMZXpRTlNiX2tPbDl2VnVQR1JlT19PWFFTb0hLNTRra2xudTlGalE2MUx5emhOZkZYQmhGS1FSSUJGcGlabUpWME81Q3c?oc=5",
+      "date": "Sun, 17 May 2026 15:20:46 GMT",
+      "source": "코인니스",
+      "score": 9
     }
   ]
 }
