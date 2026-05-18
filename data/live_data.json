@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-05-18T09:44:29",
+  "generated_at": "2026-05-18T13:39:24",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.39,
-    "price_krw": 2074.96,
-    "price_change_24h": -2.23971,
-    "price_change_7d": -4.35828,
-    "price_change_30d": -4.71749,
-    "market_cap_usd": 85602072145,
+    "price_usd": 1.38,
+    "price_krw": 2064.78,
+    "price_change_24h": -2.75824,
+    "price_change_7d": -5.18165,
+    "price_change_30d": -3.94256,
+    "market_cap_usd": 85589665156,
     "market_cap_rank": 5,
-    "volume_24h": 1753534752,
+    "volume_24h": 2075893997,
     "circulating_supply": 61829045420.0,
     "total_supply": 99985666473.0,
     "ath_usd": 3.65,
@@ -22,16 +22,16 @@
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 16.84,
-    "recent_tps": 16.84,
-    "recent_tx_count": 1499,
+    "tps_24h_avg": 23.77,
+    "recent_tps": 23.77,
+    "recent_tx_count": 2139,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 104311089,
+    "recent_window_sec": 90,
+    "ledger_seq": 104314755,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-18 09:44:23 KST",
+    "updated_at": "2026-05-18 13:39:11 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 6900000,
     "total_net_inflow_usd": 6900000,
     "total_value_traded_usd": 6900000,
-    "updated_at": "SoSoValue 순유입 부분 수집 05/18 09:44",
+    "updated_at": "SoSoValue 순유입 부분 수집 05/18 13:39",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -100,10 +100,10 @@
       "score": 4
     },
     {
-      "title": "비트코인 7만 6,000달러 붕괴 임박? XRP·이더리움까지 흔들린다",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1XaEdWckp2REhLVlRxZkxkd0J6YmVfejIxbk0wVXpIenhlbHNOUHRrTWV5dVdWUnFaeU8xdFNKYTJVU3lRMmRPeG9R?oc=5",
-      "date": "Mon, 18 May 2026 06:23:00 GMT",
-      "source": "코인리더스",
+      "title": "“암호화폐(코인) 리플이 매우 크게 오르고 훨씬 더 높게 갈 수 있는 이유”",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPMHZrZjVDSS1KVkhVS1NsZmFLVllfSk44cUJfWWR3MGM5N0NwLVNWb21NNy1pbldWSHIxTUVja1dpeldmY0QtSFNhUzZReDlpSm1nV0FR?oc=5",
+      "date": "Mon, 18 May 2026 07:27:00 GMT",
+      "source": "위키트리",
       "score": 2
     },
     {
@@ -156,10 +156,10 @@
       "score": 2
     },
     {
-      "title": "글로벌 대형 은행들, SWIFT 새 결제 체계 앞두고 리플 XRP 기술 이미 통합",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWk9LbUlDM0ZXMWROd2RFb2wwenVhSmJTUFNBZUZIRV96ZnV4Q1JOZEpIcWs2TWhsdFpFZTJGR1NNeXN4MUxUOHhKRUJEN18xYWRrckJ0UThTYXN0dUFJbG12ZW9YeVhHWi1OY3d6akRIUHk3VHc0RGtCY205eDNGWlE2d2NNR0Rx?oc=5",
-      "date": "Sun, 17 May 2026 05:26:50 GMT",
-      "source": "글로벌이코노믹",
+      "title": "[독점] 美 상원 움직이자 리플 폭발 -> XRP ‘금융 인프라 자산’ 재평가 시작 => 리플 기업가치 35조 돌파 = 월가 “XRP 4달러는 시작일 뿐” > SEC 족쇄 풀린 리플의 반격 >> 美 금융권 “XRP 결국 10달러 간다”",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mNXJBWU00Q0d6cHRobUx1dDVUNzFLX2F0S2xrZzRDNFJvVkVCMkFzNVZ0TV9KX0NPQzJkeGJhZXVYaFdDbU5qQTdZb2JHd1dYWVc0RmJFYjVCdG1XMGZDRExsY003cXRfR3lhNWdfRVo0dw?oc=5",
+      "date": "Sun, 17 May 2026 00:13:38 GMT",
+      "source": "데일리머니",
       "score": 3
     }
   ]
