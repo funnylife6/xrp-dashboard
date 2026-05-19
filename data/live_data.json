@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-18T23:59:06",
+  "generated_at": "2026-05-19T03:43:52",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.39,
-    "price_krw": 2073.12,
-    "price_change_24h": -0.8752,
-    "price_change_7d": -5.61176,
-    "price_change_30d": -3.24412,
-    "market_cap_usd": 85855312196,
+    "price_usd": 1.38,
+    "price_krw": 2079.88,
+    "price_change_24h": -0.68115,
+    "price_change_7d": -5.61405,
+    "price_change_30d": -3.42865,
+    "market_cap_usd": 85457478024,
     "market_cap_rank": 5,
-    "volume_24h": 2166060072,
+    "volume_24h": 1854433390,
     "circulating_supply": 61829045420.0,
     "total_supply": 99985666473.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 82.61,
-    "sentiment_votes_down": 17.39,
+    "sentiment_votes_up": 82.86,
+    "sentiment_votes_down": 17.14,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 18.28,
-    "recent_tps": 18.28,
-    "recent_tx_count": 1499,
+    "tps_24h_avg": 11.98,
+    "recent_tps": 11.98,
+    "recent_tx_count": 982,
     "recent_ledger_count": 24,
     "recent_window_sec": 82,
-    "ledger_seq": 104324417,
+    "ledger_seq": 104327927,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-18 23:58:58 KST",
+    "updated_at": "2026-05-19 03:43:37 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -47,6 +47,20 @@
     "data_source": "news_parse"
   },
   "etf_news": [
+    {
+      "title": "[XRP 뉴스] 리플 가격 반등 가능성 커지나… 시타델도 가세",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcXpTZW9lWWV1NkE3dDRVdUJIam1jMnAxbU41Y2RydVNiVHRPZFdsZ1c3VERibURTcHFkX19xQVJLbzFpOW9ldjlhN1ZKWExLQmRTbDE2blNDYTNlWFVHaHdqZVdXNFNqVm53ZHJZU0h1cHF6M1NnNzZOcXUxYnplVmZHYTZDNk9aSDBQTE9BVjV0NUtxRGhuUkVxMWUyamNzeFpEd3VMOV9qbU1Nc0RUdEJMbC1sV0JzajZXUw?oc=5",
+      "date": "Tue, 19 May 2026 02:41:29 GMT",
+      "source": "Cryptonews",
+      "score": 0
+    },
+    {
+      "title": "기관 자금은 리플 홀로 사수… 거시경제 암초에 1.40달러 내준 XRP, ETF가 살릴까",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45VjR6TW5iakNiaWs1SGJkNXlYaDRRRXd0TDNLMllmRDZMc0pKdVRFaFR5S2hBUlExd200UldoYXpBNVBRN1Q0ZUVjM0NKWmxEQmFHOWZ5a0JTZWxtazJCSVp1ZVpZRkpNMjhJRkk4dHQ?oc=5",
+      "date": "Tue, 19 May 2026 01:36:07 GMT",
+      "source": "블록체인투데이",
+      "score": 0
+    },
     {
       "title": "1월부터 3월까지 모은 돈 단숨에 추월…베일 벗은 리플 ETF의 가공할 흡수력",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9qc3Q2aFdBdDhHb0pYb3QxaFJ4cXFyZW9mYjEydlB3VVVHLVVqTnFvbDQtU0Q4S2RsdUpvWUY4bGhld1FMbHVpb1BwSzhyQXR2N2dCZmc4UkhmZU1XSGFubzNDRDQ5eWVJN3NxeDBIVml5dmfSAXdBVV95cUxNcjc4blJycWJvdWhXZS1rQlVQNGFRaU1pUWQ2VWtWSTFZY281b1JSbFVnSmxBb190c2NoTjZPLUlVLUIwN0RuRktKVEt6bl9JNFRMVGRIMnhMTnZ1YUwzUHg4ODN0RHhjSHVaOU1PeDVnOGkybURjaw?oc=5",
@@ -74,28 +88,56 @@
       "date": "Mon, 18 May 2026 14:53:00 GMT",
       "source": "리드경제",
       "score": 0
-    },
-    {
-      "title": "비트코인·이더리움·XRP 하락 지속…ETF 유출과 약세 심리 영향",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9JSkgweWZMMUszYTgtbWg0Y0JLeDI2ODZid05IQl9IT3FrZ2kzN3lUWTc5aF9JNUY0REl6ZVhTMld1d3h5RUhYN25n?oc=5",
-      "date": "Mon, 18 May 2026 12:18:00 GMT",
-      "source": "코인리더스",
-      "score": 0
-    },
-    {
-      "title": "리플XRP 또 기관 자금 중심에 섰다…티 로우 프라이스, 15종 암호화폐 ETF 수정안 제출",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tTFd3amFsbmFudVRCbWE4aGp5aFJrQ1NaZlpCbVgwRE01YWdKS1ZlaHkwX25aV1RZQ2NsOUd1V2Q3SmRrRzIwOWNvdXJwNHl5a20wblVaNlJlNW02ZC04OTJ6TmFqRkpS?oc=5",
-      "date": "Mon, 18 May 2026 07:45:19 GMT",
-      "source": "CBC뉴스",
-      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "[XRP 뉴스] 리플 가격 반등 가능성 커지나… 시타델도 가세",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcXpTZW9lWWV1NkE3dDRVdUJIam1jMnAxbU41Y2RydVNiVHRPZFdsZ1c3VERibURTcHFkX19xQVJLbzFpOW9ldjlhN1ZKWExLQmRTbDE2blNDYTNlWFVHaHdqZVdXNFNqVm53ZHJZU0h1cHF6M1NnNzZOcXUxYnplVmZHYTZDNk9aSDBQTE9BVjV0NUtxRGhuUkVxMWUyamNzeFpEd3VMOV9qbU1Nc0RUdEJMbC1sV0JzajZXUw?oc=5",
+      "date": "Tue, 19 May 2026 02:41:29 GMT",
+      "source": "Cryptonews",
+      "score": 3
+    },
+    {
+      "title": "리플, 美 SEC 토큰화 검토에 XRP레저 주목…“주식 온체인 거래 기대감”",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRejFsNVdJaVFzYUFlRGlWS0toajVSVWJRUUkxb05WRGpqRkhWOVdQTUhJTGxsVVl1aVEzRkh2dEQ2RzZyc1p5VkZFVVpUVVFMZjFNdVZiNGtUblRTWmVvUDNuVkJsQ2RS?oc=5",
+      "date": "Tue, 19 May 2026 02:04:32 GMT",
+      "source": "CBC뉴스",
+      "score": 3
+    },
+    {
+      "title": "기관 자금은 리플 홀로 사수… 거시경제 암초에 1.40달러 내준 XRP, ETF가 살릴까",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45VjR6TW5iakNiaWs1SGJkNXlYaDRRRXd0TDNLMllmRDZMc0pKdVRFaFR5S2hBUlExd200UldoYXpBNVBRN1Q0ZUVjM0NKWmxEQmFHOWZ5a0JTZWxtazJCSVp1ZVpZRkpNMjhJRkk4dHQ?oc=5",
+      "date": "Tue, 19 May 2026 01:36:07 GMT",
+      "source": "블록체인투데이",
+      "score": 4
+    },
+    {
+      "title": "골드만 삭스가 XRP를 전량 던졌다? 13F가 알려주는 진짜 그림 — 더 큰 손들이 들어오고 있다 (리플코인)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdG9XZTlaa20xY0g4YTkwOERZSWdsZmNWTU1CdUdmMDM3SUVjRWpidzljeUg5d1NIdXZYQzB0OG9uaUR3U1V1TmxXS0hQd1oyZ1lpU0Z0NHMzX1MzdHZWQzVxYTFpQnhxUmFUN3c1RXZleUp3dEJ3akswbXBHVGNCejYtVFprYXM3OTJ3bA?oc=5",
+      "date": "Tue, 19 May 2026 00:57:00 GMT",
+      "source": "네이버 프리미엄콘텐츠",
+      "score": 2
+    },
+    {
+      "title": "폭풍전야 XRP, 1년 만에 역대급 '에너지 응축'… 상방이냐 하방이냐",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43NDd1Z2tXZ29vT3JHMEwtaGtvRGlaWnRFN1FMajR2WlZoLWFUTFJ4WDZTb2lqNG92MDdwTm5SdU83WUQ1TVlTYVAwMTdsSk9CUllUczdvZTEyTUs5ZXF0cm8tVHpxSmNkZ3QyN2tUaUE?oc=5",
+      "date": "Tue, 19 May 2026 00:29:08 GMT",
+      "source": "블록체인투데이",
+      "score": 2
+    },
     {
       "title": "오리진트레일 급등·비트코인 하락·리플XRP 약세…국채금리 진정에도 관망 확대",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WWlU0UDdpM0ZuejVSbzRpZXFiM0ZRaExqbUpUWHhfeko4NVhsWVNZM3g3eEgtXzU4LWJ5dGRhMkZUYkdGdTNqWk90OUZuT0dscVFQMjRzd1RLUWcyTnRsOW5IUnJQV3lEc1MyaEd2YXQzUQ?oc=5",
       "date": "Mon, 18 May 2026 22:10:23 GMT",
       "source": "톱스타뉴스",
+      "score": 2
+    },
+    {
+      "title": "리플 파트너, 머스크 결제망 합류...XRP 강세 반전 시작되나?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1MNklIdjlpMU8tZVF2T2FKTUNGaVdRS1Q5RnBiakxVdHhGdlFoLTV5dm0wV3hFQUdUSXR0bnZHem1oOWlOMVhzMWR3?oc=5",
+      "date": "Mon, 18 May 2026 20:20:00 GMT",
+      "source": "코인리더스",
       "score": 2
     },
     {
@@ -117,48 +159,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9hU1NhTVZyUmFkTEtKTDZDZHlFOEU5ZkpvTU1Zc1NrUERCUllZak1DWExCNUhPYk8tSHF2bV9DYzdURmlTMXZ0VHhSU3dBSmlUa2Z4QzF2dC1Pb0M1QlZUUtIBZkFVX3lxTE5OU21uS3g0UW4ta1lGX3FLTkJCbWk4TVJ5MXlJOFF6R1hneFRDaVZPaE5teG1jOWpGeDNmaVNmQUNVaUJYQXV1TTFrS1ZSNDhOcVZYYmxGS0ptLUZ3aEFvd1ZDcjVTQQ?oc=5",
       "date": "Mon, 18 May 2026 19:01:42 GMT",
       "source": "tokenpost.kr",
-      "score": 2
-    },
-    {
-      "title": "리플XRP, 골드만삭스 전량 매도에도 시장 긴장감…“기관 이탈인가, 재정비인가”",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1iNEV6WTNpX0ZNQloxSlU5SUwwYlVxLXNzRGhNMzBBbW92djZrRUZpQkxNZmdxN2dLNXF1SXJsS1ZhSTFQUlB2NDh6UjZjcHZMS2R2WnZHbEF1bGhlbk5vV1pmcHFoU0lw?oc=5",
-      "date": "Mon, 18 May 2026 15:00:00 GMT",
-      "source": "CBC뉴스",
-      "score": 4
-    },
-    {
-      "title": "리플 실사용 논리, 규제 명확성 앞 대반전 예고...XRP 인생 역전 구간 오나?",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9PbEd1RUJhMnhHeXQyN3NkV2lWTmRLcm82SlpaZ3Jya2Q4LUpkczFabnk5MEpkUEJEV0N5WTg1LUExQWJ2d3BjWlhB?oc=5",
-      "date": "Mon, 18 May 2026 13:00:00 GMT",
-      "source": "코인리더스",
-      "score": 2
-    },
-    {
-      "title": "리플XRP 또 기관 자금 중심에 섰다…티 로우 프라이스, 15종 암호화폐 ETF 수정안 제출",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tTFd3amFsbmFudVRCbWE4aGp5aFJrQ1NaZlpCbVgwRE01YWdKS1ZlaHkwX25aV1RZQ2NsOUd1V2Q3SmRrRzIwOWNvdXJwNHl5a20wblVaNlJlNW02ZC04OTJ6TmFqRkpS?oc=5",
-      "date": "Mon, 18 May 2026 07:45:19 GMT",
-      "source": "CBC뉴스",
-      "score": 4
-    },
-    {
-      "title": "“암호화폐(코인) 리플이 매우 크게 오르고 훨씬 더 높게 갈 수 있는 이유”",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPMHZrZjVDSS1KVkhVS1NsZmFLVllfSk44cUJfWWR3MGM5N0NwLVNWb21NNy1pbldWSHIxTUVja1dpeldmY0QtSFNhUzZReDlpSm1nV0FR?oc=5",
-      "date": "Mon, 18 May 2026 07:27:00 GMT",
-      "source": "위키트리",
-      "score": 2
-    },
-    {
-      "title": "리플 CEO \"집중하라\" 단 한 마디에…XRP 커뮤니티 '갓 캔들' 기대감 폭발",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ3NtSVJUWmNnU3dCRUxzWm53c2VfR2NhOVNoUjZFNHpZWVNxV2pzMDN6V1JGSGh5TUtHWGFqeU1DeEtpYVNqQmhSSmZxei1FR05WaHVMYnE1bjdwOXRjOHFwNUZQRDVOclBMRTBmYWpfcHVOSzI1Vml2ajNKU1B5OFV6bmE4R1lz?oc=5",
-      "date": "Mon, 18 May 2026 02:18:37 GMT",
-      "source": "글로벌이코노믹",
-      "score": 2
-    },
-    {
-      "title": "제도권 자금 삼키는 리플 원장… RWA 대세론 속 풀지 못한 디커플링 과제",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mTGoycXV6eWw4UXRUdEY0RXA0X3ozcmdBZG4tcFZta3p3OVUtd25HVDBoQmpTMVBUU3NXUjVIclI1V3Z1cmpwQ285dEk5MUI1TmZUcWd3TVhVYUZuRnFxT2JFRC13cVpVb1hsY3YxZkc?oc=5",
-      "date": "Mon, 18 May 2026 02:16:17 GMT",
-      "source": "블록체인투데이",
       "score": 2
     }
   ]
