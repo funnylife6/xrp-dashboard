@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-19T16:47:16",
+  "generated_at": "2026-05-19T18:55:42",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.37,
-    "price_krw": 2063.37,
-    "price_change_24h": -0.71735,
-    "price_change_7d": -4.03765,
-    "price_change_30d": -4.16245,
-    "market_cap_usd": 84627821562,
+    "price_usd": 1.36,
+    "price_krw": 2054.33,
+    "price_change_24h": -0.50181,
+    "price_change_7d": -4.95231,
+    "price_change_30d": -3.67565,
+    "market_cap_usd": 84279129307,
     "market_cap_rank": 5,
-    "volume_24h": 1689588692,
+    "volume_24h": 1712494727,
     "circulating_supply": 61829045420.0,
     "total_supply": 99985666473.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 79.41,
-    "sentiment_votes_down": 20.59,
+    "sentiment_votes_up": 76.0,
+    "sentiment_votes_down": 24.0,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 25.06,
-    "recent_tps": 25.06,
-    "recent_tx_count": 2055,
+    "tps_24h_avg": 17.1,
+    "recent_tps": 17.1,
+    "recent_tx_count": 1522,
     "recent_ledger_count": 24,
-    "recent_window_sec": 82,
-    "ledger_seq": 104340183,
+    "recent_window_sec": 89,
+    "ledger_seq": 104342179,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-19 16:46:59 KST",
+    "updated_at": "2026-05-19 18:55:27 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -127,13 +127,6 @@
       "score": 2
     },
     {
-      "title": "[XRP 뉴스] 리플 가격 반등 가능성 커지나… 시타델도 가세",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcXpTZW9lWWV1NkE3dDRVdUJIam1jMnAxbU41Y2RydVNiVHRPZFdsZ1c3VERibURTcHFkX19xQVJLbzFpOW9ldjlhN1ZKWExLQmRTbDE2blNDYTNlWFVHaHdqZVdXNFNqVm53ZHJZU0h1cHF6M1NnNzZOcXUxYnplVmZHYTZDNk9aSDBQTE9BVjV0NUtxRGhuUkVxMWUyamNzeFpEd3VMOV9qbU1Nc0RUdEJMbC1sV0JzajZXUw?oc=5",
-      "date": "Tue, 19 May 2026 02:41:29 GMT",
-      "source": "Cryptonews",
-      "score": 3
-    },
-    {
       "title": "리플, 美 SEC 토큰화 검토에 XRP레저 주목…“주식 온체인 거래 기대감”",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRejFsNVdJaVFzYUFlRGlWS0toajVSVWJRUUkxb05WRGpqRkhWOVdQTUhJTGxsVVl1aVEzRkh2dEQ2RzZyc1p5VkZFVVpUVVFMZjFNdVZiNGtUblRTWmVvUDNuVkJsQ2RS?oc=5",
       "date": "Tue, 19 May 2026 02:04:32 GMT",
@@ -160,6 +153,13 @@
       "date": "Tue, 19 May 2026 00:29:24 GMT",
       "source": "코인니스",
       "score": 9
+    },
+    {
+      "title": "폭풍전야 XRP, 1년 만에 역대급 '에너지 응축'… 상방이냐 하방이냐",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43NDd1Z2tXZ29vT3JHMEwtaGtvRGlaWnRFN1FMajR2WlZoLWFUTFJ4WDZTb2lqNG92MDdwTm5SdU83WUQ1TVlTYVAwMTdsSk9CUllUczdvZTEyTUs5ZXF0cm8tVHpxSmNkZ3QyN2tUaUE?oc=5",
+      "date": "Tue, 19 May 2026 00:29:08 GMT",
+      "source": "블록체인투데이",
+      "score": 2
     }
   ]
 }
