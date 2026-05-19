@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-19T10:56:02",
+  "generated_at": "2026-05-19T13:53:09",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.37,
-    "price_krw": 2068.17,
-    "price_change_24h": -0.52065,
-    "price_change_7d": -6.38334,
-    "price_change_30d": -3.48825,
-    "market_cap_usd": 84749630865,
+    "price_usd": 1.38,
+    "price_krw": 2077.72,
+    "price_change_24h": -0.79815,
+    "price_change_7d": -5.07012,
+    "price_change_30d": -3.72865,
+    "market_cap_usd": 84932171289,
     "market_cap_rank": 5,
-    "volume_24h": 1880548167,
+    "volume_24h": 1750460500,
     "circulating_supply": 61829045420.0,
     "total_supply": 99985666473.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 82.67,
-    "sentiment_votes_down": 17.33,
+    "sentiment_votes_up": 80.28,
+    "sentiment_votes_down": 19.72,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 14.5,
-    "recent_tps": 14.5,
-    "recent_tx_count": 1305,
+    "tps_24h_avg": 14.39,
+    "recent_tps": 14.39,
+    "recent_tx_count": 1281,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 104334698,
+    "recent_window_sec": 89,
+    "ledger_seq": 104337471,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-19 10:55:52 KST",
+    "updated_at": "2026-05-19 13:52:55 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -48,9 +48,9 @@
   },
   "etf_news": [
     {
-      "title": "[XRP 뉴스] 리플 가격 반등 가능성 커지나… 시타델도 가세",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcXpTZW9lWWV1NkE3dDRVdUJIam1jMnAxbU41Y2RydVNiVHRPZFdsZ1c3VERibURTcHFkX19xQVJLbzFpOW9ldjlhN1ZKWExLQmRTbDE2blNDYTNlWFVHaHdqZVdXNFNqVm53ZHJZU0h1cHF6M1NnNzZOcXUxYnplVmZHYTZDNk9aSDBQTE9BVjV0NUtxRGhuUkVxMWUyamNzeFpEd3VMOV9qbU1Nc0RUdEJMbC1sV0JzajZXUw?oc=5",
-      "date": "Tue, 19 May 2026 02:41:29 GMT",
+      "title": "[XRP 뉴스] 리플, 골드만삭스 ETF 전량 매도 악재 방어",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd0dhVGRYNHAxaWxpWXA4VURLd3RnS1l6SHF3bjJhc1dJZnYzdVBkZUZ2MmV5azdtZFRmM3cta2c1a2JrMjNVZ21oMkhjUUhJRm4yeTFaaTN1SXFkUkZZcm9kS3VHQXQzN2VobWZPX1NmVkhSUzlXSFRxX01IdHcxWHNRZEt5RVp2UWdDSUxsZUNRMUZ2SWhtSU9RRE9jLW9HYWQtSlNPZldtdU0?oc=5",
+      "date": "Tue, 19 May 2026 10:28:32 GMT",
       "source": "Cryptonews",
       "score": 0
     },
@@ -70,7 +70,7 @@
     },
     {
       "title": "리플XRP, 골드만삭스 전량 매도에도 시장 긴장감…“기관 이탈인가, 재정비인가”",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1iNEV6WTNpX0ZNQloxSlU5SUwwYlVxLXNzRGhNMzBBbW92djZrRUZpQkxNZmdxN2dLNXF1SXJsS1ZhSTFQUlB2NDh6UjZjcHZMS2R2WnZHbEF1bGhlbk5vV1pmcHFoU0lw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBjSkRObnlIMjhsMlFsZGJMaHZEcmlpd2d1V0RCUURKakg1Y3hGYlVJb2pJVWNaT0ZDSkQ5UDB5NXA2THY0UjkzMDM5bUp6QUNwVVlzSENmbndVUmJYb0NnUHpaUQ?oc=5",
       "date": "Mon, 18 May 2026 15:00:00 GMT",
       "source": "CBC뉴스",
       "score": 0
@@ -91,6 +91,13 @@
     }
   ],
   "general_news": [
+    {
+      "title": "[XRP 뉴스] 리플, 골드만삭스 ETF 전량 매도 악재 방어",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd0dhVGRYNHAxaWxpWXA4VURLd3RnS1l6SHF3bjJhc1dJZnYzdVBkZUZ2MmV5azdtZFRmM3cta2c1a2JrMjNVZ21oMkhjUUhJRm4yeTFaaTN1SXFkUkZZcm9kS3VHQXQzN2VobWZPX1NmVkhSUzlXSFRxX01IdHcxWHNRZEt5RVp2UWdDSUxsZUNRMUZ2SWhtSU9RRE9jLW9HYWQtSlNPZldtdU0?oc=5",
+      "date": "Tue, 19 May 2026 10:28:32 GMT",
+      "source": "Cryptonews",
+      "score": 3
+    },
     {
       "title": "클래러티법 통과땐 리플 XRP·솔라나·이더리움 판 바뀐다",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9UZWVzWGpveG96U0JjOWRKNUZWbzFUYWJ6LVBfNmttd1BtWmN4eEV0OUVXcEM0T0ZiOFJLc3lmZ2NSbFNWdjhyMXloWW5XWjAtcTZWR1JUbXMtajdxWnZlUmZHdk41WEtaaUJ5N0IxVDRMdw?oc=5",
@@ -152,13 +159,6 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43NDd1Z2tXZ29vT3JHMEwtaGtvRGlaWnRFN1FMajR2WlZoLWFUTFJ4WDZTb2lqNG92MDdwTm5SdU83WUQ1TVlTYVAwMTdsSk9CUllUczdvZTEyTUs5ZXF0cm8tVHpxSmNkZ3QyN2tUaUE?oc=5",
       "date": "Tue, 19 May 2026 00:29:08 GMT",
       "source": "블록체인투데이",
-      "score": 2
-    },
-    {
-      "title": "리플 파트너, 머스크 결제망 합류...XRP 강세 반전 시작되나?",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1MNklIdjlpMU8tZVF2T2FKTUNGaVdRS1Q5RnBiakxVdHhGdlFoLTV5dm0wV3hFQUdUSXR0bnZHem1oOWlOMVhzMWR3?oc=5",
-      "date": "Mon, 18 May 2026 20:20:00 GMT",
-      "source": "코인리더스",
       "score": 2
     }
   ]
