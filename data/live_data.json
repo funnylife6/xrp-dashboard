@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-20T22:09:00",
+  "generated_at": "2026-05-20T23:46:26",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.36,
-    "price_krw": 2041.82,
-    "price_change_24h": 0.5337,
-    "price_change_7d": -3.77794,
-    "price_change_30d": -4.58906,
-    "market_cap_usd": 84374714274,
+    "price_krw": 2041.04,
+    "price_change_24h": 0.19676,
+    "price_change_7d": -4.09175,
+    "price_change_30d": -4.60007,
+    "market_cap_usd": 84330477263,
     "market_cap_rank": 5,
-    "volume_24h": 1563020447,
+    "volume_24h": 1547194756,
     "circulating_supply": 61829045420.0,
     "total_supply": 99985666473.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 79.27,
-    "sentiment_votes_down": 20.73,
+    "sentiment_votes_up": 80.0,
+    "sentiment_votes_down": 20.0,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 25.27,
-    "recent_tps": 25.27,
-    "recent_tx_count": 2274,
+    "tps_24h_avg": 23.36,
+    "recent_tps": 23.36,
+    "recent_tx_count": 2102,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104367518,
+    "ledger_seq": 104369030,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-20 22:08:45 KST",
+    "updated_at": "2026-05-20 23:46:14 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,6 +92,20 @@
   ],
   "general_news": [
     {
+      "title": "오리진트레일·비트코인·리플XRP 상승…금리 진정에 매수세 확대",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95X0hzSEczb3REbWUwakI5bmcxNFpOY2Rfb3YzbDRLWDBhX0w3OWs2UFF3NFNwTko4NHBITk01ZmJneFZQUll2QWFEUFRGNW5OMFVlSmxLeGxrWlVFZnlVREdXNU9oLW0xMFFTblNMU3V2dw?oc=5",
+      "date": "Wed, 20 May 2026 21:50:54 GMT",
+      "source": "톱스타뉴스",
+      "score": 2
+    },
+    {
+      "title": "리플 생태계는 커지는데 가격은 왜 이러나! XRP 시장 긴장감 폭발",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1aYTd4eFE5RWRHejhmMEczanRZcTJ2c2VsN3JzTUFoWHlLUG1EOW43OGE5MTg3WlY0Nkt0bVkwR0FFYnlYd00yV0Vn?oc=5",
+      "date": "Wed, 20 May 2026 21:12:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
       "title": "리플, 美 SEC 토큰화 검토에 XRP레저 주목…“주식 온체인 거래 기대감”",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRejFsNVdJaVFzYUFlRGlWS0toajVSVWJRUUkxb05WRGpqRkhWOVdQTUhJTGxsVVl1aVEzRkh2dEQ2RzZyc1p5VkZFVVpUVVFMZjFNdVZiNGtUblRTWmVvUDNuVkJsQ2RS?oc=5",
       "date": "Wed, 20 May 2026 18:58:04 GMT",
@@ -104,6 +118,13 @@
       "date": "Wed, 20 May 2026 15:00:00 GMT",
       "source": "CBC뉴스",
       "score": 5
+    },
+    {
+      "title": "XRP 가격 1.37달러 지지선 확보…한국 시장 수요가 견인",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1BQnJfdHFKZmJZT3gyTTFHajB4MHNwcXhYS0xSLXM0Tk5KbDkwWnlEbVNRMEh1X1dYaE1Ub1NfU3BlMTh1ZDBXeE51ekszVTJ2OXVMc2lna2Q3WEdVcS1IS9IBZkFVX3lxTE9WMHBTUUxXZHBCVjdIYmZLUHNyRDBkYk5uWEdlTnAyQ1pZbkdxLVlvdk9rN2RIaTk2bFJxaVlUcUZrb0hlNW13QnRZWHVkdXFfTzBpQnQyNDRaRWJNZTQ0UmJGYWFUZw?oc=5",
+      "date": "Wed, 20 May 2026 11:01:33 GMT",
+      "source": "tokenpost.kr",
+      "score": 2
     },
     {
       "title": "“XRP 가격 안 오르는 이유 있었다”... 베일 벗은 리플 스테이블코인 RLUSD의 음모",
@@ -138,27 +159,6 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFeTFfVlluZU1Ja1VjLWEtcVZCOW5sS3ZjQm5jQ3JRNXU5RHhETkpTTG1WMVZvU0VlQ3k5aDdGRzFVR2pzX1NncmRuOTlUYTFlWlQw?oc=5",
       "date": "Tue, 19 May 2026 23:13:00 GMT",
       "source": "네이트",
-      "score": 2
-    },
-    {
-      "title": "시장 재편되나 촉각?…리플XRP ETF 전량 매도에 시장 ‘술렁’",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xeVd1ZGlyZ3RRUlFsTFRtdkFBamV2MXdPTk5LVnI3LVNRamR1Mi04dFVXaUFlYXl1MUp1ZVNySHBTSjZZNXFwc2VmX1VFRmtqN0hQUW95N2V6YzRDRTZOaVhWSQ?oc=5",
-      "date": "Tue, 19 May 2026 21:35:00 GMT",
-      "source": "CBC뉴스",
-      "score": 3
-    },
-    {
-      "title": "리플 전 CTO \"XRP 더 만들 방법은 없다\"…고정 공급량 두고 커뮤니티 논쟁",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcE8yeW1nWEl3M2UwN0VOYXQtSlRUOXVkTm1SS0NGQUpWUEtqSGtFNWNycU9KUDFwTEExTFNmbGF4TGVMSHV3WDdSSnJFcmVDQmhmcVRmcnZkR3lRRUo5R3N6TmtFX19TUlVUcXBncUFkblFSQzdQaFFkYVJtRHpnNTQyT0tINFRq?oc=5",
-      "date": "Tue, 19 May 2026 06:12:55 GMT",
-      "source": "글로벌이코노믹",
-      "score": 2
-    },
-    {
-      "title": "클래러티법 통과땐 리플 XRP·솔라나·이더리움 판 바뀐다",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9UZWVzWGpveG96U0JjOWRKNUZWbzFUYWJ6LVBfNmttd1BtWmN4eEV0OUVXcEM0T0ZiOFJLc3lmZ2NSbFNWdjhyMXloWW5XWjAtcTZWR1JUbXMtajdxWnZlUmZHdk41WEtaaUJ5N0IxVDRMdw?oc=5",
-      "date": "Tue, 19 May 2026 05:38:46 GMT",
-      "source": "톱스타뉴스",
       "score": 2
     }
   ]
