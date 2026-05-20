@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-20T17:38:07",
+  "generated_at": "2026-05-20T20:04:49",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.38,
-    "price_krw": 2060.31,
-    "price_change_24h": 0.71089,
-    "price_change_7d": -3.29161,
-    "price_change_30d": -3.3261,
-    "market_cap_usd": 85051750937,
+    "price_usd": 1.37,
+    "price_krw": 2051.18,
+    "price_change_24h": 1.05827,
+    "price_change_7d": -4.01254,
+    "price_change_30d": -4.30086,
+    "market_cap_usd": 84732044610,
     "market_cap_rank": 5,
-    "volume_24h": 1748413241,
+    "volume_24h": 1674393945,
     "circulating_supply": 61829045420.0,
     "total_supply": 99985666473.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 77.92,
-    "sentiment_votes_down": 22.08,
+    "sentiment_votes_up": 80.0,
+    "sentiment_votes_down": 20.0,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 33.78,
-    "recent_tps": 33.78,
-    "recent_tx_count": 3040,
+    "tps_24h_avg": 36.93,
+    "recent_tps": 36.93,
+    "recent_tx_count": 3324,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104363320,
+    "ledger_seq": 104365597,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-20 17:37:31 KST",
+    "updated_at": "2026-05-20 20:04:40 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -70,7 +70,7 @@
     },
     {
       "title": "시장 재편되나 촉각?…리플XRP ETF 전량 매도에 시장 ‘술렁’",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xeVd1ZGlyZ3RRUlFsTFRtdkFBamV2MXdPTk5LVnI3LVNRamR1Mi04dFVXaUFlYXl1MUp1ZVNySHBTSjZZNXFwc2VmX1VFRmtqN0hQUW95N2V6YzRDRTZOaVhWSQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qUTJxQ2l1ZFl2WlVyZVFZSFJ1VEFTb3NPNmZkeTQxbEw3UXdGWVdWRXRqUDROWnNnV3BXVlFRa2NEeEhIa290cE1McllWV3AtSng4R2k5LUgtV0FiWFJpeThYMUpzVEda?oc=5",
       "date": "Tue, 19 May 2026 21:35:00 GMT",
       "source": "CBC뉴스",
       "score": 0
@@ -91,6 +91,13 @@
     }
   ],
   "general_news": [
+    {
+      "title": "데이비드 슈워츠 \"XRP 50달러 전망은 음모론\"...극단적 강세론에 반격",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9tYVd2TnM5WldQUk9SRGtSMnFyVGVyUnA5ZndEOVRkS3RrOUV2VnJsZllKeWNDVm9Bb1RWMzRqaDh0ZFMtdEg3bUt3?oc=5",
+      "date": "Wed, 20 May 2026 16:20:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
     {
       "title": "리플(XRP), 이탈리아 은행도 담았다…기관 자금 확대에 ‘운명의 변곡점’ 오나",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zMUlrQ3ByWmEyWExJcU83U3Y4aHdDSkJiMUZ0c2dreGJodTZ1Z3hIMWYwcFU5RlV6MHZYZ2wxajRQODlCUXdHQUtQeVE5M2E0MlFwVUN0QnhYbEZkdk9GWHdlOFoyamEw?oc=5",
@@ -142,7 +149,7 @@
     },
     {
       "title": "시장 재편되나 촉각?…리플XRP ETF 전량 매도에 시장 ‘술렁’",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xeVd1ZGlyZ3RRUlFsTFRtdkFBamV2MXdPTk5LVnI3LVNRamR1Mi04dFVXaUFlYXl1MUp1ZVNySHBTSjZZNXFwc2VmX1VFRmtqN0hQUW95N2V6YzRDRTZOaVhWSQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qUTJxQ2l1ZFl2WlVyZVFZSFJ1VEFTb3NPNmZkeTQxbEw3UXdGWVdWRXRqUDROWnNnV3BXVlFRa2NEeEhIa290cE1McllWV3AtSng4R2k5LUgtV0FiWFJpeThYMUpzVEda?oc=5",
       "date": "Tue, 19 May 2026 21:35:00 GMT",
       "source": "CBC뉴스",
       "score": 3
@@ -152,13 +159,6 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9UZWVzWGpveG96U0JjOWRKNUZWbzFUYWJ6LVBfNmttd1BtWmN4eEV0OUVXcEM0T0ZiOFJLc3lmZ2NSbFNWdjhyMXloWW5XWjAtcTZWR1JUbXMtajdxWnZlUmZHdk41WEtaaUJ5N0IxVDRMdw?oc=5",
       "date": "Tue, 19 May 2026 05:38:46 GMT",
       "source": "톱스타뉴스",
-      "score": 2
-    },
-    {
-      "title": "XRP 기반 온체인 채권 결제 현실화…리플-교보생명 협력 사례 주목",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqaXRnaXdkZVltdDFjWnJ6ZVZoRTh6Y1plc0lORE51QTRYdVVZazNnZUh4OTJwVjY1LTRoVU9VbXc1VlRLcWptNFdVTnBuVVppMkhWakxieG5ncWVtZVNTMTBGT0hpMmZOVUNURGxZSkFHRHc?oc=5",
-      "date": "Tue, 19 May 2026 05:12:00 GMT",
-      "source": "디지털투데이",
       "score": 2
     }
   ]
