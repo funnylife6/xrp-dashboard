@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-21T17:10:07",
+  "generated_at": "2026-05-21T19:24:11",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.36,
-    "price_krw": 2053.42,
-    "price_change_24h": -0.75303,
-    "price_change_7d": -7.50983,
-    "price_change_30d": -4.77968,
-    "market_cap_usd": 84187982838,
+    "price_usd": 1.38,
+    "price_krw": 2069.58,
+    "price_change_24h": 0.44786,
+    "price_change_7d": -10.53591,
+    "price_change_30d": -3.5577,
+    "market_cap_usd": 85049263336,
     "market_cap_rank": 5,
-    "volume_24h": 1505999166,
+    "volume_24h": 1675079762,
     "circulating_supply": 61829045420.0,
     "total_supply": 99985666473.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 79.71,
-    "sentiment_votes_down": 20.29,
+    "sentiment_votes_up": 79.22,
+    "sentiment_votes_down": 20.78,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 30.13,
-    "recent_tps": 30.13,
-    "recent_tx_count": 2712,
+    "tps_24h_avg": 21.38,
+    "recent_tps": 21.38,
+    "recent_tx_count": 1924,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104385205,
+    "ledger_seq": 104387286,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-21 17:09:57 KST",
+    "updated_at": "2026-05-21 19:24:02 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,17 +92,17 @@
   ],
   "general_news": [
     {
+      "title": "\"안 산 사람만 후회\"...XRP, 비트코인 초기 행보 그대로 간다",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1JVDl5WW5tc2E0dFZpWjl4blMtUGhBZ3JkOTNjeG5CQVRnLWZySEdSa2ItcWJhYzAtY09rYlVyelM1VnF1czc3Qmx3?oc=5",
+      "date": "Thu, 21 May 2026 18:00:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
       "title": "리플 스테이블코인 RLUSD가 XRP 킬러가 아닌 명확한 이유",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE80T1hlRDJNMEFBOG16QXk5TEFOV0ZydUoyQ0tZSkFOTHRockNQdF9Xb3Brd01rV3RNcHM3QUktOTYxeERXYk1LT3RR?oc=5",
       "date": "Thu, 21 May 2026 11:21:00 GMT",
       "source": "코인리더스",
-      "score": 3
-    },
-    {
-      "title": "리플(XRP) 1.37달러 지지선 공방, ETF 유입과 CLARITY법 향방 주목",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TTWlEZ0EzbGNkTkpaX2Y1VmNvdFJLRjFCalZORzgzMkplNUtYR2ZSQTJ6czREcUREb2VIOUxFbHBBbVRrZGZKWkhaSkRMLTlIb3JWRzV0dlU5NV92MXZyc9IBZkFVX3lxTE9STUVWeldJRmo0dnplVS1PcEwwcmpIb3pFY1RpbnJTRDVyRUpXazJ4TUZwblJJNWRaRURaWGttRGR2ajdOUHJKeWcyRWtaQmxpWFZSbUV5RUVoeWtjVXBzTDNub3I0UQ?oc=5",
-      "date": "Thu, 21 May 2026 11:01:11 GMT",
-      "source": "tokenpost.kr",
       "score": 3
     },
     {
