@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-21T21:09:09",
+  "generated_at": "2026-05-21T22:47:51",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.38,
-    "price_krw": 2073.53,
-    "price_change_24h": 0.52804,
-    "price_change_7d": -9.13323,
-    "price_change_30d": -2.76858,
-    "market_cap_usd": 85082006417,
+    "price_usd": 1.37,
+    "price_krw": 2067.76,
+    "price_change_24h": 0.44951,
+    "price_change_7d": -8.40215,
+    "price_change_30d": -3.58022,
+    "market_cap_usd": 84793909992,
     "market_cap_rank": 5,
-    "volume_24h": 1594722122,
+    "volume_24h": 1669695123,
     "circulating_supply": 61829045420.0,
     "total_supply": 99985666473.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 79.27,
-    "sentiment_votes_down": 20.73,
+    "sentiment_votes_up": 81.18,
+    "sentiment_votes_down": 18.82,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 12.96,
-    "recent_tps": 12.96,
-    "recent_tx_count": 1166,
+    "tps_24h_avg": 15.02,
+    "recent_tps": 15.02,
+    "recent_tx_count": 1337,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 104388914,
+    "recent_window_sec": 89,
+    "ledger_seq": 104390446,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-21 21:09:01 KST",
+    "updated_at": "2026-05-21 22:47:36 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -48,17 +48,17 @@
   },
   "etf_news": [
     {
+      "title": "리플XRP ‘대규모 변동성 임박’ 경고…돌파냐 붕괴냐 기로",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0Z0NTMWVkR1dvdmhHUGR3VG9vMmYwYWIzbmY5VDZhWm5HejZlV3hhR0E4d1VFRlU3T3o5YW50dE90U2lwUkdObmlUeUhhSnN6c2JtX2FDbmhmWHhDQzYzbVZxQ01qNmx3?oc=5",
+      "date": "Thu, 21 May 2026 21:35:00 GMT",
+      "source": "CBC뉴스",
+      "score": 0
+    },
+    {
       "title": "리플 선물 미결제약정 급증…변동성 폭풍 오나",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBNdGh4M010NE92RmN0bS00NWF3b3hjRlhnV2YxWm8yYV9zbG1mcGsteERDc3kxVmk4WlpmRlVJS0xrTUJfMHM4Q1hoaGRnNm44ZXYwR1FkWjRmV0NKcy13UG1Yd1NydzVfY3JoNGk2emJpNTjSAXdBVV95cUxPclNfOWxsVm02Z0tKQVQyUnBFQmhKR25uU2cwUEJ0emFyZ2JyTGNqS2hHUEgzZ0FzUG9Ea0dnYnFfYmh1dElkQ0tzcGZDeUZjdzR6NE80NHZkX0VSOFgwQkw2X0tiMHdYR2lhZk5hdF9JSXhaXzVtUQ?oc=5",
       "date": "Thu, 21 May 2026 10:15:00 GMT",
       "source": "핀포인트뉴스",
-      "score": 0
-    },
-    {
-      "title": "리플(XRP), 기관 시장 정조준…EDX마켓 손잡고 XRP 유동성 확대 나서",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WbjBSdXZwRmw2R3dBUlBnNl9kU2NTUEtFcUhDRkQ3bkV1SVFOOEFGUTFOdmVMNlhCekZKQmpwWjAtVUF6dmNCWGl1ZmprZkdvWXJKelozQm04Y2lRVEJJbjg2SktCMG1u?oc=5",
-      "date": "Thu, 21 May 2026 07:47:02 GMT",
-      "source": "CBC뉴스",
       "score": 0
     },
     {
@@ -77,7 +77,7 @@
     },
     {
       "title": "시장 재편되나 촉각?…리플XRP ETF 전량 매도에 시장 ‘술렁’",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xeVd1ZGlyZ3RRUlFsTFRtdkFBamV2MXdPTk5LVnI3LVNRamR1Mi04dFVXaUFlYXl1MUp1ZVNySHBTSjZZNXFwc2VmX1VFRmtqN0hQUW95N2V6YzRDRTZOaVhWSQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qUTJxQ2l1ZFl2WlVyZVFZSFJ1VEFTb3NPNmZkeTQxbEw3UXdGWVdWRXRqUDROWnNnV3BXVlFRa2NEeEhIa290cE1McllWV3AtSng4R2k5LUgtV0FiWFJpeThYMUpzVEda?oc=5",
       "date": "Tue, 19 May 2026 21:35:00 GMT",
       "source": "CBC뉴스",
       "score": 0
@@ -92,6 +92,20 @@
   ],
   "general_news": [
     {
+      "title": "서싱트·리플XRP·비트코인 상승…국채금리 안정에 매수세 확대",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iYmsyWnpGV2RTWklGWFYwOVFReE5jU2V6Wlp6ZGdKNktIczd5WHZ5UVJzQnc0TTFtRkVOU3ZVYmpMUVpWMk1uNWxiTWp5Z0Z0NEtsaVREdXZpd0lPajZpME11a2stLVJsWGI0Yk0yMzBUZw?oc=5",
+      "date": "Thu, 21 May 2026 22:02:06 GMT",
+      "source": "톱스타뉴스",
+      "score": 2
+    },
+    {
+      "title": "리플XRP ‘대규모 변동성 임박’ 경고…돌파냐 붕괴냐 기로",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0Z0NTMWVkR1dvdmhHUGR3VG9vMmYwYWIzbmY5VDZhWm5HejZlV3hhR0E4d1VFRlU3T3o5YW50dE90U2lwUkdObmlUeUhhSnN6c2JtX2FDbmhmWHhDQzYzbVZxQ01qNmx3?oc=5",
+      "date": "Thu, 21 May 2026 21:35:00 GMT",
+      "source": "CBC뉴스",
+      "score": 3
+    },
+    {
       "title": "XRP(리플), 삼각수렴 하단 이탈...\"1.21달러 지지선 위협“",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQ3R0U0ZFQXlSRE1BcGcxSmMtRC1JR2djOWJXT05ZeTYtNl93Z1FtYWdXWkNTeHdtVnd0Qkp2RDZHMmp6bU1TUGk1azFtTWdrMkFHb19kd2FoT1NuZlV4eEo5S0hSVnRORXZvVGFFSERNWTFjSm1WdTA3bC11ZW1uX3EwTlJpclU?oc=5",
       "date": "Thu, 21 May 2026 20:53:53 GMT",
@@ -99,10 +113,10 @@
       "score": 2
     },
     {
-      "title": "\"안 산 사람만 후회\"...XRP, 비트코인 초기 행보 그대로 간다",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1JVDl5WW5tc2E0dFZpWjl4blMtUGhBZ3JkOTNjeG5CQVRnLWZySEdSa2ItcWJhYzAtY09rYlVyelM1VnF1czc3Qmx3?oc=5",
-      "date": "Thu, 21 May 2026 18:00:00 GMT",
-      "source": "코인리더스",
+      "title": "리플(XRP), $1.37선 방향성 탐색…규제 불확실성과 강세 기대가 팽팽",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LNk14UXIxUGFWZXpVQU5fdHJyaDAzdFozTU5DZFl6Q0lvaVlxMEVQQzEzZmtDVGVZYVV6Y0JIVEw4b0lPcWhNNUwtMlhFdGIxZlBETjMxZVRYWlNrMmJHedIBZkFVX3lxTFA0eDJUemdJZVJxVXJhQXpLRlltTkFXQTd0dUVOUXBmU3RHaVNlTFQ3OU9mTmxIZWgwakxaSWJ5RjNvTmNLVFVHSlFRWE96Q1RaNENqblNUZl9DenhkaVdFcjM2OXQ3dw?oc=5",
+      "date": "Thu, 21 May 2026 19:01:14 GMT",
+      "source": "tokenpost.kr",
       "score": 2
     },
     {
@@ -127,13 +141,6 @@
       "score": 2
     },
     {
-      "title": "리플(XRP), 기관 시장 정조준…EDX마켓 손잡고 XRP 유동성 확대 나서",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WbjBSdXZwRmw2R3dBUlBnNl9kU2NTUEtFcUhDRkQ3bkV1SVFOOEFGUTFOdmVMNlhCekZKQmpwWjAtVUF6dmNCWGl1ZmprZkdvWXJKelozQm04Y2lRVEJJbjg2SktCMG1u?oc=5",
-      "date": "Thu, 21 May 2026 07:47:02 GMT",
-      "source": "CBC뉴스",
-      "score": 4
-    },
-    {
       "title": "XRP 리플, 1년여 만의 최강 볼린저밴드 압축... 1.29달러 vs 1.50달러, 운명의 분기점 임박",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNblFleXVhMTZZV19neUpuVW45UE9yT2ZiTVMxTEprMVBxQWxVZnpzM1J0SUdrdEpkLVoyaklPbVBFbUJrM1dGTWMtWG5MVWwtWnhITU05ZC10Mk5WZHJfTm44cHlURVpJeFMzQ2ZEVjFYTmxfTGJpOUVxNTZRUldMTDB0SXBJSU5wY2lBZg?oc=5",
       "date": "Thu, 21 May 2026 03:34:00 GMT",
@@ -145,13 +152,6 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kOEszM1VrSkp1bVh5VllSYl9FdTN3YzJjd1JYS1BVWVp5dHNucV9kWkJHNk9iclNIT3ZhVTRMOTI1S1RsS3lmZEgxeEVPV2ozZG9YRWI2T0hyR2RxQlE?oc=5",
       "date": "Thu, 21 May 2026 03:34:00 GMT",
       "source": "뉴스투데이",
-      "score": 2
-    },
-    {
-      "title": "오리진트레일·비트코인·리플XRP 상승…금리 진정에 매수세 확대",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95X0hzSEczb3REbWUwakI5bmcxNFpOY2Rfb3YzbDRLWDBhX0w3OWs2UFF3NFNwTko4NHBITk01ZmJneFZQUll2QWFEUFRGNW5OMFVlSmxLeGxrWlVFZnlVREdXNU9oLW0xMFFTblNMU3V2dw?oc=5",
-      "date": "Wed, 20 May 2026 21:50:54 GMT",
-      "source": "톱스타뉴스",
       "score": 2
     },
     {
