@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-23T14:46:31",
+  "generated_at": "2026-05-23T15:57:34",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.33,
-    "price_krw": 2026.08,
-    "price_change_24h": -1.46129,
-    "price_change_7d": -5.52482,
-    "price_change_30d": -5.88488,
-    "market_cap_usd": 82452102103,
+    "price_krw": 2028.3,
+    "price_change_24h": -1.42774,
+    "price_change_7d": -5.42153,
+    "price_change_30d": -5.78199,
+    "market_cap_usd": 82546547590,
     "market_cap_rank": 5,
-    "volume_24h": 1937181358,
+    "volume_24h": 3243829389,
     "circulating_supply": 61858321245.0,
     "total_supply": 99985662685.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 75.61,
-    "sentiment_votes_down": 24.39,
+    "sentiment_votes_up": 75.95,
+    "sentiment_votes_down": 24.05,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 25.37,
-    "recent_tps": 25.37,
-    "recent_tx_count": 2283,
+    "tps_24h_avg": 21.13,
+    "recent_tps": 21.13,
+    "recent_tx_count": 1881,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 104427766,
+    "recent_window_sec": 89,
+    "ledger_seq": 104428871,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-23 14:46:20 KST",
+    "updated_at": "2026-05-23 15:57:23 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -47,13 +47,6 @@
     "data_source": "news_parse"
   },
   "etf_news": [
-    {
-      "title": "“XRP 올해 연말 두 배 상승 가능성?”, ETF 자금·규제 변화에 따라 상승 탄력 커질 수 있어",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5QTU3OE4zd1Z3T3FUMGs2OGcwWGJVZ0luOGlPNHQyd1BETjlWaU5lVjRoR3k1eFJmTU9xN0RrX3ZBMlVuQ2ZkRGI0eVNKbVB0d0ZfMGk0RFA0NXB5QlpiaWo0X1R0MlFFanpxaDZ3?oc=5",
-      "date": "Sat, 23 May 2026 03:35:00 GMT",
-      "source": "미디어파인",
-      "score": 0
-    },
     {
       "title": "미국 XRP 현물 ETF는 하루 만에 947만 8천 달러의 순유입을 기록했습니다.",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtQ3AyNGZYR2FMYllUOUUtRGZmWTBoSmU4Y0huendUUElfOERrc2JHMHhJR2R1dERuRTJ5eWZWSkpxWUN6ZWZ6TkV1TG1WbDBlS0QyZFZQX1ZsM2MxVk40MEdTclI5VG56aU5hYTdiOWJpbUNPZXFBaE9MelRkZ3c?oc=5",
@@ -88,21 +81,28 @@
       "date": "Tue, 19 May 2026 01:36:07 GMT",
       "source": "블록체인투데이",
       "score": 0
+    },
+    {
+      "title": "1월부터 3월까지 모은 돈 단숨에 추월…베일 벗은 리플 ETF의 가공할 흡수력",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9qc3Q2aFdBdDhHb0pYb3QxaFJ4cXFyZW9mYjEydlB3VVVHLVVqTnFvbDQtU0Q4S2RsdUpvWUY4bGhld1FMbHVpb1BwSzhyQXR2N2dCZmc4UkhmZU1XSGFubzNDRDQ5eWVJN3NxeDBIVml5dmfSAXdBVV95cUxNcjc4blJycWJvdWhXZS1rQlVQNGFRaU1pUWQ2VWtWSTFZY281b1JSbFVnSmxBb190c2NoTjZPLUlVLUIwN0RuRktKVEt6bl9JNFRMVGRIMnhMTnZ1YUwzUHg4ODN0RHhjSHVaOU1PeDVnOGkybURjaw?oc=5",
+      "date": "Mon, 18 May 2026 20:16:14 GMT",
+      "source": "핀포인트뉴스",
+      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "리플(XRP)의 위상은? 전력·광통신이 먼저 움직였다…양자컴퓨팅 국면에 한국 증시 촉각",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hYUp5ZGU5Q0ZYVkplaUJGalVpYVZUekZjQmdQcUJqSEVwWlRwRFI3MTFIN2IyMXFCc1VkZG85MTJJb1ZIN1g1OWYySjNjTU9qYXJ5U1BrbE1RLTQ1SkpQdm9xc3FkUjhj?oc=5",
+      "date": "Sat, 23 May 2026 15:30:00 GMT",
+      "source": "CBC뉴스",
+      "score": 2
+    },
     {
       "title": "XRP, 2026년 들어 26% 하락…호재에도 가격은 제자리",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1NamxHT0VCMU5hREFyaFJnSVQ5MzQ1YUppU19LcENSd0xPR3FkRWs5WkZoRVZFZnJLNzE1VVBqcjZRMHN0RnJCVDlRZVNVcVJMbk1NSWZ1U3o1MVppdXRiT1p5TC1ZQXpkSGZ5NVVibkp4QlU?oc=5",
       "date": "Sat, 23 May 2026 12:53:00 GMT",
       "source": "디지털투데이",
-      "score": 2
-    },
-    {
-      "title": "리플(XRP), 양자컴퓨팅 시대 대비 본격화…“보안 국면 전환” 시선도",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYLWhVcnRBdWo5MkUxb2FCczc1N3FSc1picEVfcjNwa2V3N1BMc1UtVWVpNDNGczZDcmhDZllYQnZDdWZwV1VyQ2wxQzhueVVlT0pHNUxBQVNRSFBuWkZZNGRkdElkZXZh?oc=5",
-      "date": "Sat, 23 May 2026 03:33:00 GMT",
-      "source": "CBC뉴스",
       "score": 2
     },
     {
