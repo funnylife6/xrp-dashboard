@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-23T18:00:26",
+  "generated_at": "2026-05-23T19:19:21",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.34,
-    "price_krw": 2034.5,
-    "price_change_24h": -1.08345,
-    "price_change_7d": -5.36156,
-    "price_change_30d": -6.38727,
-    "market_cap_usd": 82666898810,
+    "price_krw": 2042.11,
+    "price_change_24h": -0.0961,
+    "price_change_7d": -5.17908,
+    "price_change_30d": -6.5742,
+    "market_cap_usd": 83020212925,
     "market_cap_rank": 5,
-    "volume_24h": 3257938413,
+    "volume_24h": 1855739178,
     "circulating_supply": 61858321245.0,
     "total_supply": 99985662685.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 75.29,
-    "sentiment_votes_down": 24.71,
+    "sentiment_votes_up": 77.78,
+    "sentiment_votes_down": 22.22,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 23.29,
-    "recent_tps": 23.29,
-    "recent_tx_count": 2096,
+    "tps_24h_avg": 17.13,
+    "recent_tps": 17.13,
+    "recent_tx_count": 1542,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104430789,
+    "ledger_seq": 104432017,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-23 18:00:12 KST",
+    "updated_at": "2026-05-23 19:19:10 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -127,25 +127,11 @@
       "score": 9
     },
     {
-      "title": "하루 만에 2억 달러 찍고 1억 달러 소각… XRP의 수상한 움직임 정체는?",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCVnpvVEVKUEdtdFFETW1td2JVbGMxWlJOeDBxQTE0SGlNbU1OU3dGUy1SRV9FQkM4NHMxWjFGRFpCdHFGTXlVbS0yRnQtSmdLUnlxMkxuaGZZTUFzWlFmUGdGVEU3ejFBVVNyNG5qZ0V0djjSAXdBVV95cUxOdkY5SnZCb2FETW1HVlAtM245bWRBeDJfUWw0ZHFvTUZhcmdTcWJIRXF2VnRCal9GcUhqd3VFOEZPMmYwTlQ2NmtjSDN3RjI0NHpwbHZRd2V4cC1uc1RYanZPU0c1Ul8taVZUUnFISkVkV3p5dVFVOA?oc=5",
-      "date": "Fri, 22 May 2026 20:43:21 GMT",
-      "source": "핀포인트뉴스",
-      "score": 2
-    },
-    {
       "title": "리플 스테이블코인 RLUSD 발행 확대…XRPL 유동성 성장 주목",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqcHFjdlh3enduRVVMd3RQQm13eFE2YmVXMVpTYjZodURMbHY4ZHNXZ19mWURzLU9UdXpIbHlsclJnamVZcXh3MkxtU3pjd0NtUTQ1SnhvSWtPMS11eDJYdWlWTHQ0dWY0MFpR0gFrQVVfeXFMUGpwcWN2WHd6d25FVUx3dFBCbXd4UTZiZVcxWlNiNmh1RExsdjhkc1dnX2ZZRHMtT1R1ekhseWxyUmdqZVlxeHcyTG1TemN3Q21RNDVKeG9Ja08xLXV4Mlh1aVZMdDR1ZjQwWlE?oc=5",
       "date": "Fri, 22 May 2026 06:21:40 GMT",
       "source": "비온미디어",
       "score": 3
-    },
-    {
-      "title": "CME XRP 선물 출시 1년, 누적 거래액 630억 달러 돌파… 가상자산 시장 흔들다",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Yb2V6OTUtSjlRaGQ5SXgyTGpNU25wMHRUN05xWVpqSlh5RFRndWtuOEl0dXNDcmcxNUdtckMwamt4cGZKQ1VvMHltSldrUmJncnMtUFgwUWxyQTkwLWRaTU9peHZnck5KdG1OVnktdVo?oc=5",
-      "date": "Fri, 22 May 2026 05:15:53 GMT",
-      "source": "블록체인투데이",
-      "score": 2
     },
     {
       "title": "XRP(리플), 삼각수렴 하단 이탈...\"1.21달러 지지선 위협“",
@@ -160,6 +146,20 @@
       "date": "Thu, 21 May 2026 12:45:00 GMT",
       "source": "Bitcoin News",
       "score": 2
+    },
+    {
+      "title": "리플, 美 SEC 토큰화 검토에 XRP레저 주목…“주식 온체인 거래 기대감”",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRejFsNVdJaVFzYUFlRGlWS0toajVSVWJRUUkxb05WRGpqRkhWOVdQTUhJTGxsVVl1aVEzRkh2dEQ2RzZyc1p5VkZFVVpUVVFMZjFNdVZiNGtUblRTWmVvUDNuVkJsQ2RS?oc=5",
+      "date": "Wed, 20 May 2026 18:58:04 GMT",
+      "source": "CBC뉴스",
+      "score": 3
+    },
+    {
+      "title": "“XRP 가격 안 오르는 이유 있었다”... 베일 벗은 리플 스테이블코인 RLUSD의 음모",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9NSExmRTYxZHYxYzBWUVVRVWc5UVhqNkpOeFNfLTMyVEM0NTZUZVh3cHdEX21uWUptSGtvUTZBWjFXVzNSTUNCRERVa2R2WFMxSzg5bHBaZk05WWxEXzlMQ25uOF9MTm5iMi1kLXlyaHBqZG_SAXdBVV95cUxNQm5ETmZrRmwybVRFWnRFUU5KaWdDb2dPZjlGbFF2ZEZmSXYwQlJlczdFZWtZbVZfVkJOVWRhNDVsdUVUZm1aM3hkejg2WWxtWFlraDVrMkEtek1GS0xpYjk5RUxFV0QzeUxLV2JkZTdOUFRwSWx4VQ?oc=5",
+      "date": "Wed, 20 May 2026 09:42:06 GMT",
+      "source": "핀포인트뉴스",
+      "score": 3
     }
   ]
 }
