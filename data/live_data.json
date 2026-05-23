@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-23T21:13:03",
+  "generated_at": "2026-05-23T22:13:46",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.37,
-    "price_krw": 2077.74,
-    "price_change_24h": 1.99476,
-    "price_change_7d": -3.47284,
-    "price_change_30d": -4.75438,
-    "market_cap_usd": 84533696997,
+    "price_usd": 1.36,
+    "price_krw": 2066.94,
+    "price_change_24h": 1.29011,
+    "price_change_7d": -3.91984,
+    "price_change_30d": -5.3816,
+    "market_cap_usd": 84182608606,
     "market_cap_rank": 5,
-    "volume_24h": 1821125610,
+    "volume_24h": 1860887696,
     "circulating_supply": 61858321245.0,
     "total_supply": 99985662685.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 78.75,
-    "sentiment_votes_down": 21.25,
+    "sentiment_votes_up": 79.75,
+    "sentiment_votes_down": 20.25,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 36.61,
-    "recent_tps": 36.61,
-    "recent_tx_count": 3295,
+    "tps_24h_avg": 17.11,
+    "recent_tps": 17.11,
+    "recent_tx_count": 1386,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 104433784,
+    "recent_window_sec": 81,
+    "ledger_seq": 104434727,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-23 21:12:54 KST",
+    "updated_at": "2026-05-23 22:13:35 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -106,25 +106,11 @@
       "score": 2
     },
     {
-      "title": "SEC도 인정한 XRP…리플의 시대 열린다",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPQU5ONnJSazloX1N6WHZKQU5VV0d6TFFVYlItME1QcXlmNFFFWkxQMFNhRWc5M1FtalhnRG45NC1KeG9yek5PdmVvaXptOTRTR0hBanNIbnpmYVczZ1JCaUVPU2F0TDRmVHVlZnV3NWlxSjVOUXZ5NEl1OGlVNGh0STZYRGxPdmMzLWZPMklpTVVVYVFHSTh6VHJ2MUdJNFJ3WlVPZ19HNjc4WlZabWZrTndqTlZ5NGh1YUZQX3RMd3FJbXE2cjY0SHBIOUlwZFBhVTB1OVZFOFZLb0x3OTRBb1cyY2d0TTZDMzMydUEwaXc1MHRZOGtWdEVITjg?oc=5",
-      "date": "Sat, 23 May 2026 02:14:23 GMT",
-      "source": "MSN",
-      "score": 3
-    },
-    {
       "title": "비트코인·알트레이어·리플XRP 혼조…국채금리 하락에 거래대금 25% 급증",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE85YkprUmQ5Z1Rwc1FsNGx0N2hBMkJZUDdxSWJsX0VIRlpvMmlTWjR1YkVQNUVGTzh6cERsVDFpOEExRWFRVEpBOGpsWlZtbU82cmxIOU1YaTNQZXk0NHpoVjF4Y2hVeEUzRTFxVVdpT1N5dw?oc=5",
       "date": "Sat, 23 May 2026 01:28:35 GMT",
       "source": "톱스타뉴스",
       "score": 2
-    },
-    {
-      "title": "[차트분석] 하락세 XRP(리플)...추가 하락 이어질 수도",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9YMks3ZXYzZXJ3Y2o2d3c4cFNBbFRoa3h6TGgxeEhYYW5PVXhJYzhWdERnQ1oteTNkZTRqc0JaS19HdWVmQzFjeDNnMlI2bmRDQXRYdGxkYmp1T3BKVTJ4MzY3N0ItaUpWZEdOSlBxY1M5UQ?oc=5",
-      "date": "Sat, 23 May 2026 01:00:00 GMT",
-      "source": "디지털애셋",
-      "score": 9
     },
     {
       "title": "리플 스테이블코인 RLUSD 발행 확대…XRPL 유동성 성장 주목",
@@ -160,6 +146,20 @@
       "date": "Thu, 21 May 2026 03:34:00 GMT",
       "source": "뉴스투데이",
       "score": 2
+    },
+    {
+      "title": "리플, 美 SEC 토큰화 검토에 XRP레저 주목…“주식 온체인 거래 기대감”",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRejFsNVdJaVFzYUFlRGlWS0toajVSVWJRUUkxb05WRGpqRkhWOVdQTUhJTGxsVVl1aVEzRkh2dEQ2RzZyc1p5VkZFVVpUVVFMZjFNdVZiNGtUblRTWmVvUDNuVkJsQ2RS?oc=5",
+      "date": "Wed, 20 May 2026 18:58:04 GMT",
+      "source": "CBC뉴스",
+      "score": 3
+    },
+    {
+      "title": "“XRP 가격 안 오르는 이유 있었다”... 베일 벗은 리플 스테이블코인 RLUSD의 음모",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9NSExmRTYxZHYxYzBWUVVRVWc5UVhqNkpOeFNfLTMyVEM0NTZUZVh3cHdEX21uWUptSGtvUTZBWjFXVzNSTUNCRERVa2R2WFMxSzg5bHBaZk05WWxEXzlMQ25uOF9MTm5iMi1kLXlyaHBqZG_SAXdBVV95cUxNQm5ETmZrRmwybVRFWnRFUU5KaWdDb2dPZjlGbFF2ZEZmSXYwQlJlczdFZWtZbVZfVkJOVWRhNDVsdUVUZm1aM3hkejg2WWxtWFlraDVrMkEtek1GS0xpYjk5RUxFV0QzeUxLV2JkZTdOUFRwSWx4VQ?oc=5",
+      "date": "Wed, 20 May 2026 09:42:06 GMT",
+      "source": "핀포인트뉴스",
+      "score": 3
     }
   ]
 }
