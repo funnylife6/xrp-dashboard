@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-23T13:07:16",
+  "generated_at": "2026-05-23T14:46:31",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.33,
-    "price_krw": 2020.1,
-    "price_change_24h": -2.63342,
-    "price_change_7d": -5.80172,
-    "price_change_30d": -6.22419,
-    "market_cap_usd": 82190540256,
+    "price_krw": 2026.08,
+    "price_change_24h": -1.46129,
+    "price_change_7d": -5.52482,
+    "price_change_30d": -5.88488,
+    "market_cap_usd": 82452102103,
     "market_cap_rank": 5,
-    "volume_24h": 3300087459,
+    "volume_24h": 1937181358,
     "circulating_supply": 61858321245.0,
     "total_supply": 99985662685.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 74.42,
-    "sentiment_votes_down": 25.58,
+    "sentiment_votes_up": 75.61,
+    "sentiment_votes_down": 24.39,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 14.14,
-    "recent_tps": 14.14,
-    "recent_tx_count": 1273,
+    "tps_24h_avg": 25.37,
+    "recent_tps": 25.37,
+    "recent_tx_count": 2283,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104426221,
+    "ledger_seq": 104427766,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-23 13:07:03 KST",
+    "updated_at": "2026-05-23 14:46:20 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,6 +92,27 @@
   ],
   "general_news": [
     {
+      "title": "XRP, 2026년 들어 26% 하락…호재에도 가격은 제자리",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1NamxHT0VCMU5hREFyaFJnSVQ5MzQ1YUppU19LcENSd0xPR3FkRWs5WkZoRVZFZnJLNzE1VVBqcjZRMHN0RnJCVDlRZVNVcVJMbk1NSWZ1U3o1MVppdXRiT1p5TC1ZQXpkSGZ5NVVibkp4QlU?oc=5",
+      "date": "Sat, 23 May 2026 12:53:00 GMT",
+      "source": "디지털투데이",
+      "score": 2
+    },
+    {
+      "title": "리플(XRP), 양자컴퓨팅 시대 대비 본격화…“보안 국면 전환” 시선도",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYLWhVcnRBdWo5MkUxb2FCczc1N3FSc1picEVfcjNwa2V3N1BMc1UtVWVpNDNGczZDcmhDZllYQnZDdWZwV1VyQ2wxQzhueVVlT0pHNUxBQVNRSFBuWkZZNGRkdElkZXZh?oc=5",
+      "date": "Sat, 23 May 2026 03:33:00 GMT",
+      "source": "CBC뉴스",
+      "score": 2
+    },
+    {
+      "title": "SEC도 인정한 XRP…리플의 시대 열린다",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPQU5ONnJSazloX1N6WHZKQU5VV0d6TFFVYlItME1QcXlmNFFFWkxQMFNhRWc5M1FtalhnRG45NC1KeG9yek5PdmVvaXptOTRTR0hBanNIbnpmYVczZ1JCaUVPU2F0TDRmVHVlZnV3NWlxSjVOUXZ5NEl1OGlVNGh0STZYRGxPdmMzLWZPMklpTVVVYVFHSTh6VHJ2MUdJNFJ3WlVPZ19HNjc4WlZabWZrTndqTlZ5NGh1YUZQX3RMd3FJbXE2cjY0SHBIOUlwZFBhVTB1OVZFOFZLb0x3OTRBb1cyY2d0TTZDMzMydUEwaXc1MHRZOGtWdEVITjg?oc=5",
+      "date": "Sat, 23 May 2026 02:14:23 GMT",
+      "source": "MSN",
+      "score": 3
+    },
+    {
       "title": "비트코인·알트레이어·리플XRP 혼조…국채금리 하락에 거래대금 25% 급증",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE85YkprUmQ5Z1Rwc1FsNGx0N2hBMkJZUDdxSWJsX0VIRlpvMmlTWjR1YkVQNUVGTzh6cERsVDFpOEExRWFRVEpBOGpsWlZtbU82cmxIOU1YaTNQZXk0NHpoVjF4Y2hVeEUzRTFxVVdpT1N5dw?oc=5",
       "date": "Sat, 23 May 2026 01:28:35 GMT",
@@ -99,18 +120,18 @@
       "score": 2
     },
     {
-      "title": "XRP, 올해 26% 추락에 투자자 분노 폭발...\"호재 한가득인데 왜 못 올라?\"",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5mN3hKT3VlUHZ6UHpEM0QyaGpzLWQyV3ZibHFYM005QklidkhrSk1pdW1Na3otX3UyRXpxVHBUdEhqZEE1?oc=5",
-      "date": "Fri, 22 May 2026 23:30:00 GMT",
-      "source": "코인리더스",
-      "score": 2
+      "title": "[차트분석] 하락세 XRP(리플)...추가 하락 이어질 수도",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9YMks3ZXYzZXJ3Y2o2d3c4cFNBbFRoa3h6TGgxeEhYYW5PVXhJYzhWdERnQ1oteTNkZTRqc0JaS19HdWVmQzFjeDNnMlI2bmRDQXRYdGxkYmp1T3BKVTJ4MzY3N0ItaUpWZEdOSlBxY1M5UQ?oc=5",
+      "date": "Sat, 23 May 2026 01:00:00 GMT",
+      "source": "디지털애셋",
+      "score": 9
     },
     {
-      "title": "암호화폐(코인) 리플 관련 주요 지표, 이더리움·솔라나 압도하며 시장 관심 집중",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Ja3BhN29mZHIxNGN4NlcwUFBadkR0RmlsTkQyY1VxWFBwYkdNWXFmLUFaSnc0dDdfS0FIRmNETUJRRTFWY3NhOExHakE3M3VJRkE3UXNB?oc=5",
-      "date": "Fri, 22 May 2026 07:58:00 GMT",
-      "source": "위키트리",
-      "score": 2
+      "title": "리플 스테이블코인 RLUSD 발행 확대…XRPL 유동성 성장 주목",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqcHFjdlh3enduRVVMd3RQQm13eFE2YmVXMVpTYjZodURMbHY4ZHNXZ19mWURzLU9UdXpIbHlsclJnamVZcXh3MkxtU3pjd0NtUTQ1SnhvSWtPMS11eDJYdWlWTHQ0dWY0MFpR0gFrQVVfeXFMUGpwcWN2WHd6d25FVUx3dFBCbXd4UTZiZVcxWlNiNmh1RExsdjhkc1dnX2ZZRHMtT1R1ekhseWxyUmdqZVlxeHcyTG1TemN3Q21RNDVKeG9Ja08xLXV4Mlh1aVZMdDR1ZjQwWlE?oc=5",
+      "date": "Fri, 22 May 2026 06:21:40 GMT",
+      "source": "비온미디어",
+      "score": 3
     },
     {
       "title": "CME XRP 선물 출시 1년, 누적 거래액 630억 달러 돌파… 가상자산 시장 흔들다",
@@ -131,27 +152,6 @@
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTGU1RjVJVzMzTVNUWExpUnQ5aUVaRVo5UTFiRi0zNXc5OF91RnBzZXMxa2ZKZkV4UVlpLWZwbzFzV19TOG5hNzBibUZrVGhYaEhsbFRjcFh0NWsxLWdRVHJyTUtIX1JsV1ZZWWJJTlVUZmhBNGotdVhmbzhsdE9wZVQ5SWRvMEJNUi1aWTRyc0JKOXN0di0xZmVRMTRuRDJSX2hMejlxQmdza08xM3ZRb3E0NVRVbS1jdVpkbmlfSzg?oc=5",
       "date": "Thu, 21 May 2026 12:45:00 GMT",
       "source": "Bitcoin News",
-      "score": 2
-    },
-    {
-      "title": "XRP, 결제 효율성 논쟁 재점화…\"묶인 유동성보다 속도\" 주장 나와",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE12U011cnNJQ21CbXZoT3VzejlranQ3aG1FcXpxeHJVclBoVURpd2lxSUdWREotVzVvQnU1OGVSMVc3aEk4REk3TFFYdDE4cWRjU3Zka0xHWTRFV0lnVnZiZHZnemtsenZxTUMxZG1iTjVfSWs?oc=5",
-      "date": "Thu, 21 May 2026 11:00:00 GMT",
-      "source": "디지털투데이",
-      "score": 2
-    },
-    {
-      "title": "리플, 연준 결제망 직접 연결 가능성… XRP엔 호재일까?",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kOEszM1VrSkp1bVh5VllSYl9FdTN3YzJjd1JYS1BVWVp5dHNucV9kWkJHNk9iclNIT3ZhVTRMOTI1S1RsS3lmZEgxeEVPV2ozZG9YRWI2T0hyR2RxQlE?oc=5",
-      "date": "Thu, 21 May 2026 03:34:00 GMT",
-      "source": "뉴스투데이",
-      "score": 2
-    },
-    {
-      "title": "XRP 리플, 1년여 만의 최강 볼린저밴드 압축... 1.29달러 vs 1.50달러, 운명의 분기점 임박",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNblFleXVhMTZZV19neUpuVW45UE9yT2ZiTVMxTEprMVBxQWxVZnpzM1J0SUdrdEpkLVoyaklPbVBFbUJrM1dGTWMtWG5MVWwtWnhITU05ZC10Mk5WZHJfTm44cHlURVpJeFMzQ2ZEVjFYTmxfTGJpOUVxNTZRUldMTDB0SXBJSU5wY2lBZg?oc=5",
-      "date": "Thu, 21 May 2026 03:34:00 GMT",
-      "source": "네이버 프리미엄콘텐츠",
       "score": 2
     },
     {
