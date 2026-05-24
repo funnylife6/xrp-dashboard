@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-24T05:37:37",
+  "generated_at": "2026-05-24T08:20:15",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.36,
-    "price_krw": 2060.23,
-    "price_change_24h": 1.94481,
-    "price_change_7d": -4.00674,
-    "price_change_30d": -5.22778,
-    "market_cap_usd": 83821971479,
+    "price_krw": 2062.41,
+    "price_change_24h": 3.25668,
+    "price_change_7d": -4.31618,
+    "price_change_30d": -5.20892,
+    "market_cap_usd": 83912535123,
     "market_cap_rank": 5,
-    "volume_24h": 1763436395,
+    "volume_24h": 1400700354,
     "circulating_supply": 61858321245.0,
     "total_supply": 99985662685.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 81.43,
-    "sentiment_votes_down": 18.57,
+    "sentiment_votes_up": 83.78,
+    "sentiment_votes_down": 16.22,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 24.67,
-    "recent_tps": 24.67,
-    "recent_tx_count": 2196,
+    "tps_24h_avg": 18.09,
+    "recent_tps": 18.09,
+    "recent_tx_count": 1628,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 104441634,
+    "recent_window_sec": 90,
+    "ledger_seq": 104444180,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-24 05:37:23 KST",
+    "updated_at": "2026-05-24 08:20:00 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -77,7 +77,7 @@
     },
     {
       "title": "시장 재편되나 촉각?…리플XRP ETF 전량 매도에 시장 ‘술렁’",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qUTJxQ2l1ZFl2WlVyZVFZSFJ1VEFTb3NPNmZkeTQxbEw3UXdGWVdWRXRqUDROWnNnV3BXVlFRa2NEeEhIa290cE1McllWV3AtSng4R2k5LUgtV0FiWFJpeThYMUpzVEda?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xeVd1ZGlyZ3RRUlFsTFRtdkFBamV2MXdPTk5LVnI3LVNRamR1Mi04dFVXaUFlYXl1MUp1ZVNySHBTSjZZNXFwc2VmX1VFRmtqN0hQUW95N2V6YzRDRTZOaVhWSQ?oc=5",
       "date": "Tue, 19 May 2026 21:35:00 GMT",
       "source": "CBC뉴스",
       "score": 0
@@ -99,10 +99,10 @@
       "score": 2
     },
     {
-      "title": "트럼프 핀테크 행정명령, 연준 문턱 낮추나…리플·XRP ‘전례 없는 기회’ 주목",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNandQMmE4RmtoWmVld05fU1REM2pHSE5tMTYzTjNZSVdBLTI3UEtaSU01WkFRUWhUcUlLcV8yOWdyS1hIZXBIMEhUNTFkY0trd1Q5enFqMFY5WXYycFJNNnR6YjlKRTFvNXhtNW5vWDJQcWZGRWpObFQ5QVlfZ01fbVpJMk9hbDBr?oc=5",
-      "date": "Sun, 24 May 2026 00:49:01 GMT",
-      "source": "글로벌이코노믹",
+      "title": "리플(XRP) 사? 팔아?… GPT·클로드·Grok의 엇갈린 전망",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBKLWg2dFhLUHo5bXBqSVJEN0Q3SjhEUVVnRFlSelVzUElXbkRxOExaLUtrVFJZMi1Na3FscS1VS2dNLWZTNExwRlVSd28zM2tOLUh2dUJ0XzXSAV5BVV95cUxPU0tOUFJPYnByaEpkRkZXeUQtUGY4THptN0lSX2R0N1lPS2tLbTFJYU1ZNDJMa1oyUmdtdUdjbWFRZFo2YzA0Vl9ldFhSQXFNRVo0NloxVHZiT2o3X2l3?oc=5",
+      "date": "Sun, 24 May 2026 00:50:04 GMT",
+      "source": "tokenpost.kr",
       "score": 2
     },
     {
@@ -120,6 +120,13 @@
       "score": 2
     },
     {
+      "title": "JP모건도 합류 무슨 일?… 리플 RLUSD 기반 국채 토큰화 성공에 기득권 은행들 '발칵'",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLMENyWkRGb0RUZ0ZfSWpzQld5N0dRMlEwNjZfRjBfNF92Y3FGakxValBTXzVZcVd1QTdjRkNEMWRhTXNDRUpWYzFSNUczMWlYZG9MR3Jna1pLdk1rR2hwVVNuNWFFekRGdUQxal93ZlRrYnfSAXdBVV95cUxPc3hmdHNJRFVfRGk2bzdPNkJJeVNicHN2b1lQLTM1NmhsRUswUUxjVEV5QUEwVmlLWXdfZlJWTXV0bS13SjNkODMyY2JaRmd5UUtaZUFEbGV0X0tQWlBnUUZrdjlDYUJMb0dGWjQxcG5pS2I5dF94QQ?oc=5",
+      "date": "Sat, 23 May 2026 20:22:39 GMT",
+      "source": "핀포인트뉴스",
+      "score": 3
+    },
+    {
       "title": "XRP, 2026년 들어 26% 하락…호재에도 가격은 제자리",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90OXQtX295NUVidWYxY1lMNWlReC1TUU1IaW9nVEhGR2pLa3RDbFhlOHdqQnFYT2dMVThlbXlzd25hSFFPRUxhT2pSMWxnZWFZcExn?oc=5",
       "date": "Sat, 23 May 2026 12:55:00 GMT",
@@ -128,8 +135,8 @@
     },
     {
       "title": "리플 스테이블코인 RLUSD 발행 확대…XRPL 유동성 성장 주목",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqcHFjdlh3enduRVVMd3RQQm13eFE2YmVXMVpTYjZodURMbHY4ZHNXZ19mWURzLU9UdXpIbHlsclJnamVZcXh3MkxtU3pjd0NtUTQ1SnhvSWtPMS11eDJYdWlWTHQ0dWY0MFpR0gFrQVVfeXFMUGpwcWN2WHd6d25FVUx3dFBCbXd4UTZiZVcxWlNiNmh1RExsdjhkc1dnX2ZZRHMtT1R1ekhseWxyUmdqZVlxeHcyTG1TemN3Q21RNDVKeG9Ja08xLXV4Mlh1aVZMdDR1ZjQwWlE?oc=5",
-      "date": "Fri, 22 May 2026 06:21:40 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tZkVJdWt4WVRZTEYtWkpVQy0zUG93SFlQVjdGczMtY0ZtTDBvcDVOYUJCRUNGRnc0a2Z3LS01Sm1Va2g3eUlPeHZ0Ukh3eHdjOHJMNi1sb2o3ZXkzV0dOcFM5UHZmOHfSAWtBVV95cUxQanBxY3ZYd3p3bkVVTHd0UEJtd3hRNmJlVzFaU2I2aHVETGx2OGRzV2dfZllEcy1PVHV6SGx5bHJSZ2plWXF4dzJMbVN6Y3dDbVE0NUp4b0lrTzEtdXgyWHVpVkx0NHVmNDBaUQ?oc=5",
+      "date": "Fri, 22 May 2026 06:13:05 GMT",
       "source": "비온미디어",
       "score": 3
     },
@@ -141,24 +148,17 @@
       "score": 2
     },
     {
+      "title": "가장 빠르고 정확한 코인 투자 뉴스, 커뮤니티",
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE4xaEg2ZEswRGRFMHA3WVlZMXFhNlBqbHNYSWRMRV8wNjRGVTVIb29WbG1MWmdtZTBJZzBZZ0xB?oc=5",
+      "date": "Fri, 22 May 2026 04:55:00 GMT",
+      "source": "코인니스",
+      "score": 8
+    },
+    {
       "title": "XRP(리플), 삼각수렴 하단 이탈...\"1.21달러 지지선 위협“",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQ3R0U0ZFQXlSRE1BcGcxSmMtRC1JR2djOWJXT05ZeTYtNl93Z1FtYWdXWkNTeHdtVnd0Qkp2RDZHMmp6bU1TUGk1azFtTWdrMkFHb19kd2FoT1NuZlV4eEo5S0hSVnRORXZvVGFFSERNWTFjSm1WdTA3bC11ZW1uX3EwTlJpclU?oc=5",
       "date": "Thu, 21 May 2026 20:53:53 GMT",
       "source": "글로벌이코노믹",
-      "score": 2
-    },
-    {
-      "title": "XRP 대 RLUSD: 에버노스, XRP의 XRPL 활용 사례가 지속적으로 확대되고 있다고 밝혀",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTGU1RjVJVzMzTVNUWExpUnQ5aUVaRVo5UTFiRi0zNXc5OF91RnBzZXMxa2ZKZkV4UVlpLWZwbzFzV19TOG5hNzBibUZrVGhYaEhsbFRjcFh0NWsxLWdRVHJyTUtIX1JsV1ZZWWJJTlVUZmhBNGotdVhmbzhsdE9wZVQ5SWRvMEJNUi1aWTRyc0JKOXN0di0xZmVRMTRuRDJSX2hMejlxQmdza08xM3ZRb3E0NVRVbS1jdVpkbmlfSzg?oc=5",
-      "date": "Thu, 21 May 2026 12:45:00 GMT",
-      "source": "Bitcoin News",
-      "score": 2
-    },
-    {
-      "title": "리플, 연준 결제망 직접 연결 가능성… XRP엔 호재일까?",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kOEszM1VrSkp1bVh5VllSYl9FdTN3YzJjd1JYS1BVWVp5dHNucV9kWkJHNk9iclNIT3ZhVTRMOTI1S1RsS3lmZEgxeEVPV2ozZG9YRWI2T0hyR2RxQlE?oc=5",
-      "date": "Thu, 21 May 2026 03:34:00 GMT",
-      "source": "뉴스투데이",
       "score": 2
     }
   ]
