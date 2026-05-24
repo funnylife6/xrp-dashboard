@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-24T21:31:21",
+  "generated_at": "2026-05-24T22:51:01",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.34,
-    "price_krw": 2037.42,
-    "price_change_24h": -1.29949,
-    "price_change_7d": -5.74708,
-    "price_change_30d": -7.0597,
-    "market_cap_usd": 82974031555,
+    "price_usd": 1.35,
+    "price_krw": 2048.97,
+    "price_change_24h": -0.57847,
+    "price_change_7d": -5.41429,
+    "price_change_30d": -6.33439,
+    "market_cap_usd": 83285263916,
     "market_cap_rank": 5,
-    "volume_24h": 1149594296,
+    "volume_24h": 1177712957,
     "circulating_supply": 61858321245.0,
     "total_supply": 99985662685.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 79.17,
-    "sentiment_votes_down": 20.83,
+    "sentiment_votes_up": 77.14,
+    "sentiment_votes_down": 22.86,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 28.11,
-    "recent_tps": 28.11,
-    "recent_tx_count": 2530,
+    "tps_24h_avg": 12.34,
+    "recent_tps": 12.34,
+    "recent_tx_count": 1111,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104456500,
+    "ledger_seq": 104457736,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-24 21:31:07 KST",
+    "updated_at": "2026-05-24 22:50:46 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -77,7 +77,7 @@
     },
     {
       "title": "시장 재편되나 촉각?…리플XRP ETF 전량 매도에 시장 ‘술렁’",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xeVd1ZGlyZ3RRUlFsTFRtdkFBamV2MXdPTk5LVnI3LVNRamR1Mi04dFVXaUFlYXl1MUp1ZVNySHBTSjZZNXFwc2VmX1VFRmtqN0hQUW95N2V6YzRDRTZOaVhWSQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qUTJxQ2l1ZFl2WlVyZVFZSFJ1VEFTb3NPNmZkeTQxbEw3UXdGWVdWRXRqUDROWnNnV3BXVlFRa2NEeEhIa290cE1McllWV3AtSng4R2k5LUgtV0FiWFJpeThYMUpzVEda?oc=5",
       "date": "Tue, 19 May 2026 21:35:00 GMT",
       "source": "CBC뉴스",
       "score": 0
@@ -95,6 +95,13 @@
       "title": "\"검증인 100% 만장일치\"...XRP 레저, 역대급 찬성표 얻은 수정사항은?",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5oOHZDeVRCVURTaHdkN284dVh1T25IRXd3X183X2F3aThLZGd6MHhrVGxYLS05ZGpWYW94d3hCUXZMeUl0N1JNTGtR?oc=5",
       "date": "Sun, 24 May 2026 16:00:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
+      "title": "XRP, 진짜 투자해도 될까…전문가가 꼽은 장점과 약점",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE91ZENCUVMzWDJMblFlNTdtY01lMjBGT3p6MTYzSUQ4VlZwTzZ6VkxDTHJtbV9ndEZQSEIyanc0VkVUamRkbHdqTUxR?oc=5",
+      "date": "Sun, 24 May 2026 13:21:00 GMT",
       "source": "코인리더스",
       "score": 2
     },
@@ -148,17 +155,10 @@
       "score": 2
     },
     {
-      "title": "XRP 대 RLUSD: 에버노스, XRP의 XRPL 활용 사례가 지속적으로 확대되고 있다고 밝혀",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTGU1RjVJVzMzTVNUWExpUnQ5aUVaRVo5UTFiRi0zNXc5OF91RnBzZXMxa2ZKZkV4UVlpLWZwbzFzV19TOG5hNzBibUZrVGhYaEhsbFRjcFh0NWsxLWdRVHJyTUtIX1JsV1ZZWWJJTlVUZmhBNGotdVhmbzhsdE9wZVQ5SWRvMEJNUi1aWTRyc0JKOXN0di0xZmVRMTRuRDJSX2hMejlxQmdza08xM3ZRb3E0NVRVbS1jdVpkbmlfSzg?oc=5",
-      "date": "Thu, 21 May 2026 12:45:00 GMT",
-      "source": "Bitcoin News",
-      "score": 2
-    },
-    {
-      "title": "지정학 리스크 직격탄...리플(XRP), 관망세 속에 갇힌 비명",
-      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNVGp2SFhlWms4TDBVcnNiMF9ieF9FTkRnXzVEM29wUU55bUVDWllhUXBmODhablIxdWEzYXpTdUFqZWNZQjJEM0tjRkExUE55ZFRHQWlHZS1ITFlneFNlQ3JJNDh1d2drUzYyc2pmZ2RDRWdXYVZnYU44T0Q5S0dfazNMaW1UQXFuZ3lYeDN1MUxDZWVxZjd3MjM0Uld2UXFZdElRYWhGOTJzc0Ztby05alB4dUt3R2k5Z0ZCZlQ5WWpPbGJrYWtpdTFxeWpicHZTWDRXeG41RENHU2tDT2t4OXYwM083eFBsZVdEQUtMWGdpRXB2T0lKeEEtUnpsam1UZE04VWNncFRkdDg4R3FqR2VCOHQ5MVFXeWRfV0tueFlFc2UwbkNJRDVWdjRMQTB6NG1wYzRLWTh4T3A0Z2NBUlFKZUpoU0g0Q196cC1pZ2lER1ZJS3lWVDR3?oc=5",
-      "date": "Thu, 21 May 2026 07:00:00 GMT",
-      "source": "MSN",
+      "title": "2026 년 최신 리플전망: 5년 내로 리플 100 만원 가능성은?",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE11NERQZEIxZ0VCQVFvQnR4VU85X1RDOHJWU2lOcVRTeFpGOU96QWdJSFIwS29ocUVOMDRSaldVS1prS0Q3TEd3enh5NFdUNjE5b05abjRuUUJsUnlrY19MNkhJV2hfUGRxeEVRR0g3OA?oc=5",
+      "date": "Thu, 21 May 2026 15:25:15 GMT",
+      "source": "Cryptonews",
       "score": 2
     }
   ]
