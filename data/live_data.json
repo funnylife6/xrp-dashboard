@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-05-24T22:51:01",
+  "generated_at": "2026-05-24T23:53:47",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.35,
-    "price_krw": 2048.97,
-    "price_change_24h": -0.57847,
-    "price_change_7d": -5.41429,
-    "price_change_30d": -6.33439,
-    "market_cap_usd": 83285263916,
+    "price_krw": 2048.69,
+    "price_change_24h": -0.4241,
+    "price_change_7d": -5.16419,
+    "price_change_30d": -6.08672,
+    "market_cap_usd": 83580208065,
     "market_cap_rank": 5,
-    "volume_24h": 1177712957,
+    "volume_24h": 1156074194,
     "circulating_supply": 61858321245.0,
     "total_supply": 99985662685.0,
     "ath_usd": 3.65,
@@ -22,16 +22,16 @@
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 12.34,
-    "recent_tps": 12.34,
-    "recent_tx_count": 1111,
+    "tps_24h_avg": 11.47,
+    "recent_tps": 11.47,
+    "recent_tx_count": 1021,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 104457736,
+    "recent_window_sec": 89,
+    "ledger_seq": 104458720,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-24 22:50:46 KST",
+    "updated_at": "2026-05-24 23:53:36 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -47,6 +47,13 @@
     "data_source": "news_parse"
   },
   "etf_news": [
+    {
+      "title": "리플(XRP) 제도권 진입 빨라지나…BofA ETF 보유 확대 속 트럼프 안전 변수 촉각",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xbWdrYmRuRU50cXNqRnFFREtYRlJER1NhaXJSY2l4YThneDdfOFk5SXlhaG5HS1JRaHZMRlZybXVfWTR1QVZzbTYzenJQT1dldzdoSG5uWnE2bS05QVl3MXRlMmRUUWVX?oc=5",
+      "date": "Sun, 24 May 2026 23:30:00 GMT",
+      "source": "CBC뉴스",
+      "score": 0
+    },
     {
       "title": "미국 XRP 현물 ETF는 하루 만에 947만 8천 달러의 순유입을 기록했습니다.",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtQ3AyNGZYR2FMYllUOUUtRGZmWTBoSmU4Y0huendUUElfOERrc2JHMHhJR2R1dERuRTJ5eWZWSkpxWUN6ZWZ6TkV1TG1WbDBlS0QyZFZQX1ZsM2MxVk40MEdTclI5VG56aU5hYTdiOWJpbUNPZXFBaE9MelRkZ3c?oc=5",
@@ -76,13 +83,6 @@
       "score": 0
     },
     {
-      "title": "시장 재편되나 촉각?…리플XRP ETF 전량 매도에 시장 ‘술렁’",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qUTJxQ2l1ZFl2WlVyZVFZSFJ1VEFTb3NPNmZkeTQxbEw3UXdGWVdWRXRqUDROWnNnV3BXVlFRa2NEeEhIa290cE1McllWV3AtSng4R2k5LUgtV0FiWFJpeThYMUpzVEda?oc=5",
-      "date": "Tue, 19 May 2026 21:35:00 GMT",
-      "source": "CBC뉴스",
-      "score": 0
-    },
-    {
       "title": "기관 자금은 리플 홀로 사수… 거시경제 암초에 1.40달러 내준 XRP, ETF가 살릴까",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45VjR6TW5iakNiaWs1SGJkNXlYaDRRRXd0TDNLMllmRDZMc0pKdVRFaFR5S2hBUlExd200UldoYXpBNVBRN1Q0ZUVjM0NKWmxEQmFHOWZ5a0JTZWxtazJCSVp1ZVpZRkpNMjhJRkk4dHQ?oc=5",
       "date": "Tue, 19 May 2026 01:36:07 GMT",
@@ -91,6 +91,13 @@
     }
   ],
   "general_news": [
+    {
+      "title": "리플(XRP) 제도권 진입 빨라지나…BofA ETF 보유 확대 속 트럼프 안전 변수 촉각",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xbWdrYmRuRU50cXNqRnFFREtYRlJER1NhaXJSY2l4YThneDdfOFk5SXlhaG5HS1JRaHZMRlZybXVfWTR1QVZzbTYzenJQT1dldzdoSG5uWnE2bS05QVl3MXRlMmRUUWVX?oc=5",
+      "date": "Sun, 24 May 2026 23:30:00 GMT",
+      "source": "CBC뉴스",
+      "score": 3
+    },
     {
       "title": "\"검증인 100% 만장일치\"...XRP 레저, 역대급 찬성표 얻은 수정사항은?",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5oOHZDeVRCVURTaHdkN284dVh1T25IRXd3X183X2F3aThLZGd6MHhrVGxYLS05ZGpWYW94d3hCUXZMeUl0N1JNTGtR?oc=5",
@@ -152,13 +159,6 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQ3R0U0ZFQXlSRE1BcGcxSmMtRC1JR2djOWJXT05ZeTYtNl93Z1FtYWdXWkNTeHdtVnd0Qkp2RDZHMmp6bU1TUGk1azFtTWdrMkFHb19kd2FoT1NuZlV4eEo5S0hSVnRORXZvVGFFSERNWTFjSm1WdTA3bC11ZW1uX3EwTlJpclU?oc=5",
       "date": "Thu, 21 May 2026 20:53:53 GMT",
       "source": "글로벌이코노믹",
-      "score": 2
-    },
-    {
-      "title": "2026 년 최신 리플전망: 5년 내로 리플 100 만원 가능성은?",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE11NERQZEIxZ0VCQVFvQnR4VU85X1RDOHJWU2lOcVRTeFpGOU96QWdJSFIwS29ocUVOMDRSaldVS1prS0Q3TEd3enh5NFdUNjE5b05abjRuUUJsUnlrY19MNkhJV2hfUGRxeEVRR0g3OA?oc=5",
-      "date": "Thu, 21 May 2026 15:25:15 GMT",
-      "source": "Cryptonews",
       "score": 2
     }
   ]
