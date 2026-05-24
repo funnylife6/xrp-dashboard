@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-24T20:30:18",
+  "generated_at": "2026-05-24T21:31:21",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.34,
-    "price_krw": 2043.36,
-    "price_change_24h": -0.10369,
-    "price_change_7d": -4.73015,
-    "price_change_30d": -6.69389,
-    "market_cap_usd": 83182290172,
+    "price_krw": 2037.42,
+    "price_change_24h": -1.29949,
+    "price_change_7d": -5.74708,
+    "price_change_30d": -7.0597,
+    "market_cap_usd": 82974031555,
     "market_cap_rank": 5,
-    "volume_24h": 1264168739,
+    "volume_24h": 1149594296,
     "circulating_supply": 61858321245.0,
     "total_supply": 99985662685.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 80.82,
-    "sentiment_votes_down": 19.18,
+    "sentiment_votes_up": 79.17,
+    "sentiment_votes_down": 20.83,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 13.47,
-    "recent_tps": 13.47,
-    "recent_tx_count": 1199,
+    "tps_24h_avg": 28.11,
+    "recent_tps": 28.11,
+    "recent_tx_count": 2530,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 104455548,
+    "recent_window_sec": 90,
+    "ledger_seq": 104456500,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-24 20:30:09 KST",
+    "updated_at": "2026-05-24 21:31:07 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -99,13 +99,6 @@
       "score": 2
     },
     {
-      "title": "리플 IPO 멈춘 사이에...블록체인닷컴, 미국 상장 절차 비공개 착수",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1iRjE0WURjbWw3eGY0aUJ4ZmRHUmp2TjZNOVBnb3BUY2ZudEhKbVBHTjN5RjV1U0VxVmIwTUVXbV9qRnZCWDViVVpB?oc=5",
-      "date": "Sun, 24 May 2026 06:30:00 GMT",
-      "source": "코인리더스",
-      "score": 2
-    },
-    {
       "title": "암호화폐(코인) 리플, 9일 만에 대형 거래 57.3% 증발... 대체 무슨 일?",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vd1I5UDJfQUxqcm5Jenpjd3NWWUhndzhqWG1iRU1Fd3IxZ1lYTHcweVpDYTVlR2ZjN2VMSWhvY1ZDQmhBYXpTT0VGYkNmZUYwU0F6b2JB?oc=5",
       "date": "Sun, 24 May 2026 02:51:00 GMT",
@@ -155,10 +148,17 @@
       "score": 2
     },
     {
-      "title": "2026 년 최신 리플전망: 5년 내로 리플 100 만원 가능성은?",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE11NERQZEIxZ0VCQVFvQnR4VU85X1RDOHJWU2lOcVRTeFpGOU96QWdJSFIwS29ocUVOMDRSaldVS1prS0Q3TEd3enh5NFdUNjE5b05abjRuUUJsUnlrY19MNkhJV2hfUGRxeEVRR0g3OA?oc=5",
-      "date": "Thu, 21 May 2026 15:25:15 GMT",
-      "source": "Cryptonews",
+      "title": "XRP 대 RLUSD: 에버노스, XRP의 XRPL 활용 사례가 지속적으로 확대되고 있다고 밝혀",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTGU1RjVJVzMzTVNUWExpUnQ5aUVaRVo5UTFiRi0zNXc5OF91RnBzZXMxa2ZKZkV4UVlpLWZwbzFzV19TOG5hNzBibUZrVGhYaEhsbFRjcFh0NWsxLWdRVHJyTUtIX1JsV1ZZWWJJTlVUZmhBNGotdVhmbzhsdE9wZVQ5SWRvMEJNUi1aWTRyc0JKOXN0di0xZmVRMTRuRDJSX2hMejlxQmdza08xM3ZRb3E0NVRVbS1jdVpkbmlfSzg?oc=5",
+      "date": "Thu, 21 May 2026 12:45:00 GMT",
+      "source": "Bitcoin News",
+      "score": 2
+    },
+    {
+      "title": "지정학 리스크 직격탄...리플(XRP), 관망세 속에 갇힌 비명",
+      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNVGp2SFhlWms4TDBVcnNiMF9ieF9FTkRnXzVEM29wUU55bUVDWllhUXBmODhablIxdWEzYXpTdUFqZWNZQjJEM0tjRkExUE55ZFRHQWlHZS1ITFlneFNlQ3JJNDh1d2drUzYyc2pmZ2RDRWdXYVZnYU44T0Q5S0dfazNMaW1UQXFuZ3lYeDN1MUxDZWVxZjd3MjM0Uld2UXFZdElRYWhGOTJzc0Ztby05alB4dUt3R2k5Z0ZCZlQ5WWpPbGJrYWtpdTFxeWpicHZTWDRXeG41RENHU2tDT2t4OXYwM083eFBsZVdEQUtMWGdpRXB2T0lKeEEtUnpsam1UZE04VWNncFRkdDg4R3FqR2VCOHQ5MVFXeWRfV0tueFlFc2UwbkNJRDVWdjRMQTB6NG1wYzRLWTh4T3A0Z2NBUlFKZUpoU0g0Q196cC1pZ2lER1ZJS3lWVDR3?oc=5",
+      "date": "Thu, 21 May 2026 07:00:00 GMT",
+      "source": "MSN",
       "score": 2
     }
   ]
