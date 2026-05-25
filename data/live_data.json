@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-25T17:01:52",
+  "generated_at": "2026-05-25T18:57:47",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.36,
-    "price_krw": 2059.18,
-    "price_change_24h": 0.9173,
-    "price_change_7d": -0.94084,
-    "price_change_30d": -4.77259,
-    "market_cap_usd": 84192586974,
+    "price_krw": 2052.42,
+    "price_change_24h": 0.82659,
+    "price_change_7d": -1.60259,
+    "price_change_30d": -4.66358,
+    "market_cap_usd": 84008652620,
     "market_cap_rank": 5,
-    "volume_24h": 1267512166,
+    "volume_24h": 1243379338,
     "circulating_supply": 61858321245.0,
     "total_supply": 99985662685.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 79.45,
-    "sentiment_votes_down": 20.55,
+    "sentiment_votes_up": 80.28,
+    "sentiment_votes_down": 19.72,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 24.06,
-    "recent_tps": 24.06,
-    "recent_tx_count": 2141,
+    "tps_24h_avg": 20.49,
+    "recent_tps": 20.49,
+    "recent_tx_count": 1824,
     "recent_ledger_count": 24,
     "recent_window_sec": 89,
-    "ledger_seq": 104474666,
+    "ledger_seq": 104476463,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-25 17:01:38 KST",
+    "updated_at": "2026-05-25 18:57:36 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -51,13 +51,6 @@
       "title": "리플(XRP) ETF로 6050만달러 몰렸다…비트코인서 빠진 자금 ‘대이동’ 조짐",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MYXRHSXVDaml5Y1R0RU1oYmZxS0pxQzU4UU9NQ2wzSUpKbjJFbU5NZVNWbzhvdFRqbmJZMlAyZ0QxdVN3OVRVbllhT2xfMXFXdHdpSm9MSUg4UjNtMkUyNW9mZEduU3Zq?oc=5",
       "date": "Mon, 25 May 2026 15:00:00 GMT",
-      "source": "CBC뉴스",
-      "score": 0
-    },
-    {
-      "title": "리플(XRP) 제도권 진입 빨라지나…BofA ETF 보유 확대 속 트럼프 안전 변수 촉각",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xbWdrYmRuRU50cXNqRnFFREtYRlJER1NhaXJSY2l4YThneDdfOFk5SXlhaG5HS1JRaHZMRlZybXVfWTR1QVZzbTYzenJQT1dldzdoSG5uWnE2bS05QVl3MXRlMmRUUWVX?oc=5",
-      "date": "Sun, 24 May 2026 23:30:00 GMT",
       "source": "CBC뉴스",
       "score": 0
     },
@@ -88,9 +81,23 @@
       "date": "Sun, 17 May 2026 03:35:00 GMT",
       "source": "CBC뉴스",
       "score": 0
+    },
+    {
+      "title": "XRP 조정장 끝?…ETF 자금 유입에 낙관론 확산",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CUUxTSlBqYVhYVFFGaXVUX0d3RzdIcFU5b3lRbVVsS2VtMFI0eE95LU9IanVCRDJGdkJIa3dVVHNFNlZfa2REUUtLYjBpNDJFLWs0SWg1aWFKSlRnSGo4eEo3Nk1fQTBzdjBiREc5WUgtQnc?oc=5",
+      "date": "Wed, 13 May 2026 07:00:00 GMT",
+      "source": "디지털투데이",
+      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "리플, 드디어 미국 은행이 쓴다 역대급 호재 터졌는데 왜 가격은 미끄러질까?",
+      "url": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxPd2E0NlJpMnotcnBLOXJSNHNEWHoyeVlXUDhHMk8xUFJwOHVuVHFhODRmNHhpQ1VaMWl2djlWbXZOaDhLbkJDNDNzN0NlbjA0ZjZabVVuS2NfVWNLbDdqbjBjbk80R0VpSXJGNEpENC1jRUFtNFR3YlJ6RXhwNGJ2d08yc19QOUlDYUFFUWs2dUpKTWhOSjY2VWpfS2M1LTlBRzdBcWhJR2RFdDdGSy1oMUY0bzQzd0hacE5hTmYtdzdacm1idU1UMTRwaHEtcWdPcUk5cFlJX0prMmtQM1JJT2JEeWR3VzU3Q2c2MDZBa0ZPUXhramVUaENqQUZTcVdScjZfd2VmNDBhU0hmbHdVdmZfZ1BISlpDRFZCSDdZeGpJQUZtZXltRXhENnUybDNIM2NGdl9RNUJiM0NVS1NzdkZ5amMzeGpFNVY4eGRGbUkxZjNCamtpbHdmWjlKS3Y2dDZibmdYSFhWbmVITUgwU25NdlQ3UzZnUDdKNWczbnlWbEk1SXlPNTk5UjRmU19mTDZ1Tk5nc2NLdDZhcEZxLXg1czJHME4xZllmQ3VtR2k0c01JR3dqbkJJQTl6M05IS3hsd3VOdl9kNjhZaWRyRENJQQ?oc=5",
+      "date": "Mon, 25 May 2026 16:31:21 GMT",
+      "source": "MSN",
+      "score": 3
+    },
     {
       "title": "리플(XRP) ETF로 6050만달러 몰렸다…비트코인서 빠진 자금 ‘대이동’ 조짐",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MYXRHSXVDaml5Y1R0RU1oYmZxS0pxQzU4UU9NQ2wzSUpKbjJFbU5NZVNWbzhvdFRqbmJZMlAyZ0QxdVN3OVRVbllhT2xfMXFXdHdpSm9MSUg4UjNtMkUyNW9mZEduU3Zq?oc=5",
@@ -104,13 +111,6 @@
       "date": "Mon, 25 May 2026 12:03:00 GMT",
       "source": "코인리더스",
       "score": 2
-    },
-    {
-      "title": "리플, 드디어 미국 은행이 쓴다 역대급 호재 터졌는데 왜 가격은 미끄러질까?",
-      "url": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxPd2E0NlJpMnotcnBLOXJSNHNEWHoyeVlXUDhHMk8xUFJwOHVuVHFhODRmNHhpQ1VaMWl2djlWbXZOaDhLbkJDNDNzN0NlbjA0ZjZabVVuS2NfVWNLbDdqbjBjbk80R0VpSXJGNEpENC1jRUFtNFR3YlJ6RXhwNGJ2d08yc19QOUlDYUFFUWs2dUpKTWhOSjY2VWpfS2M1LTlBRzdBcWhJR2RFdDdGSy1oMUY0bzQzd0hacE5hTmYtdzdacm1idU1UMTRwaHEtcWdPcUk5cFlJX0prMmtQM1JJT2JEeWR3VzU3Q2c2MDZBa0ZPUXhramVUaENqQUZTcVdScjZfd2VmNDBhU0hmbHdVdmZfZ1BISlpDRFZCSDdZeGpJQUZtZXltRXhENnUybDNIM2NGdl9RNUJiM0NVS1NzdkZ5amMzeGpFNVY4eGRGbUkxZjNCamtpbHdmWjlKS3Y2dDZibmdYSFhWbmVITUgwU25NdlQ3UzZnUDdKNWczbnlWbEk1SXlPNTk5UjRmU19mTDZ1Tk5nc2NLdDZhcEZxLXg1czJHME4xZllmQ3VtR2k0c01JR3dqbkJJQTl6M05IS3hsd3VOdl9kNjhZaWRyRENJQQ?oc=5",
-      "date": "Mon, 25 May 2026 10:24:23 GMT",
-      "source": "MSN",
-      "score": 3
     },
     {
       "title": "미국 월가 거인이 리플에 2,800억을 조용히 빌려준 진짜 이유 — XRP는 지금 정체성이 바뀌고 있습니다 (리플코인)",
@@ -138,7 +138,7 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xbWdrYmRuRU50cXNqRnFFREtYRlJER1NhaXJSY2l4YThneDdfOFk5SXlhaG5HS1JRaHZMRlZybXVfWTR1QVZzbTYzenJQT1dldzdoSG5uWnE2bS05QVl3MXRlMmRUUWVX?oc=5",
       "date": "Sun, 24 May 2026 23:30:00 GMT",
       "source": "CBC뉴스",
-      "score": 3
+      "score": 4
     },
     {
       "title": "트럼프 핀테크 행정명령, 연준 문턱 낮추나…리플·XRP ‘전례 없는 기회’ 주목",
