@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-25T11:34:16",
+  "generated_at": "2026-05-25T14:39:20",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.36,
-    "price_krw": 2056.36,
-    "price_change_24h": -0.49399,
-    "price_change_7d": -1.48973,
-    "price_change_30d": -5.4075,
-    "market_cap_usd": 83974999878,
+    "price_krw": 2056.55,
+    "price_change_24h": 0.81716,
+    "price_change_7d": -1.98029,
+    "price_change_30d": -4.89932,
+    "market_cap_usd": 84096691582,
     "market_cap_rank": 5,
-    "volume_24h": 1392023054,
+    "volume_24h": 1335428188,
     "circulating_supply": 61858321245.0,
     "total_supply": 99985662685.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 71.21,
-    "sentiment_votes_down": 28.79,
+    "sentiment_votes_up": 78.26,
+    "sentiment_votes_down": 21.74,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 24.77,
-    "recent_tps": 24.77,
-    "recent_tx_count": 2229,
+    "tps_24h_avg": 30.84,
+    "recent_tps": 30.84,
+    "recent_tx_count": 2776,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104469593,
+    "ledger_seq": 104472458,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-25 11:34:06 KST",
+    "updated_at": "2026-05-25 14:39:05 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,6 +92,13 @@
   ],
   "general_news": [
     {
+      "title": "리플 10억XRP 해제 임박…가격 폭락 시작되나",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5YVlQyNmtHSnlqTnhvSm52SDdhVjZoODlfRVJJdERuUUI2Y3pjVDFLV1F6U2JsSU9YRUNEMzlkUk1PWG1zaUZTYmVR?oc=5",
+      "date": "Mon, 25 May 2026 12:03:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
       "title": "리플, 드디어 미국 은행이 쓴다 역대급 호재 터졌는데 왜 가격은 미끄러질까?",
       "url": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxPd2E0NlJpMnotcnBLOXJSNHNEWHoyeVlXUDhHMk8xUFJwOHVuVHFhODRmNHhpQ1VaMWl2djlWbXZOaDhLbkJDNDNzN0NlbjA0ZjZabVVuS2NfVWNLbDdqbjBjbk80R0VpSXJGNEpENC1jRUFtNFR3YlJ6RXhwNGJ2d08yc19QOUlDYUFFUWs2dUpKTWhOSjY2VWpfS2M1LTlBRzdBcWhJR2RFdDdGSy1oMUY0bzQzd0hacE5hTmYtdzdacm1idU1UMTRwaHEtcWdPcUk5cFlJX0prMmtQM1JJT2JEeWR3VzU3Q2c2MDZBa0ZPUXhramVUaENqQUZTcVdScjZfd2VmNDBhU0hmbHdVdmZfZ1BISlpDRFZCSDdZeGpJQUZtZXltRXhENnUybDNIM2NGdl9RNUJiM0NVS1NzdkZ5amMzeGpFNVY4eGRGbUkxZjNCamtpbHdmWjlKS3Y2dDZibmdYSFhWbmVITUgwU25NdlQ3UzZnUDdKNWczbnlWbEk1SXlPNTk5UjRmU19mTDZ1Tk5nc2NLdDZhcEZxLXg1czJHME4xZllmQ3VtR2k0c01JR3dqbkJJQTl6M05IS3hsd3VOdl9kNjhZaWRyRENJQQ?oc=5",
       "date": "Mon, 25 May 2026 10:24:23 GMT",
@@ -113,10 +120,10 @@
       "score": 2
     },
     {
-      "title": "XRP 레저, 결제 30만 건 기습 급증...100만 계정 돌파에도 가격은 '싸늘'",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5Jc2gyUl9VSVNBQV96Y2cwaXl2dmRJZlFtMWRxSVJGVnVJYTI0Z0hlaG5BYTJfUVNDeDJjYzNLR2FzVUdkZURGRXJR?oc=5",
-      "date": "Mon, 25 May 2026 01:30:00 GMT",
-      "source": "코인리더스",
+      "title": "XRP 레저, 차세대 버전 업데이트 예고…보안 인프라 대폭 강화",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORlJXd3oyd01UTkQzSVVnTTFjYy1QRlVXQVJZNm5aWS1wRmd2MU5hWjlaX0FBNHlYZDBYblZ1dkxOMmkxeDROZWswVEhCU3ZYcUtxZk9adW1IYVBEeFFtNThCbVFFU2JSYlJ4Rk1iQkRjeHd6T0VpYmlzQkhJWHl0NjFVN2xyN1N2?oc=5",
+      "date": "Mon, 25 May 2026 02:07:10 GMT",
+      "source": "글로벌이코노믹",
       "score": 2
     },
     {
@@ -125,13 +132,6 @@
       "date": "Sun, 24 May 2026 23:30:00 GMT",
       "source": "CBC뉴스",
       "score": 3
-    },
-    {
-      "title": "암호화폐(코인) 리플, 9일 만에 대형 거래 57.3% 증발... 대체 무슨 일?",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vd1I5UDJfQUxqcm5Jenpjd3NWWUhndzhqWG1iRU1Fd3IxZ1lYTHcweVpDYTVlR2ZjN2VMSWhvY1ZDQmhBYXpTT0VGYkNmZUYwU0F6b2JB?oc=5",
-      "date": "Sun, 24 May 2026 02:51:00 GMT",
-      "source": "위키트리",
-      "score": 2
     },
     {
       "title": "트럼프 핀테크 행정명령, 연준 문턱 낮추나…리플·XRP ‘전례 없는 기회’ 주목",
@@ -149,17 +149,17 @@
     },
     {
       "title": "XRP, 2026년 들어 26% 하락…호재에도 가격은 제자리",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90OXQtX295NUVidWYxY1lMNWlReC1TUU1IaW9nVEhGR2pLa3RDbFhlOHdqQnFYT2dMVThlbXlzd25hSFFPRUxhT2pSMWxnZWFZcExn?oc=5",
-      "date": "Sat, 23 May 2026 12:55:00 GMT",
-      "source": "네이트",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1NamxHT0VCMU5hREFyaFJnSVQ5MzQ1YUppU19LcENSd0xPR3FkRWs5WkZoRVZFZnJLNzE1VVBqcjZRMHN0RnJCVDlRZVNVcVJMbk1NSWZ1U3o1MVppdXRiT1p5TC1ZQXpkSGZ5NVVibkp4QlU?oc=5",
+      "date": "Sat, 23 May 2026 12:53:00 GMT",
+      "source": "디지털투데이",
       "score": 2
     },
     {
-      "title": "리플 스테이블코인 RLUSD 발행 확대…XRPL 유동성 성장 주목",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tZkVJdWt4WVRZTEYtWkpVQy0zUG93SFlQVjdGczMtY0ZtTDBvcDVOYUJCRUNGRnc0a2Z3LS01Sm1Va2g3eUlPeHZ0Ukh3eHdjOHJMNi1sb2o3ZXkzV0dOcFM5UHZmOHfSAWtBVV95cUxQanBxY3ZYd3p3bkVVTHd0UEJtd3hRNmJlVzFaU2I2aHVETGx2OGRzV2dfZllEcy1PVHV6SGx5bHJSZ2plWXF4dzJMbVN6Y3dDbVE0NUp4b0lrTzEtdXgyWHVpVkx0NHVmNDBaUQ?oc=5",
-      "date": "Fri, 22 May 2026 06:13:05 GMT",
-      "source": "비온미디어",
-      "score": 3
+      "title": "코인니스 - 가장 빠르고 정확한 코인 투자 뉴스, 커뮤니티",
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE4xaEg2ZEswRGRFMHA3WVlZMXFhNlBqbHNYSWRMRV8wNjRGVTVIb29WbG1MWmdtZTBJZzBZZ0xB?oc=5",
+      "date": "Fri, 22 May 2026 07:00:00 GMT",
+      "source": "코인니스",
+      "score": 8
     }
   ]
 }
