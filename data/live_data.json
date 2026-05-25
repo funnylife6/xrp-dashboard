@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-05-25T18:57:47",
+  "generated_at": "2026-05-25T20:22:16",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.36,
-    "price_krw": 2052.42,
-    "price_change_24h": 0.82659,
-    "price_change_7d": -1.60259,
-    "price_change_30d": -4.66358,
-    "market_cap_usd": 84008652620,
+    "price_krw": 2053.24,
+    "price_change_24h": 0.963,
+    "price_change_7d": -0.94017,
+    "price_change_30d": -4.388,
+    "market_cap_usd": 83977843172,
     "market_cap_rank": 5,
-    "volume_24h": 1243379338,
+    "volume_24h": 1252686066,
     "circulating_supply": 61858321245.0,
     "total_supply": 99985662685.0,
     "ath_usd": 3.65,
@@ -22,16 +22,16 @@
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 20.49,
-    "recent_tps": 20.49,
-    "recent_tx_count": 1824,
+    "tps_24h_avg": 34.67,
+    "recent_tps": 34.67,
+    "recent_tx_count": 3086,
     "recent_ledger_count": 24,
     "recent_window_sec": 89,
-    "ledger_seq": 104476463,
+    "ledger_seq": 104477776,
     "ledger_close_sec": 0.0,
-    "load_factor": 1.0,
+    "load_factor": 501.44140625,
     "peers": 0,
-    "updated_at": "2026-05-25 18:57:36 KST",
+    "updated_at": "2026-05-25 20:22:05 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -49,7 +49,7 @@
   "etf_news": [
     {
       "title": "리플(XRP) ETF로 6050만달러 몰렸다…비트코인서 빠진 자금 ‘대이동’ 조짐",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MYXRHSXVDaml5Y1R0RU1oYmZxS0pxQzU4UU9NQ2wzSUpKbjJFbU5NZVNWbzhvdFRqbmJZMlAyZ0QxdVN3OVRVbllhT2xfMXFXdHdpSm9MSUg4UjNtMkUyNW9mZEduU3Zq?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45UWJ4WW9lQldOckJqV0JieWFTVEw4azBCNmdwX2p2RGJSR2FldjloaUpIbVlwSTRHdm5nYm56b1ItRjF1MXUxaTBNWk5FcTVldmxmWEp6eTlKMFZzLVJ4OFZoZG4yams?oc=5",
       "date": "Mon, 25 May 2026 15:00:00 GMT",
       "source": "CBC뉴스",
       "score": 0
@@ -83,10 +83,10 @@
       "score": 0
     },
     {
-      "title": "XRP 조정장 끝?…ETF 자금 유입에 낙관론 확산",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CUUxTSlBqYVhYVFFGaXVUX0d3RzdIcFU5b3lRbVVsS2VtMFI0eE95LU9IanVCRDJGdkJIa3dVVHNFNlZfa2REUUtLYjBpNDJFLWs0SWg1aWFKSlRnSGo4eEo3Nk1fQTBzdjBiREc5WUgtQnc?oc=5",
-      "date": "Wed, 13 May 2026 07:00:00 GMT",
-      "source": "디지털투데이",
+      "title": "리플 현물 ETF 자금 유입 '활활'… 누적 13억 5,000만 달러 돌파",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0ZjVKOERCLVp3VElKU0dEdGpRdDdEOEF3RlkzWXV6ZkNvR2pTV21hV1Rwb0c5ZHdINi11M001U3dONmNoRGU4aXhhendkWndvSmxXejN1aDM2MXVZZUxTUlFEQ0NYUlVWY0lPSENB?oc=5",
+      "date": "Tue, 12 May 2026 22:24:24 GMT",
+      "source": "gukjenews.com",
       "score": 0
     }
   ],
@@ -100,7 +100,7 @@
     },
     {
       "title": "리플(XRP) ETF로 6050만달러 몰렸다…비트코인서 빠진 자금 ‘대이동’ 조짐",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MYXRHSXVDaml5Y1R0RU1oYmZxS0pxQzU4UU9NQ2wzSUpKbjJFbU5NZVNWbzhvdFRqbmJZMlAyZ0QxdVN3OVRVbllhT2xfMXFXdHdpSm9MSUg4UjNtMkUyNW9mZEduU3Zq?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45UWJ4WW9lQldOckJqV0JieWFTVEw4azBCNmdwX2p2RGJSR2FldjloaUpIbVlwSTRHdm5nYm56b1ItRjF1MXUxaTBNWk5FcTVldmxmWEp6eTlKMFZzLVJ4OFZoZG4yams?oc=5",
       "date": "Mon, 25 May 2026 15:00:00 GMT",
       "source": "CBC뉴스",
       "score": 3
