@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-25T22:53:47",
+  "generated_at": "2026-05-25T23:59:23",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.35,
-    "price_krw": 2047.53,
-    "price_change_24h": 0.17964,
-    "price_change_7d": -2.46095,
-    "price_change_30d": -5.09826,
-    "market_cap_usd": 83479145058,
+    "price_krw": 2044.78,
+    "price_change_24h": -0.01788,
+    "price_change_7d": -2.83395,
+    "price_change_30d": -5.32365,
+    "market_cap_usd": 83454317233,
     "market_cap_rank": 5,
-    "volume_24h": 1194826283,
+    "volume_24h": 1190559487,
     "circulating_supply": 61858321245.0,
     "total_supply": 99985662685.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 77.94,
-    "sentiment_votes_down": 22.06,
+    "sentiment_votes_up": 76.47,
+    "sentiment_votes_down": 23.53,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 48.39,
-    "recent_tps": 48.39,
-    "recent_tx_count": 4355,
+    "tps_24h_avg": 20.63,
+    "recent_tps": 20.63,
+    "recent_tx_count": 1857,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104480131,
+    "ledger_seq": 104481153,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-25 22:53:38 KST",
+    "updated_at": "2026-05-25 23:59:09 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,18 +92,18 @@
   ],
   "general_news": [
     {
+      "title": "리플, 드디어 미국 은행이 쓴다 역대급 호재 터졌는데 왜 가격은 미끄러질까?",
+      "url": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxPd2E0NlJpMnotcnBLOXJSNHNEWHoyeVlXUDhHMk8xUFJwOHVuVHFhODRmNHhpQ1VaMWl2djlWbXZOaDhLbkJDNDNzN0NlbjA0ZjZabVVuS2NfVWNLbDdqbjBjbk80R0VpSXJGNEpENC1jRUFtNFR3YlJ6RXhwNGJ2d08yc19QOUlDYUFFUWs2dUpKTWhOSjY2VWpfS2M1LTlBRzdBcWhJR2RFdDdGSy1oMUY0bzQzd0hacE5hTmYtdzdacm1idU1UMTRwaHEtcWdPcUk5cFlJX0prMmtQM1JJT2JEeWR3VzU3Q2c2MDZBa0ZPUXhramVUaENqQUZTcVdScjZfd2VmNDBhU0hmbHdVdmZfZ1BISlpDRFZCSDdZeGpJQUZtZXltRXhENnUybDNIM2NGdl9RNUJiM0NVS1NzdkZ5amMzeGpFNVY4eGRGbUkxZjNCamtpbHdmWjlKS3Y2dDZibmdYSFhWbmVITUgwU25NdlQ3UzZnUDdKNWczbnlWbEk1SXlPNTk5UjRmU19mTDZ1Tk5nc2NLdDZhcEZxLXg1czJHME4xZllmQ3VtR2k0c01JR3dqbkJJQTl6M05IS3hsd3VOdl9kNjhZaWRyRENJQQ?oc=5",
+      "date": "Mon, 25 May 2026 22:01:33 GMT",
+      "source": "MSN",
+      "score": 3
+    },
+    {
       "title": "日, 'XRP 현물 ETF' 제도권 진입 속도… \"3조 달러 연기금 등판, 아시아 암호화폐 지형 흔든다“",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcVBkRmJuUzZSaklUS3pwN05kWnBwNXRtS0hLVFp1b0VZdmdPTVo5Q0F3NHJ0b3BwUDl0NGx6SXpZcEtWWmJ3MURqNVBDbnl0b3lEOHZjdDVpVWFLMHNUQ0ZfdnVJOXJ2Y2J0UUJ4VjlNLWpRckwwcGlLRlJZbjdrcW9mT3NTTmlO?oc=5",
       "date": "Mon, 25 May 2026 21:25:37 GMT",
       "source": "글로벌이코노믹",
       "score": 4
-    },
-    {
-      "title": "리플, 드디어 미국 은행이 쓴다 역대급 호재 터졌는데 왜 가격은 미끄러질까?",
-      "url": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxPd2E0NlJpMnotcnBLOXJSNHNEWHoyeVlXUDhHMk8xUFJwOHVuVHFhODRmNHhpQ1VaMWl2djlWbXZOaDhLbkJDNDNzN0NlbjA0ZjZabVVuS2NfVWNLbDdqbjBjbk80R0VpSXJGNEpENC1jRUFtNFR3YlJ6RXhwNGJ2d08yc19QOUlDYUFFUWs2dUpKTWhOSjY2VWpfS2M1LTlBRzdBcWhJR2RFdDdGSy1oMUY0bzQzd0hacE5hTmYtdzdacm1idU1UMTRwaHEtcWdPcUk5cFlJX0prMmtQM1JJT2JEeWR3VzU3Q2c2MDZBa0ZPUXhramVUaENqQUZTcVdScjZfd2VmNDBhU0hmbHdVdmZfZ1BISlpDRFZCSDdZeGpJQUZtZXltRXhENnUybDNIM2NGdl9RNUJiM0NVS1NzdkZ5amMzeGpFNVY4eGRGbUkxZjNCamtpbHdmWjlKS3Y2dDZibmdYSFhWbmVITUgwU25NdlQ3UzZnUDdKNWczbnlWbEk1SXlPNTk5UjRmU19mTDZ1Tk5nc2NLdDZhcEZxLXg1czJHME4xZllmQ3VtR2k0c01JR3dqbkJJQTl6M05IS3hsd3VOdl9kNjhZaWRyRENJQQ?oc=5",
-      "date": "Mon, 25 May 2026 16:31:21 GMT",
-      "source": "MSN",
-      "score": 3
     },
     {
       "title": "리플(XRP) ETF로 6050만달러 몰렸다…비트코인서 빠진 자금 ‘대이동’ 조짐",
