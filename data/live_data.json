@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-26T17:41:33",
+  "generated_at": "2026-05-26T19:59:35",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.33,
-    "price_krw": 2005.94,
-    "price_change_24h": -2.26314,
-    "price_change_7d": -3.04286,
-    "price_change_30d": -6.70243,
-    "market_cap_usd": 82258102455,
+    "price_krw": 2006.42,
+    "price_change_24h": -1.8095,
+    "price_change_7d": -2.28129,
+    "price_change_30d": -6.83028,
+    "market_cap_usd": 82355896931,
     "market_cap_rank": 5,
-    "volume_24h": 1514221628,
+    "volume_24h": 1594772281,
     "circulating_supply": 61858321245.0,
     "total_supply": 99985662685.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 77.78,
-    "sentiment_votes_down": 22.22,
+    "sentiment_votes_up": 74.67,
+    "sentiment_votes_down": 25.33,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 18.99,
-    "recent_tps": 18.99,
-    "recent_tx_count": 1709,
+    "tps_24h_avg": 17.3,
+    "recent_tps": 17.3,
+    "recent_tx_count": 1419,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 104497625,
+    "recent_window_sec": 82,
+    "ledger_seq": 104499783,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-26 17:41:22 KST",
+    "updated_at": "2026-05-26 19:59:27 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,18 +92,18 @@
   ],
   "general_news": [
     {
+      "title": "고래들 왜 갑자기 XRP 빼가나…리플 10억개 해제 앞두고 무슨 일?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5HWl9KZ2VGcVhvSkVfR2UwMGJRVkY3Y0lhaUVNNUNkRnNIVUFTWlExbTBXNHI4U3Q4X3hHVlVWTmtzVlVtUFZMX1N3?oc=5",
+      "date": "Tue, 26 May 2026 12:42:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
       "title": "ETF 폭발적 유입에도 XRP 'FUD 영역' 진입…오히려 역발상 반등 기회 오나",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tVUpwc2ZHXzZUU0xSQll1YURrY0J2UVl3Q0dySndRVGVmSlY0M29kNU5qVEZyLWtsb2MxQXNfeWt3T1hSZEwwek10OUZ3QXpHejVYbjltRDJ0Qk51Ym4td0ExcEtRay1keDBzTHRlV21HRjjSAXdBVV95cUxQWi1kZW50YkJVc0phQS1kWGVnVHZUTXpPLWY1OFM2b2NuZWNvajZPVGpNcU04dE5zZWtYX2NDcDBxNDdYTkVXWmpmWkZxeGJrWHp0dWstV0JYdXFHOGhwZHFUU3VOMThsYmV5TVlNUm90LVQ1Ykwtcw?oc=5",
       "date": "Tue, 26 May 2026 09:25:00 GMT",
       "source": "핀포인트뉴스",
       "score": 2
-    },
-    {
-      "title": "리플(XRP), 1.40달러 상단 고정 압력 커졌다…기관 옵션 베팅 주목",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12ZjVfY1djU1hJbFlxc0pQMnhZXzc3a2hidC1lQmdnTVFVemQ5RXYxaXBtenF2eHVuYTl5UndKN01ReGxxWkVHU2hGSjhxZXowR3NfS0xmS192Uzc3Z1hPbNIBZkFVX3lxTE5FcjVCcDZHQzdZWGpNUHFMUFhpSTh2NEcwNl9YOGZwaDZ2WUV2QTFUM3Q4VWI5UU03dWJyaFJOQ3Uzdi1rZWhFcXJSR1BtS19qRzM3V3dObjAxNG5BYjQ3Unl5RDQ2Zw?oc=5",
-      "date": "Tue, 26 May 2026 08:05:28 GMT",
-      "source": "tokenpost.kr",
-      "score": 3
     },
     {
       "title": "암호화폐(코인) 분석가들 “리플 개발자들 분위기, 예전과 크게 다르다”",
@@ -134,13 +134,6 @@
       "score": 2
     },
     {
-      "title": "XRP, 거래소 유출 300% 급증…차트 하락 신호 막을까",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9qYUtkbm40aml2c1kzU0R6bE52S0NCN0lwOXVKWE5XMWhCcFZWVzhmNXQwTUE2dG5yazBMRTg4al90Sl9BQ2NMTXhTaUtsVE1OY1NnQTc0bWFlNlR3dWhwcXlXR0JBVHQyM0o3T2E4X2szaFU?oc=5",
-      "date": "Tue, 26 May 2026 00:43:00 GMT",
-      "source": "디지털투데이",
-      "score": 2
-    },
-    {
       "title": "리플 창업자 지갑 수개월새 2.5억개 이동",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Lb3ltM1ZHVVV2V1hOTVYtOVBTSjNKajZ5RkZRZ0hzcVlhWFdhSy1EZVNRV0htNE5QVE9LbFF2TmxWVTV3ZHl4dFZvemJIUWhpdzJscGdYV1RMSTVJaXVaOEdMWUpMUWhESFFTeDdTN3A?oc=5",
       "date": "Tue, 26 May 2026 00:42:57 GMT",
@@ -160,6 +153,13 @@
       "date": "Mon, 25 May 2026 15:00:00 GMT",
       "source": "CBC뉴스",
       "score": 3
+    },
+    {
+      "title": "미국 월가 거인이 리플에 2,800억을 조용히 빌려준 진짜 이유 — XRP는 지금 정체성이 바뀌고 있습니다 (리플코인)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTHI5aU1WOEFLOWRUNkE1ZXpUTm51dGxZU2tiQUZzaURpbXo4c2pDMlpqRmpmVV9FQnpmLVZOaTZNNVhqT1dzeGNvc1NmcFNvYlFBOTl3UWxEQ1F3a1V2V0lQTW1MTk5HenlqREdQNU1ramJ1dUo3Um1IUDRsR0J1Q0VkSjlOUGVlR2tBVg?oc=5",
+      "date": "Mon, 25 May 2026 09:53:00 GMT",
+      "source": "네이버 프리미엄콘텐츠",
+      "score": 2
     }
   ]
 }
