@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-26T07:39:03",
+  "generated_at": "2026-05-26T14:12:50",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.34,
-    "price_krw": 2014.94,
-    "price_change_24h": -0.99825,
-    "price_change_7d": -3.23777,
-    "price_change_30d": -6.12411,
-    "market_cap_usd": 82842693191,
+    "price_usd": 1.36,
+    "price_krw": 2040.21,
+    "price_change_24h": -0.17716,
+    "price_change_7d": -1.41858,
+    "price_change_30d": -4.80359,
+    "market_cap_usd": 83804999954,
     "market_cap_rank": 5,
-    "volume_24h": 1261139118,
+    "volume_24h": 1293473825,
     "circulating_supply": 61858321245.0,
     "total_supply": 99985662685.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 80.56,
-    "sentiment_votes_down": 19.44,
+    "sentiment_votes_up": 77.94,
+    "sentiment_votes_down": 22.06,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 27.63,
-    "recent_tps": 27.63,
-    "recent_tx_count": 2487,
+    "tps_24h_avg": 33.77,
+    "recent_tps": 33.77,
+    "recent_tx_count": 3039,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104488295,
+    "ledger_seq": 104494395,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-26 07:38:55 KST",
+    "updated_at": "2026-05-26 14:12:40 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -47,6 +47,13 @@
     "data_source": "news_parse"
   },
   "etf_news": [
+    {
+      "title": "ETF 폭발적 유입에도 XRP 'FUD 영역' 진입…오히려 역발상 반등 기회 오나",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tVUpwc2ZHXzZUU0xSQll1YURrY0J2UVl3Q0dySndRVGVmSlY0M29kNU5qVEZyLWtsb2MxQXNfeWt3T1hSZEwwek10OUZ3QXpHejVYbjltRDJ0Qk51Ym4td0ExcEtRay1keDBzTHRlV21HRjjSAXdBVV95cUxQWi1kZW50YkJVc0phQS1kWGVnVHZUTXpPLWY1OFM2b2NuZWNvajZPVGpNcU04dE5zZWtYX2NDcDBxNDdYTkVXWmpmWkZxeGJrWHp0dWstV0JYdXFHOGhwZHFUU3VOMThsYmV5TVlNUm90LVQ1Ykwtcw?oc=5",
+      "date": "Tue, 26 May 2026 09:25:00 GMT",
+      "source": "핀포인트뉴스",
+      "score": 0
+    },
     {
       "title": "\"아시아발 핵폭풍\" 日, XRP 현물 ETF 출시 가능성…3조달러 연기금 온다",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE83RGN5b2E4R3BDbmRPNWNwZFo3cjFkR0NzUzNheEtFTDJUTjVqT3Q0SHBYbGlGVkxZeUdGUnRjUGoxZDl6ZTVpU2tGLXN4eTNvWlk4RkctZFI1cEJnRVlMTkFOblBidEtSUGV5bDhPVlp2aDA?oc=5",
@@ -81,21 +88,21 @@
       "date": "Wed, 20 May 2026 05:52:55 GMT",
       "source": "글로벌이코노믹",
       "score": 0
-    },
-    {
-      "title": "[XRP 뉴스] 리플 ETF 수요 약화에 투자자 의견 엇갈려… 27달러 현실성은?",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObzR4UURvdU5QWk5LSHZST1JpYzVqNGkta0cyN3ZFekZFT0Z1bkJEbGhwV1VMNmhJUGJOcVpBa2diSUZpdHQ2ZWxCT1BaRUI3RWtrQ1o1cnBOUkZodFJuV1hxdWVhRUctLTFDdDZPVHBLdm5iT3BjNzlfU3BoQmFqMXVYWTR6WUZsZ0JsYVdsQXlhaWhjWXdFSXlfSDhYTXlIZ0NYR0hoU0ZRSG9IVTlDRw?oc=5",
-      "date": "Wed, 20 May 2026 02:37:12 GMT",
-      "source": "Cryptonews",
-      "score": 0
     }
   ],
   "general_news": [
     {
-      "title": "암호화폐(코인) 분석가들 “리플 개발자들 분위기, 예전과 크게 다르다”",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tdnlteWMxQUo1MHpmelBTWnNaS01rcDl3RnRnZFdJclpmN1B0aUJibk1oM2wycU5XczZGc1ZxYmdqQ1g3VGNSY2hlQUxmR05ZSUVSVHZn?oc=5",
-      "date": "Tue, 26 May 2026 06:03:00 GMT",
-      "source": "위키트리",
+      "title": "\"겁먹은 투자자들 다 털렸다\"...샌티먼트, XRP 3주 최대 FUD 속 매수 신호 포착",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5HMEZMTTdoSkVRZUpzUEhiU2JxNUJnT3ZCaHVleUdmSl9YUW1YZDhjSTMtcDdLQUtReDVXczR0a1JfTlRsd21zLXF3?oc=5",
+      "date": "Tue, 26 May 2026 10:45:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
+      "title": "ETF 폭발적 유입에도 XRP 'FUD 영역' 진입…오히려 역발상 반등 기회 오나",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tVUpwc2ZHXzZUU0xSQll1YURrY0J2UVl3Q0dySndRVGVmSlY0M29kNU5qVEZyLWtsb2MxQXNfeWt3T1hSZEwwek10OUZ3QXpHejVYbjltRDJ0Qk51Ym4td0ExcEtRay1keDBzTHRlV21HRjjSAXdBVV95cUxQWi1kZW50YkJVc0phQS1kWGVnVHZUTXpPLWY1OFM2b2NuZWNvajZPVGpNcU04dE5zZWtYX2NDcDBxNDdYTkVXWmpmWkZxeGJrWHp0dWstV0JYdXFHOGhwZHFUU3VOMThsYmV5TVlNUm90LVQ1Ykwtcw?oc=5",
+      "date": "Tue, 26 May 2026 09:25:00 GMT",
+      "source": "핀포인트뉴스",
       "score": 2
     },
     {
@@ -120,25 +127,11 @@
       "score": 2
     },
     {
-      "title": "XRP, 거래소 유출 300% 급증…차트 하락 신호 막을까",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9qYUtkbm40aml2c1kzU0R6bE52S0NCN0lwOXVKWE5XMWhCcFZWVzhmNXQwTUE2dG5yazBMRTg4al90Sl9BQ2NMTXhTaUtsVE1OY1NnQTc0bWFlNlR3dWhwcXlXR0JBVHQyM0o3T2E4X2szaFU?oc=5",
-      "date": "Tue, 26 May 2026 00:43:00 GMT",
-      "source": "디지털투데이",
-      "score": 2
-    },
-    {
       "title": "리플 창업자 지갑 수개월새 2.5억개 이동",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Lb3ltM1ZHVVV2V1hOTVYtOVBTSjNKajZ5RkZRZ0hzcVlhWFdhSy1EZVNRV0htNE5QVE9LbFF2TmxWVTV3ZHl4dFZvemJIUWhpdzJscGdYV1RMSTVJaXVaOEdMWUpMUWhESFFTeDdTN3A?oc=5",
       "date": "Tue, 26 May 2026 00:42:57 GMT",
       "source": "블록체인투데이",
       "score": 2
-    },
-    {
-      "title": "리플, 드디어 미국 은행이 쓴다 역대급 호재 터졌는데 왜 가격은 미끄러질까?",
-      "url": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxPd2E0NlJpMnotcnBLOXJSNHNEWHoyeVlXUDhHMk8xUFJwOHVuVHFhODRmNHhpQ1VaMWl2djlWbXZOaDhLbkJDNDNzN0NlbjA0ZjZabVVuS2NfVWNLbDdqbjBjbk80R0VpSXJGNEpENC1jRUFtNFR3YlJ6RXhwNGJ2d08yc19QOUlDYUFFUWs2dUpKTWhOSjY2VWpfS2M1LTlBRzdBcWhJR2RFdDdGSy1oMUY0bzQzd0hacE5hTmYtdzdacm1idU1UMTRwaHEtcWdPcUk5cFlJX0prMmtQM1JJT2JEeWR3VzU3Q2c2MDZBa0ZPUXhramVUaENqQUZTcVdScjZfd2VmNDBhU0hmbHdVdmZfZ1BISlpDRFZCSDdZeGpJQUZtZXltRXhENnUybDNIM2NGdl9RNUJiM0NVS1NzdkZ5amMzeGpFNVY4eGRGbUkxZjNCamtpbHdmWjlKS3Y2dDZibmdYSFhWbmVITUgwU25NdlQ3UzZnUDdKNWczbnlWbEk1SXlPNTk5UjRmU19mTDZ1Tk5nc2NLdDZhcEZxLXg1czJHME4xZllmQ3VtR2k0c01JR3dqbkJJQTl6M05IS3hsd3VOdl9kNjhZaWRyRENJQQ?oc=5",
-      "date": "Mon, 25 May 2026 22:01:33 GMT",
-      "source": "MSN",
-      "score": 3
     },
     {
       "title": "日, 'XRP 현물 ETF' 제도권 진입 속도… \"3조 달러 연기금 등판, 아시아 암호화폐 지형 흔든다“",
@@ -159,6 +152,13 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTHI5aU1WOEFLOWRUNkE1ZXpUTm51dGxZU2tiQUZzaURpbXo4c2pDMlpqRmpmVV9FQnpmLVZOaTZNNVhqT1dzeGNvc1NmcFNvYlFBOTl3UWxEQ1F3a1V2V0lQTW1MTk5HenlqREdQNU1ramJ1dUo3Um1IUDRsR0J1Q0VkSjlOUGVlR2tBVg?oc=5",
       "date": "Mon, 25 May 2026 09:53:00 GMT",
       "source": "네이버 프리미엄콘텐츠",
+      "score": 2
+    },
+    {
+      "title": "리플 전 CTO, 370만 비트코인 소송 조롱",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ3hvaktoOEFBRVpPaVA1Uk1PSkpKVmRnOF9DbXBNcHpnVXJlYWFnWDZoSWVqTDZrZlZvbFdYMmc4dm1UX2FPdkN5VEtENXZOblhfNmtqVjVrRzZtNEFlOXFrdFpSSno0Mm9TdWpTTnBBbUpFa0c0bjhlU1k4SElFQkJHMA?oc=5",
+      "date": "Mon, 25 May 2026 08:32:08 GMT",
+      "source": "BeInCrypto",
       "score": 2
     }
   ]
