@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-28T17:58:37",
+  "generated_at": "2026-05-28T20:24:23",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.32,
-    "price_krw": 1976.74,
-    "price_change_24h": 0.25793,
-    "price_change_7d": -2.65614,
-    "price_change_30d": -3.73485,
-    "market_cap_usd": 81948708316,
+    "price_krw": 1970.34,
+    "price_change_24h": -0.98352,
+    "price_change_7d": -4.38555,
+    "price_change_30d": -4.73013,
+    "market_cap_usd": 81557502975,
     "market_cap_rank": 5,
-    "volume_24h": 2408650549,
+    "volume_24h": 2484543869,
     "circulating_supply": 61908311628.0,
     "total_supply": 99985659492.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 70.3,
-    "sentiment_votes_down": 29.7,
+    "sentiment_votes_up": 71.7,
+    "sentiment_votes_down": 28.3,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 32.1,
-    "recent_tps": 32.1,
-    "recent_tx_count": 2632,
+    "tps_24h_avg": 25.24,
+    "recent_tps": 25.24,
+    "recent_tx_count": 2272,
     "recent_ledger_count": 24,
-    "recent_window_sec": 82,
-    "ledger_seq": 104542582,
+    "recent_window_sec": 90,
+    "ledger_seq": 104544836,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-28 17:58:31 KST",
+    "updated_at": "2026-05-28 20:24:13 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -47,6 +47,13 @@
     "data_source": "news_parse"
   },
   "etf_news": [
+    {
+      "title": "미 현물 XRP ETF에만 13억 달러 뭉칫돈…월가 기관들, 리플 ‘헐값 매수’ 나섰나",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9JN3FPNndvLXBTUWdJckw4dmdXUHdsbmR1R1FwLWRkOFk3dGp2Y21lcktZTTd1bFZIdHczNFRCZUlGcUZqZDFoMk4wSno2Ymx1ZG1Ha0hQaWlzRW5TNzZxUWtGNjlveTJOZW1aMU5oQnFWaGPSAXdBVV95cUxQbmZiQkdLTW1lZ2lQU2RBWl9IdlJOWmpSSDk2RTR1bENVdHdqQndya2tLaW9La1dMWFNGbEoxa0w3cFQ0SFBkeUY1NzRvemFKdmlyTFlyN2ozRlVqZ1FfWXhlTVBnR3F0RUJOU2NrbGhQdmdhZTllTQ?oc=5",
+      "date": "Thu, 28 May 2026 19:57:42 GMT",
+      "source": "핀포인트뉴스",
+      "score": 0
+    },
     {
       "title": "XRP, ETF 순유입 최대에도 5월 6% 하락…6월 분기점은 1.26달러",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBGZ2V0Tlktdkk4RGFJdDh4QVdEdjlDWUVwLVRqdmJHSUxIVzRTN0lJelBIa1hXZWVwem5GeGhKS0VyQ0FzQ0tPY2F6LXVha1BPRy1MeWRueXpQdS1DbDRaUTVoRm5GckYwMmFuQUJTUVloR1k?oc=5",
@@ -81,16 +88,16 @@
       "date": "Mon, 25 May 2026 15:00:00 GMT",
       "source": "CBC뉴스",
       "score": 0
-    },
-    {
-      "title": "“조용한 매집 시작됐나”…리플XRP ETF 자금 유입 급증",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMcVpmMklGTG85cVF4UnFoZW5mOHBmRDgtNVd1cVhUcUk0OEJwM3JrZ09hQnBTZTAwR3haY3NVNlZmeEZqcXZLbjNZaEFnU1VtSzNIbWFpS1lhSk9weWd0NVhOVFcxeW01?oc=5",
-      "date": "Sun, 17 May 2026 03:35:00 GMT",
-      "source": "CBC뉴스",
-      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "미 현물 XRP ETF에만 13억 달러 뭉칫돈…월가 기관들, 리플 ‘헐값 매수’ 나섰나",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9JN3FPNndvLXBTUWdJckw4dmdXUHdsbmR1R1FwLWRkOFk3dGp2Y21lcktZTTd1bFZIdHczNFRCZUlGcUZqZDFoMk4wSno2Ymx1ZG1Ha0hQaWlzRW5TNzZxUWtGNjlveTJOZW1aMU5oQnFWaGPSAXdBVV95cUxQbmZiQkdLTW1lZ2lQU2RBWl9IdlJOWmpSSDk2RTR1bENVdHdqQndya2tLaW9La1dMWFNGbEoxa0w3cFQ0SFBkeUY1NzRvemFKdmlyTFlyN2ozRlVqZ1FfWXhlTVBnR3F0RUJOU2NrbGhQdmdhZTllTQ?oc=5",
+      "date": "Thu, 28 May 2026 19:57:42 GMT",
+      "source": "핀포인트뉴스",
+      "score": 5
+    },
     {
       "title": "트럼프 친암호화폐 선언에 리플 CEO 화답…XRP 규제 전쟁 끝났나",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fUW9HbnVfODVxM3dhelJiNHJibEdmeVROek5MNWdpaklxcWVxLVc0bzhHWVRsUDk4SjdWZ3l5YWtxUzRLWDRzSHpkejg5XzJmNUIxNDg4cW9xR3Y2eU9yddIBZkFVX3lxTE53WnU0QktyZHNEVXQtZ2l6SDd5WU12aTVqcFVIcXRnQ2Q2WVlDeFBnZE1BNU5ZWHpXQjQySnBOal9KcC01REtjelhmdHQ3X3JTeWUtV01rWmFoYllDNmZRSTU2LTdlUQ?oc=5",
@@ -120,18 +127,25 @@
       "score": 2
     },
     {
-      "title": "수천억 피 흘리는 비트코인·이더리움… 독야청청 리플 ETF로 자금 대이동 시작",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE00ZnJWUGJEalJrcGZEU0lCYVRiQloxSVktRDVxX2M5QlYwc0hRLUZXRGJjRTh1ck1HSGItRXpiU0V3RmgwbkNaenFLdHZVS1A0V25ERExlcjM0V09uTWFpWmx5XzZwUkFZVjR5N0dFampSVmfSAXdBVV95cUxOenkzRF9FMVhXS1F6aWN5d1JpSGp5ODFjV0NJYzN1NWZ4TGtmM3VGQzFaVnNWMWVIMjRRcHhCdWRIczJjWkllem5vX3ZLWmpLdWxlaXZqV0F1SmJabEIwaHBTbmV3Vmd4czFIcUhlTFdGbFRFX29XRQ?oc=5",
-      "date": "Wed, 27 May 2026 23:11:41 GMT",
-      "source": "핀포인트뉴스",
-      "score": 3
-    },
-    {
       "title": "머스크가 던진 18,712개의 비트코인 — XRP로 향하는 월가 자금의 진짜 정체 (리플코인)",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUTlCZU1lRGxLbnJZRV90bm5Ic3djbkN6Qk9nZWpwY2hwZGFpdllZOWdiVU5OWVM4ekh4Y1ZDYVlJajFYWXB3d0N2bEp6dkRhTzR6V3BzWFJ5TFI1V1BsNFB5MGhmSms0a0Y0eElPaWlwb2xkSXYxV3o5SFlMZ0d2akdqdHFfRDVkRE9wVw?oc=5",
       "date": "Wed, 27 May 2026 05:08:00 GMT",
       "source": "네이버 프리미엄콘텐츠",
       "score": 2
+    },
+    {
+      "title": "월드코인·비트코인·리플XRP 혼조…거래대금 36% 급증 속 AI훈풍 관망세",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2UlBoeklPdXRGMEpZTnVTUmlHLXdZVU5MRndyT0lIeWxnaWIzQnhVTnVuVkFQU25jT1pFcGNfNXdSNEZwRWpHWWRTSHB1cnZuUm11ajlQQlYtWFA0MXBYTlJKMDBDdFRTS2xLN3NnRFdNdw?oc=5",
+      "date": "Tue, 26 May 2026 21:45:47 GMT",
+      "source": "톱스타뉴스",
+      "score": 2
+    },
+    {
+      "title": "코인니스 - 가장 빠르고 정확한 코인 투자 뉴스, 커뮤니티",
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE4xaEg2ZEswRGRFMHA3WVlZMXFhNlBqbHNYSWRMRV8wNjRGVTVIb29WbG1MWmdtZTBJZzBZZ0xB?oc=5",
+      "date": "Tue, 26 May 2026 07:00:00 GMT",
+      "source": "코인니스",
+      "score": 8
     },
     {
       "title": "러시아, SWIFT 퇴출 대안 XRP 결제망 가동 시사...금까지 대량 매도",
@@ -141,25 +155,11 @@
       "score": 2
     },
     {
-      "title": "XRP, 거래소 유출 300% 급증…차트 하락 신호 막을까",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9qYUtkbm40aml2c1kzU0R6bE52S0NCN0lwOXVKWE5XMWhCcFZWVzhmNXQwTUE2dG5yazBMRTg4al90Sl9BQ2NMTXhTaUtsVE1OY1NnQTc0bWFlNlR3dWhwcXlXR0JBVHQyM0o3T2E4X2szaFU?oc=5",
-      "date": "Tue, 26 May 2026 00:43:00 GMT",
-      "source": "디지털투데이",
-      "score": 2
-    },
-    {
       "title": "日, 'XRP 현물 ETF' 제도권 진입 속도… \"3조 달러 연기금 등판, 아시아 암호화폐 지형 흔든다“",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcVBkRmJuUzZSaklUS3pwN05kWnBwNXRtS0hLVFp1b0VZdmdPTVo5Q0F3NHJ0b3BwUDl0NGx6SXpZcEtWWmJ3MURqNVBDbnl0b3lEOHZjdDVpVWFLMHNUQ0ZfdnVJOXJ2Y2J0UUJ4VjlNLWpRckwwcGlLRlJZbjdrcW9mT3NTTmlO?oc=5",
       "date": "Mon, 25 May 2026 21:25:37 GMT",
       "source": "글로벌이코노믹",
       "score": 4
-    },
-    {
-      "title": "리플(XRP) ETF로 6050만달러 몰렸다…비트코인서 빠진 자금 ‘대이동’ 조짐",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MYXRHSXVDaml5Y1R0RU1oYmZxS0pxQzU4UU9NQ2wzSUpKbjJFbU5NZVNWbzhvdFRqbmJZMlAyZ0QxdVN3OVRVbllhT2xfMXFXdHdpSm9MSUg4UjNtMkUyNW9mZEduU3Zq?oc=5",
-      "date": "Mon, 25 May 2026 15:00:00 GMT",
-      "source": "CBC뉴스",
-      "score": 3
     }
   ]
 }
