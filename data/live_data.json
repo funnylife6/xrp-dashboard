@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-28T02:29:06",
+  "generated_at": "2026-05-28T06:37:21",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.3,
-    "price_krw": 1960.94,
-    "price_change_24h": -1.8313,
-    "price_change_7d": -5.39224,
-    "price_change_30d": -6.82526,
-    "market_cap_usd": 80626007850,
+    "price_usd": 1.28,
+    "price_krw": 1924.28,
+    "price_change_24h": -3.85218,
+    "price_change_7d": -6.72223,
+    "price_change_30d": -8.11094,
+    "market_cap_usd": 79348079286,
     "market_cap_rank": 5,
-    "volume_24h": 1773639005,
+    "volume_24h": 2163535401,
     "circulating_supply": 61908311628.0,
     "total_supply": 99985659492.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 79.75,
-    "sentiment_votes_down": 20.25,
+    "sentiment_votes_up": 75.58,
+    "sentiment_votes_down": 24.42,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 21.43,
-    "recent_tps": 21.43,
-    "recent_tx_count": 1929,
+    "tps_24h_avg": 20.02,
+    "recent_tps": 20.02,
+    "recent_tx_count": 1782,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 104528183,
+    "recent_window_sec": 89,
+    "ledger_seq": 104532028,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-28 02:28:59 KST",
+    "updated_at": "2026-05-28 06:37:08 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,11 +92,11 @@
   ],
   "general_news": [
     {
-      "title": "美 상원의원 \"리플 은행 인가는 불법\" 주장...XRP, 규제 폭탄 맞나?",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE16MG1ZTmE4RWg4dFRoYmlvSnJ6VFdpLVRibDBoZHRRU3Bsa3BOVkZTLTFGNUg3dEdXVzRPb3ROUXZJcl9WcGcwUU1n?oc=5",
-      "date": "Thu, 28 May 2026 01:11:00 GMT",
+      "title": "스텔라 호재가 XRP 악재?...리플 진영, '다중 체인' 내세워 반격",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1FeGt0TGtZU1ZTOEoyU1ZwbGhERUhKczFDWUlGOHJyeG0tZXFlaUppWTNvUE1IQ3FBMjMtbjRFaV9VT0xBRGFEWUl3?oc=5",
+      "date": "Thu, 28 May 2026 05:31:00 GMT",
       "source": "코인리더스",
-      "score": 3
+      "score": 2
     },
     {
       "title": "수천억 피 흘리는 비트코인·이더리움… 독야청청 리플 ETF로 자금 대이동 시작",
@@ -127,10 +127,10 @@
       "score": 2
     },
     {
-      "title": "XRP레저, 대규모 시스템 업그레이드… ‘NFT 정크’ 지우고 핵심 버그 잡는다",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1nRnNGMHZ3UWw0ZjhTM0FaZk5yRFVkMTZVV25PZnI4TDFES0lNVXVJVFdJWkwwOW9Nbmg3WDJZR1pMYkVfNjVoeWxSZmVGRHR1?oc=5",
-      "date": "Wed, 27 May 2026 02:11:00 GMT",
-      "source": "블록미디어",
+      "title": "XRP 레저 업데이트, 높은 관심…가격 변동 없다",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4teWFZR3RMQXZZd2NmNlB3UzdNQmkwQm5aUnlobzE4VnJrRVVjLW9QWDNrQjJ6OUV6U2ZQN0x2NHpnTU40a2xPRTh2eGpDU21VeHRHRWxSdUNDUmE3Mmgza0tBRG80eTRfVHpaWUJ1cWZCc0F6MUE?oc=5",
+      "date": "Tue, 26 May 2026 23:47:32 GMT",
+      "source": "BeInCrypto",
       "score": 2
     },
     {
@@ -148,11 +148,11 @@
       "score": 2
     },
     {
-      "title": "한탄 좀 하겠습니다",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9zMHB4MjFPdVJTTzB2TU9pOWE1Q0VOOGdTMzdPNFE4VTE5THBDQ1ZZQ2s1Szg4SzVjc2gtdzZVbkVNMXUtNS1XU2REcU5aNnprMXQ2RUNrNTE?oc=5",
-      "date": "Tue, 26 May 2026 03:09:03 GMT",
-      "source": "코인니스",
-      "score": 8
+      "title": "日, 'XRP 현물 ETF' 제도권 진입 속도… \"3조 달러 연기금 등판, 아시아 암호화폐 지형 흔든다“",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcVBkRmJuUzZSaklUS3pwN05kWnBwNXRtS0hLVFp1b0VZdmdPTVo5Q0F3NHJ0b3BwUDl0NGx6SXpZcEtWWmJ3MURqNVBDbnl0b3lEOHZjdDVpVWFLMHNUQ0ZfdnVJOXJ2Y2J0UUJ4VjlNLWpRckwwcGlLRlJZbjdrcW9mT3NTTmlO?oc=5",
+      "date": "Mon, 25 May 2026 21:25:37 GMT",
+      "source": "글로벌이코노믹",
+      "score": 4
     },
     {
       "title": "리플(XRP) ETF로 6050만달러 몰렸다…비트코인서 빠진 자금 ‘대이동’ 조짐",
