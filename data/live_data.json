@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-28T14:32:02",
+  "generated_at": "2026-05-28T17:58:37",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.3,
-    "price_krw": 1940.73,
-    "price_change_24h": -1.6491,
-    "price_change_7d": -4.72484,
-    "price_change_30d": -5.73028,
-    "market_cap_usd": 80547694213,
+    "price_usd": 1.32,
+    "price_krw": 1976.74,
+    "price_change_24h": 0.25793,
+    "price_change_7d": -2.65614,
+    "price_change_30d": -3.73485,
+    "market_cap_usd": 81948708316,
     "market_cap_rank": 5,
-    "volume_24h": 2129371624,
+    "volume_24h": 2408650549,
     "circulating_supply": 61908311628.0,
     "total_supply": 99985659492.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 71.57,
-    "sentiment_votes_down": 28.43,
+    "sentiment_votes_up": 70.3,
+    "sentiment_votes_down": 29.7,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 35.66,
-    "recent_tps": 35.66,
-    "recent_tx_count": 2924,
+    "tps_24h_avg": 32.1,
+    "recent_tps": 32.1,
+    "recent_tx_count": 2632,
     "recent_ledger_count": 24,
     "recent_window_sec": 82,
-    "ledger_seq": 104539383,
+    "ledger_seq": 104542582,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-28 14:31:57 KST",
+    "updated_at": "2026-05-28 17:58:31 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,6 +92,13 @@
   ],
   "general_news": [
     {
+      "title": "트럼프 친암호화폐 선언에 리플 CEO 화답…XRP 규제 전쟁 끝났나",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fUW9HbnVfODVxM3dhelJiNHJibEdmeVROek5MNWdpaklxcWVxLVc0bzhHWVRsUDk4SjdWZ3l5YWtxUzRLWDRzSHpkejg5XzJmNUIxNDg4cW9xR3Y2eU9yddIBZkFVX3lxTE53WnU0QktyZHNEVXQtZ2l6SDd5WU12aTVqcFVIcXRnQ2Q2WVlDeFBnZE1BNU5ZWHpXQjQySnBOal9KcC01REtjelhmdHQ3X3JTeWUtV01rWmFoYllDNmZRSTU2LTdlUQ?oc=5",
+      "date": "Thu, 28 May 2026 16:35:41 GMT",
+      "source": "tokenpost.kr",
+      "score": 2
+    },
+    {
       "title": "리플, SEC에 사실상 최후통첩?...RLUSD 0% 헤어컷·XRP '동등 대우' 요구",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA4Ykd4b1RBUVRacnVHclZDb1lVaFBNWlIwb01rUWktZVh4UWhYbXZlRUxVWmNualFLeFFPaGRGVDY4ZmZZWENoZ0dn?oc=5",
       "date": "Thu, 28 May 2026 09:10:00 GMT",
@@ -113,25 +120,11 @@
       "score": 2
     },
     {
-      "title": "美 상원의원 \"리플 은행 인가는 불법\" 주장...XRP, 규제 폭탄 맞나?",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE16MG1ZTmE4RWg4dFRoYmlvSnJ6VFdpLVRibDBoZHRRU3Bsa3BOVkZTLTFGNUg3dEdXVzRPb3ROUXZJcl9WcGcwUU1n?oc=5",
-      "date": "Thu, 28 May 2026 01:11:00 GMT",
-      "source": "코인리더스",
-      "score": 3
-    },
-    {
       "title": "수천억 피 흘리는 비트코인·이더리움… 독야청청 리플 ETF로 자금 대이동 시작",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE00ZnJWUGJEalJrcGZEU0lCYVRiQloxSVktRDVxX2M5QlYwc0hRLUZXRGJjRTh1ck1HSGItRXpiU0V3RmgwbkNaenFLdHZVS1A0V25ERExlcjM0V09uTWFpWmx5XzZwUkFZVjR5N0dFampSVmfSAXdBVV95cUxOenkzRF9FMVhXS1F6aWN5d1JpSGp5ODFjV0NJYzN1NWZ4TGtmM3VGQzFaVnNWMWVIMjRRcHhCdWRIczJjWkllem5vX3ZLWmpLdWxlaXZqV0F1SmJabEIwaHBTbmV3Vmd4czFIcUhlTFdGbFRFX29XRQ?oc=5",
       "date": "Wed, 27 May 2026 23:11:41 GMT",
       "source": "핀포인트뉴스",
       "score": 3
-    },
-    {
-      "title": "리플, 미 연준 마스터 계좌 문턱 낮아지나…XRP 기대감 확산",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1acEYzdjZPemNaQVVGRnI5YmFYcDQybU1INjgwUGxGaS1XY2NfbVAzeTJiQ254NVlyQVUtclhicTgxSWF1UHkzOFJpX2V6RWxGU25XMXVUX3BrSDZnZ0R3dtIBZkFVX3lxTE9zdkptc2kwQ3cyV0gxaEc3MVB3WTVaSU9IeG1CRE9UUnVLanNidmFsNDhDV3Z5bzVpTWphOHhyUmpmSHRxaF9FSXdQRl9MS1IyQ1dvUGI3Z01aaUtOMS0weXJ2UVpOQQ?oc=5",
-      "date": "Wed, 27 May 2026 12:11:01 GMT",
-      "source": "tokenpost.kr",
-      "score": 2
     },
     {
       "title": "머스크가 던진 18,712개의 비트코인 — XRP로 향하는 월가 자금의 진짜 정체 (리플코인)",
@@ -141,17 +134,17 @@
       "score": 2
     },
     {
-      "title": "코인니스 - 가장 빠르고 정확한 코인 투자 뉴스, 커뮤니티",
-      "url": "https://news.google.com/rss/articles/CBMiOEFVX3lxTFBEaHNPZ0FXcVNyMXRsSDVldFhzQXJMUFlfNlZfc015dnRHWElSLUpkRXNfeExNWUFi?oc=5",
-      "date": "Tue, 26 May 2026 07:00:00 GMT",
-      "source": "코인니스",
-      "score": 8
-    },
-    {
       "title": "러시아, SWIFT 퇴출 대안 XRP 결제망 가동 시사...금까지 대량 매도",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ3R1YW1kd2dOYjloUzBacVNwYWVpTGxpUGVXS2Q3NXR4MVI2VWlTaC0yVlNCVTdTc1VmdVRDQktNNk5CLTZVRVd5MlRqX3NKQ1hZTEs4c0x3bjhJVUY1RmRCWXVOQXB1RE1XX3duU01ibU9MMGRMRUFFeDhuTkdEVlpJSFZIblRZ?oc=5",
       "date": "Tue, 26 May 2026 02:13:48 GMT",
       "source": "글로벌이코노믹",
+      "score": 2
+    },
+    {
+      "title": "XRP, 거래소 유출 300% 급증…차트 하락 신호 막을까",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9qYUtkbm40aml2c1kzU0R6bE52S0NCN0lwOXVKWE5XMWhCcFZWVzhmNXQwTUE2dG5yazBMRTg4al90Sl9BQ2NMTXhTaUtsVE1OY1NnQTc0bWFlNlR3dWhwcXlXR0JBVHQyM0o3T2E4X2szaFU?oc=5",
+      "date": "Tue, 26 May 2026 00:43:00 GMT",
+      "source": "디지털투데이",
       "score": 2
     },
     {
@@ -160,6 +153,13 @@
       "date": "Mon, 25 May 2026 21:25:37 GMT",
       "source": "글로벌이코노믹",
       "score": 4
+    },
+    {
+      "title": "리플(XRP) ETF로 6050만달러 몰렸다…비트코인서 빠진 자금 ‘대이동’ 조짐",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MYXRHSXVDaml5Y1R0RU1oYmZxS0pxQzU4UU9NQ2wzSUpKbjJFbU5NZVNWbzhvdFRqbmJZMlAyZ0QxdVN3OVRVbllhT2xfMXFXdHdpSm9MSUg4UjNtMkUyNW9mZEduU3Zq?oc=5",
+      "date": "Mon, 25 May 2026 15:00:00 GMT",
+      "source": "CBC뉴스",
+      "score": 3
     }
   ]
 }
