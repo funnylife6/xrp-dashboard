@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-29T17:29:04",
+  "generated_at": "2026-05-29T19:53:53",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.33,
-    "price_krw": 1999.06,
-    "price_change_24h": 0.55084,
-    "price_change_7d": -1.8214,
-    "price_change_30d": -2.3623,
-    "market_cap_usd": 82343435802,
+    "price_usd": 1.32,
+    "price_krw": 1989.1,
+    "price_change_24h": 0.13352,
+    "price_change_7d": -1.87587,
+    "price_change_30d": -2.65456,
+    "market_cap_usd": 81828884509,
     "market_cap_rank": 5,
-    "volume_24h": 1965424824,
+    "volume_24h": 1947985937,
     "circulating_supply": 61977843307.0,
     "total_supply": 99985656462.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 72.37,
-    "sentiment_votes_down": 27.63,
+    "sentiment_votes_up": 73.24,
+    "sentiment_votes_down": 26.76,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 29.43,
-    "recent_tps": 29.43,
-    "recent_tx_count": 2649,
+    "tps_24h_avg": 34.64,
+    "recent_tps": 34.64,
+    "recent_tx_count": 3083,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 104564448,
+    "recent_window_sec": 89,
+    "ledger_seq": 104566695,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-29 17:28:56 KST",
+    "updated_at": "2026-05-29 19:53:44 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 1770000,
     "total_net_inflow_usd": 1770000,
     "total_value_traded_usd": 1770000,
-    "updated_at": "SoSoValue 순유입 부분 수집 05/29 17:29",
+    "updated_at": "SoSoValue 순유입 부분 수집 05/29 19:53",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -100,11 +100,11 @@
       "score": 2
     },
     {
-      "title": "\"개미들 탈출해야 하나\" ETH·XRP 나란히 하락…여름까지 지옥 장세 예고",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9QU25YZThiOTVOelhfUHJXRlZKVTAtNGlpNUxwSUtYMXZJaWpLbFJvTmVDVXJEM2puOS1iS1R1SkVuMHVOVXNzMTdvOUhCU2QwejJLM2MxU09UVlRsWDF4eFZ4QTcwOEJFMEgycVNLQ2ZWZXM?oc=5",
-      "date": "Fri, 29 May 2026 10:05:23 GMT",
-      "source": "핀포인트뉴스",
-      "score": 2
+      "title": "XRP 가격은 제자리인데…ETF·고래·기관 지표 '최고치'",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5LOU9hVnlEcXJaUFlJYUdRV0ZZUUtudDZSVUxvMjZRRDB5dlo3bWd1R0p6WHdHam9WbjFaT3NCbHBMNE10VXh1SHRjT1BKenk0T20ybjhhUUtlSlZGSm4zYkY1bGF6WEpTbU9IenZMangxLXc?oc=5",
+      "date": "Fri, 29 May 2026 05:21:00 GMT",
+      "source": "디지털투데이",
+      "score": 3
     },
     {
       "title": "SEC 족쇄 풀린 XRP, 기관 자금 유입 본격화되나…그록 AI “리플 2026년 8달러 가능”",
@@ -135,6 +135,13 @@
       "score": 3
     },
     {
+      "title": "미 현물 XRP ETF에만 13억 달러 뭉칫돈…월가 기관들, 리플 ‘헐값 매수’ 나섰나",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9JN3FPNndvLXBTUWdJckw4dmdXUHdsbmR1R1FwLWRkOFk3dGp2Y21lcktZTTd1bFZIdHczNFRCZUlGcUZqZDFoMk4wSno2Ymx1ZG1Ha0hQaWlzRW5TNzZxUWtGNjlveTJOZW1aMU5oQnFWaGPSAXdBVV95cUxQbmZiQkdLTW1lZ2lQU2RBWl9IdlJOWmpSSDk2RTR1bENVdHdqQndya2tLaW9La1dMWFNGbEoxa0w3cFQ0SFBkeUY1NzRvemFKdmlyTFlyN2ozRlVqZ1FfWXhlTVBnR3F0RUJOU2NrbGhQdmdhZTllTQ?oc=5",
+      "date": "Thu, 28 May 2026 19:57:42 GMT",
+      "source": "핀포인트뉴스",
+      "score": 5
+    },
+    {
       "title": "리플 CEO \"미국 反암호화폐 세력은 패배했다\"",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1jQWVtWHpIUXlnY2FOZ3ZlbEo0VElNUzhNdndpcTBDNFJvdXBsTUozcTM5dGw1R1FXdHRsUm1VQXdmUzRUSlVaVQ?oc=5",
       "date": "Thu, 28 May 2026 19:55:50 GMT",
@@ -149,16 +156,9 @@
       "score": 2
     },
     {
-      "title": "[단독] 또 사라진 리플 사기 사이트 ‘wXRP’…이번엔 35명이 22억원 털렸다",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE82SGlZUkMzZzlCNDFxZWhMNFZwSlVjQkdpSTNIcW1LMHliNFN0T043NnNmRzljSEUwRktyeG5hVnNwSGJiTzN6Q1o2R0FZT2M?oc=5",
-      "date": "Tue, 26 May 2026 05:45:00 GMT",
-      "source": "v.daum.net",
-      "score": 2
-    },
-    {
-      "title": "한탄 좀 하겠습니다",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9zMHB4MjFPdVJTTzB2TU9pOWE1Q0VOOGdTMzdPNFE4VTE5THBDQ1ZZQ2s1Szg4SzVjc2gtdzZVbkVNMXUtNS1XU2REcU5aNnprMXQ2RUNrNTE?oc=5",
-      "date": "Tue, 26 May 2026 03:09:03 GMT",
+      "title": "가장 빠르고 정확한 코인 투자 뉴스, 커뮤니티",
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE4xaEg2ZEswRGRFMHA3WVlZMXFhNlBqbHNYSWRMRV8wNjRGVTVIb29WbG1MWmdtZTBJZzBZZ0xB?oc=5",
+      "date": "Tue, 26 May 2026 12:10:00 GMT",
       "source": "코인니스",
       "score": 8
     }
