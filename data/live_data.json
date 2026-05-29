@@ -1,50 +1,51 @@
 {
-  "generated_at": "2026-05-28T23:48:23",
+  "generated_at": "2026-05-29T02:33:29",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.31,
-    "price_krw": 1966.74,
-    "price_change_24h": 0.65094,
-    "price_change_7d": -4.16966,
-    "price_change_30d": -4.69918,
-    "market_cap_usd": 81434490865,
+    "price_krw": 1962.88,
+    "price_change_24h": 0.47316,
+    "price_change_7d": -4.38452,
+    "price_change_30d": -5.41436,
+    "market_cap_usd": 81017222891,
     "market_cap_rank": 5,
-    "volume_24h": 2329419909,
+    "volume_24h": 2244355998,
     "circulating_supply": 61977843307.0,
     "total_supply": 99985656462.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 70.3,
-    "sentiment_votes_down": 29.7,
+    "sentiment_votes_up": 69.61,
+    "sentiment_votes_down": 30.39,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 35.14,
-    "recent_tps": 35.14,
-    "recent_tx_count": 3163,
+    "tps_24h_avg": 19.12,
+    "recent_tps": 19.12,
+    "recent_tx_count": 1721,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104547995,
+    "ledger_seq": 104550558,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-28 23:48:07 KST",
+    "updated_at": "2026-05-29 02:33:21 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
   },
   "etf_flow": {
-    "approved_count": 0,
+    "approved_count": 4,
     "daily_inflow_usd": 0,
     "weekly_inflow_usd": 0,
-    "aum_usd": 0,
-    "total_net_inflow_usd": 0,
-    "total_value_traded_usd": 0,
-    "updated_at": "뉴스 자동 파싱 대기",
-    "data_source": "news_parse"
+    "aum_usd": 1770000,
+    "total_net_inflow_usd": 1770000,
+    "total_value_traded_usd": 1770000,
+    "updated_at": "SoSoValue 순유입 부분 수집 05/29 02:33",
+    "data_source": "sosovalue",
+    "partial": true
   },
   "etf_news": [
     {
@@ -79,18 +80,25 @@
       "title": "리플(XRP) ETF로 6050만달러 몰렸다…비트코인서 빠진 자금 ‘대이동’ 조짐",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MYXRHSXVDaml5Y1R0RU1oYmZxS0pxQzU4UU9NQ2wzSUpKbjJFbU5NZVNWbzhvdFRqbmJZMlAyZ0QxdVN3OVRVbllhT2xfMXFXdHdpSm9MSUg4UjNtMkUyNW9mZEduU3Zq?oc=5",
       "date": "Mon, 25 May 2026 15:00:00 GMT",
-      "source": "CBC뉴스",
+      "source": "cbci.co.kr",
       "score": 0
     },
     {
       "title": "“조용한 매집 시작됐나”…리플XRP ETF 자금 유입 급증",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMcVpmMklGTG85cVF4UnFoZW5mOHBmRDgtNVd1cVhUcUk0OEJwM3JrZ09hQnBTZTAwR3haY3NVNlZmeEZqcXZLbjNZaEFnU1VtSzNIbWFpS1lhSk9weWd0NVhOVFcxeW01?oc=5",
       "date": "Sun, 17 May 2026 03:35:00 GMT",
-      "source": "CBC뉴스",
+      "source": "cbci.co.kr",
       "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "SEC 족쇄 풀린 XRP, 기관 자금 유입 본격화되나…그록 AI “리플 2026년 8달러 가능”",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcEFQR2VGSkx0RndiRHZxNmZVc0NZYjAzYjE3Nk51Um1abW90NVJNeEt5Q2JUNHlYZmxsNlpjdHdwOXJQeUs3ajF5Vnpjajd5aHhIMVQ1YU1MSFVlcm5KZHJHRnR5VFVaR0U5Y2JHWEhWZTVNMnVDdFh0Qk5vdHFiU0VOeTdmXzJmRENqcWV5cks?oc=5",
+      "date": "Fri, 29 May 2026 00:26:33 GMT",
+      "source": "Cryptonews",
+      "score": 4
+    },
     {
       "title": "리플XRP·스텔라루멘 급등…비트코인 하락 속 거래대금 36.5%↑ 관망 완화",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCOXRTREZ0d0JWTlBiYi14RUg1c0xDR2VaRTBvVmd4eDZpVEJEWXRXUW5uWmJEUElOVjVCa0pKWmI4U2JkTjl6amFST2JuekloWlQ2ejJILU5ndUIxdExRLVZXMGtDVDMxanJFVG5pV2JiQQ?oc=5",
@@ -148,18 +156,11 @@
       "score": 2
     },
     {
-      "title": "머스크가 던진 18,712개의 비트코인 — XRP로 향하는 월가 자금의 진짜 정체 (리플코인)",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUTlCZU1lRGxLbnJZRV90bm5Ic3djbkN6Qk9nZWpwY2hwZGFpdllZOWdiVU5OWVM4ekh4Y1ZDYVlJajFYWXB3d0N2bEp6dkRhTzR6V3BzWFJ5TFI1V1BsNFB5MGhmSms0a0Y0eElPaWlwb2xkSXYxV3o5SFlMZ0d2akdqdHFfRDVkRE9wVw?oc=5",
-      "date": "Wed, 27 May 2026 05:08:00 GMT",
-      "source": "네이버 프리미엄콘텐츠",
+      "title": "XRP, 거래소 유출 300% 급증…차트 하락 신호 막을까",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9qYUtkbm40aml2c1kzU0R6bE52S0NCN0lwOXVKWE5XMWhCcFZWVzhmNXQwTUE2dG5yazBMRTg4al90Sl9BQ2NMTXhTaUtsVE1OY1NnQTc0bWFlNlR3dWhwcXlXR0JBVHQyM0o3T2E4X2szaFU?oc=5",
+      "date": "Tue, 26 May 2026 00:43:00 GMT",
+      "source": "디지털투데이",
       "score": 2
-    },
-    {
-      "title": "코인니스 - 가장 빠르고 정확한 코인 투자 뉴스, 커뮤니티",
-      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE4xaEg2ZEswRGRFMHA3WVlZMXFhNlBqbHNYSWRMRV8wNjRGVTVIb29WbG1MWmdtZTBJZzBZZ0xB?oc=5",
-      "date": "Tue, 26 May 2026 07:00:00 GMT",
-      "source": "코인니스",
-      "score": 8
     }
   ]
 }
