@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-30T11:50:59",
+  "generated_at": "2026-05-30T13:08:20",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.34,
-    "price_krw": 2018.88,
-    "price_change_24h": 2.24612,
-    "price_change_7d": 1.80554,
-    "price_change_30d": -2.21324,
-    "market_cap_usd": 83020213450,
+    "price_krw": 2016.88,
+    "price_change_24h": 2.82435,
+    "price_change_7d": 1.0755,
+    "price_change_30d": -2.22933,
+    "market_cap_usd": 82957830491,
     "market_cap_rank": 5,
-    "volume_24h": 2289895540,
+    "volume_24h": 2147749225,
     "circulating_supply": 61977843307.0,
     "total_supply": 99985656462.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 80.46,
-    "sentiment_votes_down": 19.54,
+    "sentiment_votes_up": 80.23,
+    "sentiment_votes_down": 19.77,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 20.1,
-    "recent_tps": 20.1,
-    "recent_tx_count": 1648,
+    "tps_24h_avg": 17.82,
+    "recent_tps": 17.82,
+    "recent_tx_count": 1604,
     "recent_ledger_count": 24,
-    "recent_window_sec": 82,
-    "ledger_seq": 104581574,
+    "recent_window_sec": 90,
+    "ledger_seq": 104582775,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-30 11:50:46 KST",
+    "updated_at": "2026-05-30 13:08:06 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 7360000,
     "total_net_inflow_usd": 7360000,
     "total_value_traded_usd": 7360000,
-    "updated_at": "SoSoValue 순유입 부분 수집 05/30 11:50",
+    "updated_at": "SoSoValue 순유입 부분 수집 05/30 13:08",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -70,13 +70,6 @@
       "score": 0
     },
     {
-      "title": "미 현물 XRP ETF에만 13억 달러 뭉칫돈…월가 기관들, 리플 ‘헐값 매수’ 나섰나",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9JN3FPNndvLXBTUWdJckw4dmdXUHdsbmR1R1FwLWRkOFk3dGp2Y21lcktZTTd1bFZIdHczNFRCZUlGcUZqZDFoMk4wSno2Ymx1ZG1Ha0hQaWlzRW5TNzZxUWtGNjlveTJOZW1aMU5oQnFWaGPSAXdBVV95cUxQbmZiQkdLTW1lZ2lQU2RBWl9IdlJOWmpSSDk2RTR1bENVdHdqQndya2tLaW9La1dMWFNGbEoxa0w3cFQ0SFBkeUY1NzRvemFKdmlyTFlyN2ozRlVqZ1FfWXhlTVBnR3F0RUJOU2NrbGhQdmdhZTllTQ?oc=5",
-      "date": "Thu, 28 May 2026 19:57:42 GMT",
-      "source": "핀포인트뉴스",
-      "score": 0
-    },
-    {
       "title": "XRP, ETF 순유입 최대에도 5월 6% 하락…6월 분기점은 1.26달러",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBGZ2V0Tlktdkk4RGFJdDh4QVdEdjlDWUVwLVRqdmJHSUxIVzRTN0lJelBIa1hXZWVwem5GeGhKS0VyQ0FzQ0tPY2F6LXVha1BPRy1MeWRueXpQdS1DbDRaUTVoRm5GckYwMmFuQUJTUVloR1k?oc=5",
       "date": "Thu, 28 May 2026 13:38:35 GMT",
@@ -88,6 +81,13 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6NjlSNXJTNHhDVWZQQTdxRTVzVFRjc0RBM1RwSkJ6bGhUWHE4ZnVlWVVOTG9Ib2VqZC14QW1RZnAyOHkxLXRKZ3RzeU9qUTdkZ0JvZXdCRnhkWjZlN1V0T1pielNxNEVseUVFSl9CVWI?oc=5",
       "date": "Wed, 27 May 2026 01:06:53 GMT",
       "source": "블록체인투데이",
+      "score": 0
+    },
+    {
+      "title": "日, 'XRP 현물 ETF' 제도권 진입 속도… \"3조 달러 연기금 등판, 아시아 암호화폐 지형 흔든다“",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcVBkRmJuUzZSaklUS3pwN05kWnBwNXRtS0hLVFp1b0VZdmdPTVo5Q0F3NHJ0b3BwUDl0NGx6SXpZcEtWWmJ3MURqNVBDbnl0b3lEOHZjdDVpVWFLMHNUQ0ZfdnVJOXJ2Y2J0UUJ4VjlNLWpRckwwcGlLRlJZbjdrcW9mT3NTTmlO?oc=5",
+      "date": "Mon, 25 May 2026 21:25:37 GMT",
+      "source": "글로벌이코노믹",
       "score": 0
     }
   ],
@@ -128,17 +128,10 @@
       "score": 3
     },
     {
-      "title": "리플, 10억 달러 규모 XRP 재무 자금 조달 주도",
+      "title": "리플, 10억 달러 규모 XRP 재무 조달 주도 전망: 보고서",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNVozdGlpZXktNWxKQjNIa2xtbG9jNlNURzdUczZWbDhFYllGWFViOTZjQVNZV1N1VUFtbE8xUUpSSjdaU2E5LS1TZjMtV3ROLWtNSFI1OWpFempJSHBmdXJySFlZamROOWxiLVRGd3Jkek1pZ3ZJN2JETlN3WUNJNUI1MlFWVGVjQ3U3VVFXdFNEdzVOLUk3TzU5YlBYd0hGWjNrVmUtUEo?oc=5",
       "date": "Fri, 29 May 2026 19:35:00 GMT",
       "source": "CoinDesk",
-      "score": 2
-    },
-    {
-      "title": "모건스탠리가 리플(XRP) 매수 시작한 이유는?",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeXFPZFMwR0NzMFV2M2FkNm44YUtRc0s5QWFJcUlQdERhaFJzZzl4MlpLTV9Xb3RRUWVxRlBEd3lQbmZKZGFNLUpkNXloa2NmT0tYRmdFeXAtQzJ6d2tBcmk2eGpyZzh3alN4eTBuQVdrMU1QNVRPdXh1bFZmZGhZUUg0dUxSa19JNFZDZ2I5S3piMTg?oc=5",
-      "date": "Fri, 29 May 2026 17:30:00 GMT",
-      "source": "네이버 프리미엄콘텐츠",
       "score": 2
     },
     {
@@ -161,6 +154,13 @@
       "date": "Fri, 29 May 2026 00:26:33 GMT",
       "source": "Cryptonews",
       "score": 4
+    },
+    {
+      "title": "리플XRP·스텔라루멘 급등…비트코인 하락 속 거래대금 36.5%↑ 관망 완화",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCOXRTREZ0d0JWTlBiYi14RUg1c0xDR2VaRTBvVmd4eDZpVEJEWXRXUW5uWmJEUElOVjVCa0pKWmI4U2JkTjl6amFST2JuekloWlQ2ejJILU5ndUIxdExRLVZXMGtDVDMxanJFVG5pV2JiQQ?oc=5",
+      "date": "Thu, 28 May 2026 22:19:15 GMT",
+      "source": "톱스타뉴스",
+      "score": 2
     }
   ]
 }
