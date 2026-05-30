@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-30T13:08:20",
+  "generated_at": "2026-05-30T14:51:00",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.34,
-    "price_krw": 2016.88,
-    "price_change_24h": 2.82435,
-    "price_change_7d": 1.0755,
-    "price_change_30d": -2.22933,
-    "market_cap_usd": 82957830491,
+    "price_krw": 2022.0,
+    "price_change_24h": 3.26132,
+    "price_change_7d": 0.7074,
+    "price_change_30d": -2.09812,
+    "market_cap_usd": 83139632102,
     "market_cap_rank": 5,
-    "volume_24h": 2147749225,
+    "volume_24h": 2112509279,
     "circulating_supply": 61977843307.0,
     "total_supply": 99985656462.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 80.23,
-    "sentiment_votes_down": 19.77,
+    "sentiment_votes_up": 83.13,
+    "sentiment_votes_down": 16.87,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 17.82,
-    "recent_tps": 17.82,
-    "recent_tx_count": 1604,
+    "tps_24h_avg": 32.31,
+    "recent_tps": 32.31,
+    "recent_tx_count": 2908,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104582775,
+    "ledger_seq": 104584366,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-30 13:08:06 KST",
+    "updated_at": "2026-05-30 14:50:45 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 7360000,
     "total_net_inflow_usd": 7360000,
     "total_value_traded_usd": 7360000,
-    "updated_at": "SoSoValue 순유입 부분 수집 05/30 13:08",
+    "updated_at": "SoSoValue 순유입 부분 수집 05/30 14:50",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -107,13 +107,6 @@
       "score": 9
     },
     {
-      "title": "비트코인·이더리움 ETF 유출 속 XRP·HYPE엔 유입 차별화",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUnhIajN5Z1JQam5fLVNEcTloaDQyendPTGU5bTNWdG1vVDlJR0dldHl5a29OYlFyLXNubXpRSHl0YXpjc0g1NEo5LXRjT3c3MC1uNG9USGJkcjNxd1JNTURwQmd4ZWd6bXJXXzd1eTFKS0VUUTEwSnFaLVE0WXdtUk12Ry1ORTBV?oc=5",
-      "date": "Sat, 30 May 2026 02:34:57 GMT",
-      "source": "글로벌이코노믹",
-      "score": 3
-    },
-    {
       "title": "연준 결제망 직통 열리나…리플(XRP), AI 모델이 점찍은 80달러 신화 전말",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB2c1pJVjYwVkFrSW8zMEF3TWtCd0ttZ3RNbTdIV3FKaVh0QkJ6RUFCeS0wb1pPMlNINXVTZ2ltenBuTG9nQkhBcTZCZnhBcmxRUktaZWN1UlFOcUh1cTZSTFFCX3ptd1VuVWoyVzVTUTBBaVHSAXdBVV95cUxNOWFlcVMxVUtvdmppYkwtU1I5aV9rRXEtVlB1MnNoZndaZFRDUVJCcGwxRGpBRHQxUUJZdDhHeWxIakZ3emhQZUwxb1VOaThXSmFUM1FPQTd1dkFQUHRZM3FCb1Z4blZSTUdHaVhuNXNEVGJwSTdTcw?oc=5",
       "date": "Fri, 29 May 2026 22:14:38 GMT",
@@ -132,6 +125,13 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNVozdGlpZXktNWxKQjNIa2xtbG9jNlNURzdUczZWbDhFYllGWFViOTZjQVNZV1N1VUFtbE8xUUpSSjdaU2E5LS1TZjMtV3ROLWtNSFI1OWpFempJSHBmdXJySFlZamROOWxiLVRGd3Jkek1pZ3ZJN2JETlN3WUNJNUI1MlFWVGVjQ3U3VVFXdFNEdzVOLUk3TzU5YlBYd0hGWjNrVmUtUEo?oc=5",
       "date": "Fri, 29 May 2026 19:35:00 GMT",
       "source": "CoinDesk",
+      "score": 2
+    },
+    {
+      "title": "모건스탠리가 리플(XRP) 매수 시작한 이유는?",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeXFPZFMwR0NzMFV2M2FkNm44YUtRc0s5QWFJcUlQdERhaFJzZzl4MlpLTV9Xb3RRUWVxRlBEd3lQbmZKZGFNLUpkNXloa2NmT0tYRmdFeXAtQzJ6d2tBcmk2eGpyZzh3alN4eTBuQVdrMU1QNVRPdXh1bFZmZGhZUUg0dUxSa19JNFZDZ2I5S3piMTg?oc=5",
+      "date": "Fri, 29 May 2026 17:30:00 GMT",
+      "source": "네이버 프리미엄콘텐츠",
       "score": 2
     },
     {
