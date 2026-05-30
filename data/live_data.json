@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-30T16:00:16",
+  "generated_at": "2026-05-30T17:15:08",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.34,
-    "price_krw": 2021.21,
-    "price_change_24h": 1.61516,
-    "price_change_7d": 0.70382,
-    "price_change_30d": -2.08543,
-    "market_cap_usd": 83129010018,
+    "price_usd": 1.35,
+    "price_krw": 2027.92,
+    "price_change_24h": 1.36917,
+    "price_change_7d": 0.68267,
+    "price_change_30d": -1.43568,
+    "market_cap_usd": 83443255223,
     "market_cap_rank": 5,
-    "volume_24h": 1904366799,
+    "volume_24h": 1817661194,
     "circulating_supply": 61977843307.0,
     "total_supply": 99985656462.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 83.95,
-    "sentiment_votes_down": 16.05,
+    "sentiment_votes_up": 83.75,
+    "sentiment_votes_down": 16.25,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 18.26,
-    "recent_tps": 18.26,
-    "recent_tx_count": 1643,
+    "tps_24h_avg": 28.34,
+    "recent_tps": 28.34,
+    "recent_tx_count": 2551,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104585442,
+    "ledger_seq": 104586603,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-30 16:00:04 KST",
+    "updated_at": "2026-05-30 17:15:01 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 7360000,
     "total_net_inflow_usd": 7360000,
     "total_value_traded_usd": 7360000,
-    "updated_at": "SoSoValue 순유입 부분 수집 05/30 16:00",
+    "updated_at": "SoSoValue 순유입 부분 수집 05/30 17:15",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -77,17 +77,17 @@
       "score": 0
     },
     {
-      "title": "미 현물 XRP ETF에만 13억 달러 뭉칫돈…월가 기관들, 리플 ‘헐값 매수’ 나섰나",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9JN3FPNndvLXBTUWdJckw4dmdXUHdsbmR1R1FwLWRkOFk3dGp2Y21lcktZTTd1bFZIdHczNFRCZUlGcUZqZDFoMk4wSno2Ymx1ZG1Ha0hQaWlzRW5TNzZxUWtGNjlveTJOZW1aMU5oQnFWaGPSAXdBVV95cUxQbmZiQkdLTW1lZ2lQU2RBWl9IdlJOWmpSSDk2RTR1bENVdHdqQndya2tLaW9La1dMWFNGbEoxa0w3cFQ0SFBkeUY1NzRvemFKdmlyTFlyN2ozRlVqZ1FfWXhlTVBnR3F0RUJOU2NrbGhQdmdhZTllTQ?oc=5",
-      "date": "Thu, 28 May 2026 19:57:42 GMT",
-      "source": "핀포인트뉴스",
-      "score": 0
-    },
-    {
       "title": "XRP, ETF 순유입 최대에도 5월 6% 하락…6월 분기점은 1.26달러",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBGZ2V0Tlktdkk4RGFJdDh4QVdEdjlDWUVwLVRqdmJHSUxIVzRTN0lJelBIa1hXZWVwem5GeGhKS0VyQ0FzQ0tPY2F6LXVha1BPRy1MeWRueXpQdS1DbDRaUTVoRm5GckYwMmFuQUJTUVloR1k?oc=5",
       "date": "Thu, 28 May 2026 13:38:35 GMT",
       "source": "디지털투데이",
+      "score": 0
+    },
+    {
+      "title": "대장주 자금 이탈에도 XRP 현물 ETF ‘순유출 제로’… 기관 자본 독자 행보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6NjlSNXJTNHhDVWZQQTdxRTVzVFRjc0RBM1RwSkJ6bGhUWHE4ZnVlWVVOTG9Ib2VqZC14QW1RZnAyOHkxLXRKZ3RzeU9qUTdkZ0JvZXdCRnhkWjZlN1V0T1pielNxNEVseUVFSl9CVWI?oc=5",
+      "date": "Wed, 27 May 2026 01:06:53 GMT",
+      "source": "블록체인투데이",
       "score": 0
     }
   ],
@@ -157,8 +157,8 @@
     },
     {
       "title": "XRP 멸망전인 줄 알았더니… 리플USD(RLUSD) 붐이 불러올 역대급 폭등 시그널",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB3UFRhSExOQTdQMVNnUmtadjhGVG03R2dTcFNUNzFCZlJ2S0NFazhnZWNxWHpGNVBBZTlXVW5TM0NFR3RyVzg4bHVST1lPTWFiakRabU1TSEtYNjAwaUNFbzc1QllxNmIwZ0RlOHNKLTdZMDFLVnZF0gF3QVVfeXFMUHdQVGFITE5BN1AxU2dSa1p2OEZUbTdHZ1NwU1Q3MUJmUnZLQ0VrOGdlY3FYekY1UEFlOVdVblMzQ0VHdHJXODhsdVJPWU9NYWJqRFptTVNIS1g2MDBpQ0VvNzVCWXE2YjBnRGU4c0otN1kwMUtWdkU?oc=5",
-      "date": "Thu, 28 May 2026 21:59:06 GMT",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1pZ3RGSklKZlpFaThseHpfZkRDTWhoMGNacm9fNV9VaXFoeDdJNnNVMGZKSWV4X0g3ekVHLXo5Y2FEbThZcW43bVBtLXFOX1VLSGNodXNacXZnT0pxRUprYk0yUzlkdGtCOWUzWWV4dHBtRk3SAXdBVV95cUxQd1BUYUhMTkE3UDFTZ1JrWnY4RlRtN0dnU3BTVDcxQmZSdktDRWs4Z2VjcVh6RjVQQWU5V1VuUzNDRUd0clc4OGx1Uk9ZT01hYmpEWm1NU0hLWDYwMGlDRW83NUJZcTZiMGdEZThzSi03WTAxS1Z2RQ?oc=5",
+      "date": "Thu, 28 May 2026 21:47:30 GMT",
       "source": "핀포인트뉴스",
       "score": 3
     }
