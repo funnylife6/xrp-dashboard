@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-31T20:36:17",
+  "generated_at": "2026-05-31T21:53:11",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.33,
-    "price_krw": 2001.65,
-    "price_change_24h": -1.41815,
-    "price_change_7d": -1.47548,
-    "price_change_30d": -4.69582,
-    "market_cap_usd": 82298402234,
+    "price_krw": 2007.98,
+    "price_change_24h": -1.22528,
+    "price_change_7d": -0.76108,
+    "price_change_30d": -4.37952,
+    "market_cap_usd": 82552452048,
     "market_cap_rank": 5,
-    "volume_24h": 1115822891,
+    "volume_24h": 1148005399,
     "circulating_supply": 61977843307.0,
     "total_supply": 99985656462.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 77.03,
-    "sentiment_votes_down": 22.97,
+    "sentiment_votes_up": 77.78,
+    "sentiment_votes_down": 22.22,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 19.19,
-    "recent_tps": 19.19,
-    "recent_tx_count": 1727,
+    "tps_24h_avg": 28.89,
+    "recent_tps": 28.89,
+    "recent_tx_count": 2600,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104612130,
+    "ledger_seq": 104613325,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-05-31 20:36:07 KST",
+    "updated_at": "2026-05-31 21:53:06 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 7360000,
     "total_net_inflow_usd": 7360000,
     "total_value_traded_usd": 7360000,
-    "updated_at": "SoSoValue 순유입 부분 수집 05/31 20:36",
+    "updated_at": "SoSoValue 순유입 부분 수집 05/31 21:53",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -78,9 +78,9 @@
     },
     {
       "title": "XRP ETF, 암호화폐 ETF 자금 유입 1위…비트·이더 자금 이탈 지속",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE44LVRDLUd6UHVKTlhrOUk1bjRzQXVZSWNSb0ZNaFdxcnBMSjdlZmtZeVR4d3N0OGRvSVVLdXFhTmtxaUp3Z2RBZERURnhUV2pUN3QxUHhiNjRORFVZdU5POXF6QjJDdkN5WDFQRHluV2JtdE0?oc=5",
-      "date": "Sat, 30 May 2026 15:15:00 GMT",
-      "source": "디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQXzVVRVJGcVFjTGdaOEx3MEhQNTlZcVJRbi10V2V4NXhZaVVMX2dGcEYyYU1aNEQta0VlaF9HS21RdG12NXVudHRLNkdMZGNUUXJiakE5MFV6cXZNdkxSZw?oc=5",
+      "date": "Sat, 30 May 2026 15:16:00 GMT",
+      "source": "네이트",
       "score": 0
     },
     {
@@ -92,6 +92,13 @@
     }
   ],
   "general_news": [
+    {
+      "title": "리플(XRP), 기관 수요 증가와 규제 진전 속에서 1.32달러 근방에서 거래",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SUTFrTFYwVDNKMUVwSjFncjczbi1tdHRIUl9QR0t0YnhleHhubjZvcTlabVlESDVzdlozT3NqZjBvcHVhYnAtMWROdUIweTVWQmZkT3hKRGg4MExKaDRqZdIBZkFVX3lxTE03YzFKWmI0SS1LS3RTMGtyeDhwU1FVRjNVODdBeEl3TkJJSnc0VWhwanNnbkQ5Z09DOC15bmRXbkdGTWUzcXJOdDVsT2xyeTBuSlF0a1ZLY0RSZV9iSXF1RWNyNV9kUQ?oc=5",
+      "date": "Sun, 31 May 2026 21:06:13 GMT",
+      "source": "tokenpost.kr",
+      "score": 3
+    },
     {
       "title": "XLM 70% 랠리로 XRP 압도...\"리플 지지자들, 속 탈 수밖에\"",
       "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBFZkV6aGZPXzdlQlB5YS1fUnExRFFORmFHMUdlc0hNWWdxV05FQWJlYlVhTWdQOWJBcHRSR1dsbFFMQVdY?oc=5",
@@ -154,13 +161,6 @@
       "date": "Sat, 30 May 2026 23:36:31 GMT",
       "source": "핀포인트뉴스",
       "score": 4
-    },
-    {
-      "title": "리플 '결제·수탁·토큰화까지 지원'…기업용 암호화폐 인프라 확대",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5GT0swc3V4bmlUT21fWVpjM0pjc2FsR0NCVDVBTnNmcXR6dDd1Z3NwZ29sdDVFSWxFLVRMVmxwRS1jN3BPYlAwVW8xN3VKWFB6TXdZa3FjRkd6TDJ2NmFRSWVFWDYzUWJON3gxMG5YRnp0WE0?oc=5",
-      "date": "Sat, 30 May 2026 23:09:00 GMT",
-      "source": "디지털투데이",
-      "score": 2
     }
   ]
 }
