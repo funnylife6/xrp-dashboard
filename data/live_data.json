@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-01T00:00:47",
+  "generated_at": "2026-06-01T05:22:44",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.33,
-    "price_krw": 2006.78,
-    "price_change_24h": -0.53283,
-    "price_change_7d": -1.15685,
-    "price_change_30d": -4.12739,
-    "market_cap_usd": 82498481064,
+    "price_usd": 1.32,
+    "price_krw": 1994.84,
+    "price_change_24h": -1.78115,
+    "price_change_7d": -1.93282,
+    "price_change_30d": -4.79334,
+    "market_cap_usd": 81723448267,
     "market_cap_rank": 5,
-    "volume_24h": 1183276775,
+    "volume_24h": 1273135230,
     "circulating_supply": 61977843307.0,
     "total_supply": 99985656462.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 77.14,
-    "sentiment_votes_down": 22.86,
+    "sentiment_votes_up": 74.29,
+    "sentiment_votes_down": 25.71,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 40.26,
-    "recent_tps": 40.26,
-    "recent_tx_count": 3623,
+    "tps_24h_avg": 19.34,
+    "recent_tps": 19.34,
+    "recent_tx_count": 1741,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104615303,
+    "ledger_seq": 104620318,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-01 00:00:31 KST",
+    "updated_at": "2026-06-01 05:22:32 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -47,6 +47,13 @@
     "data_source": "news_parse"
   },
   "etf_news": [
+    {
+      "title": "XRP 활용도 커졌다…ETF 보유량 7억7000만개, RWA 시장 124% '잭팟'",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBWVm9mNmJlS3Q1ZUgzQnN1Nk1HcGo3ckhRcFM4alRQYzMyNjVLTHBmRjVCVUIxTUhxamgtU1AyUVRsMlR4SHdSVF9yMUFoZmg1WkJ4Q1NxWHB0bjBnaC11SjhWMG4zTEZPRzJRUXhONWJQRVE?oc=5",
+      "date": "Mon, 01 Jun 2026 02:31:00 GMT",
+      "source": "디지털투데이",
+      "score": 0
+    },
     {
       "title": "XRP ETF 기대감 커지는데 왜 안 오를까? BNB 급등이 던진 결정적 힌트",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9LZWFmVjhqbmNjMzY1STdsLVl2VVdkSlhWbGVUZHpvUUVFUDZJTDExVGpabkRGZjRPUExpV000ZDNvakh1MjV6TnhTVU9yWW9ZLTVuZHNtN2pKWktYakxYM0EyMkM1QjNuU3hhcFZZMjJuM05RbTdTU0Fhaw?oc=5",
@@ -81,16 +88,23 @@
       "date": "Sat, 30 May 2026 15:16:00 GMT",
       "source": "네이트",
       "score": 0
-    },
-    {
-      "title": "피난처 찾은 눈치 빠른 돈들…리플(XRP)·하이프(HYPE) ETF로 은밀한 이동 포착",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9fNDdITktWdXlRUnRNNnJUYTFsUDNGeFVldURWSWpydDVkRjB4LUV6aUlEc0JPN3puU3doV01zYjREN08yVEVBdzUxcThIQUM2R2VQbXpreXBEUlNXMF9FLWt5X1BhR08zT0g1Q25YRHJNeVHSAXdBVV95cUxQNDQ3OG5UODMyRm1oSFR1WVNQejREVkNrby1nbDZnZnJvM19RbXRpVzdOY05rUllwclB0ZWIyeEVkYlNObHl6NFJfQ2U2REdkVE5qOU5JZHAzcU9aNEVZLXZXWnpBQThnT0VSZE43amFBQmRaNXZEUQ?oc=5",
-      "date": "Fri, 29 May 2026 22:09:10 GMT",
-      "source": "핀포인트뉴스",
-      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "리플(XRP) 변곡점 다가오나…고래 독주 약화 신호에 시장 긴장감 고조",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9STTBCeGplQlB3dWJMcUN2M3JWWHY4OXlxSjJoY3hlWWp2dFEweVhtWjlEVDh1QjhDcDQxR2FWRlBSa3hlS29fbVQ4cEtzYjJTU0M4?oc=5",
+      "date": "Mon, 01 Jun 2026 02:22:00 GMT",
+      "source": "네이트",
+      "score": 2
+    },
+    {
+      "title": "26년6월1일 11시 분석(6월 일정 , 미래 전망, 확언드립니다. )",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNLVBIRnRZTEwwUU9MTTY4dG1tR2NNd1NGbXBZRXB0YnpsYk8xX0V2aWRzZW9zbnJmSFpuWHdVLWxLVGFrak9idFJSSVZ5OFM4VlA0TlJNY1FkZUF0OTlxNE9tdUVCTTB2bnU2OWh4VzF5eEk4MnFGWWdVa2tFc0NkTnE0a3NTWHVZcFE?oc=5",
+      "date": "Mon, 01 Jun 2026 02:16:00 GMT",
+      "source": "네이버 프리미엄콘텐츠",
+      "score": 2
+    },
     {
       "title": "리플(XRP), 기관 수요 증가와 규제 진전 속에서 1.32달러 근방에서 거래",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SUTFrTFYwVDNKMUVwSjFncjczbi1tdHRIUl9QR0t0YnhleHhubjZvcTlabVlESDVzdlozT3NqZjBvcHVhYnAtMWROdUIweTVWQmZkT3hKRGg4MExKaDRqZdIBZkFVX3lxTE03YzFKWmI0SS1LS3RTMGtyeDhwU1FVRjNVODdBeEl3TkJJSnc0VWhwanNnbkQ5Z09DOC15bmRXbkdGTWUzcXJOdDVsT2xyeTBuSlF0a1ZLY0RSZV9iSXF1RWNyNV9kUQ?oc=5",
@@ -99,24 +113,10 @@
       "score": 3
     },
     {
-      "title": "XRP, 네트워크 활동 36.4% 급증… '1.3달러 마지노선' 두고 반등 승부수",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN0dkMkRXcFR5ZDZDeFUtU0JHWnpmd25XVXBLOHBBaDJqYTZqWDRJSGQtdS1ab2tvSmJGcnd5TlFiNDlFRW84ZHd6NWVFNUt5NE9EcWlhM3FEOFRsVDJkeW9aR3Jldkt2ekpkLThuWHR4MkNFMjQtUjFrNVJBN09GMG5TaE1IT29v?oc=5",
-      "date": "Sun, 31 May 2026 20:39:23 GMT",
-      "source": "글로벌이코노믹",
-      "score": 2
-    },
-    {
       "title": "XLM 70% 랠리로 XRP 압도...\"리플 지지자들, 속 탈 수밖에\"",
       "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBFZkV6aGZPXzdlQlB5YS1fUnExRFFORmFHMUdlc0hNWWdxV05FQWJlYlVhTWdQOWJBcHRSR1dsbFFMQVdY?oc=5",
       "date": "Sun, 31 May 2026 17:00:00 GMT",
       "source": "코인리더스",
-      "score": 2
-    },
-    {
-      "title": "트럼프 정책부터 CLARITY 법안까지, XRP를 둘러싼 환경은 정말 바뀌었을까 (리플코인)",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcF9xc016NXVDWUF6Mm95d1hTTzJtd21wWDA3OWRZNld4a09qSXpidmtKX0Z3eHZxM2Q3dE9lSXlZblV3dTV0V3NKeTFJb0VZRHVqSG94c19wMUFNbUp4S0RWVzEyX3d3Y1gtVXVYaGZQeU9sQ2dlNDRwQkNHUERrb29nZ0lQVjhpWTd5SA?oc=5",
-      "date": "Sun, 31 May 2026 05:36:00 GMT",
-      "source": "네이버 프리미엄콘텐츠",
       "score": 2
     },
     {
