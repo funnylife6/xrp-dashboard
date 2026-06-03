@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-03T20:34:00",
+  "generated_at": "2026-06-03T22:59:40",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.2,
-    "price_krw": 1847.11,
-    "price_change_24h": -0.80817,
-    "price_change_7d": -8.99665,
-    "price_change_30d": -14.21146,
-    "market_cap_usd": 74611377854,
+    "price_usd": 1.21,
+    "price_krw": 1845.97,
+    "price_change_24h": 0.26149,
+    "price_change_7d": -8.09425,
+    "price_change_30d": -13.44904,
+    "market_cap_usd": 74671589160,
     "market_cap_rank": 6,
-    "volume_24h": 2567067241,
+    "volume_24h": 2543805822,
     "circulating_supply": 61977843307.0,
     "total_supply": 99985656462.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 73.91,
-    "sentiment_votes_down": 26.09,
+    "sentiment_votes_up": 73.56,
+    "sentiment_votes_down": 26.44,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 27.46,
-    "recent_tps": 27.46,
-    "recent_tx_count": 2471,
+    "tps_24h_avg": 21.04,
+    "recent_tps": 21.04,
+    "recent_tx_count": 1894,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104679176,
+    "ledger_seq": 104681434,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-03 20:33:49 KST",
+    "updated_at": "2026-06-03 22:59:32 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -47,6 +47,13 @@
     "data_source": "news_parse"
   },
   "etf_news": [
+    {
+      "title": "[크립토핫이슈] '나홀로 질주' XRP…클래리티법 충돌",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE05WkF3YjJLUmRhbkY5TklkekRvOE1PR3hrRjBYbElVTE9Xc0Q3TnNkYWRnRVdDTjRXampycXh3U1dCSG1iU2g3S2I5NjdrTzdtZDMzemtjaUVqTFRtcEoxXzNndnJNaGFPd0FQTXB3S3JaZ3M?oc=5",
+      "date": "Wed, 03 Jun 2026 22:30:00 GMT",
+      "source": "디지털투데이",
+      "score": 0
+    },
     {
       "title": "명확성법 상원 입법 일정에 추가, XRP가 하락분을 가장 먼저 회복할 수 있을까?",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcXBVTXVnQ0FTcFBxWG5BcWtQZVVzZzZjVlVwT2ZUSXgzeV9XSEtNUFdDSFRkT0lnN0JRYmFjX3o5czV0SXJoUjFrX1lNeGx2bEZPRTcwVGdFa3pkeF9yckdjbC1paWZYWGkxTGh6NEpOaUhkY3h3NXNDSFktN1h4NFVCVHdVb21EQmNQQnRwRjJSSGVwd3RsWGxRR3pTcFhJd2s3d1lhSXlDM0JDQlVwdU9vOER3NEJWVEd2amxXT3k?oc=5",
@@ -81,16 +88,16 @@
       "date": "Sat, 30 May 2026 23:36:31 GMT",
       "source": "핀포인트뉴스",
       "score": 0
-    },
-    {
-      "title": "XRP ETF, 암호화폐 ETF 자금 유입 1위…비트·이더 자금 이탈 지속",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQXzVVRVJGcVFjTGdaOEx3MEhQNTlZcVJRbi10V2V4NXhZaVVMX2dGcEYyYU1aNEQta0VlaF9HS21RdG12NXVudHRLNkdMZGNUUXJiakE5MFV6cXZNdkxSZw?oc=5",
-      "date": "Sat, 30 May 2026 15:16:00 GMT",
-      "source": "네이트",
-      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "월드코인 41.59% 급등·비트코인 하락·리플XRP 보합…국채금리 상승에 관망세 확대",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSVkRKYXl2dlZVeHZFSThwTkdSUFZsMDRmZDJ4bDVhQmdQR3FUT0JTOGpWbUFjQk51SHRyVHFEUzdnVkJsTXYydUdiOXM3cHlhSXBzOUlkYWRma0hyTjJJOUNyQ2pnTmVUeHBGMWNaUHh2QQ?oc=5",
+      "date": "Wed, 03 Jun 2026 22:25:18 GMT",
+      "source": "TopStarNews",
+      "score": 2
+    },
     {
       "title": "XRP(리플), 이미 은행권은 쓰고 있다...\"18개월 안에 결판 난다\"",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5BREtnM0lNTTJtVTBEbHNrZEFFZklOOE8zOFpzVmpobHpIdEZzY1A0Z3RLSVdIcU5XRnNEak1LR0lhYnNxZjV2T0dB?oc=5",
@@ -146,13 +153,6 @@
       "date": "Tue, 02 Jun 2026 22:39:00 GMT",
       "source": "디지털투데이",
       "score": 3
-    },
-    {
-      "title": "비트코인·리플XRP 하락, 국채금리 완화에도 거래대금 10.2%↑",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9sRlI0c2E0aWRsRF9hRW1qWF85Tjg1N3p4ck9QYUVyTkpjdHVQcXdBWkFaWjkwRmRyUldJWVV6emJ0QUl2RnpvT2FWZFFvYmhIUE5yZmxYVms2RTB3SkQ3dkpqcmNXejZtZ3BwS0phaXl5QQ?oc=5",
-      "date": "Tue, 02 Jun 2026 21:45:22 GMT",
-      "source": "TopStarNews",
-      "score": 2
     },
     {
       "title": "XRP 버린 줄 알았더니…리플 스테이블코인 RLUSD에 숨겨진 거대한 반전",
