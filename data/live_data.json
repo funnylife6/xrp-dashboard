@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-03T17:25:12",
+  "generated_at": "2026-06-03T20:34:00",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.22,
-    "price_krw": 1865.39,
-    "price_change_24h": -1.56347,
-    "price_change_7d": -8.46797,
-    "price_change_30d": -12.96361,
-    "market_cap_usd": 75406494837,
+    "price_usd": 1.2,
+    "price_krw": 1847.11,
+    "price_change_24h": -0.80817,
+    "price_change_7d": -8.99665,
+    "price_change_30d": -14.21146,
+    "market_cap_usd": 74611377854,
     "market_cap_rank": 6,
-    "volume_24h": 2698367480,
+    "volume_24h": 2567067241,
     "circulating_supply": 61977843307.0,
     "total_supply": 99985656462.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 74.47,
-    "sentiment_votes_down": 25.53,
+    "sentiment_votes_up": 73.91,
+    "sentiment_votes_down": 26.09,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 18.42,
-    "recent_tps": 18.42,
-    "recent_tx_count": 1639,
+    "tps_24h_avg": 27.46,
+    "recent_tps": 27.46,
+    "recent_tx_count": 2471,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 104676240,
+    "recent_window_sec": 90,
+    "ledger_seq": 104679176,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-03 17:25:03 KST",
+    "updated_at": "2026-06-03 20:33:49 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -47,20 +47,6 @@
     "data_source": "news_parse"
   },
   "etf_news": [
-    {
-      "title": "기관 자금이 비트코인·이더리움에서 빠져나가는 가운데 XRP만 홀로 견고한 흐름",
-      "url": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxNY3JTR05BaTNpYmtyNnhqcFI5TlZSTGxnUGZLb053QlVDWkFheE5QcllnTzRFQzNvZ0NCWThlamV4bVEwNmQxaDdrVU9haXhxUGEtOFBTTXRUSFVrRkE3VXoyQVBRYXQ4SzljRjVZZGxoVVBOV2pDV1B5ZkZNQUJaWVBLMzlTaVVoVUlxMi1rZWxyT3lMQnJMeGxYc1pveUM3SUNvZ2FiS3dOVDRNakJtUGo0NVNnc0swOE5INEFnZlV3MC1SU1ktaUJEd1IzS3Z3WHd5d3FDNi1pTG9RcTJGOGpSZXRYQkowb091ZXRlZFBBUC1rX0VXRUFYWTNIQlFLWHY4YjA3bUE5aW5IZmMwcThYS1RlSVIxOEI1VURWbHRSSlBNSzVFaWZvdmg0WjVEbmFZVG1SWGhaYmdWUzBuYjNGekVDS093cVp5d3VRWkdERzF5bDgxYmJTLTN1MUZuZ2dZdVFJZEp0bE5wc295RDZTQ3BxR256VFpTMTdROGl2MlpJaDdZTlNZc3hVQkttNWtaYmM3VDU2T1c5RkEwbG95aHlOVHc2ZkxJSHdkTGkwVGIzNjZrcFI4VDNtSVROZy00YVZwTnRlTlZmSUl6ZmctSG9BamRN?oc=5",
-      "date": "Wed, 03 Jun 2026 10:25:41 GMT",
-      "source": "Yellow.com",
-      "score": 0
-    },
-    {
-      "title": "리플(XRP), 제도권 확장 신호…레버리지 ETF 확대·기업 플랫폼 출시 주목",
-      "url": "https://news.google.com/rss/articles/CBMiqAdBVV95cUxOb0FSTzBRTlBPb2Q1ZXJEUUdvbFgyZFZ6VW9VYkotOEc3bHFiaFRQclBRQ1RkZGxJRURGQkgtYmRpaHBrMEF6M0VKbXdJd0FYLXNUcTJPUnJKSXQwZVF0NUMtRlIyUmhKNy0zWW9TR2Q5VWJidmFrTkt0WjZQVDg0TWE4blIxaEgxVGVneF9meVlXMnRmM1BfeE9WeldHeVBQQmU5MWZ6X0haeE9xd2tPYWE3TU9DTlFZSG1KR2RXd2M1SlNTbjUxVVFuWWpSTUs3X3ROaTJtR1ptY2Zaci1WSG5SZ05pMERRcWNKTFJiUzFaVDVVTUtLVU5nLTFJaUM1OU9nUGNhTUlaeUdYZlVsem1zRzc1TVZ3R2wwMjBfRTRITVB5cFBYX3F2V2d6Y0FwcHcydnVCbHc1dzVfcEVHRHlmR0Z1eVh3VkFqNkNESHNWTXMtX1p2dnRpOXBZeUxvdXRNWVYwWW1lWUk3N0U1RlUtUXFwRWZiNGNtRW9RNGNqcDNOQUlOY2xRY3p3YUhyTFhScE9PYWFHekpmd2dkeXEtMmR0TC05OE5Ta1prZ0stdk9FUHV5Q09DNmxxeHRBeDZ4aHo4dTFWeXZMeGt5SG5CV0hmY19Gd0ZXWDQ5cVAtcEMwSF9uSXRCUjE2U284NldNelRjVGgxUTJYaXZsc1F0c3J5WGtDVW5fU05QdGttTFk2NXRxSUVYRnVKNm1RWjdtNTBORmdVQmFuZ0Itekl2dXM1SF9RT2lfSXlJWE1Ia21COXBOSkJkMTQyNThPcjV3em5zNlItb25OSHNHc00td0lURUE1LXJ1WlpMNUZ6VkloQUtpQzFkeHZhUjBzWURLdk5GT25kV3RueEVJM0VvRmdleG5QNVJJeERNWlJmY1VUWFNXUk9ab0hMczI1VnFmX1M4WkN6RzZCUzh0TDdaU2dROUFJc1RCNzRfcnh6a1JtS1NWcDliWV91TDdLTXdBRmxzYWwzd2FHeVhFeWpRa1pRT1NJbHc1ZEhjV21Pc0M3bjVkR0Nid2NNQlFUdUxENUthZV9CeFVMRHVaZU55MDlsMXJEbVkxSHN5dDJKNW9RTXJtbW1obFVEUUlIbUM5Q2x1LVRHU190YXhpb2JkVW5hckFVMy1WNHRneTg5QVVPdmhtVkpCVUR4NmlUbkVGQ3RxNE5ONThkbGtCd0JlX2RzSHA2ajNwNkE3YXhFbUQ2U3l4WGtwRWdxX0g1LUhzOVpwdXo?oc=5",
-      "date": "Tue, 02 Jun 2026 21:17:31 GMT",
-      "source": "CBC뉴스",
-      "score": 0
-    },
     {
       "title": "명확성법 상원 입법 일정에 추가, XRP가 하락분을 가장 먼저 회복할 수 있을까?",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcXBVTXVnQ0FTcFBxWG5BcWtQZVVzZzZjVlVwT2ZUSXgzeV9XSEtNUFdDSFRkT0lnN0JRYmFjX3o5czV0SXJoUjFrX1lNeGx2bEZPRTcwVGdFa3pkeF9yckdjbC1paWZYWGkxTGh6NEpOaUhkY3h3NXNDSFktN1h4NFVCVHdVb21EQmNQQnRwRjJSSGVwd3RsWGxRR3pTcFhJd2s3d1lhSXlDM0JDQlVwdU9vOER3NEJWVEd2amxXT3k?oc=5",
@@ -83,20 +69,34 @@
       "score": 0
     },
     {
+      "title": "\"7억 7천만 개 싹쓸이\" 美 ETF가 집어삼킨 리플…공급 부족發 쇼크 현실로?",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4wMEU1N1JRQ1ByZFB1MmJiMGtjU2xFU2hpcFpXUXFYMGE0UzF5QmJsNlRRUDlpZWJZLTJHTDNLNE5weGM5Nms5VG5QZWtpNWNVd25RVUZTOVVZOG1CZk44QzVTUjRmcm1Pd3FKalJ2Q2d6d2M?oc=5",
+      "date": "Sat, 30 May 2026 23:54:03 GMT",
+      "source": "핀포인트뉴스",
+      "score": 0
+    },
+    {
       "title": "비트코인·이더리움 동반 추락…기관 자금 싹쓸이한 리플(XRP) ETF 홀로 '폭풍 질주'",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBoaHhJb3NidzBoNFBoR1NtNWlGU0FJaTlWdGtFOE1ZYWdkUjZSbXNfREs4WGdQWklobWw2UERoeGNMTzl1RU5tS1ZiY1ZpQ1h0dVJkX2cycGNpSTZWMG9YQWtKYm5GZndJdUppQjR4MWw2Sk3SAXdBVV95cUxQRDFnQzQzZDZCVGg1RHhHb2tPV01TM1d2NUNZWndNbndnajk1WkJTdFpwOVpsZy1QRTVZMzBpRzdETGg1cFZEdFpIel9iOTlZU2xfbjRFWGZJYVZ3T3RKVzZ6SlE2OGhNZ0xqTkVmRURUUGpKSmI4UQ?oc=5",
       "date": "Sat, 30 May 2026 23:36:31 GMT",
       "source": "핀포인트뉴스",
       "score": 0
+    },
+    {
+      "title": "XRP ETF, 암호화폐 ETF 자금 유입 1위…비트·이더 자금 이탈 지속",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQXzVVRVJGcVFjTGdaOEx3MEhQNTlZcVJRbi10V2V4NXhZaVVMX2dGcEYyYU1aNEQta0VlaF9HS21RdG12NXVudHRLNkdMZGNUUXJiakE5MFV6cXZNdkxSZw?oc=5",
+      "date": "Sat, 30 May 2026 15:16:00 GMT",
+      "source": "네이트",
+      "score": 0
     }
   ],
   "general_news": [
     {
-      "title": "중동 미사일 폭격에 혼돈의 코인 시장...리플 1.20달러 딛고 저가 매수세 부활!",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA0cVlPbWxHd3RhWFVraXFNSHFCbklIU0JYTWpiNU84YU10WFZ6empQNGljZjVwelVlbVRKRjFNZnhqR1I5ZHFSNG1B?oc=5",
-      "date": "Wed, 03 Jun 2026 12:14:00 GMT",
+      "title": "XRP(리플), 이미 은행권은 쓰고 있다...\"18개월 안에 결판 난다\"",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5BREtnM0lNTTJtVTBEbHNrZEFFZklOOE8zOFpzVmpobHpIdEZzY1A0Z3RLSVdIcU5XRnNEak1LR0lhYnNxZjV2T0dB?oc=5",
+      "date": "Wed, 03 Jun 2026 19:40:00 GMT",
       "source": "코인리더스",
-      "score": 2
+      "score": 3
     },
     {
       "title": "XRP 14주년 맞아…리플, 워싱턴 확장으로 정책 드라이브 강화",
@@ -155,10 +155,10 @@
       "score": 2
     },
     {
-      "title": "리플(XRP), 제도권 확장 신호…레버리지 ETF 확대·기업 플랫폼 출시 주목",
-      "url": "https://news.google.com/rss/articles/CBMiqAdBVV95cUxOb0FSTzBRTlBPb2Q1ZXJEUUdvbFgyZFZ6VW9VYkotOEc3bHFiaFRQclBRQ1RkZGxJRURGQkgtYmRpaHBrMEF6M0VKbXdJd0FYLXNUcTJPUnJKSXQwZVF0NUMtRlIyUmhKNy0zWW9TR2Q5VWJidmFrTkt0WjZQVDg0TWE4blIxaEgxVGVneF9meVlXMnRmM1BfeE9WeldHeVBQQmU5MWZ6X0haeE9xd2tPYWE3TU9DTlFZSG1KR2RXd2M1SlNTbjUxVVFuWWpSTUs3X3ROaTJtR1ptY2Zaci1WSG5SZ05pMERRcWNKTFJiUzFaVDVVTUtLVU5nLTFJaUM1OU9nUGNhTUlaeUdYZlVsem1zRzc1TVZ3R2wwMjBfRTRITVB5cFBYX3F2V2d6Y0FwcHcydnVCbHc1dzVfcEVHRHlmR0Z1eVh3VkFqNkNESHNWTXMtX1p2dnRpOXBZeUxvdXRNWVYwWW1lWUk3N0U1RlUtUXFwRWZiNGNtRW9RNGNqcDNOQUlOY2xRY3p3YUhyTFhScE9PYWFHekpmd2dkeXEtMmR0TC05OE5Ta1prZ0stdk9FUHV5Q09DNmxxeHRBeDZ4aHo4dTFWeXZMeGt5SG5CV0hmY19Gd0ZXWDQ5cVAtcEMwSF9uSXRCUjE2U284NldNelRjVGgxUTJYaXZsc1F0c3J5WGtDVW5fU05QdGttTFk2NXRxSUVYRnVKNm1RWjdtNTBORmdVQmFuZ0Itekl2dXM1SF9RT2lfSXlJWE1Ia21COXBOSkJkMTQyNThPcjV3em5zNlItb25OSHNHc00td0lURUE1LXJ1WlpMNUZ6VkloQUtpQzFkeHZhUjBzWURLdk5GT25kV3RueEVJM0VvRmdleG5QNVJJeERNWlJmY1VUWFNXUk9ab0hMczI1VnFmX1M4WkN6RzZCUzh0TDdaU2dROUFJc1RCNzRfcnh6a1JtS1NWcDliWV91TDdLTXdBRmxzYWwzd2FHeVhFeWpRa1pRT1NJbHc1ZEhjV21Pc0M3bjVkR0Nid2NNQlFUdUxENUthZV9CeFVMRHVaZU55MDlsMXJEbVkxSHN5dDJKNW9RTXJtbW1obFVEUUlIbUM5Q2x1LVRHU190YXhpb2JkVW5hckFVMy1WNHRneTg5QVVPdmhtVkpCVUR4NmlUbkVGQ3RxNE5ONThkbGtCd0JlX2RzSHA2ajNwNkE3YXhFbUQ2U3l4WGtwRWdxX0g1LUhzOVpwdXo?oc=5",
-      "date": "Tue, 02 Jun 2026 21:17:31 GMT",
-      "source": "CBC뉴스",
+      "title": "XRP 버린 줄 알았더니…리플 스테이블코인 RLUSD에 숨겨진 거대한 반전",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtdDhDNGl3Zl9HMFhfQTVoWUZhNEdJSnVSZVFlY3YyNjRTTXR4OURqV2V5UFV3TUd3U0tVM0JHeC0yMHpJSmtYRE0tVFJ1d2R2Q0J1WWlzbzE0SUZEejVTZExGZVhZSWxtZzdYS0w4OEIwVHfSAXdBVV95cUxPWUN1cGhwVmJZNDJJanRnQWU0Y0h3eW5FWnZkaWNEd0d5akpYMUtoN0Uxc3VORVdEc2Z5cER4ZE9zbFRFZ0d2blkyYWZOR05ua0k3TlNja1dGekpUeVg5dm9kRzRTdW9GM01IQXRKbDhhOGhUMEpOVQ?oc=5",
+      "date": "Tue, 02 Jun 2026 19:42:00 GMT",
+      "source": "핀포인트뉴스",
       "score": 3
     }
   ]
