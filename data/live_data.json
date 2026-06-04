@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-04T10:26:52",
+  "generated_at": "2026-06-04T13:38:52",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.15,
-    "price_krw": 1770.51,
-    "price_change_24h": -6.9655,
-    "price_change_7d": -10.60933,
-    "price_change_30d": -17.95021,
-    "market_cap_usd": 71523198189,
+    "price_usd": 1.18,
+    "price_krw": 1801.04,
+    "price_change_24h": -4.64117,
+    "price_change_7d": -9.0483,
+    "price_change_30d": -16.78344,
+    "market_cap_usd": 72822542625,
     "market_cap_rank": 6,
-    "volume_24h": 3054083154,
+    "volume_24h": 3400941822,
     "circulating_supply": 61977843307.0,
     "total_supply": 99985656462.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 72.64,
-    "sentiment_votes_down": 27.36,
+    "sentiment_votes_up": 70.8,
+    "sentiment_votes_down": 29.2,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 26.39,
-    "recent_tps": 26.39,
-    "recent_tx_count": 2375,
+    "tps_24h_avg": 32.38,
+    "recent_tps": 32.38,
+    "recent_tx_count": 2882,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 104692107,
+    "recent_window_sec": 89,
+    "ledger_seq": 104695082,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-04 10:26:38 KST",
+    "updated_at": "2026-06-04 13:38:45 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 4059999,
     "total_net_inflow_usd": 4059999,
     "total_value_traded_usd": 4059999,
-    "updated_at": "SoSoValue 순유입 부분 수집 06/04 10:26",
+    "updated_at": "SoSoValue 순유입 부분 수집 06/04 13:38",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -100,24 +100,17 @@
       "score": 3
     },
     {
-      "title": "독일 상장 투자사 토큰투스, XRP·XLM에 올인 베팅… ‘토큰화로 30조 달러 시장 잡는다’ (리플코인, 스텔라루멘)",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVmtEN2hxejNCeG5xWG40eGtYcUxNXy14eUZsX2RpVzFTUUl2WmJPOUlWSk9YYy1wUVoweW1RZlN6Y2hxeDFOWVBtRXBCTll1WUpDN1NyN2RYcmpiMDQybTJDVTFBT29KMkRPX2NrNWZJNlNVUEFxS2k3Z0R5QUlyUVhWSXRwaURsZ3Y4Mw?oc=5",
-      "date": "Thu, 04 Jun 2026 04:56:00 GMT",
-      "source": "네이버 프리미엄콘텐츠",
-      "score": 2
-    },
-    {
-      "title": "AI 기업 지분 50% 국민에게 넘겨라?...리플 CTO \"표현의 자유 공격\"",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5XUGlUekRwLVdUUUNtRTZvOWI1U003YW92OFBYcUpRTUpmb255bEtkWEI5aDZfVE5wbUd3aHdUek9hd05RZFN5SVpB?oc=5",
-      "date": "Thu, 04 Jun 2026 04:35:00 GMT",
-      "source": "코인리더스",
-      "score": 2
-    },
-    {
       "title": "리플(XRP), ISO 20022 완전 전환 시대에 가격은 바닥인데 돈은 들어온다",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUDlLZzQtNjFIYnRpaFpoaW42bURsc2NZZUtQRkQ1UUk4SU5RUmdaMW9GYzN1aUwwWjNhbDYxVENmT1o2ZlBZRDBjUkhTLWZVVjh0V1BkamNEYVBsNmJKWk5iQlBXYWFVMTBhS2c5c0ZVcWxKcDZrVjJvX252YUJkeG9vSExpT0pJcUhCcQ?oc=5",
       "date": "Thu, 04 Jun 2026 03:37:00 GMT",
       "source": "네이버 프리미엄콘텐츠",
+      "score": 2
+    },
+    {
+      "title": "[단독] 에버노스 CEO가 밝힌 XRP의 미래... 수조 달러 규모 실물 자산 토큰화의 핵심 인프라로 도약한다",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BbzJxMXRmQmhRT21LSklMTlRmWUFkMFpNN3lkVGE5SHBjdUhyX1d3VGEtVXRHZ2tMOG1nQ3pGNVUzbVhmVUhiYXFvbmFCV1EydVlhV3RrZ25Edkl0ZXlIdlpuN2ZjRWJNVC1rWHAtZ1Y?oc=5",
+      "date": "Thu, 04 Jun 2026 02:27:41 GMT",
+      "source": "블록체인투데이",
       "score": 2
     },
     {
@@ -161,6 +154,13 @@
       "date": "Wed, 03 Jun 2026 00:44:00 GMT",
       "source": "코인니스",
       "score": 8
+    },
+    {
+      "title": "RLUSD, XRP 대체재 아닌 확장 통로...기관 유입이 관건",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBpeDdUU0pVZUtHZGFiSzVMaHhiWkpjWWhEUUtKcFI3SVpiM1JDMGljNFdaUU5HN1RKZGptOXlxV3FNZWV2OTNuNDlPeVJKTDNzLUUwajVDeU92ZUt3VXl3aUphY0ExQ1hYVmgwb1RnUXJYYWc?oc=5",
+      "date": "Tue, 02 Jun 2026 22:39:00 GMT",
+      "source": "디지털투데이",
+      "score": 3
     }
   ]
 }
