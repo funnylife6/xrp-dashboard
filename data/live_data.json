@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-06-04T22:51:56",
+  "generated_at": "2026-06-05T00:00:23",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.16,
-    "price_krw": 1778.1,
-    "price_change_24h": -3.82321,
-    "price_change_7d": -12.10598,
-    "price_change_30d": -18.10048,
-    "market_cap_usd": 71813660302,
+    "price_usd": 1.17,
+    "price_krw": 1789.88,
+    "price_change_24h": -2.7053,
+    "price_change_7d": -11.55486,
+    "price_change_30d": -17.58695,
+    "market_cap_usd": 72357553704,
     "market_cap_rank": 6,
-    "volume_24h": 3256990740,
+    "volume_24h": 3270518038,
     "circulating_supply": 61977843307.0,
     "total_supply": 99985656462.0,
     "ath_usd": 3.65,
@@ -22,16 +22,16 @@
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 24.73,
-    "recent_tps": 24.73,
-    "recent_tx_count": 2226,
+    "tps_24h_avg": 19.57,
+    "recent_tps": 19.57,
+    "recent_tx_count": 1742,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 104703661,
+    "recent_window_sec": 89,
+    "ledger_seq": 104704725,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-04 22:51:42 KST",
+    "updated_at": "2026-06-05 00:00:16 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -91,6 +91,13 @@
     }
   ],
   "general_news": [
+    {
+      "title": "코인 동반 폭락장…솔라나 7%·리플 5% 하락",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DMl80NHBpTkJOc21xMVBQM19tWjJlNzBmeG91MTdyQjZnZVFXUzhfb2lHOUJYdHUzeWxKcnBkNWZKNjVLbDJtM0R4ci0zYUZlVDFjcQ?oc=5",
+      "date": "Thu, 04 Jun 2026 22:25:00 GMT",
+      "source": "이투데이",
+      "score": 2
+    },
     {
       "title": "리플(XRP)는 왜 폭락하는데 기관들은 계속 사들일까?",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB3TGhIRDJQTVNIZ084XzJEUDFKQzhyOTZ3MHpaRVlFVjZ1RnJyQWhkMHdXWGZIREdKUG5QMlNmVFRPRVVjcFlQVmt3?oc=5",
@@ -153,13 +160,6 @@
       "date": "Wed, 03 Jun 2026 03:10:00 GMT",
       "source": "CBC뉴스",
       "score": 3
-    },
-    {
-      "title": "속보 | 스트래티지 영구우선주 STRC 액면가 밑돌아…“BTC 매입 구조 균열”",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBaTkROTko5SjRIUnFzYnY5TkdRRG5Sb1dpd1N1emEzVDVoQndmaTBkZ3lhdTU0YlE3SGo1RjJNUkI4RkhCNnQ4Zlh5TmVxYW5n?oc=5",
-      "date": "Wed, 03 Jun 2026 00:44:00 GMT",
-      "source": "코인니스",
-      "score": 8
     }
   ]
 }
