@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-05T04:17:38",
+  "generated_at": "2026-06-05T08:29:40",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.14,
-    "price_krw": 1762.14,
-    "price_change_24h": -5.55382,
-    "price_change_7d": -13.0428,
-    "price_change_30d": -19.79252,
-    "market_cap_usd": 70422577988,
+    "price_usd": 1.13,
+    "price_krw": 1733.89,
+    "price_change_24h": -3.20321,
+    "price_change_7d": -14.07333,
+    "price_change_30d": -21.23896,
+    "market_cap_usd": 69761664907,
     "market_cap_rank": 6,
-    "volume_24h": 2708498415,
+    "volume_24h": 3151664495,
     "circulating_supply": 61977843307.0,
     "total_supply": 99985656462.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 70.59,
-    "sentiment_votes_down": 29.41,
+    "sentiment_votes_up": 66.67,
+    "sentiment_votes_down": 33.33,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 43.42,
-    "recent_tps": 43.42,
-    "recent_tx_count": 3908,
+    "tps_24h_avg": 24.16,
+    "recent_tps": 24.16,
+    "recent_tx_count": 2174,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104708714,
+    "ledger_seq": 104712622,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-05 04:17:24 KST",
+    "updated_at": "2026-06-05 08:29:30 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,18 +92,46 @@
   ],
   "general_news": [
     {
+      "title": "암호화폐(코인) 리플 레저 개발자 “가격 예측 안 하고 이것에만 집중할 겁니다”",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TTFhaODdoMzJ1WEhXNkNpQW16ZmZzSk9JcGd1TEVoSjNxenlZcFo3SmJSWTBBYzZXMmRoU19hWDVrS0c2cFFwU2ZSWlRwQXFXWVlCc1N3?oc=5",
+      "date": "Fri, 05 Jun 2026 06:47:00 GMT",
+      "source": "위키트리",
+      "score": 2
+    },
+    {
+      "title": "투자자들 알트코인 버린다…리플(XRP)에 쏟아지는 매도 압력",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBSZW4weFQySUhDc2I0a2ZlZ01oTlVwSEkzTjBwQnVpVm9CVWFoWmt4U0xGTlNQUEJVMHlmX1ZicjRqS0F5UlhJMzB3?oc=5",
+      "date": "Fri, 05 Jun 2026 06:27:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
+      "title": "\"전 세계 500개 은행과 연결\" 리플 문서 실체는?…XRP 대규모 채택 증거일까",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40WjAySTBzeFE1QU0xVkV1TExodVVkc1NEdmdyUXd3a0Yxa3BDTEdyMUpmZVhaWl9tMHkzU1VnMUY1TWozRDhrUWZEcnlnQXRwQXVJ?oc=5",
+      "date": "Fri, 05 Jun 2026 05:14:00 GMT",
+      "source": "네이트",
+      "score": 3
+    },
+    {
+      "title": "리플(XRP) 단기 반등 시도, 그러나 하락세 여전..기술적 지지선 주목",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JY3BfaWdUaWRObExhZlpicHVPZG5RM0lTY2J0LVdsTTlxS1pTYk5NU05fUU5pTWVWQjA5UDdqUmlCRkdNaGZ5dXg3aEcwc0Y0MVJQLTI3emhPRWxUaG5YVtIBZkFVX3lxTE80RVNibENmTVQ0NEEyZVBTcC1YLWtMWTc5SlRWZ1BPTnhVTUdycE56UGh0Q0IzQUVIcHN4ZVBpMndxY0c5U1VadG5ZMnZBeGdmcnk3Zl9pNzhvZS1NV3dDZk5KZnhPQQ?oc=5",
+      "date": "Fri, 05 Jun 2026 05:07:20 GMT",
+      "source": "tokenpost.kr",
+      "score": 2
+    },
+    {
+      "title": "XRP 10달러, 꿈은 아니다…다만 6000억달러 시총이 필요하다",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9mdVgwOWpnNy1POEJuY1haRW5BczRFNUU1Q29yRXpDU0l3bkM0R2NnamdOaTZPMGFhZ0JzQV9jRVZPWk91MFZ6djhtRG5GSTNPTksteFNwMzFuTmlvdzVUSFFuOW9xelhXV1JFNFNPeXBEVGc?oc=5",
+      "date": "Fri, 05 Jun 2026 01:52:59 GMT",
+      "source": "디지털투데이",
+      "score": 2
+    },
+    {
       "title": "코인 동반 폭락장…솔라나 7%·리플 5% 하락",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DMl80NHBpTkJOc21xMVBQM19tWjJlNzBmeG91MTdyQjZnZVFXUzhfb2lHOUJYdHUzeWxKcnBkNWZKNjVLbDJtM0R4ci0zYUZlVDFjcQ?oc=5",
       "date": "Thu, 04 Jun 2026 22:25:00 GMT",
       "source": "이투데이",
       "score": 2
-    },
-    {
-      "title": "리플(XRP)는 왜 폭락하는데 기관들은 계속 사들일까?",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB3TGhIRDJQTVNIZ084XzJEUDFKQzhyOTZ3MHpaRVlFVjZ1RnJyQWhkMHdXWGZIREdKUG5QMlNmVFRPRVVjcFlQVmt3?oc=5",
-      "date": "Thu, 04 Jun 2026 22:20:00 GMT",
-      "source": "코인리더스",
-      "score": 3
     },
     {
       "title": "리플 CEO \"반암호화폐 세력은 패배\"…튀르키예 RLUSD 확대까지, XRP 생태계 확장 속도",
@@ -113,31 +141,10 @@
       "score": 3
     },
     {
-      "title": "리플(XRP) 1.17달러대 횡보, 제도권 편입 기대는 여전",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1dTYxcmdnQUNmN0FreVFLUllkQXRyX0xfdURQYzZYczd2V2U4RmpwSmtvZElIdEFHb2ZEeURnYU9zZzZoX1dCVWJZbWlzb2VISzVWMk01NlpiWC1Pd0E2b9IBZkFVX3lxTE5WMGVZdjBPNnFkRHU0VkVzdjQ3RmtPSUdIOGJ4VWtTVjM2UEdZQW4wMHByX1hxcHdjRkZnWUZrc2U0U1VQaERTTmwzeHJrVkF6Rnh4V2NPU2pRYjQwVWRQRDRVRlJuUQ?oc=5",
-      "date": "Thu, 04 Jun 2026 21:07:29 GMT",
-      "source": "tokenpost.kr",
-      "score": 2
-    },
-    {
-      "title": "美 디지털 자산 정책 대전환…리플 CEO \"반대 세력은 패배했다\" 선언, 시장 판도 바뀌나",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zOWpWMThHN3Y0Q0ltT1htc19oa3RvaHEtTEJSMk96YzJnVDZqbnVSa2FZS3BhU1Mtc2piejAyQWx0Tm45UWc2dWRpbmMxa0VCSThmaEtjUXBEY0twRU5DU1JRWm9GMFJzRVQzQzRGZ0k?oc=5",
-      "date": "Thu, 04 Jun 2026 04:50:38 GMT",
-      "source": "블록체인투데이",
-      "score": 2
-    },
-    {
       "title": "리플(XRP), ISO 20022 완전 전환 시대에 가격은 바닥인데 돈은 들어온다",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUDlLZzQtNjFIYnRpaFpoaW42bURsc2NZZUtQRkQ1UUk4SU5RUmdaMW9GYzN1aUwwWjNhbDYxVENmT1o2ZlBZRDBjUkhTLWZVVjh0V1BkamNEYVBsNmJKWk5iQlBXYWFVMTBhS2c5c0ZVcWxKcDZrVjJvX252YUJkeG9vSExpT0pJcUhCcQ?oc=5",
       "date": "Thu, 04 Jun 2026 03:37:00 GMT",
       "source": "네이버 프리미엄콘텐츠",
-      "score": 2
-    },
-    {
-      "title": "XRP 출범 14주년…리플 CEO가 꼽은 성장 일등공신 '커뮤니티'",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HQkNyU1pyZ3Z1bjFaQ1I3dDk2X2JXazR4Rl9kX3hSUUVfektQbmVIZW4xd2IxRWRRLUdYWVZxZVR2aVFRU3cwb2pRQlIzaEx2MGdJ?oc=5",
-      "date": "Thu, 04 Jun 2026 00:25:00 GMT",
-      "source": "네이트",
       "score": 2
     },
     {
@@ -152,13 +159,6 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBhMG52SEtneGZsenZIazdGeC1ZRWVOa1V5ZTRFX1dmUWpLalhDcDA3V2Q3TVp5czc1RE1LSGRhR0FPYlU5UG1lUjFSWUQydzJxQmV0aFlXbjVWOWlRZm0wMGR3TWpDQ2lNclZ4MmpuVk9Ua3ludmNSZw?oc=5",
       "date": "Wed, 03 Jun 2026 06:19:00 GMT",
       "source": "네이트",
-      "score": 3
-    },
-    {
-      "title": "리플XRP, 튀르키예 RLUSD 지원 확대…리플의 스테이블코인 전략 본격화",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rSlNPNGRYMV9MVFBRNWlrZHVrSUtCT09XZlhhbmYxRW9LTzc1anR2VkZKYTZjbmU1UldkYmFST0xPQ1h1eGRZVEhwZTdRTl8zSll0RGkxMmRlNWRaaUpWRlhGU19jakFK?oc=5",
-      "date": "Wed, 03 Jun 2026 03:10:00 GMT",
-      "source": "CBC뉴스",
       "score": 3
     }
   ]
