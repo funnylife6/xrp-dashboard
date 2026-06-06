@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-06T18:46:25",
+  "generated_at": "2026-06-06T20:05:25",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.084,
-    "price_krw": 1690.03,
-    "price_change_24h": -1.05477,
-    "price_change_7d": -19.75776,
-    "price_change_30d": -21.85945,
-    "market_cap_usd": 67245024132,
+    "price_usd": 1.08,
+    "price_krw": 1683.78,
+    "price_change_24h": -1.82227,
+    "price_change_7d": -19.7633,
+    "price_change_30d": -22.13436,
+    "market_cap_usd": 67016937580,
     "market_cap_rank": 6,
-    "volume_24h": 2831031053,
+    "volume_24h": 2615097627,
     "circulating_supply": 62053900985.0,
     "total_supply": 99985653167.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 64.34,
-    "sentiment_votes_down": 35.66,
+    "sentiment_votes_up": 66.67,
+    "sentiment_votes_down": 33.33,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 20.13,
-    "recent_tps": 20.13,
-    "recent_tx_count": 1812,
+    "tps_24h_avg": 25.6,
+    "recent_tps": 25.6,
+    "recent_tx_count": 2099,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 104744514,
+    "recent_window_sec": 82,
+    "ledger_seq": 104745740,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-06 18:46:10 KST",
+    "updated_at": "2026-06-06 20:05:11 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -83,21 +83,14 @@
       "score": 0
     },
     {
-      "title": "비트코인·이더리움 동반 추락…기관 자금 싹쓸이한 리플(XRP) ETF 홀로 '폭풍 질주'",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBoaHhJb3NidzBoNFBoR1NtNWlGU0FJaTlWdGtFOE1ZYWdkUjZSbXNfREs4WGdQWklobWw2UERoeGNMTzl1RU5tS1ZiY1ZpQ1h0dVJkX2cycGNpSTZWMG9YQWtKYm5GZndJdUppQjR4MWw2Sk3SAXdBVV95cUxQRDFnQzQzZDZCVGg1RHhHb2tPV01TM1d2NUNZWndNbndnajk1WkJTdFpwOVpsZy1QRTVZMzBpRzdETGg1cFZEdFpIel9iOTlZU2xfbjRFWGZJYVZ3T3RKVzZ6SlE2OGhNZ0xqTkVmRURUUGpKSmI4UQ?oc=5",
-      "date": "Sat, 30 May 2026 23:36:31 GMT",
-      "source": "핀포인트뉴스",
+      "title": "XRP ETF, 암호화폐 ETF 자금 유입 1위…비트·이더 자금 이탈 지속",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ubzVyZFZGRTVwY3ZsdnRXdy1QVENJbmtlSHMxRHV2M3ZTOVhRYWdSYVdrSmM2WjZnVFFubTM4d1JyME4xd29aLWdoRGxxdkFFWEJV?oc=5",
+      "date": "Sat, 30 May 2026 15:16:00 GMT",
+      "source": "네이트",
       "score": 0
     }
   ],
   "general_news": [
-    {
-      "title": "리플(XRP), 1.09달러선 유지하며 약세 지속…비트코인 하락에 연동",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1iUU5XS21GZlR1ZmhCZnA5ZE1iMEFOTGNpTG9qZldBYlA4bENNdkltRVpwbG1xY2dtWFFEMFhkLUEzd2NPZ2ZsemQ3MzFpd3BUeC13bXNxLV9TR1ZSQTQ3c9IBZkFVX3lxTE5HeGFMU09HNHNfcGJIZkM5WVAtaUxKY2RhdERrLVlaa0dEVEZoRUJlc3JXM2VqbWlUNVRibmQzYzI2NmFUSXdsenFnQWVMckhIOVZPWHZ0QnppdDZ3UFFTWmhKT296Zw?oc=5",
-      "date": "Sat, 06 Jun 2026 13:07:18 GMT",
-      "source": "tokenpost.kr",
-      "score": 2
-    },
     {
       "title": "XRP, 2024년 최저치…23% 추가 하락 위험 ‘리플 전 CTO 로드맵, 반등 도움 될까?’",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9NUjBBRHJVX0dqRjlKSE1yUTRUS3huVjVsV2NFYXBhakdtS2dNVnFVcUpXMVpFWVBSckQxZUQ4WE1XQ0Q4TERDRkRUTV9kV1ZpdXd3OXFSR1VSeUs1OWlXUEJ5ZjdqVkRRVUhva2ZEVGY3enlOc2dVSnA2S3czZw?oc=5",
@@ -134,15 +127,22 @@
       "score": 3
     },
     {
+      "title": "리플(XRP) 주간 급락, 고래들의 매도와 규제 불확실성의 영향",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSSGNKTDgxb2JCcVN6WWpjYXhvNXBQdTZFUHJXU21fVURZbEF4MTN1RzdjTmJwdVFKcG5CLVI1eTMxb19mWkcxam40d1JBMklpb0hraEMyNS1yVUl3U2VMa9IBZkFVX3lxTE42d0VSYks0SS1pTWl3RU4zX2Z3dDhtWVRnay1vcmt0d2loZ3NSMUNTUkpqREN4QVRfelZUbWtKMjk0bVJZS2lpem5raGJoY1FGSWc2cVZmcTZqZHRtWS1maWRPT0xrUQ?oc=5",
+      "date": "Fri, 05 Jun 2026 21:07:27 GMT",
+      "source": "tokenpost.kr",
+      "score": 2
+    },
+    {
       "title": "리플XRP, 거래소서 2500만 개 빠져나갔다…RLUSD 확장 속 투자자들은 왜 움직이나",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGbmkxMFVDQW04STNybll2ZTVRbGxtampHRm1mZnNYVW1jSXZqU1ZZNTM4bjVQbFBCcFJIX0w5c2NiMFhGeXF2VVF5cV9VbmdINjFNTDlQNmZ3S0RCRzY5cTlYRFlESHNG?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1mcGtCQ19LNi1hT0tZeHkwUUQ1Z3ZPdExnd3NvSTJXTk1tTXVQTkN4TnMtX2VyLUJDVzc0Mk1BWjFsZ3k0RTdKczBSSEVYR1NwMUJIYjBYd3NmSkFSSnlxRzd6aw?oc=5",
       "date": "Fri, 05 Jun 2026 15:00:00 GMT",
       "source": "CBC뉴스",
       "score": 3
     },
     {
       "title": "속보 | 세븐시블링즈, $1803만 ETH 추가 매수",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1QdjhIZzh6aDJpTEU1ZzRVcmpvcURfWDFJN180SklkWUxMZUxOWi1VZV82RG1pVTB3c2xRTjh5VnZLUHd4bFE1UQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBOT0dCOEY5Z19LdnluOUYyaFB0aUVjTFY0RUhXWWY3M1hrNWdHNGdKSVZoYmJVWHRZd2VDc1VjVWlXVjhFcFR1N0E5LUIwdEct?oc=5",
       "date": "Fri, 05 Jun 2026 13:47:00 GMT",
       "source": "코인니스",
       "score": 8
