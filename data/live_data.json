@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-06T02:29:22",
+  "generated_at": "2026-06-06T06:08:16",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.096,
-    "price_krw": 1709.64,
-    "price_change_24h": -4.41038,
-    "price_change_7d": -19.23637,
-    "price_change_30d": -22.5164,
-    "market_cap_usd": 68031437098,
+    "price_usd": 1.093,
+    "price_krw": 1704.78,
+    "price_change_24h": -2.33974,
+    "price_change_7d": -18.74887,
+    "price_change_30d": -22.49204,
+    "market_cap_usd": 67876920782,
     "market_cap_rank": 6,
-    "volume_24h": 4159377943,
+    "volume_24h": 4298081899,
     "circulating_supply": 62053900985.0,
     "total_supply": 99985653167.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 59.06,
-    "sentiment_votes_down": 40.94,
+    "sentiment_votes_up": 59.62,
+    "sentiment_votes_down": 40.38,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 23.52,
-    "recent_tps": 23.52,
-    "recent_tx_count": 1929,
+    "tps_24h_avg": 31.77,
+    "recent_tps": 31.77,
+    "recent_tx_count": 2859,
     "recent_ledger_count": 24,
-    "recent_window_sec": 82,
-    "ledger_seq": 104729355,
+    "recent_window_sec": 90,
+    "ledger_seq": 104732752,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-06 02:29:08 KST",
+    "updated_at": "2026-06-06 06:08:08 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,6 +92,13 @@
   ],
   "general_news": [
     {
+      "title": "리플(Ripple), XRP '보완 자산' 언급 논란...세상 돈 다 삼킨다더니?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBCRy1CR2FBODlkN0RKazNUdUx6ZmcyTkZWbGM0SGR0UXJQRGE0b3RhWFlEbkk4bXhBcVJCd1BhaGV1dDM4SjVJVV9R?oc=5",
+      "date": "Sat, 06 Jun 2026 03:00:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
       "title": "리플 XRP 14주년…44억건 거래와 가격 조정",
       "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPOVZXblh5bWx3WFFVdVVoWWZVWmw2SldOWlRCWVNqdGJHYUVmMWtqMFpPSTBEWGtsMTN3ajI4NzhxTGxSYW5TUzdZejhtaVNfMTNOT3lKbEpMVW5SOW1KWHl0ZXdrN0tGTy1EUG8tLW5RNzRHQi1UaTY1Mk1LZ3p6dzFQY0RoNFV0V2xCV083Ukh5ZUhzSnAwZE9ZbDdISzN2U3RZdVd1MEppTHJlOVR2Sm8yZDhKbU1lSXlrVG4wcnRmb1ZIVDR2QlVQYjZHOENBQ3ZEdlZFZnVyT0t1V3ltTFp4SWJIbWlicGZOX3VHVHd4d2Q4bGVaNV9Yc3FDU0pNTGZOVExOOThaR2thUWRid1V6cW8ydDJtMkE?oc=5",
       "date": "Fri, 05 Jun 2026 23:03:57 GMT",
@@ -120,13 +127,6 @@
       "score": 2
     },
     {
-      "title": "리플(Ripple) 엔지니어, XRP 레저 개선 띄우기...\"좋은 내용 많다\"",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1TRFhHNFFMWG1QWllHUUJEdF84NUxsdlVJUVlMRkstb2h1NVhrTTlRemR4LTRiRmlaUGNCUGNDbkRzNTY5dWxlWFpn?oc=5",
-      "date": "Fri, 05 Jun 2026 18:20:00 GMT",
-      "source": "코인리더스",
-      "score": 2
-    },
-    {
       "title": "리플XRP, 거래소서 2500만 개 빠져나갔다…RLUSD 확장 속 투자자들은 왜 움직이나",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGbmkxMFVDQW04STNybll2ZTVRbGxtampHRm1mZnNYVW1jSXZqU1ZZNTM4bjVQbFBCcFJIX0w5c2NiMFhGeXF2VVF5cV9VbmdINjFNTDlQNmZ3S0RCRzY5cTlYRFlESHNG?oc=5",
       "date": "Fri, 05 Jun 2026 15:00:00 GMT",
@@ -141,25 +141,25 @@
       "score": 2
     },
     {
-      "title": "XRP 10달러, 꿈은 아니다…다만 6000억달러 시총이 필요하다",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9mdVgwOWpnNy1POEJuY1haRW5BczRFNUU1Q29yRXpDU0l3bkM0R2NnamdOaTZPMGFhZ0JzQV9jRVZPWk91MFZ6djhtRG5GSTNPTksteFNwMzFuTmlvdzVUSFFuOW9xelhXV1JFNFNPeXBEVGc?oc=5",
-      "date": "Fri, 05 Jun 2026 01:52:59 GMT",
-      "source": "디지털투데이",
+      "title": "코인 동반 폭락장…솔라나 7%·리플 5% 하락",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1KODVnak9JTzVPNVdGeXl6VmlBRkR4RWsyWW9ERlRaUUZTVXZSRWYzbk1oY1RsXzItQU1ZcVNGcjJfSmZNMWUzU0dUdU9Qa0U?oc=5",
+      "date": "Thu, 04 Jun 2026 22:26:05 GMT",
+      "source": "v.daum.net",
       "score": 2
     },
     {
-      "title": "美 디지털 자산 정책 대전환…리플 CEO \"반대 세력은 패배했다\" 선언, 시장 판도 바뀌나",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zOWpWMThHN3Y0Q0ltT1htc19oa3RvaHEtTEJSMk96YzJnVDZqbnVSa2FZS3BhU1Mtc2piejAyQWx0Tm45UWc2dWRpbmMxa0VCSThmaEtjUXBEY0twRU5DU1JRWm9GMFJzRVQzQzRGZ0k?oc=5",
-      "date": "Thu, 04 Jun 2026 04:50:38 GMT",
-      "source": "블록체인투데이",
+      "title": "리플(XRP), ISO 20022 완전 전환 시대에 가격은 바닥인데 돈은 들어온다",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUDlLZzQtNjFIYnRpaFpoaW42bURsc2NZZUtQRkQ1UUk4SU5RUmdaMW9GYzN1aUwwWjNhbDYxVENmT1o2ZlBZRDBjUkhTLWZVVjh0V1BkamNEYVBsNmJKWk5iQlBXYWFVMTBhS2c5c0ZVcWxKcDZrVjJvX252YUJkeG9vSExpT0pJcUhCcQ?oc=5",
+      "date": "Thu, 04 Jun 2026 03:37:00 GMT",
+      "source": "네이버 프리미엄콘텐츠",
       "score": 2
     },
     {
-      "title": "커뮤니티",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB0eUNIMmxFUGlfVFhvX00zZWpVRk5iaXZ4OVBEMjRKZ3hPSl9kbDVJenlXa3VYdWhWX3pyWXNCOG5USzh6NWtNeDRtUWlxUQ?oc=5",
-      "date": "Thu, 04 Jun 2026 03:47:46 GMT",
-      "source": "코인니스",
-      "score": 8
+      "title": "XRP 출범 14주년…리플 CEO가 꼽은 성장 일등공신 '커뮤니티'",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HQkNyU1pyZ3Z1bjFaQ1I3dDk2X2JXazR4Rl9kX3hSUUVfektQbmVIZW4xd2IxRWRRLUdYWVZxZVR2aVFRU3cwb2pRQlIzaEx2MGdJ?oc=5",
+      "date": "Thu, 04 Jun 2026 00:25:00 GMT",
+      "source": "네이트",
+      "score": 2
     }
   ]
 }
