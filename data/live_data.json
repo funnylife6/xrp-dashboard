@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-06T12:49:43",
+  "generated_at": "2026-06-06T14:26:03",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.087,
-    "price_krw": 1694.54,
-    "price_change_24h": -2.65617,
-    "price_change_7d": -18.81244,
-    "price_change_30d": -22.90735,
-    "market_cap_usd": 67275144585,
+    "price_usd": 1.1,
+    "price_krw": 1722.32,
+    "price_change_24h": -0.65564,
+    "price_change_7d": -17.41307,
+    "price_change_30d": -21.89313,
+    "market_cap_usd": 68634602297,
     "market_cap_rank": 6,
-    "volume_24h": 3766162637,
+    "volume_24h": 3536873859,
     "circulating_supply": 62053900985.0,
     "total_supply": 99985653167.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 64.23,
-    "sentiment_votes_down": 35.77,
+    "sentiment_votes_up": 65.67,
+    "sentiment_votes_down": 34.33,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 29.84,
-    "recent_tps": 29.84,
-    "recent_tx_count": 2686,
+    "tps_24h_avg": 28.56,
+    "recent_tps": 28.56,
+    "recent_tx_count": 2570,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104738981,
+    "ledger_seq": 104740475,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-06 12:49:36 KST",
+    "updated_at": "2026-06-06 14:25:50 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -83,34 +83,34 @@
       "score": 0
     },
     {
-      "title": "지지선 무너진 리플, 1달러 붕괴 경고등…볼린저 밴드의 경고",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1DTEVaUnI1N1BHNVgyWHowXzI4Z1ptNTh3QnZfSHpyVng5Z1hxNmY4OUpqSUJpdHZJOVNoOUZCUnNSOFhOemVPU0h0dl81U2h4ZmY0RlBIZnZ5bmRpNlpiV3dydVJ4VXMtQVJxYVBQUElSUjTSAXdBVV95cUxOckt6N1l4eW5EaVFSV1U2TnROZEFsSVF1Z0RiZzdPODk4NV9BUldFWWVieFliSXBsbzdrcWZsODJIYUtoeHJUS29zZ2EwNTVRbVZxdVZRYmtZTEd1c2xBY29MbE10aGJDY3RNaFlHNTNldmJ4bk55QQ?oc=5",
-      "date": "Mon, 01 Jun 2026 09:25:43 GMT",
+      "title": "월가 거물들의 엇갈린 베팅…모건스탠리, 골드만 탈출 속 리플(XRP) ETF 전격 매수",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9hVmRWNlRQb3BnSjNjQjVUbldHdy03RVd0V1FMYjhEYnN4X0tDMFlhaVZYQVdoTk84ZnZGcXg0b1JpNG1kSTItMjRULWExUnFmQlJyeE10ek5kZ1RQR0Q0WkMtSHNSV3FtcHZoUVpnMUpPV0XSAXdBVV95cUxQT3R1d1lhMnFhVVM2UW8wUy14Z1VuOVpocGlfWTE3N25uM2dKbGphX1BRaFhBUC04RTI3aHJaNDFjcDlPVTl4QWwxelRKOUN6cWRNNzV5U2Y1SjgzR3g5ZkxqTGVkcFNtMXNKWXZyZ0VWbkgwRTlJOA?oc=5",
+      "date": "Sat, 30 May 2026 23:40:07 GMT",
       "source": "핀포인트뉴스",
       "score": 0
     }
   ],
   "general_news": [
     {
-      "title": "XRP, 2024년 최저치…23% 추가 하락 위험 ‘리플 전 CTO 로드맵, 반등 도움 될까?’",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9NUjBBRHJVX0dqRjlKSE1yUTRUS3huVjVsV2NFYXBhakdtS2dNVnFVcUpXMVpFWVBSckQxZUQ4WE1XQ0Q4TERDRkRUTV9kV1ZpdXd3OXFSR1VSeUs1OWlXUEJ5ZjdqVkRRVUhva2ZEVGY3enlOc2dVSnA2S3czZw?oc=5",
-      "date": "Sat, 06 Jun 2026 10:42:37 GMT",
-      "source": "BeInCrypto",
-      "score": 2
-    },
-    {
-      "title": "모두가 비관적일 때가 기회일까…리플(XRP) 반등 신호 포착?",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5ZQTFJaXphV21GWEo3TEU5bFVBZ2Rma0FEdUNZaDJ1eGd5UHYtMTUwZ1lXTUlPcHppZUZIclVvaVFoUlJNSGJjZ3JR?oc=5",
-      "date": "Sat, 06 Jun 2026 08:48:00 GMT",
-      "source": "코인리더스",
-      "score": 2
-    },
-    {
       "title": "리플(XRP), 사흘 연속 하락과 1달러 초반대 지지선 시험",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaOUVWWk1JSERSZnhnQldFdGZZU2dzam8yal9VNHdkMGRRYUgxbExlUlFzUW5GQURHRTN1U2ZpS0JTZDVvbk80dkxWRGhyaVVHRjFLU21sODlTYzJOWDJMQdIBZkFVX3lxTE56RzlHZ3RjaUh5MnR6bl9OM2dGVG5ZM0VEX3RBQ05zN2FBX3Rhc1hDeFdvZlo1MDRqMGRLUi15QlFvSVRCODh4QWlHdHNjTktval9tQlBRQWJZam50a1VZZzc2WFdJZw?oc=5",
       "date": "Sat, 06 Jun 2026 05:06:59 GMT",
       "source": "tokenpost.kr",
       "score": 2
+    },
+    {
+      "title": "\"XRP(리플), 월가는 사도 나는 안 산다\"...700% 랠리 맞힌 분석가마저 외면",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB2eEtxSWlIdWltR3NQS3BKNk9Ia056WXVNcmRiMGVSSlJVYkh5eEtGakk5ZldfbDFyWWdqblBWeGNWSXk0dzNBd293?oc=5",
+      "date": "Sat, 06 Jun 2026 05:00:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
+      "title": "리플(Ripple), XRP '보완 자산' 언급 논란...세상 돈 다 삼킨다더니?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBCRy1CR2FBODlkN0RKazNUdUx6ZmcyTkZWbGM0SGR0UXJQRGE0b3RhWFlEbkk4bXhBcVJCd1BhaGV1dDM4SjVJVV9R?oc=5",
+      "date": "Sat, 06 Jun 2026 03:00:00 GMT",
+      "source": "코인리더스",
+      "score": 3
     },
     {
       "title": "리플 XRP 14주년…44억건 거래와 가격 조정",
@@ -142,7 +142,7 @@
     },
     {
       "title": "리플XRP, 거래소서 2500만 개 빠져나갔다…RLUSD 확장 속 투자자들은 왜 움직이나",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGbmkxMFVDQW04STNybll2ZTVRbGxtampHRm1mZnNYVW1jSXZqU1ZZNTM4bjVQbFBCcFJIX0w5c2NiMFhGeXF2VVF5cV9VbmdINjFNTDlQNmZ3S0RCRzY5cTlYRFlESHNG?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1mcGtCQ19LNi1hT0tZeHkwUUQ1Z3ZPdExnd3NvSTJXTk1tTXVQTkN4TnMtX2VyLUJDVzc0Mk1BWjFsZ3k0RTdKczBSSEVYR1NwMUJIYjBYd3NmSkFSSnlxRzd6aw?oc=5",
       "date": "Fri, 05 Jun 2026 15:00:00 GMT",
       "source": "CBC뉴스",
       "score": 3
