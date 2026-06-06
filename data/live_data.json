@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-06T09:06:46",
+  "generated_at": "2026-06-06T11:02:41",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.098,
-    "price_krw": 1712.84,
-    "price_change_24h": -2.73916,
-    "price_change_7d": -17.98334,
-    "price_change_30d": -22.40613,
-    "market_cap_usd": 68254006648,
+    "price_usd": 1.08,
+    "price_krw": 1683.71,
+    "price_change_24h": -4.8001,
+    "price_change_7d": -19.43742,
+    "price_change_30d": -23.39996,
+    "market_cap_usd": 67003786044,
     "market_cap_rank": 6,
-    "volume_24h": 3930742498,
+    "volume_24h": 3867059007,
     "circulating_supply": 62053900985.0,
     "total_supply": 99985653167.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 61.59,
-    "sentiment_votes_down": 38.41,
+    "sentiment_votes_up": 61.11,
+    "sentiment_votes_down": 38.89,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 21.07,
-    "recent_tps": 21.07,
-    "recent_tx_count": 1896,
+    "tps_24h_avg": 28.16,
+    "recent_tps": 28.16,
+    "recent_tx_count": 2506,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 104735523,
+    "recent_window_sec": 89,
+    "ledger_seq": 104737322,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-06 09:06:40 KST",
+    "updated_at": "2026-06-06 11:02:34 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,17 +92,17 @@
   ],
   "general_news": [
     {
+      "title": "모두가 비관적일 때가 기회일까…리플(XRP) 반등 신호 포착?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5ZQTFJaXphV21GWEo3TEU5bFVBZ2Rma0FEdUNZaDJ1eGd5UHYtMTUwZ1lXTUlPcHppZUZIclVvaVFoUlJNSGJjZ3JR?oc=5",
+      "date": "Sat, 06 Jun 2026 08:48:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
       "title": "리플(XRP), 사흘 연속 하락과 1달러 초반대 지지선 시험",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaOUVWWk1JSERSZnhnQldFdGZZU2dzam8yal9VNHdkMGRRYUgxbExlUlFzUW5GQURHRTN1U2ZpS0JTZDVvbk80dkxWRGhyaVVHRjFLU21sODlTYzJOWDJMQdIBZkFVX3lxTE56RzlHZ3RjaUh5MnR6bl9OM2dGVG5ZM0VEX3RBQ05zN2FBX3Rhc1hDeFdvZlo1MDRqMGRLUi15QlFvSVRCODh4QWlHdHNjTktval9tQlBRQWJZam50a1VZZzc2WFdJZw?oc=5",
       "date": "Sat, 06 Jun 2026 05:06:59 GMT",
       "source": "tokenpost.kr",
-      "score": 2
-    },
-    {
-      "title": "리플(Ripple), XRP '보완 자산' 언급 논란...세상 돈 다 삼킨다더니?",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBCRy1CR2FBODlkN0RKazNUdUx6ZmcyTkZWbGM0SGR0UXJQRGE0b3RhWFlEbkk4bXhBcVJCd1BhaGV1dDM4SjVJVV9R?oc=5",
-      "date": "Sat, 06 Jun 2026 03:00:00 GMT",
-      "source": "코인리더스",
       "score": 2
     },
     {
