@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-07T08:33:42",
+  "generated_at": "2026-06-07T11:03:05",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.14,
-    "price_krw": 1773.0,
-    "price_change_24h": 3.52408,
-    "price_change_7d": -14.73229,
-    "price_change_30d": -17.82291,
-    "market_cap_usd": 70616455293,
+    "price_krw": 1770.69,
+    "price_change_24h": 4.95106,
+    "price_change_7d": -15.07129,
+    "price_change_30d": -18.09227,
+    "market_cap_usd": 70439080691,
     "market_cap_rank": 6,
-    "volume_24h": 1945523945,
+    "volume_24h": 2043117573,
     "circulating_supply": 62053900985.0,
     "total_supply": 99985653167.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 62.18,
-    "sentiment_votes_down": 37.82,
+    "sentiment_votes_up": 63.49,
+    "sentiment_votes_down": 36.51,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 21.57,
-    "recent_tps": 21.57,
-    "recent_tx_count": 1941,
+    "tps_24h_avg": 30.91,
+    "recent_tps": 30.91,
+    "recent_tx_count": 2751,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 104757294,
+    "recent_window_sec": 89,
+    "ledger_seq": 104759599,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-07 08:33:28 KST",
+    "updated_at": "2026-06-07 11:02:53 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -106,6 +106,13 @@
       "score": 2
     },
     {
+      "title": "XRP(리플), 70% 추락이 끝 아니다...전문가 \"과거 1,200% 랠리 패턴 반복 중\"",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5zeTZzTHE4b2VlOGtURU5teDBCc0otU2Z2RDI3Sk41YmpUYjlEeXY2VjBhZ2FwbXhMNjhGLURwVDA4anhIR3M5Z19R?oc=5",
+      "date": "Sun, 07 Jun 2026 03:00:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
       "title": "리플(XRP), RLUSD 영향력 넓힌다…멀티체인 확장에 시장 시선 집중",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ybFR4cXlIN245V3Qzbnp0SWZyRThqMzc1MjlONDh4akE3eEhSR2x3OTlqS0FLZU9WN3lXMGYyX1BnVGpWS1VpVnVaMDdTZGw2dFMtbTVCRldHYndDbHRBbzJoX2l4U2ZO?oc=5",
       "date": "Sat, 06 Jun 2026 23:40:00 GMT",
@@ -153,13 +160,6 @@
       "date": "Fri, 05 Jun 2026 16:46:00 GMT",
       "source": "코인니스",
       "score": 8
-    },
-    {
-      "title": "리플XRP, 거래소서 2500만 개 빠져나갔다…RLUSD 확장 속 투자자들은 왜 움직이나",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGbmkxMFVDQW04STNybll2ZTVRbGxtampHRm1mZnNYVW1jSXZqU1ZZNTM4bjVQbFBCcFJIX0w5c2NiMFhGeXF2VVF5cV9VbmdINjFNTDlQNmZ3S0RCRzY5cTlYRFlESHNG?oc=5",
-      "date": "Fri, 05 Jun 2026 15:00:00 GMT",
-      "source": "CBC뉴스",
-      "score": 3
     }
   ]
 }
