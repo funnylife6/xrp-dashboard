@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-07T11:03:05",
+  "generated_at": "2026-06-07T12:56:49",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.14,
-    "price_krw": 1770.69,
-    "price_change_24h": 4.95106,
-    "price_change_7d": -15.07129,
-    "price_change_30d": -18.09227,
-    "market_cap_usd": 70439080691,
+    "price_usd": 1.12,
+    "price_krw": 1751.5,
+    "price_change_24h": 2.65774,
+    "price_change_7d": -15.76489,
+    "price_change_30d": -19.20727,
+    "market_cap_usd": 69704321890,
     "market_cap_rank": 6,
-    "volume_24h": 2043117573,
+    "volume_24h": 2054810954,
     "circulating_supply": 62053900985.0,
     "total_supply": 99985653167.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 63.49,
-    "sentiment_votes_down": 36.51,
+    "sentiment_votes_up": 62.99,
+    "sentiment_votes_down": 37.01,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 30.91,
-    "recent_tps": 30.91,
-    "recent_tx_count": 2751,
+    "tps_24h_avg": 29.93,
+    "recent_tps": 29.93,
+    "recent_tx_count": 2694,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 104759599,
+    "recent_window_sec": 90,
+    "ledger_seq": 104761361,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-07 11:02:53 KST",
+    "updated_at": "2026-06-07 12:56:37 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -48,10 +48,10 @@
   },
   "etf_news": [
     {
-      "title": "엑스알피, 핵심 지지선 이탈…1달러선 붕괴 가능성 커졌다",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9CRjVSVDVBVnFaX2taN2RWTEF5RVpMVVlRYW9IT21aalV5UXpWVXdMTEhJVWhJV2dWTWtDNDVHTWc2N2tIbm56SDU5V3Zkamoy?oc=5",
-      "date": "Sun, 07 Jun 2026 00:31:22 GMT",
-      "source": "블루밍비트",
+      "title": "비트코인 17억 달러 썰물 탈출할 때 개미들 몰렸다…XRP 펀드의 기이한 녹색 마감",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5sMHBHQk1lU00wekhqZERVQUFzNHFCN0hJTjk3czctbnY2ZDlNSVVRYUJadTdfbzRRR1FVdW8tTlFHT0UxTDZBV25mbWZsOGd5SGY1QTRTUkRHYVdRWVlBVG1ldXdPQ0Zxb21rTkFLRVZoUFHSAXdBVV95cUxNX2VLb0gxZjB4Z2tXSS1xVzY0VWF3bTdhMDRwYU5PbWVvSHowbEJVVk1jcGpzRW1TWUlIaTh6eWNIZDBZZmJCRHpFRjdmZTdkeWF6Zm1UQ1ZKRnU0U2xLdDEzNWhnTTNBaV96UjJOSVVjV2Q5eDFoTQ?oc=5",
+      "date": "Sun, 07 Jun 2026 09:50:48 GMT",
+      "source": "핀포인트뉴스",
       "score": 0
     },
     {
@@ -99,17 +99,17 @@
       "score": 2
     },
     {
+      "title": "과매도 끝났나…리플(XRP) 5% 급반등, 바닥 신호에 투자자들 주목",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBSdEJ6dEc3QlpqLWxycWU2b01ZVEdmX2ZKOTFfMXVraUxxeGlrN2t2U2k1d1JfaS1UcWw5czNWTEF2UXNtaWl3NXpR?oc=5",
+      "date": "Sun, 07 Jun 2026 05:51:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
       "title": "리플(XRP), 주요 지지선 붕괴로 추가 하락 가능성",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WNzhCelY5Mk1KUC1rVmF0UEoteFdaeUM1dk5YU2E2ZHN6VU9idHNqVWhlYjB6YmV0dndNNVVmNWlaMlVKa1BNa3JHNWgzQkxpeHBWN0QyMWwyek5qNmx1WNIBZkFVX3lxTE4xMzdsM1l3SmFCYmlna2tiSi1DZEdCUU9pdmNtUUNaOHRzRUcxNUs2QkFKN3JGTU8ya3RwZ2RDVVVPZUJhT0ZOa1J5eFp1YUdMUlNteDJTZi1aRkdBZ0dxLVlIcTBfZw?oc=5",
       "date": "Sun, 07 Jun 2026 05:06:54 GMT",
       "source": "tokenpost.kr",
-      "score": 2
-    },
-    {
-      "title": "XRP(리플), 70% 추락이 끝 아니다...전문가 \"과거 1,200% 랠리 패턴 반복 중\"",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5zeTZzTHE4b2VlOGtURU5teDBCc0otU2Z2RDI3Sk41YmpUYjlEeXY2VjBhZ2FwbXhMNjhGLURwVDA4anhIR3M5Z19R?oc=5",
-      "date": "Sun, 07 Jun 2026 03:00:00 GMT",
-      "source": "코인리더스",
       "score": 2
     },
     {
@@ -155,11 +155,11 @@
       "score": 3
     },
     {
-      "title": "속보 | 익명 고래, $1.28억 차입해 7.8만 ETH 매수... 레버리지 3배",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE95M1VsOV83VlF2ZHp1OVptUWY2YnZNQ2xXVXdncjJ0SXJIOVlYaFViZkhDaW5jdzIxRzk4Q0t5eFZ5Q2lBOTFHdWNhelM3WXY5?oc=5",
-      "date": "Fri, 05 Jun 2026 16:46:00 GMT",
-      "source": "코인니스",
-      "score": 8
+      "title": "리플XRP, 거래소서 2500만 개 빠져나갔다…RLUSD 확장 속 투자자들은 왜 움직이나",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGbmkxMFVDQW04STNybll2ZTVRbGxtampHRm1mZnNYVW1jSXZqU1ZZNTM4bjVQbFBCcFJIX0w5c2NiMFhGeXF2VVF5cV9VbmdINjFNTDlQNmZ3S0RCRzY5cTlYRFlESHNG?oc=5",
+      "date": "Fri, 05 Jun 2026 15:00:00 GMT",
+      "source": "CBC뉴스",
+      "score": 3
     }
   ]
 }
