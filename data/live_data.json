@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-06T22:57:20",
+  "generated_at": "2026-06-07T00:02:14",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.088,
-    "price_krw": 1696.57,
-    "price_change_24h": -1.78689,
-    "price_change_7d": -19.3153,
-    "price_change_30d": -21.26776,
-    "market_cap_usd": 67504032594,
+    "price_usd": 1.093,
+    "price_krw": 1704.51,
+    "price_change_24h": -0.27796,
+    "price_change_7d": -18.29908,
+    "price_change_30d": -21.05292,
+    "market_cap_usd": 67829329629,
     "market_cap_rank": 6,
-    "volume_24h": 2364470466,
+    "volume_24h": 2201313019,
     "circulating_supply": 62053900985.0,
     "total_supply": 99985653167.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 64.75,
-    "sentiment_votes_down": 35.25,
+    "sentiment_votes_up": 65.83,
+    "sentiment_votes_down": 34.17,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 19.14,
-    "recent_tps": 19.14,
-    "recent_tx_count": 1723,
+    "tps_24h_avg": 23.8,
+    "recent_tps": 23.8,
+    "recent_tx_count": 2142,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104748412,
+    "ledger_seq": 104749418,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-06 22:57:12 KST",
+    "updated_at": "2026-06-07 00:02:08 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -52,13 +52,6 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUDlLZzQtNjFIYnRpaFpoaW42bURsc2NZZUtQRkQ1UUk4SU5RUmdaMW9GYzN1aUwwWjNhbDYxVENmT1o2ZlBZRDBjUkhTLWZVVjh0V1BkamNEYVBsNmJKWk5iQlBXYWFVMTBhS2c5c0ZVcWxKcDZrVjJvX252YUJkeG9vSExpT0pJcUhCcQ?oc=5",
       "date": "Thu, 04 Jun 2026 03:37:00 GMT",
       "source": "네이버 프리미엄콘텐츠",
-      "score": 0
-    },
-    {
-      "title": "[크립토핫이슈] '나홀로 질주' XRP…클래리티법 충돌",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE05WkF3YjJLUmRhbkY5TklkekRvOE1PR3hrRjBYbElVTE9Xc0Q3TnNkYWRnRVdDTjRXampycXh3U1dCSG1iU2g3S2I5NjdrTzdtZDMzemtjaUVqTFRtcEoxXzNndnJNaGFPd0FQTXB3S3JaZ3M?oc=5",
-      "date": "Wed, 03 Jun 2026 22:30:00 GMT",
-      "source": "디지털투데이",
       "score": 0
     },
     {
@@ -88,12 +81,33 @@
       "date": "Sat, 30 May 2026 23:36:31 GMT",
       "source": "핀포인트뉴스",
       "score": 0
+    },
+    {
+      "title": "XRP ETF, 암호화폐 ETF 자금 유입 1위…비트·이더 자금 이탈 지속",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ubzVyZFZGRTVwY3ZsdnRXdy1QVENJbmtlSHMxRHV2M3ZTOVhRYWdSYVdrSmM2WjZnVFFubTM4d1JyME4xd29aLWdoRGxxdkFFWEJV?oc=5",
+      "date": "Sat, 30 May 2026 15:16:00 GMT",
+      "source": "네이트",
+      "score": 0
     }
   ],
   "general_news": [
     {
+      "title": "리플(XRP), RLUSD 영향력 넓힌다…멀티체인 확장에 시장 시선 집중",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ybFR4cXlIN245V3Qzbnp0SWZyRThqMzc1MjlONDh4akE3eEhSR2x3OTlqS0FLZU9WN3lXMGYyX1BnVGpWS1VpVnVaMDdTZGw2dFMtbTVCRldHYndDbHRBbzJoX2l4U2ZO?oc=5",
+      "date": "Sat, 06 Jun 2026 23:40:00 GMT",
+      "source": "CBC뉴스",
+      "score": 3
+    },
+    {
+      "title": "월드코인 21% 급락·리플XRP·비트코인 하락, 국채금리 상승에 관망세 확대",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE94Y3g4aXlqMktPVURyVGozam1kcGY0UDFOdGNKZndtcG10VkVGaHBDaWxJZkt6RGd3STB4X1ZjaklzT2syQ1pMem4xZEp6Vm5QWUFFbFcwZVo2ZGZRMTVTY1FSdFl6dHhFTW84eVNGQy1zUQ?oc=5",
+      "date": "Sat, 06 Jun 2026 23:23:02 GMT",
+      "source": "TopStarNews",
+      "score": 2
+    },
+    {
       "title": "전 리플 CTO \"기업들, XRP 레저에서 주식·레포·대출 토큰화할 것\"",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GS0hxVVo1V0RaU2dQV24wNFZSTmEtd3djVXo2OXJmSS1uaEdvOUFXZ3RMRzVVejBmTmxkbHM3Zy12MDZkUmJ4Nk9SS2wyNExCbUFvX0NHc3dtN3ZrUFJ0Zg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqdENVOW9CWUdJUnR6dkJUcFdQbWlnMS1zOFVlMFRMYjRiTGdBVUo3bDBWanpJR1gtVnBBT0tUeUJXUDRUVnNyclFfTVNMSF9Hd3dN?oc=5",
       "date": "Sat, 06 Jun 2026 22:46:00 GMT",
       "source": "네이트",
       "score": 2
@@ -127,11 +141,11 @@
       "score": 2
     },
     {
-      "title": "바빌론 급락·이더리움 하락·리플XRP 보합권, 국채금리 상승에 관망 확대",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2dDV3YUZHME1IaDZicVI0MHB3MlVUQnowbXJPTnh5Snd3cG9mZHdmZUhvT0I3S05oSG9Sb1dQellhSFBlbUg0QkFWVEhnN2h5VUhzWEpVQ19XbWo0TTVxLV9Yd1EtMVd0YzdybVA0M1h3QQ?oc=5",
-      "date": "Fri, 05 Jun 2026 21:58:18 GMT",
-      "source": "TopStarNews",
-      "score": 2
+      "title": "7년 전 ‘기차’는 이미 떠났어요… XRP 옹호자마저 인정한 리플의 차가운 진화론",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBteVhWNzF1TEZSNExYdFVmY25pMlMyYldXUExHS29qUENMZlJYMGJXTF96VXdraTE2NHVwTGFhWkR6NVB3eENncWhmZjhEaGhSU2k0WFdiUGxidmRLNzR4Ym1LRGhDNFNCYm56VEhFVWFxakHSAXdBVV95cUxQdDE4OUgzaUVXWDM1VTQzQTRlbjFpTHBuV2I4T2N0ak5fYUM0QkZ4ckRCUmt5T2RGV0FMT0FydEsxU05hWGtmanVNUWM1WHJtUTR4NUd4dGk1WUNMNkdqZzQ5SlZWMHpQSVh5RGR0c0RyLUNjV3RISQ?oc=5",
+      "date": "Fri, 05 Jun 2026 21:38:48 GMT",
+      "source": "핀포인트뉴스",
+      "score": 3
     },
     {
       "title": "속보 | 익명 고래, $1.28억 차입해 7.8만 ETH 매수... 레버리지 3배",
@@ -142,24 +156,10 @@
     },
     {
       "title": "리플XRP, 거래소서 2500만 개 빠져나갔다…RLUSD 확장 속 투자자들은 왜 움직이나",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1mcGtCQ19LNi1hT0tZeHkwUUQ1Z3ZPdExnd3NvSTJXTk1tTXVQTkN4TnMtX2VyLUJDVzc0Mk1BWjFsZ3k0RTdKczBSSEVYR1NwMUJIYjBYd3NmSkFSSnlxRzd6aw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGbmkxMFVDQW04STNybll2ZTVRbGxtampHRm1mZnNYVW1jSXZqU1ZZNTM4bjVQbFBCcFJIX0w5c2NiMFhGeXF2VVF5cV9VbmdINjFNTDlQNmZ3S0RCRzY5cTlYRFlESHNG?oc=5",
       "date": "Fri, 05 Jun 2026 15:00:00 GMT",
       "source": "CBC뉴스",
       "score": 3
-    },
-    {
-      "title": "속보 | 세븐시블링즈, $1803만 ETH 추가 매수",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBOT0dCOEY5Z19LdnluOUYyaFB0aUVjTFY0RUhXWWY3M1hrNWdHNGdKSVZoYmJVWHRZd2VDc1VjVWlXVjhFcFR1N0E5LUIwdEct?oc=5",
-      "date": "Fri, 05 Jun 2026 13:47:00 GMT",
-      "source": "코인니스",
-      "score": 8
-    },
-    {
-      "title": "암호화폐(코인) 리플 레저 개발자 “가격 예측 안 하고 이것에만 집중할 겁니다”",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TTFhaODdoMzJ1WEhXNkNpQW16ZmZzSk9JcGd1TEVoSjNxenlZcFo3SmJSWTBBYzZXMmRoU19hWDVrS0c2cFFwU2ZSWlRwQXFXWVlCc1N3?oc=5",
-      "date": "Fri, 05 Jun 2026 06:47:00 GMT",
-      "source": "위키트리",
-      "score": 2
     }
   ]
 }
