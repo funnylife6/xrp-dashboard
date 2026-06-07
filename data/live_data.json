@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-07T21:59:25",
+  "generated_at": "2026-06-07T23:08:46",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.13,
-    "price_krw": 1758.23,
-    "price_change_24h": 3.49668,
-    "price_change_7d": -15.09902,
-    "price_change_30d": -20.11482,
-    "market_cap_usd": 69954451706,
+    "price_usd": 1.16,
+    "price_krw": 1801.85,
+    "price_change_24h": 6.05504,
+    "price_change_7d": -13.49888,
+    "price_change_30d": -18.53189,
+    "market_cap_usd": 71703485163,
     "market_cap_rank": 6,
-    "volume_24h": 1947623571,
+    "volume_24h": 2125966477,
     "circulating_supply": 62053900985.0,
     "total_supply": 99985653167.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 65.55,
-    "sentiment_votes_down": 34.45,
+    "sentiment_votes_up": 66.39,
+    "sentiment_votes_down": 33.61,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 22.88,
-    "recent_tps": 22.88,
-    "recent_tx_count": 2059,
+    "tps_24h_avg": 18.9,
+    "recent_tps": 18.9,
+    "recent_tx_count": 1701,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104769772,
+    "ledger_seq": 104770849,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-07 21:59:11 KST",
+    "updated_at": "2026-06-07 23:08:33 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,6 +92,13 @@
   ],
   "general_news": [
     {
+      "title": "리플(XRP) 단기 반등 불구, 중장기 하락 압력 지속",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tVlhLSFZLNUUtQ1F2N1RTSDNBMnFHMDIzbHAyZVM2VzltZmdqdkY0X1Q0amZsZHRSMVFIUmhFemJpUFltNDV3dmstem1Bc2N0bG5SUjlKSzh3Z2xNZGtWctIBZkFVX3lxTE5oaXZra2NKMVdZVi1POXZVMXA3Y0ZMeWtMbnFvS0dJcG1LQlplQVp5OVc2ODMzWjhjb2UyZmR5c0VHS0lOY3VfbzV6eEpvVmVEdUFFVktsSHpHWVQwTGtNdS1LS0VzUQ?oc=5",
+      "date": "Sun, 07 Jun 2026 21:07:12 GMT",
+      "source": "tokenpost.kr",
+      "score": 2
+    },
+    {
       "title": "업비트 열기 무색한 리플(XRP)의 추락… 1달러 붕괴 위기감 고조",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcDhaeGhTUExUbmRFTkN2STFHOHRINnlHR2Z0QUJjVXQzaHhqV1doZDRfb0JjZEtnZ1phVW5nVTJQWEM2YzI4ZWxVUXlsdS1oMFRRdlVIdjc3U0I2TnJYZnJuQ1J1NFVKX2ZUQ3pWaWhhUlRTSldyYTI3R2x1Z1hzMm9TLWVLWEF4?oc=5",
       "date": "Sun, 07 Jun 2026 20:37:54 GMT",
@@ -125,13 +132,6 @@
       "date": "Sat, 06 Jun 2026 23:40:00 GMT",
       "source": "CBC뉴스",
       "score": 3
-    },
-    {
-      "title": "월드코인 21% 급락·리플XRP·비트코인 하락, 국채금리 상승에 관망세 확대",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE94Y3g4aXlqMktPVURyVGozam1kcGY0UDFOdGNKZndtcG10VkVGaHBDaWxJZkt6RGd3STB4X1ZjaklzT2syQ1pMem4xZEp6Vm5QWUFFbFcwZVo2ZGZRMTVTY1FSdFl6dHhFTW84eVNGQy1zUQ?oc=5",
-      "date": "Sat, 06 Jun 2026 23:23:02 GMT",
-      "source": "TopStarNews",
-      "score": 2
     },
     {
       "title": "BTC 70,000 하회하는 폭락, XRP 추세에 반해 16억 유입, 순환매의 시기인가?",
