@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-09T06:32:14",
+  "generated_at": "2026-06-09T10:30:14",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.17,
-    "price_krw": 1774.7,
-    "price_change_24h": 2.84039,
-    "price_change_7d": -8.27363,
-    "price_change_30d": -17.26028,
-    "market_cap_usd": 72810939198,
+    "price_usd": 1.16,
+    "price_krw": 1763.59,
+    "price_change_24h": 1.00119,
+    "price_change_7d": -8.0061,
+    "price_change_30d": -18.91731,
+    "market_cap_usd": 71813953446,
     "market_cap_rank": 6,
-    "volume_24h": 2169807266,
+    "volume_24h": 2177843843,
     "circulating_supply": 62053900985.0,
     "total_supply": 99985653167.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 69.6,
-    "sentiment_votes_down": 30.4,
+    "sentiment_votes_up": 69.29,
+    "sentiment_votes_down": 30.71,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 26.76,
-    "recent_tps": 26.76,
-    "recent_tx_count": 2408,
+    "tps_24h_avg": 19.36,
+    "recent_tps": 19.36,
+    "recent_tx_count": 1742,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104800158,
+    "ledger_seq": 104803866,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-09 06:32:01 KST",
+    "updated_at": "2026-06-09 10:30:02 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -56,8 +56,8 @@
     },
     {
       "title": "비트코인 17억 달러 썰물 탈출할 때 개미들 몰렸다…XRP 펀드의 기이한 녹색 마감",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5sMHBHQk1lU00wekhqZERVQUFzNHFCN0hJTjk3czctbnY2ZDlNSVVRYUJadTdfbzRRR1FVdW8tTlFHT0UxTDZBV25mbWZsOGd5SGY1QTRTUkRHYVdRWVlBVG1ldXdPQ0Zxb21rTkFLRVZoUFHSAXdBVV95cUxNX2VLb0gxZjB4Z2tXSS1xVzY0VWF3bTdhMDRwYU5PbWVvSHowbEJVVk1jcGpzRW1TWUlIaTh6eWNIZDBZZmJCRHpFRjdmZTdkeWF6Zm1UQ1ZKRnU0U2xLdDEzNWhnTTNBaV96UjJOSVVjV2Q5eDFoTQ?oc=5",
-      "date": "Sun, 07 Jun 2026 09:50:48 GMT",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1fZUtvSDFmMHhna1dJLXFXNjRVYXdtN2EwNHBhTk9tZW9IejBsQlVWTWNwanNFbVNZSUhpOHp5Y0hkMFlmYkJEekVGN2ZlN2R5YXpmbVRDVkpGdTRTbEt0MTM1aGdNM0FpX3pSMk5JVWNXZDl4MWhN0gF3QVVfeXFMTV9lS29IMWYweGdrV0ktcVc2NFVhd203YTA0cGFOT21lb0h6MGxCVVZNY3Bqc0VtU1lJSGk4enljSGQwWWZiQkR6RUY3ZmU3ZHlhemZtVENWSkZ1NFNsS3QxMzVoZ00zQWlfelIyTklVY1dkOXgxaE0?oc=5",
+      "date": "Sun, 07 Jun 2026 10:01:01 GMT",
       "source": "핀포인트뉴스",
       "score": 0
     },
@@ -76,21 +76,28 @@
       "score": 0
     },
     {
+      "title": "[한주간 ETF 현황] 비트코인 14억달러 유출⋯ XRP는 4주 연속 순유입",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WNGZLX3ZjVlpsNi1SV0xaMTlHWDhySVkwN1BKMWtKVFc5NUNUTER2V2lZeW1yVS05cUJaQnM4SDJEbUNVNExmZVZ2TjZlX2RCMlBMZEpjWDA?oc=5",
+      "date": "Sun, 31 May 2026 07:00:00 GMT",
+      "source": "블록미디어",
+      "score": 0
+    },
+    {
       "title": "XRP ETF, 암호화폐 ETF 자금 유입 1위…비트·이더 자금 이탈 지속",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ubzVyZFZGRTVwY3ZsdnRXdy1QVENJbmtlSHMxRHV2M3ZTOVhRYWdSYVdrSmM2WjZnVFFubTM4d1JyME4xd29aLWdoRGxxdkFFWEJV?oc=5",
       "date": "Sun, 31 May 2026 07:00:00 GMT",
       "source": "네이트",
       "score": 0
-    },
-    {
-      "title": "비트코인·이더리움 동반 추락…기관 자금 싹쓸이한 리플(XRP) ETF 홀로 '폭풍 질주'",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBoaHhJb3NidzBoNFBoR1NtNWlGU0FJaTlWdGtFOE1ZYWdkUjZSbXNfREs4WGdQWklobWw2UERoeGNMTzl1RU5tS1ZiY1ZpQ1h0dVJkX2cycGNpSTZWMG9YQWtKYm5GZndJdUppQjR4MWw2Sk3SAXdBVV95cUxQRDFnQzQzZDZCVGg1RHhHb2tPV01TM1d2NUNZWndNbndnajk1WkJTdFpwOVpsZy1QRTVZMzBpRzdETGg1cFZEdFpIel9iOTlZU2xfbjRFWGZJYVZ3T3RKVzZ6SlE2OGhNZ0xqTkVmRURUUGpKSmI4UQ?oc=5",
-      "date": "Sat, 30 May 2026 23:36:31 GMT",
-      "source": "핀포인트뉴스",
-      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "우주의 신비|도지코인(DOGE), OKX서 리플(XRP) 거래량 추월…스페이스X IPO 기대감도",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOTIwSEhJcWFNZXVydTFfVjl0bG45ck53ZHpuUGVMcGhBWndpcURNbmQ1OGp3TjRRcldWT2xWRHdjZGlFb0pWWTI1bkZudjQ1dV9BUjFVNHlVV3dnZG5TMTVQNWlZZnIwdWlUMlg3eHRTSjJkSEgzWWRhQnE3R3QtakpzMA?oc=5",
+      "date": "Tue, 09 Jun 2026 06:47:02 GMT",
+      "source": "ZUM 뉴스",
+      "score": 2
+    },
     {
       "title": "SBI홀딩스, 리플코인 XRP와 솔라나를 동시에 품다, 디지털 자산과 AI가 만나는 자리",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ2d4VkU5cEJ2bEhTRHJNbmx5azZlUGV3RW5JOFBCZFJlQWJhUVA5T2xQaUVUNWJyQndLbUVKcVFBWWh0bGczRkt1akdsaElPVW54aUlsajEzNWgwRkViZEFhRFZuZXV5a3FzVHh2YlZaWVN3Q0FKVFN0ZFdvS01rRlpPdzA2SFFMT3FuWQ?oc=5",
@@ -103,13 +110,6 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0SXA1Yk1YN3FaeVVkd3hraE9jc1NMYnBJN19jWnZEYkJSa05HNkVidEc2YnVUaGJRNnNlLWxTbWJDTWxueFJ3dklyOUw5ZmhHTVBtbVNyRVl6S3dwSjFrc3VRYmo0TkdPUWdZVVIxa18?oc=5",
       "date": "Tue, 09 Jun 2026 01:38:01 GMT",
       "source": "블록체인투데이",
-      "score": 2
-    },
-    {
-      "title": "XRP(리플), 주요 지지 구간 탈환했지만 안심 금물...\"1.35달러 못 넘으면 꺾인다\"",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE94S0hxa0N5RTN1QWJPa2g2cW1xR2tEWnQyZV9TSEdKb29lRjNOUFpUV1poRUVuNHVOUVlaTXFUWEdGUGdEdER1cjNR?oc=5",
-      "date": "Mon, 08 Jun 2026 23:25:00 GMT",
-      "source": "코인리더스",
       "score": 2
     },
     {
@@ -134,6 +134,13 @@
       "score": 2
     },
     {
+      "title": "속보 | 비트코인매거진 기고자 \"세일러, BTC가 무너뜨리려던 시스템 닮아간다\"",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9SNlJZUHpFT0JtdmlLQzFZcEQ5OHpCZXdjclAtR0o2ckRLSHp2Z1N6aTdicFE1MV9ZdTFCWVBvLXUwUjNoRjhQZEhpSE5kdjlk?oc=5",
+      "date": "Mon, 08 Jun 2026 11:23:00 GMT",
+      "source": "코인니스",
+      "score": 8
+    },
+    {
       "title": "'19개월 내 가장 낮은 가격' 기록한 암호화폐(코인) 리플의 주요 반등 요인 3가지",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tMWlrUS1wNnQyaDVfYUNjeUcteVEzcGVaU1FzR19OaHFOMXl0TGpqMmtKdGpyOF84bVk5akJoM0V5VEJaMXBoNDVoOWtQbEVudlBTM3Bn?oc=5",
       "date": "Mon, 08 Jun 2026 09:26:00 GMT",
@@ -153,13 +160,6 @@
       "date": "Sun, 07 Jun 2026 20:37:54 GMT",
       "source": "글로벌이코노믹",
       "score": 4
-    },
-    {
-      "title": "멘탈이 나갈거 같아요~",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xdDF0d0RUdktfcUZIN0ZSTVdjQmlIWWh5Vk42aDY2TzRON3J0ZjNfeG5zeTB0bXZ3blcwVkEyS2dLM2s1MzMwczBMUWE0aDQtbjNEYWJxSlI?oc=5",
-      "date": "Sun, 07 Jun 2026 15:45:55 GMT",
-      "source": "코인니스",
-      "score": 8
     }
   ]
 }
