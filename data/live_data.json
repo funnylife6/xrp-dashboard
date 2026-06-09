@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-09T13:25:00",
+  "generated_at": "2026-06-09T16:17:06",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.16,
-    "price_krw": 1764.16,
-    "price_change_24h": -0.97222,
-    "price_change_7d": -8.34878,
-    "price_change_30d": -18.7335,
-    "market_cap_usd": 72021770489,
+    "price_usd": 1.13,
+    "price_krw": 1725.79,
+    "price_change_24h": -3.84117,
+    "price_change_7d": -7.44896,
+    "price_change_30d": -22.00031,
+    "market_cap_usd": 69956343510,
     "market_cap_rank": 6,
-    "volume_24h": 2008540009,
+    "volume_24h": 1999972027,
     "circulating_supply": 62053900985.0,
     "total_supply": 99985653167.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 68.6,
-    "sentiment_votes_down": 31.4,
+    "sentiment_votes_up": 66.95,
+    "sentiment_votes_down": 33.05,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 27.78,
-    "recent_tps": 27.78,
-    "recent_tx_count": 2500,
+    "tps_24h_avg": 24.81,
+    "recent_tps": 24.81,
+    "recent_tx_count": 2233,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104806590,
+    "ledger_seq": 104809266,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-09 13:24:54 KST",
+    "updated_at": "2026-06-09 16:16:59 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,6 +92,13 @@
   ],
   "general_news": [
     {
+      "title": "XRP, DTCC 토큰화 워킹그룹 참여로 기관 채택 본격화",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Zbnp0Vnd6WFpfZ2JZOHVHa282cWFNZkJOQWQ0V0dBWFoydDRId1lfamk2WmZfaXAzLUdlcTBvSm9kYWVfSWVFUmJEZjJkWDY0eEh1bG5kMERJT2VCd1lsa9IBZkFVX3lxTFBfRmhPeDRTWGVHaWZvd3U2OHlBOGxIZWN3c0hDZjczVzl0b1hlTU5qQTZYQVFZVFNoRmJLMTduU2JEc2hsTERsWll5WWEtYlBreVZ6dmh4N19fYjd1NDk5bFNQSjRaZw?oc=5",
+      "date": "Tue, 09 Jun 2026 13:07:52 GMT",
+      "source": "tokenpost.kr",
+      "score": 3
+    },
+    {
       "title": "리플 안 써도 송금 가능?…스테이블코인 RLUSD에 발목 잡히나",
       "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNSnFxTnI3eVBQUzc0Ti1yVVlkR0NfOVQ5Zm1xQlp5TXNRV21VMzFLcV9TNmxPZEtwN1YyTnRhLVhXTWUxMTFSaFFncjNYcW1MOGVBT1FUQ0ROZnZOMG1FR2VFby1HV2pVNWNXM1lGNVlSOXY0LXZBc3UtT1ZqN2hwLURaUU9iajQxazNoQVdFeFhCaV94aVQ5dGhRaW1FdEZ5ajBLZHp0UTNsdWdhSWVEbF9vSHI3X0NCTGVEOWY3bXJtNFNmVVhfb21seFNlVF9CWWJoV1RNZnVJaC0wSklma0VsOEhlbmUtRkVHaEtubzFvM2FMV1VOY3M4cFVwM1VWRmxvajdHOEtyMzlvemtVVV9rSmF0T2NqbHNhYV95Xzl4OUFiUXl0elRTLTg1V0hqN29qSldIdVM2MEEtZUQ5MFpYYWpsaHk0UVpqc2RTbjVSWm85VkhvVjJEQ09ZSUNMemVwVkV5X2NFZzktcHRmS2Z6Zk9yNjVLZUE?oc=5",
       "date": "Tue, 09 Jun 2026 11:09:59 GMT",
@@ -106,9 +113,9 @@
       "score": 2
     },
     {
-      "title": "리플은 이미 2014년에 '금'을 토큰화했습니다 — GBI 사례로 본 XRP Ledger 실물자산 토큰화의 10년 (리플코인)",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbV9RZUZIWkY3ZW1KQzd2ajVncDAxSFdYc1dRQnFqb3lWajBHX2ZEYlhIa2c3X0NkejQ4a2hzVGt0ZHpNN2ZqZ3IyYlc0LUp4S1Z0cXVRbWtmRVpJSFN1UmlINlIxa1ZITTN1MzR1dGQ5RjRlWGZfdnA3SFdmNTdnRFdobHRDbHVrejFLXw?oc=5",
-      "date": "Tue, 09 Jun 2026 06:27:00 GMT",
+      "title": "SBI홀딩스, 리플코인 XRP와 솔라나를 동시에 품다, 디지털 자산과 AI가 만나는 자리",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ2d4VkU5cEJ2bEhTRHJNbmx5azZlUGV3RW5JOFBCZFJlQWJhUVA5T2xQaUVUNWJyQndLbUVKcVFBWWh0bGczRkt1akdsaElPVW54aUlsajEzNWgwRkViZEFhRFZuZXV5a3FzVHh2YlZaWVN3Q0FKVFN0ZFdvS01rRlpPdzA2SFFMT3FuWQ?oc=5",
+      "date": "Tue, 09 Jun 2026 03:37:00 GMT",
       "source": "네이버 프리미엄콘텐츠",
       "score": 2
     },
@@ -134,32 +141,25 @@
       "score": 2
     },
     {
-      "title": "XRP, 온체인 활성화에도 주간 차트는 '약세' 신호",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qdTA0NVBvdDBLRjRTWGZoSTdqZ2pWMndTWWc3cEo3LXdrb0lDUGdqVktGcWp1MHpGcTFzVUkyUXM4UkI3WlAxY2tjLXdhblhFOC10M1ZKRGdiRElMU3NybtIBZkFVX3lxTE9vQ3lPRzA2NlQzMjZ2S0pueWpCOEE0c1ByZDN1Q2VXUHUwY3NwdGhTMUhHNUZJVnR4cENmcWlhQmNyUkExNzItNkhscjlUZmZDN0l0ZzFhaTV4MDZGa09BM2VXYXE5QQ?oc=5",
-      "date": "Mon, 08 Jun 2026 13:07:37 GMT",
-      "source": "tokenpost.kr",
-      "score": 2
-    },
-    {
-      "title": "'19개월 내 가장 낮은 가격' 기록한 암호화폐(코인) 리플의 주요 반등 요인 3가지",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tMWlrUS1wNnQyaDVfYUNjeUcteVEzcGVaU1FzR19OaHFOMXl0TGpqMmtKdGpyOF84bVk5akJoM0V5VEJaMXBoNDVoOWtQbEVudlBTM3Bn?oc=5",
-      "date": "Mon, 08 Jun 2026 09:26:00 GMT",
-      "source": "위키트리",
+      "title": "리플(XRP), RLUSD 영향력 넓힌다…멀티체인 확장에 시장 시선 집중",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ybFR4cXlIN245V3Qzbnp0SWZyRThqMzc1MjlONDh4akE3eEhSR2x3OTlqS0FLZU9WN3lXMGYyX1BnVGpWS1VpVnVaMDdTZGw2dFMtbTVCRldHYndDbHRBbzJoX2l4U2ZO?oc=5",
+      "date": "Mon, 08 Jun 2026 18:18:59 GMT",
+      "source": "CBC뉴스",
       "score": 3
     },
     {
-      "title": "RLUSD 멀티체인 확대 속 XRP 위상 재조명…'보완 자산' 발언 파장",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFdlREcldkVTBoUmtlUUE4bWlwaGlYZDhfVFRWNmhEZE1td2JodkxjRUV6VjNTMFAyZFNrYUk2NjRqVGxtQVFoR3ZlN2FQMmMwUzUzaDRvYldpbDdwQkp1U0xuMkVsV0Z2dWJ5eXJPSGRGQkk?oc=5",
-      "date": "Mon, 08 Jun 2026 03:58:51 GMT",
-      "source": "디지털투데이",
-      "score": 2
+      "title": "속보 | 비트코인매거진 기고자 \"세일러, BTC가 무너뜨리려던 시스템 닮아간다\"",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9SNlJZUHpFT0JtdmlLQzFZcEQ5OHpCZXdjclAtR0o2ckRLSHp2Z1N6aTdicFE1MV9ZdTFCWVBvLXUwUjNoRjhQZEhpSE5kdjlk?oc=5",
+      "date": "Mon, 08 Jun 2026 11:23:00 GMT",
+      "source": "코인니스",
+      "score": 8
     },
     {
-      "title": "업비트 열기 무색한 리플(XRP)의 추락… 1달러 붕괴 위기감 고조",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcDhaeGhTUExUbmRFTkN2STFHOHRINnlHR2Z0QUJjVXQzaHhqV1doZDRfb0JjZEtnZ1phVW5nVTJQWEM2YzI4ZWxVUXlsdS1oMFRRdlVIdjc3U0I2TnJYZnJuQ1J1NFVKX2ZUQ3pWaWhhUlRTSldyYTI3R2x1Z1hzMm9TLWVLWEF4?oc=5",
-      "date": "Sun, 07 Jun 2026 20:37:54 GMT",
-      "source": "글로벌이코노믹",
-      "score": 4
+      "title": "속보 | SAHARA, 50% 단기 급락",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1kY3o4ek1EeUJ3NUJKU1dHZnI2dWJjeWRqd0VabERoR3ZZbVRYc3dYZHJya0pUekpEdlBlUEtCY0Y1eVBMSlVYdGFZLTFveG5H?oc=5",
+      "date": "Mon, 08 Jun 2026 10:30:00 GMT",
+      "source": "코인니스",
+      "score": 8
     }
   ]
 }
