@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-10T14:33:50",
+  "generated_at": "2026-06-10T17:53:45",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.12,
-    "price_krw": 1702.92,
-    "price_change_24h": -1.68059,
-    "price_change_7d": -9.10136,
-    "price_change_30d": -23.12923,
-    "market_cap_usd": 69600201628,
+    "price_usd": 1.11,
+    "price_krw": 1681.12,
+    "price_change_24h": -2.83195,
+    "price_change_7d": -9.16578,
+    "price_change_30d": -24.93127,
+    "market_cap_usd": 68670997265,
     "market_cap_rank": 6,
-    "volume_24h": 1880042748,
+    "volume_24h": 1936053912,
     "circulating_supply": 62053900985.0,
     "total_supply": 99985653167.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 62.14,
-    "sentiment_votes_down": 37.86,
+    "sentiment_votes_up": 60.42,
+    "sentiment_votes_down": 39.58,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 23.37,
-    "recent_tps": 23.37,
-    "recent_tx_count": 2080,
+    "tps_24h_avg": 23.92,
+    "recent_tps": 23.92,
+    "recent_tx_count": 2153,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 104830109,
+    "recent_window_sec": 90,
+    "ledger_seq": 104833224,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-10 14:33:36 KST",
+    "updated_at": "2026-06-10 17:53:31 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 4970000,
     "total_net_inflow_usd": 4970000,
     "total_value_traded_usd": 4970000,
-    "updated_at": "SoSoValue 순유입 부분 수집 06/10 14:33",
+    "updated_at": "SoSoValue 순유입 부분 수집 06/10 17:53",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -93,10 +93,10 @@
   ],
   "general_news": [
     {
-      "title": "XRP 레저 RWA 시장 100배 더 커지나…리플, 5000억달러 전망",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91SFNPWWRGa3c5dFpueUdybGJwTk9la2l3RVZSbDB2VkJvM2tqY2MxaDZzR2VwX3ZBbUtMVndCZmVWa3ZYS016QlpnSFlqMmFISjZMd3JhN0xlZGdrc1ZDS9IBZkFVX3lxTE9qem05NUlrNDdaNWdab09HZzhxdGxRV3VDOU1UNzNBV2xxNzdpX2wtZXN0T0ZRNDhIWi1XUFJWN0dTejE3czl4cmZGVTY4d19QQlpnZTU4Uk9RZzBvMlYtYUlHUDhfUQ?oc=5",
-      "date": "Wed, 10 Jun 2026 04:32:26 GMT",
-      "source": "tokenpost.kr",
+      "title": "리플(XRP), 1달러 지켜낼까? 지금 당장 봐야 할 핵심 저항선",
+      "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOX3o4SUNFazFmQWRlRlVtejhPSUw2UzZtWG92Ull4Vzg0T29nbTJ1WWpsX2IybUJGMEl2TWlORGdWRlllYTZ0WVdoNGR0UWJ5T1pjLWV0WFZBQnRIQzNnR29VNnpOcXMxZkd0X2FzSTQwOXhOR1ZFVTRMVGE5SEc2T25NR2M2OUpKdklGcXdjbDhwUkw1ZDBHVzlVZHZyNkx2blVOUFRKMlRwNy0zVzl2MVhiZHR3cjRJSlBJSUhMNThfWVY3SHk5S01VSFJJNmwzZ19hRTFjZ3VYakVPS0U3blZyb29mVC1uYU1xTEFKOG5DZjdLZFlTSnk0QnFheEdTZmg2QS0wN0ZldExKYnR5LVRKOWxuS2xfYVBVYUU4VlMyVUlRR1YwYlhzakJxTmx1emZoRTRJZWdWdW5mSVFVZWFWTDNLTHRfcmNIM1lYUGZYdFJWdWdsdGp5dmE0MkJKSUwtRk5JS0NRYlJlSVE?oc=5",
+      "date": "Wed, 10 Jun 2026 14:55:07 GMT",
+      "source": "MSN",
       "score": 2
     },
     {
@@ -107,10 +107,10 @@
       "score": 2
     },
     {
-      "title": "리플 슈워츠 '명예직' 조롱에 응수…\"XRP 레저 내가 만들었다\"",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wTjV0S2tmZUt3alMtUUpvd05EY1ZhZmpYQU42a2dibGFLMHllcVFGdTlCQmJ2Z1prZi11eUtVd2FDR254QWRidFZoYWtRVW1MYW1RZER1TTh0RTNGblVYYjhIUFl0ZHdycV9Iek1yeVVGTGs?oc=5",
-      "date": "Wed, 10 Jun 2026 01:00:00 GMT",
-      "source": "디지털투데이",
+      "title": "리플X, XRP 레저 디파이 검증 전환…대출·볼트 안전성 강화",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjWERUSHJfajlYSjlwRXZFUFNQU05ya0daaDYwbklEOElQRUxxbnJEUkhlMzRlM2VZclJzZXljT3FldHIxUVB0TWJxYnliZ2hSaTc00gFYQVVfeXFMT1NkdnFaR1MyUEt4aWpRZF9WWDlzMW5zOFoxYnRkdGo1VVA0Y2VaMS1Fd1d6WU9xOURNMzhDM05ERXV0ZmljSXhwTVdEcTZ1T0pCbmgydlozOA?oc=5",
+      "date": "Wed, 10 Jun 2026 03:47:35 GMT",
+      "source": "tokenpost.kr",
       "score": 2
     },
     {
@@ -128,9 +128,9 @@
       "score": 3
     },
     {
-      "title": "속보 | 미국 5월 CPI 예상치 부합...전년比 4.2% 상승",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9NRk9Mcm5WUVJRVWdmXzRDRjBidG1BcDlPb0ZEano0RnJaQVVscl9oREl0Tnk5WjNPY1RVWFJYQkhGM1U4d0RoZVQwblFST2tY?oc=5",
-      "date": "Tue, 09 Jun 2026 20:31:00 GMT",
+      "title": "속보 | 세일러 \"BTC는 모두를 위한 희망\"",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9uSThmS2p3Mll6MUpWRVI1MzRFZ3VjWWRnUWZKV1l5TlZqX05ObDF2eVE2QmplUmd5RnBSMjZXcWc3ZXZQQ3F1aVJJUjZYT3Rz?oc=5",
+      "date": "Tue, 09 Jun 2026 17:47:00 GMT",
       "source": "코인니스",
       "score": 8
     },
@@ -149,16 +149,16 @@
       "score": 9
     },
     {
-      "title": "속보 | 분석 \"비트코인 3중 압박…오늘 밤 CPI 데이터 첫 시험대\"",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VVHRCVmFrZENiZXdoV0tQc1dlZ25UUjJiZDUyVnFQMHhobEJYa3JZXzJpMUNoaGxBOHNPanhqQmxlM0cwejc0cEJzY3BJWDM2?oc=5",
-      "date": "Tue, 09 Jun 2026 14:23:00 GMT",
+      "title": "방금 솔라나가 의미심장한 트윗을 올렸어",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WYUpWSUVfenQzWW9jWVJfTFRtbzg1WVpTdUtQdV9OVnRvcllIRFpUUF9HX0NERmJ5Uk9Cc0hUNDdQMS1xQ0pVV1daNGVGVElDekRxYUNkb1U?oc=5",
+      "date": "Tue, 09 Jun 2026 14:53:42 GMT",
       "source": "코인니스",
       "score": 8
     },
     {
-      "title": "속보 | 분석 \"기술주→BTC 자금 이동 없다...디리스킹 가능성\"",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE53SklOTE9DV3BnYXllY0NWTHk1Skd2MmttbFdwYVFwMVpmdllySHdYY0JVZUkteS1oaVlXYmQyM3J1Q0FueXdwSHJzaFlwVFBs?oc=5",
-      "date": "Tue, 09 Jun 2026 11:04:00 GMT",
+      "title": "속보 | 분석 \"비트코인 3중 압박…오늘 밤 CPI 데이터 첫 시험대\"",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VVHRCVmFrZENiZXdoV0tQc1dlZ25UUjJiZDUyVnFQMHhobEJYa3JZXzJpMUNoaGxBOHNPanhqQmxlM0cwejc0cEJzY3BJWDM2?oc=5",
+      "date": "Tue, 09 Jun 2026 14:23:00 GMT",
       "source": "코인니스",
       "score": 8
     }
