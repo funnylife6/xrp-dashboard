@@ -1,53 +1,59 @@
 {
-  "generated_at": "2026-06-10T20:16:50",
+  "generated_at": "2026-06-10T22:25:02",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.098,
-    "price_krw": 1672.55,
-    "price_change_24h": -3.8019,
-    "price_change_7d": -9.74513,
-    "price_change_30d": -25.37886,
-    "market_cap_usd": 68129875080,
+    "price_usd": 1.091,
+    "price_krw": 1657.87,
+    "price_change_24h": -4.19835,
+    "price_change_7d": -8.51612,
+    "price_change_30d": -25.91257,
+    "market_cap_usd": 67706642524,
     "market_cap_rank": 6,
-    "volume_24h": 1854330834,
+    "volume_24h": 1890428255,
     "circulating_supply": 62053900985.0,
     "total_supply": 99985653167.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 60.87,
-    "sentiment_votes_down": 39.13,
+    "sentiment_votes_up": 57.14,
+    "sentiment_votes_down": 42.86,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 25.35,
-    "recent_tps": 25.35,
-    "recent_tx_count": 2256,
+    "tps_24h_avg": 19.51,
+    "recent_tps": 19.51,
+    "recent_tx_count": 1736,
     "recent_ledger_count": 24,
     "recent_window_sec": 89,
-    "ledger_seq": 104835457,
+    "ledger_seq": 104837462,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-10 20:16:37 KST",
+    "updated_at": "2026-06-10 22:24:48 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
   },
   "etf_flow": {
-    "approved_count": 4,
+    "approved_count": 0,
     "daily_inflow_usd": 0,
     "weekly_inflow_usd": 0,
-    "aum_usd": 4970000,
-    "total_net_inflow_usd": 4970000,
-    "total_value_traded_usd": 4970000,
-    "updated_at": "SoSoValue 순유입 부분 수집 06/10 20:16",
-    "data_source": "sosovalue",
-    "partial": true
+    "aum_usd": 0,
+    "total_net_inflow_usd": 0,
+    "total_value_traded_usd": 0,
+    "updated_at": "뉴스 자동 파싱 대기",
+    "data_source": "news_parse"
   },
   "etf_news": [
+    {
+      "title": "기관은 쓸어 담는데 가격은 '뚝'… 리플(XRP) 시장의 딜레마",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdXYxU0JfMjJiNHl0MVRRZF9YWWhmSlpvZU5qRDZWbmVrU2dNUXdrNzg3MUNSWlVrZUFyX1RCalZqcndHWDJjQWc4R19KTVNmVWIxVDNzWEV6TzRfN21US0dmRDI0amxycE9UQmZzdHU2MFdON3ByYnl5SlpvXzZiMTlidDYtX2NX?oc=5",
+      "date": "Wed, 10 Jun 2026 21:58:17 GMT",
+      "source": "글로벌이코노믹",
+      "score": 0
+    },
     {
       "title": "XRP ETF 순유입, 가격은 부진…자금 흐름과 엇갈린 이유는?",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBvU1Z2MFg3Wms4VWlyN3lVb2RQV0ZudTAtaGt5UXNuQjh2ajVjMTQ3VWJIWUhkSi1YZ1RhSS1ZNUxuMDdVdVRCWXcxTWxtV0VtNThqd2VSSExJMlRpbzItYjU4MU5lTXBXeFE5REprNkJVSTA?oc=5",
@@ -70,10 +76,10 @@
       "score": 0
     },
     {
-      "title": "업비트 열기 무색한 리플(XRP)의 추락… 1달러 붕괴 위기감 고조",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcDhaeGhTUExUbmRFTkN2STFHOHRINnlHR2Z0QUJjVXQzaHhqV1doZDRfb0JjZEtnZ1phVW5nVTJQWEM2YzI4ZWxVUXlsdS1oMFRRdlVIdjc3U0I2TnJYZnJuQ1J1NFVKX2ZUQ3pWaWhhUlRTSldyYTI3R2x1Z1hzMm9TLWVLWEF4?oc=5",
-      "date": "Sun, 07 Jun 2026 20:37:54 GMT",
-      "source": "글로벌이코노믹",
+      "title": "비트코인 17억 달러 썰물 탈출할 때 개미들 몰렸다…XRP 펀드의 기이한 녹색 마감",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5sMHBHQk1lU00wekhqZERVQUFzNHFCN0hJTjk3czctbnY2ZDlNSVVRYUJadTdfbzRRR1FVdW8tTlFHT0UxTDZBV25mbWZsOGd5SGY1QTRTUkRHYVdRWVlBVG1ldXdPQ0Zxb21rTkFLRVZoUFHSAXdBVV95cUxNX2VLb0gxZjB4Z2tXSS1xVzY0VWF3bTdhMDRwYU5PbWVvSHowbEJVVk1jcGpzRW1TWUlIaTh6eWNIZDBZZmJCRHpFRjdmZTdkeWF6Zm1UQ1ZKRnU0U2xLdDEzNWhnTTNBaV96UjJOSVVjV2Q5eDFoTQ?oc=5",
+      "date": "Sun, 07 Jun 2026 09:50:48 GMT",
+      "source": "핀포인트뉴스",
       "score": 0
     },
     {
@@ -82,22 +88,22 @@
       "date": "Sat, 06 Jun 2026 23:00:00 GMT",
       "source": "TradingKey",
       "score": 0
-    },
-    {
-      "title": "리플(XRP), ISO 20022 완전 전환 시대에 가격은 바닥인데 돈은 들어온다",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUDlLZzQtNjFIYnRpaFpoaW42bURsc2NZZUtQRkQ1UUk4SU5RUmdaMW9GYzN1aUwwWjNhbDYxVENmT1o2ZlBZRDBjUkhTLWZVVjh0V1BkamNEYVBsNmJKWk5iQlBXYWFVMTBhS2c5c0ZVcWxKcDZrVjJvX252YUJkeG9vSExpT0pJcUhCcQ?oc=5",
-      "date": "Thu, 04 Jun 2026 03:37:00 GMT",
-      "source": "네이버 프리미엄콘텐츠",
-      "score": 0
     }
   ],
   "general_news": [
     {
-      "title": "리플(XRP), 1달러 지켜낼까? 지금 당장 봐야 할 핵심 저항선",
-      "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOX3o4SUNFazFmQWRlRlVtejhPSUw2UzZtWG92Ull4Vzg0T29nbTJ1WWpsX2IybUJGMEl2TWlORGdWRlllYTZ0WVdoNGR0UWJ5T1pjLWV0WFZBQnRIQzNnR29VNnpOcXMxZkd0X2FzSTQwOXhOR1ZFVTRMVGE5SEc2T25NR2M2OUpKdklGcXdjbDhwUkw1ZDBHVzlVZHZyNkx2blVOUFRKMlRwNy0zVzl2MVhiZHR3cjRJSlBJSUhMNThfWVY3SHk5S01VSFJJNmwzZ19hRTFjZ3VYakVPS0U3blZyb29mVC1uYU1xTEFKOG5DZjdLZFlTSnk0QnFheEdTZmg2QS0wN0ZldExKYnR5LVRKOWxuS2xfYVBVYUU4VlMyVUlRR1YwYlhzakJxTmx1emZoRTRJZWdWdW5mSVFVZWFWTDNLTHRfcmNIM1lYUGZYdFJWdWdsdGp5dmE0MkJKSUwtRk5JS0NRYlJlSVE?oc=5",
-      "date": "Wed, 10 Jun 2026 14:55:22 GMT",
-      "source": "MSN",
+      "title": "월드코인·리플XRP·저트라 엇갈린 흐름, 국채금리 4.556%에 거래대금 6.1%↓",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9EY3lfUE1BWm1xeWZQNkRBNW0xMGtqZXNCZzlPdFlYMVZ0YVRkYVp3LUNWMFdQQ09vMU5nMFNLa3FNM0N5MXF1QXJSSmFVQWFlMXphT1VWdkVZZVBBX3QwdURXaEIxZlB4dHUzRWJQclowQQ?oc=5",
+      "date": "Wed, 10 Jun 2026 22:09:51 GMT",
+      "source": "TopStarNews",
       "score": 2
+    },
+    {
+      "title": "기관은 쓸어 담는데 가격은 '뚝'… 리플(XRP) 시장의 딜레마",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdXYxU0JfMjJiNHl0MVRRZF9YWWhmSlpvZU5qRDZWbmVrU2dNUXdrNzg3MUNSWlVrZUFyX1RCalZqcndHWDJjQWc4R19KTVNmVWIxVDNzWEV6TzRfN21US0dmRDI0amxycE9UQmZzdHU2MFdON3ByYnl5SlpvXzZiMTlidDYtX2NX?oc=5",
+      "date": "Wed, 10 Jun 2026 21:58:17 GMT",
+      "source": "글로벌이코노믹",
+      "score": 3
     },
     {
       "title": "리플, 홍콩 벤처캐피탈 손잡고 XRP 기반 금융 혁신 전격 가동",
@@ -138,13 +144,6 @@
       "title": "속보 | 미국 5월 CPI 예상치 부합...전년比 4.2% 상승",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9NRk9Mcm5WUVJRVWdmXzRDRjBidG1BcDlPb0ZEano0RnJaQVVscl9oREl0Tnk5WjNPY1RVWFJYQkhGM1U4d0RoZVQwblFST2tY?oc=5",
       "date": "Tue, 09 Jun 2026 20:31:00 GMT",
-      "source": "코인니스",
-      "score": 8
-    },
-    {
-      "title": "속보 | 세일러 \"BTC는 모두를 위한 희망\"",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9uSThmS2p3Mll6MUpWRVI1MzRFZ3VjWWRnUWZKV1l5TlZqX05ObDF2eVE2QmplUmd5RnBSMjZXcWc3ZXZQQ3F1aVJJUjZYT3Rz?oc=5",
-      "date": "Tue, 09 Jun 2026 17:47:00 GMT",
       "source": "코인니스",
       "score": 8
     },
