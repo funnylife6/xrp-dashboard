@@ -1,50 +1,51 @@
 {
-  "generated_at": "2026-06-09T23:49:30",
+  "generated_at": "2026-06-10T02:41:25",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.14,
-    "price_krw": 1734.07,
-    "price_change_24h": -2.79907,
-    "price_change_7d": -7.10944,
-    "price_change_30d": -21.83063,
-    "market_cap_usd": 70519026215,
+    "price_usd": 1.12,
+    "price_krw": 1705.32,
+    "price_change_24h": -2.20159,
+    "price_change_7d": -8.47826,
+    "price_change_30d": -23.20281,
+    "market_cap_usd": 69446460723,
     "market_cap_rank": 6,
-    "volume_24h": 1930684039,
+    "volume_24h": 1728151837,
     "circulating_supply": 62053900985.0,
     "total_supply": 99985653167.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 67.57,
-    "sentiment_votes_down": 32.43,
+    "sentiment_votes_up": 69.09,
+    "sentiment_votes_down": 30.91,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 22.25,
-    "recent_tps": 22.25,
-    "recent_tx_count": 1980,
+    "tps_24h_avg": 30.18,
+    "recent_tps": 30.18,
+    "recent_tx_count": 2716,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 104816308,
+    "recent_window_sec": 90,
+    "ledger_seq": 104818983,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-09 23:49:23 KST",
+    "updated_at": "2026-06-10 02:41:11 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
   },
   "etf_flow": {
-    "approved_count": 0,
+    "approved_count": 4,
     "daily_inflow_usd": 0,
     "weekly_inflow_usd": 0,
-    "aum_usd": 0,
-    "total_net_inflow_usd": 0,
-    "total_value_traded_usd": 0,
-    "updated_at": "뉴스 자동 파싱 대기",
-    "data_source": "news_parse"
+    "aum_usd": 4970000,
+    "total_net_inflow_usd": 4970000,
+    "total_value_traded_usd": 4970000,
+    "updated_at": "SoSoValue 순유입 부분 수집 06/10 02:41",
+    "data_source": "sosovalue",
+    "partial": true
   },
   "etf_news": [
     {
@@ -92,6 +93,27 @@
   ],
   "general_news": [
     {
+      "title": "XRP(리플) 반등 기대 접어라...글래스노드, 온체인 수요 붕괴 경고",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9FVllYYWptUklCUnZMUFNnVW45NVhrRVQ4S3JfTTFKZmVsaF9RTU80ektpSEVlQlMtdDlCN2E0NlRUdGxwZWlnblF3?oc=5",
+      "date": "Wed, 10 Jun 2026 02:10:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
+      "title": "리플 슈워츠 '명예직' 조롱에 응수…\"XRP 레저 내가 만들었다\"",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wTjV0S2tmZUt3alMtUUpvd05EY1ZhZmpYQU42a2dibGFLMHllcVFGdTlCQmJ2Z1prZi11eUtVd2FDR254QWRidFZoYWtRVW1MYW1RZER1TTh0RTNGblVYYjhIUFl0ZHdycV9Iek1yeVVGTGs?oc=5",
+      "date": "Wed, 10 Jun 2026 01:00:00 GMT",
+      "source": "디지털투데이",
+      "score": 2
+    },
+    {
+      "title": "리플(XRP), 30달러 간다? 2027년 대형 사이클의 진실",
+      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOeHkxRmJFazhWdU9kRmR5YUJVQzJfWTJ1bk9TNGNidTNGUm5BUFFnVmZaZ1l3MUx5MVN0OGFEZ2gyaDhMVTYyN1lSeVpwVlY0WERtOW1ET1p0WWl2cjA0ZlhkeVVCYTBzWWdoWEF4N1c1UFRwSXhsZkNQQWNtSVB6YV9RZm92VE9QdThjQjlHTF92eHRxTTZVZlNBa0s4UlJzQlhyLUNfV3ZOTml3WU1BcHg0a1BRMmo3M3JqNVZBOTR5T1hPLWw3eXJOeGNNVzRVTHVhbXo0SlVLVlctS29kZF9VNjNZb1FBWE5icVc2bDhHOFBYSDR5SDNZTlVSeGlCTmVkV0dQTndBWEZaSHlERF9QUFltSFRoSTdiM01TTVc5bmVSQUdCRHNiZEQwSzF0ZUVXNFZ3?oc=5",
+      "date": "Tue, 09 Jun 2026 23:25:09 GMT",
+      "source": "MSN",
+      "score": 2
+    },
+    {
       "title": "파멸의 1달러 추락 공포… 리플 ETF 출시에 숨겨진 거대한 음모와 덫",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1iQUt3RVNHaW5VSjFIQWtyc19pbUEtYUduRm4ydVFkdDZUMmx2Z1haZndCWk4zWHhWZGFrOGk2akxWUlI4Y3hfd2FFYkM4NGs1QmsyWjR3Qmp3b243VmZpeG5xS01CSjdmTlUwLTR4WjctcEXSAXdBVV95cUxQTTJyMEsxSWxfRkkyTGtCMDZLbEs5LW9BYlhMQ2w1RjU4UEpCMkpFSlNVNUQzSUNnZUNwWXhrcUpEQXBLcDZQVEdfNkdabGltYlNmWFZPZm83ZzZtY2V3T0kxa29CenBNaGc2dk1WMGozc0h6c29Vdw?oc=5",
       "date": "Tue, 09 Jun 2026 22:14:45 GMT",
@@ -113,31 +135,10 @@
       "score": 2
     },
     {
-      "title": "리플(XRP), 30달러 간다? 2027년 대형 사이클의 진실",
-      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOeHkxRmJFazhWdU9kRmR5YUJVQzJfWTJ1bk9TNGNidTNGUm5BUFFnVmZaZ1l3MUx5MVN0OGFEZ2gyaDhMVTYyN1lSeVpwVlY0WERtOW1ET1p0WWl2cjA0ZlhkeVVCYTBzWWdoWEF4N1c1UFRwSXhsZkNQQWNtSVB6YV9RZm92VE9QdThjQjlHTF92eHRxTTZVZlNBa0s4UlJzQlhyLUNfV3ZOTml3WU1BcHg0a1BRMmo3M3JqNVZBOTR5T1hPLWw3eXJOeGNNVzRVTHVhbXo0SlVLVlctS29kZF9VNjNZb1FBWE5icVc2bDhHOFBYSDR5SDNZTlVSeGlCTmVkV0dQTndBWEZaSHlERF9QUFltSFRoSTdiM01TTVc5bmVSQUdCRHNiZEQwSzF0ZUVXNFZ3?oc=5",
-      "date": "Tue, 09 Jun 2026 20:05:19 GMT",
-      "source": "MSN",
-      "score": 2
-    },
-    {
-      "title": "리플(XRP), 8년 만의 최대 매수 구간 진입? 다시 3달러 갈 수 있을까",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAtajVZWHFfclAxYWhpM2pwaVFNZ0ZndTFVaEE3MDFfZEU5eGkzR2ZqX2h0SnBCek9lU3lwNWRORTZpQng2WmI1dnJR?oc=5",
-      "date": "Tue, 09 Jun 2026 11:54:00 GMT",
-      "source": "코인리더스",
-      "score": 2
-    },
-    {
-      "title": "리플은 이미 2014년에 '금'을 토큰화했습니다 — GBI 사례로 본 XRP Ledger 실물자산 토큰화의 10년 (리플코인)",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbV9RZUZIWkY3ZW1KQzd2ajVncDAxSFdYc1dRQnFqb3lWajBHX2ZEYlhIa2c3X0NkejQ4a2hzVGt0ZHpNN2ZqZ3IyYlc0LUp4S1Z0cXVRbWtmRVpJSFN1UmlINlIxa1ZITTN1MzR1dGQ5RjRlWGZfdnA3SFdmNTdnRFdobHRDbHVrejFLXw?oc=5",
-      "date": "Tue, 09 Jun 2026 06:27:00 GMT",
+      "title": "SBI홀딩스, 리플코인 XRP와 솔라나를 동시에 품다, 디지털 자산과 AI가 만나는 자리",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ2d4VkU5cEJ2bEhTRHJNbmx5azZlUGV3RW5JOFBCZFJlQWJhUVA5T2xQaUVUNWJyQndLbUVKcVFBWWh0bGczRkt1akdsaElPVW54aUlsajEzNWgwRkViZEFhRFZuZXV5a3FzVHh2YlZaWVN3Q0FKVFN0ZFdvS01rRlpPdzA2SFFMT3FuWQ?oc=5",
+      "date": "Tue, 09 Jun 2026 03:37:00 GMT",
       "source": "네이버 프리미엄콘텐츠",
-      "score": 2
-    },
-    {
-      "title": "XRPL 토큰화 자산 확대…리플 전 CTO \"RWA·스테이블코인이 성장축\"",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YVUVLOVptRUV6dUl5dTlsYjRfWEdXaWlwVlZvMGFuMlBEZ3RnZHQ3VlJxWkpGaTYwOTJlMmtNNy1oRDMyekk5UTV5TEhOZHh6WHdRUDBzalB4ejh2NVkyWHUxTGI3Q2txZE81M3VZT1BBeGs?oc=5",
-      "date": "Tue, 09 Jun 2026 05:30:00 GMT",
-      "source": "디지털투데이",
       "score": 2
     },
     {
