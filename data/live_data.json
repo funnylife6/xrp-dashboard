@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-10T02:41:25",
+  "generated_at": "2026-06-10T07:02:27",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.12,
-    "price_krw": 1705.32,
-    "price_change_24h": -2.20159,
-    "price_change_7d": -8.47826,
-    "price_change_30d": -23.20281,
-    "market_cap_usd": 69446460723,
+    "price_usd": 1.11,
+    "price_krw": 1696.47,
+    "price_change_24h": -5.22396,
+    "price_change_7d": -9.761,
+    "price_change_30d": -23.47917,
+    "market_cap_usd": 68942219906,
     "market_cap_rank": 6,
-    "volume_24h": 1728151837,
+    "volume_24h": 1695853291,
     "circulating_supply": 62053900985.0,
     "total_supply": 99985653167.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 69.09,
-    "sentiment_votes_down": 30.91,
+    "sentiment_votes_up": 66.04,
+    "sentiment_votes_down": 33.96,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 30.18,
-    "recent_tps": 30.18,
-    "recent_tx_count": 2716,
+    "tps_24h_avg": 26.63,
+    "recent_tps": 26.63,
+    "recent_tx_count": 2184,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 104818983,
+    "recent_window_sec": 82,
+    "ledger_seq": 104823059,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-10 02:41:11 KST",
+    "updated_at": "2026-06-10 07:02:22 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 4970000,
     "total_net_inflow_usd": 4970000,
     "total_value_traded_usd": 4970000,
-    "updated_at": "SoSoValue 순유입 부분 수집 06/10 02:41",
+    "updated_at": "SoSoValue 순유입 부분 수집 06/10 07:02",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -93,10 +93,24 @@
   ],
   "general_news": [
     {
-      "title": "XRP(리플) 반등 기대 접어라...글래스노드, 온체인 수요 붕괴 경고",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9FVllYYWptUklCUnZMUFNnVW45NVhrRVQ4S3JfTTFKZmVsaF9RTU80ektpSEVlQlMtdDlCN2E0NlRUdGxwZWlnblF3?oc=5",
-      "date": "Wed, 10 Jun 2026 02:10:00 GMT",
+      "title": "XRP(리플), 3달러 복귀 가능?...유력 분석가 \"0.7달러 방어가 먼저\"",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBFNzV6WW44QWcxZURWamRONnlBcFpKbVlDRGtuUGxoVEt6X19YbmlGWkFXclFScnY3VTl2MGVjbGFQZ29mNTJvbkhB?oc=5",
+      "date": "Wed, 10 Jun 2026 04:55:00 GMT",
       "source": "코인리더스",
+      "score": 2
+    },
+    {
+      "title": "리플, 홍콩 벤처캐피탈 손잡고 XRP 기반 금융 혁신 전격 가동",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaEtPQTJvS0VaSll6RWtYOWJ2SFVGSmtGR3pxb2tlam9QTXdzZXQxa0VYWVQzQmV6dUgwRlBuQl82ZkJWLWMzMjFuS1VWay1qQXc5R29KM2R4NTlyWndnREoxU19jTGdzMFB6ai12aTc2THVTQm5Kem1ncGlIQXI5Y1I4eUZ1eFZ2?oc=5",
+      "date": "Wed, 10 Jun 2026 04:25:01 GMT",
+      "source": "글로벌이코노믹",
+      "score": 2
+    },
+    {
+      "title": "리플X, XRP 레저 디파이 검증 전환…대출·볼트 안전성 강화",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjWERUSHJfajlYSjlwRXZFUFNQU05ya0daaDYwbklEOElQRUxxbnJEUkhlMzRlM2VZclJzZXljT3FldHIxUVB0TWJxYnliZ2hSaTc00gFYQVVfeXFMT1NkdnFaR1MyUEt4aWpRZF9WWDlzMW5zOFoxYnRkdGo1VVA0Y2VaMS1Fd1d6WU9xOURNMzhDM05ERXV0ZmljSXhwTVdEcTZ1T0pCbmgydlozOA?oc=5",
+      "date": "Wed, 10 Jun 2026 03:47:35 GMT",
+      "source": "tokenpost.kr",
       "score": 2
     },
     {
@@ -104,13 +118,6 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wTjV0S2tmZUt3alMtUUpvd05EY1ZhZmpYQU42a2dibGFLMHllcVFGdTlCQmJ2Z1prZi11eUtVd2FDR254QWRidFZoYWtRVW1MYW1RZER1TTh0RTNGblVYYjhIUFl0ZHdycV9Iek1yeVVGTGs?oc=5",
       "date": "Wed, 10 Jun 2026 01:00:00 GMT",
       "source": "디지털투데이",
-      "score": 2
-    },
-    {
-      "title": "리플(XRP), 30달러 간다? 2027년 대형 사이클의 진실",
-      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOeHkxRmJFazhWdU9kRmR5YUJVQzJfWTJ1bk9TNGNidTNGUm5BUFFnVmZaZ1l3MUx5MVN0OGFEZ2gyaDhMVTYyN1lSeVpwVlY0WERtOW1ET1p0WWl2cjA0ZlhkeVVCYTBzWWdoWEF4N1c1UFRwSXhsZkNQQWNtSVB6YV9RZm92VE9QdThjQjlHTF92eHRxTTZVZlNBa0s4UlJzQlhyLUNfV3ZOTml3WU1BcHg0a1BRMmo3M3JqNVZBOTR5T1hPLWw3eXJOeGNNVzRVTHVhbXo0SlVLVlctS29kZF9VNjNZb1FBWE5icVc2bDhHOFBYSDR5SDNZTlVSeGlCTmVkV0dQTndBWEZaSHlERF9QUFltSFRoSTdiM01TTVc5bmVSQUdCRHNiZEQwSzF0ZUVXNFZ3?oc=5",
-      "date": "Tue, 09 Jun 2026 23:25:09 GMT",
-      "source": "MSN",
       "score": 2
     },
     {
@@ -128,11 +135,11 @@
       "score": 3
     },
     {
-      "title": "리플(XRP), $1.1대에서 등락하며 구조적 우려 확산",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lRkVjeTRKQjRITGQwYi1oYW1sTFlvZ1VYeWdTS0F5N25fM3cwREltRW10ZjI4a2F4NlRzdmdIMU1IYTZrQkFFMUs2NmxHS2hhRHpqNzAycXRaTGtfdlBrc9IBZkFVX3lxTFBsaGN3NTd0eF9kcXVqQzZGTVFqRDVNY25lY2xFaXl0NWVlZVdIbW40bkxMS28yaHpqSENqTXF6MTBjZnVrLWcwbjFtYUxvNVNJdlVrSF9VeWtHZmYxRDBZZDc5dm14QQ?oc=5",
-      "date": "Tue, 09 Jun 2026 21:07:06 GMT",
-      "source": "tokenpost.kr",
-      "score": 2
+      "title": "방금 솔라나가 의미심장한 트윗을 올렸어",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WYUpWSUVfenQzWW9jWVJfTFRtbzg1WVpTdUtQdV9OVnRvcllIRFpUUF9HX0NERmJ5Uk9Cc0hUNDdQMS1xQ0pVV1daNGVGVElDekRxYUNkb1U?oc=5",
+      "date": "Tue, 09 Jun 2026 14:53:42 GMT",
+      "source": "코인니스",
+      "score": 8
     },
     {
       "title": "SBI홀딩스, 리플코인 XRP와 솔라나를 동시에 품다, 디지털 자산과 AI가 만나는 자리",
@@ -149,18 +156,11 @@
       "score": 2
     },
     {
-      "title": "리플(XRP), 1달러 붕괴 위기 속 '1091% 폭등론' 재점화… \"0.9달러 추락이 장기 매수 기회“",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeE5odzVnODdXMHR0RHZZNFY5VmtiRF9fQWtYRWUxRWlIWmJTRTFsY3pObVNTU3lmN0RSODdaMnQ5WGZsQXZleW85UVNnWWVoUFpUSGpzQWFaVGtndjFEQmFPWnM4UjBiS19kaHpfZTZacjl1TnBEQnB4anhVNWJidlM0VVVHTEMw?oc=5",
-      "date": "Mon, 08 Jun 2026 20:39:47 GMT",
-      "source": "글로벌이코노믹",
-      "score": 2
-    },
-    {
-      "title": "리플(XRP), RLUSD 영향력 넓힌다…멀티체인 확장에 시장 시선 집중",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ybFR4cXlIN245V3Qzbnp0SWZyRThqMzc1MjlONDh4akE3eEhSR2x3OTlqS0FLZU9WN3lXMGYyX1BnVGpWS1VpVnVaMDdTZGw2dFMtbTVCRldHYndDbHRBbzJoX2l4U2ZO?oc=5",
-      "date": "Mon, 08 Jun 2026 18:18:59 GMT",
-      "source": "CBC뉴스",
-      "score": 3
+      "title": "속보 | 비트와이즈 \"비트코인 하락은 매크로 위험 신호…대기 자금은 풍부\"",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10V1JndWhpaFI3eDg5NXVkT2xCeVB2V1RpZmFRUTNkMjNxSXZoS0hOaFZsMEFrTUlXRUFaVkQ0VzdkaUpIS1ZiYjlqM2lvWHlx?oc=5",
+      "date": "Tue, 09 Jun 2026 00:58:00 GMT",
+      "source": "코인니스",
+      "score": 8
     }
   ]
 }
