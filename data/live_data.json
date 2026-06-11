@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-10T23:54:33",
+  "generated_at": "2026-06-11T02:50:51",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.096,
-    "price_krw": 1671.22,
-    "price_change_24h": -3.61084,
-    "price_change_7d": -9.92149,
-    "price_change_30d": -25.47745,
-    "market_cap_usd": 68007788287,
+    "price_usd": 1.1,
+    "price_krw": 1687.39,
+    "price_change_24h": -1.0434,
+    "price_change_7d": -4.8199,
+    "price_change_30d": -25.45115,
+    "market_cap_usd": 68625838922,
     "market_cap_rank": 6,
-    "volume_24h": 1961797246,
+    "volume_24h": 1894394894,
     "circulating_supply": 62053900985.0,
     "total_supply": 99985653167.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 56.52,
-    "sentiment_votes_down": 43.48,
+    "sentiment_votes_up": 55.68,
+    "sentiment_votes_down": 44.32,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 22.48,
-    "recent_tps": 22.48,
-    "recent_tx_count": 1843,
+    "tps_24h_avg": 19.3,
+    "recent_tps": 19.3,
+    "recent_tx_count": 1737,
     "recent_ledger_count": 24,
-    "recent_window_sec": 82,
-    "ledger_seq": 104838864,
+    "recent_window_sec": 90,
+    "ledger_seq": 104841620,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-10 23:54:18 KST",
+    "updated_at": "2026-06-11 02:50:45 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -103,7 +103,28 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdXYxU0JfMjJiNHl0MVRRZF9YWWhmSlpvZU5qRDZWbmVrU2dNUXdrNzg3MUNSWlVrZUFyX1RCalZqcndHWDJjQWc4R19KTVNmVWIxVDNzWEV6TzRfN21US0dmRDI0amxycE9UQmZzdHU2MFdON3ByYnl5SlpvXzZiMTlidDYtX2NX?oc=5",
       "date": "Wed, 10 Jun 2026 21:58:17 GMT",
       "source": "글로벌이코노믹",
-      "score": 3
+      "score": 4
+    },
+    {
+      "title": "리플(XRP)의 운명은? 1달러 지지선 테스트 시작됐다",
+      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOaUZpZ3MxZ0lEN3lHOGJTUEhNZ2Z5a29McFhiZ3gyVlVIcm9feHZvbDVaeVoyWDltY3Bxa2ZIZ0xqeXJVWlF2NEVhWW9aRVZicnRSLVA1X2VWREU5Q2VKM0FWS2Q2UzdnTXhHaVJ0NUFFa3VKdk5CTHREZHFmSXlVZGx2c0liTmJlMGc2QVFvMmNNZllUa0NueWxKeFdXU1Nkd3NoTzZfSlNQOVpoUjFzRTBIemVncXUxSjJ1Z1Z2SGZMNnhVVWY3YzBYcHRxS0V5eFRJVk51X0tEUUt1dmM0WUJzdUpNZnhHdkRubWlTc1hQaVI3SHl5b0lZRjQzeDBQTjdqcHBpOEo2blFhenlvQy1rdnVpaGVmWDk5QllrM2kxbnVhanF2WUJKUm5IOVdXcHZtV1MyTVlaWmVFQlhIWDNLN1pUdUxfbUR1ZTVveUtLTmVu?oc=5",
+      "date": "Wed, 10 Jun 2026 21:10:28 GMT",
+      "source": "MSN",
+      "score": 2
+    },
+    {
+      "title": "리플, XRPL AI 스타터 키트 공개…XRP 반등 촉매 될까",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83R3hCS0VyZ2NLSTctbGdZSDkxeU5uY3NoMC1adHpkeGhhd1R3dEJMRFNzXzFFUGl2Zmpqekw5ZWtfMkFCY1laN3JTSDRvcTZLblpF0gFYQVVfeXFMT25ITnU0Um5JdlBNYXVHZE5SNXZ2NjJCZGR5akppMm1OY3cxNWZBTVNFV1U3MTMybGdFbXAxampDR3pkeUdGN0ZBVDZiQWFXTnNiTGYySjVOdg?oc=5",
+      "date": "Wed, 10 Jun 2026 18:33:02 GMT",
+      "source": "tokenpost.kr",
+      "score": 2
+    },
+    {
+      "title": "엑스알피(리플) 시세 또 하락...\"강세 신호로 18달러 전망\"",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1XWkZvV1gyS2dCQjF2NlJHMHZKc2UwQmVHWVdHQldxNlBNUkhXdUVDYUd0TDQ1ODRvSjdnMEgtLTJRU1ctNnFtWHplRENHVDV5QmszYkkyakU0UGhfck15cVZmeVRTcmttT3FOaW93?oc=5",
+      "date": "Wed, 10 Jun 2026 15:01:00 GMT",
+      "source": "gukjenews.com",
+      "score": 2
     },
     {
       "title": "리플, 홍콩 벤처캐피탈 손잡고 XRP 기반 금융 혁신 전격 가동",
@@ -113,18 +134,25 @@
       "score": 2
     },
     {
-      "title": "리플X, XRP 레저 디파이 검증 전환…대출·볼트 안전성 강화",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjWERUSHJfajlYSjlwRXZFUFNQU05ya0daaDYwbklEOElQRUxxbnJEUkhlMzRlM2VZclJzZXljT3FldHIxUVB0TWJxYnliZ2hSaTc00gFYQVVfeXFMT1NkdnFaR1MyUEt4aWpRZF9WWDlzMW5zOFoxYnRkdGo1VVA0Y2VaMS1Fd1d6WU9xOURNMzhDM05ERXV0ZmljSXhwTVdEcTZ1T0pCbmgydlozOA?oc=5",
-      "date": "Wed, 10 Jun 2026 03:47:35 GMT",
-      "source": "tokenpost.kr",
+      "title": "부정적인 사람은 투자하면 안된다",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBsVUJkWkJvV3FIdWxWYnJJekxfSFVzZFRnRF9xUkZVeHJkOFFia184bEZDblBNbVZudlc0UnRWOXFmeDZkOVI5SElhSXNYRHU0S2VIbnZsV0M?oc=5",
+      "date": "Wed, 10 Jun 2026 01:25:06 GMT",
+      "source": "코인니스",
+      "score": 8
+    },
+    {
+      "title": "리플코인 가격은 침묵해도, 펀더멘탈은 쌓이고 있습니다 — XRP, 2026년 6월의 진짜 이야기",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX1laNWVkSFZkVTRBVHFma0E5Rms2MzI1eGdvdE5hN2FFazJfZVJ3Q1JiOEJPbC15bm12OU44eklybzhNM3ZiSF9KbXhEYWU5dzY4TFZzeDlLRHZjdUhIMHVuOVVOM1d4SEhncWw1UjdNekVrWVpuQ2MxOXpxRFMxOUtfRGlYU1RpX2c2cQ?oc=5",
+      "date": "Wed, 10 Jun 2026 00:48:00 GMT",
+      "source": "네이버 프리미엄콘텐츠",
       "score": 2
     },
     {
-      "title": "리플 슈워츠 '명예직' 조롱에 응수…\"XRP 레저 내가 만들었다\"",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wTjV0S2tmZUt3alMtUUpvd05EY1ZhZmpYQU42a2dibGFLMHllcVFGdTlCQmJ2Z1prZi11eUtVd2FDR254QWRidFZoYWtRVW1MYW1RZER1TTh0RTNGblVYYjhIUFl0ZHdycV9Iek1yeVVGTGs?oc=5",
-      "date": "Wed, 10 Jun 2026 01:00:00 GMT",
-      "source": "디지털투데이",
-      "score": 2
+      "title": "속보 | 분석 \"BTC, 수개월 횡보 후 반등 가능성...$5.2만 테스트 전망\"",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE80TWY1cEJ5dTF1UGlsSGFJNEFkWGFUQUw0VE5TZGRlRkdTUWFkbEg2a0RrTF9WeW11NDNvaGpGb08tM0dVaFpTQTVTZjZYTF8w?oc=5",
+      "date": "Tue, 09 Jun 2026 22:26:00 GMT",
+      "source": "코인니스",
+      "score": 8
     },
     {
       "title": "파멸의 1달러 추락 공포… 리플 ETF 출시에 숨겨진 거대한 음모와 덫",
@@ -132,34 +160,6 @@
       "date": "Tue, 09 Jun 2026 22:14:45 GMT",
       "source": "핀포인트뉴스",
       "score": 3
-    },
-    {
-      "title": "사하라에이아이 급락·리플XRP 하락·월드코인 상승, ETF 유출에 관망 확대",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9NNVFEZ0xiWTFPcUt6Z0djR21BZkJtOHdxcXk1T3cxZWc1eWJuNXQ1bjVTMEhKOXYtZVZRQ0t4U2VwUVQ2b0Z6UVZZdGR0c29IZGtwaUVBU1NUUUl6N0NFbURqV2VOR2FlbDN4UmtiZ0FQQQ?oc=5",
-      "date": "Tue, 09 Jun 2026 22:09:18 GMT",
-      "source": "TopStarNews",
-      "score": 3
-    },
-    {
-      "title": "속보 | 미국 5월 CPI 예상치 부합...전년比 4.2% 상승",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9NRk9Mcm5WUVJRVWdmXzRDRjBidG1BcDlPb0ZEano0RnJaQVVscl9oREl0Tnk5WjNPY1RVWFJYQkhGM1U4d0RoZVQwblFST2tY?oc=5",
-      "date": "Tue, 09 Jun 2026 20:31:00 GMT",
-      "source": "코인니스",
-      "score": 8
-    },
-    {
-      "title": "아내가 절 오빠라고 잘못 불렀습니다",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5TOFFWY2VBUUFHd0MwRlg2N04taXdpUk4tYVJVbkthZi1XM0lKX2lGNl91Wjl1OGNVbFdUZXk1YXBiNmxtQnhrY19BYnBCTVEyQjJNY3EtY18?oc=5",
-      "date": "Tue, 09 Jun 2026 16:58:12 GMT",
-      "source": "코인니스",
-      "score": 8
-    },
-    {
-      "title": "속보 | 분석 \"XRP, 투자자 대규모 손절...'시장 항복' 현상 나타나\"",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5BNUVKZzNMNjcxNHVOWEpIMUtrdWpwMXhad3g1UmVMRUF4d2pRRzlKUTlqVmNydkJZZmpzQmU5UkEtZ1lOYzRyTDQ1OE1KaG92?oc=5",
-      "date": "Tue, 09 Jun 2026 16:32:00 GMT",
-      "source": "코인니스",
-      "score": 9
     }
   ]
 }
