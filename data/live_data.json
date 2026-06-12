@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-12T06:28:01",
+  "generated_at": "2026-06-12T10:48:59",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.13,
-    "price_krw": 1725.04,
-    "price_change_24h": 1.51223,
-    "price_change_7d": 0.76204,
-    "price_change_30d": -22.35686,
-    "market_cap_usd": 70367005914,
+    "price_usd": 1.14,
+    "price_krw": 1736.03,
+    "price_change_24h": 1.93678,
+    "price_change_7d": 0.73033,
+    "price_change_30d": -21.93499,
+    "market_cap_usd": 70836525248,
     "market_cap_rank": 6,
-    "volume_24h": 1643306734,
+    "volume_24h": 1700060443,
     "circulating_supply": 62053900985.0,
     "total_supply": 99985653167.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 75.76,
-    "sentiment_votes_down": 24.24,
+    "sentiment_votes_up": 76.85,
+    "sentiment_votes_down": 23.15,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 15.29,
-    "recent_tps": 15.29,
-    "recent_tx_count": 1361,
+    "tps_24h_avg": 21.39,
+    "recent_tps": 21.39,
+    "recent_tx_count": 1925,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 104867545,
+    "recent_window_sec": 90,
+    "ledger_seq": 104871634,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-12 06:27:52 KST",
+    "updated_at": "2026-06-12 10:48:48 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,10 +92,24 @@
   ],
   "general_news": [
     {
-      "title": "XRP 소송 주역 제이 클레이턴, 美 정보수장 되나…국가정보국장 후보 지명",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9paHlFU2RfWllKeTZnbklqRDJMc0JuY3lncVBzQ3BNdDZRZm9tTEJ1TE1EMTBvVmp6M0NWWW42VExBczhDd01WM1d4NU9JMnNFX1lGU1dLRkVnQU9ZYVpEbW41RkR4eENweWNKRUxvQ1liY2M?oc=5",
-      "date": "Fri, 12 Jun 2026 00:17:00 GMT",
-      "source": "디지털투데이",
+      "title": "유동성 흐름으로 보는 고점 구간",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZ3o3TVNMS1NmSGQwekEyR1ppUExxZVpuc2Z1UnRZZ2c0UmdpWEFOU0tSaTN3a3RXMzRBSWg5dE55QlluSjRKMTRKM1JXeGctYkVqN3M5bDRPaEJIY0FEMC15WVlmWHRHajdQZU5DWFJYN2YwX3JkWW42WVZVakRXX0NGSFpUUHpwU0E?oc=5",
+      "date": "Fri, 12 Jun 2026 10:20:00 GMT",
+      "source": "네이버 프리미엄콘텐츠",
+      "score": 2
+    },
+    {
+      "title": "매달 풀리던 XRP, 2035년엔 바닥난다?…리플 에스크로 소진될까",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1SDVvSkNwNFlMSy1HUWllTjlTM2dIQnpLdmticTEzVG1VaXk1RkZOdXpyN2VueXBNX0pTTmxMOHFmekEtYzlRYzFDUGxzc3c?oc=5",
+      "date": "Fri, 12 Jun 2026 08:25:03 GMT",
+      "source": "v.daum.net",
+      "score": 2
+    },
+    {
+      "title": "XRP(리플), 27.68달러 폭등장 열리나...'여기' 돌파 못 하면 지옥문",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBqSWVfc1JhOXNVd0ZxQ1BmR2pxUkZRRkQyVGFwa2JYRG5HZkV0SzZTNjVnQ3M5enhYVWxDRy03VFhuUlNXbkYyWFRB?oc=5",
+      "date": "Fri, 12 Jun 2026 04:35:00 GMT",
+      "source": "코인리더스",
       "score": 2
     },
     {
@@ -141,24 +155,10 @@
       "score": 2
     },
     {
-      "title": "일본, 가상자산 금융상품 편입 추진…리플(XRP) 수요 기대 커지나",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91UFJMQVdmWVdydTFVU1hLQkQ4djhQd20zRHZvd2hYekJTcFhYMWJoSEg5aElIWXNXRjVRZjZyeDdueWFJUXV6VkJ1Y1hiY0M1MG1rZW44U1pPS3RscU52X9IBZkFVX3lxTE5UMXZKeGFFUEhad1R3ZG9wZU9PWjg0N0ZNVmZTeDFHeEpyV1dKOHBVNk85aGxORHZBN1VSQXVia2cyNHBhUE04d1UtclJHMGNWWVlBa0RpeXhhWkhRWm5XUnNYMlpSUQ?oc=5",
-      "date": "Thu, 11 Jun 2026 19:12:36 GMT",
-      "source": "tokenpost.kr",
-      "score": 2
-    },
-    {
       "title": "거래대금 13.3%↓…월드코인·비트코인·리플XRP 상승, ETF 유출에 관망 확대",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5OSTBPZUNnRG5taEZPVGFyMjN6UC1CUUNSbml2QWZENHJBLTY0bkplekhSOXRiWHNVbVhsYVl2SDBTUmtXZUlQaUdTLVNKUks3YVdMT0E5RlRaSE5ndDM3WUNYclRZSlE5dG13V2pnVmZFZw?oc=5",
       "date": "Thu, 11 Jun 2026 14:24:16 GMT",
       "source": "TopStarNews",
-      "score": 3
-    },
-    {
-      "title": "리플, XRPL AI 스타터 키트 공개… XRP·RLUSD로 AI 결제 겨냥",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5LclIyLTdnU0FlRG5ZTk9DRHk1WGZsbV9hYUw2VDRiNlBPamFLNUJSTzhDWHpZMzl3N1JDTTZkMHpFejYzcHNxNTdWSzZtc1JqZmdjeEFrM1VMaGlNRTZFaVBWaEEzOUxtcDNTcVdET0RuSGc?oc=5",
-      "date": "Thu, 11 Jun 2026 13:06:25 GMT",
-      "source": "디지털투데이",
       "score": 3
     }
   ]
