@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-13T21:57:24",
+  "generated_at": "2026-06-13T23:02:16",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.15,
-    "price_krw": 1752.2,
-    "price_change_24h": 2.03677,
-    "price_change_7d": 6.4171,
-    "price_change_30d": -23.39745,
-    "market_cap_usd": 71569897627,
+    "price_krw": 1745.25,
+    "price_change_24h": 1.74005,
+    "price_change_7d": 5.65898,
+    "price_change_30d": -23.35131,
+    "market_cap_usd": 71344037135,
     "market_cap_rank": 6,
-    "volume_24h": 1023383816,
+    "volume_24h": 1022928965,
     "circulating_supply": 62053900985.0,
     "total_supply": 99985653167.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 69.05,
-    "sentiment_votes_down": 30.95,
+    "sentiment_votes_up": 66.67,
+    "sentiment_votes_down": 33.33,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 19.06,
-    "recent_tps": 19.06,
-    "recent_tx_count": 1544,
+    "tps_24h_avg": 30.4,
+    "recent_tps": 30.4,
+    "recent_tx_count": 2706,
     "recent_ledger_count": 24,
-    "recent_window_sec": 81,
-    "ledger_seq": 104904694,
+    "recent_window_sec": 89,
+    "ledger_seq": 104905713,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-13 21:57:18 KST",
+    "updated_at": "2026-06-13 23:02:04 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -56,8 +56,8 @@
     },
     {
       "title": "비트코인·이더리움 던지는데…XRP ETF, 약세장 씹어먹은 충격 반전",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0wN2Z6M2hEdl91TTVZY1RlN2xPZXBwcENIZFUtSmh6dHFyWTFsWWdpZDQ3YXJXeTctS0ZweGVabTBWNVJzTl9FTms5NjNLUklXbzVfU1lVM2UyV05PMm9EdFQ4OF9RdEZITndsRlB2YnhyQ1EyeTk00gF3QVVfeXFMTTA3ZnozaER2X3VNNVljVGU3bE9lcHBwQ0hkVS1KaHp0cXJZMWxZZ2lkNDdhcld5Ny1LRnB4ZVptMFY1UnNOX0VOazk2M0tSSVdvNV9TWVUzZTJXTk8yb0R0VDg4X1F0RkhOd2xGUHZieHJDUTJ5OTQ?oc=5",
-      "date": "Thu, 11 Jun 2026 19:52:14 GMT",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Bc3dWdHlmQ0dtWUJ4R1dwZXp4Sko2QUEzcVFEbk96Z0o0XzJIWUItUWVqTEVwcGxCRjZxUTJGOS1adWJfU0tVYUh5Q3YyUkJzNjl5ZVJlbjNYb1I2TUJNcEt0Z3ZuZTRnX2xGUFllRndVWEXSAXdBVV95cUxNMDdmejNoRHZfdU01WWNUZTdsT2VwcHBDSGRVLUpoenRxclkxbFlnaWQ0N2FyV3k3LUtGcHhlWm0wVjVSc05fRU5rOTYzS1JJV281X1NZVTNlMldOTzJvRHRUODhfUXRGSE53bEZQdmJ4ckNRMnk5NA?oc=5",
+      "date": "Thu, 11 Jun 2026 19:46:31 GMT",
       "source": "핀포인트뉴스",
       "score": 0
     },
@@ -92,10 +92,17 @@
   ],
   "general_news": [
     {
-      "title": "리플, 14달러 간다? 1200% 잭팟 신호 터졌다",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQS1ZwQWJXdFJPWWNOTlFER1lPRDV2TndpS1VhSmdrM0FIQkczckVhUmtUWlVjVGNWencwd3dkcmRpdDcxajNDNnlQaE1VbWFqRHdZeHpqbjBkNzhkalROZ3laeG1QcnVZU2ptNEpqeTgzb29KOXdSalJuNlpYNmc2VjQzVTFWYWdiSENPU3N1OG5jbjRVcXdULTN3WnFlMkFxQk82WVRvRDBLRFNVREVPQWMtS0tvQzJzMkVWMkltd2hwbUgyZWZTZjhUU0FrUGRiNDdkS21tSFRLUHVadDBKcHFTeU9SWUJPX1Z4Y3FZb1NnWF9ZaVpucFNXc1IzUEU3QmE4SEhtRVNQaFhhbjQxREhCSnZlT1huVlE?oc=5",
-      "date": "Sat, 13 Jun 2026 19:06:07 GMT",
-      "source": "MSN",
+      "title": "거래대금 15.1%↓ 월드코인·리플XRP·메가이더 급등, 금리 부담에 관망",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtczdSWlZ6YUM4NWdhS2RhM3FtV0hJSTBXYUVNQXBFdjVkeEdlbmx5OFQtbUdKRjFrZ3YwcFhNVHRPdEZpMXJqWkZURmtwWWtieWxCQWdaNlpKOFMzVFktX2R6cWl4blM2U1dua09aS2FhZw?oc=5",
+      "date": "Sat, 13 Jun 2026 22:29:36 GMT",
+      "source": "TopStarNews",
+      "score": 2
+    },
+    {
+      "title": "SEC 소송만 없었어도… 비트코인 공식 대입하니 리플 가격 '24달러'",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBVNzA3V214ZXBnR2xTZXFwcXRXVExiLU1RWi13V0lxYnlfd1AzWU4xSHBfcEoxS1BCVzNQa2hCLVR2b0JZNERzQzBveWtZeXJwMXNCWi1Va1JobUJSc2RiOVJMS1N1OXV1dDRvTUh3WUo3LUHSAXdBVV95cUxPWXlZc00wRHBjbnluYTcwRE5mR0s0LUp0VEVQZ0FSNTFSbFlfdXUwc1RsRzRUdnFsUTRKMnhDMEl3NWdsZ2JYT2IzTWJ1LVJYYWJtVTRXTDhvWGNiWDBGUmxUNl9UVHRQWkxGc2lYcGxUZUJlUW5XTQ?oc=5",
+      "date": "Sat, 13 Jun 2026 22:00:38 GMT",
+      "source": "핀포인트뉴스",
       "score": 2
     },
     {
@@ -127,18 +134,18 @@
       "score": 2
     },
     {
+      "title": "0 7달러까지 내려갈 수도 XRP 투자자의 냉정한 현실 인식",
+      "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxPVjEtd3JXNG1sWWhzeGZxQXpQRFAtelI0Y0ZqTzU4V2xGRUFBcUhGWmtsMHJpZnZnNnFDclN3X0Zla3E1LVJEY09WRmFaUnl0M2NURGkwLUxFSWpsMmJrdTQxaW5uLWNYcXRMX056eXRYVXFGb3pkZzQ2dDRPWS1zb3dHalBQSmJfaDdtVnZQUWlSX09rdWplS0ZXVHdwbWtISGl2aFVta3dVSnVZaG5lNXljSlZqTE96MkdBeHE4MFBxVkN6OVRlTVkwcUlvd0M2VE9zYVlCSWxUNDMzNkhwZzhuQ2o5WEJ6emZqMjNTeFZiekZpYlVvZ3ZWZjBuelhIekFyWWNZTlhRRTBXaVJDbkxrcHl6RzZfRFFQckF2b2hnUnJKTVlmaDRtMkVUUjNrallZY19Za2c4UzliWnl0SHREVmVRSWd6dFFSY29jQUZGRlBpSW9mRGdTNFJDODhCenRydExRdFVuU3FnSmc?oc=5",
+      "date": "Fri, 12 Jun 2026 07:00:00 GMT",
+      "source": "MSN",
+      "score": 2
+    },
+    {
       "title": "리플(XRP) 최신 뉴스와 전망: 일본 은행 온보딩과 AI 에이전트 결제 시대, 그런데 왜 가격은 신저가일까 (리플코인)",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQamJHTVVTYlg4dWFheF80TnFmNE9WZ2ZyMFhNQkVvZVZBVm9iNUhQVWE4QVpNWGpvck85d0pnOHpGVDdjUFU3N1hqYlNOMDRYOWRKS1ExRU9hbVF6dDZHdlNPWm8xdUZVcmZUWGJteVVqeHZXUzFVNDd3UGhReS1WRFpLR096VmFONmJlTw?oc=5",
       "date": "Fri, 12 Jun 2026 03:06:00 GMT",
       "source": "네이버 프리미엄콘텐츠",
       "score": 3
-    },
-    {
-      "title": "리플서 'XRP 에스크로' 언제 바닥날까…전 CTO가 답했다",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE85bnRhcU9Rc09GdjRyMnZNTjhYbUZCdVkwdUFPck1oTU1GMTQ3SUlCTFdhYUM2dXJvcUFKOG1HSG1JcDdnQ1BUS2FYeFl2NGxhSmx1VUdZdUxqdjRQX0FsU0xvb0pHZnZsMXE5VWJpOVJVbjA?oc=5",
-      "date": "Fri, 12 Jun 2026 01:53:56 GMT",
-      "source": "디지털투데이",
-      "score": 2
     },
     {
       "title": "트럼프, 리플(XRP) 전 반대자 제이 클레이튼 정보 수장 지명",
@@ -153,13 +160,6 @@
       "date": "Thu, 11 Jun 2026 20:51:42 GMT",
       "source": "글로벌이코노믹",
       "score": 2
-    },
-    {
-      "title": "사람 없이 돈 보내는 AI 등장… 리플의 승부수는 XRP·RLUSD",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZNGtWb191R0JYY0hIbVB6SEJscTdWTUQ2LXE1dmVhclFENjQ0eFhuQ2ZDRG1pY0g2Ujh0NGkyVUltLU1ZX0tqc3RPX3JheXVPTEI3WG9nd1pranF6a2Q0NlozTmU5a1hDNlFVaVZvTGpyeTFvanVr0gF3QVVfeXFMTlk0a1ZvX3VHQlhjSEhtUHpIQmxxN1ZNRDYtcTV2ZWFyUUQ2NDR4WG5DZkNEbWljSDZSOHQ0aTJVSW0tTVlfS2pzdE9fcmF5dU9MQjdYb2d3WmtqcXprZDQ2WjNOZTlrWEM2UVVpVm9ManJ5MW9qdWs?oc=5",
-      "date": "Thu, 11 Jun 2026 19:54:25 GMT",
-      "source": "핀포인트뉴스",
-      "score": 3
     }
   ]
 }
