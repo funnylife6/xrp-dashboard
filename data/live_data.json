@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-13T12:21:07",
+  "generated_at": "2026-06-13T14:35:25",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.15,
-    "price_krw": 1744.66,
-    "price_change_24h": 0.90772,
-    "price_change_7d": 6.425,
-    "price_change_30d": -19.98663,
-    "market_cap_usd": 71284422834,
+    "price_krw": 1750.89,
+    "price_change_24h": 1.47747,
+    "price_change_7d": 5.39618,
+    "price_change_30d": -20.21944,
+    "market_cap_usd": 71572965744,
     "market_cap_rank": 6,
-    "volume_24h": 1288313205,
+    "volume_24h": 1304114376,
     "circulating_supply": 62053900985.0,
     "total_supply": 99985653167.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 63.51,
-    "sentiment_votes_down": 36.49,
+    "sentiment_votes_up": 67.57,
+    "sentiment_votes_down": 32.43,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 15.93,
-    "recent_tps": 15.93,
-    "recent_tx_count": 1306,
+    "tps_24h_avg": 16.82,
+    "recent_tps": 16.82,
+    "recent_tx_count": 1514,
     "recent_ledger_count": 24,
-    "recent_window_sec": 82,
-    "ledger_seq": 104895620,
+    "recent_window_sec": 90,
+    "ledger_seq": 104897730,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-13 12:21:00 KST",
+    "updated_at": "2026-06-13 14:35:14 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -56,8 +56,8 @@
     },
     {
       "title": "비트코인·이더리움 던지는데…XRP ETF, 약세장 씹어먹은 충격 반전",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0wN2Z6M2hEdl91TTVZY1RlN2xPZXBwcENIZFUtSmh6dHFyWTFsWWdpZDQ3YXJXeTctS0ZweGVabTBWNVJzTl9FTms5NjNLUklXbzVfU1lVM2UyV05PMm9EdFQ4OF9RdEZITndsRlB2YnhyQ1EyeTk00gF3QVVfeXFMTTA3ZnozaER2X3VNNVljVGU3bE9lcHBwQ0hkVS1KaHp0cXJZMWxZZ2lkNDdhcld5Ny1LRnB4ZVptMFY1UnNOX0VOazk2M0tSSVdvNV9TWVUzZTJXTk8yb0R0VDg4X1F0RkhOd2xGUHZieHJDUTJ5OTQ?oc=5",
-      "date": "Thu, 11 Jun 2026 19:52:14 GMT",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Bc3dWdHlmQ0dtWUJ4R1dwZXp4Sko2QUEzcVFEbk96Z0o0XzJIWUItUWVqTEVwcGxCRjZxUTJGOS1adWJfU0tVYUh5Q3YyUkJzNjl5ZVJlbjNYb1I2TUJNcEt0Z3ZuZTRnX2xGUFllRndVWEXSAXdBVV95cUxNMDdmejNoRHZfdU01WWNUZTdsT2VwcHBDSGRVLUpoenRxclkxbFlnaWQ0N2FyV3k3LUtGcHhlWm0wVjVSc05fRU5rOTYzS1JJV281X1NZVTNlMldOTzJvRHRUODhfUXRGSE53bEZQdmJ4ckNRMnk5NA?oc=5",
+      "date": "Thu, 11 Jun 2026 19:46:31 GMT",
       "source": "핀포인트뉴스",
       "score": 0
     },
@@ -92,17 +92,17 @@
   ],
   "general_news": [
     {
-      "title": "드디어 미국이 열었다 XRP 무기한 선물 상장, 무엇을 의미하는가?",
-      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxPQU5CZmhLWEJpNDNrckN6X0RWWDFhRThMRUV2Z21lcjR0OXNLa2dwM3kyQjJWRWM0WG5qZGpRMGwteG95YlRVQVBiUURuMUV5TGhUdzAtYXIzT3hoMVJpVTBPQXR1U1BsZFcxd0E5UnNnNU41dDVNb3RJRlprdUN6eldlN3J2SWp3YS1zWTJhR2s2QXV2bUpENFRGVUV2c2ZIeWZ0TlZ3OUt3RjlqakllQTZ0R2RLd0hNc2k0Ulpib1M0a3RtUG84SlZ0dmhJa3MxWnRYX05FRTI3eENUclZFWGFBQndaLWxzSjdTbl9UUWVJMHNWZlU3N0wxZGdGbWR0QmRjOGFIby0wTW5IZ0p1RDhxa0ZwZnlxZjdhdFZTWmRHTEdRMV9LSkEwblZrSGhZQXFLQU4yLWE3Tjh2Q21QZ2Z4WG1CTHo2ZlQwZFA0Q0tpSWZldHVTTTNHck16ZDRHamYxbW44Nm5MTW10UHFGZjg3S19NWjFTUlRYOUtPcGFWdGJ0LTBnOWhTZGY?oc=5",
-      "date": "Fri, 12 Jun 2026 22:30:02 GMT",
-      "source": "MSN",
+      "title": "리플(XRP), 1.10달러 지켰지만 회복까지 2년 더 걸릴까?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5UVzJTd0NPalBoQmw1ZHRDV3hZM010ekJ4dFdCdGlBOHFnR1FpbDJfZEo5a2pzOEd0cFNuTkpiSmhiS080Zk1TVWpR?oc=5",
+      "date": "Sat, 13 Jun 2026 08:16:00 GMT",
+      "source": "코인리더스",
       "score": 2
     },
     {
-      "title": "리플(XRP) 반등 시작됐나? 1.20달러 돌파 여부에 쏠린 시선",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBtczhOUDBjNVhTc2c2VUFSWDRlbkxsRkdNVDVMc3ZCanFlcGtDMF9MVjlEUlVuWW5Fd1o2Sk1sNFkzR2xUWU1kVkVR?oc=5",
-      "date": "Fri, 12 Jun 2026 21:36:00 GMT",
-      "source": "코인리더스",
+      "title": "드디어 미국이 열었다 XRP 무기한 선물 상장, 무엇을 의미하는가?",
+      "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxOM0puTWpWWk1ES2U0TjlQbWZ6amc3bkxXQThTMXY0V19vbnpTSGF6bFMwX1NvNkl6bVZHQ2FqM0R6R1IxNm8yaldvQWRNTlN2RWRHWGJzRXNKb0VRLXhBbFMwVWNlQW82OHJ6RjRvcFV2dy13dU40YXl2MnVCRkhzWEZYc3BSOFV1WkhOdG9HWVB4eG83Y19jSFhuVG90TFdhTloxT3ppdEpvTndma1BZOURVNDhkenFkT1VzZkhET2NZMHhhVlZqLXM3cVdDQzRPbGhtWWtkTTM5VFU1SnFsQzFzelFmUjluSXFmTV9TQ05jenROVmdXU25HRjZ0eDNNZTlkbERZdEdiYVFYajVMSFE2U1RsM3RfTTdNMmliMTRWUnZ3aWtfMk1nWkdWeGx4dFBDZHJSY28xbFozNF9tZzZCamxzQjZkMnRoeFdfejBMQzZCRGNpYm9TTXVxb1d2ekpkMElpc19jT1l2bGpKSVl1YlExREhfb3loSkpJVVJGcUkxUERiUk9zMUVHMmE4eWFKbzlrNF9GbHB5?oc=5",
+      "date": "Fri, 12 Jun 2026 22:20:41 GMT",
+      "source": "MSN",
       "score": 2
     },
     {
@@ -113,6 +113,13 @@
       "score": 3
     },
     {
+      "title": "속보 | 분석 \"XRP, 과거 패턴 반복 시 800일간 횡보 전망\"",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1zTjNuMEpzdGhRWG1OdElZR1FzNC1aTjIySmNNZkRlV2stYUpNWk5naGRoUGxzVHhMMEQ0cVFLeG1Sb2VIVW9DbQ?oc=5",
+      "date": "Fri, 12 Jun 2026 15:40:00 GMT",
+      "source": "코인니스",
+      "score": 9
+    },
+    {
       "title": "XRP 심리 2026년 최저 수준…\"극단적 공포, 오히려 반등 신호일 수도\"",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfRnBQRVphUnQ2c3hTUHJZZzdpTC1oVFU5Z0FHYUgwaTNyU1RsTGJfdXVlTXY3ZlBXWjFvXy1zcVZHd0tjRnFVbU1WQWJTakY5UjNB?oc=5",
       "date": "Fri, 12 Jun 2026 13:11:07 GMT",
@@ -121,7 +128,7 @@
     },
     {
       "title": "매달 풀리던 XRP, 2035년엔 바닥난다?…리플 에스크로 소진될까",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9MLWFQQ0JUVWxGcU9UeWR0c0FyNnptRUpYTmQwN2F1b05sNzF0dVJYNW00NzZ1RHhteERPWUN4WVZNVXFRanc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1SDVvSkNwNFlMSy1HUWllTjlTM2dIQnpLdmticTEzVG1VaXk1RkZOdXpyN2VueXBNX0pTTmxMOHFmekEtYzlRYzFDUGxzc3c?oc=5",
       "date": "Fri, 12 Jun 2026 08:25:03 GMT",
       "source": "v.daum.net",
       "score": 2
@@ -132,13 +139,6 @@
       "date": "Fri, 12 Jun 2026 03:06:00 GMT",
       "source": "네이버 프리미엄콘텐츠",
       "score": 3
-    },
-    {
-      "title": "리플서 'XRP 에스크로' 언제 바닥날까…전 CTO가 답했다",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE85bnRhcU9Rc09GdjRyMnZNTjhYbUZCdVkwdUFPck1oTU1GMTQ3SUlCTFdhYUM2dXJvcUFKOG1HSG1JcDdnQ1BUS2FYeFl2NGxhSmx1VUdZdUxqdjRQX0FsU0xvb0pHZnZsMXE5VWJpOVJVbjA?oc=5",
-      "date": "Fri, 12 Jun 2026 01:53:56 GMT",
-      "source": "디지털투데이",
-      "score": 2
     },
     {
       "title": "트럼프, 리플(XRP) 전 반대자 제이 클레이튼 정보 수장 지명",
