@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-13T16:10:05",
+  "generated_at": "2026-06-13T17:51:23",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.15,
-    "price_krw": 1750.16,
-    "price_change_24h": 2.03637,
-    "price_change_7d": 4.06162,
-    "price_change_30d": -21.63616,
-    "market_cap_usd": 71526616138,
+    "price_krw": 1740.16,
+    "price_change_24h": 1.32961,
+    "price_change_7d": 4.63547,
+    "price_change_30d": -22.1267,
+    "market_cap_usd": 71166170149,
     "market_cap_rank": 6,
-    "volume_24h": 1133788209,
+    "volume_24h": 1092959765,
     "circulating_supply": 62053900985.0,
     "total_supply": 99985653167.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 67.11,
-    "sentiment_votes_down": 32.89,
+    "sentiment_votes_up": 71.43,
+    "sentiment_votes_down": 28.57,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 16.71,
-    "recent_tps": 16.71,
-    "recent_tx_count": 1504,
+    "tps_24h_avg": 14.83,
+    "recent_tps": 14.83,
+    "recent_tx_count": 1201,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 104899215,
+    "recent_window_sec": 81,
+    "ledger_seq": 104900813,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-13 16:09:50 KST",
+    "updated_at": "2026-06-13 17:51:17 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,18 +92,11 @@
   ],
   "general_news": [
     {
-      "title": "리플(XRP), 1.10달러 지켰지만 회복까지 2년 더 걸릴까?",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5UVzJTd0NPalBoQmw1ZHRDV3hZM010ekJ4dFdCdGlBOHFnR1FpbDJfZEo5a2pzOEd0cFNuTkpiSmhiS080Zk1TVWpR?oc=5",
-      "date": "Sat, 13 Jun 2026 08:16:00 GMT",
+      "title": "리플(Ripple) vs JP모건 정면충돌...XRP·RLUSD로 결제판 흔드나?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9XeEdhVnN6N1pReVdsQ21WMktXYnozZlIxa2VMS253M1RRZnNKX2l5ZTdaWnduZlI5aW1WTWpVZ0w3NGdqWVZhZDRB?oc=5",
+      "date": "Sat, 13 Jun 2026 16:30:00 GMT",
       "source": "코인리더스",
-      "score": 2
-    },
-    {
-      "title": "드디어 미국이 열었다 XRP 무기한 선물 상장, 무엇을 의미하는가?",
-      "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxOM0puTWpWWk1ES2U0TjlQbWZ6amc3bkxXQThTMXY0V19vbnpTSGF6bFMwX1NvNkl6bVZHQ2FqM0R6R1IxNm8yaldvQWRNTlN2RWRHWGJzRXNKb0VRLXhBbFMwVWNlQW82OHJ6RjRvcFV2dy13dU40YXl2MnVCRkhzWEZYc3BSOFV1WkhOdG9HWVB4eG83Y19jSFhuVG90TFdhTloxT3ppdEpvTndma1BZOURVNDhkenFkT1VzZkhET2NZMHhhVlZqLXM3cVdDQzRPbGhtWWtkTTM5VFU1SnFsQzFzelFmUjluSXFmTV9TQ05jenROVmdXU25HRjZ0eDNNZTlkbERZdEdiYVFYajVMSFE2U1RsM3RfTTdNMmliMTRWUnZ3aWtfMk1nWkdWeGx4dFBDZHJSY28xbFozNF9tZzZCamxzQjZkMnRoeFdfejBMQzZCRGNpYm9TTXVxb1d2ekpkMElpc19jT1l2bGpKSVl1YlExREhfb3loSkpJVVJGcUkxUERiUk9zMUVHMmE4eWFKbzlrNF9GbHB5?oc=5",
-      "date": "Fri, 12 Jun 2026 22:20:41 GMT",
-      "source": "MSN",
-      "score": 2
+      "score": 3
     },
     {
       "title": "리플은 AI 에이전트가 XRP와 RLUSD로 결제하기를 원합니다. 시장은 여전히 주로 USDC 중심입니다",
@@ -116,7 +109,7 @@
       "title": "속보 | 분석 \"XRP, 과거 패턴 반복 시 800일간 횡보 전망\"",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1zTjNuMEpzdGhRWG1OdElZR1FzNC1aTjIySmNNZkRlV2stYUpNWk5naGRoUGxzVHhMMEQ0cVFLeG1Sb2VIVW9DbQ?oc=5",
       "date": "Fri, 12 Jun 2026 15:40:00 GMT",
-      "source": "coinness.com",
+      "source": "코인니스",
       "score": 9
     },
     {
@@ -124,6 +117,13 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1SDVvSkNwNFlMSy1HUWllTjlTM2dIQnpLdmticTEzVG1VaXk1RkZOdXpyN2VueXBNX0pTTmxMOHFmekEtYzlRYzFDUGxzc3c?oc=5",
       "date": "Fri, 12 Jun 2026 08:25:03 GMT",
       "source": "v.daum.net",
+      "score": 2
+    },
+    {
+      "title": "0 7달러까지 내려갈 수도 XRP 투자자의 냉정한 현실 인식",
+      "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxPVjEtd3JXNG1sWWhzeGZxQXpQRFAtelI0Y0ZqTzU4V2xGRUFBcUhGWmtsMHJpZnZnNnFDclN3X0Zla3E1LVJEY09WRmFaUnl0M2NURGkwLUxFSWpsMmJrdTQxaW5uLWNYcXRMX056eXRYVXFGb3pkZzQ2dDRPWS1zb3dHalBQSmJfaDdtVnZQUWlSX09rdWplS0ZXVHdwbWtISGl2aFVta3dVSnVZaG5lNXljSlZqTE96MkdBeHE4MFBxVkN6OVRlTVkwcUlvd0M2VE9zYVlCSWxUNDMzNkhwZzhuQ2o5WEJ6emZqMjNTeFZiekZpYlVvZ3ZWZjBuelhIekFyWWNZTlhRRTBXaVJDbkxrcHl6RzZfRFFQckF2b2hnUnJKTVlmaDRtMkVUUjNrallZY19Za2c4UzliWnl0SHREVmVRSWd6dFFSY29jQUZGRlBpSW9mRGdTNFJDODhCenRydExRdFVuU3FnSmc?oc=5",
+      "date": "Fri, 12 Jun 2026 07:00:00 GMT",
+      "source": "MSN",
       "score": 2
     },
     {
