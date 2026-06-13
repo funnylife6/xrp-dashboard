@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-13T10:43:40",
+  "generated_at": "2026-06-13T12:21:07",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.14,
-    "price_krw": 1737.31,
-    "price_change_24h": 0.18015,
-    "price_change_7d": 4.8831,
-    "price_change_30d": -20.19281,
-    "market_cap_usd": 71013617791,
+    "price_usd": 1.15,
+    "price_krw": 1744.66,
+    "price_change_24h": 0.90772,
+    "price_change_7d": 6.425,
+    "price_change_30d": -19.98663,
+    "market_cap_usd": 71284422834,
     "market_cap_rank": 6,
-    "volume_24h": 1391573046,
+    "volume_24h": 1288313205,
     "circulating_supply": 62053900985.0,
     "total_supply": 99985653167.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 60.53,
-    "sentiment_votes_down": 39.47,
+    "sentiment_votes_up": 63.51,
+    "sentiment_votes_down": 36.49,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 18.11,
-    "recent_tps": 18.11,
-    "recent_tx_count": 1630,
+    "tps_24h_avg": 15.93,
+    "recent_tps": 15.93,
+    "recent_tx_count": 1306,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 104894083,
+    "recent_window_sec": 82,
+    "ledger_seq": 104895620,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-13 10:43:32 KST",
+    "updated_at": "2026-06-13 12:21:00 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -56,8 +56,8 @@
     },
     {
       "title": "비트코인·이더리움 던지는데…XRP ETF, 약세장 씹어먹은 충격 반전",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Bc3dWdHlmQ0dtWUJ4R1dwZXp4Sko2QUEzcVFEbk96Z0o0XzJIWUItUWVqTEVwcGxCRjZxUTJGOS1adWJfU0tVYUh5Q3YyUkJzNjl5ZVJlbjNYb1I2TUJNcEt0Z3ZuZTRnX2xGUFllRndVWEXSAXdBVV95cUxNMDdmejNoRHZfdU01WWNUZTdsT2VwcHBDSGRVLUpoenRxclkxbFlnaWQ0N2FyV3k3LUtGcHhlWm0wVjVSc05fRU5rOTYzS1JJV281X1NZVTNlMldOTzJvRHRUODhfUXRGSE53bEZQdmJ4ckNRMnk5NA?oc=5",
-      "date": "Thu, 11 Jun 2026 19:46:31 GMT",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0wN2Z6M2hEdl91TTVZY1RlN2xPZXBwcENIZFUtSmh6dHFyWTFsWWdpZDQ3YXJXeTctS0ZweGVabTBWNVJzTl9FTms5NjNLUklXbzVfU1lVM2UyV05PMm9EdFQ4OF9RdEZITndsRlB2YnhyQ1EyeTk00gF3QVVfeXFMTTA3ZnozaER2X3VNNVljVGU3bE9lcHBwQ0hkVS1KaHp0cXJZMWxZZ2lkNDdhcld5Ny1LRnB4ZVptMFY1UnNOX0VOazk2M0tSSVdvNV9TWVUzZTJXTk8yb0R0VDg4X1F0RkhOd2xGUHZieHJDUTJ5OTQ?oc=5",
+      "date": "Thu, 11 Jun 2026 19:52:14 GMT",
       "source": "핀포인트뉴스",
       "score": 0
     },
@@ -104,6 +104,13 @@
       "date": "Fri, 12 Jun 2026 21:36:00 GMT",
       "source": "코인리더스",
       "score": 2
+    },
+    {
+      "title": "리플은 AI 에이전트가 XRP와 RLUSD로 결제하기를 원합니다. 시장은 여전히 주로 USDC 중심입니다",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONXdyd0FaRlF5c3IwM3BiU21Zc0haMGdTUWx0c2tKaS1yd096aEdhaXBnbVBWY2djbGZ2c0Ytd1pnaThVWmszeTliSUtyQ2hiQWdiSjFZZXljQkdqNk5rWXR0ZFRpU1I0SXEzc3ozZTJodWxESnExUWk2U3pvSEhlUHVGaUdxZXdvbEl0ZHNULThnRVpmejdQY0NTZThmREs1VWtmRC1IbnFjS0pfVlJfTWhnRzM0UDFoTXR1WVhkdw?oc=5",
+      "date": "Fri, 12 Jun 2026 19:30:00 GMT",
+      "source": "CoinDesk",
+      "score": 3
     },
     {
       "title": "XRP 심리 2026년 최저 수준…\"극단적 공포, 오히려 반등 신호일 수도\"",
@@ -153,13 +160,6 @@
       "date": "Thu, 11 Jun 2026 19:54:25 GMT",
       "source": "핀포인트뉴스",
       "score": 3
-    },
-    {
-      "title": "비트코인·이더리움 던지는데…XRP ETF, 약세장 씹어먹은 충격 반전",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Bc3dWdHlmQ0dtWUJ4R1dwZXp4Sko2QUEzcVFEbk96Z0o0XzJIWUItUWVqTEVwcGxCRjZxUTJGOS1adWJfU0tVYUh5Q3YyUkJzNjl5ZVJlbjNYb1I2TUJNcEt0Z3ZuZTRnX2xGUFllRndVWEXSAXdBVV95cUxNMDdmejNoRHZfdU01WWNUZTdsT2VwcHBDSGRVLUpoenRxclkxbFlnaWQ0N2FyV3k3LUtGcHhlWm0wVjVSc05fRU5rOTYzS1JJV281X1NZVTNlMldOTzJvRHRUODhfUXRGSE53bEZQdmJ4ckNRMnk5NA?oc=5",
-      "date": "Thu, 11 Jun 2026 19:46:31 GMT",
-      "source": "핀포인트뉴스",
-      "score": 2
     }
   ]
 }
