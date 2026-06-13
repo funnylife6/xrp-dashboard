@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-12T22:54:49",
+  "generated_at": "2026-06-13T00:15:04",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.13,
-    "price_krw": 1713.37,
-    "price_change_24h": -1.00061,
-    "price_change_7d": 1.33096,
-    "price_change_30d": -20.35021,
-    "market_cap_usd": 70088150067,
+    "price_krw": 1718.52,
+    "price_change_24h": -0.76555,
+    "price_change_7d": 2.25251,
+    "price_change_30d": -20.36249,
+    "market_cap_usd": 70236862327,
     "market_cap_rank": 6,
-    "volume_24h": 1512181048,
+    "volume_24h": 1565785940,
     "circulating_supply": 62053900985.0,
     "total_supply": 99985653167.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 63.74,
-    "sentiment_votes_down": 36.26,
+    "sentiment_votes_up": 62.07,
+    "sentiment_votes_down": 37.93,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 33.68,
-    "recent_tps": 33.68,
-    "recent_tx_count": 3031,
+    "tps_24h_avg": 17.51,
+    "recent_tps": 17.51,
+    "recent_tx_count": 1576,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104882949,
+    "ledger_seq": 104884198,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-12 22:54:42 KST",
+    "updated_at": "2026-06-13 00:14:52 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -107,7 +107,7 @@
     },
     {
       "title": "매달 풀리던 XRP, 2035년엔 바닥난다?…리플 에스크로 소진될까",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9MLWFQQ0JUVWxGcU9UeWR0c0FyNnptRUpYTmQwN2F1b05sNzF0dVJYNW00NzZ1RHhteERPWUN4WVZNVXFRanc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1SDVvSkNwNFlMSy1HUWllTjlTM2dIQnpLdmticTEzVG1VaXk1RkZOdXpyN2VueXBNX0pTTmxMOHFmekEtYzlRYzFDUGxzc3c?oc=5",
       "date": "Fri, 12 Jun 2026 08:25:03 GMT",
       "source": "v.daum.net",
       "score": 2
@@ -125,6 +125,13 @@
       "date": "Fri, 12 Jun 2026 01:53:56 GMT",
       "source": "디지털투데이",
       "score": 2
+    },
+    {
+      "title": "속보 | 스탠다드차타드 \"크립토 윈터 끝났다... BTC 바닥 찍어\"",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jcGlkLXZ0RGNrNWFkb1ozYUFGMjcwby13UktEcENLSVFsYlVxdFlzQUZnc25XbFdSbGJZY0dpOTZEU3l0WFBvMVJsS3NGbnc1?oc=5",
+      "date": "Thu, 11 Jun 2026 23:35:00 GMT",
+      "source": "코인니스",
+      "score": 8
     },
     {
       "title": "비트소, 리플과 협력 확장…XRP 렛저에 페소 연동 스테이블코인 MXNB 출시",
@@ -153,13 +160,6 @@
       "date": "Thu, 11 Jun 2026 19:46:31 GMT",
       "source": "핀포인트뉴스",
       "score": 2
-    },
-    {
-      "title": "거래대금 13.3%↓…월드코인·비트코인·리플XRP 상승, ETF 유출에 관망 확대",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5OSTBPZUNnRG5taEZPVGFyMjN6UC1CUUNSbml2QWZENHJBLTY0bkplekhSOXRiWHNVbVhsYVl2SDBTUmtXZUlQaUdTLVNKUks3YVdMT0E5RlRaSE5ndDM3WUNYclRZSlE5dG13V2pnVmZFZw?oc=5",
-      "date": "Thu, 11 Jun 2026 14:24:16 GMT",
-      "source": "TopStarNews",
-      "score": 3
     }
   ]
 }
