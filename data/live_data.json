@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-14T10:03:12",
+  "generated_at": "2026-06-14T12:20:38",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.15,
-    "price_krw": 1741.92,
-    "price_change_24h": 0.42392,
-    "price_change_7d": -0.31219,
-    "price_change_30d": -21.93266,
-    "market_cap_usd": 71215988968,
+    "price_usd": 1.14,
+    "price_krw": 1733.77,
+    "price_change_24h": -0.61003,
+    "price_change_7d": 0.71962,
+    "price_change_30d": -22.27952,
+    "market_cap_usd": 70872730399,
     "market_cap_rank": 6,
-    "volume_24h": 986368500,
+    "volume_24h": 956872114,
     "circulating_supply": 62053900985.0,
     "total_supply": 99985653167.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 65.75,
-    "sentiment_votes_down": 34.25,
+    "sentiment_votes_up": 61.76,
+    "sentiment_votes_down": 38.24,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 23.11,
-    "recent_tps": 23.11,
-    "recent_tx_count": 1895,
+    "tps_24h_avg": 16.21,
+    "recent_tps": 16.21,
+    "recent_tx_count": 1459,
     "recent_ledger_count": 24,
-    "recent_window_sec": 82,
-    "ledger_seq": 104916126,
+    "recent_window_sec": 90,
+    "ledger_seq": 104918287,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-14 10:03:01 KST",
+    "updated_at": "2026-06-14 12:20:32 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -69,13 +69,6 @@
       "score": 0
     },
     {
-      "title": "675만 달러 쏟아부었는데도 요지부동… 리플(XRP), 기관 심폐소생술에도 1.10달러 벼랑 끝 대치",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE50TXZ3S2lub1dSMUI3UnVIRzdybUdNN2kzU3JkZmI0NlhFdU9oZkg1emRDbWk0VllPWGxENTUzZWlsWWlmZWl6WkQxWmRnVGZ5ZHpRTVJRb0RrSXRsM3FvSzhfZGcxeXM5Z0F4bWh5VXFxQnfSAXdBVV95cUxQWEtXUndSWFRJWGlVRkxjOU9URXpiNkNfNWJtZWNkUFNKOHk3bVFsQ3pCWHFBWndvRWR6WU9RZm8tT2xNUDRFS240cEVHb0kyUTNnbnJYUDJlaW5HdnNGWDVkRVBiS3J6QXQ2UFhPR0pzVFNGRlhXTQ?oc=5",
-      "date": "Thu, 11 Jun 2026 10:15:00 GMT",
-      "source": "핀포인트뉴스",
-      "score": 0
-    },
-    {
       "title": "기관은 쓸어 담는데 가격은 '뚝'… 리플(XRP) 시장의 딜레마",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdXYxU0JfMjJiNHl0MVRRZF9YWWhmSlpvZU5qRDZWbmVrU2dNUXdrNzg3MUNSWlVrZUFyX1RCalZqcndHWDJjQWc4R19KTVNmVWIxVDNzWEV6TzRfN21US0dmRDI0amxycE9UQmZzdHU2MFdON3ByYnl5SlpvXzZiMTlidDYtX2NX?oc=5",
       "date": "Wed, 10 Jun 2026 21:58:17 GMT",
@@ -88,16 +81,16 @@
       "date": "Wed, 10 Jun 2026 13:38:00 GMT",
       "source": "네이트",
       "score": 0
+    },
+    {
+      "title": "XRP 가격 뉴스: ETF 유입 증가에 따른 리플 연계 토큰 $1.10 이상",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUmc0QWU3YWFqb01mUWc2emZlem51YmRYMG42b1h4SzRybDFqX3BVX0lGTWFINFJOTmxtelFXdWNSZ3hnZXJHbnpJbHBPaF8zRElXR2ZSYmowVlpaN1NNMHB0SWdLTHU1Mkg4dkNPRmVZU1RvZHI0YXZ2NDFFSjhmRGlZQkFTNGpnRUNkeE55WDI4MjA3Q1BPbHNwNEZpV1kyZjNaQW9wYVR3bEpwRUpQTldsd0Rqci1jWkE?oc=5",
+      "date": "Wed, 10 Jun 2026 12:50:00 GMT",
+      "source": "CoinDesk",
+      "score": 0
     }
   ],
   "general_news": [
-    {
-      "title": "리플X(RippleXP), XRP 레저 3단계 로드맵 공개...2028년 양자 보안 대비 태세 돌입",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5uWmZvckxRN1d2ZEZwQ000Wlc5VDdVSTFpX0hXWjEwM0ljTWZEZ0NZODktS09Ua2NwMENFeHlMYU8zSGhSUmVwRkl3?oc=5",
-      "date": "Sun, 14 Jun 2026 09:00:00 GMT",
-      "source": "코인리더스",
-      "score": 2
-    },
     {
       "title": "“암호화폐(코인) 리플, 앞으로 2년 반 동안 1.15~2달러 사이서 거래될 듯”",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lekxGRHl1Q3k3SXdfbGpCNnN4bkdiNHFaYU02V3lHakt0R2RLanJScy1hWHdJMUJLNUNodFo4clViYXJrREZUZ1hjbDMyc0piRmN6ZjJn?oc=5",
@@ -152,6 +145,13 @@
       "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxPVjEtd3JXNG1sWWhzeGZxQXpQRFAtelI0Y0ZqTzU4V2xGRUFBcUhGWmtsMHJpZnZnNnFDclN3X0Zla3E1LVJEY09WRmFaUnl0M2NURGkwLUxFSWpsMmJrdTQxaW5uLWNYcXRMX056eXRYVXFGb3pkZzQ2dDRPWS1zb3dHalBQSmJfaDdtVnZQUWlSX09rdWplS0ZXVHdwbWtISGl2aFVta3dVSnVZaG5lNXljSlZqTE96MkdBeHE4MFBxVkN6OVRlTVkwcUlvd0M2VE9zYVlCSWxUNDMzNkhwZzhuQ2o5WEJ6emZqMjNTeFZiekZpYlVvZ3ZWZjBuelhIekFyWWNZTlhRRTBXaVJDbkxrcHl6RzZfRFFQckF2b2hnUnJKTVlmaDRtMkVUUjNrallZY19Za2c4UzliWnl0SHREVmVRSWd6dFFSY29jQUZGRlBpSW9mRGdTNFJDODhCenRydExRdFVuU3FnSmc?oc=5",
       "date": "Fri, 12 Jun 2026 07:00:00 GMT",
       "source": "MSN",
+      "score": 2
+    },
+    {
+      "title": "XRP 소송 주역 제이 클레이턴, 美 정보수장 되나…국가정보국장 후보 지명",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9paHlFU2RfWllKeTZnbklqRDJMc0JuY3lncVBzQ3BNdDZRZm9tTEJ1TE1EMTBvVmp6M0NWWW42VExBczhDd01WM1d4NU9JMnNFX1lGU1dLRkVnQU9ZYVpEbW41RkR4eENweWNKRUxvQ1liY2M?oc=5",
+      "date": "Fri, 12 Jun 2026 00:17:00 GMT",
+      "source": "디지털투데이",
       "score": 2
     },
     {
