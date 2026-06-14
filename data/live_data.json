@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-14T12:20:38",
+  "generated_at": "2026-06-14T14:37:38",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.14,
-    "price_krw": 1733.77,
-    "price_change_24h": -0.61003,
-    "price_change_7d": 0.71962,
-    "price_change_30d": -22.27952,
-    "market_cap_usd": 70872730399,
+    "price_usd": 1.13,
+    "price_krw": 1713.16,
+    "price_change_24h": -2.13334,
+    "price_change_7d": 0.57285,
+    "price_change_30d": -21.24039,
+    "market_cap_usd": 70068376422,
     "market_cap_rank": 6,
-    "volume_24h": 956872114,
+    "volume_24h": 1017982304,
     "circulating_supply": 62053900985.0,
     "total_supply": 99985653167.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 61.76,
-    "sentiment_votes_down": 38.24,
+    "sentiment_votes_up": 66.67,
+    "sentiment_votes_down": 33.33,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 16.21,
-    "recent_tps": 16.21,
-    "recent_tx_count": 1459,
+    "tps_24h_avg": 45.06,
+    "recent_tps": 45.06,
+    "recent_tx_count": 4010,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 104918287,
+    "recent_window_sec": 89,
+    "ledger_seq": 104920433,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-14 12:20:32 KST",
+    "updated_at": "2026-06-14 14:37:26 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,10 +92,10 @@
   ],
   "general_news": [
     {
-      "title": "“암호화폐(코인) 리플, 앞으로 2년 반 동안 1.15~2달러 사이서 거래될 듯”",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lekxGRHl1Q3k3SXdfbGpCNnN4bkdiNHFaYU02V3lHakt0R2RLanJScy1hWHdJMUJLNUNodFo4clViYXJrREZUZ1hjbDMyc0piRmN6ZjJn?oc=5",
-      "date": "Sun, 14 Jun 2026 06:03:00 GMT",
-      "source": "위키트리",
+      "title": "리플(XRP), 등락 속 1.14달러 유지…중장기 전망은?",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCTnpDY2xkT1VTWjJWNzNiaVN6eUxKM3RkMkp2b2ZSX1VxNUVnMWNEcURRdUtyeHhUNHBGRjlmTGxqaUVHOENab2pJOFdCNndRdTItWGhiQmlnRHBmdWF0NdIBZkFVX3lxTFA1Rl9Xd3JpLWd1QmFvSWNydkItZlp1MDIxWW9hcG0zaHVacmtXbTBmaF9BN19kcy1JclZNejNxaTdwcWR1Q1JSSFZHLWNEY2NELTZxV01zNWxHRkRtQTBXQk1FWlZLdw?oc=5",
+      "date": "Sun, 14 Jun 2026 13:07:07 GMT",
+      "source": "tokenpost.kr",
       "score": 2
     },
     {
@@ -127,6 +127,13 @@
       "score": 2
     },
     {
+      "title": "속보 | 분석 \"XRP, 과거 패턴 반복 시 800일간 횡보 전망\"",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LekFPOXVZTHVPWGRhSmtoMWlYSWs0ODFxbG9FaEFva0JpZzhnT1cxZm9QdFBtUDNDNHBIYWNhSUlwRkVaUmE2V20wMGdUdnhP?oc=5",
+      "date": "Fri, 12 Jun 2026 15:40:00 GMT",
+      "source": "코인니스",
+      "score": 9
+    },
+    {
       "title": "매달 풀리던 XRP, 2035년엔 바닥난다?…리플 에스크로 소진될까",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1SDVvSkNwNFlMSy1HUWllTjlTM2dIQnpLdmticTEzVG1VaXk1RkZOdXpyN2VueXBNX0pTTmxMOHFmekEtYzlRYzFDUGxzc3c?oc=5",
       "date": "Fri, 12 Jun 2026 08:25:03 GMT",
@@ -145,13 +152,6 @@
       "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxPVjEtd3JXNG1sWWhzeGZxQXpQRFAtelI0Y0ZqTzU4V2xGRUFBcUhGWmtsMHJpZnZnNnFDclN3X0Zla3E1LVJEY09WRmFaUnl0M2NURGkwLUxFSWpsMmJrdTQxaW5uLWNYcXRMX056eXRYVXFGb3pkZzQ2dDRPWS1zb3dHalBQSmJfaDdtVnZQUWlSX09rdWplS0ZXVHdwbWtISGl2aFVta3dVSnVZaG5lNXljSlZqTE96MkdBeHE4MFBxVkN6OVRlTVkwcUlvd0M2VE9zYVlCSWxUNDMzNkhwZzhuQ2o5WEJ6emZqMjNTeFZiekZpYlVvZ3ZWZjBuelhIekFyWWNZTlhRRTBXaVJDbkxrcHl6RzZfRFFQckF2b2hnUnJKTVlmaDRtMkVUUjNrallZY19Za2c4UzliWnl0SHREVmVRSWd6dFFSY29jQUZGRlBpSW9mRGdTNFJDODhCenRydExRdFVuU3FnSmc?oc=5",
       "date": "Fri, 12 Jun 2026 07:00:00 GMT",
       "source": "MSN",
-      "score": 2
-    },
-    {
-      "title": "XRP 소송 주역 제이 클레이턴, 美 정보수장 되나…국가정보국장 후보 지명",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9paHlFU2RfWllKeTZnbklqRDJMc0JuY3lncVBzQ3BNdDZRZm9tTEJ1TE1EMTBvVmp6M0NWWW42VExBczhDd01WM1d4NU9JMnNFX1lGU1dLRkVnQU9ZYVpEbW41RkR4eENweWNKRUxvQ1liY2M?oc=5",
-      "date": "Fri, 12 Jun 2026 00:17:00 GMT",
-      "source": "디지털투데이",
       "score": 2
     },
     {
