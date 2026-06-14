@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-14T17:55:20",
+  "generated_at": "2026-06-14T19:13:34",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.13,
-    "price_krw": 1720.97,
-    "price_change_24h": -1.09675,
-    "price_change_7d": 0.06007,
-    "price_change_30d": -21.52378,
-    "market_cap_usd": 70373556456,
+    "price_krw": 1718.67,
+    "price_change_24h": -1.09975,
+    "price_change_7d": -0.97431,
+    "price_change_30d": -21.40585,
+    "market_cap_usd": 70179627650,
     "market_cap_rank": 6,
-    "volume_24h": 900444763,
+    "volume_24h": 883648570,
     "circulating_supply": 62053900985.0,
     "total_supply": 99985653167.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 71.83,
-    "sentiment_votes_down": 28.17,
+    "sentiment_votes_up": 69.01,
+    "sentiment_votes_down": 30.99,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 22.8,
-    "recent_tps": 22.8,
-    "recent_tx_count": 2029,
+    "tps_24h_avg": 18.19,
+    "recent_tps": 18.19,
+    "recent_tx_count": 1619,
     "recent_ledger_count": 24,
     "recent_window_sec": 89,
-    "ledger_seq": 104923542,
+    "ledger_seq": 104924772,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-14 17:55:14 KST",
+    "updated_at": "2026-06-14 19:13:28 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -99,6 +99,13 @@
       "score": 2
     },
     {
+      "title": "“암호화폐(코인) 리플, 앞으로 2년 반 동안 1.15~2달러 사이서 거래될 듯”",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lekxGRHl1Q3k3SXdfbGpCNnN4bkdiNHFaYU02V3lHakt0R2RLanJScy1hWHdJMUJLNUNodFo4clViYXJrREZUZ1hjbDMyc0piRmN6ZjJn?oc=5",
+      "date": "Sun, 14 Jun 2026 06:03:00 GMT",
+      "source": "위키트리",
+      "score": 2
+    },
+    {
       "title": "리플(XRP), 'AI가 스스로 결제하는 시대'에 베팅하다 — 그런데 지금 시장의 진짜 주인은 USDC입니다",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMklyel8tV2ZUemFHR1NMWmhEc3dnR0JLZzJ2ZGI3b29EODcydmhKX1FVc2JETkJaR0NiSXRMZkZ1Y1pTdlAybEFCMmtyTkRsOUQ5TTAxMVVuX1NRa29VdjRhTWpjMDltWWNGSGRsWnhIVVJOMUhQMlFaS3hGdEpFT09ZRG1ySVVZaDlPNw?oc=5",
       "date": "Sun, 14 Jun 2026 05:53:00 GMT",
@@ -127,11 +134,11 @@
       "score": 2
     },
     {
-      "title": "속보 | 분석 \"XRP, 과거 패턴 반복 시 800일간 횡보 전망\"",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1zTjNuMEpzdGhRWG1OdElZR1FzNC1aTjIySmNNZkRlV2stYUpNWk5naGRoUGxzVHhMMEQ0cVFLeG1Sb2VIVW9DbQ?oc=5",
-      "date": "Fri, 12 Jun 2026 15:40:00 GMT",
-      "source": "코인니스",
-      "score": 9
+      "title": "리플, 14달러 간다? 1200% 잭팟 신호 터졌다",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNcXU2ZTdocm1hWjhtUWVYS0c3M3BOMzlVcjZ3Y1p0QUY0anFrX3J4Mkw5NWtWMmtoVDd0MHI2NlFUTzVVZDM0Nm0tOG5vVUdiajEzOENfSGFaNWM5OXg4Rm5mNkZQRW11eF9kZ0ZFdk8wdGQ2TVd6TEdaR3RzTzlOQ0ctZGVxU3hrWVlObmQ4Skl3aGNWSDZjSFRqVGRibGlFMG1oM1FjdnRFVjBicFBFajJZa3FFV2lVSm1mU0Z5NHp5ZXhEejV1V1FSeGRlMWN2NVRfbVJ2WE1OWGJqNEhzYmI4eEJuVTViSExEM3NLeUQwY2FJUlo5WlpaTnFhSU1NeUsxV1pudVluZHVDX1dfdUxyaGc4MDgy?oc=5",
+      "date": "Sat, 13 Jun 2026 20:00:10 GMT",
+      "source": "MSN",
+      "score": 2
     },
     {
       "title": "매달 풀리던 XRP, 2035년엔 바닥난다?…리플 에스크로 소진될까",
@@ -146,13 +153,6 @@
       "date": "Fri, 12 Jun 2026 07:00:00 GMT",
       "source": "CoinDesk",
       "score": 3
-    },
-    {
-      "title": "0 7달러까지 내려갈 수도 XRP 투자자의 냉정한 현실 인식",
-      "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxPVjEtd3JXNG1sWWhzeGZxQXpQRFAtelI0Y0ZqTzU4V2xGRUFBcUhGWmtsMHJpZnZnNnFDclN3X0Zla3E1LVJEY09WRmFaUnl0M2NURGkwLUxFSWpsMmJrdTQxaW5uLWNYcXRMX056eXRYVXFGb3pkZzQ2dDRPWS1zb3dHalBQSmJfaDdtVnZQUWlSX09rdWplS0ZXVHdwbWtISGl2aFVta3dVSnVZaG5lNXljSlZqTE96MkdBeHE4MFBxVkN6OVRlTVkwcUlvd0M2VE9zYVlCSWxUNDMzNkhwZzhuQ2o5WEJ6emZqMjNTeFZiekZpYlVvZ3ZWZjBuelhIekFyWWNZTlhRRTBXaVJDbkxrcHl6RzZfRFFQckF2b2hnUnJKTVlmaDRtMkVUUjNrallZY19Za2c4UzliWnl0SHREVmVRSWd6dFFSY29jQUZGRlBpSW9mRGdTNFJDODhCenRydExRdFVuU3FnSmc?oc=5",
-      "date": "Fri, 12 Jun 2026 07:00:00 GMT",
-      "source": "MSN",
-      "score": 2
     },
     {
       "title": "트럼프, 리플(XRP) 전 반대자 제이 클레이튼 정보 수장 지명",
