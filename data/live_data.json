@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-15T22:00:02",
+  "generated_at": "2026-06-15T23:49:20",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.25,
-    "price_krw": 1898.02,
-    "price_change_24h": 6.63694,
-    "price_change_7d": 6.396,
-    "price_change_30d": -11.7578,
-    "market_cap_usd": 77522800246,
+    "price_usd": 1.24,
+    "price_krw": 1869.04,
+    "price_change_24h": 4.60121,
+    "price_change_7d": 4.49424,
+    "price_change_30d": -12.58645,
+    "market_cap_usd": 76684613389,
     "market_cap_rank": 5,
-    "volume_24h": 3251737062,
+    "volume_24h": 3347438102,
     "circulating_supply": 62053900985.0,
     "total_supply": 99985653167.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 79.27,
-    "sentiment_votes_down": 20.73,
+    "sentiment_votes_up": 80.1,
+    "sentiment_votes_down": 19.9,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 26.68,
-    "recent_tps": 26.68,
-    "recent_tx_count": 2401,
+    "tps_24h_avg": 26.58,
+    "recent_tps": 26.58,
+    "recent_tx_count": 2392,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104949874,
+    "ledger_seq": 104951580,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-15 21:59:47 KST",
+    "updated_at": "2026-06-15 23:49:05 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,6 +92,20 @@
   ],
   "general_news": [
     {
+      "title": "스퀴드, RLUSD(리플USD) 크로스체인 지원",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9NQlpXYmhteU1DRUJnWHlnNEJ0Qm5jNWgtcWFfYVl0LXZ0QUl2NkNodTctTDM3MVk4eUFiWHB2V0gyX1pINTJ5WlhqSGhUd2FTSnFaVXhndEF6WE9BcW5BQWxQU1RHOUwtXzVLUkNka2hkZw?oc=5",
+      "date": "Mon, 15 Jun 2026 23:00:00 GMT",
+      "source": "디지털애셋",
+      "score": 9
+    },
+    {
+      "title": "월드코인·리플XRP·비트코인 상승, 거래대금 73.6%↑ 관망심리 완화",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9pbDZVRk9jMjl0Q0tzT0xORmdObTkzaTRocnNCOXREZWw5VjhibzhWVmlwRDZ4c3UwRkZXUWlSWTktWlQ4UE1VdHY1QUZERGFOWG1sR21HM2pjbmZpYk4tUGg1eHNYTV9jdEFmMkxkcl8wdw?oc=5",
+      "date": "Mon, 15 Jun 2026 22:02:22 GMT",
+      "source": "TopStarNews",
+      "score": 2
+    },
+    {
       "title": "리플(XRP), 현물 ETF 유입서 비트코인·이더리움 역전… 1.4달러 정조준",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOFFraFlDY1B4b0s0MUFwdTMtT0tGemtwY3g0Zy1mcjhBUlJROXlyUnZ1eTkzQUFjRzVPZGJpb2h0MzhRd2xwZ1cyOGxfVEs1eGZFMU9DYkFpNFJGSm42YVlCdkR4U0lnOXBNMW9KdGg4aVBMYWtXUkNiVGE3dVZSS0E2azJURFdK?oc=5",
       "date": "Mon, 15 Jun 2026 20:46:21 GMT",
@@ -106,10 +120,10 @@
       "score": 3
     },
     {
-      "title": "XRP 가격이 10% 상승",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4tam1xMjIwY2NjQ0JQSUUyRHNlamdJc3JGVVJRWTlKMnRaZHFOU2U3WU9HSnJ4Skx2Nzgzb1dlajhvU0U5Vl9iZmRJdktvM0U1VkF0d1RCUV8xTjNzYURnSmloRUF0RXduX0lxVk5ZNm5aQWs?oc=5",
-      "date": "Mon, 15 Jun 2026 14:48:00 GMT",
-      "source": "Investing.com 한국어",
+      "title": "XRP(리플), 올해 35% 떨어졌는데도 바닥 아니다?...0.57달러 추락 경고",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE02U1hFMzk2Sy1Yc3JmT1ViWkd5ejJYaVd5bF9oN0ViRURzc200MTZNWGpOLTJscllYWjByV24zWDhrTGZGaThOVG1n?oc=5",
+      "date": "Mon, 15 Jun 2026 18:00:00 GMT",
+      "source": "코인리더스",
       "score": 2
     },
     {
@@ -141,24 +155,10 @@
       "score": 3
     },
     {
-      "title": "리플 CEO \"XRP 제외 10억달러 수익 목표\"…결제·소프트웨어 확대",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9iM1IwLWMxQWNSTjduWVp0WFFtaDBETXZJVy10RmJuTWJQSVQ1cXBWZEpXQ1N5OEVSa1JRSzlyOFdGVms4cW55czdhMWk1Y3dZdGRZ?oc=5",
-      "date": "Mon, 15 Jun 2026 00:37:00 GMT",
-      "source": "네이트",
-      "score": 2
-    },
-    {
-      "title": "리플(XRP), 1달러 추락에도 고래들은 '폭풍 출금'… 숏 스퀴즈 전조증상?",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWUZJV1BaODZkREI2cU1hcm85LTBhUXRqZzc3dDhqNXU0Y1lSZFpydkJaZVNQWUpKZ3FOOGlWWTgyeDJxbUF6SDFrejcyNFEzcXdMaVdNZE5LN2g5RmhyVDBfSV9ib1czeHhtUjg2WW9Mb2JtS1lOTXRva3RyUmh1ejRrVGV5N2FW?oc=5",
-      "date": "Sun, 14 Jun 2026 20:48:06 GMT",
+      "title": "XRP, ISO 20022·CBPR+ 무기로 스위프 생태계 직접 침투한다",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUkFKZjZXaUhQNjlkQUp5MDhSeFhoRTFFaHpuTFhjcExjMjM4M1BXR2kxMnlHOVd5MnVQRmVyRldHMkZySGtQTjVqQlkzMWgzVVNZbmZaNDNEUG03RFZWLUM3UnZmWUE3X3plYnk3azFTQlZpaWo5ZVQwa3EzTkhheGZRdHZiUXc?oc=5",
+      "date": "Mon, 15 Jun 2026 01:59:34 GMT",
       "source": "글로벌이코노믹",
-      "score": 2
-    },
-    {
-      "title": "리플(XRP), 'AI가 스스로 결제하는 시대'에 베팅하다 — 그런데 지금 시장의 진짜 주인은 USDC입니다",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMklyel8tV2ZUemFHR1NMWmhEc3dnR0JLZzJ2ZGI3b29EODcydmhKX1FVc2JETkJaR0NiSXRMZkZ1Y1pTdlAybEFCMmtyTkRsOUQ5TTAxMVVuX1NRa29VdjRhTWpjMDltWWNGSGRsWnhIVVJOMUhQMlFaS3hGdEpFT09ZRG1ySVVZaDlPNw?oc=5",
-      "date": "Sun, 14 Jun 2026 05:53:00 GMT",
-      "source": "네이버 프리미엄콘텐츠",
       "score": 2
     }
   ]
