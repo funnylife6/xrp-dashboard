@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-16T08:45:09",
+  "generated_at": "2026-06-16T13:24:29",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.24,
-    "price_krw": 1870.36,
-    "price_change_24h": 5.02392,
-    "price_change_7d": 5.97608,
-    "price_change_30d": -12.44981,
-    "market_cap_usd": 76933570228,
+    "price_usd": 1.23,
+    "price_krw": 1861.45,
+    "price_change_24h": -0.83755,
+    "price_change_7d": 6.34399,
+    "price_change_30d": -13.32944,
+    "market_cap_usd": 76678102777,
     "market_cap_rank": 5,
-    "volume_24h": 3452727103,
+    "volume_24h": 3015888496,
     "circulating_supply": 62053900985.0,
     "total_supply": 99985653167.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 79.59,
-    "sentiment_votes_down": 20.41,
+    "sentiment_votes_up": 73.51,
+    "sentiment_votes_down": 26.49,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 22.77,
-    "recent_tps": 22.77,
-    "recent_tx_count": 2049,
+    "tps_24h_avg": 26.14,
+    "recent_tps": 26.14,
+    "recent_tx_count": 2353,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104959989,
+    "ledger_seq": 104964355,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-16 08:44:57 KST",
+    "updated_at": "2026-06-16 13:24:19 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 1430000,
     "total_net_inflow_usd": 1430000,
     "total_value_traded_usd": 1430000,
-    "updated_at": "SoSoValue 순유입 부분 수집 06/16 08:45",
+    "updated_at": "SoSoValue 순유입 부분 수집 06/16 13:24",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -93,6 +93,20 @@
   ],
   "general_news": [
     {
+      "title": "XRP(리플), 고래가 15억 3,000억 개 폭풍 매집...1,000달러 신화 시작되나?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9nRURMVEE4ZUxRWk10aU5ETUhJYkI5R3BPRk56NDc3QmZnRXFyNlQyVmVxSU4wQ0p0M1QzQVo3RTJMSG5IRWVEWF9B?oc=5",
+      "date": "Tue, 16 Jun 2026 11:00:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
+      "title": "리플 RWA 온체인 지표 주춤… 시장 시선은 3,300만 달러 모금 육박한 ‘비트코인 하이퍼’로",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkX3JKejNMU0JCcDFjV0JLQ0FjdUtNNE1DcHlKSHlhZ1lyUmVsTl9weFFQOVJxZFdmcGZKSnBJQnAtNGFSODJwWldYVjQtRmNmU01ITWJrRlo5dEMtLVlQUUVvWHZIMGJsT3VQNlY0RGw?oc=5",
+      "date": "Tue, 16 Jun 2026 06:37:43 GMT",
+      "source": "블록체인투데이",
+      "score": 2
+    },
+    {
       "title": "블랙록, XRP ETF 상장 신청 임박…글로벌 결제 혁신 주도하나",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUllzeWp3ekttRERoM0pDTURTUVQtT2QwT2NaN0EyamM5ZEpjSUFPa3d4dWY1QWVRaTRwZVJ0V2xQTE9nWVY2Uk9NQkdmSDJXZ3hycXBibVJ5STBmZkpoeGt3MnpCS2pST2lUZG45dFJvZTlwc0sxOXMtaVlSOC1HNGhtWlI4OEdZ?oc=5",
       "date": "Tue, 16 Jun 2026 05:41:07 GMT",
@@ -135,13 +149,6 @@
       "score": 4
     },
     {
-      "title": "XRP(리플), 가격 붕괴 위기서 10% 급반등 성공...\"1달러도 비싸다\" 비관론 등장",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9BUVNHYUJ2bWFHUllTSktWTWtibWF4bll1Ukl5UDNhUWgzYWVCWEtXS0RFOVZKNkwzaFZYZnEta0I3S3dCLVRuaUV3?oc=5",
-      "date": "Mon, 15 Jun 2026 23:05:00 GMT",
-      "source": "코인리더스",
-      "score": 2
-    },
-    {
       "title": "스퀴드, RLUSD(리플USD) 크로스체인 지원",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9NQlpXYmhteU1DRUJnWHlnNEJ0Qm5jNWgtcWFfYVl0LXZ0QUl2NkNodTctTDM3MVk4eUFiWHB2V0gyX1pINTJ5WlhqSGhUd2FTSnFaVXhndEF6WE9BcW5BQWxQU1RHOUwtXzVLUkNka2hkZw?oc=5",
       "date": "Mon, 15 Jun 2026 23:00:00 GMT",
@@ -154,13 +161,6 @@
       "date": "Mon, 15 Jun 2026 22:02:22 GMT",
       "source": "톱스타뉴스",
       "score": 2
-    },
-    {
-      "title": "리플(XRP), 현물 ETF 유입서 비트코인·이더리움 역전… 1.4달러 정조준",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOFFraFlDY1B4b0s0MUFwdTMtT0tGemtwY3g0Zy1mcjhBUlJROXlyUnZ1eTkzQUFjRzVPZGJpb2h0MzhRd2xwZ1cyOGxfVEs1eGZFMU9DYkFpNFJGSm42YVlCdkR4U0lnOXBNMW9KdGg4aVBMYWtXUkNiVGE3dVZSS0E2azJURFdK?oc=5",
-      "date": "Mon, 15 Jun 2026 20:46:21 GMT",
-      "source": "글로벌이코노믹",
-      "score": 4
     }
   ]
 }
