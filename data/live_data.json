@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-16T13:24:29",
+  "generated_at": "2026-06-16T18:13:57",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.23,
-    "price_krw": 1861.45,
-    "price_change_24h": -0.83755,
-    "price_change_7d": 6.34399,
-    "price_change_30d": -13.32944,
-    "market_cap_usd": 76678102777,
+    "price_krw": 1853.09,
+    "price_change_24h": -4.1337,
+    "price_change_7d": 8.86182,
+    "price_change_30d": -12.98638,
+    "market_cap_usd": 76211517138,
     "market_cap_rank": 5,
-    "volume_24h": 3015888496,
+    "volume_24h": 2151111292,
     "circulating_supply": 62053900985.0,
     "total_supply": 99985653167.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 73.51,
-    "sentiment_votes_down": 26.49,
+    "sentiment_votes_up": 70.39,
+    "sentiment_votes_down": 29.61,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 26.14,
-    "recent_tps": 26.14,
-    "recent_tx_count": 2353,
+    "tps_24h_avg": 35.96,
+    "recent_tps": 35.96,
+    "recent_tx_count": 3200,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 104964355,
+    "recent_window_sec": 89,
+    "ledger_seq": 104968855,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-16 13:24:19 KST",
+    "updated_at": "2026-06-16 18:13:47 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 1430000,
     "total_net_inflow_usd": 1430000,
     "total_value_traded_usd": 1430000,
-    "updated_at": "SoSoValue 순유입 부분 수집 06/16 13:24",
+    "updated_at": "SoSoValue 순유입 부분 수집 06/16 18:13",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -84,18 +84,18 @@
       "score": 0
     },
     {
-      "title": "리플(XRP), 지금 큰 그림이 바뀌고 있습니다 — 중동 평화·ETF·두바이가 함께 그리는 2026년의 판도",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSW1TdENKQVR5MWR6T2RvaW1NM19RWl9WNHZocjN1clNET0pwOXYydUR6eVY1TGNuNmRDUjdMSWo1SnJUVHJwVjMwbFpsM19xLVptcnplbWtoRnlXc1FTQTIycTBKS3oxc3pPR25FTV9hSUlya2haNHdDaXRoR0hkNWtObU5NUXNxUi1VXw?oc=5",
-      "date": "Mon, 15 Jun 2026 06:45:00 GMT",
-      "source": "네이버 프리미엄콘텐츠",
+      "title": "XRP ETF 5주 연속 순유입…비트코인·이더리움은 자금 유출",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBEcG5KZVpuVjZ6QTZBZG5fUTR6RzdiSm5IbUxPM0RCZEVhX0R0VmEta2pXMllxRW9JRHF2Q0NjcW1PU1hEYnRrRkJYeHpXakozRW5oLXJYeGhaWl90bG16RVdjelZRNUdTN0JhYzRudUdfREE?oc=5",
+      "date": "Sat, 13 Jun 2026 23:15:55 GMT",
+      "source": "디지털투데이",
       "score": 0
     }
   ],
   "general_news": [
     {
-      "title": "XRP(리플), 고래가 15억 3,000억 개 폭풍 매집...1,000달러 신화 시작되나?",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9nRURMVEE4ZUxRWk10aU5ETUhJYkI5R3BPRk56NDc3QmZnRXFyNlQyVmVxSU4wQ0p0M1QzQVo3RTJMSG5IRWVEWF9B?oc=5",
-      "date": "Tue, 16 Jun 2026 11:00:00 GMT",
+      "title": "비트코인 6만6,000달러 회복…이더리움·XRP는 반등 동력 약화",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8wcW1oUTRIdllrZElVRXRrZUtqUldlZ3lCYlozaldCSDd3dDBNRGYtRVJucEh5dENmVWlqdllXXzBUcHMxWUpIOUt3?oc=5",
+      "date": "Tue, 16 Jun 2026 12:51:00 GMT",
       "source": "코인리더스",
       "score": 2
     },
@@ -149,18 +149,18 @@
       "score": 4
     },
     {
+      "title": "XRP 뉴스: 리플, 플러터웨이브에 투자하여 아프리카 결제 부문에 RLUSD 및 XRP 원장 도입",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNX0Y3NGc0ejRkSW03VG5WQmQ0YVRyQnhtXzc2ZXBnaElTLThjLW9MWUEybnBzWjIyRmkta3lFMUZRYTdHWVJZRTRJYnFteE9qN1k3VUYzZXJ0VkhGRjdvdmhRdE1SWklVeVFPQ0JpdHNybUhPYVoyZDNBUG5VVU5XYWxNSDdRU3U0TmNqLVBzZ3RyWk5OOWZSSC1PWTNONmQ0ZlpFR0FaRDZ4WkRYMW8tNE8ySnhWTXVxRXFUaUVXMDZmdnpIQTdubjFBLWpqR0loczBQWWNwLWdGVXc?oc=5",
+      "date": "Mon, 15 Jun 2026 23:35:00 GMT",
+      "source": "CoinDesk",
+      "score": 3
+    },
+    {
       "title": "스퀴드, RLUSD(리플USD) 크로스체인 지원",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9NQlpXYmhteU1DRUJnWHlnNEJ0Qm5jNWgtcWFfYVl0LXZ0QUl2NkNodTctTDM3MVk4eUFiWHB2V0gyX1pINTJ5WlhqSGhUd2FTSnFaVXhndEF6WE9BcW5BQWxQU1RHOUwtXzVLUkNka2hkZw?oc=5",
       "date": "Mon, 15 Jun 2026 23:00:00 GMT",
       "source": "디지털애셋",
       "score": 9
-    },
-    {
-      "title": "월드코인·리플XRP·비트코인 상승, 거래대금 73.6%↑ 관망심리 완화",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9pbDZVRk9jMjl0Q0tzT0xORmdObTkzaTRocnNCOXREZWw5VjhibzhWVmlwRDZ4c3UwRkZXUWlSWTktWlQ4UE1VdHY1QUZERGFOWG1sR21HM2pjbmZpYk4tUGg1eHNYTV9jdEFmMkxkcl8wdw?oc=5",
-      "date": "Mon, 15 Jun 2026 22:02:22 GMT",
-      "source": "톱스타뉴스",
-      "score": 2
     }
   ]
 }
