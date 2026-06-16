@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-16T02:57:44",
+  "generated_at": "2026-06-16T08:45:09",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.22,
-    "price_krw": 1840.51,
-    "price_change_24h": 2.90433,
-    "price_change_7d": 5.43863,
-    "price_change_30d": -13.78232,
-    "market_cap_usd": 75602637581,
+    "price_usd": 1.24,
+    "price_krw": 1870.36,
+    "price_change_24h": 5.02392,
+    "price_change_7d": 5.97608,
+    "price_change_30d": -12.44981,
+    "market_cap_usd": 76933570228,
     "market_cap_rank": 5,
-    "volume_24h": 3084199098,
+    "volume_24h": 3452727103,
     "circulating_supply": 62053900985.0,
     "total_supply": 99985653167.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 78.17,
-    "sentiment_votes_down": 21.83,
+    "sentiment_votes_up": 79.59,
+    "sentiment_votes_down": 20.41,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 28.44,
-    "recent_tps": 28.44,
-    "recent_tx_count": 2531,
+    "tps_24h_avg": 22.77,
+    "recent_tps": 22.77,
+    "recent_tx_count": 2049,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 104954528,
+    "recent_window_sec": 90,
+    "ledger_seq": 104959989,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-16 02:57:31 KST",
+    "updated_at": "2026-06-16 08:44:57 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,11 +43,18 @@
     "aum_usd": 1430000,
     "total_net_inflow_usd": 1430000,
     "total_value_traded_usd": 1430000,
-    "updated_at": "SoSoValue 순유입 부분 수집 06/16 02:57",
+    "updated_at": "SoSoValue 순유입 부분 수집 06/16 08:45",
     "data_source": "sosovalue",
     "partial": true
   },
   "etf_news": [
+    {
+      "title": "블랙록, XRP ETF 상장 신청 임박…글로벌 결제 혁신 주도하나",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUllzeWp3ekttRERoM0pDTURTUVQtT2QwT2NaN0EyamM5ZEpjSUFPa3d4dWY1QWVRaTRwZVJ0V2xQTE9nWVY2Uk9NQkdmSDJXZ3hycXBibVJ5STBmZkpoeGt3MnpCS2pST2lUZG45dFJvZTlwc0sxOXMtaVlSOC1HNGhtWlI4OEdZ?oc=5",
+      "date": "Tue, 16 Jun 2026 05:41:07 GMT",
+      "source": "글로벌이코노믹",
+      "score": 0
+    },
     {
       "title": "리플(XRP), 블랙록 ETF 가능성 언급도 나와…\"XRPL 채택 확대·가격 상승 가능성\" 전망도",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56X09wWEl6OE80MGNvWlI2TGVQMG0yZ1RqOU5pUlZMcnJRVnVPT2xoZXI4V0lGeldSRXVYbnN0NmRUMVhaT2RuTlZfS1pBaGZkSGdKOTBrNXJYakEtc01aWDh0cUdhLWVF?oc=5",
@@ -82,16 +89,23 @@
       "date": "Mon, 15 Jun 2026 06:45:00 GMT",
       "source": "네이버 프리미엄콘텐츠",
       "score": 0
-    },
-    {
-      "title": "XRP ETF 5주 연속 순유입…비트코인·이더리움은 자금 유출",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBEcG5KZVpuVjZ6QTZBZG5fUTR6RzdiSm5IbUxPM0RCZEVhX0R0VmEta2pXMllxRW9JRHF2Q0NjcW1PU1hEYnRrRkJYeHpXakozRW5oLXJYeGhaWl90bG16RVdjelZRNUdTN0JhYzRudUdfREE?oc=5",
-      "date": "Sat, 13 Jun 2026 23:15:55 GMT",
-      "source": "디지털투데이",
-      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "블랙록, XRP ETF 상장 신청 임박…글로벌 결제 혁신 주도하나",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUllzeWp3ekttRERoM0pDTURTUVQtT2QwT2NaN0EyamM5ZEpjSUFPa3d4dWY1QWVRaTRwZVJ0V2xQTE9nWVY2Uk9NQkdmSDJXZ3hycXBibVJ5STBmZkpoeGt3MnpCS2pST2lUZG45dFJvZTlwc0sxOXMtaVlSOC1HNGhtWlI4OEdZ?oc=5",
+      "date": "Tue, 16 Jun 2026 05:41:07 GMT",
+      "source": "글로벌이코노믹",
+      "score": 2
+    },
+    {
+      "title": "리플(XRP) 비극은 실패 보다 무관함에서 온다",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9MNHZZbzVkVTUtOEs5ZGM2dlhxQWRzMU0tem5sQjVhVXIybW9PbEIwd3dkQnNRTkhweXFCNHloN25SRnExZ0FVRHhVbWtXVTNUZXJoMnRicw?oc=5",
+      "date": "Tue, 16 Jun 2026 03:40:37 GMT",
+      "source": "코인니스",
+      "score": 10
+    },
     {
       "title": "재무기업 에버노스 CEO \"XRP 경쟁력, 기술보다도 금융 네트워크\"",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4Z05GNnZXT0F1dWpROThHQVd4NnduNC03MmFJZ2ZUajJQX3VabXVDamM0REI1N3BoakhVRFdSM0FFbGZFRzUzQzllUGI3TmwwU1FF?oc=5",
@@ -121,6 +135,13 @@
       "score": 4
     },
     {
+      "title": "XRP(리플), 가격 붕괴 위기서 10% 급반등 성공...\"1달러도 비싸다\" 비관론 등장",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9BUVNHYUJ2bWFHUllTSktWTWtibWF4bll1Ukl5UDNhUWgzYWVCWEtXS0RFOVZKNkwzaFZYZnEta0I3S3dCLVRuaUV3?oc=5",
+      "date": "Mon, 15 Jun 2026 23:05:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
       "title": "스퀴드, RLUSD(리플USD) 크로스체인 지원",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9NQlpXYmhteU1DRUJnWHlnNEJ0Qm5jNWgtcWFfYVl0LXZ0QUl2NkNodTctTDM3MVk4eUFiWHB2V0gyX1pINTJ5WlhqSGhUd2FTSnFaVXhndEF6WE9BcW5BQWxQU1RHOUwtXzVLUkNka2hkZw?oc=5",
       "date": "Mon, 15 Jun 2026 23:00:00 GMT",
@@ -131,7 +152,7 @@
       "title": "월드코인·리플XRP·비트코인 상승, 거래대금 73.6%↑ 관망심리 완화",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9pbDZVRk9jMjl0Q0tzT0xORmdObTkzaTRocnNCOXREZWw5VjhibzhWVmlwRDZ4c3UwRkZXUWlSWTktWlQ4UE1VdHY1QUZERGFOWG1sR21HM2pjbmZpYk4tUGg1eHNYTV9jdEFmMkxkcl8wdw?oc=5",
       "date": "Mon, 15 Jun 2026 22:02:22 GMT",
-      "source": "TopStarNews",
+      "source": "톱스타뉴스",
       "score": 2
     },
     {
@@ -140,27 +161,6 @@
       "date": "Mon, 15 Jun 2026 20:46:21 GMT",
       "source": "글로벌이코노믹",
       "score": 4
-    },
-    {
-      "title": "개미들 피눈물 흘리게 만든 '리플 ETF의 덫'…수조 원 매집에도 안 오르는 이유 보니",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9wTjd1eGlDcVNOWDRFaG1zSXlYalE1alFVa3dtbm1KZi1TeS1WdzFILVlxdUVGVm04X3FKS3lGcnl3YjctTG1VdVM2T3BIMzJHV3RISnBoY2lsaDlfcFdNYUNFN052alNUX2t1cV9YMmFKd2PSAXdBVV95cUxQT0lCWTV3V1ktTGdSa253TkMxUVBhZk9jYk0wVVdCc1h0b3huZEhoX2hyWjBVdVd2ckxidzZSLXNyR2I0TkhtRHQ5R0VmRVQzbTU2MGVlek9YaENFX0pZLVdnWmphSnZGMHEzVUNzcWNwWVFJMEYwOA?oc=5",
-      "date": "Mon, 15 Jun 2026 19:15:04 GMT",
-      "source": "핀포인트뉴스",
-      "score": 3
-    },
-    {
-      "title": "XRP(리플), 올해 35% 떨어졌는데도 바닥 아니다?...0.57달러 추락 경고",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE02U1hFMzk2Sy1Yc3JmT1ViWkd5ejJYaVd5bF9oN0ViRURzc200MTZNWGpOLTJscllYWjByV24zWDhrTGZGaThOVG1n?oc=5",
-      "date": "Mon, 15 Jun 2026 18:00:00 GMT",
-      "source": "코인리더스",
-      "score": 2
-    },
-    {
-      "title": "클래리티 법안 뭐길래…리플 CEO, 월가 거물 JP모건 대놓고 저격",
-      "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxPYUN6ZEtTLVZmTDBCQUdPUS03YXh4ckw1NHU4ZlhYMHY0LVd2U01GdWFPSFF4OEpGWldfNXpucjFQODRnNlVteDdrdDRsYnZ2MXNDY2d0NEdBcnRtNnBpcTFRVTJIRThCbERSaEhiWUhOY05jUXBSMWdKVXVxSEZDSFU4UDZkLWhXanN0RnMwOUVjM2VqaXdCRG1OTUNMV1dfWGZBWFN4b3ZVdHhUdVF1VllSSG5DdlNWWVFNUWZaaFpIREVNX0pTVjZzVjVFbmJyOUdiSXpFZ3k3a2dldk56SXlnTHFxNzJqMGUtczFXdUFrcndBM3ZzRVB4Zm9icFZhMGZqT3hUSzBYdGZTNEUtdXI0NHladmdpdXpTOFFYc2ZZUGtDR3NxeVJ0SzYyNTRKQjFyWHFjMHZmM1Z3bFFURFlvVkFmdjVEWFppenNvQWhKY0pyT1B4Q29xeXRfMFFuMlhYWEtDOU5FbmtjVEE1R1NIdzQ5NE81?oc=5",
-      "date": "Mon, 15 Jun 2026 10:37:56 GMT",
-      "source": "MSN",
-      "score": 2
     }
   ]
 }
