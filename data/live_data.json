@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-17T05:22:57",
+  "generated_at": "2026-06-17T10:12:53",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.21,
-    "price_krw": 1838.46,
-    "price_change_24h": -0.90151,
-    "price_change_7d": 8.98419,
-    "price_change_30d": -12.8961,
-    "market_cap_usd": 75408943626,
-    "market_cap_rank": 5,
-    "volume_24h": 1760573178,
+    "price_usd": 1.2,
+    "price_krw": 1811.99,
+    "price_change_24h": -3.40501,
+    "price_change_7d": 8.00043,
+    "price_change_30d": -13.5378,
+    "market_cap_usd": 74168719184,
+    "market_cap_rank": 6,
+    "volume_24h": 1747983680,
     "circulating_supply": 62053900985.0,
     "total_supply": 99985653167.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 61.82,
-    "sentiment_votes_down": 38.18,
+    "sentiment_votes_up": 54.44,
+    "sentiment_votes_down": 45.56,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 15.61,
-    "recent_tps": 15.61,
-    "recent_tx_count": 1389,
+    "tps_24h_avg": 16.82,
+    "recent_tps": 16.82,
+    "recent_tx_count": 1514,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 104979275,
+    "recent_window_sec": 90,
+    "ledger_seq": 104983775,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-17 05:22:45 KST",
+    "updated_at": "2026-06-17 10:12:45 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -48,17 +48,17 @@
   },
   "etf_news": [
     {
-      "title": "리플(XRP), 블랙록 ETF 가능성 언급도 나와…\"XRPL 채택 확대·가격 상승 가능성\" 전망도",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56X09wWEl6OE80MGNvWlI2TGVQMG0yZ1RqOU5pUlZMcnJRVnVPT2xoZXI4V0lGeldSRXVYbnN0NmRUMVhaT2RuTlZfS1pBaGZkSGdKOTBrNXJYakEtc01aWDh0cUdhLWVF?oc=5",
-      "date": "Tue, 16 Jun 2026 02:17:01 GMT",
-      "source": "CBC뉴스",
+      "title": "리플은 계속 커지는데, 왜 XRP 가격은 안 오를까요? (2026년 6월 심층 분석)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU2NqdTZtUDVzS25JNGZZOEFGR1o1VWNfbGQ3MTlDbEJFWnhUaDJOQWx6Y3NlTXMyM0o2ZUZQOTI2WFpWdU1hUFE2WEswZUZvTWU5RTZRckZBN3dJYkN5cTh5aXhNUU9nQUhHdUpzaEd4QS11STZJOUtKcXdQeUZpZjM5SjYyRkR1U1NQVg?oc=5",
+      "date": "Wed, 17 Jun 2026 07:21:15 GMT",
+      "source": "네이버 프리미엄콘텐츠",
       "score": 0
     },
     {
-      "title": "블랙록은 왜 아직 'XRP ETF'를 내지 않았을까요 — BITA 상장과 리플의 기관·AI 공습",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ19tSVZ5Y3FXUEtyVFF5SXpaM1Y4WEFiYlhEODBkM2R0UmQ3azA5TkREeTdfQS1LUk1WNWZXTmZLSFRMNlV5YjBIV09SNmUxZWlZdEdPbFBBQ25ZNm90cVlzYzEwcUg2Nm1wOGFldnc1T3VQRlkwb3JCRFNxLTJqdU5QWVdTT3UybVJQRQ?oc=5",
-      "date": "Tue, 16 Jun 2026 00:07:00 GMT",
-      "source": "네이버 프리미엄콘텐츠",
+      "title": "리플(XRP), 블랙록 ETF 가능성 언급도 나와…\"XRPL 채택 확대·가격 상승 가능성\" 전망도",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qZk9WUlY4WExUTTZiMUVqY1VVNnFqS1FwSWdEYXBPUVJTTTY2OWFyZzNMOUFYVlYtVTNWTi1EV2wycFZBejVObVU1b3kxQ3FfRlgxb1Z5UHFFdE5pX0QxQ1dISQ?oc=5",
+      "date": "Tue, 16 Jun 2026 02:17:01 GMT",
+      "source": "CBC뉴스",
       "score": 0
     },
     {
@@ -91,6 +91,27 @@
     }
   ],
   "general_news": [
+    {
+      "title": "6월17일 17시 분석( 중단기 전망 )",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQX1NVWHFUQWdKMjBsSVd5dk15SzA2WFZIcWZJRG9BUkpkM3V3TUdoWV9YU3h0WUdwdTk0T3ctY1c2RTVGUXI2WnB5V0pUVHBJVjdMVXlSdHVxWDZyRUtpbjNseTdVcklOTFhPdzBCWHpkVVlHR0s2aEhVaW1hSmV2UHFCRHRrQjZXWHc?oc=5",
+      "date": "Wed, 17 Jun 2026 08:29:00 GMT",
+      "source": "네이버 프리미엄콘텐츠",
+      "score": 2
+    },
+    {
+      "title": "ETF 자금 유입은 활발한데...XRP(리플), 1달러 붕괴 경고",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9TeDk3Zjd4UmNUb0czUk1QSkFRTkVyQi0yYmN5ME9OZTJHTHR4NU1PZ1BkSzh6azl6TldlSV8zVTNOS2pqeGtuZnRn?oc=5",
+      "date": "Wed, 17 Jun 2026 07:30:00 GMT",
+      "source": "코인리더스",
+      "score": 3
+    },
+    {
+      "title": "리플은 계속 커지는데, 왜 XRP 가격은 안 오를까요? (2026년 6월 심층 분석)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU2NqdTZtUDVzS25JNGZZOEFGR1o1VWNfbGQ3MTlDbEJFWnhUaDJOQWx6Y3NlTXMyM0o2ZUZQOTI2WFpWdU1hUFE2WEswZUZvTWU5RTZRckZBN3dJYkN5cTh5aXhNUU9nQUhHdUpzaEd4QS11STZJOUtKcXdQeUZpZjM5SjYyRkR1U1NQVg?oc=5",
+      "date": "Wed, 17 Jun 2026 07:21:15 GMT",
+      "source": "네이버 프리미엄콘텐츠",
+      "score": 3
+    },
     {
       "title": "스퀴드, 리플 스테이블코인 RLUSD 크로스체인 스왑 지원",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uUGhRZ1h0ck5MY3NoSmQ5MGQ2aVctOG9naW1wRW9oMFJpb29ubE04Z2YxR1RzNUhQMTA2cmlteUtlVlNwSGJKbDBJXzlZQWwycjYyUFZqdXFtU0twMWlnQTJDV3EwS2xM?oc=5",
@@ -134,32 +155,11 @@
       "score": 3
     },
     {
-      "title": "XRP(리플), 고래가 15억 3,000억 개 폭풍 매집...1,000달러 신화 시작되나?",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9nRURMVEE4ZUxRWk10aU5ETUhJYkI5R3BPRk56NDc3QmZnRXFyNlQyVmVxSU4wQ0p0M1QzQVo3RTJMSG5IRWVEWF9B?oc=5",
-      "date": "Tue, 16 Jun 2026 11:00:00 GMT",
-      "source": "코인리더스",
-      "score": 2
-    },
-    {
       "title": "리플 RWA 온체인 지표 주춤… 시장 시선은 3,300만 달러 모금 육박한 ‘비트코인 하이퍼’로",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkX3JKejNMU0JCcDFjV0JLQ0FjdUtNNE1DcHlKSHlhZ1lyUmVsTl9weFFQOVJxZFdmcGZKSnBJQnAtNGFSODJwWldYVjQtRmNmU01ITWJrRlo5dEMtLVlQUUVvWHZIMGJsT3VQNlY0RGw?oc=5",
       "date": "Tue, 16 Jun 2026 06:37:43 GMT",
       "source": "블록체인투데이",
       "score": 2
-    },
-    {
-      "title": "재무기업 에버노스 CEO \"XRP 경쟁력, 기술보다도 금융 네트워크\"",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8ySkQ3ajBIMGlPOTZZZTA2bFNEeE5YTWQxdWx5djdIM3dVLTFsMlEyT1YwMG9vMmZNRk1IbFFUQkpvaWhiejBTQXdCZFdOTjBhSkplSVlXcDFXTkRUZmRvZ2hRR0RJZF9ySEFUNEFMNU9MeGc?oc=5",
-      "date": "Tue, 16 Jun 2026 02:19:00 GMT",
-      "source": "디지털투데이",
-      "score": 2
-    },
-    {
-      "title": "리플(XRP), 블랙록 ETF 가능성 언급도 나와…\"XRPL 채택 확대·가격 상승 가능성\" 전망도",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56X09wWEl6OE80MGNvWlI2TGVQMG0yZ1RqOU5pUlZMcnJRVnVPT2xoZXI4V0lGeldSRXVYbnN0NmRUMVhaT2RuTlZfS1pBaGZkSGdKOTBrNXJYakEtc01aWDh0cUdhLWVF?oc=5",
-      "date": "Tue, 16 Jun 2026 02:17:01 GMT",
-      "source": "CBC뉴스",
-      "score": 3
     }
   ]
 }
