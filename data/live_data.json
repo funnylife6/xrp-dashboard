@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-17T00:22:43",
+  "generated_at": "2026-06-17T05:22:57",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.22,
-    "price_krw": 1837.75,
-    "price_change_24h": -1.87453,
-    "price_change_7d": 6.98061,
-    "price_change_30d": -13.76816,
-    "market_cap_usd": 75497364953,
+    "price_usd": 1.21,
+    "price_krw": 1838.46,
+    "price_change_24h": -0.90151,
+    "price_change_7d": 8.98419,
+    "price_change_30d": -12.8961,
+    "market_cap_usd": 75408943626,
     "market_cap_rank": 5,
-    "volume_24h": 1808889426,
+    "volume_24h": 1760573178,
     "circulating_supply": 62053900985.0,
     "total_supply": 99985653167.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 62.6,
-    "sentiment_votes_down": 37.4,
+    "sentiment_votes_up": 61.82,
+    "sentiment_votes_down": 38.18,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 23.96,
-    "recent_tps": 23.96,
-    "recent_tx_count": 2156,
+    "tps_24h_avg": 15.61,
+    "recent_tps": 15.61,
+    "recent_tx_count": 1389,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 104974603,
+    "recent_window_sec": 89,
+    "ledger_seq": 104979275,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-17 00:22:32 KST",
+    "updated_at": "2026-06-17 05:22:45 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -48,15 +48,8 @@
   },
   "etf_news": [
     {
-      "title": "블랙록, XRP ETF 상장 신청 임박…글로벌 결제 혁신 주도하나",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUllzeWp3ekttRERoM0pDTURTUVQtT2QwT2NaN0EyamM5ZEpjSUFPa3d4dWY1QWVRaTRwZVJ0V2xQTE9nWVY2Uk9NQkdmSDJXZ3hycXBibVJ5STBmZkpoeGt3MnpCS2pST2lUZG45dFJvZTlwc0sxOXMtaVlSOC1HNGhtWlI4OEdZ?oc=5",
-      "date": "Tue, 16 Jun 2026 05:41:07 GMT",
-      "source": "글로벌이코노믹",
-      "score": 0
-    },
-    {
       "title": "리플(XRP), 블랙록 ETF 가능성 언급도 나와…\"XRPL 채택 확대·가격 상승 가능성\" 전망도",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qZk9WUlY4WExUTTZiMUVqY1VVNnFqS1FwSWdEYXBPUVJTTTY2OWFyZzNMOUFYVlYtVTNWTi1EV2wycFZBejVObVU1b3kxQ3FfRlgxb1Z5UHFFdE5pX0QxQ1dISQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56X09wWEl6OE80MGNvWlI2TGVQMG0yZ1RqOU5pUlZMcnJRVnVPT2xoZXI4V0lGeldSRXVYbnN0NmRUMVhaT2RuTlZfS1pBaGZkSGdKOTBrNXJYakEtc01aWDh0cUdhLWVF?oc=5",
       "date": "Tue, 16 Jun 2026 02:17:01 GMT",
       "source": "CBC뉴스",
       "score": 0
@@ -77,8 +70,8 @@
     },
     {
       "title": "개미들 피눈물 흘리게 만든 '리플 ETF의 덫'…수조 원 매집에도 안 오르는 이유 보니",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPSUJZNXdXWS1MZ1JrbndOQzFRUGFmT2NiTTBVV0JzWHRveG5kSGhfaHJaMFV1V3ZyTGJ3NlItc3JHYjROSG1EdDlHRWZFVDNtNTYwZWV6T1hoQ0VfSlktV2daamFKdkYwcTNVQ3NxY3BZUUkwRjA40gF3QVVfeXFMUE9JQlk1d1dZLUxnUmtud05DMVFQYWZPY2JNMFVXQnNYdG94bmRIaF9oclowVXVXdnJMYnc2Ui1zckdiNE5IbUR0OUdFZkVUM201NjBlZXpPWGhDRV9KWS1XZ1pqYUp2RjBxM1VDc3FjcFlRSTBGMDg?oc=5",
-      "date": "Mon, 15 Jun 2026 19:17:40 GMT",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9wTjd1eGlDcVNOWDRFaG1zSXlYalE1alFVa3dtbm1KZi1TeS1WdzFILVlxdUVGVm04X3FKS3lGcnl3YjctTG1VdVM2T3BIMzJHV3RISnBoY2lsaDlfcFdNYUNFN052alNUX2t1cV9YMmFKd2PSAXdBVV95cUxQT0lCWTV3V1ktTGdSa253TkMxUVBhZk9jYk0wVVdCc1h0b3huZEhoX2hyWjBVdVd2ckxidzZSLXNyR2I0TkhtRHQ5R0VmRVQzbTU2MGVlek9YaENFX0pZLVdnWmphSnZGMHEzVUNzcWNwWVFJMEYwOA?oc=5",
+      "date": "Mon, 15 Jun 2026 19:15:04 GMT",
       "source": "핀포인트뉴스",
       "score": 0
     },
@@ -88,9 +81,51 @@
       "date": "Mon, 15 Jun 2026 06:45:00 GMT",
       "source": "네이버 프리미엄콘텐츠",
       "score": 0
+    },
+    {
+      "title": "[펀드플로] 비트코인 ETF, 6거래일 만에 순유입 전환…이더리움 ETF는 순유출",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5sTWJwZTVvMkdwWTNUSkRuMzZHTzVxdFA0YS1ScHV6dVRxUjZIczVqRDY1N3JFc0VlSEJRSnA4ZnF0Y0dTaWMyWDVObVVFbUZ5TVlQcVNMVlA?oc=5",
+      "date": "Mon, 15 Jun 2026 06:03:00 GMT",
+      "source": "블록미디어",
+      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "스퀴드, 리플 스테이블코인 RLUSD 크로스체인 스왑 지원",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uUGhRZ1h0ck5MY3NoSmQ5MGQ2aVctOG9naW1wRW9oMFJpb29ubE04Z2YxR1RzNUhQMTA2cmlteUtlVlNwSGJKbDBJXzlZQWwycjYyUFZqdXFtU0twMWlnQTJDV3EwS2xM?oc=5",
+      "date": "Wed, 17 Jun 2026 02:36:22 GMT",
+      "source": "IT타임스",
+      "score": 2
+    },
+    {
+      "title": "리플, 기관 재무 계정에 XRP·RLUSD 연결…KYC 한 번으로 연동 OK",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5QUGoxTEJyUjNzS3pvaExLdjVFSU0tZFpVZkJ0NFdaWC16SWJUZU9DTW8zVVFzclc4SWlYRkRKa1NWdTRoR1ZnazVaNzY2VU5CcGZtemNrZkZfT2lBYWJVNjlndVlnMVh3M2N5eVhjd0tzdjA?oc=5",
+      "date": "Wed, 17 Jun 2026 02:35:00 GMT",
+      "source": "디지털투데이",
+      "score": 4
+    },
+    {
+      "title": "리플, 기업 재무 시스템 내 XRP·RLUSD 직접 통합 방식 전격 공개",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUVdGQTdyUHVIMUw1UDRJemdIcFlOQ0U2QlFPVl9MdTBhVVF4d3gzU3EtZFZVWDFmN2R3QU5hb1lfekVYd0JYMG14SjdTbFFvYllxc3VGWW8wZ0w3a2VXSURzWHJOSmZ6a0o5SHpIOUlTRnptZ2VQQ1Boa1NIc2dSQXFILU1scERK?oc=5",
+      "date": "Wed, 17 Jun 2026 02:15:17 GMT",
+      "source": "글로벌이코노믹",
+      "score": 3
+    },
+    {
+      "title": "\" 멀티체인 RLUSD 생태계 확장\" 스퀴드, 리플과 상호운용성 인프라 협력",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LelZ3cWM4cHctMU54TG5PQnVRYjIyeHphWVM0ZFNUQ1V2NWJoczFRdGhibDUxT2RUU1N3aXV2TnZFVjgtT3RjX3JCSlEzZWVJZ093anVvUktzMEttUjBVQURKTllORDZTSDNwedIBcEFVX3lxTE53WjB0cWtaSTJsMG03WlZubE5MeFFCWm95STc4QWdWYWtJOW55LWkxX2U5c3NNWTAyR1ktUHpkTEd6M0hOd3doVTZyTDBPeXZndmFjMElaMnU4c2h6eEVuM3BraGNPRTBlM2JFbW1LeEg?oc=5",
+      "date": "Wed, 17 Jun 2026 00:10:19 GMT",
+      "source": "이넷뉴스",
+      "score": 2
+    },
+    {
+      "title": "리플, 플러터웨이브 투자로 아프리카 송금 시장 공략",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OejRjNVdheU5jWk5PMHlSLVQ3V2ZBUDluZjRpNnI5cnVXUzdkTDhGZWx3cV9ncF9JcUg4aFk3QlVaRkJwcGpYMGdOSTZrcWxMYkpj?oc=5",
+      "date": "Tue, 16 Jun 2026 23:17:00 GMT",
+      "source": "네이트",
+      "score": 3
+    },
     {
       "title": "[넥스블록]스퀴드, 리플과 파트너십 체결…RLUSD 멀티체인 결제 인프라 지원",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA3eTZ0R0JzVW5GNzVVbE1XRDJnNHQ5TlZHcFBxY2dKWnNtZER6ckNWQzVrTWR0TXk1eUExTy1fUG5aRWp2QmFZSndhUXhTOE10bUNuRw?oc=5",
@@ -113,52 +148,17 @@
       "score": 2
     },
     {
-      "title": "블랙록, XRP ETF 상장 신청 임박…글로벌 결제 혁신 주도하나",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUllzeWp3ekttRERoM0pDTURTUVQtT2QwT2NaN0EyamM5ZEpjSUFPa3d4dWY1QWVRaTRwZVJ0V2xQTE9nWVY2Uk9NQkdmSDJXZ3hycXBibVJ5STBmZkpoeGt3MnpCS2pST2lUZG45dFJvZTlwc0sxOXMtaVlSOC1HNGhtWlI4OEdZ?oc=5",
-      "date": "Tue, 16 Jun 2026 05:41:07 GMT",
-      "source": "글로벌이코노믹",
-      "score": 2
-    },
-    {
-      "title": "리플(XRP) 비극은 실패 보다 무관함에서 온다",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9MNHZZbzVkVTUtOEs5ZGM2dlhxQWRzMU0tem5sQjVhVXIybW9PbEIwd3dkQnNRTkhweXFCNHloN25SRnExZ0FVRHhVbWtXVTNUZXJoMnRicw?oc=5",
-      "date": "Tue, 16 Jun 2026 03:40:37 GMT",
-      "source": "코인니스",
-      "score": 10
-    },
-    {
       "title": "재무기업 에버노스 CEO \"XRP 경쟁력, 기술보다도 금융 네트워크\"",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4Z05GNnZXT0F1dWpROThHQVd4NnduNC03MmFJZ2ZUajJQX3VabXVDamM0REI1N3BoakhVRFdSM0FFbGZFRzUzQzllUGI3TmwwU1FF?oc=5",
-      "date": "Tue, 16 Jun 2026 02:20:00 GMT",
-      "source": "네이트",
-      "score": 2
-    },
-    {
-      "title": "리플 RLUSD, 스테이블코인 시총 9위 '우뚝'…거래량도 72% 급증",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1paGJfeXc3ZzZScHhVaWFZb2FNSXhxY0o0ZjNyOEtiYzFjREZJZ245YVUzTzVWLWVHQWE4Y3hsRllPQ1IzcmhNWXFYMDFjNHNrcXdBamw3cG91U2ZOZzA3X3FtcHZUV1N0eG0tSFl3MUpTMUE?oc=5",
-      "date": "Tue, 16 Jun 2026 02:18:20 GMT",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8ySkQ3ajBIMGlPOTZZZTA2bFNEeE5YTWQxdWx5djdIM3dVLTFsMlEyT1YwMG9vMmZNRk1IbFFUQkpvaWhiejBTQXdCZFdOTjBhSkplSVlXcDFXTkRUZmRvZ2hRR0RJZF9ySEFUNEFMNU9MeGc?oc=5",
+      "date": "Tue, 16 Jun 2026 02:19:00 GMT",
       "source": "디지털투데이",
       "score": 2
     },
     {
       "title": "리플(XRP), 블랙록 ETF 가능성 언급도 나와…\"XRPL 채택 확대·가격 상승 가능성\" 전망도",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qZk9WUlY4WExUTTZiMUVqY1VVNnFqS1FwSWdEYXBPUVJTTTY2OWFyZzNMOUFYVlYtVTNWTi1EV2wycFZBejVObVU1b3kxQ3FfRlgxb1Z5UHFFdE5pX0QxQ1dISQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56X09wWEl6OE80MGNvWlI2TGVQMG0yZ1RqOU5pUlZMcnJRVnVPT2xoZXI4V0lGeldSRXVYbnN0NmRUMVhaT2RuTlZfS1pBaGZkSGdKOTBrNXJYakEtc01aWDh0cUdhLWVF?oc=5",
       "date": "Tue, 16 Jun 2026 02:17:01 GMT",
       "source": "CBC뉴스",
-      "score": 3
-    },
-    {
-      "title": "블랙록은 왜 아직 'XRP ETF'를 내지 않았을까요 — BITA 상장과 리플의 기관·AI 공습",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ19tSVZ5Y3FXUEtyVFF5SXpaM1Y4WEFiYlhEODBkM2R0UmQ3azA5TkREeTdfQS1LUk1WNWZXTmZLSFRMNlV5YjBIV09SNmUxZWlZdEdPbFBBQ25ZNm90cVlzYzEwcUg2Nm1wOGFldnc1T3VQRlkwb3JCRFNxLTJqdU5QWVdTT3UybVJQRQ?oc=5",
-      "date": "Tue, 16 Jun 2026 00:07:00 GMT",
-      "source": "네이버 프리미엄콘텐츠",
-      "score": 4
-    },
-    {
-      "title": "XRP 뉴스: 리플, 플러터웨이브에 투자하여 아프리카 결제 부문에 RLUSD 및 XRP 원장 도입",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNX0Y3NGc0ejRkSW03VG5WQmQ0YVRyQnhtXzc2ZXBnaElTLThjLW9MWUEybnBzWjIyRmkta3lFMUZRYTdHWVJZRTRJYnFteE9qN1k3VUYzZXJ0VkhGRjdvdmhRdE1SWklVeVFPQ0JpdHNybUhPYVoyZDNBUG5VVU5XYWxNSDdRU3U0TmNqLVBzZ3RyWk5OOWZSSC1PWTNONmQ0ZlpFR0FaRDZ4WkRYMW8tNE8ySnhWTXVxRXFUaUVXMDZmdnpIQTdubjFBLWpqR0loczBQWWNwLWdGVXc?oc=5",
-      "date": "Mon, 15 Jun 2026 23:35:00 GMT",
-      "source": "CoinDesk",
       "score": 3
     }
   ]
