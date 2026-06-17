@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-16T23:00:35",
+  "generated_at": "2026-06-17T00:22:43",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.22,
-    "price_krw": 1848.79,
-    "price_change_24h": -1.49361,
-    "price_change_7d": 7.50486,
-    "price_change_30d": -14.34385,
-    "market_cap_usd": 75663850126,
+    "price_krw": 1837.75,
+    "price_change_24h": -1.87453,
+    "price_change_7d": 6.98061,
+    "price_change_30d": -13.76816,
+    "market_cap_usd": 75497364953,
     "market_cap_rank": 5,
-    "volume_24h": 1874192319,
+    "volume_24h": 1808889426,
     "circulating_supply": 62053900985.0,
     "total_supply": 99985653167.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 65.32,
-    "sentiment_votes_down": 34.68,
+    "sentiment_votes_up": 62.6,
+    "sentiment_votes_down": 37.4,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 23.47,
-    "recent_tps": 23.47,
-    "recent_tx_count": 2112,
+    "tps_24h_avg": 23.96,
+    "recent_tps": 23.96,
+    "recent_tx_count": 2156,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104973326,
+    "ledger_seq": 104974603,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-16 23:00:21 KST",
+    "updated_at": "2026-06-17 00:22:32 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -77,8 +77,8 @@
     },
     {
       "title": "개미들 피눈물 흘리게 만든 '리플 ETF의 덫'…수조 원 매집에도 안 오르는 이유 보니",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9wTjd1eGlDcVNOWDRFaG1zSXlYalE1alFVa3dtbm1KZi1TeS1WdzFILVlxdUVGVm04X3FKS3lGcnl3YjctTG1VdVM2T3BIMzJHV3RISnBoY2lsaDlfcFdNYUNFN052alNUX2t1cV9YMmFKd2PSAXdBVV95cUxQT0lCWTV3V1ktTGdSa253TkMxUVBhZk9jYk0wVVdCc1h0b3huZEhoX2hyWjBVdVd2ckxidzZSLXNyR2I0TkhtRHQ5R0VmRVQzbTU2MGVlek9YaENFX0pZLVdnWmphSnZGMHEzVUNzcWNwWVFJMEYwOA?oc=5",
-      "date": "Mon, 15 Jun 2026 19:15:04 GMT",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPSUJZNXdXWS1MZ1JrbndOQzFRUGFmT2NiTTBVV0JzWHRveG5kSGhfaHJaMFV1V3ZyTGJ3NlItc3JHYjROSG1EdDlHRWZFVDNtNTYwZWV6T1hoQ0VfSlktV2daamFKdkYwcTNVQ3NxY3BZUUkwRjA40gF3QVVfeXFMUE9JQlk1d1dZLUxnUmtud05DMVFQYWZPY2JNMFVXQnNYdG94bmRIaF9oclowVXVXdnJMYnc2Ui1zckdiNE5IbUR0OUdFZkVUM201NjBlZXpPWGhDRV9KWS1XZ1pqYUp2RjBxM1VDc3FjcFlRSTBGMDg?oc=5",
+      "date": "Mon, 15 Jun 2026 19:17:40 GMT",
       "source": "핀포인트뉴스",
       "score": 0
     },
@@ -91,6 +91,13 @@
     }
   ],
   "general_news": [
+    {
+      "title": "[넥스블록]스퀴드, 리플과 파트너십 체결…RLUSD 멀티체인 결제 인프라 지원",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA3eTZ0R0JzVW5GNzVVbE1XRDJnNHQ5TlZHcFBxY2dKWnNtZER6ckNWQzVrTWR0TXk1eUExTy1fUG5aRWp2QmFZSndhUXhTOE10bUNuRw?oc=5",
+      "date": "Tue, 16 Jun 2026 23:00:00 GMT",
+      "source": "이투데이",
+      "score": 3
+    },
     {
       "title": "XRP(리플), 고래가 15억 3,000억 개 폭풍 매집...1,000달러 신화 시작되나?",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9nRURMVEE4ZUxRWk10aU5ETUhJYkI5R3BPRk56NDc3QmZnRXFyNlQyVmVxSU4wQ0p0M1QzQVo3RTJMSG5IRWVEWF9B?oc=5",
@@ -153,13 +160,6 @@
       "date": "Mon, 15 Jun 2026 23:35:00 GMT",
       "source": "CoinDesk",
       "score": 3
-    },
-    {
-      "title": "스퀴드, RLUSD(리플USD) 크로스체인 지원",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9NQlpXYmhteU1DRUJnWHlnNEJ0Qm5jNWgtcWFfYVl0LXZ0QUl2NkNodTctTDM3MVk4eUFiWHB2V0gyX1pINTJ5WlhqSGhUd2FTSnFaVXhndEF6WE9BcW5BQWxQU1RHOUwtXzVLUkNka2hkZw?oc=5",
-      "date": "Mon, 15 Jun 2026 23:00:00 GMT",
-      "source": "디지털애셋",
-      "score": 9
     }
   ]
 }
