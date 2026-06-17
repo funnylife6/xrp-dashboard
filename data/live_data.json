@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-17T19:35:42",
+  "generated_at": "2026-06-17T21:54:35",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.19,
-    "price_krw": 1815.95,
-    "price_change_24h": -2.9815,
-    "price_change_7d": 7.65648,
-    "price_change_30d": -13.48164,
-    "market_cap_usd": 73657623698,
+    "price_usd": 1.18,
+    "price_krw": 1793.42,
+    "price_change_24h": -3.15065,
+    "price_change_7d": 7.43717,
+    "price_change_30d": -14.92088,
+    "market_cap_usd": 73232519793,
     "market_cap_rank": 6,
-    "volume_24h": 1845864827,
+    "volume_24h": 1952159793,
     "circulating_supply": 62053900985.0,
     "total_supply": 99985653167.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 60.76,
-    "sentiment_votes_down": 39.24,
+    "sentiment_votes_up": 59.04,
+    "sentiment_votes_down": 40.96,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 25.61,
-    "recent_tps": 25.61,
-    "recent_tx_count": 2305,
+    "tps_24h_avg": 17.76,
+    "recent_tps": 17.76,
+    "recent_tx_count": 1598,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104992513,
+    "ledger_seq": 104994670,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-17 19:35:28 KST",
+    "updated_at": "2026-06-17 21:54:25 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,6 +92,13 @@
   ],
   "general_news": [
     {
+      "title": "XRP(리플), 2029 양자 보안 전면 재설계...\"9분 만에 막는다\"",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5UXzhJWVVqYjg3NWFqWHg4OW5RZHoxM1ozTTdKWWI2bHFwVmJvQUxJZ0ZoVDY3b2htNEMzZlEyWGlQTkpLN0hSMWZ3?oc=5",
+      "date": "Wed, 17 Jun 2026 19:20:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
       "title": "비트코인·이더리움 뺨 때린 XRP ETF 유입… 가상자산 패권 뒤집히나",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1jampUanZTc3NjeVJ2QzE5cmJzMEhzQWJ2dC1zbnAxZkpnVE1NWDZTSzVLZkxkMlBYeHp4d2NKZFlSeEJnMTRoWm9ZMGFBRUF5d3UwZWl4b0xmYnZhR251aGp2anp3dVZiSlJsM2g1UUdFdTjSAXdBVV95cUxQeXAxQ0cyYlBoS0hNby1LNWZKSWxvdV9uQXl4aWE1bjRESWMzb0hBYWFUWHhENG9CVHNBQTZ6bXY3Umh5M0FsTWFqZGhnSkNUYWFyWnQxQjVDTEtGOW5ZbGxqVEhNbmN6UlJlaXQ3R2pCMUtzR2Fvdw?oc=5",
       "date": "Wed, 17 Jun 2026 10:30:00 GMT",
@@ -103,14 +110,7 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU2NqdTZtUDVzS25JNGZZOEFGR1o1VWNfbGQ3MTlDbEJFWnhUaDJOQWx6Y3NlTXMyM0o2ZUZQOTI2WFpWdU1hUFE2WEswZUZvTWU5RTZRckZBN3dJYkN5cTh5aXhNUU9nQUhHdUpzaEd4QS11STZJOUtKcXdQeUZpZjM5SjYyRkR1U1NQVg?oc=5",
       "date": "Wed, 17 Jun 2026 07:21:15 GMT",
       "source": "네이버 프리미엄콘텐츠",
-      "score": 3
-    },
-    {
-      "title": "리플, 아프리카 500억달러 결제망 잡았다...XRP·RLUSD 영토 확장",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFByMnkzNFFtbkNXOURUUTdKWV9nOFJHX2tGdU1kcHJ5aE11amJ5T2w1dmtLdEZwT3o2Yk9VSDFwV2lVMGJvaWZ0N2ZR?oc=5",
-      "date": "Wed, 17 Jun 2026 06:32:00 GMT",
-      "source": "코인리더스",
-      "score": 3
+      "score": 2
     },
     {
       "title": "스퀴드, 리플 스테이블코인 RLUSD 크로스체인 스왑 지원",
@@ -141,13 +141,6 @@
       "score": 8
     },
     {
-      "title": "\" 멀티체인 RLUSD 생태계 확장\" 스퀴드, 리플과 상호운용성 인프라 협력",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LelZ3cWM4cHctMU54TG5PQnVRYjIyeHphWVM0ZFNUQ1V2NWJoczFRdGhibDUxT2RUU1N3aXV2TnZFVjgtT3RjX3JCSlEzZWVJZ093anVvUktzMEttUjBVQURKTllORDZTSDNwedIBcEFVX3lxTE53WjB0cWtaSTJsMG03WlZubE5MeFFCWm95STc4QWdWYWtJOW55LWkxX2U5c3NNWTAyR1ktUHpkTEd6M0hOd3doVTZyTDBPeXZndmFjMElaMnU4c2h6eEVuM3BraGNPRTBlM2JFbW1LeEg?oc=5",
-      "date": "Wed, 17 Jun 2026 00:10:19 GMT",
-      "source": "이넷뉴스",
-      "score": 2
-    },
-    {
       "title": "리플, 플러터웨이브 투자로 아프리카 송금 시장 공략",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OejRjNVdheU5jWk5PMHlSLVQ3V2ZBUDluZjRpNnI5cnVXUzdkTDhGZWx3cV9ncF9JcUg4aFk3QlVaRkJwcGpYMGdOSTZrcWxMYkpj?oc=5",
       "date": "Tue, 16 Jun 2026 23:17:00 GMT",
@@ -160,6 +153,13 @@
       "date": "Tue, 16 Jun 2026 23:00:00 GMT",
       "source": "이투데이",
       "score": 3
+    },
+    {
+      "title": "리플 RWA 온체인 지표 주춤… 시장 시선은 3,300만 달러 모금 육박한 ‘비트코인 하이퍼’로",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkX3JKejNMU0JCcDFjV0JLQ0FjdUtNNE1DcHlKSHlhZ1lyUmVsTl9weFFQOVJxZFdmcGZKSnBJQnAtNGFSODJwWldYVjQtRmNmU01ITWJrRlo5dEMtLVlQUUVvWHZIMGJsT3VQNlY0RGw?oc=5",
+      "date": "Tue, 16 Jun 2026 06:37:43 GMT",
+      "source": "블록체인투데이",
+      "score": 2
     }
   ]
 }
