@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-17T23:18:10",
+  "generated_at": "2026-06-18T02:00:26",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.18,
-    "price_krw": 1809.34,
-    "price_change_24h": -2.87678,
-    "price_change_7d": 8.09051,
-    "price_change_30d": -14.7354,
-    "market_cap_usd": 73467256907,
+    "price_usd": 1.19,
+    "price_krw": 1808.95,
+    "price_change_24h": -2.76377,
+    "price_change_7d": 7.63841,
+    "price_change_30d": -14.787,
+    "market_cap_usd": 73564950137,
     "market_cap_rank": 6,
-    "volume_24h": 1997698255,
+    "volume_24h": 2010050136,
     "circulating_supply": 62053900985.0,
     "total_supply": 99985653167.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 57.47,
-    "sentiment_votes_down": 42.53,
+    "sentiment_votes_up": 57.5,
+    "sentiment_votes_down": 42.5,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 21.48,
-    "recent_tps": 21.48,
-    "recent_tx_count": 1933,
+    "tps_24h_avg": 15.47,
+    "recent_tps": 15.47,
+    "recent_tx_count": 1392,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 104995965,
+    "ledger_seq": 104998470,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-17 23:18:03 KST",
+    "updated_at": "2026-06-18 02:00:14 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -77,7 +77,7 @@
     },
     {
       "title": "리플(XRP), 블랙록 ETF 가능성 언급도 나와…\"XRPL 채택 확대·가격 상승 가능성\" 전망도",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qZk9WUlY4WExUTTZiMUVqY1VVNnFqS1FwSWdEYXBPUVJTTTY2OWFyZzNMOUFYVlYtVTNWTi1EV2wycFZBejVObVU1b3kxQ3FfRlgxb1Z5UHFFdE5pX0QxQ1dISQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56X09wWEl6OE80MGNvWlI2TGVQMG0yZ1RqOU5pUlZMcnJRVnVPT2xoZXI4V0lGeldSRXVYbnN0NmRUMVhaT2RuTlZfS1pBaGZkSGdKOTBrNXJYakEtc01aWDh0cUdhLWVF?oc=5",
       "date": "Tue, 16 Jun 2026 02:17:01 GMT",
       "source": "CBC뉴스",
       "score": 0
@@ -91,6 +91,13 @@
     }
   ],
   "general_news": [
+    {
+      "title": "리플(XRP), 1.19달러 저항선 안착 공방전… 단기 방향성 시험대 진입",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5fcjJJSlJVUGhpQ3ZWUUoxRkpGTTU0WFZuajZRblBIeDVQajJoUlVYRmRXb0MxN2xQTEdpR3JGc2NKU3NmU1BTb3R3aWZPN1g5bkZTLVd3ak1LWW5jd0d1Um1uT2dpRVFDMlpmc0ZWWU4?oc=5",
+      "date": "Thu, 18 Jun 2026 00:58:15 GMT",
+      "source": "블록체인투데이",
+      "score": 2
+    },
     {
       "title": "[크립토핫이슈] 비트코인 바닥 쳤나…클래리티법 또 표류",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yaVAtR0pBcTdJZDlsMzRmZ2NIaTFhVUVSNjZWYm5hT0RPMDdYaVNGQi15S2NRcTBSY253UTRJcm9uUmMta1c1RHVNMEQwa08yTVpj?oc=5",
@@ -137,7 +144,7 @@
       "title": "맞는 말이긴 함",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9EbF9PVU00bGtfTnNRWlBPdFo2VlJNcXNtdm9PQzdpYzRtaWRMOS1ZTUVTdEVhRjN1WVlUOXZwSUVZNlVUWm43eXNuNnRLMVhZMC1PeGtaU2w?oc=5",
       "date": "Wed, 17 Jun 2026 01:32:49 GMT",
-      "source": "코인니스",
+      "source": "coinness.com",
       "score": 8
     },
     {
@@ -149,16 +156,9 @@
     },
     {
       "title": "[넥스블록]스퀴드, 리플과 파트너십 체결…RLUSD 멀티체인 결제 인프라 지원",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA3eTZ0R0JzVW5GNzVVbE1XRDJnNHQ5TlZHcFBxY2dKWnNtZER6ckNWQzVrTWR0TXk1eUExTy1fUG5aRWp2QmFZSndhUXhTOE10bUNuRw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0wdnFWQ195S1JNLVV0aG1zQ3h2aURtWS1aRkNjVWJnV3VucXhJZVdXcDF4TXBQVk5HZzNYcmJoZlp0ZWEtMXdUV1lNdy10Q2tkV2pNb2d6YjF0eVptN3ZLaXJ2OTgyNmJqQjB6VC1DRWdPNmhV?oc=5",
       "date": "Tue, 16 Jun 2026 23:00:00 GMT",
       "source": "이투데이",
-      "score": 3
-    },
-    {
-      "title": "리플 RWA 온체인 지표 주춤… 시장 시선은 3,300만 달러 모금 육박한 ‘비트코인 하이퍼’로",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkX3JKejNMU0JCcDFjV0JLQ0FjdUtNNE1DcHlKSHlhZ1lyUmVsTl9weFFQOVJxZFdmcGZKSnBJQnAtNGFSODJwWldYVjQtRmNmU01ITWJrRlo5dEMtLVlQUUVvWHZIMGJsT3VQNlY0RGw?oc=5",
-      "date": "Tue, 16 Jun 2026 06:37:43 GMT",
-      "source": "블록체인투데이",
       "score": 2
     }
   ]
