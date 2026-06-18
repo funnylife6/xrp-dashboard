@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-18T14:28:14",
+  "generated_at": "2026-06-18T17:41:47",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.16,
-    "price_krw": 1786.18,
-    "price_change_24h": -2.97975,
-    "price_change_7d": 4.543,
-    "price_change_30d": -15.40523,
-    "market_cap_usd": 72222349659,
+    "price_usd": 1.14,
+    "price_krw": 1763.42,
+    "price_change_24h": -5.64771,
+    "price_change_7d": 3.35347,
+    "price_change_30d": -16.60514,
+    "market_cap_usd": 71053812286,
     "market_cap_rank": 6,
-    "volume_24h": 2022716251,
+    "volume_24h": 2175418238,
     "circulating_supply": 62053900985.0,
     "total_supply": 99985653167.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 63.04,
-    "sentiment_votes_down": 36.96,
+    "sentiment_votes_up": 62.5,
+    "sentiment_votes_down": 37.5,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 30.32,
-    "recent_tps": 30.32,
-    "recent_tx_count": 2729,
+    "tps_24h_avg": 27.87,
+    "recent_tps": 27.87,
+    "recent_tx_count": 2480,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 105010062,
+    "recent_window_sec": 89,
+    "ledger_seq": 105013054,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-18 14:28:06 KST",
+    "updated_at": "2026-06-18 17:41:33 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -47,6 +47,13 @@
     "data_source": "news_parse"
   },
   "etf_news": [
+    {
+      "title": "리플은 계속 커지는데, 왜 XRP 가격은 안 오를까요? (2026년 6월 심층 분석)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU2NqdTZtUDVzS25JNGZZOEFGR1o1VWNfbGQ3MTlDbEJFWnhUaDJOQWx6Y3NlTXMyM0o2ZUZQOTI2WFpWdU1hUFE2WEswZUZvTWU5RTZRckZBN3dJYkN5cTh5aXhNUU9nQUhHdUpzaEd4QS11STZJOUtKcXdQeUZpZjM5SjYyRkR1U1NQVg?oc=5",
+      "date": "Thu, 18 Jun 2026 12:20:37 GMT",
+      "source": "네이버 프리미엄콘텐츠",
+      "score": 0
+    },
     {
       "title": "Ripple XRP(XRPUSD) 종목이 6월18일에 갑자기 1.32% 하락한 상황에서 무엇을 주목해야 할까요?",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWU1qcTF4OWUweFNOZUkxbTdSUGEwS1F4Y19RekI5ZGdUc2VTMC1IQU1YekFjM1kwWklfUjNmV3JLRmdmZWhSbFFHYi1Wd3VPTXNtRnRKRlByZmlycm9tSWR0SlhpZDNVUjM2SW9ZNlIwdWNuQ1pGbWFlNERlVVZZQlJhY2g2dDllSlVSWXdiOVhvZw?oc=5",
@@ -70,7 +77,7 @@
     },
     {
       "title": "리플(XRP), 블랙록 ETF 가능성 언급도 나와…\"XRPL 채택 확대·가격 상승 가능성\" 전망도",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56X09wWEl6OE80MGNvWlI2TGVQMG0yZ1RqOU5pUlZMcnJRVnVPT2xoZXI4V0lGeldSRXVYbnN0NmRUMVhaT2RuTlZfS1pBaGZkSGdKOTBrNXJYakEtc01aWDh0cUdhLWVF?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qZk9WUlY4WExUTTZiMUVqY1VVNnFqS1FwSWdEYXBPUVJTTTY2OWFyZzNMOUFYVlYtVTNWTi1EV2wycFZBejVObVU1b3kxQ3FfRlgxb1Z5UHFFdE5pX0QxQ1dISQ?oc=5",
       "date": "Tue, 16 Jun 2026 02:17:01 GMT",
       "source": "CBC뉴스",
       "score": 0
@@ -81,29 +88,29 @@
       "date": "Tue, 16 Jun 2026 00:07:00 GMT",
       "source": "네이버 프리미엄콘텐츠",
       "score": 0
-    },
-    {
-      "title": "리플(XRP), 현물 ETF 유입서 비트코인·이더리움 역전… 1.4달러 정조준",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOFFraFlDY1B4b0s0MUFwdTMtT0tGemtwY3g0Zy1mcjhBUlJROXlyUnZ1eTkzQUFjRzVPZGJpb2h0MzhRd2xwZ1cyOGxfVEs1eGZFMU9DYkFpNFJGSm42YVlCdkR4U0lnOXBNMW9KdGg4aVBMYWtXUkNiVGE3dVZSS0E2azJURFdK?oc=5",
-      "date": "Mon, 15 Jun 2026 20:46:21 GMT",
-      "source": "글로벌이코노믹",
-      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "맷 데이먼, ‘리플 스웰 2026’ 연사 합류… RLUSD 기반 국경 없는 자선 사업 실증",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HTjFyTTRyNmI3aTM2akdLdzhQZnhGaFFoQXRKcFRPeWlWVVVpaUI4STZXeGlWSmh6MXJsUlFXOTNaQlpwYVFqci1NSm9ldldTcGpkcU1WSm9VZWQzRjFDNTFPNWJzN0RVS0xlQXFsWUg?oc=5",
+      "date": "Thu, 18 Jun 2026 15:05:22 GMT",
+      "source": "블록체인투데이",
+      "score": 2
+    },
+    {
+      "title": "리플은 계속 커지는데, 왜 XRP 가격은 안 오를까요? (2026년 6월 심층 분석)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU2NqdTZtUDVzS25JNGZZOEFGR1o1VWNfbGQ3MTlDbEJFWnhUaDJOQWx6Y3NlTXMyM0o2ZUZQOTI2WFpWdU1hUFE2WEswZUZvTWU5RTZRckZBN3dJYkN5cTh5aXhNUU9nQUhHdUpzaEd4QS11STZJOUtKcXdQeUZpZjM5SjYyRkR1U1NQVg?oc=5",
+      "date": "Thu, 18 Jun 2026 12:20:37 GMT",
+      "source": "네이버 프리미엄콘텐츠",
+      "score": 2
+    },
     {
       "title": "리플, 스웰 2026에 XRPL 행사 통합… 인프라 확장 분기점 될까",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NUC1pb05hMDRJZ3NBT2xaY3hrdjdhVl8zRkI4Qk9CRFpHRlh1aDBvLWJ5a19KTUdOc0xCbW5ucElEX3ktMlkyOVpnaERaQzFMU2Fid0RiRi01a2vSAWBBVV95cUxOaktzNy0tU1EyN3NESTlKaUZ6NlZNb1J0VGN3RzVwTEtxcjNDNE9HSTdkS1NlazhwWndjZXY2dlZ6M2RQN2RndGg0cU1PbFB0Y0t2amFGZ3hWbGh6djdMVkY?oc=5",
       "date": "Thu, 18 Jun 2026 11:22:49 GMT",
       "source": "tokenpost.kr",
       "score": 2
-    },
-    {
-      "title": "리플 현실이 된 글로벌 결제 인프라…RLUSD 확장이 만드는 새 판",
-      "url": "https://news.google.com/rss/articles/CBMiigNBVV95cUxNQkxmS0VXNWJLY0otTWk2SmFqTzAxOFdXM0Qxc3VrNWtRTFl6WmhHNEdEWjRkVFh1b0lORk1iSzRwakpRN3d1WmlFb01aS2wwM20xdVdMN0RJOWdkS1I3Xy1pZERFT3p5T1F6TVRfekNyeWVOMkpLN1dFT1VIVTAzVjcweXd3RE40SXNJaVlLLTZDcTN3eWhmYTNJYWU4TlNaYmxIbm0xaVBPVWo0azhSRFBnZEJUWGhkV2FxYjdTa3lVd0VyYnhsWExTZEdPRFNiWU95N1lZWlA0eDZvRjZGSkd4MVNvT3B5Ymswd01FWHRUOGZHLXBsSTdaUmtBUGxXT2hVcWV0b1FzMXN6VG9jOWFSZUpfVFk4TUI2X0lkSTdBeXlBcEZLZUgxTnFTNUxsUTdTMlRMOHRiRUphOFB3WEN2NEZtZzAySUI2Mk8wZy03ZXk0aFl0OWhIYnpJNWxTclc3eUp0ZWNma1ItTmtfOHhqSUNpMURmcnNScmdXWTlaNXhuRlRQdG5n?oc=5",
-      "date": "Thu, 18 Jun 2026 09:33:45 GMT",
-      "source": "MSN",
-      "score": 3
     },
     {
       "title": "XRPL 업그레이드부터 아프리카 결제망까지, 리플 생태계 지금 무슨 일이?",
@@ -127,13 +134,6 @@
       "score": 2
     },
     {
-      "title": "할리우드 스타 맷 데이먼, 리플 스웰 무대 오른다…RLUSD·식수 위기 논의",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KYlhSU3FXQzlzakNjelR4UzE5aUdtbk9lSmkzQWJBbTZzcThQN3ZYQXZpTWVJaENvX2IyYjJFQXVKNzBLSFRncjM5TDBQdGpycU0wVlZhZkhBeE9MLTk1d2JxZlllTURieTV1YjZxV0R6Zzg?oc=5",
-      "date": "Wed, 17 Jun 2026 23:47:00 GMT",
-      "source": "디지털투데이",
-      "score": 2
-    },
-    {
       "title": "플라즈마 21% 급등·비트코인 하락·리플XRP 약세…국채금리 상승에 관망세",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9yQU5fbk9yY1p2RzVhRkhnR05EQlNlU1ppT0FqZTlhTE5Kb2hnal81ckhQbjM0NU1HTjdEMVYyYUpEb2dxVTBFUl9UbkpLWHZnRHBtMEU0OHdQTlUtQTQ0Q0t6TDN5elNsLUJIUHhnX2I5UQ?oc=5",
       "date": "Wed, 17 Jun 2026 22:42:10 GMT",
@@ -148,18 +148,18 @@
       "score": 2
     },
     {
-      "title": "스퀴드, 리플 스테이블코인 RLUSD 크로스체인 스왑 지원",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uUGhRZ1h0ck5MY3NoSmQ5MGQ2aVctOG9naW1wRW9oMFJpb29ubE04Z2YxR1RzNUhQMTA2cmlteUtlVlNwSGJKbDBJXzlZQWwycjYyUFZqdXFtU0twMWlnQTJDV3EwS2xM?oc=5",
-      "date": "Wed, 17 Jun 2026 02:36:22 GMT",
-      "source": "IT타임스",
-      "score": 2
+      "title": "리플 현실이 된 글로벌 결제 인프라…RLUSD 확장이 만드는 새 판",
+      "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxNOVY0aDZoY3M5SHh3ci10Rjd3SEdLUzZWclFhbVJWOXlVSTFsMzF3MkNMTnJCRVFFdVQ0N2w5NVFYc3F1ZkJmZ1h2cDVVVE5oTTVWdXJWVEFNRzNIa1p2S3lCbUFOdlU5eGh2SXVkalQxZDJSb3BtV2ZjWlUxekNtV2VrM2hIcFAzMGFYRk9ZQjRMa2dqRU41QjdtMEJDUjJnczRzOTNuUER2eFpKYXlGM0ZkanRZY2VCQ3M3WDdPRzhjeV9ZSTM2TFl4S0FwWTdoMkZ3RWtLRVRHbEpxbU1HY3hnOU4yaWM3RmtTUU9neTVkN1JEaHM5bU01LTJSN0ZNbW0xU1IxNmhCYi1rYW9vNDlyVjM4bmFjcVV6YVhCdHRGdFNmS3dyWW5VS19QaHltYm5hYzZWSTNNWTdlckpOOWRSaVhfRmhUajNPT3dQZ3NZbGw5c2NyQzFLaW5FZjI3OUdEYW13dG53NzRwSWxWeEhwcWY1SHNDeDk4UlNRZ0dENGhZT2FEYw?oc=5",
+      "date": "Wed, 17 Jun 2026 07:00:00 GMT",
+      "source": "MSN",
+      "score": 3
     },
     {
-      "title": "리플, 기업 재무 시스템 내 XRP·RLUSD 직접 통합 방식 전격 공개",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUVdGQTdyUHVIMUw1UDRJemdIcFlOQ0U2QlFPVl9MdTBhVVF4d3gzU3EtZFZVWDFmN2R3QU5hb1lfekVYd0JYMG14SjdTbFFvYllxc3VGWW8wZ0w3a2VXSURzWHJOSmZ6a0o5SHpIOUlTRnptZ2VQQ1Boa1NIc2dSQXFILU1scERK?oc=5",
-      "date": "Wed, 17 Jun 2026 02:15:17 GMT",
-      "source": "글로벌이코노믹",
-      "score": 3
+      "title": "리플, 기관 재무 계정에 XRP·RLUSD 연결…KYC 한 번으로 연동 OK",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5QUGoxTEJyUjNzS3pvaExLdjVFSU0tZFpVZkJ0NFdaWC16SWJUZU9DTW8zVVFzclc4SWlYRkRKa1NWdTRoR1ZnazVaNzY2VU5CcGZtemNrZkZfT2lBYWJVNjlndVlnMVh3M2N5eVhjd0tzdjA?oc=5",
+      "date": "Wed, 17 Jun 2026 02:35:00 GMT",
+      "source": "디지털투데이",
+      "score": 4
     }
   ]
 }
