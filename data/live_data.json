@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-19T21:41:59",
+  "generated_at": "2026-06-19T22:46:28",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.13,
-    "price_krw": 1725.37,
-    "price_change_24h": -1.11919,
-    "price_change_7d": -0.1155,
-    "price_change_30d": -17.4706,
-    "market_cap_usd": 70086504762,
+    "price_krw": 1731.48,
+    "price_change_24h": -1.05166,
+    "price_change_7d": 0.17584,
+    "price_change_30d": -17.17841,
+    "market_cap_usd": 70328561592,
     "market_cap_rank": 6,
-    "volume_24h": 1383296951,
+    "volume_24h": 1367842638,
     "circulating_supply": 62053900985.0,
     "total_supply": 99985653167.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 58.75,
-    "sentiment_votes_down": 41.25,
+    "sentiment_votes_up": 64.94,
+    "sentiment_votes_down": 35.06,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 15.21,
-    "recent_tps": 15.21,
-    "recent_tx_count": 1247,
+    "tps_24h_avg": 17.54,
+    "recent_tps": 17.54,
+    "recent_tx_count": 1438,
     "recent_ledger_count": 24,
     "recent_window_sec": 82,
-    "ledger_seq": 105039256,
+    "ledger_seq": 105040267,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-19 21:41:51 KST",
+    "updated_at": "2026-06-19 22:46:19 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 2550000,
     "total_net_inflow_usd": 2550000,
     "total_value_traded_usd": 2550000,
-    "updated_at": "SoSoValue 순유입 부분 수집 06/19 21:41",
+    "updated_at": "SoSoValue 순유입 부분 수집 06/19 22:46",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -60,6 +60,13 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU2NqdTZtUDVzS25JNGZZOEFGR1o1VWNfbGQ3MTlDbEJFWnhUaDJOQWx6Y3NlTXMyM0o2ZUZQOTI2WFpWdU1hUFE2WEswZUZvTWU5RTZRckZBN3dJYkN5cTh5aXhNUU9nQUhHdUpzaEd4QS11STZJOUtKcXdQeUZpZjM5SjYyRkR1U1NQVg?oc=5",
       "date": "Thu, 18 Jun 2026 23:53:49 GMT",
       "source": "네이버 프리미엄콘텐츠",
+      "score": 0
+    },
+    {
+      "title": "플라즈마 21% 급등·비트코인 하락·리플XRP 약세…국채금리 상승에 관망세",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9yQU5fbk9yY1p2RzVhRkhnR05EQlNlU1ppT0FqZTlhTE5Kb2hnal81ckhQbjM0NU1HTjdEMVYyYUpEb2dxVTBFUl9UbkpLWHZnRHBtMEU0OHdQTlUtQTQ0Q0t6TDN5elNsLUJIUHhnX2I5UQ?oc=5",
+      "date": "Wed, 17 Jun 2026 22:42:10 GMT",
+      "source": "톱스타뉴스",
       "score": 0
     },
     {
@@ -82,13 +89,6 @@
       "date": "Tue, 16 Jun 2026 02:17:01 GMT",
       "source": "CBC뉴스",
       "score": 0
-    },
-    {
-      "title": "블랙록은 왜 아직 'XRP ETF'를 내지 않았을까요 — BITA 상장과 리플의 기관·AI 공습",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ19tSVZ5Y3FXUEtyVFF5SXpaM1Y4WEFiYlhEODBkM2R0UmQ3azA5TkREeTdfQS1LUk1WNWZXTmZLSFRMNlV5YjBIV09SNmUxZWlZdEdPbFBBQ25ZNm90cVlzYzEwcUg2Nm1wOGFldnc1T3VQRlkwb3JCRFNxLTJqdU5QWVdTT3UybVJQRQ?oc=5",
-      "date": "Tue, 16 Jun 2026 00:07:00 GMT",
-      "source": "네이버 프리미엄콘텐츠",
-      "score": 0
     }
   ],
   "general_news": [
@@ -107,18 +107,18 @@
       "score": 3
     },
     {
-      "title": "XRP 5% 급락…이스라엘 공격, 트럼프-이란 협상 영향…향후 가격 전망?",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMThWWGs4S2kxbnVzOGtaVjkybGRnVm1KalAwSjE4bmpVaC12NXpNSWYyNXdCVG1yWkl1bzJ2ZDJvRU5oM0t1bkxuTG1TQ0ZVOW53S2FZN3c5cmpLSHlBZnlQTW1YZkQyQTB4NjFIOE5KekVINlZDODV5OExDcDhIcw?oc=5",
-      "date": "Fri, 19 Jun 2026 12:29:47 GMT",
-      "source": "BeInCrypto",
-      "score": 2
-    },
-    {
       "title": "리플(XRP), 송금 코인에서 '금융 인프라'로 — 2026년 6월 최신 흐름 총정리",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTmNINWhCVTBGcWx0V01NZnFxcUxOVlFwdFVXNFZNb2JnT0hUWTRzUjV5TUR0ejg5eTZZZVpIVW80TUtzRDFDUFlSQ1hsNG1uaXRYUkg4cVA1XzJEUzQ5QXI2OWlUSnUxdEtUREtZdU5MNi1HN2FYSnhEeE81a2JQeTJDY0lDRnQtYlV2Tg?oc=5",
       "date": "Fri, 19 Jun 2026 07:32:00 GMT",
       "source": "네이버 프리미엄콘텐츠",
       "score": 3
+    },
+    {
+      "title": "리플코인 XRP는 이미 월가의 결제 실험대에 올랐습니다, 이제 남은 건 '법'입니다",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONDFGS1dWX21YVXA0aWV0OEVGaEFhVzY3bEN4TWRlVFI3LXBKdEhydjgwNlFlWU16ZnladHE1MFNzaVJNeFZlVEFXUmdzUVp5dDM2bk4xdmV0bDR2NDdTc1RsT2ZUUkZTWjN4cGJLUzdWLTdJVElmS2hwUHV6NnBiUlkzSXctcDFDY2ViNw?oc=5",
+      "date": "Fri, 19 Jun 2026 01:29:00 GMT",
+      "source": "네이버 프리미엄콘텐츠",
+      "score": 2
     },
     {
       "title": "리플은 계속 커지는데, 왜 XRP 가격은 안 오를까요? (2026년 6월 심층 분석)",
