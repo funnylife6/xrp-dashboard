@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-19T16:29:03",
+  "generated_at": "2026-06-19T18:17:52",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.14,
-    "price_krw": 1738.3,
-    "price_change_24h": -0.62301,
-    "price_change_7d": 0.04778,
-    "price_change_30d": -17.36337,
-    "market_cap_usd": 70444257311,
+    "price_usd": 1.13,
+    "price_krw": 1734.04,
+    "price_change_24h": -0.69724,
+    "price_change_7d": 0.11303,
+    "price_change_30d": -17.60762,
+    "market_cap_usd": 70234979984,
     "market_cap_rank": 6,
-    "volume_24h": 1668399277,
+    "volume_24h": 1455715485,
     "circulating_supply": 62053900985.0,
     "total_supply": 99985653167.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 56.7,
-    "sentiment_votes_down": 43.3,
+    "sentiment_votes_up": 56.38,
+    "sentiment_votes_down": 43.62,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 16.76,
-    "recent_tps": 16.76,
-    "recent_tx_count": 1492,
+    "tps_24h_avg": 26.32,
+    "recent_tps": 26.32,
+    "recent_tx_count": 2158,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 105034372,
+    "recent_window_sec": 82,
+    "ledger_seq": 105036069,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-19 16:28:57 KST",
+    "updated_at": "2026-06-19 18:17:39 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,11 +43,18 @@
     "aum_usd": 2550000,
     "total_net_inflow_usd": 2550000,
     "total_value_traded_usd": 2550000,
-    "updated_at": "SoSoValue 순유입 부분 수집 06/19 16:29",
+    "updated_at": "SoSoValue 순유입 부분 수집 06/19 18:17",
     "data_source": "sosovalue",
     "partial": true
   },
   "etf_news": [
+    {
+      "title": "ETF 유입 신호 — SOL 및 XRP 스팟 ETF의 상승",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUWN3TE12NTJpSTgzcVRKajZ6Z19sUzlvS0RRY3N2NEdMQzJBUW8yRXdSN0ZxdGtaOTAxQmpJZUV2TWd6MkdBd2dWS2l3VkdYc1VMZ0lBdi1fOW9OOXJJR0RGUWZieW9lWWhNUUVDWjhqWWlTdW52dlJmUkhVT1ZrSA?oc=5",
+      "date": "Fri, 19 Jun 2026 08:55:10 GMT",
+      "source": "Coinfomania",
+      "score": 0
+    },
     {
       "title": "리플은 계속 커지는데, 왜 XRP 가격은 안 오를까요? (2026년 6월 심층 분석)",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU2NqdTZtUDVzS25JNGZZOEFGR1o1VWNfbGQ3MTlDbEJFWnhUaDJOQWx6Y3NlTXMyM0o2ZUZQOTI2WFpWdU1hUFE2WEswZUZvTWU5RTZRckZBN3dJYkN5cTh5aXhNUU9nQUhHdUpzaEd4QS11STZJOUtKcXdQeUZpZjM5SjYyRkR1U1NQVg?oc=5",
@@ -81,13 +88,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56X09wWEl6OE80MGNvWlI2TGVQMG0yZ1RqOU5pUlZMcnJRVnVPT2xoZXI4V0lGeldSRXVYbnN0NmRUMVhaT2RuTlZfS1pBaGZkSGdKOTBrNXJYakEtc01aWDh0cUdhLWVF?oc=5",
       "date": "Tue, 16 Jun 2026 02:17:01 GMT",
       "source": "CBC뉴스",
-      "score": 0
-    },
-    {
-      "title": "블랙록은 왜 아직 'XRP ETF'를 내지 않았을까요 — BITA 상장과 리플의 기관·AI 공습",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ19tSVZ5Y3FXUEtyVFF5SXpaM1Y4WEFiYlhEODBkM2R0UmQ3azA5TkREeTdfQS1LUk1WNWZXTmZLSFRMNlV5YjBIV09SNmUxZWlZdEdPbFBBQ25ZNm90cVlzYzEwcUg2Nm1wOGFldnc1T3VQRlkwb3JCRFNxLTJqdU5QWVdTT3UybVJQRQ?oc=5",
-      "date": "Tue, 16 Jun 2026 00:07:00 GMT",
-      "source": "네이버 프리미엄콘텐츠",
       "score": 0
     }
   ],
