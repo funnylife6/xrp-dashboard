@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-19T05:32:20",
+  "generated_at": "2026-06-19T10:15:47",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.13,
-    "price_krw": 1736.91,
-    "price_change_24h": -2.9981,
-    "price_change_7d": -1.14278,
-    "price_change_30d": -16.64817,
-    "market_cap_usd": 70066887998,
+    "price_usd": 1.12,
+    "price_krw": 1722.11,
+    "price_change_24h": -4.03967,
+    "price_change_7d": -1.97335,
+    "price_change_30d": -17.79583,
+    "market_cap_usd": 69802029132,
     "market_cap_rank": 6,
-    "volume_24h": 1863750051,
+    "volume_24h": 1940205539,
     "circulating_supply": 62053900985.0,
     "total_supply": 99985653167.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 65.48,
-    "sentiment_votes_down": 34.52,
+    "sentiment_votes_up": 55.0,
+    "sentiment_votes_down": 45.0,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 22.17,
-    "recent_tps": 22.17,
-    "recent_tx_count": 1973,
+    "tps_24h_avg": 20.76,
+    "recent_tps": 20.76,
+    "recent_tx_count": 1848,
     "recent_ledger_count": 24,
     "recent_window_sec": 89,
-    "ledger_seq": 105024123,
+    "ledger_seq": 105028544,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-19 05:32:15 KST",
+    "updated_at": "2026-06-19 10:15:36 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 2550000,
     "total_net_inflow_usd": 2550000,
     "total_value_traded_usd": 2550000,
-    "updated_at": "SoSoValue 순유입 부분 수집 06/19 05:32",
+    "updated_at": "SoSoValue 순유입 부분 수집 06/19 10:15",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -93,6 +93,13 @@
   ],
   "general_news": [
     {
+      "title": "리플(XRP), 송금 코인에서 '금융 인프라'로 — 2026년 6월 최신 흐름 총정리",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTmNINWhCVTBGcWx0V01NZnFxcUxOVlFwdFVXNFZNb2JnT0hUWTRzUjV5TUR0ejg5eTZZZVpIVW80TUtzRDFDUFlSQ1hsNG1uaXRYUkg4cVA1XzJEUzQ5QXI2OWlUSnUxdEtUREtZdU5MNi1HN2FYSnhEeE81a2JQeTJDY0lDRnQtYlV2Tg?oc=5",
+      "date": "Fri, 19 Jun 2026 07:32:00 GMT",
+      "source": "네이버 프리미엄콘텐츠",
+      "score": 3
+    },
+    {
       "title": "리플은 계속 커지는데, 왜 XRP 가격은 안 오를까요? (2026년 6월 심층 분석)",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU2NqdTZtUDVzS25JNGZZOEFGR1o1VWNfbGQ3MTlDbEJFWnhUaDJOQWx6Y3NlTXMyM0o2ZUZQOTI2WFpWdU1hUFE2WEswZUZvTWU5RTZRckZBN3dJYkN5cTh5aXhNUU9nQUhHdUpzaEd4QS11STZJOUtKcXdQeUZpZjM5SjYyRkR1U1NQVg?oc=5",
       "date": "Thu, 18 Jun 2026 23:53:49 GMT",
@@ -128,11 +135,11 @@
       "score": 2
     },
     {
-      "title": "리플 현실이 된 글로벌 결제 인프라…RLUSD 확장이 만드는 새 판",
-      "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxNOVY0aDZoY3M5SHh3ci10Rjd3SEdLUzZWclFhbVJWOXlVSTFsMzF3MkNMTnJCRVFFdVQ0N2w5NVFYc3F1ZkJmZ1h2cDVVVE5oTTVWdXJWVEFNRzNIa1p2S3lCbUFOdlU5eGh2SXVkalQxZDJSb3BtV2ZjWlUxekNtV2VrM2hIcFAzMGFYRk9ZQjRMa2dqRU41QjdtMEJDUjJnczRzOTNuUER2eFpKYXlGM0ZkanRZY2VCQ3M3WDdPRzhjeV9ZSTM2TFl4S0FwWTdoMkZ3RWtLRVRHbEpxbU1HY3hnOU4yaWM3RmtTUU9neTVkN1JEaHM5bU01LTJSN0ZNbW0xU1IxNmhCYi1rYW9vNDlyVjM4bmFjcVV6YVhCdHRGdFNmS3dyWW5VS19QaHltYm5hYzZWSTNNWTdlckpOOWRSaVhfRmhUajNPT3dQZ3NZbGw5c2NyQzFLaW5FZjI3OUdEYW13dG53NzRwSWxWeEhwcWY1SHNDeDk4UlNRZ0dENGhZT2FEYw?oc=5",
-      "date": "Thu, 18 Jun 2026 09:36:47 GMT",
-      "source": "MSN",
-      "score": 3
+      "title": "리플, 스웰 2026에 XRPL 행사 통합… 인프라 확장 분기점 될까",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NUC1pb05hMDRJZ3NBT2xaY3hrdjdhVl8zRkI4Qk9CRFpHRlh1aDBvLWJ5a19KTUdOc0xCbW5ucElEX3ktMlkyOVpnaERaQzFMU2Fid0RiRi01a2vSAWBBVV95cUxOaktzNy0tU1EyN3NESTlKaUZ6NlZNb1J0VGN3RzVwTEtxcjNDNE9HSTdkS1NlazhwWndjZXY2dlZ6M2RQN2RndGg0cU1PbFB0Y0t2amFGZ3hWbGh6djdMVkY?oc=5",
+      "date": "Thu, 18 Jun 2026 11:22:49 GMT",
+      "source": "tokenpost.kr",
+      "score": 2
     },
     {
       "title": "XRPL 업그레이드부터 아프리카 결제망까지, 리플 생태계 지금 무슨 일이?",
@@ -147,13 +154,6 @@
       "date": "Thu, 18 Jun 2026 04:58:23 GMT",
       "source": "글로벌이코노믹",
       "score": 2
-    },
-    {
-      "title": "리플, AI 결제·송금·기관 채택 확산…XRP 실사용 다시 주목된다",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JbHdtcDVIUHMtb0haQ1FGTlk4VEllVmhSamh5Z0VEWnM1UjJtcEVjLVFnME0wb1VkY1JTYjE3dTdSd1dnSGFFZnh3al83OVRXZ29sU09YT2RjbF9XeG1JddIBZkFVX3lxTE5OeDJ3NnFraHBmR19Vbzhvb2dBR2R4YlZoTVppbkxYNDZqNGJnai05VmwtTVhwXzY2VnoyNTYyOTZiYnBwaGxxUW5aRkFmSko3bVlaMEtjTGFPbUgxMzJrS3FoanRCQQ?oc=5",
-      "date": "Thu, 18 Jun 2026 03:26:30 GMT",
-      "source": "tokenpost.kr",
-      "score": 4
     },
     {
       "title": "리플(XRP), 1.19달러 저항선 안착 공방전… 단기 방향성 시험대 진입",
