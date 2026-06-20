@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-20T17:53:10",
+  "generated_at": "2026-06-20T19:13:18",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.14,
-    "price_krw": 1744.79,
-    "price_change_24h": 0.62357,
-    "price_change_7d": -0.27863,
-    "price_change_30d": -16.00947,
-    "market_cap_usd": 70849053917,
+    "price_krw": 1743.95,
+    "price_change_24h": 0.97401,
+    "price_change_7d": -0.2986,
+    "price_change_30d": -17.40691,
+    "market_cap_usd": 70802213660,
     "market_cap_rank": 6,
-    "volume_24h": 1049957497,
+    "volume_24h": 1029409309,
     "circulating_supply": 62053900985.0,
     "total_supply": 99985653167.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 73.68,
-    "sentiment_votes_down": 26.32,
+    "sentiment_votes_up": 71.43,
+    "sentiment_votes_down": 28.57,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 20.94,
-    "recent_tps": 20.94,
-    "recent_tx_count": 1885,
+    "tps_24h_avg": 11.66,
+    "recent_tps": 11.66,
+    "recent_tx_count": 956,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 105058219,
+    "recent_window_sec": 82,
+    "ledger_seq": 105059475,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-20 17:52:57 KST",
+    "updated_at": "2026-06-20 19:13:12 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,11 +43,18 @@
     "aum_usd": 2550000,
     "total_net_inflow_usd": 2550000,
     "total_value_traded_usd": 2550000,
-    "updated_at": "SoSoValue 순유입 부분 수집 06/20 17:53",
+    "updated_at": "SoSoValue 순유입 부분 수집 06/20 19:13",
     "data_source": "sosovalue",
     "partial": true
   },
   "etf_news": [
+    {
+      "title": "Ripple XRP(XRPUSD) 종목이 6월20일에 큰 변동이 있었습니다. 변동을 일으킨 주요 변수를 살펴보세요",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZ2FweFhaREVkclZES2ZKS2ZZejctYnFIZHk3MjEtejJrMFVIdkhDS2xUZlIxaFI2NFQtb295OGlsT3dfVzVpSUoyUExxdDJ6NVFoMndDREVaeDZNQ0FfRHpacjQ2cnBjejEyaFdqVGFSMFdWbmk5VWFSZWwzWDF4elFlRDhsR0dCcEx1Vk9yTEMyZw?oc=5",
+      "date": "Sat, 20 Jun 2026 05:16:09 GMT",
+      "source": "TradingKey",
+      "score": 0
+    },
     {
       "title": "ETF 유입 신호 — SOL 및 XRP 스팟 ETF의 상승",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUWN3TE12NTJpSTgzcVRKajZ6Z19sUzlvS0RRY3N2NEdMQzJBUW8yRXdSN0ZxdGtaOTAxQmpJZUV2TWd6MkdBd2dWS2l3VkdYc1VMZ0lBdi1fOW9OOXJJR0RGUWZieW9lWWhNUUVDWjhqWWlTdW52dlJmUkhVT1ZrSA?oc=5",
@@ -82,13 +89,6 @@
       "date": "Tue, 16 Jun 2026 02:17:01 GMT",
       "source": "CBC뉴스",
       "score": 0
-    },
-    {
-      "title": "블랙록은 왜 아직 'XRP ETF'를 내지 않았을까요 — BITA 상장과 리플의 기관·AI 공습",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ19tSVZ5Y3FXUEtyVFF5SXpaM1Y4WEFiYlhEODBkM2R0UmQ3azA5TkREeTdfQS1LUk1WNWZXTmZLSFRMNlV5YjBIV09SNmUxZWlZdEdPbFBBQ25ZNm90cVlzYzEwcUg2Nm1wOGFldnc1T3VQRlkwb3JCRFNxLTJqdU5QWVdTT3UybVJQRQ?oc=5",
-      "date": "Tue, 16 Jun 2026 00:07:00 GMT",
-      "source": "네이버 프리미엄콘텐츠",
-      "score": 0
     }
   ],
   "general_news": [
@@ -112,6 +112,13 @@
       "date": "Sat, 20 Jun 2026 06:35:35 GMT",
       "source": "MSN",
       "score": 4
+    },
+    {
+      "title": "Ripple XRP(XRPUSD) 종목이 6월20일에 큰 변동이 있었습니다. 변동을 일으킨 주요 변수를 살펴보세요",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZ2FweFhaREVkclZES2ZKS2ZZejctYnFIZHk3MjEtejJrMFVIdkhDS2xUZlIxaFI2NFQtb295OGlsT3dfVzVpSUoyUExxdDJ6NVFoMndDREVaeDZNQ0FfRHpacjQ2cnBjejEyaFdqVGFSMFdWbmk5VWFSZWwzWDF4elFlRDhsR0dCcEx1Vk9yTEMyZw?oc=5",
+      "date": "Sat, 20 Jun 2026 05:16:09 GMT",
+      "source": "TradingKey",
+      "score": 2
     },
     {
       "title": "리플 RLUSD, 크로스체인 인프라 스퀴드와 연동…2만개 토큰 접근 가능",
@@ -154,13 +161,6 @@
       "date": "Thu, 18 Jun 2026 20:50:31 GMT",
       "source": "글로벌이코노믹",
       "score": 2
-    },
-    {
-      "title": "XRPL 스테이블코인 시총 10억 달러 육박… 리플 자체 ‘RLUSD’ 독주 체제 심화",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hbHk3WUdkcVQ0VWVfUUpQMFd4Smg2djZWNFdDdS1jZGc0SXVTNk9laUlPRi0yOFdCU1RpbU1mYXktZHFuOVVncDhDRjB2bUJyUDJ1VGN2cHp0Tmd5UC1JdTBIT1VJbFBicUNhRXhuaFo?oc=5",
-      "date": "Thu, 18 Jun 2026 05:17:02 GMT",
-      "source": "블록체인투데이",
-      "score": 3
     }
   ]
 }
