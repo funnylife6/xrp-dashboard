@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-20T22:01:06",
+  "generated_at": "2026-06-20T23:42:17",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.15,
-    "price_krw": 1750.86,
-    "price_change_24h": 1.50014,
-    "price_change_7d": -0.18571,
-    "price_change_30d": -16.70315,
-    "market_cap_usd": 71108944745,
+    "price_krw": 1759.86,
+    "price_change_24h": 1.47782,
+    "price_change_7d": 0.16941,
+    "price_change_30d": -15.99288,
+    "market_cap_usd": 71426909034,
     "market_cap_rank": 6,
-    "volume_24h": 1001356618,
+    "volume_24h": 1025139290,
     "circulating_supply": 62053900985.0,
     "total_supply": 99985653167.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 60.87,
-    "sentiment_votes_down": 39.13,
+    "sentiment_votes_up": 61.76,
+    "sentiment_votes_down": 38.24,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 11.58,
-    "recent_tps": 11.58,
-    "recent_tx_count": 1042,
+    "tps_24h_avg": 36.78,
+    "recent_tps": 36.78,
+    "recent_tx_count": 3016,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 105062112,
+    "recent_window_sec": 82,
+    "ledger_seq": 105063694,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-20 22:00:54 KST",
+    "updated_at": "2026-06-20 23:42:11 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 2550000,
     "total_net_inflow_usd": 2550000,
     "total_value_traded_usd": 2550000,
-    "updated_at": "SoSoValue 순유입 부분 수집 06/20 22:01",
+    "updated_at": "SoSoValue 순유입 부분 수집 06/20 23:42",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -93,17 +93,17 @@
   ],
   "general_news": [
     {
+      "title": "클래리티 법안 美 국회 통과 임박…XRP·XLM 역대급 폭등 랠리 시동 거나",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTVBIcWpHRTBZTW1ITi1DQlRjUkNOZWVwdE5QbFgyU2lWVTdSalNhT2s0V0ZoQkxUeWcxSXNRYzZPVzJNZVkzbnMzZGV1Vjh1NFJ0T0NPODhlQ3luM3N0MnVfMzFJSTVyT1JzdHl2YjhKSXd2dnA4Z2pzRVBoamRBeW5NQlhjOTha?oc=5",
+      "date": "Sat, 20 Jun 2026 22:21:25 GMT",
+      "source": "글로벌이코노믹",
+      "score": 2
+    },
+    {
       "title": "엑스알피(XRP) 시세 반등 시작? 목표가 10달러 '장밋빛 전망'",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfRldSZHpnTzVLMHVEVFJYV2R1bWtZY3o0UWw2TW03MGFoNjRDcTk3WmVIYzY0SW4xNjZ1Q2FCYVczT2psT0hEblR2VEY0eFRBdEIwRlA2c0EzTDBPMFNsaGtMMUNJQ2ZZb1FQVHF3?oc=5",
       "date": "Sat, 20 Jun 2026 15:01:00 GMT",
       "source": "gukjenews.com",
-      "score": 2
-    },
-    {
-      "title": "리플, 1.18달러 무너지면 끝장? 세력들 숨죽이고 타이밍 노리는 이유",
-      "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxQZGp2OENZUlR1cnZKSndDUmpMVUxneWRGanlaRm4zb3IyUTloMW96RzdIc0p1MjVZS0Fxa1BkWFM5eGQ1clgzenFab253UjI3MWMxQmxoR2UwXy1aUHBBZnZ3eVRUNnl6U01BaDkwT2ZfZ1d4WmFHNmE0WXZoRDN3bExGa3ItcjB1RklGQ3czeHE1SkFPcDFKeU8yMVZXc3E3Rm9LMGVGdHl5bEhkTU5IVjhYNlprMUhJalVYNm5IcmoyMTJVcjQ0UzBkVl8tLVFWN0p6SUxYRHBRQ1FyRm53VnRScU8xRWI0SkE4UW1fVHhXSDZFTjlJUkEwcGdRSFZnNGF6UFJkTlJhSzRseGY1SUhVbnFYeXRoZjBpbDZwWWlZamZERjVEQVI4dEpNdm51Q2JWODFLOC1qaFpLSl9HaG9yTnZhWk4yUUJoRllyTmRiU0hhRUYtYk5oX0VQdzRTMWFtQ1ZscEQ3cU1KMTVOX18wb1RBZGRldlBKSzJMY3hfR1hMQUJidmROUWJJdXlCVFN4bTd1VmlxOHk2RkpWQzgxbF83YkthdHc?oc=5",
-      "date": "Sat, 20 Jun 2026 14:35:51 GMT",
-      "source": "MSN",
       "score": 2
     },
     {
@@ -135,6 +135,13 @@
       "score": 2
     },
     {
+      "title": "속보 | BTC $64,000 상회",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE13eXA3N2M1VElkWUhnMGtzNDlzUy1DMTRuNmw2cTVwUDB3a21RdlAwOU5tamJtVXRGQzRLQ3JjOU9QNWt5dW9RdUhhWDh4RWRh?oc=5",
+      "date": "Fri, 19 Jun 2026 22:46:00 GMT",
+      "source": "코인니스",
+      "score": 8
+    },
+    {
       "title": "메테오라 급등·리 상승·리플XRP 하락, 국채금리 상승에 관망세",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mWU03WlNjdzhqNlpRS1lXWHZFR3l0d2NFVjJpRHlXSUl6LVNBU01RUk5Cb0UzSGtPb1FqZjVET19MbDRtM21zTGZzV3hsaUU1b19HczNVc2hVR1p2b21QeDJOWmhUdzNFSjl1YlJuRTBuUQ?oc=5",
       "date": "Fri, 19 Jun 2026 22:42:29 GMT",
@@ -154,13 +161,6 @@
       "date": "Fri, 19 Jun 2026 07:32:00 GMT",
       "source": "네이버 프리미엄콘텐츠",
       "score": 3
-    },
-    {
-      "title": "리플(XRP)의 스테이블코인 RLUSD, 기관 투자자의 선택을 받는 이유",
-      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxOLU1RV2lGUzVQRXNWTG1lWG1Yd2JhSjhyRS1WRjJGOEJscC1LMVYtTTJ5alJTaW5CcVVBTG9DNGhDNVIxQjZic3FXU2RxRmhLWl93a0YtdVNkNUx3ajJmaVJ2RkhHd01tTXRrSjZXM0tNcG03MHowczFvdjFybXN4N2hObmg2ckZjT0VIZFl1dnR3REdiZWhfTmMwakVCZWN6dW1kNVZWc2o1YTY0TTNydm44NFlRWUJtNEVtMldKbVZabjVWMEIwZ3F3UEVkLU1sMDBRclZVR3gtZTA2ZE9VM1lOb0tvY253aVFPUmZFZExmSTlldUFnYzZjYmJocEszTkNWMnJYZDlYUi0tS2pxNmpMVklnUXlBbkZQQTVPRm4tNzBjVDB1eFlfQklMYkQ2RWo1cWVFc043SGp4b3Vrd0ZJUWxySHpfTlRLUUtjeUliNUx6dVFIMDRMQ0VKNGZXVjdheDlvSUdVY3hYVXZ1MkJoajBoY19zbVAtMW5UVWxPQmVTb1luN1V1RUE?oc=5",
-      "date": "Fri, 19 Jun 2026 07:00:00 GMT",
-      "source": "MSN",
-      "score": 4
     }
   ]
 }
