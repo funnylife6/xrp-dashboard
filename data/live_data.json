@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-20T12:24:43",
+  "generated_at": "2026-06-20T14:39:03",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.15,
-    "price_krw": 1755.19,
-    "price_change_24h": 2.08508,
-    "price_change_7d": 0.01147,
-    "price_change_30d": -15.83578,
-    "market_cap_usd": 71178213711,
+    "price_usd": 1.14,
+    "price_krw": 1738.75,
+    "price_change_24h": -0.22823,
+    "price_change_7d": -1.29731,
+    "price_change_30d": -16.46289,
+    "market_cap_usd": 70507413197,
     "market_cap_rank": 6,
-    "volume_24h": 1019969663,
+    "volume_24h": 991232368,
     "circulating_supply": 62053900985.0,
     "total_supply": 99985653167.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 64.62,
-    "sentiment_votes_down": 35.38,
+    "sentiment_votes_up": 62.26,
+    "sentiment_votes_down": 37.74,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 15.21,
-    "recent_tps": 15.21,
-    "recent_tx_count": 1354,
+    "tps_24h_avg": 18.57,
+    "recent_tps": 18.57,
+    "recent_tx_count": 1671,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 105053118,
+    "recent_window_sec": 90,
+    "ledger_seq": 105055202,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-20 12:24:32 KST",
+    "updated_at": "2026-06-20 14:38:50 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,11 +43,18 @@
     "aum_usd": 2550000,
     "total_net_inflow_usd": 2550000,
     "total_value_traded_usd": 2550000,
-    "updated_at": "SoSoValue 순유입 부분 수집 06/20 12:24",
+    "updated_at": "SoSoValue 순유입 부분 수집 06/20 14:39",
     "data_source": "sosovalue",
     "partial": true
   },
   "etf_news": [
+    {
+      "title": "ETF 유입 신호 — SOL 및 XRP 스팟 ETF의 상승",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUWN3TE12NTJpSTgzcVRKajZ6Z19sUzlvS0RRY3N2NEdMQzJBUW8yRXdSN0ZxdGtaOTAxQmpJZUV2TWd6MkdBd2dWS2l3VkdYc1VMZ0lBdi1fOW9OOXJJR0RGUWZieW9lWWhNUUVDWjhqWWlTdW52dlJmUkhVT1ZrSA?oc=5",
+      "date": "Fri, 19 Jun 2026 08:55:10 GMT",
+      "source": "Coinfomania",
+      "score": 0
+    },
     {
       "title": "비트코인·이더리움 뺨 때린 XRP ETF 유입… 가상자산 패권 뒤집히나",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1jampUanZTc3NjeVJ2QzE5cmJzMEhzQWJ2dC1zbnAxZkpnVE1NWDZTSzVLZkxkMlBYeHp4d2NKZFlSeEJnMTRoWm9ZMGFBRUF5d3UwZWl4b0xmYnZhR251aGp2anp3dVZiSlJsM2g1UUdFdTjSAXdBVV95cUxQeXAxQ0cyYlBoS0hNby1LNWZKSWxvdV9uQXl4aWE1bjRESWMzb0hBYWFUWHhENG9CVHNBQTZ6bXY3Umh5M0FsTWFqZGhnSkNUYWFyWnQxQjVDTEtGOW5ZbGxqVEhNbmN6UlJlaXQ3R2pCMUtzR2Fvdw?oc=5",
@@ -82,23 +89,9 @@
       "date": "Tue, 16 Jun 2026 00:07:00 GMT",
       "source": "네이버 프리미엄콘텐츠",
       "score": 0
-    },
-    {
-      "title": "리플(XRP), 현물 ETF 유입서 비트코인·이더리움 역전… 1.4달러 정조준",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOFFraFlDY1B4b0s0MUFwdTMtT0tGemtwY3g0Zy1mcjhBUlJROXlyUnZ1eTkzQUFjRzVPZGJpb2h0MzhRd2xwZ1cyOGxfVEs1eGZFMU9DYkFpNFJGSm42YVlCdkR4U0lnOXBNMW9KdGg4aVBMYWtXUkNiVGE3dVZSS0E2azJURFdK?oc=5",
-      "date": "Mon, 15 Jun 2026 20:46:21 GMT",
-      "source": "글로벌이코노믹",
-      "score": 0
     }
   ],
   "general_news": [
-    {
-      "title": "리플 효과 흔들리나…스텔라(XLM) 급등, XRP는 정체",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE15TXdyR09RRnlWbzJwWmN4QzByMWlCVTQwNE1MUWNOSkRkSlFIYVlYY3hLeXdVVjV0Z3ZVSUhIWThTZ0R3NExObG1fczBPWUxkaDZzem9lR3Q0UGd5TXlVTm9yM1l1NFhfUTVYMXFhcWhiQ28?oc=5",
-      "date": "Sat, 20 Jun 2026 11:04:15 GMT",
-      "source": "디지털투데이",
-      "score": 2
-    },
     {
       "title": "RLUSD 활용성 확대…스퀴드, 리플XRP 스테이블코인 크로스체인 스왑 지원",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYME4teFZucUM1aHBYVVl3eUdzeGJZdnBDeWdvUzlkWnJ3ZUNhdy1nZGMyZlBEMklWRGxIdk1IR1p3bWJuZ000T3VNdjJHWkhwMnlyU2NrMDRYSldqVlJaQVVSaUlieG1R?oc=5",
@@ -107,11 +100,11 @@
       "score": 3
     },
     {
-      "title": "XRP, 연초 대비 40% 하락하며 사이클 저점 경계선에 서다",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yRFkxY05RY29xZl9McTNGUXFkSFk1N2JWUlI0bk56d1ZuZDFxbTl2LVN2WjZDSjgyXzlsby1MMmJ0TWxFaGYweGEzRW5nbW0xQV9SSXo5N1RnQU1FUHZKTdIBZkFVX3lxTE1SRDg4UmVyVDNicWlWZHd6MzBGVjRpNU1FWGhuV01yM09uLUVwY3MyTzR3LUhLVF85ZWNySlB1VllyVlVYNktSdEJhT183N2drWm84djRIeVE5OGdDV0UtSHhTZnhlQQ?oc=5",
-      "date": "Sat, 20 Jun 2026 05:07:43 GMT",
-      "source": "tokenpost.kr",
-      "score": 2
+      "title": "리플 RLUSD, 크로스체인 인프라 스퀴드와 연동…2만개 토큰 접근 가능",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBZWUd6dVNCVXNheGhFZkdsdEhOa3Q5eHlXRU1weUlIS0VtZXJNV0FZdDEzWTlwRGZESHJ1Qy01d3BjLUNLR0tvT0c5WjF4Q0FGMng0SFBrWVp6R2YtT2hpa0tzUTROb3lhbTRQSjlqcjVoY1U?oc=5",
+      "date": "Sat, 20 Jun 2026 04:14:12 GMT",
+      "source": "디지털투데이",
+      "score": 3
     },
     {
       "title": "비트코인 9590만 원대 약보합… 가상자산 시장서 리플 주목도",
@@ -132,6 +125,13 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mWU03WlNjdzhqNlpRS1lXWHZFR3l0d2NFVjJpRHlXSUl6LVNBU01RUk5Cb0UzSGtPb1FqZjVET19MbDRtM21zTGZzV3hsaUU1b19HczNVc2hVR1p2b21QeDJOWmhUdzNFSjl1YlJuRTBuUQ?oc=5",
       "date": "Fri, 19 Jun 2026 22:42:29 GMT",
       "source": "톱스타뉴스",
+      "score": 2
+    },
+    {
+      "title": "리플 시장 지배력 폭발, 비트코인 왕좌 위협하나?",
+      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxONnlsWk9FV012SFNicXF2SlpXTFZIWlFxeDBfRjUtRzNjRHlKNExpR0tpTWJhemNOc2xfZ21HTGlaMDF1ck5sWVd0aVE0RjZjVENEMVYtajBvQ3RaeTNVTURETXhRN3l3QXlXVWVnajZFdVRXTjQ0YWttVUkyYWs2VGU3bHJvTi1BX0dCcHVIaTBkd3JwVUZfZFV5ZEt4VFBONFh4NGJxOVlDX1plRHdUTXhVYTNaSWxianhvckJadi1qU0JDSkNEeWVBMTZrXzVhb09icmd2WHZDT21KRUlHRE4wS04xVGNTSjFwcG1WNW93dU1URkhyRmlPMERZbkhMakNaZUZHMnV2enhxM2h4Ny15cTZNU2V6MXdzaFlMQWhYdk9KcUpndVpxaXlJQVU0SzFydk5XMFdvTUxTOTIzOVI3X0VRSXJFNG5XZG05dFNXQUdFMHYzZEhn?oc=5",
+      "date": "Fri, 19 Jun 2026 17:15:53 GMT",
+      "source": "MSN",
       "score": 2
     },
     {
@@ -156,11 +156,11 @@
       "score": 2
     },
     {
-      "title": "가장 빠르고 정확한 코인 투자 뉴스, 커뮤니티",
-      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE4xaEg2ZEswRGRFMHA3WVlZMXFhNlBqbHNYSWRMRV8wNjRGVTVIb29WbG1MWmdtZTBJZzBZZ0xB?oc=5",
-      "date": "Thu, 18 Jun 2026 06:04:00 GMT",
-      "source": "coinness.com",
-      "score": 8
+      "title": "XRPL 스테이블코인 시총 10억 달러 육박… 리플 자체 ‘RLUSD’ 독주 체제 심화",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hbHk3WUdkcVQ0VWVfUUpQMFd4Smg2djZWNFdDdS1jZGc0SXVTNk9laUlPRi0yOFdCU1RpbU1mYXktZHFuOVVncDhDRjB2bUJyUDJ1VGN2cHp0Tmd5UC1JdTBIT1VJbFBicUNhRXhuaFo?oc=5",
+      "date": "Thu, 18 Jun 2026 05:17:02 GMT",
+      "source": "블록체인투데이",
+      "score": 3
     }
   ]
 }
