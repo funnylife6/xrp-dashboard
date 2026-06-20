@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-20T10:45:22",
+  "generated_at": "2026-06-20T12:24:43",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.15,
-    "price_krw": 1754.62,
-    "price_change_24h": 2.25789,
-    "price_change_7d": 0.31649,
-    "price_change_30d": -16.49272,
-    "market_cap_usd": 71207620103,
+    "price_krw": 1755.19,
+    "price_change_24h": 2.08508,
+    "price_change_7d": 0.01147,
+    "price_change_30d": -15.83578,
+    "market_cap_usd": 71178213711,
     "market_cap_rank": 6,
-    "volume_24h": 1090547957,
+    "volume_24h": 1019969663,
     "circulating_supply": 62053900985.0,
     "total_supply": 99985653167.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 68.25,
-    "sentiment_votes_down": 31.75,
+    "sentiment_votes_up": 64.62,
+    "sentiment_votes_down": 35.38,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 19.57,
-    "recent_tps": 19.57,
-    "recent_tx_count": 1605,
+    "tps_24h_avg": 15.21,
+    "recent_tps": 15.21,
+    "recent_tx_count": 1354,
     "recent_ledger_count": 24,
-    "recent_window_sec": 82,
-    "ledger_seq": 105051557,
+    "recent_window_sec": 89,
+    "ledger_seq": 105053118,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-20 10:45:10 KST",
+    "updated_at": "2026-06-20 12:24:32 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,18 +43,11 @@
     "aum_usd": 2550000,
     "total_net_inflow_usd": 2550000,
     "total_value_traded_usd": 2550000,
-    "updated_at": "SoSoValue 순유입 부분 수집 06/20 10:45",
+    "updated_at": "SoSoValue 순유입 부분 수집 06/20 12:24",
     "data_source": "sosovalue",
     "partial": true
   },
   "etf_news": [
-    {
-      "title": "ETF 유입 신호 — SOL 및 XRP 스팟 ETF의 상승",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUWN3TE12NTJpSTgzcVRKajZ6Z19sUzlvS0RRY3N2NEdMQzJBUW8yRXdSN0ZxdGtaOTAxQmpJZUV2TWd6MkdBd2dWS2l3VkdYc1VMZ0lBdi1fOW9OOXJJR0RGUWZieW9lWWhNUUVDWjhqWWlTdW52dlJmUkhVT1ZrSA?oc=5",
-      "date": "Fri, 19 Jun 2026 08:55:10 GMT",
-      "source": "Coinfomania",
-      "score": 0
-    },
     {
       "title": "비트코인·이더리움 뺨 때린 XRP ETF 유입… 가상자산 패권 뒤집히나",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1jampUanZTc3NjeVJ2QzE5cmJzMEhzQWJ2dC1zbnAxZkpnVE1NWDZTSzVLZkxkMlBYeHp4d2NKZFlSeEJnMTRoWm9ZMGFBRUF5d3UwZWl4b0xmYnZhR251aGp2anp3dVZiSlJsM2g1UUdFdTjSAXdBVV95cUxQeXAxQ0cyYlBoS0hNby1LNWZKSWxvdV9uQXl4aWE1bjRESWMzb0hBYWFUWHhENG9CVHNBQTZ6bXY3Umh5M0FsTWFqZGhnSkNUYWFyWnQxQjVDTEtGOW5ZbGxqVEhNbmN6UlJlaXQ3R2pCMUtzR2Fvdw?oc=5",
@@ -89,9 +82,23 @@
       "date": "Tue, 16 Jun 2026 00:07:00 GMT",
       "source": "네이버 프리미엄콘텐츠",
       "score": 0
+    },
+    {
+      "title": "리플(XRP), 현물 ETF 유입서 비트코인·이더리움 역전… 1.4달러 정조준",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOFFraFlDY1B4b0s0MUFwdTMtT0tGemtwY3g0Zy1mcjhBUlJROXlyUnZ1eTkzQUFjRzVPZGJpb2h0MzhRd2xwZ1cyOGxfVEs1eGZFMU9DYkFpNFJGSm42YVlCdkR4U0lnOXBNMW9KdGg4aVBMYWtXUkNiVGE3dVZSS0E2azJURFdK?oc=5",
+      "date": "Mon, 15 Jun 2026 20:46:21 GMT",
+      "source": "글로벌이코노믹",
+      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "리플 효과 흔들리나…스텔라(XLM) 급등, XRP는 정체",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE15TXdyR09RRnlWbzJwWmN4QzByMWlCVTQwNE1MUWNOSkRkSlFIYVlYY3hLeXdVVjV0Z3ZVSUhIWThTZ0R3NExObG1fczBPWUxkaDZzem9lR3Q0UGd5TXlVTm9yM1l1NFhfUTVYMXFhcWhiQ28?oc=5",
+      "date": "Sat, 20 Jun 2026 11:04:15 GMT",
+      "source": "디지털투데이",
+      "score": 2
+    },
     {
       "title": "RLUSD 활용성 확대…스퀴드, 리플XRP 스테이블코인 크로스체인 스왑 지원",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYME4teFZucUM1aHBYVVl3eUdzeGJZdnBDeWdvUzlkWnJ3ZUNhdy1nZGMyZlBEMklWRGxIdk1IR1p3bWJuZ000T3VNdjJHWkhwMnlyU2NrMDRYSldqVlJaQVVSaUlieG1R?oc=5",
@@ -128,27 +135,6 @@
       "score": 2
     },
     {
-      "title": "리플(XRP), 7월까지 더 떨어질까? AI가 내놓은 충격 전망",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9CVUVteGFSU1pmMDZZNGQ3YTdxMjU5VEZzSm81UV9Xa1pvVmliaU5JWFRYclU4V1BFLWhqYXozVzZvUFBYdlZwMXNR?oc=5",
-      "date": "Fri, 19 Jun 2026 22:28:00 GMT",
-      "source": "코인리더스",
-      "score": 2
-    },
-    {
-      "title": "속보 | 자오창펑 \"비트코인 50% 하락 드문 일 아냐..사이클마다 저점·고점 높아지고 있다\"",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBKWFBLdUxZUk1SNHZKM3o1cHdJU1dmMU1DQVJQWWxYbVlseDNRd25lMGRxeWk1SmRHc0ZNOXFNOG9jZlBZc09haWlfcTY5YUNP?oc=5",
-      "date": "Fri, 19 Jun 2026 15:04:00 GMT",
-      "source": "코인니스",
-      "score": 8
-    },
-    {
-      "title": "속보 | 전문가 \"가상자산 과세, 현행 주식 과세체계 형평성 논의 불가피\"",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00UGZoc1ZJM2RHU0ZDOUtjMXRvcmg0SmdrMmZOUmVRQTduNEg2Z3NESXBZYzhjR0hnRzJzNUxMUkRET3J2VmNBVmkyc2YycUlE?oc=5",
-      "date": "Fri, 19 Jun 2026 14:29:00 GMT",
-      "source": "코인니스",
-      "score": 8
-    },
-    {
       "title": "리플(XRP), 송금 코인에서 '금융 인프라'로 — 2026년 6월 최신 흐름 총정리",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTmNINWhCVTBGcWx0V01NZnFxcUxOVlFwdFVXNFZNb2JnT0hUWTRzUjV5TUR0ejg5eTZZZVpIVW80TUtzRDFDUFlSQ1hsNG1uaXRYUkg4cVA1XzJEUzQ5QXI2OWlUSnUxdEtUREtZdU5MNi1HN2FYSnhEeE81a2JQeTJDY0lDRnQtYlV2Tg?oc=5",
       "date": "Fri, 19 Jun 2026 07:32:00 GMT",
@@ -161,6 +147,20 @@
       "date": "Fri, 19 Jun 2026 00:45:00 GMT",
       "source": "네이버 프리미엄콘텐츠",
       "score": 3
+    },
+    {
+      "title": "\"완만한 우상향은 없다\"… 블랙스완 창립자, 리플(XRP) '폭력적 랠리' 확신하는 이유",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVEpFUDdEZUEzeEkwR0tyal9aazJIekJwaVJTLWxQWWtkdUw2RnQzS1lGSTdhdXVaVnRKNVZjay1QcjEzSDV1bG9xVGU3SVZKeDd1MWJPczBIamZDX1gtVi02RnA0b00tZVZqd1lsS2F3anpxMlY0TWxNMUk5QkI0cDJyNGJMWHBt?oc=5",
+      "date": "Thu, 18 Jun 2026 20:50:31 GMT",
+      "source": "글로벌이코노믹",
+      "score": 2
+    },
+    {
+      "title": "가장 빠르고 정확한 코인 투자 뉴스, 커뮤니티",
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE4xaEg2ZEswRGRFMHA3WVlZMXFhNlBqbHNYSWRMRV8wNjRGVTVIb29WbG1MWmdtZTBJZzBZZ0xB?oc=5",
+      "date": "Thu, 18 Jun 2026 06:04:00 GMT",
+      "source": "coinness.com",
+      "score": 8
     }
   ]
 }
