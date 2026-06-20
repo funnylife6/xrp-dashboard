@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-20T08:18:42",
+  "generated_at": "2026-06-20T10:45:22",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.15,
-    "price_krw": 1750.18,
-    "price_change_24h": 1.76123,
-    "price_change_7d": 0.76098,
-    "price_change_30d": -16.33905,
-    "market_cap_usd": 71071662212,
+    "price_krw": 1754.62,
+    "price_change_24h": 2.25789,
+    "price_change_7d": 0.31649,
+    "price_change_30d": -16.49272,
+    "market_cap_usd": 71207620103,
     "market_cap_rank": 6,
-    "volume_24h": 1223955928,
+    "volume_24h": 1090547957,
     "circulating_supply": 62053900985.0,
     "total_supply": 99985653167.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 66.67,
-    "sentiment_votes_down": 33.33,
+    "sentiment_votes_up": 68.25,
+    "sentiment_votes_down": 31.75,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 15.41,
-    "recent_tps": 15.41,
-    "recent_tx_count": 1387,
+    "tps_24h_avg": 19.57,
+    "recent_tps": 19.57,
+    "recent_tx_count": 1605,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 105049246,
+    "recent_window_sec": 82,
+    "ledger_seq": 105051557,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-20 08:18:35 KST",
+    "updated_at": "2026-06-20 10:45:10 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 2550000,
     "total_net_inflow_usd": 2550000,
     "total_value_traded_usd": 2550000,
-    "updated_at": "SoSoValue 순유입 부분 수집 06/20 08:18",
+    "updated_at": "SoSoValue 순유입 부분 수집 06/20 10:45",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -100,67 +100,67 @@
       "score": 3
     },
     {
-      "title": "속보 | 주기영 \"BTC 상승 따른 알트시즌 시대 끝났을 수도\"",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ocXpIYXVOeE13eG5ScWNreVZHbGFxV1pKRE9HTlczYmIwQ1JMS3BVRXg1WHpXTHc3Nm83MFp5dXZ1VTNrMTVzd2dud2wyTWpR?oc=5",
-      "date": "Fri, 19 Jun 2026 10:33:00 GMT",
+      "title": "XRP, 연초 대비 40% 하락하며 사이클 저점 경계선에 서다",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yRFkxY05RY29xZl9McTNGUXFkSFk1N2JWUlI0bk56d1ZuZDFxbTl2LVN2WjZDSjgyXzlsby1MMmJ0TWxFaGYweGEzRW5nbW0xQV9SSXo5N1RnQU1FUHZKTdIBZkFVX3lxTE1SRDg4UmVyVDNicWlWZHd6MzBGVjRpNU1FWGhuV01yM09uLUVwY3MyTzR3LUhLVF85ZWNySlB1VllyVlVYNktSdEJhT183N2drWm84djRIeVE5OGdDV0UtSHhTZnhlQQ?oc=5",
+      "date": "Sat, 20 Jun 2026 05:07:43 GMT",
+      "source": "tokenpost.kr",
+      "score": 2
+    },
+    {
+      "title": "비트코인 9590만 원대 약보합… 가상자산 시장서 리플 주목도",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE42c2dzU1d2bWU4Vkx0cHhDV0piRGNFa1RESG9YeFlYM3B6NnE1RWY1d3BMWEJOS0J4RnhtYTcwVE9IaWJwX19ueDBhSndmdkhYYlZWT2YzUHlQWElUZE9nWTFNaGo3Nm1hUjRRcm9n?oc=5",
+      "date": "Sat, 20 Jun 2026 01:15:19 GMT",
+      "source": "gukjenews.com",
+      "score": 2
+    },
+    {
+      "title": "리플 XRP 94센트를 보세요! 지키면 반등, 깨지면 더 깊은 하락",
+      "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxOYVJfU3dJNk5OSThyZHI5Zk1ycmVudjh4S3lpOUlmVm81Zi1LekhHVlFWekF1QnlhS3QxWTcxV1Y4b1J2R0V3RkNDV1hYNEZtTE5ybE9nSXdRQ2V3Mzg5TEVjRXZ1eGVwMmdiZmEzZEo3dnhMT05HeURHVzVQOUxoX2t1dEd5dy16dHBuQUo1MWtTUjR0V2oxT0tDR1l0ckxzcEtobXZISjU1Sm5FWGMtM2g5Wnh1Y2NDTEpROG9kdDdhZ2VreU9FdS05aU5NbktfaHA1Y19SbXZESU9ac3g4Z1ZDd1EwNkkzaTgxeG95YWFkcWxjWlFHUmtIdGZZMWNyZTVhUWo3aGRHcDFaMXI3M19BWVU4Mml4aHpMODI1ZGZKb0t6VVFoNnplNzZ2RWhMWGpwTDk1M3kwQTBQam5pMGdERUxjMWJZNnRsWm1HdWs1LVdkTU42bWF6STZtWm1LaDlIb0d1UDYtdDhaMk5VbHY4ckZ2QzU4YzBSRA?oc=5",
+      "date": "Sat, 20 Jun 2026 00:15:55 GMT",
+      "source": "MSN",
+      "score": 2
+    },
+    {
+      "title": "메테오라 급등·리 상승·리플XRP 하락, 국채금리 상승에 관망세",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mWU03WlNjdzhqNlpRS1lXWHZFR3l0d2NFVjJpRHlXSUl6LVNBU01RUk5Cb0UzSGtPb1FqZjVET19MbDRtM21zTGZzV3hsaUU1b19HczNVc2hVR1p2b21QeDJOWmhUdzNFSjl1YlJuRTBuUQ?oc=5",
+      "date": "Fri, 19 Jun 2026 22:42:29 GMT",
+      "source": "톱스타뉴스",
+      "score": 2
+    },
+    {
+      "title": "리플(XRP), 7월까지 더 떨어질까? AI가 내놓은 충격 전망",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9CVUVteGFSU1pmMDZZNGQ3YTdxMjU5VEZzSm81UV9Xa1pvVmliaU5JWFRYclU4V1BFLWhqYXozVzZvUFBYdlZwMXNR?oc=5",
+      "date": "Fri, 19 Jun 2026 22:28:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
+      "title": "속보 | 자오창펑 \"비트코인 50% 하락 드문 일 아냐..사이클마다 저점·고점 높아지고 있다\"",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBKWFBLdUxZUk1SNHZKM3o1cHdJU1dmMU1DQVJQWWxYbVlseDNRd25lMGRxeWk1SmRHc0ZNOXFNOG9jZlBZc09haWlfcTY5YUNP?oc=5",
+      "date": "Fri, 19 Jun 2026 15:04:00 GMT",
       "source": "코인니스",
       "score": 8
     },
     {
-      "title": "XRPL 스테이블코인 시총 10억 달러 육박… 리플 자체 ‘RLUSD’ 독주 체제 심화",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hbHk3WUdkcVQ0VWVfUUpQMFd4Smg2djZWNFdDdS1jZGc0SXVTNk9laUlPRi0yOFdCU1RpbU1mYXktZHFuOVVncDhDRjB2bUJyUDJ1VGN2cHp0Tmd5UC1JdTBIT1VJbFBicUNhRXhuaFo?oc=5",
-      "date": "Thu, 18 Jun 2026 05:17:02 GMT",
-      "source": "블록체인투데이",
-      "score": 3
+      "title": "속보 | 전문가 \"가상자산 과세, 현행 주식 과세체계 형평성 논의 불가피\"",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00UGZoc1ZJM2RHU0ZDOUtjMXRvcmg0SmdrMmZOUmVRQTduNEg2Z3NESXBZYzhjR0hnRzJzNUxMUkRET3J2VmNBVmkyc2YycUlE?oc=5",
+      "date": "Fri, 19 Jun 2026 14:29:00 GMT",
+      "source": "코인니스",
+      "score": 8
     },
     {
-      "title": "비트코인·이더리움 뺨 때린 XRP ETF 유입… 가상자산 패권 뒤집히나",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1jampUanZTc3NjeVJ2QzE5cmJzMEhzQWJ2dC1zbnAxZkpnVE1NWDZTSzVLZkxkMlBYeHp4d2NKZFlSeEJnMTRoWm9ZMGFBRUF5d3UwZWl4b0xmYnZhR251aGp2anp3dVZiSlJsM2g1UUdFdTjSAXdBVV95cUxQeXAxQ0cyYlBoS0hNby1LNWZKSWxvdV9uQXl4aWE1bjRESWMzb0hBYWFUWHhENG9CVHNBQTZ6bXY3Umh5M0FsTWFqZGhnSkNUYWFyWnQxQjVDTEtGOW5ZbGxqVEhNbmN6UlJlaXQ3R2pCMUtzR2Fvdw?oc=5",
-      "date": "Wed, 17 Jun 2026 10:30:00 GMT",
-      "source": "핀포인트뉴스",
-      "score": 2
-    },
-    {
-      "title": "리플은 계속 커지는데, 왜 XRP 가격은 안 오를까요? (2026년 6월 심층 분석)",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU2NqdTZtUDVzS25JNGZZOEFGR1o1VWNfbGQ3MTlDbEJFWnhUaDJOQWx6Y3NlTXMyM0o2ZUZQOTI2WFpWdU1hUFE2WEswZUZvTWU5RTZRckZBN3dJYkN5cTh5aXhNUU9nQUhHdUpzaEd4QS11STZJOUtKcXdQeUZpZjM5SjYyRkR1U1NQVg?oc=5",
-      "date": "Wed, 17 Jun 2026 06:00:00 GMT",
+      "title": "리플(XRP), 송금 코인에서 '금융 인프라'로 — 2026년 6월 최신 흐름 총정리",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTmNINWhCVTBGcWx0V01NZnFxcUxOVlFwdFVXNFZNb2JnT0hUWTRzUjV5TUR0ejg5eTZZZVpIVW80TUtzRDFDUFlSQ1hsNG1uaXRYUkg4cVA1XzJEUzQ5QXI2OWlUSnUxdEtUREtZdU5MNi1HN2FYSnhEeE81a2JQeTJDY0lDRnQtYlV2Tg?oc=5",
+      "date": "Fri, 19 Jun 2026 07:32:00 GMT",
       "source": "네이버 프리미엄콘텐츠",
       "score": 3
     },
     {
-      "title": "리플, 기관 재무 계정에 XRP·RLUSD 연결…KYC 한 번으로 연동 OK",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5QUGoxTEJyUjNzS3pvaExLdjVFSU0tZFpVZkJ0NFdaWC16SWJUZU9DTW8zVVFzclc4SWlYRkRKa1NWdTRoR1ZnazVaNzY2VU5CcGZtemNrZkZfT2lBYWJVNjlndVlnMVh3M2N5eVhjd0tzdjA?oc=5",
-      "date": "Wed, 17 Jun 2026 02:35:00 GMT",
-      "source": "디지털투데이",
-      "score": 4
-    },
-    {
-      "title": "리플, 기업 재무 시스템 내 XRP·RLUSD 직접 통합 방식 전격 공개",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUVdGQTdyUHVIMUw1UDRJemdIcFlOQ0U2QlFPVl9MdTBhVVF4d3gzU3EtZFZVWDFmN2R3QU5hb1lfekVYd0JYMG14SjdTbFFvYllxc3VGWW8wZ0w3a2VXSURzWHJOSmZ6a0o5SHpIOUlTRnptZ2VQQ1Boa1NIc2dSQXFILU1scERK?oc=5",
-      "date": "Wed, 17 Jun 2026 02:15:17 GMT",
-      "source": "글로벌이코노믹",
+      "title": "스탠다드차타드 \"CLARITY 통과 시 XRP ETF에 80억 달러 유입\"",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNnd1WDVaaVM2a2plbmRpOC04b1ZwNk1wRGtCeHduaWJGQU56eWFXLWxueFN6MENndk5fWHZnRjFBQ25GVlBnWklSNGpYbmNFNGFYSUZ1d2FlaUxNYWZOdjBMMUpMR3RQd1VZbFlsamhoYXJhWm9SRFZjMnMzaXA5VW51eUd4ZkpaUnN1dg?oc=5",
+      "date": "Fri, 19 Jun 2026 00:45:00 GMT",
+      "source": "네이버 프리미엄콘텐츠",
       "score": 3
-    },
-    {
-      "title": "\" 멀티체인 RLUSD 생태계 확장\" 스퀴드, 리플과 상호운용성 인프라 협력",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LelZ3cWM4cHctMU54TG5PQnVRYjIyeHphWVM0ZFNUQ1V2NWJoczFRdGhibDUxT2RUU1N3aXV2TnZFVjgtT3RjX3JCSlEzZWVJZ093anVvUktzMEttUjBVQURKTllORDZTSDNwedIBcEFVX3lxTE53WjB0cWtaSTJsMG03WlZubE5MeFFCWm95STc4QWdWYWtJOW55LWkxX2U5c3NNWTAyR1ktUHpkTEd6M0hOd3doVTZyTDBPeXZndmFjMElaMnU4c2h6eEVuM3BraGNPRTBlM2JFbW1LeEg?oc=5",
-      "date": "Wed, 17 Jun 2026 00:10:19 GMT",
-      "source": "이넷뉴스",
-      "score": 2
-    },
-    {
-      "title": "[넥스블록]스퀴드, 리플과 파트너십 체결…RLUSD 멀티체인 결제 인프라 지원",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA3eTZ0R0JzVW5GNzVVbE1XRDJnNHQ5TlZHcFBxY2dKWnNtZER6ckNWQzVrTWR0TXk1eUExTy1fUG5aRWp2QmFZSndhUXhTOE10bUNuRw?oc=5",
-      "date": "Tue, 16 Jun 2026 23:00:00 GMT",
-      "source": "이투데이",
-      "score": 2
-    },
-    {
-      "title": "블랙록, XRP ETF 상장 신청 임박…글로벌 결제 혁신 주도하나",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUllzeWp3ekttRERoM0pDTURTUVQtT2QwT2NaN0EyamM5ZEpjSUFPa3d4dWY1QWVRaTRwZVJ0V2xQTE9nWVY2Uk9NQkdmSDJXZ3hycXBibVJ5STBmZkpoeGt3MnpCS2pST2lUZG45dFJvZTlwc0sxOXMtaVlSOC1HNGhtWlI4OEdZ?oc=5",
-      "date": "Tue, 16 Jun 2026 05:41:07 GMT",
-      "source": "글로벌이코노믹",
-      "score": 2
     }
   ]
 }
