@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-21T10:52:41",
+  "generated_at": "2026-06-21T13:02:36",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.15,
-    "price_krw": 1757.79,
-    "price_change_24h": 0.21642,
-    "price_change_7d": 0.23439,
-    "price_change_30d": -15.40216,
-    "market_cap_usd": 71378919417,
+    "price_usd": 1.14,
+    "price_krw": 1746.52,
+    "price_change_24h": -0.16541,
+    "price_change_7d": 0.47281,
+    "price_change_30d": -16.15986,
+    "market_cap_usd": 70927943444,
     "market_cap_rank": 6,
-    "volume_24h": 876831710,
+    "volume_24h": 816450754,
     "circulating_supply": 62053900985.0,
     "total_supply": 99985653167.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 60.81,
-    "sentiment_votes_down": 39.19,
+    "sentiment_votes_up": 63.01,
+    "sentiment_votes_down": 36.99,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 22.44,
-    "recent_tps": 22.44,
-    "recent_tx_count": 1840,
+    "tps_24h_avg": 18.73,
+    "recent_tps": 18.73,
+    "recent_tx_count": 1667,
     "recent_ledger_count": 24,
-    "recent_window_sec": 82,
-    "ledger_seq": 105074173,
+    "recent_window_sec": 89,
+    "ledger_seq": 105076203,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-21 10:52:30 KST",
+    "updated_at": "2026-06-21 13:02:31 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 2550000,
     "total_net_inflow_usd": 2550000,
     "total_value_traded_usd": 2550000,
-    "updated_at": "SoSoValue 순유입 부분 수집 06/21 10:52",
+    "updated_at": "SoSoValue 순유입 부분 수집 06/21 13:02",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -121,15 +121,22 @@
       "score": 2
     },
     {
-      "title": "리플 효과 흔들리나…스텔라(XLM) 급등, XRP는 정체",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAyODdrUzFUU1VTaTRlZHJrUHoyZzRiYXNJMGVRcUZEWkFGdm16VkhIX1hRcno4VkNkM1VOZlhqZnpYdkN2ZlRCcmU2SmZpVDExNU5J?oc=5",
-      "date": "Sat, 20 Jun 2026 11:05:00 GMT",
-      "source": "네이트",
+      "title": "엑스알피(XRP) 시세 반등 시작? 목표가 10달러 '장밋빛 전망'",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfRldSZHpnTzVLMHVEVFJYV2R1bWtZY3o0UWw2TW03MGFoNjRDcTk3WmVIYzY0SW4xNjZ1Q2FCYVczT2psT0hEblR2VEY0eFRBdEIwRlA2c0EzTDBPMFNsaGtMMUNJQ2ZZb1FQVHF3?oc=5",
+      "date": "Sat, 20 Jun 2026 15:01:00 GMT",
+      "source": "gukjenews.com",
+      "score": 2
+    },
+    {
+      "title": "리플, 1.18달러 무너지면 끝장? 세력들 숨죽이고 타이밍 노리는 이유",
+      "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxPWU54QWswNXJ6d1hfM0p2MkIyemhWa2Z2NXE2eC12cWs0a240Y2FaRWV1YjlVNDVBeVlaanpudWlEcC1XclNzeHVUUG9Ba0Y0UjRTSVVwV1YtVTlON05YYzdHbkxvS1ZJVjZmcEJLQjUxRnF3Z1gyM2U1T0l0Yi1zVXpscmktQXNuZW02UzZsRWhqems3dFVQVFBVT0otcEZCOFY0ZmVTUWdHSGR0UFFrN2V4Tlgwc01jUFpHQ01vSDN1cW9tUldMMlNkeDJJWVpZWkxLMm9Ea1NCNFgyMEdNUTdDc3I2R3o4TFhhbm5KSmJ6OVo3UXB3OXlFUHUzQ0YwZEJCTTd2ZWlrSlhiWUlPRXBwM0RoQ1RQTThiUU9fUW1ZOUQ0dlB0M3Q3TVc3S0JyQ21GamlwMkFiRU0taXN1NDc3bHc2aXdYSW5YdEI5NDNtamhFRGpxVDZJZm9DN19rUmtSWkRqZElxX1ZZRlJtcl9OMGJOeFVCcU56OER1UExFUEZaeFM0T0ZhX21oWHFQQk9lRllEY0pnU2c4UjlaU2dzSmk3UHhL?oc=5",
+      "date": "Sat, 20 Jun 2026 14:35:51 GMT",
+      "source": "MSN",
       "score": 2
     },
     {
       "title": "RLUSD 활용성 확대…스퀴드, 리플XRP 스테이블코인 크로스체인 스왑 지원",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYME4teFZucUM1aHBYVVl3eUdzeGJZdnBDeWdvUzlkWnJ3ZUNhdy1nZGMyZlBEMklWRGxIdk1IR1p3bWJuZ000T3VNdjJHWkhwMnlyU2NrMDRYSldqVlJaQVVSaUlieG1R?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9RS3dveXdvU2dLNTdpdUZ6bWR2Q3gyZWZIN2NXaFdRcmlHamQwQjhfR2tFbUctSWVNQks0QkxHclVfTFlWa0x5c3c5LUwwYnVoUE55VS1aYXNWZXAzWTBDamVvQQ?oc=5",
       "date": "Sat, 20 Jun 2026 07:40:00 GMT",
       "source": "CBC뉴스",
       "score": 3
@@ -152,13 +159,6 @@
       "title": "속보 | BTC $64,000 상회",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE13eXA3N2M1VElkWUhnMGtzNDlzUy1DMTRuNmw2cTVwUDB3a21RdlAwOU5tamJtVXRGQzRLQ3JjOU9QNWt5dW9RdUhhWDh4RWRh?oc=5",
       "date": "Fri, 19 Jun 2026 22:46:00 GMT",
-      "source": "코인니스",
-      "score": 8
-    },
-    {
-      "title": "속보 | 이스라엘, 레바논 휴전 명령",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE51aDQ2MkxPekJRWmRrZEtnaGF5YXNyVWdFdWJhbXVGY1Rqak8zT0hScTNpVDNBdGRSclZBWlZpMzBQM2NPSC13Vg?oc=5",
-      "date": "Fri, 19 Jun 2026 22:44:00 GMT",
       "source": "코인니스",
       "score": 8
     }
