@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-21T20:10:46",
+  "generated_at": "2026-06-21T21:50:44",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.15,
-    "price_krw": 1750.12,
-    "price_change_24h": 0.10881,
-    "price_change_7d": 1.18557,
-    "price_change_30d": -14.82954,
-    "market_cap_usd": 71013598878,
+    "price_usd": 1.14,
+    "price_krw": 1736.5,
+    "price_change_24h": -1.01238,
+    "price_change_7d": 0.31031,
+    "price_change_30d": -15.22608,
+    "market_cap_usd": 70446735742,
     "market_cap_rank": 6,
-    "volume_24h": 838300443,
+    "volume_24h": 862078152,
     "circulating_supply": 62053900985.0,
     "total_supply": 99985653167.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 58.9,
-    "sentiment_votes_down": 41.1,
+    "sentiment_votes_up": 64.71,
+    "sentiment_votes_down": 35.29,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 27.04,
-    "recent_tps": 27.04,
-    "recent_tx_count": 2407,
+    "tps_24h_avg": 11.34,
+    "recent_tps": 11.34,
+    "recent_tx_count": 1009,
     "recent_ledger_count": 24,
     "recent_window_sec": 89,
-    "ledger_seq": 105082926,
+    "ledger_seq": 105084493,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-21 20:10:34 KST",
+    "updated_at": "2026-06-21 21:50:33 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 2550000,
     "total_net_inflow_usd": 2550000,
     "total_value_traded_usd": 2550000,
-    "updated_at": "SoSoValue 순유입 부분 수집 06/21 20:10",
+    "updated_at": "SoSoValue 순유입 부분 수집 06/21 21:50",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -53,6 +53,13 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZ2FweFhaREVkclZES2ZKS2ZZejctYnFIZHk3MjEtejJrMFVIdkhDS2xUZlIxaFI2NFQtb295OGlsT3dfVzVpSUoyUExxdDJ6NVFoMndDREVaeDZNQ0FfRHpacjQ2cnBjejEyaFdqVGFSMFdWbmk5VWFSZWwzWDF4elFlRDhsR0dCcEx1Vk9yTEMyZw?oc=5",
       "date": "Sat, 20 Jun 2026 05:16:09 GMT",
       "source": "TradingKey",
+      "score": 0
+    },
+    {
+      "title": "ETF 유입 신호 — SOL 및 XRP 스팟 ETF의 상승",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUWN3TE12NTJpSTgzcVRKajZ6Z19sUzlvS0RRY3N2NEdMQzJBUW8yRXdSN0ZxdGtaOTAxQmpJZUV2TWd6MkdBd2dWS2l3VkdYc1VMZ0lBdi1fOW9OOXJJR0RGUWZieW9lWWhNUUVDWjhqWWlTdW52dlJmUkhVT1ZrSA?oc=5",
+      "date": "Fri, 19 Jun 2026 08:55:10 GMT",
+      "source": "Coinfomania",
       "score": 0
     },
     {
@@ -82,16 +89,16 @@
       "date": "Tue, 16 Jun 2026 02:17:01 GMT",
       "source": "CBC뉴스",
       "score": 0
-    },
-    {
-      "title": "블랙록은 왜 아직 'XRP ETF'를 내지 않았을까요 — BITA 상장과 리플의 기관·AI 공습",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ19tSVZ5Y3FXUEtyVFF5SXpaM1Y4WEFiYlhEODBkM2R0UmQ3azA5TkREeTdfQS1LUk1WNWZXTmZLSFRMNlV5YjBIV09SNmUxZWlZdEdPbFBBQ25ZNm90cVlzYzEwcUg2Nm1wOGFldnc1T3VQRlkwb3JCRFNxLTJqdU5QWVdTT3UybVJQRQ?oc=5",
-      "date": "Tue, 16 Jun 2026 00:07:00 GMT",
-      "source": "네이버 프리미엄콘텐츠",
-      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "\"이더리움도 꺾었다\"… 리플(XRP) 레저, RWA 순유입 1위·스테이블코인 51억 달러 폭발",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONVN6a0NIcV9pWUpOcUdQZzNBVUYwd005Y250SkpGaV9RaUdfcGFTNWVucTJSOG5wdEtRUFpEU3RmYUs0RC1GdE40cTR3bzY0VXNSRWFEdlpOMkVxbmpIOHc2ekVkYndETEZtbWxfbDFRVkYteUh3SE9XU0M2YVY2UTViTFc3eHRL?oc=5",
+      "date": "Sun, 21 Jun 2026 21:07:28 GMT",
+      "source": "글로벌이코노믹",
+      "score": 2
+    },
     {
       "title": "XRP(리플), 가격은 조용한데 인프라 5개 폭발...다음 랠리 준비 끝났나",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5YX2gzb1FMNnlxUzFHem0ya1cyNGNGX1p0Y1Q4ZjVNZkRNZXJsUW1OSlgxaEFpdDJDMW9pQkctQmEyeUJ4VjRmMVBR?oc=5",
@@ -136,7 +143,7 @@
     },
     {
       "title": "RLUSD 활용성 확대…스퀴드, 리플XRP 스테이블코인 크로스체인 스왑 지원",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYME4teFZucUM1aHBYVVl3eUdzeGJZdnBDeWdvUzlkWnJ3ZUNhdy1nZGMyZlBEMklWRGxIdk1IR1p3bWJuZ000T3VNdjJHWkhwMnlyU2NrMDRYSldqVlJaQVVSaUlieG1R?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9RS3dveXdvU2dLNTdpdUZ6bWR2Q3gyZWZIN2NXaFdRcmlHamQwQjhfR2tFbUctSWVNQks0QkxHclVfTFlWa0x5c3c5LUwwYnVoUE55VS1aYXNWZXAzWTBDamVvQQ?oc=5",
       "date": "Sat, 20 Jun 2026 07:40:00 GMT",
       "source": "CBC뉴스",
       "score": 3
@@ -154,13 +161,6 @@
       "date": "Sat, 20 Jun 2026 04:14:12 GMT",
       "source": "디지털투데이",
       "score": 3
-    },
-    {
-      "title": "속보 | BTC $64,000 상회",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE13eXA3N2M1VElkWUhnMGtzNDlzUy1DMTRuNmw2cTVwUDB3a21RdlAwOU5tamJtVXRGQzRLQ3JjOU9QNWt5dW9RdUhhWDh4RWRh?oc=5",
-      "date": "Fri, 19 Jun 2026 22:46:00 GMT",
-      "source": "코인니스",
-      "score": 8
     }
   ]
 }
