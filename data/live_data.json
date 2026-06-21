@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-21T07:28:26",
+  "generated_at": "2026-06-21T10:52:41",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.15,
-    "price_krw": 1750.91,
-    "price_change_24h": -0.14723,
-    "price_change_7d": -0.18614,
-    "price_change_30d": -16.39327,
-    "market_cap_usd": 71106366668,
+    "price_krw": 1757.79,
+    "price_change_24h": 0.21642,
+    "price_change_7d": 0.23439,
+    "price_change_30d": -15.40216,
+    "market_cap_usd": 71378919417,
     "market_cap_rank": 6,
-    "volume_24h": 880260190,
+    "volume_24h": 876831710,
     "circulating_supply": 62053900985.0,
     "total_supply": 99985653167.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 63.89,
-    "sentiment_votes_down": 36.11,
+    "sentiment_votes_up": 60.81,
+    "sentiment_votes_down": 39.19,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 10.58,
-    "recent_tps": 10.58,
-    "recent_tx_count": 942,
+    "tps_24h_avg": 22.44,
+    "recent_tps": 22.44,
+    "recent_tx_count": 1840,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 105070980,
+    "recent_window_sec": 82,
+    "ledger_seq": 105074173,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-21 07:28:13 KST",
+    "updated_at": "2026-06-21 10:52:30 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 2550000,
     "total_net_inflow_usd": 2550000,
     "total_value_traded_usd": 2550000,
-    "updated_at": "SoSoValue 순유입 부분 수집 06/21 07:28",
+    "updated_at": "SoSoValue 순유입 부분 수집 06/21 10:52",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -100,6 +100,13 @@
       "score": 2
     },
     {
+      "title": "“월가는 거짓말쟁이들”…기관이 XRP·HBAR 몰래 축적하는 이유",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUFQ5WHlWUnlFWmx0TU56cDVIV0R1TnJlb2thcDB4dHZDQXA1Z0xmRjgwNzFtYkxiN3ktYmZwUjV5akE2Ulc3WmZNYlN2RXNEajFPU0E4SWdjUGlmNF9XUW9vTzZ0RUY4b0ZLX1VCRndnclJMdE5qSEpGR1Fqd3FsRGFyNWVGMkoy?oc=5",
+      "date": "Sun, 21 Jun 2026 02:15:50 GMT",
+      "source": "글로벌이코노믹",
+      "score": 3
+    },
+    {
       "title": "리플XRP·이더리움 도미노 추락 예고, 지금이 탈출 골든타임인가",
       "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNR2s4WmNkTGd1cDhPMnNSemk4VXVBRjZwcmVlM1dKMnZodTV0c2g2dUJKQ0ZZdkU2blRVOFNzajVBbnoxdVR3ZnhjZlF2djVHZjhpd2lxeENva2pTbS05d0NOX3Y0WnJVZmNmTmYtdFdzbTB3azl5MnJNNUhWWk9zNzBaYUNxWXFCSW41ME9HcEJzekhtRDRfcUpzNHEyYlpRdThkMHJRYU9Db0FqbEtNemNrbTRCMkxkVUVTWmxoeTVYS0ZWQ1JHVkJDLU5RXzh3TjN4djBCdmpEMXZmekFxYWdiWk1XWEdKQzdtMV9tQ1duS0o1Q3NTOEI2dUV5WFEwUDJXTmNTM3lVUDhEdUhoVklPcWdLWVUzT2FCTjBzZjVHM2s4dVgzaW5aeDhRcnhvUHFWNUgtakcxN0twWEJqaTRjQ3VzeDA0T0FHLVNUbS1vVy1McUQzWmtxUmdEWjdMdUg3dWcxd19nTVBpZF9RcmNtQ1oyNUhJUGFUNVlkdzV0LW9RNDB6aHI1Y3ZDLU1QUDZTWmVQVWZrNWs?oc=5",
       "date": "Sun, 21 Jun 2026 01:15:56 GMT",
@@ -142,23 +149,16 @@
       "score": 3
     },
     {
-      "title": "속보 | 이스라엘, 레바논 휴전 명령",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE51aDQ2MkxPekJRWmRrZEtnaGF5YXNyVWdFdWJhbXVGY1Rqak8zT0hScTNpVDNBdGRSclZBWlZpMzBQM2NPSC13Vg?oc=5",
-      "date": "Fri, 19 Jun 2026 22:44:00 GMT",
+      "title": "속보 | BTC $64,000 상회",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE13eXA3N2M1VElkWUhnMGtzNDlzUy1DMTRuNmw2cTVwUDB3a21RdlAwOU5tamJtVXRGQzRLQ3JjOU9QNWt5dW9RdUhhWDh4RWRh?oc=5",
+      "date": "Fri, 19 Jun 2026 22:46:00 GMT",
       "source": "코인니스",
       "score": 8
     },
     {
-      "title": "메테오라 급등·리 상승·리플XRP 하락, 국채금리 상승에 관망세",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mWU03WlNjdzhqNlpRS1lXWHZFR3l0d2NFVjJpRHlXSUl6LVNBU01RUk5Cb0UzSGtPb1FqZjVET19MbDRtM21zTGZzV3hsaUU1b19HczNVc2hVR1p2b21QeDJOWmhUdzNFSjl1YlJuRTBuUQ?oc=5",
-      "date": "Fri, 19 Jun 2026 22:42:29 GMT",
-      "source": "톱스타뉴스",
-      "score": 2
-    },
-    {
-      "title": "속보 | 주기영 \"BTC 상승 따른 알트시즌 시대 끝났을 수도\"",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ocXpIYXVOeE13eG5ScWNreVZHbGFxV1pKRE9HTlczYmIwQ1JMS3BVRXg1WHpXTHc3Nm83MFp5dXZ1VTNrMTVzd2dud2wyTWpR?oc=5",
-      "date": "Fri, 19 Jun 2026 10:33:00 GMT",
+      "title": "속보 | 이스라엘, 레바논 휴전 명령",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE51aDQ2MkxPekJRWmRrZEtnaGF5YXNyVWdFdWJhbXVGY1Rqak8zT0hScTNpVDNBdGRSclZBWlZpMzBQM2NPSC13Vg?oc=5",
+      "date": "Fri, 19 Jun 2026 22:44:00 GMT",
       "source": "코인니스",
       "score": 8
     }
