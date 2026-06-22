@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-22T18:00:47",
+  "generated_at": "2026-06-22T21:18:34",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.14,
-    "price_krw": 1749.86,
-    "price_change_24h": -0.26757,
-    "price_change_7d": -11.16998,
-    "price_change_30d": -14.77952,
-    "market_cap_usd": 70670850874,
+    "price_usd": 1.13,
+    "price_krw": 1736.08,
+    "price_change_24h": 0.05097,
+    "price_change_7d": -11.13281,
+    "price_change_30d": -17.22925,
+    "market_cap_usd": 70102946762,
     "market_cap_rank": 6,
-    "volume_24h": 1554620247,
+    "volume_24h": 1532131981,
     "circulating_supply": 62053900985.0,
     "total_supply": 99985653167.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 62.92,
-    "sentiment_votes_down": 37.08,
+    "sentiment_votes_up": 57.45,
+    "sentiment_votes_down": 42.55,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 15.84,
-    "recent_tps": 15.84,
-    "recent_tx_count": 1426,
+    "tps_24h_avg": 13.02,
+    "recent_tps": 13.02,
+    "recent_tx_count": 1172,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 105103377,
+    "ledger_seq": 105106467,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-22 18:00:42 KST",
+    "updated_at": "2026-06-22 21:18:20 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 2550000,
     "total_net_inflow_usd": 2550000,
     "total_value_traded_usd": 2550000,
-    "updated_at": "SoSoValue 순유입 부분 수집 06/22 18:00",
+    "updated_at": "SoSoValue 순유입 부분 수집 06/22 21:18",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -53,13 +53,6 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBiTzhpS3AyLVUwSkQ5TDctUkt4ZFZCb2VDTFJKZGtkU0tSSzNwWVhUaUFGWW5VSnQ4X0VwaFZaenJ6TjRGSGplU01ManVZUnFyNmRKaU12aHFuc2VPc0ZLS29mZUcxUXVtOEF5QnRZT0ttejQ?oc=5",
       "date": "Mon, 22 Jun 2026 02:25:00 GMT",
       "source": "디지털투데이",
-      "score": 0
-    },
-    {
-      "title": "“단 한 주도 적자 없다”... 전 세계 자금 블랙홀로 급부상한 ‘HYPE·XRP’ 미스터리",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5YcnYwbTY4Q1U5WVdpdkl6SHJfQ2JRcm5qckJlMTg5QWtnbmxqaW1Vc2ZPT2NnREJIbkpURWNQQTZCYmUzeVAyd0V6TnFTMWVwdTJ2dXhSVFBKNTlPZkFjNTJlM2oyTXZRVXZxRFF0c3puUlXSAXdBVV95cUxPbllNaDJGRXdCUHNMU2VhT0lDYVhLaldRbDJxVnhVTGl1andRUzYyODdsVloyY2lIZF9LM2lWaFl5TnZKUC1XS3pNTkxRSDRaQk1hVVZPUHI2NGo1M0tLR2NCR191ZHpNdTRoSEtscEZhRE5keTFlTQ?oc=5",
-      "date": "Sun, 21 Jun 2026 22:46:11 GMT",
-      "source": "핀포인트뉴스",
       "score": 0
     },
     {
@@ -74,6 +67,13 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZ2FweFhaREVkclZES2ZKS2ZZejctYnFIZHk3MjEtejJrMFVIdkhDS2xUZlIxaFI2NFQtb295OGlsT3dfVzVpSUoyUExxdDJ6NVFoMndDREVaeDZNQ0FfRHpacjQ2cnBjejEyaFdqVGFSMFdWbmk5VWFSZWwzWDF4elFlRDhsR0dCcEx1Vk9yTEMyZw?oc=5",
       "date": "Sat, 20 Jun 2026 05:16:09 GMT",
       "source": "TradingKey",
+      "score": 0
+    },
+    {
+      "title": "플라즈마 21% 급등·비트코인 하락·리플XRP 약세…국채금리 상승에 관망세",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9yQU5fbk9yY1p2RzVhRkhnR05EQlNlU1ppT0FqZTlhTE5Kb2hnal81ckhQbjM0NU1HTjdEMVYyYUpEb2dxVTBFUl9UbkpLWHZnRHBtMEU0OHdQTlUtQTQ0Q0t6TDN5elNsLUJIUHhnX2I5UQ?oc=5",
+      "date": "Wed, 17 Jun 2026 22:42:10 GMT",
+      "source": "톱스타뉴스",
       "score": 0
     },
     {
@@ -142,9 +142,9 @@
       "score": 2
     },
     {
-      "title": "속보 | 스트레티지, 지난주 520 BTC 매수…USD 예비비 4억 달러 추가",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE91UGhmVDM4ZzdqVW5FVThQV1BxenpJd3didTdYTHhpM2pKVTk4M2x6T0pwTklwYlBWSWVZWXN0bzZlNGx1OTJ1aEFkNUNZTXhD?oc=5",
-      "date": "Sun, 21 Jun 2026 20:05:00 GMT",
+      "title": "속보 | 전 세계 상장사, 지난주 $4348만 BTC 순매수... 스트래티지 비중 80%",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBKZjVJdzI3Q2tScEFQZnV1bnNlTXpnOHV3V1ZjUW9QQVJmcERyVndJZ3lqQ2t0bEJVaGFudlhhZmhLVVJXdHI3TC10dFl5UDlj?oc=5",
+      "date": "Sun, 21 Jun 2026 20:55:00 GMT",
       "source": "코인니스",
       "score": 8
     },
