@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-22T13:12:00",
+  "generated_at": "2026-06-22T18:00:47",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.15,
-    "price_krw": 1772.61,
-    "price_change_24h": 0.88249,
-    "price_change_7d": -6.98731,
-    "price_change_30d": -12.89873,
-    "market_cap_usd": 71707185778,
+    "price_usd": 1.14,
+    "price_krw": 1749.86,
+    "price_change_24h": -0.26757,
+    "price_change_7d": -11.16998,
+    "price_change_30d": -14.77952,
+    "market_cap_usd": 70670850874,
     "market_cap_rank": 6,
-    "volume_24h": 1360522370,
+    "volume_24h": 1554620247,
     "circulating_supply": 62053900985.0,
     "total_supply": 99985653167.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 59.77,
-    "sentiment_votes_down": 40.23,
+    "sentiment_votes_up": 62.92,
+    "sentiment_votes_down": 37.08,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 18.09,
-    "recent_tps": 18.09,
-    "recent_tx_count": 1465,
+    "tps_24h_avg": 15.84,
+    "recent_tps": 15.84,
+    "recent_tx_count": 1426,
     "recent_ledger_count": 24,
-    "recent_window_sec": 81,
-    "ledger_seq": 105098878,
+    "recent_window_sec": 90,
+    "ledger_seq": 105103377,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-22 13:11:47 KST",
+    "updated_at": "2026-06-22 18:00:42 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 2550000,
     "total_net_inflow_usd": 2550000,
     "total_value_traded_usd": 2550000,
-    "updated_at": "SoSoValue 순유입 부분 수집 06/22 13:11",
+    "updated_at": "SoSoValue 순유입 부분 수집 06/22 18:00",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -93,6 +93,13 @@
   ],
   "general_news": [
     {
+      "title": "미 연준 금리 동결 속 주목받는 XRP, 2달러 돌파 시 목표가는?",
+      "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxQaGF2MUdLZmtWQVRDck9uRnM2MnBLT0I4cGdfa21qRE5mVmZqa2tfTDR2TWQ4T0poWEdqem5aVS1makl6VnJWeWNRUXM5MURlNnNkRHdjUlZEM21sY3lrdERZQlN6d3lCcVE2YlNOZFNfTkQ4cmd3bHNaMk5pV3dfdjNTUENZZVV2V1B4VUk0MUNWRll6R1RfNnkwWFhhak54dVI0N01WaTJGaFdPZTJ4QnlGYmoxZFNMcUZ5QlRrQk00LWhkZzRfYWpBR0F5UF93R1dUcjBoQjdMWEgyUVZ6RXhhbVdBZW02bWswZ3hTSXVmRmJWd0ZfclZWVUM0STI5dlZWUkl2WXdLT1hwWWF6NjdQSHRiWFZnSU53al9sWkZ2a0x1OTdfLXZhUlZ0QU12LWF6czhZX0EtYk1MYnhQVnNHVUdqX3lsQTE2dW5SVWFHUUhuZ1I4MmJkd0tXNm5iRUhpQ1lYRDJEa2szcFZuS0FfbUktTjRCYXNj?oc=5",
+      "date": "Mon, 22 Jun 2026 13:10:20 GMT",
+      "source": "MSN",
+      "score": 2
+    },
+    {
       "title": "사상 최고가에서 45% 하락! 리플(XRP) 투자자들의 인내심 시험대",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5VM0xlcXJjb2ZLeHo3aG5SX0ZrZWE0UVc4cnNTcHR2NXdBemtMS2Z6a3JHY0tMdU40X0lNRklfQXNzTDhEQkdzMG93?oc=5",
       "date": "Mon, 22 Jun 2026 08:20:00 GMT",
@@ -135,32 +142,25 @@
       "score": 2
     },
     {
-      "title": "리플, 동남아 송금 인프라 가동…XRP 가격은 아직 횡보",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ROUFjYVdkSDdqTjJoTU1INjZtdG9lVnVVa0hRXzJnTWJxVm9yT2ZPVlBZNy1yOE9Wdzg3aU1TZDNHWFMzYm1uLUZxSW9ORTZjXzBkbmhSb2ZlalZvVzJaONIBZkFVX3lxTE9aQ0YyVmNoR2tIdWlWTzBvM0U3cjVGS2JzaWFodmNsUHhKbnRMeHBENC1vNXlUeTVwMXlHaU5RT1JqNHlHOFdNRHhPOTctSFloWGM1bFFodnRaeDFfTFhVSU1CWEtlUQ?oc=5",
-      "date": "Sun, 21 Jun 2026 13:42:32 GMT",
-      "source": "tokenpost.kr",
-      "score": 3
+      "title": "속보 | 스트레티지, 지난주 520 BTC 매수…USD 예비비 4억 달러 추가",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE91UGhmVDM4ZzdqVW5FVThQV1BxenpJd3didTdYTHhpM2pKVTk4M2x6T0pwTklwYlBWSWVZWXN0bzZlNGx1OTJ1aEFkNUNZTXhD?oc=5",
+      "date": "Sun, 21 Jun 2026 20:05:00 GMT",
+      "source": "코인니스",
+      "score": 8
     },
     {
-      "title": "리플XRP·이더리움 도미노 추락 예고, 지금이 탈출 골든타임인가",
-      "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxONkh0U2lyTkhPSjN2SkpaNzE1bkVoZl85cFlkTWFNZlNZNVFEZVFHZTNtdm1KZXVYc2JYcERGaGV0M3QtY2tUSjN3Rm56eDlEalVNblBVNmpyU1dnSFJCT0MxYi1hQTRmRE1OQ2huOXBDZjlsSXRGLXpfb19mUEh1WVNnbGkyWDFTZFFoU0hKUUxNSGdLZkV1Y0ljZ1JFMm10RHlKSk5KaHR3dE5sSEVPYkhQbnYzVlRTWlJ2bm9qaWhLYkRlcWdNS1l3aTNMODFQWWw2TVpFbmtmSmxHendaV0U1YVVNRVhqcGdhMnBTMmVfWEhaRUhzaEw1V3E3Wk5hUlR3cXpSZExwVkdJS1ByWkxzQmo0cXFTS3hiVmtiOGRwZG1OUUMzM05UeTJHQlVsN2ZoMEdBTkpOaEpXYTV4SXd1NjJubGgyd0xaUE5oOGwyenlva1Ffak9pZlI1MWRKZmQ4cE1SNjlucXJNQnF4SEZqZDdIQ0tHQnRtcnpiWnQ2Q2cxeGNoVWFKR0gySi1jSlJWLVhucVVmTkk?oc=5",
-      "date": "Sun, 21 Jun 2026 10:41:36 GMT",
-      "source": "MSN",
-      "score": 2
+      "title": "속보 | 분석 \"BTC 주요 바닥은 블랙스완 이후 형성\"",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9NMGdDVWJrOXFCMVhFQmVBLUpXbFdBVmRYdkRBa19yTjl1WDVGSVJ0UThwekZkVGNRd05RamlybVE5Rm9ySDRwemd4d0ozQ1R1?oc=5",
+      "date": "Sun, 21 Jun 2026 19:10:00 GMT",
+      "source": "코인니스",
+      "score": 8
     },
     {
       "title": "RLUSD 활용성 확대…스퀴드, 리플XRP 스테이블코인 크로스체인 스왑 지원",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9RS3dveXdvU2dLNTdpdUZ6bWR2Q3gyZWZIN2NXaFdRcmlHamQwQjhfR2tFbUctSWVNQks0QkxHclVfTFlWa0x5c3c5LUwwYnVoUE55VS1aYXNWZXAzWTBDamVvQQ?oc=5",
-      "date": "Sat, 20 Jun 2026 07:40:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYME4teFZucUM1aHBYVVl3eUdzeGJZdnBDeWdvUzlkWnJ3ZUNhdy1nZGMyZlBEMklWRGxIdk1IR1p3bWJuZ000T3VNdjJHWkhwMnlyU2NrMDRYSldqVlJaQVVSaUlieG1R?oc=5",
+      "date": "Sun, 21 Jun 2026 16:48:41 GMT",
       "source": "CBC뉴스",
       "score": 3
-    },
-    {
-      "title": "Ripple XRP(XRPUSD) 종목이 6월20일에 큰 변동이 있었습니다. 변동을 일으킨 주요 변수를 살펴보세요",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZ2FweFhaREVkclZES2ZKS2ZZejctYnFIZHk3MjEtejJrMFVIdkhDS2xUZlIxaFI2NFQtb295OGlsT3dfVzVpSUoyUExxdDJ6NVFoMndDREVaeDZNQ0FfRHpacjQ2cnBjejEyaFdqVGFSMFdWbmk5VWFSZWwzWDF4elFlRDhsR0dCcEx1Vk9yTEMyZw?oc=5",
-      "date": "Sat, 20 Jun 2026 05:16:09 GMT",
-      "source": "TradingKey",
-      "score": 2
     }
   ]
 }
