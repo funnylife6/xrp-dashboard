@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-23T08:25:05",
+  "generated_at": "2026-06-23T11:37:05",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.1,
-    "price_krw": 1698.84,
-    "price_change_24h": -2.66625,
-    "price_change_7d": -10.44966,
-    "price_change_30d": -18.77113,
-    "market_cap_usd": 68593193938,
+    "price_usd": 1.11,
+    "price_krw": 1701.47,
+    "price_change_24h": -3.20499,
+    "price_change_7d": -10.60345,
+    "price_change_30d": -18.65846,
+    "market_cap_usd": 68743970920,
     "market_cap_rank": 6,
-    "volume_24h": 1482595433,
+    "volume_24h": 1501048071,
     "circulating_supply": 62053900985.0,
     "total_supply": 99985653167.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 53.26,
-    "sentiment_votes_down": 46.74,
+    "sentiment_votes_up": 55.56,
+    "sentiment_votes_down": 44.44,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 24.77,
-    "recent_tps": 24.77,
-    "recent_tx_count": 2229,
+    "tps_24h_avg": 14.6,
+    "recent_tps": 14.6,
+    "recent_tx_count": 1314,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 105116843,
+    "ledger_seq": 105119829,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-23 08:24:51 KST",
+    "updated_at": "2026-06-23 11:36:54 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 5310000,
     "total_net_inflow_usd": 5310000,
     "total_value_traded_usd": 5310000,
-    "updated_at": "SoSoValue 순유입 부분 수집 06/23 08:25",
+    "updated_at": "SoSoValue 순유입 부분 수집 06/23 11:37",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -70,13 +70,6 @@
       "score": 0
     },
     {
-      "title": "플라즈마 21% 급등·비트코인 하락·리플XRP 약세…국채금리 상승에 관망세",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9yQU5fbk9yY1p2RzVhRkhnR05EQlNlU1ppT0FqZTlhTE5Kb2hnal81ckhQbjM0NU1HTjdEMVYyYUpEb2dxVTBFUl9UbkpLWHZnRHBtMEU0OHdQTlUtQTQ0Q0t6TDN5elNsLUJIUHhnX2I5UQ?oc=5",
-      "date": "Wed, 17 Jun 2026 22:42:10 GMT",
-      "source": "톱스타뉴스",
-      "score": 0
-    },
-    {
       "title": "비트코인·이더리움 뺨 때린 XRP ETF 유입… 가상자산 패권 뒤집히나",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1jampUanZTc3NjeVJ2QzE5cmJzMEhzQWJ2dC1zbnAxZkpnVE1NWDZTSzVLZkxkMlBYeHp4d2NKZFlSeEJnMTRoWm9ZMGFBRUF5d3UwZWl4b0xmYnZhR251aGp2anp3dVZiSlJsM2g1UUdFdTjSAXdBVV95cUxQeXAxQ0cyYlBoS0hNby1LNWZKSWxvdV9uQXl4aWE1bjRESWMzb0hBYWFUWHhENG9CVHNBQTZ6bXY3Umh5M0FsTWFqZGhnSkNUYWFyWnQxQjVDTEtGOW5ZbGxqVEhNbmN6UlJlaXQ3R2pCMUtzR2Fvdw?oc=5",
       "date": "Wed, 17 Jun 2026 10:30:00 GMT",
@@ -88,6 +81,13 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU2NqdTZtUDVzS25JNGZZOEFGR1o1VWNfbGQ3MTlDbEJFWnhUaDJOQWx6Y3NlTXMyM0o2ZUZQOTI2WFpWdU1hUFE2WEswZUZvTWU5RTZRckZBN3dJYkN5cTh5aXhNUU9nQUhHdUpzaEd4QS11STZJOUtKcXdQeUZpZjM5SjYyRkR1U1NQVg?oc=5",
       "date": "Wed, 17 Jun 2026 06:00:00 GMT",
       "source": "네이버 프리미엄콘텐츠",
+      "score": 0
+    },
+    {
+      "title": "블랙록, XRP ETF 상장 신청 임박…글로벌 결제 혁신 주도하나",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUllzeWp3ekttRERoM0pDTURTUVQtT2QwT2NaN0EyamM5ZEpjSUFPa3d4dWY1QWVRaTRwZVJ0V2xQTE9nWVY2Uk9NQkdmSDJXZ3hycXBibVJ5STBmZkpoeGt3MnpCS2pST2lUZG45dFJvZTlwc0sxOXMtaVlSOC1HNGhtWlI4OEdZ?oc=5",
+      "date": "Tue, 16 Jun 2026 05:41:07 GMT",
+      "source": "글로벌이코노믹",
       "score": 0
     }
   ],
@@ -104,13 +104,6 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5haUszVUcxVEw0Z1JnTVBPWUU0bHdCUzZKNEktYUluNUxnUktmeG50MGZ6OEVTSzIzaEtQbnBHZmF3eGNMLXdVT2o5NmhqbFZsRWdMQWFB?oc=5",
       "date": "Tue, 23 Jun 2026 07:03:00 GMT",
       "source": "위키트리",
-      "score": 2
-    },
-    {
-      "title": "리플 XRP 에스크로 물량 329억 개…\"현 발행 추세면 소진까지 9년 더 걸린다\"",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY0NTNW14TVEwcC1NV21SUGs2cGtBNTVUSTBnUkRNWGNvbWhYMnZTVlRpeEVBSmxsQzdZVS0yTEJGQ3M1UTVDUmJ3RHctNFd4OGRJd25Lbml4OTF5RlFCUzk2djVTVmpnLTFpSGpBTHRiSHUzZlpNRXo1amU0YlhULUV4WEhaNkZI?oc=5",
-      "date": "Tue, 23 Jun 2026 06:05:19 GMT",
-      "source": "글로벌이코노믹",
       "score": 2
     },
     {
@@ -135,9 +128,9 @@
       "score": 2
     },
     {
-      "title": "미 연준 금리 동결 속 주목받는 XRP, 2달러 돌파 시 목표가는?",
-      "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxQaGF2MUdLZmtWQVRDck9uRnM2MnBLT0I4cGdfa21qRE5mVmZqa2tfTDR2TWQ4T0poWEdqem5aVS1makl6VnJWeWNRUXM5MURlNnNkRHdjUlZEM21sY3lrdERZQlN6d3lCcVE2YlNOZFNfTkQ4cmd3bHNaMk5pV3dfdjNTUENZZVV2V1B4VUk0MUNWRll6R1RfNnkwWFhhak54dVI0N01WaTJGaFdPZTJ4QnlGYmoxZFNMcUZ5QlRrQk00LWhkZzRfYWpBR0F5UF93R1dUcjBoQjdMWEgyUVZ6RXhhbVdBZW02bWswZ3hTSXVmRmJWd0ZfclZWVUM0STI5dlZWUkl2WXdLT1hwWWF6NjdQSHRiWFZnSU53al9sWkZ2a0x1OTdfLXZhUlZ0QU12LWF6czhZX0EtYk1MYnhQVnNHVUdqX3lsQTE2dW5SVWFHUUhuZ1I4MmJkd0tXNm5iRUhpQ1lYRDJEa2szcFZuS0FfbUktTjRCYXNj?oc=5",
-      "date": "Mon, 22 Jun 2026 13:10:20 GMT",
+      "title": "폴카닷보다 빠르다? XRP가 심리 지표 폭락 후 9.3% 급등한 이유",
+      "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxOeUNhTURzcmx4N29RNHo4SjZ4Njlxc1FYR3dNOXQ2WEh2Z1A3akFtUUNWYzYxZ213NUxUdWRxWnp4Rmx0eVMxclA5SEliVDNqUGxYc1FxTXJsVHFDM21Id2lod2ZRS3c4bC1mdFJsWXcweFJscm85cUVDc1FPNm9aODY0cE1hSUxpR0hjT2Y0cGpaelVMS0pHR2lZcnZNcVp1TWlTNTZSM25uWmk2a3dLeHNya1FORUVzeDAzcTJzbkJkWUZhel9naV82bzJ1OENnMEpuMm45V21oM2Jxelo2THZkNXBlRnRSVy1XOTdCRmotN1BZVmgzM0hVY3gzbHZWQTlMX0s2LVpDdm9iaTVMdUJnVGRYb0o4a0lqSkJlZzBNNTNJWDM5NW5HR2RnWDRKbG1tRmIxUkVlX3ZpTldHQVpnaVhZM0NWNE5DMEdGcmViUWRRVDJJeEdOb0xLRXhlSmZLNS13dWZSSmRpaE9HcU5NNnJaTTBBWE5GVjh3?oc=5",
+      "date": "Mon, 22 Jun 2026 21:41:10 GMT",
       "source": "MSN",
       "score": 2
     },
@@ -147,6 +140,13 @@
       "date": "Mon, 22 Jun 2026 05:55:00 GMT",
       "source": "네이버 프리미엄콘텐츠",
       "score": 3
+    },
+    {
+      "title": "리플 부사장 \"CBDC, XRPL 기반 구축\"…'XRP 직접 결제 활용' 루머 확산",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNN1VOR05fUVFRVEVXOXZEX1lqVXdheU8wWTZkN1h1cFhPTE5qM1RYX1RZTUVYUjhhdV9lQXdTUG5ObWdDYlNmUkoxeWItWllGU0REeDh0N1FiaUhaOWRIUnVnYjU4NUgtZHRtWE9QZHc2VVRzMXpnR3k5NEJYNDluSGtBaUNYYkU?oc=5",
+      "date": "Mon, 22 Jun 2026 05:31:04 GMT",
+      "source": "글로벌이코노믹",
+      "score": 2
     },
     {
       "title": "전문가 한마디에 XRP 커뮤니티 술렁…ETF 기대감↑",
