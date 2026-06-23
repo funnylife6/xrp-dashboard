@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-23T04:38:08",
+  "generated_at": "2026-06-23T08:25:05",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.12,
-    "price_krw": 1723.1,
-    "price_change_24h": -0.76327,
-    "price_change_7d": -8.45868,
-    "price_change_30d": -17.4094,
-    "market_cap_usd": 69758084107,
+    "price_usd": 1.1,
+    "price_krw": 1698.84,
+    "price_change_24h": -2.66625,
+    "price_change_7d": -10.44966,
+    "price_change_30d": -18.77113,
+    "market_cap_usd": 68593193938,
     "market_cap_rank": 6,
-    "volume_24h": 1406577030,
+    "volume_24h": 1482595433,
     "circulating_supply": 62053900985.0,
     "total_supply": 99985653167.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 49.48,
-    "sentiment_votes_down": 50.52,
+    "sentiment_votes_up": 53.26,
+    "sentiment_votes_down": 46.74,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 19.99,
-    "recent_tps": 19.99,
-    "recent_tx_count": 1799,
+    "tps_24h_avg": 24.77,
+    "recent_tps": 24.77,
+    "recent_tx_count": 2229,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 105113327,
+    "ledger_seq": 105116843,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-23 04:38:02 KST",
+    "updated_at": "2026-06-23 08:24:51 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 5310000,
     "total_net_inflow_usd": 5310000,
     "total_value_traded_usd": 5310000,
-    "updated_at": "SoSoValue 순유입 부분 수집 06/23 04:38",
+    "updated_at": "SoSoValue 순유입 부분 수집 06/23 08:25",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -93,6 +93,27 @@
   ],
   "general_news": [
     {
+      "title": "리플, 유럽 금융 심장부 룩셈부르크서 MiCA 라이선스 예비 승인…XRP 글로벌 제도권 입성 가속",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xdDQta3BFT1pNQzJwaWJYazh6UVJ1UHNoZGJDRWR5a1lVZnNFNWh2R0ZSOWROdzRsa0szN0NrQ2FlTUNXZGF0OGZiQ25yYlVYMkZhQjFBb3V2dmVGRFlKRDdGcDJrZmVhWnJ1WXN0cWY?oc=5",
+      "date": "Tue, 23 Jun 2026 07:33:38 GMT",
+      "source": "블록체인투데이",
+      "score": 2
+    },
+    {
+      "title": "암호화폐(코인) 분석가들이 유력하게 전망하는 리플 약세 이유와 반등 시기",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5haUszVUcxVEw0Z1JnTVBPWUU0bHdCUzZKNEktYUluNUxnUktmeG50MGZ6OEVTSzIzaEtQbnBHZmF3eGNMLXdVT2o5NmhqbFZsRWdMQWFB?oc=5",
+      "date": "Tue, 23 Jun 2026 07:03:00 GMT",
+      "source": "위키트리",
+      "score": 2
+    },
+    {
+      "title": "리플 XRP 에스크로 물량 329억 개…\"현 발행 추세면 소진까지 9년 더 걸린다\"",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY0NTNW14TVEwcC1NV21SUGs2cGtBNTVUSTBnUkRNWGNvbWhYMnZTVlRpeEVBSmxsQzdZVS0yTEJGQ3M1UTVDUmJ3RHctNFd4OGRJd25Lbml4OTF5RlFCUzk2djVTVmpnLTFpSGpBTHRiSHUzZlpNRXo1amU0YlhULUV4WEhaNkZI?oc=5",
+      "date": "Tue, 23 Jun 2026 06:05:19 GMT",
+      "source": "글로벌이코노믹",
+      "score": 2
+    },
+    {
       "title": "XRPL 스테이킹 가능성에 리플 전 CTO 반문…자산 통제권부터 따져야",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1HM1UtNW8tZFZrUDczVzhsdTNkOWFrdGNLLTk4MjM2WmJPdnJNbEllaVl2SFJxaGc5YURkME9KalQyeTJrZmVZejBvcTZDMm54V1N3UWRXd1huN2VKc2JtU2tlRTJhdC1PYlI5TzBWY3EtMVE?oc=5",
       "date": "Tue, 23 Jun 2026 03:00:00 GMT",
@@ -104,13 +125,6 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAwTFJJcFFqd3JPanp6WkU3dk4ySzI1MzBmblN6b0pKc2NDd2FRWVQxSVFFODhldS11cHloRnBHcnlkSnVuZVZ1aG84eDhaZ05yY0RQOC1SdU9hUjBIUFRJWDRiMnVoNTEtZExPY1I0X04wdWM?oc=5",
       "date": "Tue, 23 Jun 2026 01:39:00 GMT",
       "source": "디지털투데이",
-      "score": 3
-    },
-    {
-      "title": "데이비스 슈워츠 \"XRP(리플) 스테이킹, 타인에게 은행 권력 쥐여주는 꼴\"",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE53T0xrUmVnWjRmOUxGZFZETE9VeDQwbEc4bE9fYlFQc1FQSkFmaldTMTZpb25qRXlBMG5TQ0xGS1RtSjVYSlVXOUhn?oc=5",
-      "date": "Tue, 23 Jun 2026 01:33:00 GMT",
-      "source": "코인리더스",
       "score": 3
     },
     {
@@ -128,25 +142,11 @@
       "score": 2
     },
     {
-      "title": "리플, 캘리포니아 규제 시한 임박…DFAL 신청 여부 주목된다",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VYnpiWW9lbjRxTnVrcVpuLVJ0UlBiV1BTMzFFUnFySWNKaVgybFdxU1E4ZUJMMVJNV1NjeVhWdVFieVROVXNqdGFTNUtaaGhFRFNGZXV30gFbQVVfeXFMUE1RRm5MWGRydFhFZng1ZGYtLWZpOE9Vcy14UC00ZkpFX3RsZUQ0VEFvZHh3ZktSUGdaY29JRnpnelBWcHd1YWtnb0U4OUszcExZQ2dmRWxEQVltUQ?oc=5",
-      "date": "Mon, 22 Jun 2026 12:12:24 GMT",
-      "source": "tokenpost.kr",
-      "score": 2
-    },
-    {
       "title": "리플이 'AI 직원'을 뽑습니다 — XRP·RLUSD가 'AI 에이전트 결제' 시장에 뛰어든 진짜 이유",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNEw5VWhhSnZXUG1vRG8wZ0N6VUFBQXVzYWFPaFNYQlJSX0IycHdoWjJaXzEzUEZSUVRXaHk3dTNqeHhPYmhzQ1ZGcmtzUlpDQnV3ZVcwVktQR3ptZFZBZ0FBY19aRGxLU2tSY0lCNW9wdWY2cHp3VWw0WjlGWi0wVFlxSlR0OWpyZWM3TA?oc=5",
       "date": "Mon, 22 Jun 2026 05:55:00 GMT",
       "source": "네이버 프리미엄콘텐츠",
       "score": 3
-    },
-    {
-      "title": "리플 부사장 \"CBDC, XRPL 기반 구축\"…'XRP 직접 결제 활용' 루머 확산",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNN1VOR05fUVFRVEVXOXZEX1lqVXdheU8wWTZkN1h1cFhPTE5qM1RYX1RZTUVYUjhhdV9lQXdTUG5ObWdDYlNmUkoxeWItWllGU0REeDh0N1FiaUhaOWRIUnVnYjU4NUgtZHRtWE9QZHc2VVRzMXpnR3k5NEJYNDluSGtBaUNYYkU?oc=5",
-      "date": "Mon, 22 Jun 2026 05:31:04 GMT",
-      "source": "글로벌이코노믹",
-      "score": 2
     },
     {
       "title": "전문가 한마디에 XRP 커뮤니티 술렁…ETF 기대감↑",
