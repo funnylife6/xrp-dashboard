@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-24T12:32:21",
+  "generated_at": "2026-06-24T15:30:05",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.091,
-    "price_krw": 1686.81,
-    "price_change_24h": -1.26567,
-    "price_change_7d": -8.52768,
-    "price_change_30d": -19.59904,
-    "market_cap_usd": 67701361062,
+    "price_usd": 1.068,
+    "price_krw": 1646.88,
+    "price_change_24h": -2.31568,
+    "price_change_7d": -11.25629,
+    "price_change_30d": -21.26313,
+    "market_cap_usd": 66297153997,
     "market_cap_rank": 6,
-    "volume_24h": 1391916981,
+    "volume_24h": 1501733034,
     "circulating_supply": 62053900985.0,
     "total_supply": 99985653167.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 58.7,
-    "sentiment_votes_down": 41.3,
+    "sentiment_votes_up": 54.44,
+    "sentiment_votes_down": 45.56,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 16.64,
-    "recent_tps": 16.64,
-    "recent_tx_count": 1498,
+    "tps_24h_avg": 40.52,
+    "recent_tps": 40.52,
+    "recent_tx_count": 3323,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 105143186,
+    "recent_window_sec": 82,
+    "ledger_seq": 105145951,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-24 12:32:07 KST",
+    "updated_at": "2026-06-24 15:29:51 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,6 +92,13 @@
   ],
   "general_news": [
     {
+      "title": "속보 | 분석 \"현재 소각 속도론 XRP 공급량 5억개까지 줄이는 데 48만년\"",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4xQTN1VEpWMzNnWDA3bzNVeDJNcGt2VWJNY2lVSWxlOE5WRTM3MXRLMUpQUi1kdTU4U1U0bzA3NFM3Qks1cjVGRg?oc=5",
+      "date": "Wed, 24 Jun 2026 12:46:38 GMT",
+      "source": "CoinNess",
+      "score": 8
+    },
+    {
       "title": "가격 폭락에도 지갑 닫았다…바이낸스 XRP 출금 비중 53.8% ‘2년 만에 최고치’",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9teWhTRGE4dmYwTFlkcE1xcVdCbGxKakxiTFR4cHpLVk01dFVaS1p5VkRUb0Z1UEg2S2ZpNHprSjNGajVaUkdvUGFrT3Jsd2puSmNyejdNelRfbnA2VFJvcGxZUXIxd3PSAWtBVV95cUxOWWR2T2hMMnVoTXFOQkxlSVJfZXVsMzlmOWZtQzRlbWF2QXRTSlBUWjYtZEYzLUFtSVllM2JreGVSZzlNRUQwOTR2eFFvTjc0T184SmFwbnJaZUR0OFFzSHBodTVtMWNtUXJPQQ?oc=5",
       "date": "Wed, 24 Jun 2026 07:04:09 GMT",
@@ -141,25 +148,18 @@
       "score": 2
     },
     {
+      "title": "리플(XRP), 6월 들어 16% 급락...\"가우시안 채널 하단 방어… 보수적으로 봐도 5.7달러“",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWWRId2xPdC1IVkwtdWo2SGRJb0F0NzBzS0ljOEQ1anFiWTBjR3pSLWxzVXJfdHFTRW5IX2RzUF9aOGV0MUFJaUYzbWw2R3BwTWNMdThvVzVlcmFiUzhybnh2WExuNExiYU9xR2tfSWlIRzkyN1dIdHNuYk9FX3M1YkdvbnRsRmo3?oc=5",
+      "date": "Tue, 23 Jun 2026 20:49:14 GMT",
+      "source": "글로벌이코노믹",
+      "score": 2
+    },
+    {
       "title": "리플 거래량은 버텼다…1달러 지지선·ETF가 분기점 될까",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YOER1eDRiWGM0RlhKWHNmVFo5MTZhTFI2b1p6ME80UnNUWVA4NnBQZEdBUXNETWRpUFhKOThpVGNvMjZ4eUUyRS1uVEp4S01VRzJNWnRwWldyd2JqQ3k2LdIBZkFVX3lxTFB3dXV3a1hVaHVqWHNpMkxlbHM3MU1fN0dxXzRGd0ctSHMweWxZZVRwSWZqOVFxT3NyMGxVRHhvaWZlMlFzR3RkNGhZSGxrMGdzZl9oSGxvMUFYaTNLdm9tMTJTTFBYdw?oc=5",
       "date": "Tue, 23 Jun 2026 19:42:41 GMT",
       "source": "tokenpost.kr",
       "score": 3
-    },
-    {
-      "title": "룩셈부르크 CSSF, 리플에 예비 CASP 승인 청신호",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBoRm16djhScllHcXdsa09DRjRIRjFPOERmMll2dEViTTlicXZQSmQ0YXE1X1l3c1hGcUlJWUVpVnl2UmloUWpMLWc5ZzZ2MzVoeDlXN05EZXJuWlhBNl9ZRUVRLTRGcnVmYWFia3NZY0JDM2s?oc=5",
-      "date": "Tue, 23 Jun 2026 12:44:36 GMT",
-      "source": "디지털투데이",
-      "score": 2
-    },
-    {
-      "title": "속보 | 디지털자산기본법, 연내 통과 불투명...'구천피 돌파' 영향 의견도",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9CcXRCRGlSaEt0Ymd3elczUUk0WEtqM2VmcUhuaDdIbHhGYmFMSjJuWUFuX2lIN3RkMjNYcnhlT3A0OFUtaUZiamdJZDkyTllk?oc=5",
-      "date": "Tue, 23 Jun 2026 11:29:00 GMT",
-      "source": "CoinNess",
-      "score": 8
     }
   ]
 }
