@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-23T23:50:57",
+  "generated_at": "2026-06-24T02:33:47",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.11,
-    "price_krw": 1699.84,
-    "price_change_24h": -1.63675,
-    "price_change_7d": -8.9953,
-    "price_change_30d": -17.63612,
-    "market_cap_usd": 68733659877,
+    "price_krw": 1698.61,
+    "price_change_24h": -1.78725,
+    "price_change_7d": -8.92629,
+    "price_change_30d": -18.09088,
+    "market_cap_usd": 68639826996,
     "market_cap_rank": 6,
-    "volume_24h": 1453493198,
+    "volume_24h": 1478548601,
     "circulating_supply": 62053900985.0,
     "total_supply": 99985653167.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 62.22,
-    "sentiment_votes_down": 37.78,
+    "sentiment_votes_up": 57.61,
+    "sentiment_votes_down": 42.39,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 12.39,
-    "recent_tps": 12.39,
-    "recent_tx_count": 1115,
+    "tps_24h_avg": 13.31,
+    "recent_tps": 13.31,
+    "recent_tx_count": 1185,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 105131260,
+    "recent_window_sec": 89,
+    "ledger_seq": 105133811,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-23 23:50:50 KST",
+    "updated_at": "2026-06-24 02:33:41 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -48,6 +48,20 @@
   },
   "etf_news": [
     {
+      "title": "비트코인·이더리움 유출에도 XRP ETF만 순유입…12거래일째 '무유출'",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9TTUJGRUN0Z0NDdkFOV3Z0VmlBeGR3YS1NeVl1Uk5KQkFfaGVuLU12V0NjNEd4YTlSeDB5TjU1UXktT0F5b1JKTGFtUGFRN3RoVXZR?oc=5",
+      "date": "Wed, 24 Jun 2026 00:12:00 GMT",
+      "source": "네이트",
+      "score": 0
+    },
+    {
+      "title": "아르키움 급락·비트코인·리플XRP 하락, 금리 부담 관망",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA0clFhMUZ2Zmlkbkhvb2paYXNIZnloV2VXLUdzejVUVXBHYUFzQWVQME9LM25ocmdHRmg0VmN2d0RUOFhtcDhVa2hEQXIxQXhRalNaa3VkSGJhTUt1cTQ3eWtPM0hqdXpER3ZUNlFoeG1GUQ?oc=5",
+      "date": "Tue, 23 Jun 2026 22:14:09 GMT",
+      "source": "톱스타뉴스",
+      "score": 0
+    },
+    {
       "title": "\"연말 10달러 돌파\"…9년 묵은 리플 폭등 시나리오 현실로?",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9sejg3N0RyTkhsamp1bEdtQTNZU0xhUGdYeTZLakd2TjJRUDB1dXNhbDdnVVIwdEdtMWJueURwU25wUDVWT1p3cjVYQ3F1a25HdGE4ajZraHFYOXB4a0E4d1k2aFlKMVIycXFPaDh2NHpEOHc?oc=5",
       "date": "Tue, 23 Jun 2026 21:39:57 GMT",
@@ -62,35 +76,28 @@
       "score": 0
     },
     {
+      "title": "[알트 현물 ETF] XRP 531만 달러 순유입...LINK는 49만 달러 유출 전환",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5iTGRtMldTX2dOSnVOd1ZfV1NfN1psdWdyZ3JzWFk3X0g4Sks5REhETGc1TUlhUV9INzZocGFSeU92NDNSSHF2TTNGRTQ0NnpZQVlZQjB1N3k4SjhCVEk1bdIBZkFVX3lxTE52S29ObGplbG5BNERQYjNFNmpNeXdHUkdBRk1HczhaeFJsQmNndFpkZEZSUlEtMFhrN0puMDNVUFMzTjlyU0g2UWhHbVpIZGRGbUNOZGhBU1NsR3FEZnE3ZG9NZFZRZw?oc=5",
+      "date": "Tue, 23 Jun 2026 04:56:03 GMT",
+      "source": "tokenpost.kr",
+      "score": 0
+    },
+    {
       "title": "미국 XRP 현물 ETF, 하루 530만달러 순유입",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0bXc1T04zTzFBbnFKTXZqZjhETWtQTjFBVVoyc1NFY0poVjVubUFzSXJJcE1HeFJOS3huVzhNSUliQURXcThQaS0xMmgwRVpNUXNuMlhVTkzSAV5BVV95cUxPeXhqRnVmdVhvVXIzcm5GUGtpZVZBVVFpRGRGZnJlQWlnREtUS1VSUzM0Z2Y0b21pcDM4U3dmRHRHcDhFSVdGTXNSb083c1d5Y0xuU3NmMzNBVHN4dm5n?oc=5",
       "date": "Tue, 23 Jun 2026 03:53:21 GMT",
       "source": "tokenpost.kr",
       "score": 0
-    },
-    {
-      "title": "전문가 한마디에 XRP 커뮤니티 술렁…ETF 기대감↑",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBiTzhpS3AyLVUwSkQ5TDctUkt4ZFZCb2VDTFJKZGtkU0tSSzNwWVhUaUFGWW5VSnQ4X0VwaFZaenJ6TjRGSGplU01ManVZUnFyNmRKaU12aHFuc2VPc0ZLS29mZUcxUXVtOEF5QnRZT0ttejQ?oc=5",
-      "date": "Mon, 22 Jun 2026 02:25:00 GMT",
-      "source": "디지털투데이",
-      "score": 0
-    },
-    {
-      "title": "XRP 현물 ETF, 지난주 순유입 1066 만 달러",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCbE1RWWFWbGRNb2RsM25qTkM5Z29iaHpET0RPZ2o1YVB4d240R09LSnhmbFdxNUFwRW1FWEk3MkFzS245MVhhcEU3U1pBdkZTb3lfX3pB?oc=5",
-      "date": "Sun, 21 Jun 2026 10:49:00 GMT",
-      "source": "odaily.news",
-      "score": 0
-    },
-    {
-      "title": "Ripple XRP(XRPUSD) 종목이 6월20일에 큰 변동이 있었습니다. 변동을 일으킨 주요 변수를 살펴보세요",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZ2FweFhaREVkclZES2ZKS2ZZejctYnFIZHk3MjEtejJrMFVIdkhDS2xUZlIxaFI2NFQtb295OGlsT3dfVzVpSUoyUExxdDJ6NVFoMndDREVaeDZNQ0FfRHpacjQ2cnBjejEyaFdqVGFSMFdWbmk5VWFSZWwzWDF4elFlRDhsR0dCcEx1Vk9yTEMyZw?oc=5",
-      "date": "Sat, 20 Jun 2026 05:16:09 GMT",
-      "source": "TradingKey",
-      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "XRP 레저 위에 '은행'이 깔린다, SOIL이 쏘아 올린 신호탄, XLS-65·XLS-66 전격 해부 (리플, 리플코인)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMmFnZTRFRkxMUkc2UkVENlYxXzRSRUlMLTdCekZHaGM5WXFhdk4xR2hDQTJzUXFXZ0NRY1VnSU03b0I2N2VDRHZmVVF2RWxFUGZ2UlBIN2hxbjRPNlU2MGpZNmlNZDBiUmhUM01tcWJVc3ptX0hxQ2NlUF9hanIxbGZzY2R1TW9tN0tDUA?oc=5",
+      "date": "Wed, 24 Jun 2026 00:21:00 GMT",
+      "source": "네이버 프리미엄콘텐츠",
+      "score": 3
+    },
     {
       "title": "아이오트러스트 월렛 '디센트', 스퀴드와 XRP 얼라이언스 연동",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTUtmREhzc1VfNWZkS2lVcnFyUFBjSG9vYlVNUjdoUTJXUVV3d2pXX3RzWjMzS1RWMlVYdmlBTG1zd1JRN0J4c1I5OHZPanY0ZTVSVGc0U3lMQW9rQlJ6N2RHY0JXZXQwRFV6RW5WZkc0TjlNNVVaTEFHVFlSZEVWeA?oc=5",
@@ -134,10 +141,10 @@
       "score": 2
     },
     {
-      "title": "XRPL 스테이킹 가능성에 리플 전 CTO 반문…자산 통제권부터 따져야",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1HM1UtNW8tZFZrUDczVzhsdTNkOWFrdGNLLTk4MjM2WmJPdnJNbEllaVl2SFJxaGc5YURkME9KalQyeTJrZmVZejBvcTZDMm54V1N3UWRXd1huN2VKc2JtU2tlRTJhdC1PYlI5TzBWY3EtMVE?oc=5",
-      "date": "Tue, 23 Jun 2026 03:00:00 GMT",
-      "source": "디지털투데이",
+      "title": "암호화폐(코인) 분석가들이 유력하게 전망하는 리플 약세 이유와 반등 시기",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5haUszVUcxVEw0Z1JnTVBPWUU0bHdCUzZKNEktYUluNUxnUktmeG50MGZ6OEVTSzIzaEtQbnBHZmF3eGNMLXdVT2o5NmhqbFZsRWdMQWFB?oc=5",
+      "date": "Tue, 23 Jun 2026 07:03:00 GMT",
+      "source": "위키트리",
       "score": 2
     },
     {
@@ -153,13 +160,6 @@
       "date": "Tue, 23 Jun 2026 01:35:00 GMT",
       "source": "디지털투데이",
       "score": 2
-    },
-    {
-      "title": "속보 | 크립토퀀트 \"스트래티지, 현금 보유액 38% 감소... 배당금 지급 여력 7년→14개월\"",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9zeFYtLTAtLXQ4VnpVVlAzTE8yOTczNVNUVUJxaFdidnVJUE1sQk5iUUJCVGhzd0tYdDc0Szd1bXp5RmZ1MERWMzg5VmpYZkdi?oc=5",
-      "date": "Tue, 23 Jun 2026 01:25:00 GMT",
-      "source": "CoinNess",
-      "score": 8
     }
   ]
 }
