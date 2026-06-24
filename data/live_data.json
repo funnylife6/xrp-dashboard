@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-24T06:39:04",
+  "generated_at": "2026-06-24T10:15:36",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.1,
-    "price_krw": 1701.49,
-    "price_change_24h": -0.72464,
-    "price_change_7d": -9.42769,
-    "price_change_30d": -18.52725,
-    "market_cap_usd": 68431602580,
+    "price_usd": 1.096,
+    "price_krw": 1696.02,
+    "price_change_24h": -0.82165,
+    "price_change_7d": -8.35225,
+    "price_change_30d": -19.41461,
+    "market_cap_usd": 68004484401,
     "market_cap_rank": 6,
-    "volume_24h": 1389547560,
+    "volume_24h": 1259581585,
     "circulating_supply": 62053900985.0,
     "total_supply": 99985653167.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 59.55,
-    "sentiment_votes_down": 40.45,
+    "sentiment_votes_up": 58.62,
+    "sentiment_votes_down": 41.38,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 13.78,
-    "recent_tps": 13.78,
-    "recent_tx_count": 1240,
+    "tps_24h_avg": 14.71,
+    "recent_tps": 14.71,
+    "recent_tx_count": 1309,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 105137653,
+    "recent_window_sec": 89,
+    "ledger_seq": 105141052,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-24 06:38:53 KST",
+    "updated_at": "2026-06-24 10:15:22 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -134,23 +134,9 @@
       "score": 2
     },
     {
-      "title": "리플(XRP), 6월 들어 16% 급락...\"가우시안 채널 하단 방어… 보수적으로 봐도 5.7달러“",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWWRId2xPdC1IVkwtdWo2SGRJb0F0NzBzS0ljOEQ1anFiWTBjR3pSLWxzVXJfdHFTRW5IX2RzUF9aOGV0MUFJaUYzbWw2R3BwTWNMdThvVzVlcmFiUzhybnh2WExuNExiYU9xR2tfSWlIRzkyN1dIdHNuYk9FX3M1YkdvbnRsRmo3?oc=5",
-      "date": "Tue, 23 Jun 2026 20:49:14 GMT",
-      "source": "글로벌이코노믹",
-      "score": 2
-    },
-    {
       "title": "리플 거래량은 버텼다…1달러 지지선·ETF가 분기점 될까",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YOER1eDRiWGM0RlhKWHNmVFo5MTZhTFI2b1p6ME80UnNUWVA4NnBQZEdBUXNETWRpUFhKOThpVGNvMjZ4eUUyRS1uVEp4S01VRzJNWnRwWldyd2JqQ3k2LdIBZkFVX3lxTFB3dXV3a1hVaHVqWHNpMkxlbHM3MU1fN0dxXzRGd0ctSHMweWxZZVRwSWZqOVFxT3NyMGxVRHhvaWZlMlFzR3RkNGhZSGxrMGdzZl9oSGxvMUFYaTNLdm9tMTJTTFBYdw?oc=5",
       "date": "Tue, 23 Jun 2026 19:42:41 GMT",
-      "source": "tokenpost.kr",
-      "score": 3
-    },
-    {
-      "title": "리플, 유럽 MiCA 예비 승인 받았지만 XRP는 하락…왜",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxZEFVVUo2dlZGcTEzWDF4UUxZQlJ2S3h4R2FGQTJ5dDJ4ejJkcldTd1lUUThCQ3hld2pfY1N6M2dRNUtIZi1hSlVpV3loWmg1cFRlVHlVTmxXLXIxdG5IWdIBZkFVX3lxTE9aNndHREZHUEUweGhjVGxrM3RCRllQRkZMeTc2eGRWcUVxcFlLb3lPM0RLdGNURFRtRXY0eXZpOW0ycXJPTnN4d3ZET21rN0Q5YXlhb0ZEeDhhNEhVcFNPNUE5U1BxQQ?oc=5",
-      "date": "Tue, 23 Jun 2026 14:33:06 GMT",
       "source": "tokenpost.kr",
       "score": 3
     },
@@ -160,6 +146,20 @@
       "date": "Tue, 23 Jun 2026 12:44:36 GMT",
       "source": "디지털투데이",
       "score": 2
+    },
+    {
+      "title": "속보 | 디지털자산기본법, 연내 통과 불투명...'구천피 돌파' 영향 의견도",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9CcXRCRGlSaEt0Ymd3elczUUk0WEtqM2VmcUhuaDdIbHhGYmFMSjJuWUFuX2lIN3RkMjNYcnhlT3A0OFUtaUZiamdJZDkyTllk?oc=5",
+      "date": "Tue, 23 Jun 2026 11:29:00 GMT",
+      "source": "CoinNess",
+      "score": 8
+    },
+    {
+      "title": "리플, RLUSD 유동성 재편…이더리움 소각·XRPL 발행 확대",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAwTFJJcFFqd3JPanp6WkU3dk4ySzI1MzBmblN6b0pKc2NDd2FRWVQxSVFFODhldS11cHloRnBHcnlkSnVuZVZ1aG84eDhaZ05yY0RQOC1SdU9hUjBIUFRJWDRiMnVoNTEtZExPY1I0X04wdWM?oc=5",
+      "date": "Tue, 23 Jun 2026 01:39:00 GMT",
+      "source": "디지털투데이",
+      "score": 3
     }
   ]
 }
