@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-24T10:15:36",
+  "generated_at": "2026-06-24T12:32:21",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.096,
-    "price_krw": 1696.02,
-    "price_change_24h": -0.82165,
-    "price_change_7d": -8.35225,
-    "price_change_30d": -19.41461,
-    "market_cap_usd": 68004484401,
+    "price_usd": 1.091,
+    "price_krw": 1686.81,
+    "price_change_24h": -1.26567,
+    "price_change_7d": -8.52768,
+    "price_change_30d": -19.59904,
+    "market_cap_usd": 67701361062,
     "market_cap_rank": 6,
-    "volume_24h": 1259581585,
+    "volume_24h": 1391916981,
     "circulating_supply": 62053900985.0,
     "total_supply": 99985653167.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 58.62,
-    "sentiment_votes_down": 41.38,
+    "sentiment_votes_up": 58.7,
+    "sentiment_votes_down": 41.3,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 14.71,
-    "recent_tps": 14.71,
-    "recent_tx_count": 1309,
+    "tps_24h_avg": 16.64,
+    "recent_tps": 16.64,
+    "recent_tx_count": 1498,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 105141052,
+    "recent_window_sec": 90,
+    "ledger_seq": 105143186,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-24 10:15:22 KST",
+    "updated_at": "2026-06-24 12:32:07 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -91,6 +91,13 @@
     }
   ],
   "general_news": [
+    {
+      "title": "가격 폭락에도 지갑 닫았다…바이낸스 XRP 출금 비중 53.8% ‘2년 만에 최고치’",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9teWhTRGE4dmYwTFlkcE1xcVdCbGxKakxiTFR4cHpLVk01dFVaS1p5VkRUb0Z1UEg2S2ZpNHprSjNGajVaUkdvUGFrT3Jsd2puSmNyejdNelRfbnA2VFJvcGxZUXIxd3PSAWtBVV95cUxOWWR2T2hMMnVoTXFOQkxlSVJfZXVsMzlmOWZtQzRlbWF2QXRTSlBUWjYtZEYzLUFtSVllM2JreGVSZzlNRUQwOTR2eFFvTjc0T184SmFwbnJaZUR0OFFzSHBodTVtMWNtUXJPQQ?oc=5",
+      "date": "Wed, 24 Jun 2026 07:04:09 GMT",
+      "source": "비온미디어",
+      "score": 2
+    },
     {
       "title": "리플, 인프라 확장 호재에도 엑스알피(XRP)는 '하락세'…왜?",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ycG01aU01NEROWDlfSGJvRE4zNlc0dkp6UW9zT3RCMDFGWF9HSVRSaE9tb0tQQ0phM1hwdWxiSTZVQWthZTlYT0I0bEVzMkRybjFWU0czajRnbDJVS0FOWG5UbDB4MmFaQkVQU0xrNE84eHd0ZTRVeg?oc=5",
@@ -153,13 +160,6 @@
       "date": "Tue, 23 Jun 2026 11:29:00 GMT",
       "source": "CoinNess",
       "score": 8
-    },
-    {
-      "title": "리플, RLUSD 유동성 재편…이더리움 소각·XRPL 발행 확대",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAwTFJJcFFqd3JPanp6WkU3dk4ySzI1MzBmblN6b0pKc2NDd2FRWVQxSVFFODhldS11cHloRnBHcnlkSnVuZVZ1aG84eDhaZ05yY0RQOC1SdU9hUjBIUFRJWDRiMnVoNTEtZExPY1I0X04wdWM?oc=5",
-      "date": "Tue, 23 Jun 2026 01:39:00 GMT",
-      "source": "디지털투데이",
-      "score": 3
     }
   ]
 }
