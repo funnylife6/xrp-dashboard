@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-25T08:18:19",
+  "generated_at": "2026-06-25T11:12:34",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.082,
-    "price_krw": 1666.22,
-    "price_change_24h": -1.40943,
-    "price_change_7d": -7.40318,
-    "price_change_30d": -19.66496,
-    "market_cap_usd": 67165915408,
+    "price_usd": 1.069,
+    "price_krw": 1648.73,
+    "price_change_24h": -1.39944,
+    "price_change_7d": -9.36839,
+    "price_change_30d": -20.2655,
+    "market_cap_usd": 66357911594,
     "market_cap_rank": 6,
-    "volume_24h": 2238825110,
+    "volume_24h": 2142744265,
     "circulating_supply": 62053900985.0,
     "total_supply": 99985653167.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 60.71,
-    "sentiment_votes_down": 39.29,
+    "sentiment_votes_up": 61.68,
+    "sentiment_votes_down": 38.32,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 14.53,
-    "recent_tps": 14.53,
-    "recent_tx_count": 1308,
+    "tps_24h_avg": 19.64,
+    "recent_tps": 19.64,
+    "recent_tx_count": 1768,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 105161655,
+    "ledger_seq": 105164386,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-25 08:18:10 KST",
+    "updated_at": "2026-06-25 11:12:25 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -47,6 +47,27 @@
     "data_source": "news_parse"
   },
   "etf_news": [
+    {
+      "title": "[알트 현물 ETF] XRP 홀로 순유입...시장 관망 기류 확산",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhRENocHNRR2VLRGZxUkJqZm5QcExYTWlSUjRlc3FkVlFPcGpGOTMweDVlM0JvMk51MHlpdmRoTjlBR2p6c2xhZ2hqOEVsVjV2S2xYNnZfTVJaaWhzT0FWbNIBZkFVX3lxTE5iNDRRWTM1eEk1QTJXUG1aQ0paZHRvTmdaT05Sb3YtOVlEMEZGTDBEMHFaTEpyOG9RY2Q2NHp4d2NJNWViWmZpNVI0V0RreE1UYTY0aW5ZVG5OUnhKX3p0QXhBeHhhUQ?oc=5",
+      "date": "Thu, 25 Jun 2026 08:31:14 GMT",
+      "source": "tokenpost.kr",
+      "score": 0
+    },
+    {
+      "title": "업비트, 국내 최초 미국 비트코인·이더리움 ‘현물 ETF 동향’ 서비스 출시",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5IZE9uLUo5X3J0NGFvWEt0ajJfbWlxczdUd3ZYLWt3UTlyYzdkTnQ5Z190eGc1bGs1TjRXQ1NKM1puRXFpMlZtaHV2VVBOTUp6T19wek9tZVUtMEY3bVVvTHlOUVBmQWo4N08xWVZjaTI5QdIBckFVX3lxTE5IZE9uLUo5X3J0NGFvWEt0ajJfbWlxczdUd3ZYLWt3UTlyYzdkTnQ5Z190eGc1bGs1TjRXQ1NKM1puRXFpMlZtaHV2VVBOTUp6T19wek9tZVUtMEY3bVVvTHlOUVBmQWo4N08xWVZjaTI5QQ?oc=5",
+      "date": "Thu, 25 Jun 2026 00:22:26 GMT",
+      "source": "메가경제",
+      "score": 0
+    },
+    {
+      "title": "업비트, 미 가상자산 현물 ETF 지표 서비스 개시...글로벌 제도권 자금 한눈에",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwN1VETERQV2h1a2d1eGdNMXNzWURnN0xsaVcyc0YxZVB5aEJWckdPckxnU2lvNi1SbnJBUFFIZjl4dk1hYXpPYTN3Yno0TzF2NHFuX3pkSWpidUNFU2RvamxjbnlSSTB0cEHSAW5BVV95cUxPckoxX3JzNnY3X1V6X1kyY1dtb1laUUdhME5EQjc3NnFHa09sVldmVzh4VVEtVXFlaURVZHV3REN3TUVlU21ua3BFdlZLUU9mOVBTa2dBSkNiaGZBOWJvTEFGcllickpNRkl4cHV3dw?oc=5",
+      "date": "Wed, 24 Jun 2026 23:55:05 GMT",
+      "source": "아시아에이",
+      "score": 0
+    },
     {
       "title": "비트코인·이더리움 유출에도 XRP ETF만 순유입…12거래일째 '무유출'",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE44c3V3WFpaMzNBZmxVVDc3Rk5MRW1jSEkyaVFtNzdSeklSZk5RNUtTWThKYzNhTjFqMFBoTFFrN3ZWY2lpVVFhQ3ZjaWZfSDJxcElTWGlJTzJacmU4cm41LVBCX0xaeEdPM1RFd1UtWkNOcWM?oc=5",
@@ -67,30 +88,23 @@
       "date": "Tue, 23 Jun 2026 19:42:41 GMT",
       "source": "tokenpost.kr",
       "score": 0
-    },
-    {
-      "title": "[알트 현물 ETF] XRP 531만 달러 순유입...LINK는 49만 달러 유출 전환",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5iTGRtMldTX2dOSnVOd1ZfV1NfN1psdWdyZ3JzWFk3X0g4Sks5REhETGc1TUlhUV9INzZocGFSeU92NDNSSHF2TTNGRTQ0NnpZQVlZQjB1N3k4SjhCVEk1bdIBZkFVX3lxTE52S29ObGplbG5BNERQYjNFNmpNeXdHUkdBRk1HczhaeFJsQmNndFpkZEZSUlEtMFhrN0puMDNVUFMzTjlyU0g2UWhHbVpIZGRGbUNOZGhBU1NsR3FEZnE3ZG9NZFZRZw?oc=5",
-      "date": "Tue, 23 Jun 2026 04:56:03 GMT",
-      "source": "tokenpost.kr",
-      "score": 0
-    },
-    {
-      "title": "미국 XRP 현물 ETF, 하루 530만달러 순유입",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0bXc1T04zTzFBbnFKTXZqZjhETWtQTjFBVVoyc1NFY0poVjVubUFzSXJJcE1HeFJOS3huVzhNSUliQURXcThQaS0xMmgwRVpNUXNuMlhVTkzSAV5BVV95cUxPeXhqRnVmdVhvVXIzcm5GUGtpZVZBVVFpRGRGZnJlQWlnREtUS1VSUzM0Z2Y0b21pcDM4U3dmRHRHcDhFSVdGTXNSb083c1d5Y0xuU3NmMzNBVHN4dm5n?oc=5",
-      "date": "Tue, 23 Jun 2026 03:53:21 GMT",
-      "source": "tokenpost.kr",
-      "score": 0
-    },
-    {
-      "title": "XRP 현물 ETF, 지난주 순유입 1066 만 달러",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCbE1RWWFWbGRNb2RsM25qTkM5Z29iaHpET0RPZ2o1YVB4d240R09LSnhmbFdxNUFwRW1FWEk3MkFzS245MVhhcEU3U1pBdkZTb3lfX3pB?oc=5",
-      "date": "Sun, 21 Jun 2026 10:49:00 GMT",
-      "source": "odaily.news",
-      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "스퀴드, 디센트 지갑 연동완료…XRP·RLUSD 크로스체인 거래 지원",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14X1NWN2VwUVU0TDJpRVFGYmEtMzRBdzF3MFpaY1ZoRTJHUU56YmpTQy1OaTFMbzlnVndXSzVxWWlOanQyTHplMi1ZM1FIMjA2ekk5QTFGOXo4UWQtVU5EUHJoRW53YUc2?oc=5",
+      "date": "Thu, 25 Jun 2026 09:15:51 GMT",
+      "source": "IT타임스",
+      "score": 2
+    },
+    {
+      "title": "리플, 유럽을 한 번에 품었다 (XRP, 리플코인)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT0lwSU44MERjQlJkbFhENUZ3cEtJOHZ4dkR5UUVicWV4bzRlVHlhSnhXdFRrdTVXT2RPOFQxTGdWc1A0R1NWZ2xIMGp0dlFDV2laXzBFLXl4TDBQVlM4NkxQSjJLUHRJZHJVaEwxUlJBeE5sMkw3d1QyWExOTVExcGFzSlhLSDdQNGRQNQ?oc=5",
+      "date": "Thu, 25 Jun 2026 05:13:00 GMT",
+      "source": "네이버 프리미엄콘텐츠",
+      "score": 2
+    },
     {
       "title": "리플, 일본 금융청 RLUSD 승인에도 가격 약세 지속",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1UUk3MFlBbkZBb01XS01NY3JQSGJIWUZsSks5bjdoZ0RFLVRIM2xheERWLXoxSmxJY2Q3bVV0Y3RrNkdMbmJBM3dEUVVsTkVGWTlyMGtfSEY4ZVpuemhlY2xHbFdGd9IBZkFVX3lxTFA1UUk3MFlBbkZBb01XS01NY3JQSGJIWUZsSks5bjdoZ0RFLVRIM2xheERWLXoxSmxJY2Q3bVV0Y3RrNkdMbmJBM3dEUVVsTkVGWTlyMGtfSEY4ZVpuemhlY2xHbFdGdw?oc=5",
@@ -113,13 +127,6 @@
       "score": 9
     },
     {
-      "title": "SBI VC트레이드, RLUSD 서비스 개시…日 첫 4호 전자결제수단",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPb2FFMTJXbm5LbEhaQk42WEI4d0dTaWNFT2h6WWRUcG1rc25tV25hVzNkZ1BWLWhHaU0tZGN3ZktmbzRuN1pKb1NtU3hrZHNuOGtqLWdFX2lCRDVPUzdXbldpR3dBU01uNEg2UXIwVmhQWTQ?oc=5",
-      "date": "Thu, 25 Jun 2026 02:24:00 GMT",
-      "source": "디지털투데이",
-      "score": 1
-    },
-    {
       "title": "리플, SBI그룹과 스테이블코인 RLUSD 일본 내 출시",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE51b3BvNTRzT2VOQVhXY2J6ajloV0ZzRHlxNTNwRXBKX29kdFRDeWFRZnZFSW5jd3Zabk1RTDlVRlFnLWhPREJ5MUt4UEtuZHJSTGFud3ZMcjNEeGZGMng0T3NFc05SN00wS0o0cktjcEVTUQ?oc=5",
       "date": "Thu, 25 Jun 2026 00:35:00 GMT",
@@ -127,24 +134,17 @@
       "score": 10
     },
     {
+      "title": "그록AI, XRP 1.8달러 랠리 전망… 클래리티법·기관 유입 호재",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3Qll5RHFpYjFBZXFUMmZaS25NaGxXYnh1cHd6YjA3OGY5OFFtSUswT0NoNWlFU0pycDNuY3VJUUNQdERuN3QxQWd1d1o5TmRfVGt5UUZpM3lrY0ZpX0FHd1NrNlZBeHBFeXZzVksyc0o?oc=5",
+      "date": "Wed, 24 Jun 2026 23:30:00 GMT",
+      "source": "블록체인투데이",
+      "score": 3
+    },
+    {
       "title": "솔스티스·비트코인·리플XRP 급등·하락, 금리 우려에 관망",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBaRU9YMTdlRF9GZzlReUFBd0tOVm9SRnhldlBoQXNxMXYtU3FETVRQUzBoTFlUZzJyR1plNjF5Rm9uelV2c2JTTWZfOGRPOG5EZGJaZjk2NWh1QW9LOGNlOWhkVjBLUGl2VTRhMG11YTRmZw?oc=5",
       "date": "Wed, 24 Jun 2026 22:06:21 GMT",
       "source": "TopStarNews",
-      "score": 2
-    },
-    {
-      "title": "리플(XRP), 룩셈부르크서 암호화폐 서비스 라이선스 예비 승인",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90UkZKMTd3Yl9Qd1pJSkxuSHNIbnJ1UUZtWjI0R1F2UjFIUGJQelBPRTNWLUJWYUI2SFpqQzNvOE0wdG4wSjA3Yy1ZVmhBTU9uZi1SRFJOUWZ0M2pOT2Q5MNIBZkFVX3lxTE44NV9uRUFyTHZxRDIyNEx2LXltYTNSVEZtVm5ReTBOb1BzNDdrbWRTdTlRVk1KSU5BS2NhNkppSThtZW92cnRLd3ROcFhneFNvR3IzLWRselhkeDZRLXZpb1VGQTlpZw?oc=5",
-      "date": "Wed, 24 Jun 2026 21:07:22 GMT",
-      "source": "tokenpost.kr",
-      "score": 2
-    },
-    {
-      "title": "XRP 50% 하락…$7.85억 스테이블코인 영향?",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54WjVFcU5JcE96V3E0anN6b192YjFISEpBTGlUdGxmcnkxaVFvbXl0WG5LZDFZRWstckhhVHVCNFdBMXhRQ0FVd0MzdWEzNHFYaml0aXQ2UXFOX3RrMHFGTmFBdkRXRG9vMUNPUkJFRmJCNkY3?oc=5",
-      "date": "Wed, 24 Jun 2026 20:31:17 GMT",
-      "source": "BeInCrypto",
       "score": 2
     },
     {
@@ -155,10 +155,10 @@
       "score": 3
     },
     {
-      "title": "리플의 RLUSD 스테이블코인이 규제 승인 후 일본에서 출시되었습니다",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTVJ3cVZ5VDk0azhVMk9ONkFwUjFKYWJtVjRBcFZtdkhWSy1Tdlp6dlBpM0ctMkxONTlpQWNBTFFrUXJBc0U3WGlSU25MZUFNQnJvT29qNXBaTmpGZnFaaC1OWEpfSEJDZ0otTzIyYVlPcjFRR0puNHpicE1WWk1qTTR0YXpQQWs5N1p5ZXNKV1ZZOWlKWjAwVzR0N280ZnNKcEJSYWp1elgwdlZ2Tk56dlhsYnktRFdR?oc=5",
-      "date": "Wed, 24 Jun 2026 13:02:00 GMT",
-      "source": "CoinDesk",
+      "title": "리플 에스크로 해제 속도 논쟁 재점화…XRP 완전 유통 앞당겨질까",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvX1F1WEJOb3Y0WDZCSHRVYmZXWFY1MFlPMEhMaWJZVndlZGVVUnBoOVNkbl9yNEktXzVzMzlBMzdPcTlGc3F6Zl9DRUc1eEVvNS1PWEFHLU5sOXd4MFVhddIBZkFVX3lxTE03ZU0yN0dCUFBPeDhSb29tSTB4bVlsLXdOa2o1VU9BUEFySUtEazVQUVVIV2MyYzh1a2Z3UkQyMDVZZ1RHS0NQTHhITzhWRnZ2VHdqQnVXQlN3dWMwOE1vNHgweVJyZw?oc=5",
+      "date": "Wed, 24 Jun 2026 15:12:53 GMT",
+      "source": "tokenpost.kr",
       "score": 2
     }
   ]
