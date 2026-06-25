@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-25T20:32:35",
+  "generated_at": "2026-06-25T22:16:19",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.036,
-    "price_krw": 1601.0,
-    "price_change_24h": -2.81239,
-    "price_change_7d": -8.98551,
-    "price_change_30d": -21.93467,
-    "market_cap_usd": 64343695797,
+    "price_usd": 1.039,
+    "price_krw": 1605.28,
+    "price_change_24h": -3.39916,
+    "price_change_7d": -9.71606,
+    "price_change_30d": -21.93734,
+    "market_cap_usd": 64503070651,
     "market_cap_rank": 6,
-    "volume_24h": 2224177230,
+    "volume_24h": 2189296022,
     "circulating_supply": 62053900985.0,
     "total_supply": 99985653167.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 60.68,
-    "sentiment_votes_down": 39.32,
+    "sentiment_votes_up": 61.82,
+    "sentiment_votes_down": 38.18,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 35.77,
-    "recent_tps": 35.77,
-    "recent_tx_count": 3255,
+    "tps_24h_avg": 29.34,
+    "recent_tps": 29.34,
+    "recent_tx_count": 2611,
     "recent_ledger_count": 24,
-    "recent_window_sec": 91,
-    "ledger_seq": 105173085,
+    "recent_window_sec": 89,
+    "ledger_seq": 105174696,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-25 20:32:28 KST",
+    "updated_at": "2026-06-25 22:16:12 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,6 +92,13 @@
   ],
   "general_news": [
     {
+      "title": "\"2022년 최악의 바닥과 판박이\"… 리플(XRP), 역사적 과매도 진입에 '반등론' 고개",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZGlGdUFTRHNabnVfb0I1Z0VPNGNaWGZXTWJHWGFKWVZ1bzI5ZWF4bDlheER6VVFKMTg0MHVxalY4OXFSVzdaMFFxOVczQnlYenVzOWZxR1N3LUI1cVNWTk5HeDNRU2ttODdxSXBhRjh4dW91Z2dEbUp0dHlIN3p1c25lazNWSVFn?oc=5",
+      "date": "Thu, 25 Jun 2026 21:20:28 GMT",
+      "source": "글로벌이코노믹",
+      "score": 2
+    },
+    {
       "title": "리플(XRP), SBI와 손잡고 일본서 RLUSD 공식 출시…스테이블코인 시장 공략 확대",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tbGZGYUZXd290eDdhMVAtdUdHRFZxWUMzdHBXWlgyLUYyM0wyYlo5XzB2bC1pLVVjSmlKRGk3Yk5kRXVKbGViQkhxMWY1QUdpWTZMV3VWQnRMYjNGWGE1RTVpTWUwMnlX?oc=5",
       "date": "Thu, 25 Jun 2026 15:00:00 GMT",
@@ -111,13 +118,6 @@
       "date": "Thu, 25 Jun 2026 06:56:23 GMT",
       "source": "블록체인투데이",
       "score": 2
-    },
-    {
-      "title": "리플, 일본 진출도 소용없나? XRP, RLUSD 호재에도 약세인 이유는",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBnN1E4a1E1VUVYV0F4dnlWRzV0Z2RoZ3p0Z3FRYWpaX0dtTE9jejM3RElQR3k3bjQ0VE9RUms2UENZTWViYU44Ylp3?oc=5",
-      "date": "Thu, 25 Jun 2026 05:57:00 GMT",
-      "source": "코인리더스",
-      "score": 3
     },
     {
       "title": "리플, 유럽을 한 번에 품었다 (XRP, 리플코인)",
@@ -141,6 +141,13 @@
       "score": 9
     },
     {
+      "title": "리플, SBI그룹과 스테이블코인 RLUSD 일본 내 출시",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE51b3BvNTRzT2VOQVhXY2J6ajloV0ZzRHlxNTNwRXBKX29kdFRDeWFRZnZFSW5jd3Zabk1RTDlVRlFnLWhPREJ5MUt4UEtuZHJSTGFud3ZMcjNEeGZGMng0T3NFc05SN00wS0o0cktjcEVTUQ?oc=5",
+      "date": "Thu, 25 Jun 2026 00:35:00 GMT",
+      "source": "디지털애셋",
+      "score": 10
+    },
+    {
       "title": "그록AI, XRP 1.8달러 랠리 전망… 클래리티법·기관 유입 호재",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3Qll5RHFpYjFBZXFUMmZaS25NaGxXYnh1cHd6YjA3OGY5OFFtSUswT0NoNWlFU0pycDNuY3VJUUNQdERuN3QxQWd1d1o5TmRfVGt5UUZpM3lrY0ZpX0FHd1NrNlZBeHBFeXZzVksyc0o?oc=5",
       "date": "Wed, 24 Jun 2026 23:30:00 GMT",
@@ -152,13 +159,6 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBaRU9YMTdlRF9GZzlReUFBd0tOVm9SRnhldlBoQXNxMXYtU3FETVRQUzBoTFlUZzJyR1plNjF5Rm9uelV2c2JTTWZfOGRPOG5EZGJaZjk2NWh1QW9LOGNlOWhkVjBLUGl2VTRhMG11YTRmZw?oc=5",
       "date": "Wed, 24 Jun 2026 22:06:21 GMT",
       "source": "TopStarNews",
-      "score": 2
-    },
-    {
-      "title": "리플(XRP), 룩셈부르크서 암호화폐 서비스 라이선스 예비 승인",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90UkZKMTd3Yl9Qd1pJSkxuSHNIbnJ1UUZtWjI0R1F2UjFIUGJQelBPRTNWLUJWYUI2SFpqQzNvOE0wdG4wSjA3Yy1ZVmhBTU9uZi1SRFJOUWZ0M2pOT2Q5MNIBZkFVX3lxTE44NV9uRUFyTHZxRDIyNEx2LXltYTNSVEZtVm5ReTBOb1BzNDdrbWRTdTlRVk1KSU5BS2NhNkppSThtZW92cnRLd3ROcFhneFNvR3IzLWRselhkeDZRLXZpb1VGQTlpZw?oc=5",
-      "date": "Wed, 24 Jun 2026 21:07:22 GMT",
-      "source": "tokenpost.kr",
       "score": 2
     }
   ]
