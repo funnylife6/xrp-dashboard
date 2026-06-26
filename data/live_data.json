@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-26T19:15:21",
+  "generated_at": "2026-06-26T21:03:18",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.043,
-    "price_krw": 1601.29,
-    "price_change_24h": 1.35294,
-    "price_change_7d": -7.73555,
-    "price_change_30d": -21.16336,
-    "market_cap_usd": 64839778635,
+    "price_krw": 1601.76,
+    "price_change_24h": 1.23267,
+    "price_change_7d": -7.67791,
+    "price_change_30d": -21.45729,
+    "market_cap_usd": 64953667442,
     "market_cap_rank": 6,
-    "volume_24h": 2447815703,
+    "volume_24h": 2482870691,
     "circulating_supply": 62241508805.0,
     "total_supply": 99985645029.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 62.5,
-    "sentiment_votes_down": 37.5,
+    "sentiment_votes_up": 63.33,
+    "sentiment_votes_down": 36.67,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 14.26,
-    "recent_tps": 14.26,
-    "recent_tx_count": 1269,
+    "tps_24h_avg": 14.54,
+    "recent_tps": 14.54,
+    "recent_tx_count": 1294,
     "recent_ledger_count": 24,
     "recent_window_sec": 89,
-    "ledger_seq": 105194322,
+    "ledger_seq": 105196002,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-26 19:15:05 KST",
+    "updated_at": "2026-06-26 21:03:04 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -106,13 +106,6 @@
       "score": 2
     },
     {
-      "title": "속보 | \"XRP 손절 압력, 2022년 8월 이후 최대\"",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1jWS1aNmVubEh2WGl1NXhORnNjTlM4eFVXWVAtNzlRYWF3aThndGtNSXNMMmlHQmdQcWxub284dHRNLXdrVmZkMQ?oc=5",
-      "date": "Fri, 26 Jun 2026 06:40:09 GMT",
-      "source": "CoinNess",
-      "score": 8
-    },
-    {
       "title": "리플 RLUSD, XRP 레저서 이더리움 공급량 첫 추월",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81alhRb2VRRFp6QmI0SGNWclBneHBkUldOeURzYm1wQVNXeXFJSHg5bmNYMUp4dG9VbUF0cDVpT204OGJDbUtFaFBNaVhHYXhiLXduTXlqVWV5d2ZLQXVqSS14aUYydmE3ZTlCell3?oc=5",
       "date": "Fri, 26 Jun 2026 05:13:50 GMT",
@@ -146,6 +139,13 @@
       "date": "Thu, 25 Jun 2026 21:20:28 GMT",
       "source": "글로벌이코노믹",
       "score": 2
+    },
+    {
+      "title": "\"XRP 손절 압력, 2022년 8월 이후 최대\"",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBYckU2S2F5Zk1tUUNUMEJQNVZ2SHhiZ1pILTd1TlFQaVJoa1hEa1J6VXRpbnA1V09CRm14djR1UTRGVWYtNXg1TG1LUF9PelNK?oc=5",
+      "date": "Thu, 25 Jun 2026 14:38:00 GMT",
+      "source": "CoinNess",
+      "score": 8
     },
     {
       "title": "속보 | 오늘 $93억 상당 BTC 옵션 만기",
