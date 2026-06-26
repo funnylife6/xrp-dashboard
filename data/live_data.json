@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-26T06:49:20",
+  "generated_at": "2026-06-26T10:16:54",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.04,
-    "price_krw": 1600.84,
-    "price_change_24h": -4.1548,
-    "price_change_7d": -8.01403,
-    "price_change_30d": -21.67062,
-    "market_cap_usd": 64703462302,
+    "price_usd": 1.031,
+    "price_krw": 1584.93,
+    "price_change_24h": -4.39357,
+    "price_change_7d": -8.27194,
+    "price_change_30d": -22.33304,
+    "market_cap_usd": 64193584234,
     "market_cap_rank": 6,
-    "volume_24h": 2698453951,
+    "volume_24h": 2613465819,
     "circulating_supply": 62241508805.0,
     "total_supply": 99985645029.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 60.71,
-    "sentiment_votes_down": 39.29,
+    "sentiment_votes_up": 60.17,
+    "sentiment_votes_down": 39.83,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 12.47,
-    "recent_tps": 12.47,
-    "recent_tx_count": 1122,
+    "tps_24h_avg": 15.37,
+    "recent_tps": 15.37,
+    "recent_tx_count": 1368,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 105182692,
+    "recent_window_sec": 89,
+    "ledger_seq": 105185939,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-26 06:49:12 KST",
+    "updated_at": "2026-06-26 10:16:42 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -46,6 +46,120 @@
     "updated_at": "뉴스 자동 파싱 대기",
     "data_source": "news_parse"
   },
-  "etf_news": [],
-  "general_news": []
+  "etf_news": [
+    {
+      "title": "ETF 유입의 긍정적인 변화 — XRP가 순유입을 기록하고 BTC와 ETH는 감소",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uZUtSM2lUQ0dsN0d0S3hiankxQWpfZHk2MV90Tm5IREtJYkZjOGJDN09CVjVMd091bmZKc3RuUW01WER0SXZycmRNVFBiNzUtb0VoZTFR?oc=5",
+      "date": "Thu, 25 Jun 2026 09:23:47 GMT",
+      "source": "Coinfomania",
+      "score": 0
+    },
+    {
+      "title": "[알트 현물 ETF] XRP 홀로 순유입...시장 관망 기류 확산",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhRENocHNRR2VLRGZxUkJqZm5QcExYTWlSUjRlc3FkVlFPcGpGOTMweDVlM0JvMk51MHlpdmRoTjlBR2p6c2xhZ2hqOEVsVjV2S2xYNnZfTVJaaWhzT0FWbNIBZkFVX3lxTE5iNDRRWTM1eEk1QTJXUG1aQ0paZHRvTmdaT05Sb3YtOVlEMEZGTDBEMHFaTEpyOG9RY2Q2NHp4d2NJNWViWmZpNVI0V0RreE1UYTY0aW5ZVG5OUnhKX3p0QXhBeHhhUQ?oc=5",
+      "date": "Thu, 25 Jun 2026 08:31:14 GMT",
+      "source": "tokenpost.kr",
+      "score": 0
+    },
+    {
+      "title": "비트코인·이더리움 유출에도 XRP ETF만 순유입…12거래일째 '무유출'",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE44c3V3WFpaMzNBZmxVVDc3Rk5MRW1jSEkyaVFtNzdSeklSZk5RNUtTWThKYzNhTjFqMFBoTFFrN3ZWY2lpVVFhQ3ZjaWZfSDJxcElTWGlJTzJacmU4cm41LVBCX0xaeEdPM1RFd1UtWkNOcWM?oc=5",
+      "date": "Wed, 24 Jun 2026 00:11:00 GMT",
+      "source": "디지털투데이",
+      "score": 0
+    },
+    {
+      "title": "아르키움 급락·비트코인·리플XRP 하락, 금리 부담 관망",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA0clFhMUZ2Zmlkbkhvb2paYXNIZnloV2VXLUdzejVUVXBHYUFzQWVQME9LM25ocmdHRmg0VmN2d0RUOFhtcDhVa2hEQXIxQXhRalNaa3VkSGJhTUt1cTQ3eWtPM0hqdXpER3ZUNlFoeG1GUQ?oc=5",
+      "date": "Tue, 23 Jun 2026 22:14:09 GMT",
+      "source": "TopStarNews",
+      "score": 0
+    },
+    {
+      "title": "리플 거래량은 버텼다…1달러 지지선·ETF가 분기점 될까",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YOER1eDRiWGM0RlhKWHNmVFo5MTZhTFI2b1p6ME80UnNUWVA4NnBQZEdBUXNETWRpUFhKOThpVGNvMjZ4eUUyRS1uVEp4S01VRzJNWnRwWldyd2JqQ3k2LdIBZkFVX3lxTFB3dXV3a1hVaHVqWHNpMkxlbHM3MU1fN0dxXzRGd0ctSHMweWxZZVRwSWZqOVFxT3NyMGxVRHhvaWZlMlFzR3RkNGhZSGxrMGdzZl9oSGxvMUFYaTNLdm9tMTJTTFBYdw?oc=5",
+      "date": "Tue, 23 Jun 2026 19:42:41 GMT",
+      "source": "tokenpost.kr",
+      "score": 0
+    },
+    {
+      "title": "[알트 현물 ETF] XRP 531만 달러 순유입...LINK는 49만 달러 유출 전환",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5iTGRtMldTX2dOSnVOd1ZfV1NfN1psdWdyZ3JzWFk3X0g4Sks5REhETGc1TUlhUV9INzZocGFSeU92NDNSSHF2TTNGRTQ0NnpZQVlZQjB1N3k4SjhCVEk1bdIBZkFVX3lxTE52S29ObGplbG5BNERQYjNFNmpNeXdHUkdBRk1HczhaeFJsQmNndFpkZEZSUlEtMFhrN0puMDNVUFMzTjlyU0g2UWhHbVpIZGRGbUNOZGhBU1NsR3FEZnE3ZG9NZFZRZw?oc=5",
+      "date": "Tue, 23 Jun 2026 04:56:03 GMT",
+      "source": "tokenpost.kr",
+      "score": 0
+    }
+  ],
+  "general_news": [
+    {
+      "title": "속보 | \"XRP 손절 압력, 2022년 8월 이후 최대\"",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1jWS1aNmVubEh2WGl1NXhORnNjTlM4eFVXWVAtNzlRYWF3aThndGtNSXNMMmlHQmdQcWxub284dHRNLXdrVmZkMQ?oc=5",
+      "date": "Fri, 26 Jun 2026 06:40:09 GMT",
+      "source": "CoinNess",
+      "score": 8
+    },
+    {
+      "title": "리플 RLUSD, XRP 레저서 이더리움 공급량 첫 추월",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81alhRb2VRRFp6QmI0SGNWclBneHBkUldOeURzYm1wQVNXeXFJSHg5bmNYMUp4dG9VbUF0cDVpT204OGJDbUtFaFBNaVhHYXhiLXduTXlqVWV5d2ZLQXVqSS14aUYydmE3ZTlCell3?oc=5",
+      "date": "Fri, 26 Jun 2026 05:13:50 GMT",
+      "source": "미디어파인",
+      "score": 3
+    },
+    {
+      "title": "리플(XRP), RLUSD 공급량 이더리움 추월…일본 진출로 XRP 레저 존재감 커지나",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBfczRGcjJ0Rk9VUlpLaW1QUlZGZFR1LXJDZkowcGlJVzdvSUE3b095MFFueUVMVC1YcnI1ZENMLUNUa1pHTFp3M3ZBY3N1VUdHSVJwaEJZcDkxVFRDbEQyYnZFZw?oc=5",
+      "date": "Fri, 26 Jun 2026 02:48:05 GMT",
+      "source": "CBC뉴스",
+      "score": 3
+    },
+    {
+      "title": "RLUSD 공급 판도 바뀌었다…발행은 XRPL, 상환은 이더리움",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBrcGZfNFlVWkJOOGF1bnR6SDBrYkZoQkRyMzkya0QxN3d0N1ZwdGtQNU5OZTQwRHI2Uk5KSFVFR3hleE5YTEQzUXpWN0pqQmtsbWxQeTVGeUkzOXlQdnNrVmRrM2VWR0xIaUFsMFhJQ0EyOGc?oc=5",
+      "date": "Fri, 26 Jun 2026 01:24:19 GMT",
+      "source": "디지털투데이",
+      "score": 2
+    },
+    {
+      "title": "XRP 레저, RLUSD 공급량서 이더리움(ETH) '첫 역전'...주도권 왜 바뀌었나?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5rbEpGbFNLY1RmMXFfMHJiTkZjVDhHSnhOU19GVTVUN1VJalozdGRFTW15TnFQV3R3djIyNGhxdEI2cmtfcWxDSHN3?oc=5",
+      "date": "Thu, 25 Jun 2026 23:50:00 GMT",
+      "source": "코인리더스",
+      "score": 3
+    },
+    {
+      "title": "비트코인·솔스티스·리플XRP 등락, PCE 충격 속 거래대금 확대",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE93ZEgxLVpuM09QOFN3TUZiZzlhVkNRMVhNMWNHZFhTb2Nual9obHFvZHRydndhUFZ5VmJvQXhmQWh6VnhBV0Y0VFZNWGVwd3Nyc1JBaXduUmJUU1NzdVVfN2R4XzZMckk2cWZ2NllqM0lMQQ?oc=5",
+      "date": "Thu, 25 Jun 2026 22:22:05 GMT",
+      "source": "TopStarNews",
+      "score": 2
+    },
+    {
+      "title": "\"2022년 최악의 바닥과 판박이\"… 리플(XRP), 역사적 과매도 진입에 '반등론' 고개",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZGlGdUFTRHNabnVfb0I1Z0VPNGNaWGZXTWJHWGFKWVZ1bzI5ZWF4bDlheER6VVFKMTg0MHVxalY4OXFSVzdaMFFxOVczQnlYenVzOWZxR1N3LUI1cVNWTk5HeDNRU2ttODdxSXBhRjh4dW91Z2dEbUp0dHlIN3p1c25lazNWSVFn?oc=5",
+      "date": "Thu, 25 Jun 2026 21:20:28 GMT",
+      "source": "글로벌이코노믹",
+      "score": 2
+    },
+    {
+      "title": "리플-SBI, 일본 금융청 승인으로 RLUSD 공식 출시…아시아 스테이블코인 시장 판도 바뀐다",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GRGtpZ1V6YUVhMGZ5QWFFMVpGbGx0bHZLMzFQME13ZmhmZ3pBRk5ra1NUZ09XTkNnbGd4VExwb3BGM2R3dkFfWjJxcHFEd2swWmxBLW1nRlVjUnJLaEMyaERSQmZZcF9sQjM1MFBPTFg?oc=5",
+      "date": "Thu, 25 Jun 2026 06:56:23 GMT",
+      "source": "블록체인투데이",
+      "score": 2
+    },
+    {
+      "title": "호재 이어진 솔라나엔 개인 ‘롱’ 집중… OKX 고래는 XRP에 베팅",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qT2VZejBqT1dpQy0yTnhvN2pxT20tTlRsYkI5UXpyUi1tRVZSVWdRdDlwckRSajVBTkMybDd2UHNDazk2QzNqRnRjc2x2dVczVGh6WVdMZy1odUFVOWFYSVQxbzBZWnczYzRNNGw5alk?oc=5",
+      "date": "Thu, 25 Jun 2026 06:25:06 GMT",
+      "source": "블록체인투데이",
+      "score": 2
+    },
+    {
+      "title": "리플, 유럽을 한 번에 품었다 (XRP, 리플코인)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT0lwSU44MERjQlJkbFhENUZ3cEtJOHZ4dkR5UUVicWV4bzRlVHlhSnhXdFRrdTVXT2RPOFQxTGdWc1A0R1NWZ2xIMGp0dlFDV2laXzBFLXl4TDBQVlM4NkxQSjJLUHRJZHJVaEwxUlJBeE5sMkw3d1QyWExOTVExcGFzSlhLSDdQNGRQNQ?oc=5",
+      "date": "Thu, 25 Jun 2026 05:13:00 GMT",
+      "source": "네이버 프리미엄콘텐츠",
+      "score": 2
+    }
+  ]
 }
