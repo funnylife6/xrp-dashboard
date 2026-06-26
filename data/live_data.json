@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-26T22:42:26",
+  "generated_at": "2026-06-26T23:57:43",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.043,
-    "price_krw": 1601.81,
-    "price_change_24h": 0.35442,
-    "price_change_7d": -7.66911,
-    "price_change_30d": -20.46333,
-    "market_cap_usd": 64893940115,
+    "price_usd": 1.047,
+    "price_krw": 1607.5,
+    "price_change_24h": 0.47115,
+    "price_change_7d": -7.62472,
+    "price_change_30d": -20.05879,
+    "market_cap_usd": 65156275731,
     "market_cap_rank": 6,
-    "volume_24h": 2473314087,
+    "volume_24h": 2369184164,
     "circulating_supply": 62241508805.0,
     "total_supply": 99985645029.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 61.8,
-    "sentiment_votes_down": 38.2,
+    "sentiment_votes_up": 60.44,
+    "sentiment_votes_down": 39.56,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 16.8,
-    "recent_tps": 16.8,
-    "recent_tx_count": 1495,
+    "tps_24h_avg": 13.97,
+    "recent_tps": 13.97,
+    "recent_tx_count": 1257,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 105197551,
+    "recent_window_sec": 90,
+    "ledger_seq": 105198727,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-26 22:42:12 KST",
+    "updated_at": "2026-06-26 23:57:36 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,11 +92,25 @@
   ],
   "general_news": [
     {
+      "title": "어드벤처골드 급등·비트코인·리플XRP 보합…PCE 관망",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBoc1MxVU1pQktvREhWVDNtMjlqVVZSaHpNRl9uRldXWTF1a0J6RkJISjAwdWhYMGU2clVqZW9NazJyNk9JZmRNV3R1eExrMEd0RF8zRGxMU1ZUejB3X0dsZ18yRThPMjlDSV9TY2dmbUJXQQ?oc=5",
+      "date": "Fri, 26 Jun 2026 23:10:33 GMT",
+      "source": "TopStarNews",
+      "score": 2
+    },
+    {
       "title": "리플(XRP), 주간 최악 성과에도 불구하고 기관 자금 유입 증가세",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CUEZXZFdlS3VXUEhRSjJGVnp6WGlfa3lVU3dBeTBuN2hwVmpCbGxjeGgtREtoV25iUzE2dHdXVVFxZDJtSmI5UGp1RnJKZ0cyMjYwLV9zZFpsenVWaEJhbNIBZkFVX3lxTE9JUlNKRU9oOXppaUtFUGVhTmZfdHo5UlUyeWJ0MXhLQkZVNEdpTUpaZ25UcWstSkI5akdYdGNJM1Z1d3pEWm5Cb3J4eHYzT3Z0dUxxcHhJRjFPMlZIMmpaLWk1dkQxdw?oc=5",
       "date": "Fri, 26 Jun 2026 21:08:33 GMT",
       "source": "tokenpost.kr",
       "score": 4
+    },
+    {
+      "title": "리플(XRP), 1달러 지지선 사수 안간힘…롱 포지션 청산에 약세 심화",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5vNUFFaUFDemxGeVJvLXNkRGdlRnVCM2d0bS1kLWZJTWJQQW4yZGM5QTc2ZWZOZHVoRlFubkZoZDhkQjhnR1RNWjZB?oc=5",
+      "date": "Fri, 26 Jun 2026 07:58:00 GMT",
+      "source": "코인리더스",
+      "score": 2
     },
     {
       "title": "잠자던 XRP가 깨어난다, 디센트가 이끄는 'XRP Alliance' 완전 정리 (리플, 리플코인)",
@@ -127,13 +141,6 @@
       "score": 2
     },
     {
-      "title": "비트코인·솔스티스·리플XRP 등락, PCE 충격 속 거래대금 확대",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE93ZEgxLVpuM09QOFN3TUZiZzlhVkNRMVhNMWNHZFhTb2Nual9obHFvZHRydndhUFZ5VmJvQXhmQWh6VnhBV0Y0VFZNWGVwd3Nyc1JBaXduUmJUU1NzdVVfN2R4XzZMckk2cWZ2NllqM0lMQQ?oc=5",
-      "date": "Thu, 25 Jun 2026 22:22:05 GMT",
-      "source": "TopStarNews",
-      "score": 2
-    },
-    {
       "title": "\"2022년 최악의 바닥과 판박이\"… 리플(XRP), 역사적 과매도 진입에 '반등론' 고개",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZGlGdUFTRHNabnVfb0I1Z0VPNGNaWGZXTWJHWGFKWVZ1bzI5ZWF4bDlheER6VVFKMTg0MHVxalY4OXFSVzdaMFFxOVczQnlYenVzOWZxR1N3LUI1cVNWTk5HeDNRU2ttODdxSXBhRjh4dW91Z2dEbUp0dHlIN3p1c25lazNWSVFn?oc=5",
       "date": "Thu, 25 Jun 2026 21:20:28 GMT",
@@ -153,13 +160,6 @@
       "date": "Thu, 25 Jun 2026 08:00:00 GMT",
       "source": "CoinNess",
       "score": 8
-    },
-    {
-      "title": "리플-SBI, 일본 금융청 승인으로 RLUSD 공식 출시…아시아 스테이블코인 시장 판도 바뀐다",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GRGtpZ1V6YUVhMGZ5QWFFMVpGbGx0bHZLMzFQME13ZmhmZ3pBRk5ra1NUZ09XTkNnbGd4VExwb3BGM2R3dkFfWjJxcHFEd2swWmxBLW1nRlVjUnJLaEMyaERSQmZZcF9sQjM1MFBPTFg?oc=5",
-      "date": "Thu, 25 Jun 2026 06:56:23 GMT",
-      "source": "블록체인투데이",
-      "score": 2
     }
   ]
 }
