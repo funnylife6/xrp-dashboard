@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-26T21:03:18",
+  "generated_at": "2026-06-26T22:42:26",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.043,
-    "price_krw": 1601.76,
-    "price_change_24h": 1.23267,
-    "price_change_7d": -7.67791,
-    "price_change_30d": -21.45729,
-    "market_cap_usd": 64953667442,
+    "price_krw": 1601.81,
+    "price_change_24h": 0.35442,
+    "price_change_7d": -7.66911,
+    "price_change_30d": -20.46333,
+    "market_cap_usd": 64893940115,
     "market_cap_rank": 6,
-    "volume_24h": 2482870691,
+    "volume_24h": 2473314087,
     "circulating_supply": 62241508805.0,
     "total_supply": 99985645029.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 63.33,
-    "sentiment_votes_down": 36.67,
+    "sentiment_votes_up": 61.8,
+    "sentiment_votes_down": 38.2,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 14.54,
-    "recent_tps": 14.54,
-    "recent_tx_count": 1294,
+    "tps_24h_avg": 16.8,
+    "recent_tps": 16.8,
+    "recent_tx_count": 1495,
     "recent_ledger_count": 24,
     "recent_window_sec": 89,
-    "ledger_seq": 105196002,
+    "ledger_seq": 105197551,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-26 21:03:04 KST",
+    "updated_at": "2026-06-26 22:42:12 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -47,6 +47,13 @@
     "data_source": "news_parse"
   },
   "etf_news": [
+    {
+      "title": "리플(XRP), 주간 최악 성과에도 불구하고 기관 자금 유입 증가세",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CUEZXZFdlS3VXUEhRSjJGVnp6WGlfa3lVU3dBeTBuN2hwVmpCbGxjeGgtREtoV25iUzE2dHdXVVFxZDJtSmI5UGp1RnJKZ0cyMjYwLV9zZFpsenVWaEJhbNIBZkFVX3lxTE9JUlNKRU9oOXppaUtFUGVhTmZfdHo5UlUyeWJ0MXhLQkZVNEdpTUpaZ25UcWstSkI5akdYdGNJM1Z1d3pEWm5Cb3J4eHYzT3Z0dUxxcHhJRjFPMlZIMmpaLWk1dkQxdw?oc=5",
+      "date": "Fri, 26 Jun 2026 21:08:33 GMT",
+      "source": "tokenpost.kr",
+      "score": 0
+    },
     {
       "title": "ETF 유입의 긍정적인 변화 — XRP가 순유입을 기록하고 BTC와 ETH는 감소",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uZUtSM2lUQ0dsN0d0S3hiankxQWpfZHk2MV90Tm5IREtJYkZjOGJDN09CVjVMd091bmZKc3RuUW01WER0SXZycmRNVFBiNzUtb0VoZTFR?oc=5",
@@ -81,22 +88,15 @@
       "date": "Wed, 24 Jun 2026 00:11:00 GMT",
       "source": "디지털투데이",
       "score": 0
-    },
-    {
-      "title": "아르키움 급락·비트코인·리플XRP 하락, 금리 부담 관망",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA0clFhMUZ2Zmlkbkhvb2paYXNIZnloV2VXLUdzejVUVXBHYUFzQWVQME9LM25ocmdHRmg0VmN2d0RUOFhtcDhVa2hEQXIxQXhRalNaa3VkSGJhTUt1cTQ3eWtPM0hqdXpER3ZUNlFoeG1GUQ?oc=5",
-      "date": "Tue, 23 Jun 2026 22:14:09 GMT",
-      "source": "TopStarNews",
-      "score": 0
     }
   ],
   "general_news": [
     {
-      "title": "리플(XRP), 1달러 지지선 사수 안간힘…롱 포지션 청산에 약세 심화",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5vNUFFaUFDemxGeVJvLXNkRGdlRnVCM2d0bS1kLWZJTWJQQW4yZGM5QTc2ZWZOZHVoRlFubkZoZDhkQjhnR1RNWjZB?oc=5",
-      "date": "Fri, 26 Jun 2026 07:58:00 GMT",
-      "source": "코인리더스",
-      "score": 2
+      "title": "리플(XRP), 주간 최악 성과에도 불구하고 기관 자금 유입 증가세",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CUEZXZFdlS3VXUEhRSjJGVnp6WGlfa3lVU3dBeTBuN2hwVmpCbGxjeGgtREtoV25iUzE2dHdXVVFxZDJtSmI5UGp1RnJKZ0cyMjYwLV9zZFpsenVWaEJhbNIBZkFVX3lxTE9JUlNKRU9oOXppaUtFUGVhTmZfdHo5UlUyeWJ0MXhLQkZVNEdpTUpaZ25UcWstSkI5akdYdGNJM1Z1d3pEWm5Cb3J4eHYzT3Z0dUxxcHhJRjFPMlZIMmpaLWk1dkQxdw?oc=5",
+      "date": "Fri, 26 Jun 2026 21:08:33 GMT",
+      "source": "tokenpost.kr",
+      "score": 4
     },
     {
       "title": "잠자던 XRP가 깨어난다, 디센트가 이끄는 'XRP Alliance' 완전 정리 (리플, 리플코인)",
