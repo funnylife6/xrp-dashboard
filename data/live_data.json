@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-26T12:30:05",
+  "generated_at": "2026-06-26T15:12:19",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.027,
-    "price_krw": 1578.29,
-    "price_change_24h": -3.85709,
-    "price_change_7d": -8.84024,
-    "price_change_30d": -22.70636,
-    "market_cap_usd": 63900681385,
+    "price_usd": 1.037,
+    "price_krw": 1591.53,
+    "price_change_24h": 1.08802,
+    "price_change_7d": -8.7726,
+    "price_change_30d": -21.78414,
+    "market_cap_usd": 64553662483,
     "market_cap_rank": 6,
-    "volume_24h": 2619309353,
+    "volume_24h": 2553896632,
     "circulating_supply": 62241508805.0,
     "total_supply": 99985645029.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 59.82,
-    "sentiment_votes_down": 40.18,
+    "sentiment_votes_up": 58.72,
+    "sentiment_votes_down": 41.28,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 17.88,
-    "recent_tps": 17.88,
-    "recent_tx_count": 1609,
+    "tps_24h_avg": 16.33,
+    "recent_tps": 16.33,
+    "recent_tx_count": 1470,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 105188022,
+    "ledger_seq": 105190535,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-26 12:29:52 KST",
+    "updated_at": "2026-06-26 15:12:12 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,11 +92,11 @@
   ],
   "general_news": [
     {
-      "title": "속보 | \"XRP 손절 압력, 2022년 8월 이후 최대\"",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1jWS1aNmVubEh2WGl1NXhORnNjTlM4eFVXWVAtNzlRYWF3aThndGtNSXNMMmlHQmdQcWxub284dHRNLXdrVmZkMQ?oc=5",
-      "date": "Fri, 26 Jun 2026 06:40:09 GMT",
-      "source": "CoinNess",
-      "score": 8
+      "title": "잠자던 XRP가 깨어난다, 디센트가 이끄는 'XRP Alliance' 완전 정리 (리플, 리플코인)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObE9aY0syVDYwWVEySkdHQnFBRW1UMmNTblprTUdZc1IxN1M4bjV1Mk9nYmd4YnJVLUpHREE2OGhQU253SktJdTVSSWd5U1RLUmdqdzVRcnhDVmFDRnhZcjVURjBoLS1aR294WFJNWUg0TjJra3ZSRjZ0VU91ektETGhrRldxWHZWR3pVbQ?oc=5",
+      "date": "Fri, 26 Jun 2026 07:09:00 GMT",
+      "source": "네이버 프리미엄콘텐츠",
+      "score": 2
     },
     {
       "title": "리플 RLUSD, XRP 레저서 이더리움 공급량 첫 추월",
@@ -107,7 +107,7 @@
     },
     {
       "title": "리플(XRP), RLUSD 공급량 이더리움 추월…일본 진출로 XRP 레저 존재감 커지나",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NcHg2OTJpZEVKZVU0RVl1cDhBWWtTTTNfWldyazYyNnpLYWhOQ3NBalNydlNyMlNrUWlqM001UThWQlZhZ0F3d1NsbHd4WmVuektSUXBRUGRxWTNBUFNQbE9zMWN5T1Rz?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBfczRGcjJ0Rk9VUlpLaW1QUlZGZFR1LXJDZkowcGlJVzdvSUE3b095MFFueUVMVC1YcnI1ZENMLUNUa1pHTFp3M3ZBY3N1VUdHSVJwaEJZcDkxVFRDbEQyYnZFZw?oc=5",
       "date": "Fri, 26 Jun 2026 02:48:05 GMT",
       "source": "CBC뉴스",
       "score": 3
@@ -118,13 +118,6 @@
       "date": "Fri, 26 Jun 2026 01:24:19 GMT",
       "source": "디지털투데이",
       "score": 2
-    },
-    {
-      "title": "XRP 레저, RLUSD 공급량서 이더리움(ETH) '첫 역전'...주도권 왜 바뀌었나?",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5rbEpGbFNLY1RmMXFfMHJiTkZjVDhHSnhOU19GVTVUN1VJalozdGRFTW15TnFQV3R3djIyNGhxdEI2cmtfcWxDSHN3?oc=5",
-      "date": "Thu, 25 Jun 2026 23:50:00 GMT",
-      "source": "코인리더스",
-      "score": 3
     },
     {
       "title": "비트코인·솔스티스·리플XRP 등락, PCE 충격 속 거래대금 확대",
@@ -139,6 +132,13 @@
       "date": "Thu, 25 Jun 2026 21:20:28 GMT",
       "source": "글로벌이코노믹",
       "score": 2
+    },
+    {
+      "title": "\"XRP 손절 압력, 2022년 8월 이후 최대\"",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBYckU2S2F5Zk1tUUNUMEJQNVZ2SHhiZ1pILTd1TlFQaVJoa1hEa1J6VXRpbnA1V09CRm14djR1UTRGVWYtNXg1TG1LUF9PelNK?oc=5",
+      "date": "Thu, 25 Jun 2026 14:38:00 GMT",
+      "source": "CoinNess",
+      "score": 8
     },
     {
       "title": "속보 | 오늘 $93억 상당 BTC 옵션 만기",
