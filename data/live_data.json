@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-06-27T17:00:56",
+  "generated_at": "2026-06-27T18:42:27",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.069,
-    "price_krw": 1640.62,
-    "price_change_24h": 2.29699,
-    "price_change_7d": -7.02787,
-    "price_change_30d": -18.35849,
-    "market_cap_usd": 66511710809,
+    "price_usd": 1.058,
+    "price_krw": 1623.73,
+    "price_change_24h": 1.57247,
+    "price_change_7d": -7.42412,
+    "price_change_30d": -20.11147,
+    "market_cap_usd": 65824562582,
     "market_cap_rank": 6,
-    "volume_24h": 1345665515,
+    "volume_24h": 1319741604,
     "circulating_supply": 62241508805.0,
     "total_supply": 99985645029.0,
     "ath_usd": 3.65,
@@ -22,16 +22,16 @@
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 18.47,
-    "recent_tps": 18.47,
-    "recent_tx_count": 1662,
+    "tps_24h_avg": 12.44,
+    "recent_tps": 12.44,
+    "recent_tx_count": 1107,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 105214746,
+    "recent_window_sec": 89,
+    "ledger_seq": 105216343,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-27 17:00:43 KST",
+    "updated_at": "2026-06-27 18:42:14 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 11660000,
     "total_net_inflow_usd": 11660000,
     "total_value_traded_usd": 11660000,
-    "updated_at": "SoSoValue 순유입 부분 수집 06/27 17:00",
+    "updated_at": "SoSoValue 순유입 부분 수집 06/27 18:42",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -100,6 +100,13 @@
       "score": 2
     },
     {
+      "title": "리플 CEO, 비트코인 낙관…세일러식 매입 전략은 비판",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9NU0d0dTJ4UEpjMm1kV0xpSzFIX29HYi1rVmZPWWNZSENTOEdpdjhVc2taeDB6YmVnTkYtUk8yODFjZi1seEtSdzFvTlpZc2l1ZW1hXzNfYnFiYS1EYnk1UlRzWnBrMkhCYkluX29TQTgtdDQ?oc=5",
+      "date": "Sat, 27 Jun 2026 11:58:28 GMT",
+      "source": "디지털투데이",
+      "score": 2
+    },
+    {
       "title": "XRP, 1달러 지지선 확인 후 기술적 과매도 해소",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwa2NPQk1mZ2hxOURib1lwdEZkMUhsaTFhUUZGVWx2YTRQSDJZVm9WNHEwTjZ6M2k5YkliLXo4MGhGTmo2aFFabGNtbEp1T3ZXVHJUM2lvQnVTOU9ra25SatIBZkFVX3lxTFBSZVZIOWpob002Nlk0SERYQnU3bGhoY25hS0V4dkloVHJkNlZNUElnUEo0bHQ0a0NNcUpEX21oVXAzWkJvZFMzMXlScFVQQ2h6Vnl4MTYySElERG11VlkzMXVyRjRsZw?oc=5",
       "date": "Sat, 27 Jun 2026 05:07:19 GMT",
@@ -135,13 +142,6 @@
       "score": 4
     },
     {
-      "title": "잠자던 XRP가 깨어난다, 디센트가 이끄는 'XRP Alliance' 완전 정리 (리플, 리플코인)",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObE9aY0syVDYwWVEySkdHQnFBRW1UMmNTblprTUdZc1IxN1M4bjV1Mk9nYmd4YnJVLUpHREE2OGhQU253SktJdTVSSWd5U1RLUmdqdzVRcnhDVmFDRnhZcjVURjBoLS1aR294WFJNWUg0TjJra3ZSRjZ0VU91ektETGhrRldxWHZWR3pVbQ?oc=5",
-      "date": "Fri, 26 Jun 2026 07:09:00 GMT",
-      "source": "네이버 프리미엄콘텐츠",
-      "score": 2
-    },
-    {
       "title": "속보 | 리플 CEO \"세일러의 스트래티지, 시장에 악영향\"",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DNklvb2FHSWxYbzNnT1ZURXlpSkpXVHo2eVc2MzBlVjUwdExVck9qaU9lbzQtV1JqWmhRSGhubVc2cGtlOGJFVVc2LWhFeDZR?oc=5",
       "date": "Fri, 26 Jun 2026 04:26:00 GMT",
@@ -149,17 +149,17 @@
       "score": 9
     },
     {
-      "title": "XRP 하락세 지속…1달러 깨지면 0.88달러·0.70달러가 분기점",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE44dV84NGhaM1Bwekw1blZwMjJpNGhLeklfaDBMQVdaUncxSko0ZV9fMUY4S0tFdm9xQkJCdjZjNWgtTmp3YzVHN2M5enF2VGpkcGF1eVIxNU9lU1otX2Vna2JfU1ZKVkxCNEtjQ0JfQTJvRW8?oc=5",
-      "date": "Fri, 26 Jun 2026 02:21:00 GMT",
-      "source": "디지털투데이",
-      "score": 2
-    },
-    {
       "title": "\"2022년 최악의 바닥과 판박이\"… 리플(XRP), 역사적 과매도 진입에 '반등론' 고개",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZGlGdUFTRHNabnVfb0I1Z0VPNGNaWGZXTWJHWGFKWVZ1bzI5ZWF4bDlheER6VVFKMTg0MHVxalY4OXFSVzdaMFFxOVczQnlYenVzOWZxR1N3LUI1cVNWTk5HeDNRU2ttODdxSXBhRjh4dW91Z2dEbUp0dHlIN3p1c25lazNWSVFn?oc=5",
       "date": "Thu, 25 Jun 2026 21:20:28 GMT",
       "source": "글로벌이코노믹",
+      "score": 2
+    },
+    {
+      "title": "리플-SBI, 일본 금융청 승인으로 RLUSD 공식 출시…아시아 스테이블코인 시장 판도 바뀐다",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GRGtpZ1V6YUVhMGZ5QWFFMVpGbGx0bHZLMzFQME13ZmhmZ3pBRk5ra1NUZ09XTkNnbGd4VExwb3BGM2R3dkFfWjJxcHFEd2swWmxBLW1nRlVjUnJLaEMyaERSQmZZcF9sQjM1MFBPTFg?oc=5",
+      "date": "Thu, 25 Jun 2026 06:56:23 GMT",
+      "source": "블록체인투데이",
       "score": 2
     }
   ]
