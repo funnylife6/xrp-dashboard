@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-27T21:35:37",
+  "generated_at": "2026-06-27T22:56:49",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.056,
-    "price_krw": 1620.73,
-    "price_change_24h": 1.21794,
-    "price_change_7d": -7.59461,
-    "price_change_30d": -19.82379,
-    "market_cap_usd": 65688178831,
+    "price_usd": 1.052,
+    "price_krw": 1614.43,
+    "price_change_24h": 0.59895,
+    "price_change_7d": -8.1237,
+    "price_change_30d": -20.34492,
+    "market_cap_usd": 65432570922,
     "market_cap_rank": 6,
-    "volume_24h": 1231091615,
+    "volume_24h": 1224611706,
     "circulating_supply": 62241508805.0,
     "total_supply": 99985645029.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 61.36,
-    "sentiment_votes_down": 38.64,
+    "sentiment_votes_up": 64.63,
+    "sentiment_votes_down": 35.37,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 15.83,
-    "recent_tps": 15.83,
-    "recent_tx_count": 1409,
+    "tps_24h_avg": 13.3,
+    "recent_tps": 13.3,
+    "recent_tx_count": 1091,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 105219067,
+    "recent_window_sec": 82,
+    "ledger_seq": 105220345,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-27 21:35:27 KST",
+    "updated_at": "2026-06-27 22:56:38 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 11660000,
     "total_net_inflow_usd": 11660000,
     "total_value_traded_usd": 11660000,
-    "updated_at": "SoSoValue 순유입 부분 수집 06/27 21:35",
+    "updated_at": "SoSoValue 순유입 부분 수집 06/27 22:56",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -93,18 +93,25 @@
   ],
   "general_news": [
     {
+      "title": "리플 프라임, 美 DTCC 자체 청산 회원 등극…XRP에 미치는 영향은?",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVU9NT3llWGRTZ1NucVEtbGN2SG5aYzk2Q1JMU2VxQkpkS2ZZY29iMVo5S0ZHVDFnV0FGSEh2eUg0YzlFa2l5ZkJNblpuc1Y1eDc3TWxnS3dpRDZmTDl2SFNZUDFjWHBwYjFCRDlKX3RIUW1UT3pWLVQxZm5vblFLNWw1Vk9FLUF1?oc=5",
+      "date": "Sat, 27 Jun 2026 22:28:33 GMT",
+      "source": "글로벌이코노믹",
+      "score": 2
+    },
+    {
+      "title": "솔스티스 급등·리플XRP 보합·비트코인 보합, 국채금리 하락에도 관망",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE56LTlYNFhOdFQtQ1VURVo4a1R2SnNaX1dEWk1sMUdtaHNPaEhYdHlZMGpWZUlIcUE5aWFtTlhySHBSQnBpQXJFNmRGc2ViUHY2aklnekk2SjBhcGVTdG5sZkVELU1kQWV3WjBfeFp0SUpXZw?oc=5",
+      "date": "Sat, 27 Jun 2026 22:04:19 GMT",
+      "source": "TopStarNews",
+      "score": 2
+    },
+    {
       "title": "리플(XRP), 1달러 초반대 머물며 52주 저점 근접…RLUSD로 글로벌 시장 확장",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FSkNUa3FDU3Vva19obU1iTlROQVAxUlNaVVJMQzhUTmRobjc0VVRUNTQ3Z2ZpSWlXUVV3UmdlNk1oMThvcHh1NTcyMjlha1RjbVRTWFI5a2xSRzBzcHo0aNIBZkFVX3lxTE1tT3d1alBVbEcwd1V0cmlTTmstcEhiZmZ1blBrbENjaWtTN05PVWhNOXp6TDk4VWktVnpsZEVVekd4cFNIak92X1liUEhvUFZiRW1mck5XaTA4azN4TGY0Qm1ZUmJkQQ?oc=5",
       "date": "Sat, 27 Jun 2026 21:07:18 GMT",
       "source": "tokenpost.kr",
-      "score": 4
-    },
-    {
-      "title": "리플(XRP), 내년에도 1달러 지킬까…예측시장 \"78% 확률로 방어\"",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE94SnhzMldHeU5VWUxSLUZSZUpnSVhUdDBOS2VXcERQazlOU2I1TmNPa3V3NXNOVWZpMm1ILWhnck9sOC10b0w1WFZR?oc=5",
-      "date": "Sat, 27 Jun 2026 12:12:00 GMT",
-      "source": "코인리더스",
-      "score": 2
+      "score": 3
     },
     {
       "title": "리플 CEO, 비트코인 낙관…세일러식 매입 전략은 비판",
@@ -128,18 +135,18 @@
       "score": 2
     },
     {
-      "title": "어드벤처골드 급등·비트코인·리플XRP 보합…PCE 관망",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBoc1MxVU1pQktvREhWVDNtMjlqVVZSaHpNRl9uRldXWTF1a0J6RkJISjAwdWhYMGU2clVqZW9NazJyNk9JZmRNV3R1eExrMEd0RF8zRGxMU1ZUejB3X0dsZ18yRThPMjlDSV9TY2dmbUJXQQ?oc=5",
-      "date": "Fri, 26 Jun 2026 23:10:33 GMT",
-      "source": "TopStarNews",
+      "title": "XRP(리플), 실사용에 투자자 불만 폭주...역대 최고액 기부하면 뭐하나",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9SYk5aejRuZHNoSURWVnNYWFhrdDllMFZjRzd3em9xMV94OFRQbVFkOVBIdEJ1MlQ3cTRmZXBOTUZtOW16ZHkxNkNB?oc=5",
+      "date": "Sat, 27 Jun 2026 03:00:00 GMT",
+      "source": "코인리더스",
       "score": 2
     },
     {
-      "title": "리플(XRP), 주간 최악 성과에도 불구하고 기관 자금 유입 증가세",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CUEZXZFdlS3VXUEhRSjJGVnp6WGlfa3lVU3dBeTBuN2hwVmpCbGxjeGgtREtoV25iUzE2dHdXVVFxZDJtSmI5UGp1RnJKZ0cyMjYwLV9zZFpsenVWaEJhbNIBZkFVX3lxTE9JUlNKRU9oOXppaUtFUGVhTmZfdHo5UlUyeWJ0MXhLQkZVNEdpTUpaZ25UcWstSkI5akdYdGNJM1Z1d3pEWm5Cb3J4eHYzT3Z0dUxxcHhJRjFPMlZIMmpaLWk1dkQxdw?oc=5",
-      "date": "Fri, 26 Jun 2026 21:08:33 GMT",
-      "source": "tokenpost.kr",
-      "score": 3
+      "title": "속보 | XRP 현물 ETF, 8주 연속 순유입... BTC·ETH 부진 속 강세",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB4MXNENzMtODNzOWJVangydkM1bU5meG9oc09nblNsTnJoVHZhS3pPRWpmYnIyLWxXY21kaFBydkFtV19PTmNtZEdrQk1ORGVC?oc=5",
+      "date": "Fri, 26 Jun 2026 21:34:00 GMT",
+      "source": "CoinNess",
+      "score": 10
     },
     {
       "title": "X머니 파트너에 크로스리버…XRP 연동 가능성 주목",
@@ -154,13 +161,6 @@
       "date": "Fri, 26 Jun 2026 04:26:00 GMT",
       "source": "CoinNess",
       "score": 9
-    },
-    {
-      "title": "RLUSD 공급 판도 바뀌었다…발행은 XRPL, 상환은 이더리움",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBrcGZfNFlVWkJOOGF1bnR6SDBrYkZoQkRyMzkya0QxN3d0N1ZwdGtQNU5OZTQwRHI2Uk5KSFVFR3hleE5YTEQzUXpWN0pqQmtsbWxQeTVGeUkzOXlQdnNrVmRrM2VWR0xIaUFsMFhJQ0EyOGc?oc=5",
-      "date": "Fri, 26 Jun 2026 01:24:19 GMT",
-      "source": "디지털투데이",
-      "score": 2
     }
   ]
 }
