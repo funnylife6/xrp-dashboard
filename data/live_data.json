@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-27T14:23:47",
+  "generated_at": "2026-06-27T15:47:11",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.064,
-    "price_krw": 1634.25,
-    "price_change_24h": 2.38322,
-    "price_change_7d": -6.98866,
-    "price_change_30d": -17.62982,
-    "market_cap_usd": 66252981610,
+    "price_usd": 1.074,
+    "price_krw": 1648.2,
+    "price_change_24h": 2.76576,
+    "price_change_7d": -5.86607,
+    "price_change_30d": -17.34506,
+    "market_cap_usd": 66826287846,
     "market_cap_rank": 6,
-    "volume_24h": 1603727053,
+    "volume_24h": 1422057321,
     "circulating_supply": 62241508805.0,
     "total_supply": 99985645029.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 65.82,
-    "sentiment_votes_down": 34.18,
+    "sentiment_votes_up": 63.75,
+    "sentiment_votes_down": 36.25,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 13.45,
-    "recent_tps": 13.45,
-    "recent_tx_count": 1197,
+    "tps_24h_avg": 23.57,
+    "recent_tps": 23.57,
+    "recent_tx_count": 2098,
     "recent_ledger_count": 24,
     "recent_window_sec": 89,
-    "ledger_seq": 105212286,
+    "ledger_seq": 105213595,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-27 14:23:35 KST",
+    "updated_at": "2026-06-27 15:47:05 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 11660000,
     "total_net_inflow_usd": 11660000,
     "total_value_traded_usd": 11660000,
-    "updated_at": "SoSoValue 순유입 부분 수집 06/27 14:23",
+    "updated_at": "SoSoValue 순유입 부분 수집 06/27 15:47",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -84,10 +84,10 @@
       "score": 0
     },
     {
-      "title": "[알트 현물 ETF] XRP 홀로 순유입...시장 관망 기류 확산",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhRENocHNRR2VLRGZxUkJqZm5QcExYTWlSUjRlc3FkVlFPcGpGOTMweDVlM0JvMk51MHlpdmRoTjlBR2p6c2xhZ2hqOEVsVjV2S2xYNnZfTVJaaWhzT0FWbNIBZkFVX3lxTE5iNDRRWTM1eEk1QTJXUG1aQ0paZHRvTmdaT05Sb3YtOVlEMEZGTDBEMHFaTEpyOG9RY2Q2NHp4d2NJNWViWmZpNVI0V0RreE1UYTY0aW5ZVG5OUnhKX3p0QXhBeHhhUQ?oc=5",
-      "date": "Thu, 25 Jun 2026 08:31:14 GMT",
-      "source": "tokenpost.kr",
+      "title": "업비트, 국내 최초 미국 비트코인·이더리움 ‘현물 ETF 동향’ 서비스 출시",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5IZE9uLUo5X3J0NGFvWEt0ajJfbWlxczdUd3ZYLWt3UTlyYzdkTnQ5Z190eGc1bGs1TjRXQ1NKM1puRXFpMlZtaHV2VVBOTUp6T19wek9tZVUtMEY3bVVvTHlOUVBmQWo4N08xWVZjaTI5QdIBckFVX3lxTE5IZE9uLUo5X3J0NGFvWEt0ajJfbWlxczdUd3ZYLWt3UTlyYzdkTnQ5Z190eGc1bGs1TjRXQ1NKM1puRXFpMlZtaHV2VVBOTUp6T19wek9tZVUtMEY3bVVvTHlOUVBmQWo4N08xWVZjaTI5QQ?oc=5",
+      "date": "Thu, 25 Jun 2026 00:22:26 GMT",
+      "source": "메가경제",
       "score": 0
     }
   ],
@@ -97,13 +97,6 @@
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE94SnhzMldHeU5VWUxSLUZSZUpnSVhUdDBOS2VXcERQazlOU2I1TmNPa3V3NXNOVWZpMm1ILWhnck9sOC10b0w1WFZR?oc=5",
       "date": "Sat, 27 Jun 2026 12:12:00 GMT",
       "source": "코인리더스",
-      "score": 2
-    },
-    {
-      "title": "XRP, 1달러 지지선 확인 후 기술적 과매도 해소",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwa2NPQk1mZ2hxOURib1lwdEZkMUhsaTFhUUZGVWx2YTRQSDJZVm9WNHEwTjZ6M2k5YkliLXo4MGhGTmo2aFFabGNtbEp1T3ZXVHJUM2lvQnVTOU9ra25SatIBZkFVX3lxTFBSZVZIOWpob002Nlk0SERYQnU3bGhoY25hS0V4dkloVHJkNlZNUElnUEo0bHQ0a0NNcUpEX21oVXAzWkJvZFMzMXlScFVQQ2h6Vnl4MTYySElERG11VlkzMXVyRjRsZw?oc=5",
-      "date": "Sat, 27 Jun 2026 05:07:19 GMT",
-      "source": "tokenpost.kr",
       "score": 2
     },
     {
@@ -132,7 +125,7 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CUEZXZFdlS3VXUEhRSjJGVnp6WGlfa3lVU3dBeTBuN2hwVmpCbGxjeGgtREtoV25iUzE2dHdXVVFxZDJtSmI5UGp1RnJKZ0cyMjYwLV9zZFpsenVWaEJhbNIBZkFVX3lxTE9JUlNKRU9oOXppaUtFUGVhTmZfdHo5UlUyeWJ0MXhLQkZVNEdpTUpaZ25UcWstSkI5akdYdGNJM1Z1d3pEWm5Cb3J4eHYzT3Z0dUxxcHhJRjFPMlZIMmpaLWk1dkQxdw?oc=5",
       "date": "Fri, 26 Jun 2026 21:08:33 GMT",
       "source": "tokenpost.kr",
-      "score": 4
+      "score": 3
     },
     {
       "title": "잠자던 XRP가 깨어난다, 디센트가 이끄는 'XRP Alliance' 완전 정리 (리플, 리플코인)",
@@ -160,6 +153,13 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZGlGdUFTRHNabnVfb0I1Z0VPNGNaWGZXTWJHWGFKWVZ1bzI5ZWF4bDlheER6VVFKMTg0MHVxalY4OXFSVzdaMFFxOVczQnlYenVzOWZxR1N3LUI1cVNWTk5HeDNRU2ttODdxSXBhRjh4dW91Z2dEbUp0dHlIN3p1c25lazNWSVFn?oc=5",
       "date": "Thu, 25 Jun 2026 21:20:28 GMT",
       "source": "글로벌이코노믹",
+      "score": 2
+    },
+    {
+      "title": "리플 CEO, 세일러 비트코인 전략 비판…BTC 강세 전망",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lZ0F3aVJVMmRBYUwxdjMyaVEtcGlaZU9YSzhWOUN5dzZMaVNBWDZBNGFPeHdDck1RN0FIeTBWRTlsdnl3VFM5QkR3dmhpalFOY093Y201RG5VR2pwYVVzbHZHUk5Na3kyTUtPSUNnSWF4UzlVTDYtTw?oc=5",
+      "date": "Thu, 25 Jun 2026 07:00:00 GMT",
+      "source": "BeInCrypto",
       "score": 2
     }
   ]
