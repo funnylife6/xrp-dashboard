@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-27T09:10:20",
+  "generated_at": "2026-06-27T11:09:42",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.056,
-    "price_krw": 1620.63,
-    "price_change_24h": 1.89422,
-    "price_change_7d": -7.97855,
-    "price_change_30d": -18.00386,
-    "market_cap_usd": 65708832269,
+    "price_usd": 1.057,
+    "price_krw": 1623.47,
+    "price_change_24h": 3.04875,
+    "price_change_7d": -8.16139,
+    "price_change_30d": -18.09147,
+    "market_cap_usd": 65818648356,
     "market_cap_rank": 6,
-    "volume_24h": 1912712132,
+    "volume_24h": 1949996233,
     "circulating_supply": 62241508805.0,
     "total_supply": 99985645029.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 60.0,
-    "sentiment_votes_down": 40.0,
+    "sentiment_votes_up": 61.73,
+    "sentiment_votes_down": 38.27,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 31.12,
-    "recent_tps": 31.12,
-    "recent_tx_count": 2801,
+    "tps_24h_avg": 11.14,
+    "recent_tps": 11.14,
+    "recent_tx_count": 1003,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 105207339,
+    "ledger_seq": 105209225,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-27 09:10:13 KST",
+    "updated_at": "2026-06-27 11:09:29 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 11660000,
     "total_net_inflow_usd": 11660000,
     "total_value_traded_usd": 11660000,
-    "updated_at": "SoSoValue 순유입 부분 수집 06/27 09:10",
+    "updated_at": "SoSoValue 순유입 부분 수집 06/27 11:09",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -93,6 +93,13 @@
   ],
   "general_news": [
     {
+      "title": "리플, 일본 RLUSD 공식 출시…아시아 스테이블코인 시장 공략 속도",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WRXZFVFc3a3NDdUpSY1dxVk9xYjFIeG9VUWVXR1QxaU9tb0kza0NvVXVaeXVQZDF1azV4OEtFbzJ2SG1sNWtPNms1ZS10aF8xRXl4V1B5aGhIWVVCQ0EweUZFNDZabGFR?oc=5",
+      "date": "Sat, 27 Jun 2026 04:10:00 GMT",
+      "source": "CBC뉴스",
+      "score": 2
+    },
+    {
       "title": "Ripple XRP(XRPUSD) 종목이 6월27일에 갑자기 1.38% 상승한 원인은 무엇일까요?",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQT2JKc2w0Nnctb0F4bHV2TmFDakNkSGxXUmFEQTFscXE3U1djbFVxd01JRXQ0UEw0OTdsQ1dkYVQtYnZYOXppZ181Z3h2WnlORVY1dzZXMFZfaTlqbW1ScUd2Rkx3TnZEWVhVSVQ0aUpyOWNoNkg3YzNqZGlXbFFyWjNMT0RtVjB1SDZ6bWxOQUoyUQ?oc=5",
       "date": "Sat, 27 Jun 2026 04:01:12 GMT",
@@ -135,18 +142,11 @@
       "score": 9
     },
     {
-      "title": "XRP 하락세 지속…1달러 깨지면 0.88달러·0.70달러가 분기점",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE44dV84NGhaM1Bwekw1blZwMjJpNGhLeklfaDBMQVdaUncxSko0ZV9fMUY4S0tFdm9xQkJCdjZjNWgtTmp3YzVHN2M5enF2VGpkcGF1eVIxNU9lU1otX2Vna2JfU1ZKVkxCNEtjQ0JfQTJvRW8?oc=5",
-      "date": "Fri, 26 Jun 2026 02:21:00 GMT",
-      "source": "디지털투데이",
+      "title": "리플 CEO, 세일러 비트코인 전략 비판…BTC 강세 전망",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lZ0F3aVJVMmRBYUwxdjMyaVEtcGlaZU9YSzhWOUN5dzZMaVNBWDZBNGFPeHdDck1RN0FIeTBWRTlsdnl3VFM5QkR3dmhpalFOY093Y201RG5VR2pwYVVzbHZHUk5Na3kyTUtPSUNnSWF4UzlVTDYtTw?oc=5",
+      "date": "Thu, 25 Jun 2026 07:00:00 GMT",
+      "source": "BeInCrypto",
       "score": 2
-    },
-    {
-      "title": "리플(XRP), SBI와 손잡고 일본서 RLUSD 공식 출시…스테이블코인 시장 공략 확대",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tbGZGYUZXd290eDdhMVAtdUdHRFZxWUMzdHBXWlgyLUYyM0wyYlo5XzB2bC1pLVVjSmlKRGk3Yk5kRXVKbGViQkhxMWY1QUdpWTZMV3VWQnRMYjNGWGE1RTVpTWUwMnlX?oc=5",
-      "date": "Thu, 25 Jun 2026 15:00:00 GMT",
-      "source": "CBC뉴스",
-      "score": 3
     },
     {
       "title": "리플-SBI, 일본 금융청 승인으로 RLUSD 공식 출시…아시아 스테이블코인 시장 판도 바뀐다",
