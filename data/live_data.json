@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-28T07:44:40",
+  "generated_at": "2026-06-28T10:22:14",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.048,
-    "price_krw": 1609.61,
-    "price_change_24h": -0.88951,
-    "price_change_7d": -8.49632,
-    "price_change_30d": -20.23705,
-    "market_cap_usd": 65254633581,
+    "price_usd": 1.049,
+    "price_krw": 1609.99,
+    "price_change_24h": -0.81295,
+    "price_change_7d": -8.62995,
+    "price_change_30d": -20.7052,
+    "market_cap_usd": 65273677292,
     "market_cap_rank": 6,
-    "volume_24h": 1092133557,
+    "volume_24h": 1105685506,
     "circulating_supply": 62241508805.0,
     "total_supply": 99985645029.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 63.1,
-    "sentiment_votes_down": 36.9,
+    "sentiment_votes_up": 60.67,
+    "sentiment_votes_down": 39.33,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 14.98,
-    "recent_tps": 14.98,
-    "recent_tx_count": 1228,
+    "tps_24h_avg": 20.95,
+    "recent_tps": 20.95,
+    "recent_tx_count": 1718,
     "recent_ledger_count": 24,
     "recent_window_sec": 82,
-    "ledger_seq": 105228668,
+    "ledger_seq": 105231144,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-28 07:44:35 KST",
+    "updated_at": "2026-06-28 10:22:09 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 11660000,
     "total_net_inflow_usd": 11660000,
     "total_value_traded_usd": 11660000,
-    "updated_at": "SoSoValue 순유입 부분 수집 06/28 07:44",
+    "updated_at": "SoSoValue 순유입 부분 수집 06/28 10:22",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -56,17 +56,17 @@
       "score": 0
     },
     {
-      "title": "ETF 매수세가 현물 시장의 약점을 시험하면서 XRP, 1달러 부근으로 하락",
-      "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxOel9wNGpKTDNPV3NQTWdkX0E1NmRjSkcydTRFVVRneUtCQXdOQnFOaEpuRW1OSmkySXRKY21SeFpvaW55TmJSVHVwVGhhcDh0MExYSXlOa1lUdnQtSVhxRHlsMWIxTGVXUm0zdjBCUDdqWVNuNXROZGx5WGN3S3hzZy04WnVhZGxSLTdkeS1JQm1lR3ROYXBmVXpHdWRHYXplbVRLU0U0NzZTcGg2WUY1dlI0cnpURTF1M0lTeXh4Rkd3Qldxb2FXMFBsUjNhaEtYbTVDNURfY2FhS0NvMlJPZFVBS1VLNk1KbERBQ2VLMGNpUWpOMVhqeDFRc0VMRTZtaVRQRXpmdnVud1JJUnZGdVFYdkozYWNrd0VwXzNaX2ZkQkpKMmVCeXFXTnBxSXhWMlNDZWh6Vy1TYmZGWUE1cW1vdmlNSG5BQXVtUkQtcVlzOElpbzdCOVBCTmxIanoyalJrT1IwZGVlZGxTSjJ3UmNIdUwxUWNsczRFTkNOdDI4Zw?oc=5",
-      "date": "Sat, 27 Jun 2026 15:04:05 GMT",
-      "source": "Yellow.com",
-      "score": 0
-    },
-    {
       "title": "미국 XRP 현물 ETF, 6월 26일 1563만 달러 순유입",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4alZNUVQwaDFQYWt0WXAtN0FxNi1ybWtyVUx0Z1VOcUNJNkNxY25sNU9sUDA1LW4ybDllQ2J0SmZybGhIaTMwN0w4V0s2YUpxcTlKT1FKNHbSAV5BVV95cUxNdHhxV0dMR25xRmlzUUp2M2Fmc1huNm1HbmNhb3VXTFdtbkFscjNPWGh6eHdpQkZ1TVFZaExzYzVOX2NISUM1czhyZFVlVFJhOC0yYWVrZUFTSkNScnhB?oc=5",
       "date": "Sat, 27 Jun 2026 08:41:03 GMT",
       "source": "tokenpost.kr",
+      "score": 0
+    },
+    {
+      "title": "비트코인·이더리움은 빠지는데…엑스알피·솔라나 ETF엔 자금 유입",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4xeVp1VXJqeDBqYXRJcTNFX01TTzh6RU1SVVFkR0ZFc2pOMGMtWW9PaVlBV21lcUluSUtXZWtIcDRNTXowdl9Zc19hMFp1YlZG?oc=5",
+      "date": "Sat, 27 Jun 2026 04:35:43 GMT",
+      "source": "블루밍비트",
       "score": 0
     },
     {
@@ -92,6 +92,13 @@
     }
   ],
   "general_news": [
+    {
+      "title": "\"종교계까지 동원\"...은행권, XRP(리플) 운명 걸린 클래리티 법안 반대 최후의 발악",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5RZExVX1VMQnNhM2JOTi1EWno2X04wM1QzeWo3V0FKSWRfUEtsOWw2emJHTVc4RGFWbWkzdG1acHJsQ0RhSDBxLTFR?oc=5",
+      "date": "Sun, 28 Jun 2026 08:30:00 GMT",
+      "source": "코인리더스",
+      "score": 3
+    },
     {
       "title": "“암호화폐(코인) 시장에 처음 진입한 투자자라면 리플(XRP)은 절대 안 살 듯”",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KdHRRb3BFMldCYlJHY1NGdGNhcDRXT0Y4b19PREU2cWQycGdGc1NDeGwzUndaZ29iS3pHeEViYmF0TTFuWTZtb3lBMFpXWDZtdDNROGxR?oc=5",
@@ -154,13 +161,6 @@
       "date": "Fri, 26 Jun 2026 07:00:00 GMT",
       "source": "BeInCrypto",
       "score": 2
-    },
-    {
-      "title": "속보 | 리플 CEO \"세일러의 스트래티지, 시장에 악영향\"",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DNklvb2FHSWxYbzNnT1ZURXlpSkpXVHo2eVc2MzBlVjUwdExVck9qaU9lbzQtV1JqWmhRSGhubVc2cGtlOGJFVVc2LWhFeDZR?oc=5",
-      "date": "Fri, 26 Jun 2026 04:26:00 GMT",
-      "source": "CoinNess",
-      "score": 9
     }
   ]
 }
