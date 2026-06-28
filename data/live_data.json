@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-28T12:01:31",
+  "generated_at": "2026-06-28T14:21:02",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.052,
-    "price_krw": 1614.39,
-    "price_change_24h": -0.58868,
-    "price_change_7d": -7.92435,
-    "price_change_30d": -19.57304,
-    "market_cap_usd": 65421056542,
+    "price_usd": 1.051,
+    "price_krw": 1613.95,
+    "price_change_24h": -1.2547,
+    "price_change_7d": -7.91104,
+    "price_change_30d": -19.19137,
+    "market_cap_usd": 65415197039,
     "market_cap_rank": 6,
-    "volume_24h": 1109433786,
+    "volume_24h": 1013219551,
     "circulating_supply": 62241508805.0,
     "total_supply": 99985645029.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 59.55,
-    "sentiment_votes_down": 40.45,
+    "sentiment_votes_up": 59.49,
+    "sentiment_votes_down": 40.51,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 16.94,
-    "recent_tps": 16.94,
-    "recent_tx_count": 1508,
+    "tps_24h_avg": 32.04,
+    "recent_tps": 32.04,
+    "recent_tx_count": 2884,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 105232695,
+    "recent_window_sec": 90,
+    "ledger_seq": 105234870,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-28 12:01:23 KST",
+    "updated_at": "2026-06-28 14:20:52 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 11660000,
     "total_net_inflow_usd": 11660000,
     "total_value_traded_usd": 11660000,
-    "updated_at": "SoSoValue 순유입 부분 수집 06/28 12:01",
+    "updated_at": "SoSoValue 순유입 부분 수집 06/28 14:21",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -156,11 +156,11 @@
       "score": 10
     },
     {
-      "title": "커뮤니티",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB0eUNIMmxFUGlfVFhvX00zZWpVRk5iaXZ4OVBEMjRKZ3hPSl9kbDVJenlXa3VYdWhWX3pyWXNCOG5USzh6NWtNeDRtUWlxUQ?oc=5",
+      "title": "XRP 기원 논란 재점화…리플 전 CTO, 비트코인 이전 개념 주장",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81dG42aE9YS0podEFTWGV5Q2FUYjJXdEpPcExnQjV5R3FzNGVnTWpxSkhCcVFEZWw2QTNqMzV5LTl2a0FTYjA1ZUg0UTlYTzFLSzRyQzBkSVh3blNBY0xFcVFlYUJkMTJjYXJ3Zw?oc=5",
       "date": "Fri, 26 Jun 2026 07:00:00 GMT",
-      "source": "CoinNess",
-      "score": 8
+      "source": "BeInCrypto",
+      "score": 2
     }
   ]
 }
