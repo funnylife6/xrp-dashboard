@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-28T18:40:45",
+  "generated_at": "2026-06-28T20:07:47",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.042,
-    "price_krw": 1600.42,
-    "price_change_24h": -1.43303,
-    "price_change_7d": -8.74788,
-    "price_change_30d": -21.28558,
-    "market_cap_usd": 64898990280,
+    "price_usd": 1.043,
+    "price_krw": 1601.94,
+    "price_change_24h": -0.94655,
+    "price_change_7d": -8.73498,
+    "price_change_30d": -20.76159,
+    "market_cap_usd": 64939768900,
     "market_cap_rank": 6,
-    "volume_24h": 1009979890,
+    "volume_24h": 1000512039,
     "circulating_supply": 62241508805.0,
     "total_supply": 99985645029.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 52.94,
-    "sentiment_votes_down": 47.06,
+    "sentiment_votes_up": 55.17,
+    "sentiment_votes_down": 44.83,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 13.15,
-    "recent_tps": 13.15,
-    "recent_tx_count": 1065,
+    "tps_24h_avg": 22.9,
+    "recent_tps": 22.9,
+    "recent_tx_count": 2038,
     "recent_ledger_count": 24,
-    "recent_window_sec": 81,
-    "ledger_seq": 105238940,
+    "recent_window_sec": 89,
+    "ledger_seq": 105240305,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-28 18:40:39 KST",
+    "updated_at": "2026-06-28 20:07:34 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 11660000,
     "total_net_inflow_usd": 11660000,
     "total_value_traded_usd": 11660000,
-    "updated_at": "SoSoValue 순유입 부분 수집 06/28 18:40",
+    "updated_at": "SoSoValue 순유입 부분 수집 06/28 20:07",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -92,13 +92,6 @@
     }
   ],
   "general_news": [
-    {
-      "title": "최고 IQ 보유자, XRP 슈퍼사이클 지지…3가지 강세 신호",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQVhGRVhJUzE1NTdsVFJmek4tZzd5N3pzbXNEZWE5UEhOMzhoTG1HUGQ0eGFvWF94QmNPR2xJOS0zOGY0ZGJ0Z0F1blQ1NE1WTmhaM29WZ0d0RUdTWDlfUTVhM3dxbFJ2OUlWcjg5RVMyNjNadElXb01aRDh1dDFyYg?oc=5",
-      "date": "Sun, 28 Jun 2026 16:02:25 GMT",
-      "source": "BeInCrypto",
-      "score": 2
-    },
     {
       "title": "\"종교계까지 동원\"...은행권, XRP(리플) 운명 걸린 클래리티 법안 반대 최후의 발악",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5RZExVX1VMQnNhM2JOTi1EWno2X04wM1QzeWo3V0FKSWRfUEtsOWw2emJHTVc4RGFWbWkzdG1acHJsQ0RhSDBxLTFR?oc=5",
@@ -156,11 +149,18 @@
       "score": 10
     },
     {
-      "title": "XRP 기원 논란 재점화…리플 전 CTO, 비트코인 이전 개념 주장",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81dG42aE9YS0podEFTWGV5Q2FUYjJXdEpPcExnQjV5R3FzNGVnTWpxSkhCcVFEZWw2QTNqMzV5LTl2a0FTYjA1ZUg0UTlYTzFLSzRyQzBkSVh3blNBY0xFcVFlYUJkMTJjYXJ3Zw?oc=5",
-      "date": "Fri, 26 Jun 2026 07:00:00 GMT",
-      "source": "BeInCrypto",
+      "title": "X머니 파트너에 크로스리버…XRP 연동 가능성 주목",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1scDJJbk41blRXQlhUWHNwSk9rcGt4ZDJxRVFTdHRWZXVmSENFQy1OT2VfaDNCcHhtT3lpa3N3RzZiRWZSREhVbnVwUFFQNHpYY1VUQVF4QUg?oc=5",
+      "date": "Fri, 26 Jun 2026 13:43:00 GMT",
+      "source": "블록미디어",
       "score": 2
+    },
+    {
+      "title": "가장 빠르고 정확한 코인 투자 뉴스, 커뮤니티",
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE4xaEg2ZEswRGRFMHA3WVlZMXFhNlBqbHNYSWRMRV8wNjRGVTVIb29WbG1MWmdtZTBJZzBZZ0xB?oc=5",
+      "date": "Fri, 26 Jun 2026 07:00:00 GMT",
+      "source": "CoinNess",
+      "score": 8
     }
   ]
 }
