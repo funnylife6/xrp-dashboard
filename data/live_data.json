@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-28T10:22:14",
+  "generated_at": "2026-06-28T12:01:31",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.049,
-    "price_krw": 1609.99,
-    "price_change_24h": -0.81295,
-    "price_change_7d": -8.62995,
-    "price_change_30d": -20.7052,
-    "market_cap_usd": 65273677292,
+    "price_usd": 1.052,
+    "price_krw": 1614.39,
+    "price_change_24h": -0.58868,
+    "price_change_7d": -7.92435,
+    "price_change_30d": -19.57304,
+    "market_cap_usd": 65421056542,
     "market_cap_rank": 6,
-    "volume_24h": 1105685506,
+    "volume_24h": 1109433786,
     "circulating_supply": 62241508805.0,
     "total_supply": 99985645029.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 60.67,
-    "sentiment_votes_down": 39.33,
+    "sentiment_votes_up": 59.55,
+    "sentiment_votes_down": 40.45,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 20.95,
-    "recent_tps": 20.95,
-    "recent_tx_count": 1718,
+    "tps_24h_avg": 16.94,
+    "recent_tps": 16.94,
+    "recent_tx_count": 1508,
     "recent_ledger_count": 24,
-    "recent_window_sec": 82,
-    "ledger_seq": 105231144,
+    "recent_window_sec": 89,
+    "ledger_seq": 105232695,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-28 10:22:09 KST",
+    "updated_at": "2026-06-28 12:01:23 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 11660000,
     "total_net_inflow_usd": 11660000,
     "total_value_traded_usd": 11660000,
-    "updated_at": "SoSoValue 순유입 부분 수집 06/28 10:22",
+    "updated_at": "SoSoValue 순유입 부분 수집 06/28 12:01",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -142,10 +142,10 @@
       "score": 2
     },
     {
-      "title": "어드벤처골드 급등·비트코인·리플XRP 보합…PCE 관망",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBoc1MxVU1pQktvREhWVDNtMjlqVVZSaHpNRl9uRldXWTF1a0J6RkJISjAwdWhYMGU2clVqZW9NazJyNk9JZmRNV3R1eExrMEd0RF8zRGxMU1ZUejB3X0dsZ18yRThPMjlDSV9TY2dmbUJXQQ?oc=5",
-      "date": "Fri, 26 Jun 2026 23:10:33 GMT",
-      "source": "TopStarNews",
+      "title": "[코인 동향분석] 자산가 포트폴리오, 비트코인·이더리움·리플 상위권…RSI 한 자릿수 과매도 알트코인도 부각",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43SXJlOUxNbndKYjZTMm5TQUZTUGhzeFd4Zzc4U2x1RzgzclNSa2ZqTFlwWFhRcmdyMFV1ZjI2NEF4NGNaRjctZW10LW1tUkxRUHBFeG8tYm5UdkdQNDBNedIBZkFVX3lxTE5acWxDQ251aWNQdUpOU25CSUdKbmdOZVBweFB2SWRrc29qbDM4NWxORTI4VjVObTZXeXFlLW80SVVIdDNkVXo4SndLTkZqaGpLdUFhWHNlMnhXeHdWdjRaM1VBcW5rUQ?oc=5",
+      "date": "Sat, 27 Jun 2026 03:00:52 GMT",
+      "source": "tokenpost.kr",
       "score": 2
     },
     {
@@ -156,11 +156,11 @@
       "score": 10
     },
     {
-      "title": "XRP 기원 논란 재점화…리플 전 CTO, 비트코인 이전 개념 주장",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81dG42aE9YS0podEFTWGV5Q2FUYjJXdEpPcExnQjV5R3FzNGVnTWpxSkhCcVFEZWw2QTNqMzV5LTl2a0FTYjA1ZUg0UTlYTzFLSzRyQzBkSVh3blNBY0xFcVFlYUJkMTJjYXJ3Zw?oc=5",
+      "title": "커뮤니티",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB0eUNIMmxFUGlfVFhvX00zZWpVRk5iaXZ4OVBEMjRKZ3hPSl9kbDVJenlXa3VYdWhWX3pyWXNCOG5USzh6NWtNeDRtUWlxUQ?oc=5",
       "date": "Fri, 26 Jun 2026 07:00:00 GMT",
-      "source": "BeInCrypto",
-      "score": 2
+      "source": "CoinNess",
+      "score": 8
     }
   ]
 }
