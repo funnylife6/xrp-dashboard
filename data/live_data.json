@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-29T17:30:17",
+  "generated_at": "2026-06-29T19:22:05",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.062,
-    "price_krw": 1637.11,
-    "price_change_24h": 1.76868,
-    "price_change_7d": -6.73595,
-    "price_change_30d": -20.8101,
-    "market_cap_usd": 66077165555,
+    "price_usd": 1.065,
+    "price_krw": 1639.57,
+    "price_change_24h": 2.0902,
+    "price_change_7d": -6.17071,
+    "price_change_30d": -21.14224,
+    "market_cap_usd": 66244388800,
     "market_cap_rank": 6,
-    "volume_24h": 1838421911,
+    "volume_24h": 1900416259,
     "circulating_supply": 62241508805.0,
     "total_supply": 99985645029.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 69.41,
-    "sentiment_votes_down": 30.59,
+    "sentiment_votes_up": 65.56,
+    "sentiment_votes_down": 34.44,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 21.19,
-    "recent_tps": 21.19,
-    "recent_tx_count": 1886,
+    "tps_24h_avg": 15.66,
+    "recent_tps": 15.66,
+    "recent_tx_count": 1394,
     "recent_ledger_count": 24,
     "recent_window_sec": 89,
-    "ledger_seq": 105260287,
+    "ledger_seq": 105262026,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-29 17:30:03 KST",
+    "updated_at": "2026-06-29 19:21:56 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 11660000,
     "total_net_inflow_usd": 11660000,
     "total_value_traded_usd": 11660000,
-    "updated_at": "SoSoValue 순유입 부분 수집 06/29 17:30",
+    "updated_at": "SoSoValue 순유입 부분 수집 06/29 19:22",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -93,7 +93,7 @@
   ],
   "general_news": [
     {
-      "title": "리플, SEC 소송 넘어 입법전으로…CLARITY 법안이 XRP 시장 변수 부상",
+      "title": "리플, SEC 소송 넘어 입법전으로…CLARITY 법안이 XRP 시장 변수 부상,미국 이란 휴전 양상은?",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pbk8ybXRqMll4bkR3dUp0RHBRem05OTUzeTZ3WE5lVlE2TlpjMDNFZ0lGRUg1dlY2QkNhNE5FQl9NTVRiOHJYbjEyX2dRcHYyLVZUdHV3UEQ3cmtEQUlhMFJ5OW9zT3hW?oc=5",
       "date": "Mon, 29 Jun 2026 15:00:00 GMT",
       "source": "CBC뉴스",
@@ -142,6 +142,13 @@
       "score": 2
     },
     {
+      "title": "속보 | 피터 쉬프 \"스트래티지 BTC 수익화 계획, 시장 붕괴 촉발\" 경고",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1RSUtlcFlBUlA4NzhYMGZ0bE4zYUh3emgzU3djbFdaek5mSkQxQ1hEMFByaF91dVBDUFoxSF9Hci1Cd2FGV1BBVQ?oc=5",
+      "date": "Sun, 28 Jun 2026 23:05:00 GMT",
+      "source": "CoinNess",
+      "score": 8
+    },
+    {
       "title": "파워렛저 급등·솔스티스 상승·리플XRP 보합, 거래위축 관망",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE01c2pVcWNVUjd2RmFVNHFvQ1FTMlhiWl94VFpEMTIwNnFyenhZTGdjV3dGdk9EU0VaS0ZEZWYxU0VrMmtSSlZQZlk4aGc3SXZ5eFhHZjNSd0dIby1IRTVSQlhIWXYxTGFDbVByOXlTQVR5QQ?oc=5",
       "date": "Sun, 28 Jun 2026 21:47:45 GMT",
@@ -154,13 +161,6 @@
       "date": "Sun, 28 Jun 2026 15:07:00 GMT",
       "source": "CoinNess",
       "score": 8
-    },
-    {
-      "title": "속보 | 유럽은행감독청, 암호화폐 발행사 벌금 체계 공개...최대 연매출 12.5%",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5xa2Npcy1DVHhzQVp1bFc5aTcteVNwQzJoTUdzVWhSS3Jxc1gxb1VpZjlTZEhtOVRyY0hjZDh4SXJtYlN6QnR3TlFaUHdtTG5i?oc=5",
-      "date": "Sun, 28 Jun 2026 07:14:00 GMT",
-      "source": "CoinNess",
-      "score": 9
     }
   ]
 }
