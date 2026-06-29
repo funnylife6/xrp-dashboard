@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-29T19:22:05",
+  "generated_at": "2026-06-29T21:05:31",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.065,
-    "price_krw": 1639.57,
-    "price_change_24h": 2.0902,
-    "price_change_7d": -6.17071,
-    "price_change_30d": -21.14224,
-    "market_cap_usd": 66244388800,
+    "price_usd": 1.062,
+    "price_krw": 1636.48,
+    "price_change_24h": 1.63539,
+    "price_change_7d": -5.98406,
+    "price_change_30d": -21.06229,
+    "market_cap_usd": 66111581937,
     "market_cap_rank": 6,
-    "volume_24h": 1900416259,
+    "volume_24h": 1936594162,
     "circulating_supply": 62241508805.0,
     "total_supply": 99985645029.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 65.56,
-    "sentiment_votes_down": 34.44,
+    "sentiment_votes_up": 65.63,
+    "sentiment_votes_down": 34.38,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 15.66,
-    "recent_tps": 15.66,
-    "recent_tx_count": 1394,
+    "tps_24h_avg": 19.19,
+    "recent_tps": 19.19,
+    "recent_tx_count": 1708,
     "recent_ledger_count": 24,
     "recent_window_sec": 89,
-    "ledger_seq": 105262026,
+    "ledger_seq": 105263639,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-29 19:21:56 KST",
+    "updated_at": "2026-06-29 21:05:25 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 11660000,
     "total_net_inflow_usd": 11660000,
     "total_value_traded_usd": 11660000,
-    "updated_at": "SoSoValue 순유입 부분 수집 06/29 19:22",
+    "updated_at": "SoSoValue 순유입 부분 수집 06/29 21:05",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -53,13 +53,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE15VmdnTXJoVy13UkdTWFJOaTN6YkVnMjZiSXBBQVFLaVRnXzRXMHEyTU9reGxWXzhQcklYQjZPZDJiRUdYVlRCelRJMkdodE9QTU8wc0JrdU4?oc=5",
       "date": "Mon, 29 Jun 2026 05:27:00 GMT",
       "source": "블록미디어",
-      "score": 0
-    },
-    {
-      "title": "리플(XRP), 1달러 지지선 방어 주력하며 기술적 하락과 규제 호재 '충돌'",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tODFnZjFNaTZCd0szbTRyaFR4MFktZkZLTXNYMnFUcGpvUXB5eUwycjduTUVxdlJ6MGU5TFNlUkxFVHpiUEpDOG9WNVFBZkE0aUpnNjA0VUM4SXZoTzMxVtIBZkFVX3lxTE5lejk0N1FrOHBDU2hVMkFpd29MS0tOQXd6SFhlNm1NS0hCMEMzZFBKbDFjbWlMVFNQX1EyTGdqaXEwMWVOWkMzTklFWXpHWjdBUkhkckJrMlh1RXZ3amZaWVp2a0dxdw?oc=5",
-      "date": "Mon, 29 Jun 2026 05:07:44 GMT",
-      "source": "tokenpost.kr",
       "score": 0
     },
     {
@@ -88,6 +81,13 @@
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4xeVp1VXJqeDBqYXRJcTNFX01TTzh6RU1SVVFkR0ZFc2pOMGMtWW9PaVlBV21lcUluSUtXZWtIcDRNTXowdl9Zc19hMFp1YlZG?oc=5",
       "date": "Sat, 27 Jun 2026 04:35:43 GMT",
       "source": "블루밍비트",
+      "score": 0
+    },
+    {
+      "title": "Ripple XRP(XRPUSD) 종목이 6월27일에 갑자기 1.38% 상승한 원인은 무엇일까요?",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQT2JKc2w0Nnctb0F4bHV2TmFDakNkSGxXUmFEQTFscXE3U1djbFVxd01JRXQ0UEw0OTdsQ1dkYVQtYnZYOXppZ181Z3h2WnlORVY1dzZXMFZfaTlqbW1ScUd2Rkx3TnZEWVhVSVQ0aUpyOWNoNkg3YzNqZGlXbFFyWjNMT0RtVjB1SDZ6bWxOQUoyUQ?oc=5",
+      "date": "Sat, 27 Jun 2026 04:01:12 GMT",
+      "source": "TradingKey",
       "score": 0
     }
   ],
@@ -142,13 +142,6 @@
       "score": 2
     },
     {
-      "title": "속보 | 피터 쉬프 \"스트래티지 BTC 수익화 계획, 시장 붕괴 촉발\" 경고",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1RSUtlcFlBUlA4NzhYMGZ0bE4zYUh3emgzU3djbFdaek5mSkQxQ1hEMFByaF91dVBDUFoxSF9Hci1Cd2FGV1BBVQ?oc=5",
-      "date": "Sun, 28 Jun 2026 23:05:00 GMT",
-      "source": "CoinNess",
-      "score": 8
-    },
-    {
       "title": "파워렛저 급등·솔스티스 상승·리플XRP 보합, 거래위축 관망",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE01c2pVcWNVUjd2RmFVNHFvQ1FTMlhiWl94VFpEMTIwNnFyenhZTGdjV3dGdk9EU0VaS0ZEZWYxU0VrMmtSSlZQZlk4aGc3SXZ5eFhHZjNSd0dIby1IRTVSQlhIWXYxTGFDbVByOXlTQVR5QQ?oc=5",
       "date": "Sun, 28 Jun 2026 21:47:45 GMT",
@@ -156,11 +149,18 @@
       "score": 2
     },
     {
-      "title": "속보 | 분석 \"최근 바이낸스·OKX로 55만 BTC 유입... 2023년 약세장 이후 최대\"",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBieWNEajhLZG1qRzJCUUczQ0NyZ3UwMXZyWU9pX2gzOFdaRkdsQmg4bmxDcWFfZHZSNVlhaHg3YUM0SDR1R2xIMUhKT1AzUWxG?oc=5",
-      "date": "Sun, 28 Jun 2026 15:07:00 GMT",
+      "title": "속보 | BTC $60,697 돌파 시 $5억 규모 숏포지션 강제청산",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1JUjA1Y0Q0V3ozTUFxWnNCVjZwTDg1YV9xV0daZWIzc3R3UlZrNUpSWGt4S3U2Tm9sM1BFWkNMSzZXYXR2OEJoaUtLNzlwVFE4?oc=5",
+      "date": "Sun, 28 Jun 2026 18:55:00 GMT",
       "source": "CoinNess",
       "score": 8
+    },
+    {
+      "title": "속보 | 유럽은행감독청, 암호화폐 발행사 벌금 체계 공개...최대 연매출 12.5%",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5xa2Npcy1DVHhzQVp1bFc5aTcteVNwQzJoTUdzVWhSS3Jxc1gxb1VpZjlTZEhtOVRyY0hjZDh4SXJtYlN6QnR3TlFaUHdtTG5i?oc=5",
+      "date": "Sun, 28 Jun 2026 07:14:00 GMT",
+      "source": "CoinNess",
+      "score": 9
     }
   ]
 }
