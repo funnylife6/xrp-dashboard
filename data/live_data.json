@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-29T10:04:50",
+  "generated_at": "2026-06-29T14:32:58",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.049,
-    "price_krw": 1618.22,
-    "price_change_24h": 0.00819,
-    "price_change_7d": -7.46798,
-    "price_change_30d": -21.92112,
-    "market_cap_usd": 65265721711,
+    "price_usd": 1.043,
+    "price_krw": 1609.67,
+    "price_change_24h": -0.92775,
+    "price_change_7d": -10.17729,
+    "price_change_30d": -22.10355,
+    "market_cap_usd": 64903422436,
     "market_cap_rank": 6,
-    "volume_24h": 1396950578,
+    "volume_24h": 1691303610,
     "circulating_supply": 62241508805.0,
     "total_supply": 99985645029.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 59.76,
-    "sentiment_votes_down": 40.24,
+    "sentiment_votes_up": 68.13,
+    "sentiment_votes_down": 31.87,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 19.66,
-    "recent_tps": 19.66,
-    "recent_tx_count": 1750,
-    "recent_ledger_count": 24,
+    "tps_24h_avg": 15.06,
+    "recent_tps": 15.06,
+    "recent_tx_count": 1340,
+    "recent_ledger_count": 20,
     "recent_window_sec": 89,
-    "ledger_seq": 105253349,
+    "ledger_seq": 105257520,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-29 10:04:42 KST",
+    "updated_at": "2026-06-29 14:32:08 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 11660000,
     "total_net_inflow_usd": 11660000,
     "total_value_traded_usd": 11660000,
-    "updated_at": "SoSoValue 순유입 부분 수집 06/29 10:04",
+    "updated_at": "SoSoValue 순유입 부분 수집 06/29 14:32",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -93,6 +93,13 @@
   ],
   "general_news": [
     {
+      "title": "XRP ETF 8주 연속 유입…비트코인 ETF 유출 계속될까?",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1rSjZ5dk5PZVdLS3RORHJtZFotbVN3OV91WkdPM2c5WS1QY0FvNTk0ZGRpWThEWDMwODE3cmNBZ2pBZGE0TG1hVG5JN2g2RHc0SDRjbUpzXzRnSVpzTzJ4d2lTN00xeU1mY3pvYl8tRWladWlZMUJXOA?oc=5",
+      "date": "Mon, 29 Jun 2026 10:22:37 GMT",
+      "source": "BeInCrypto",
+      "score": 3
+    },
+    {
       "title": "리플 IPO와 XRP 배당설, 보유자는 정말 무엇을 받게 될까요?",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaWlxbVI3YUFVRmVNV1B3bjdEQTUtckQteFpmLVl0U2ZlcHp6ckZNbzcwUGdUTllGekhPZFljaGVwTFAwM3pidndGcmZUUERFY2J4VVVSU1NyWE9Yekx6Sm0wWDJWQlZHanBaQ0xab3VPUTIzRmdBYVpCYTZLRVFtTzhjQnRnUDUycEhydg?oc=5",
       "date": "Mon, 29 Jun 2026 06:41:00 GMT",
@@ -114,13 +121,6 @@
       "score": 2
     },
     {
-      "title": "XRP, 비트코인보다 먼저?…기원 논란에 리플 전 CTO \"실제 시작은 2012년\"",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FcDBJUlExZ3pLOFQ5dVlaQUxJd09XTm5uUmlfbkRyb2ZxTi1wWFg3Sm5wSVJSR2xhMVFkY0o3UW9Nd1Q3WTVNNmhFT3pvcjJuQnAw?oc=5",
-      "date": "Mon, 29 Jun 2026 05:02:00 GMT",
-      "source": "네이트",
-      "score": 2
-    },
-    {
       "title": "리플, 룩셈부르크 예비 승인 완료...XRP·RLUSD 유럽 시장 확장 그린라이트",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBlTXI4ZVVKN3U0aVA4d3JjbEZsbGhZTEczYWZaY2dzYkQ2bDVSVE9MTFdWZW1ScjNWMHV3NGZWYjJ4cGFsVDVocmhn?oc=5",
       "date": "Mon, 29 Jun 2026 02:32:00 GMT",
@@ -135,6 +135,13 @@
       "score": 2
     },
     {
+      "title": "모니카 롱 리플 사장, 10월 'XRP 서울 2026' 참석…XRP 미래 전략 공개",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TNEFkWUdnSDFXLURicXh5ckRLSGRMZk9jQVhfRFB0OEVfR3ViTjNaQWxsZFJsTXh0NlRvMndCVlpVYXkyRkwzNmE2MGp1NnVBdmRF?oc=5",
+      "date": "Mon, 29 Jun 2026 00:39:00 GMT",
+      "source": "네이트",
+      "score": 2
+    },
+    {
       "title": "파워렛저 급등·솔스티스 상승·리플XRP 보합, 거래위축 관망",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE01c2pVcWNVUjd2RmFVNHFvQ1FTMlhiWl94VFpEMTIwNnFyenhZTGdjV3dGdk9EU0VaS0ZEZWYxU0VrMmtSSlZQZlk4aGc3SXZ5eFhHZjNSd0dIby1IRTVSQlhIWXYxTGFDbVByOXlTQVR5QQ?oc=5",
       "date": "Sun, 28 Jun 2026 21:47:45 GMT",
@@ -142,18 +149,11 @@
       "score": 2
     },
     {
-      "title": "속보 | 외신 \"스트래티지, 2027년 9월 BTC 매각 압박 본격화...$10억 부채 상환\" - 코인니스",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8tRzBwU0xnRERFekJydlJGelIwdWQtdkRRY3hPQXItRnFybkFFcW9ld0dianBhUkh2YnBvNE5oZVNIRndkelBTS1BsdGU5cS1E?oc=5",
-      "date": "Sun, 28 Jun 2026 07:44:00 GMT",
+      "title": "속보 | 분석 \"최근 바이낸스·OKX로 55만 BTC 유입... 2023년 약세장 이후 최대\"",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBieWNEajhLZG1qRzJCUUczQ0NyZ3UwMXZyWU9pX2gzOFdaRkdsQmg4bmxDcWFfZHZSNVlhaHg3YUM0SDR1R2xIMUhKT1AzUWxG?oc=5",
+      "date": "Sun, 28 Jun 2026 15:07:00 GMT",
       "source": "CoinNess",
       "score": 8
-    },
-    {
-      "title": "속보 | 유럽은행감독청, 암호화폐 발행사 벌금 체계 공개...최대 연매출 12.5%",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5xa2Npcy1DVHhzQVp1bFc5aTcteVNwQzJoTUdzVWhSS3Jxc1gxb1VpZjlTZEhtOVRyY0hjZDh4SXJtYlN6QnR3TlFaUHdtTG5i?oc=5",
-      "date": "Sun, 28 Jun 2026 07:14:00 GMT",
-      "source": "CoinNess",
-      "score": 9
     },
     {
       "title": "속보 | 외신 \"리플 EU 라이선스, 아직 완전하지 않아...현지 법인 검증 단계\"",
