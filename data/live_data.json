@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-28T22:56:43",
+  "generated_at": "2026-06-29T00:03:53",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.037,
-    "price_krw": 1591.97,
-    "price_change_24h": -1.31174,
-    "price_change_7d": -8.65493,
-    "price_change_30d": -21.2832,
-    "market_cap_usd": 64560282841,
+    "price_usd": 1.046,
+    "price_krw": 1606.28,
+    "price_change_24h": -0.06176,
+    "price_change_7d": -7.01393,
+    "price_change_30d": -21.2778,
+    "market_cap_usd": 65130297333,
     "market_cap_rank": 6,
-    "volume_24h": 1038147746,
+    "volume_24h": 1079828214,
     "circulating_supply": 62241508805.0,
     "total_supply": 99985645029.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 57.32,
-    "sentiment_votes_down": 42.68,
+    "sentiment_votes_up": 55.95,
+    "sentiment_votes_down": 44.05,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 23.43,
-    "recent_tps": 23.43,
-    "recent_tx_count": 2109,
+    "tps_24h_avg": 15.21,
+    "recent_tps": 15.21,
+    "recent_tx_count": 1369,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 105242952,
+    "ledger_seq": 105244000,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-28 22:56:33 KST",
+    "updated_at": "2026-06-29 00:03:40 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 11660000,
     "total_net_inflow_usd": 11660000,
     "total_value_traded_usd": 11660000,
-    "updated_at": "SoSoValue 순유입 부분 수집 06/28 22:56",
+    "updated_at": "SoSoValue 순유입 부분 수집 06/29 00:03",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -93,6 +93,13 @@
   ],
   "general_news": [
     {
+      "title": "파워렛저 급등·솔스티스 상승·리플XRP 보합, 거래위축 관망",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE01c2pVcWNVUjd2RmFVNHFvQ1FTMlhiWl94VFpEMTIwNnFyenhZTGdjV3dGdk9EU0VaS0ZEZWYxU0VrMmtSSlZQZlk4aGc3SXZ5eFhHZjNSd0dIby1IRTVSQlhIWXYxTGFDbVByOXlTQVR5QQ?oc=5",
+      "date": "Sun, 28 Jun 2026 21:47:45 GMT",
+      "source": "TopStarNews",
+      "score": 2
+    },
+    {
       "title": "\"종교계까지 동원\"...은행권, XRP(리플) 운명 걸린 클래리티 법안 반대 최후의 발악",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5RZExVX1VMQnNhM2JOTi1EWno2X04wM1QzeWo3V0FKSWRfUEtsOWw2emJHTVc4RGFWbWkzdG1acHJsQ0RhSDBxLTFR?oc=5",
       "date": "Sun, 28 Jun 2026 08:30:00 GMT",
@@ -114,18 +121,11 @@
       "score": 2
     },
     {
-      "title": "솔스티스 급등·리플XRP 보합·비트코인 보합, 국채금리 하락에도 관망",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE56LTlYNFhOdFQtQ1VURVo4a1R2SnNaX1dEWk1sMUdtaHNPaEhYdHlZMGpWZUlIcUE5aWFtTlhySHBSQnBpQXJFNmRGc2ViUHY2aklnekk2SjBhcGVTdG5sZkVELU1kQWV3WjBfeFp0SUpXZw?oc=5",
-      "date": "Sat, 27 Jun 2026 22:04:19 GMT",
-      "source": "TopStarNews",
-      "score": 2
-    },
-    {
       "title": "리플(XRP), 1달러 초반대 머물며 52주 저점 근접…RLUSD로 글로벌 시장 확장",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FSkNUa3FDU3Vva19obU1iTlROQVAxUlNaVVJMQzhUTmRobjc0VVRUNTQ3Z2ZpSWlXUVV3UmdlNk1oMThvcHh1NTcyMjlha1RjbVRTWFI5a2xSRzBzcHo0aNIBZkFVX3lxTE1tT3d1alBVbEcwd1V0cmlTTmstcEhiZmZ1blBrbENjaWtTN05PVWhNOXp6TDk4VWktVnpsZEVVekd4cFNIak92X1liUEhvUFZiRW1mck5XaTA4azN4TGY0Qm1ZUmJkQQ?oc=5",
       "date": "Sat, 27 Jun 2026 21:07:18 GMT",
       "source": "tokenpost.kr",
-      "score": 3
+      "score": 4
     },
     {
       "title": "리플 CEO, 비트코인 낙관…세일러식 매입 전략은 비판",
