@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-30T17:21:54",
+  "generated_at": "2026-06-30T19:15:29",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.04,
-    "price_krw": 1609.86,
-    "price_change_24h": -2.14386,
-    "price_change_7d": -5.40822,
-    "price_change_30d": -21.52773,
-    "market_cap_usd": 64720536117,
+    "price_krw": 1609.6,
+    "price_change_24h": -2.26056,
+    "price_change_7d": -5.18006,
+    "price_change_30d": -21.50454,
+    "market_cap_usd": 64746791493,
     "market_cap_rank": 6,
-    "volume_24h": 1479497233,
+    "volume_24h": 1428919854,
     "circulating_supply": 62241508805.0,
     "total_supply": 99985645029.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 51.72,
-    "sentiment_votes_down": 48.28,
+    "sentiment_votes_up": 58.02,
+    "sentiment_votes_down": 41.98,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 30.57,
-    "recent_tps": 30.57,
-    "recent_tx_count": 2721,
+    "tps_24h_avg": 13.68,
+    "recent_tps": 13.68,
+    "recent_tx_count": 1231,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 105282573,
+    "recent_window_sec": 90,
+    "ledger_seq": 105284347,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-30 17:21:40 KST",
+    "updated_at": "2026-06-30 19:15:24 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 11940000,
     "total_net_inflow_usd": 11940000,
     "total_value_traded_usd": 11940000,
-    "updated_at": "SoSoValue 순유입 부분 수집 06/30 17:21",
+    "updated_at": "SoSoValue 순유입 부분 수집 06/30 19:15",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -121,13 +121,6 @@
       "score": 2
     },
     {
-      "title": "나도 이제",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96S2ZPSEJ0b0FZZFRIbkVGWG1XaERCUUFmMTNRb0N0Rk1RbDdEYlQ1SzhUb0wyd0pYaUs4dktjVVp0SnFyQkR5LXRZWVFWNjJRRHlTTG9HVk0?oc=5",
-      "date": "Tue, 30 Jun 2026 00:04:21 GMT",
-      "source": "CoinNess",
-      "score": 8
-    },
-    {
       "title": "\"위험만 크고 수익은 없다\"… 리플(XRP) 1달러 붕괴 공포 속 '탈출 시그널' 켜졌나",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS19IM0FyVUdHQ3NnMnVfaUVySkJpaVF0QlgxNU90cDZMQ2FPRzJNRHg3Sm1VZTRKWmdQc3luS3RidnoyVDRfU1hVVmxnQUJ5WXVUT2UwUUdnbXZpeTUwN3owMDlYSS1QNHdUUGN5R3oyYmh3Vi1tWTlzcWxpa21Xa0dSMGJ4b3FI?oc=5",
       "date": "Mon, 29 Jun 2026 22:27:53 GMT",
@@ -142,9 +135,9 @@
       "score": 3
     },
     {
-      "title": "속보 | 피델리티 \"이번 암호화폐 약세장, 언제 끝날지·끝나긴 할지 아무도 몰라\"",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0yWXVBLTdTM3BpVWRxYWNXU3Rzc1JCdUtTb2VPbkFQdkpPYlVTYVdTbG9EVWtScVd2M2l0ck5qNjF1bTJ6Y1JkdGx0cW1hYmMw?oc=5",
-      "date": "Mon, 29 Jun 2026 18:49:00 GMT",
+      "title": "속보 | 윈터뮤트 \"BTC 진짜 바닥 아직…여름보다 9~10월 가능성\"",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBOOUF4M2ZIaWotMUgzbjdzczVHMWt5b2NhRG82MXV5OVlROURGY2ZSTVpERDlrdk5BemZGb0NKMVZOM0QzZWpTbHAydzJwNU15?oc=5",
+      "date": "Mon, 29 Jun 2026 20:03:00 GMT",
       "source": "CoinNess",
       "score": 8
     },
@@ -160,6 +153,13 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pZjdGMFkwU1NRQjkzMXhDOTdhcUtkS25jOHRSaV94eFdLNEpPMzF4YWRGazJkOG9wODdSc2pGR3poYXhhdmhLSFhQM0NQRmpBZW9qeWJ3U0hyaGhPWWNHZTh2dGZIbV9xTzdRSkIxTDhKeDg5?oc=5",
       "date": "Mon, 29 Jun 2026 12:57:31 GMT",
       "source": "BeInCrypto",
+      "score": 2
+    },
+    {
+      "title": "리플 IPO와 XRP 배당설, 보유자는 정말 무엇을 받게 될까요?",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaWlxbVI3YUFVRmVNV1B3bjdEQTUtckQteFpmLVl0U2ZlcHp6ckZNbzcwUGdUTllGekhPZFljaGVwTFAwM3pidndGcmZUUERFY2J4VVVSU1NyWE9Yekx6Sm0wWDJWQlZHanBaQ0xab3VPUTIzRmdBYVpCYTZLRVFtTzhjQnRnUDUycEhydg?oc=5",
+      "date": "Mon, 29 Jun 2026 06:41:00 GMT",
+      "source": "네이버 프리미엄콘텐츠",
       "score": 2
     }
   ]
