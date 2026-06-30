@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-30T15:12:21",
+  "generated_at": "2026-06-30T17:21:54",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.031,
-    "price_krw": 1596.85,
-    "price_change_24h": -0.97457,
-    "price_change_7d": -6.42421,
-    "price_change_30d": -22.45522,
-    "market_cap_usd": 64166356355,
+    "price_usd": 1.04,
+    "price_krw": 1609.86,
+    "price_change_24h": -2.14386,
+    "price_change_7d": -5.40822,
+    "price_change_30d": -21.52773,
+    "market_cap_usd": 64720536117,
     "market_cap_rank": 6,
-    "volume_24h": 1499394134,
+    "volume_24h": 1479497233,
     "circulating_supply": 62241508805.0,
     "total_supply": 99985645029.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 48.81,
-    "sentiment_votes_down": 51.19,
+    "sentiment_votes_up": 51.72,
+    "sentiment_votes_down": 48.28,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 12.83,
-    "recent_tps": 12.83,
-    "recent_tx_count": 1155,
+    "tps_24h_avg": 30.57,
+    "recent_tps": 30.57,
+    "recent_tx_count": 2721,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 105280563,
+    "recent_window_sec": 89,
+    "ledger_seq": 105282573,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-30 15:12:15 KST",
+    "updated_at": "2026-06-30 17:21:40 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 11940000,
     "total_net_inflow_usd": 11940000,
     "total_value_traded_usd": 11940000,
-    "updated_at": "SoSoValue 순유입 부분 수집 06/30 15:12",
+    "updated_at": "SoSoValue 순유입 부분 수집 06/30 17:21",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -84,9 +84,9 @@
       "score": 0
     },
     {
-      "title": "미국 XRP 현물 ETF, 6월 26일 1563만 달러 순유입",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4alZNUVQwaDFQYWt0WXAtN0FxNi1ybWtyVUx0Z1VOcUNJNkNxY25sNU9sUDA1LW4ybDllQ2J0SmZybGhIaTMwN0w4V0s2YUpxcTlKT1FKNHbSAV5BVV95cUxNdHhxV0dMR25xRmlzUUp2M2Fmc1huNm1HbmNhb3VXTFdtbkFscjNPWGh6eHdpQkZ1TVFZaExzYzVOX2NISUM1czhyZFVlVFJhOC0yYWVrZUFTSkNScnhB?oc=5",
-      "date": "Sat, 27 Jun 2026 08:41:03 GMT",
+      "title": "리플(XRP), 1달러 초반대 머물며 52주 저점 근접…RLUSD로 글로벌 시장 확장",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FSkNUa3FDU3Vva19obU1iTlROQVAxUlNaVVJMQzhUTmRobjc0VVRUNTQ3Z2ZpSWlXUVV3UmdlNk1oMThvcHh1NTcyMjlha1RjbVRTWFI5a2xSRzBzcHo0aNIBZkFVX3lxTE1tT3d1alBVbEcwd1V0cmlTTmstcEhiZmZ1blBrbENjaWtTN05PVWhNOXp6TDk4VWktVnpsZEVVekd4cFNIak92X1liUEhvUFZiRW1mck5XaTA4azN4TGY0Qm1ZUmJkQQ?oc=5",
+      "date": "Sat, 27 Jun 2026 21:07:18 GMT",
       "source": "tokenpost.kr",
       "score": 0
     }
@@ -107,18 +107,25 @@
       "score": 2
     },
     {
-      "title": "리플 CEO \"암호화폐 약세, 전부 마이클 세일러 때문\"",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5vS2U5bUJQUnQzMlN5VEJCbHE5VUs4VXF5OUlYRTFuWWxTLV9TRjdvaVJva3NOMEtMck1xeG9tdkVfbGJLNDd0QmVB?oc=5",
-      "date": "Tue, 30 Jun 2026 07:10:00 GMT",
-      "source": "코인리더스",
-      "score": 2
-    },
-    {
       "title": "“암호화폐 비트코인은 예비용일 뿐... 글로벌 은행들이 리플(XRP)을 선택한 진짜 이유”",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFdnMwLVBwek9RTGphc0JsZmhyVjhLajdUa2NWazU1N0lWeml4bXVDT21LYzhtTEhXVjFuNzdrU2ROc3pSeHRfT3lFdW5PcEdpbGQzUTJB?oc=5",
       "date": "Tue, 30 Jun 2026 06:03:00 GMT",
       "source": "위키트리",
       "score": 4
+    },
+    {
+      "title": "리플, 美 '클래리티 법안' 통과 전 글로벌 선점…\"XRP 씨앗 뿌리고 있다\"",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUkVhNGZSTnM2MFROaWZ0RlhaempUTEdHMWpnYldfQVZFTTNZaXRGeVItX2p6bjUtYzZmYnFWNjNBWmVDQk93VVByQmJOaENNZGxUS1FLaXRTR3NRZ2xMQ291NENxUWxVRGtWVmN6ZmM3NktYRWV3T0w2VERCRzZ2SGZ2VVZ2a2h0?oc=5",
+      "date": "Tue, 30 Jun 2026 05:22:39 GMT",
+      "source": "글로벌이코노믹",
+      "score": 2
+    },
+    {
+      "title": "나도 이제",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96S2ZPSEJ0b0FZZFRIbkVGWG1XaERCUUFmMTNRb0N0Rk1RbDdEYlQ1SzhUb0wyd0pYaUs4dktjVVp0SnFyQkR5LXRZWVFWNjJRRHlTTG9HVk0?oc=5",
+      "date": "Tue, 30 Jun 2026 00:04:21 GMT",
+      "source": "CoinNess",
+      "score": 8
     },
     {
       "title": "\"위험만 크고 수익은 없다\"… 리플(XRP) 1달러 붕괴 공포 속 '탈출 시그널' 켜졌나",
@@ -149,17 +156,10 @@
       "score": 3
     },
     {
-      "title": "리플 IPO와 XRP 배당설, 보유자는 정말 무엇을 받게 될까요?",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaWlxbVI3YUFVRmVNV1B3bjdEQTUtckQteFpmLVl0U2ZlcHp6ckZNbzcwUGdUTllGekhPZFljaGVwTFAwM3pidndGcmZUUERFY2J4VVVSU1NyWE9Yekx6Sm0wWDJWQlZHanBaQ0xab3VPUTIzRmdBYVpCYTZLRVFtTzhjQnRnUDUycEhydg?oc=5",
-      "date": "Mon, 29 Jun 2026 06:41:00 GMT",
-      "source": "네이버 프리미엄콘텐츠",
-      "score": 2
-    },
-    {
-      "title": "리플 CEO \"암호화폐 승자는 금융공학 아닌 실질적 유용성이 결정\"",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQempYbmlvcnVfNWttWnRpOE5YR0xhdEktWWF1U0VGX2lBSVhZTTNjRS1Rd1REYUY0emJ4UlYyUDd4T2JlZHRSQUR0aWRsT3ZSc1lyQzVzRm0wWWQxaVZGVXg2RFlPWDM3Rk9NTWIwS3JnWl9jcXFBNXJtYVlWSTdvM0FkS2hKVER3?oc=5",
-      "date": "Mon, 29 Jun 2026 05:14:12 GMT",
-      "source": "글로벌이코노믹",
+      "title": "XRP 레저 샌드위치 공격 위험…리플 전 CTO 해결책 제안",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pZjdGMFkwU1NRQjkzMXhDOTdhcUtkS25jOHRSaV94eFdLNEpPMzF4YWRGazJkOG9wODdSc2pGR3poYXhhdmhLSFhQM0NQRmpBZW9qeWJ3U0hyaGhPWWNHZTh2dGZIbV9xTzdRSkIxTDhKeDg5?oc=5",
+      "date": "Mon, 29 Jun 2026 12:57:31 GMT",
+      "source": "BeInCrypto",
       "score": 2
     }
   ]
