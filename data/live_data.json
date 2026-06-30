@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-30T10:28:32",
+  "generated_at": "2026-06-30T12:29:22",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.041,
-    "price_krw": 1616.34,
-    "price_change_24h": -1.06826,
-    "price_change_7d": -5.3173,
-    "price_change_30d": -22.02499,
-    "market_cap_usd": 64814023522,
+    "price_usd": 1.031,
+    "price_krw": 1598.82,
+    "price_change_24h": -2.85614,
+    "price_change_7d": -6.95046,
+    "price_change_30d": -23.03711,
+    "market_cap_usd": 64150514796,
     "market_cap_rank": 6,
-    "volume_24h": 1599729757,
+    "volume_24h": 1535427383,
     "circulating_supply": 62241508805.0,
     "total_supply": 99985645029.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 58.82,
-    "sentiment_votes_down": 41.18,
+    "sentiment_votes_up": 54.02,
+    "sentiment_votes_down": 45.98,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 14.45,
-    "recent_tps": 14.45,
-    "recent_tx_count": 1185,
+    "tps_24h_avg": 29.71,
+    "recent_tps": 29.71,
+    "recent_tx_count": 2704,
     "recent_ledger_count": 24,
-    "recent_window_sec": 82,
-    "ledger_seq": 105276186,
+    "recent_window_sec": 91,
+    "ledger_seq": 105278053,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-06-30 10:28:19 KST",
+    "updated_at": "2026-06-30 12:29:15 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 11940000,
     "total_net_inflow_usd": 11940000,
     "total_value_traded_usd": 11940000,
-    "updated_at": "SoSoValue 순유입 부분 수집 06/30 10:28",
+    "updated_at": "SoSoValue 순유입 부분 수집 06/30 12:29",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -100,9 +100,16 @@
       "score": 2
     },
     {
-      "title": "리플, 美 '클래리티 법안' 통과 전 글로벌 선점…\"XRP 씨앗 뿌리고 있다\"",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUkVhNGZSTnM2MFROaWZ0RlhaempUTEdHMWpnYldfQVZFTTNZaXRGeVItX2p6bjUtYzZmYnFWNjNBWmVDQk93VVByQmJOaENNZGxUS1FLaXRTR3NRZ2xMQ291NENxUWxVRGtWVmN6ZmM3NktYRWV3T0w2VERCRzZ2SGZ2VVZ2a2h0?oc=5",
-      "date": "Tue, 30 Jun 2026 05:22:39 GMT",
+      "title": "“암호화폐 비트코인은 예비용일 뿐... 글로벌 은행들이 리플(XRP)을 선택한 진짜 이유”",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFdnMwLVBwek9RTGphc0JsZmhyVjhLajdUa2NWazU1N0lWeml4bXVDT21LYzhtTEhXVjFuNzdrU2ROc3pSeHRfT3lFdW5PcEdpbGQzUTJB?oc=5",
+      "date": "Tue, 30 Jun 2026 06:03:00 GMT",
+      "source": "위키트리",
+      "score": 3
+    },
+    {
+      "title": "\"위험만 크고 수익은 없다\"… 리플(XRP) 1달러 붕괴 공포 속 '탈출 시그널' 켜졌나",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS19IM0FyVUdHQ3NnMnVfaUVySkJpaVF0QlgxNU90cDZMQ2FPRzJNRHg3Sm1VZTRKWmdQc3luS3RidnoyVDRfU1hVVmxnQUJ5WXVUT2UwUUdnbXZpeTUwN3owMDlYSS1QNHdUUGN5R3oyYmh3Vi1tWTlzcWxpa21Xa0dSMGJ4b3FI?oc=5",
+      "date": "Mon, 29 Jun 2026 22:27:53 GMT",
       "source": "글로벌이코노믹",
       "score": 2
     },
@@ -112,13 +119,6 @@
       "date": "Mon, 29 Jun 2026 22:04:29 GMT",
       "source": "TopStarNews",
       "score": 3
-    },
-    {
-      "title": "리플(XRP), 약세 속 1달러선 유지…7월 반등 기대",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wRXMySnhaWS1qeE5jcm53OW84Nk1GR0xXYlpfZXJ6UGtrbFBwZzA0NkllU3pVdE9rMU44dk04VHNaZlVOakVpUW10Z2lQYVNpTHdjN2dHZksweFd5eERzTtIBZkFVX3lxTE5KMGNLVHc4S0szOGw1OW9YVFBlT0pwRnd0Qk0wZVQ4R1J2cEh3OUVwcEItekVSQkxmdFphZFg4dmZNMm0zRVAwOXg1SGplY2NmM0RIMnJNXzZjUHZocXZYTU9XOHV4UQ?oc=5",
-      "date": "Mon, 29 Jun 2026 21:07:13 GMT",
-      "source": "tokenpost.kr",
-      "score": 2
     },
     {
       "title": "리플, SEC 소송 넘어 입법전으로…CLARITY 법안이 XRP 시장 변수 부상,미국 이란 휴전 양상은?",
