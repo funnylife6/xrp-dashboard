@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-01T16:43:03",
+  "generated_at": "2026-07-01T18:56:20",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.059,
-    "price_krw": 1642.06,
-    "price_change_24h": 2.28458,
-    "price_change_7d": 0.01296,
-    "price_change_30d": -17.48754,
-    "market_cap_usd": 65890833494,
+    "price_krw": 1641.79,
+    "price_change_24h": 1.63255,
+    "price_change_7d": 0.96531,
+    "price_change_30d": -18.50114,
+    "market_cap_usd": 65921302226,
     "market_cap_rank": 6,
-    "volume_24h": 1630358342,
+    "volume_24h": 1610418370,
     "circulating_supply": 62241508805.0,
     "total_supply": 99985645029.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 75.0,
-    "sentiment_votes_down": 25.0,
+    "sentiment_votes_up": 73.26,
+    "sentiment_votes_down": 26.74,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 44.2,
-    "recent_tps": 44.2,
-    "recent_tx_count": 3978,
+    "tps_24h_avg": 23.1,
+    "recent_tps": 23.1,
+    "recent_tx_count": 2079,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 105304437,
+    "ledger_seq": 105306514,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-01 16:42:56 KST",
+    "updated_at": "2026-07-01 18:56:10 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 5820000,
     "total_net_inflow_usd": 5820000,
     "total_value_traded_usd": 5820000,
-    "updated_at": "SoSoValue 순유입 부분 수집 07/01 16:43",
+    "updated_at": "SoSoValue 순유입 부분 수집 07/01 18:56",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -53,13 +53,6 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQTBMdmhxS1FKWXN5SVBsX0hWV19fR2xBTzlRTlo4Y3c5bTVucjNzZjBwM3NHT1NoUUcxZFM1elJlQ1NtNVhjRTU5ZjJWYTVBTC1KNktzTl90bDh3V3MwMGxwaDMza3pBenEwY1RHR3F4U253SmtoLUJRSHk2NThrOU5veFJ3cnJlb1YtelVvelo1dEhWSF8zYnZ5cXRIanBaR3Z1XzBNWEZ4UjBxaDlqSE5pYTZPSTJNdVRwejV4VQ?oc=5",
       "date": "Wed, 01 Jul 2026 11:29:10 GMT",
       "source": "CoinDesk",
-      "score": 0
-    },
-    {
-      "title": "[알트 현물 ETF] 하이퍼리퀴드·XRP 동반 순유출...알트 ETF는 관망세",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1BZ01LRFlVYll3U3dKOFo1WXBCNDRKQ1VMSF9iQUZqX3FhQjNmN2pkQ1NHUUVNci1qOXFyMjJBWTk0Q0pBX2o5UjBhU0xMalhrelJDUVRpS3JJSGFWN3RCbW4ydklFd9IBZkFVX3lxTE1BZ01LRFlVYll3U3dKOFo1WXBCNDRKQ1VMSF9iQUZqX3FhQjNmN2pkQ1NHUUVNci1qOXFyMjJBWTk0Q0pBX2o5UjBhU0xMalhrelJDUVRpS3JJSGFWN3RCbW4ydklFdw?oc=5",
-      "date": "Wed, 01 Jul 2026 03:41:43 GMT",
-      "source": "tokenpost.kr",
       "score": 0
     },
     {
@@ -88,6 +81,13 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA2bWgyeU5kcDY2UmJSakVTa2RjcGFwZEFIWU9VaHpHczZNWVQtZ0NwMDQwZUw2U3l0enhoTzBUdlluQk5sV2t3ZTFxZWlFLVR4VlJMMjB1ejVfOXhJdFFveWNraDNYc1ZIR0RZcFptbFFXOE0?oc=5",
       "date": "Tue, 30 Jun 2026 01:26:00 GMT",
       "source": "디지털투데이",
+      "score": 0
+    },
+    {
+      "title": "리 급등·솔라나 상승·리플XRP 상승, ETF 유출에도 거래 확대",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBXczUtakh3SnZXQ1lKOVc2UGpXRTBOU08zLURnUm1ORnI5Vl9KNHRlLXlEeXVjYnBIV3NNSnUzek9mRUNuOXljU3hkaEc0R21YdVFxSExETmxxdGhkakJnQzlYZGw4ZGR6djBzbDhha2RXdw?oc=5",
+      "date": "Mon, 29 Jun 2026 22:04:29 GMT",
+      "source": "TopStarNews",
       "score": 0
     }
   ],
