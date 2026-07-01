@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-01T08:35:20",
+  "generated_at": "2026-07-01T11:54:37",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.039,
-    "price_krw": 1615.01,
-    "price_change_24h": -0.44627,
-    "price_change_7d": -5.27816,
-    "price_change_30d": -20.26155,
-    "market_cap_usd": 64677646806,
+    "price_usd": 1.037,
+    "price_krw": 1616.08,
+    "price_change_24h": -0.16189,
+    "price_change_7d": -4.46343,
+    "price_change_30d": -20.46667,
+    "market_cap_usd": 64579011730,
     "market_cap_rank": 6,
-    "volume_24h": 1608798969,
+    "volume_24h": 1618168207,
     "circulating_supply": 62241508805.0,
     "total_supply": 99985645029.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 64.0,
-    "sentiment_votes_down": 36.0,
+    "sentiment_votes_up": 69.88,
+    "sentiment_votes_down": 30.12,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 26.22,
-    "recent_tps": 26.22,
-    "recent_tx_count": 2360,
+    "tps_24h_avg": 19.83,
+    "recent_tps": 19.83,
+    "recent_tx_count": 1606,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 105296836,
+    "recent_window_sec": 81,
+    "ledger_seq": 105299955,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-01 08:35:14 KST",
+    "updated_at": "2026-07-01 11:54:24 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 5820000,
     "total_net_inflow_usd": 5820000,
     "total_value_traded_usd": 5820000,
-    "updated_at": "SoSoValue 순유입 부분 수집 07/01 08:35",
+    "updated_at": "SoSoValue 순유입 부분 수집 07/01 11:54",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -93,6 +93,13 @@
   ],
   "general_news": [
     {
+      "title": "26년 7월1일 종합분석( 현재흐름, 단기예측, 초격차 포지션설명)",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOazVEQS1TNTFWN2piVkVmTEQ5ejY5QWVWVmlLWGt1Q0w3WDF0OGJXbW1ON1h5LTUwZ1FfNENtUERjQmhpUjhBaHVRNV9wNFJfdHA4YVJZVF9TV0hLYzd6MVBRY2pCWDJFSlNhQVhuMUJ2aGRTcDRTSDE4ZEhlcnJTa0ZCb1RqXzdIdlE?oc=5",
+      "date": "Wed, 01 Jul 2026 10:40:00 GMT",
+      "source": "네이버 프리미엄콘텐츠",
+      "score": 2
+    },
+    {
       "title": "XRP, 리플 스테이블코인 RLUSD와 함께 성장하나…“대체 아닌 지원”",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTQ1dRUmhGSndnaTYzM3NFSEItRFVpYWQ2WFZWV1ROaEVfanQtaXlpQVNYMy1ULTFReHI1RF9DdzR3em15NXhJX2ExRmpuRWk4bDBWNDhrSEx3dzFZU2NKbWpIZw?oc=5",
       "date": "Wed, 01 Jul 2026 03:07:39 GMT",
@@ -135,13 +142,6 @@
       "score": 2
     },
     {
-      "title": "리플코인 XRP 레저, 14년 만에 '신용'을 품다, XRPL 대출 프로토콜",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcTRMZlBNdEhDeks2dkhsYW5CaXNtOXZvV0hwTks1a1ZneDlSS0hCeTNBMjdFTWRfb1Zrb2RJbWQzT3RqeU5kWE1ybFZ0bEQya25wa3B4MXdpVjYwQ2FfZUUxS3dYalRpcXIzeldsVVc0Qllnb0ZCVXNLNVpiWlRaSTNxcVJlOEtqeUhpcg?oc=5",
-      "date": "Tue, 30 Jun 2026 08:54:00 GMT",
-      "source": "네이버 프리미엄콘텐츠",
-      "score": 2
-    },
-    {
       "title": "“암호화폐 비트코인은 예비용일 뿐... 글로벌 은행들이 리플(XRP)을 선택한 진짜 이유”",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFdnMwLVBwek9RTGphc0JsZmhyVjhLajdUa2NWazU1N0lWeml4bXVDT21LYzhtTEhXVjFuNzdrU2ROc3pSeHRfT3lFdW5PcEdpbGQzUTJB?oc=5",
       "date": "Tue, 30 Jun 2026 06:03:00 GMT",
@@ -149,18 +149,18 @@
       "score": 4
     },
     {
-      "title": "\"위험만 크고 수익은 없다\"… 리플(XRP) 1달러 붕괴 공포 속 '탈출 시그널' 켜졌나",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS19IM0FyVUdHQ3NnMnVfaUVySkJpaVF0QlgxNU90cDZMQ2FPRzJNRHg3Sm1VZTRKWmdQc3luS3RidnoyVDRfU1hVVmxnQUJ5WXVUT2UwUUdnbXZpeTUwN3owMDlYSS1QNHdUUGN5R3oyYmh3Vi1tWTlzcWxpa21Xa0dSMGJ4b3FI?oc=5",
-      "date": "Mon, 29 Jun 2026 22:27:53 GMT",
+      "title": "리플, 美 '클래리티 법안' 통과 전 글로벌 선점…\"XRP 씨앗 뿌리고 있다\"",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUkVhNGZSTnM2MFROaWZ0RlhaempUTEdHMWpnYldfQVZFTTNZaXRGeVItX2p6bjUtYzZmYnFWNjNBWmVDQk93VVByQmJOaENNZGxUS1FLaXRTR3NRZ2xMQ291NENxUWxVRGtWVmN6ZmM3NktYRWV3T0w2VERCRzZ2SGZ2VVZ2a2h0?oc=5",
+      "date": "Tue, 30 Jun 2026 05:22:39 GMT",
       "source": "글로벌이코노믹",
       "score": 2
     },
     {
-      "title": "리플, SEC 소송 넘어 입법전으로…CLARITY 법안이 XRP 시장 변수 부상,미국 이란 휴전 양상은?",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBQeWIyV2lVa0tjTjFIRG1hM0pjVnBZMHpjaXpCeFA5ZjdDZFp1RVhxcHNHaFVaSExJVXNlSjNGX0U3cnJubXpnSHVVSVRSV2ZnTVlQRGxJY2ZWeURrZXhvN0Z1aw?oc=5",
-      "date": "Mon, 29 Jun 2026 15:00:00 GMT",
-      "source": "CBC뉴스",
-      "score": 3
+      "title": "속보 | 미 SEC, 예측시장 등 암호화폐·온체인 혁신 상품 ETF 승인 검토",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAzWWRJOXZ2V1NCakxoMTlkcVdkeHIwYkJVOC1zMWhSZS11d25sQkUzR0ItUmFzVEtUM3BEYlBiS0swQkUwdFozRA?oc=5",
+      "date": "Tue, 30 Jun 2026 00:45:00 GMT",
+      "source": "CoinNess",
+      "score": 10
     }
   ]
 }
