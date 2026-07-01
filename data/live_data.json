@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-01T04:22:25",
+  "generated_at": "2026-07-01T08:35:20",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.048,
-    "price_krw": 1631.92,
-    "price_change_24h": 0.59429,
-    "price_change_7d": -4.95511,
-    "price_change_30d": -21.16834,
-    "market_cap_usd": 65255898045,
+    "price_usd": 1.039,
+    "price_krw": 1615.01,
+    "price_change_24h": -0.44627,
+    "price_change_7d": -5.27816,
+    "price_change_30d": -20.26155,
+    "market_cap_usd": 64677646806,
     "market_cap_rank": 6,
-    "volume_24h": 1538360750,
+    "volume_24h": 1608798969,
     "circulating_supply": 62241508805.0,
     "total_supply": 99985645029.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 60.76,
-    "sentiment_votes_down": 39.24,
+    "sentiment_votes_up": 64.0,
+    "sentiment_votes_down": 36.0,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 13.2,
-    "recent_tps": 13.2,
-    "recent_tx_count": 1188,
+    "tps_24h_avg": 26.22,
+    "recent_tps": 26.22,
+    "recent_tx_count": 2360,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 105292880,
+    "ledger_seq": 105296836,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-01 04:22:11 KST",
+    "updated_at": "2026-07-01 08:35:14 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,11 +43,18 @@
     "aum_usd": 5820000,
     "total_net_inflow_usd": 5820000,
     "total_value_traded_usd": 5820000,
-    "updated_at": "SoSoValue 순유입 부분 수집 07/01 04:22",
+    "updated_at": "SoSoValue 순유입 부분 수집 07/01 08:35",
     "data_source": "sosovalue",
     "partial": true
   },
   "etf_news": [
+    {
+      "title": "[알트 현물 ETF] 하이퍼리퀴드·XRP 동반 순유출...알트 ETF는 관망세",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1BZ01LRFlVYll3U3dKOFo1WXBCNDRKQ1VMSF9iQUZqX3FhQjNmN2pkQ1NHUUVNci1qOXFyMjJBWTk0Q0pBX2o5UjBhU0xMalhrelJDUVRpS3JJSGFWN3RCbW4ydklFd9IBZkFVX3lxTE1BZ01LRFlVYll3U3dKOFo1WXBCNDRKQ1VMSF9iQUZqX3FhQjNmN2pkQ1NHUUVNci1qOXFyMjJBWTk0Q0pBX2o5UjBhU0xMalhrelJDUVRpS3JJSGFWN3RCbW4ydklFdw?oc=5",
+      "date": "Wed, 01 Jul 2026 03:41:43 GMT",
+      "source": "tokenpost.kr",
+      "score": 0
+    },
     {
       "title": "인피닛 급락·비트코인 하락·리플XRP 보합, 금리 부담",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yd0lVckpZVXJ0TUdBSjdUZEFOVFNjZmhIa25ISEt3WjUtT1VNOXp1MlQxYzFKRUU0bTB1bnplVThUNnpQYTFPWGs0ZU1CUlFmMmYxUDZBZFVvMzR0OVZ2blY4WS1XSTd1RDQ0TkxVZFoyQQ?oc=5",
@@ -82,19 +89,12 @@
       "date": "Mon, 29 Jun 2026 05:27:00 GMT",
       "source": "블록미디어",
       "score": 0
-    },
-    {
-      "title": "XRP ETF에만 자금 몰렸다, 비트코인·이더리움은 7거래일 연속 유출",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pQVdMTk14c01lVU9RblhrWWhxUmdka2FQZ3dyOUVubTRnTUZ4Tnl6eTVWb0JWbDhSTGEzR2NvTk0xR1d6Um9pU0pXOVpodmVPZXR5Ui1wV19qc2hxa2Zzby00RENyLW1zLUtObk9B?oc=5",
-      "date": "Mon, 29 Jun 2026 02:11:32 GMT",
-      "source": "미디어파인",
-      "score": 0
     }
   ],
   "general_news": [
     {
       "title": "XRP, 리플 스테이블코인 RLUSD와 함께 성장하나…“대체 아닌 지원”",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wb3hGLVdhZm1QZWFaZ050dUsxaDVKaWJqYkhjVVRyY3BSRzgxUTJleXltQ2tqSUtfZVVEU2JYdzBmRXlJQ1lsZ2l1WkRDZEdEem82djVWWWMtNmFyQzd2eTNEaGNMakZQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTQ1dRUmhGSndnaTYzM3NFSEItRFVpYWQ2WFZWV1ROaEVfanQtaXlpQVNYMy1ULTFReHI1RF9DdzR3em15NXhJX2ExRmpuRWk4bDBWNDhrSEx3dzFZU2NKbWpIZw?oc=5",
       "date": "Wed, 01 Jul 2026 03:07:39 GMT",
       "source": "CBC뉴스",
       "score": 3
@@ -149,18 +149,18 @@
       "score": 4
     },
     {
-      "title": "속보 | 미 SEC, 예측시장 등 암호화폐·온체인 혁신 상품 ETF 승인 검토",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAzWWRJOXZ2V1NCakxoMTlkcVdkeHIwYkJVOC1zMWhSZS11d25sQkUzR0ItUmFzVEtUM3BEYlBiS0swQkUwdFozRA?oc=5",
-      "date": "Tue, 30 Jun 2026 00:45:00 GMT",
-      "source": "CoinNess",
-      "score": 10
-    },
-    {
       "title": "\"위험만 크고 수익은 없다\"… 리플(XRP) 1달러 붕괴 공포 속 '탈출 시그널' 켜졌나",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS19IM0FyVUdHQ3NnMnVfaUVySkJpaVF0QlgxNU90cDZMQ2FPRzJNRHg3Sm1VZTRKWmdQc3luS3RidnoyVDRfU1hVVmxnQUJ5WXVUT2UwUUdnbXZpeTUwN3owMDlYSS1QNHdUUGN5R3oyYmh3Vi1tWTlzcWxpa21Xa0dSMGJ4b3FI?oc=5",
       "date": "Mon, 29 Jun 2026 22:27:53 GMT",
       "source": "글로벌이코노믹",
       "score": 2
+    },
+    {
+      "title": "리플, SEC 소송 넘어 입법전으로…CLARITY 법안이 XRP 시장 변수 부상,미국 이란 휴전 양상은?",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBQeWIyV2lVa0tjTjFIRG1hM0pjVnBZMHpjaXpCeFA5ZjdDZFp1RVhxcHNHaFVaSExJVXNlSjNGX0U3cnJubXpnSHVVSVRSV2ZnTVlQRGxJY2ZWeURrZXhvN0Z1aw?oc=5",
+      "date": "Mon, 29 Jun 2026 15:00:00 GMT",
+      "source": "CBC뉴스",
+      "score": 3
     }
   ]
 }
