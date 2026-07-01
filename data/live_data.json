@@ -1,51 +1,50 @@
 {
-  "generated_at": "2026-07-01T20:46:46",
+  "generated_at": "2026-07-01T22:14:08",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.056,
-    "price_krw": 1638.23,
-    "price_change_24h": 1.37866,
-    "price_change_7d": 0.12468,
-    "price_change_30d": -18.65223,
-    "market_cap_usd": 65714790365,
+    "price_usd": 1.066,
+    "price_krw": 1657.9,
+    "price_change_24h": 2.50393,
+    "price_change_7d": -0.60685,
+    "price_change_30d": -17.37093,
+    "market_cap_usd": 66375500343,
     "market_cap_rank": 6,
-    "volume_24h": 1604093958,
+    "volume_24h": 1620413778,
     "circulating_supply": 62241508805.0,
     "total_supply": 99985645029.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 73.26,
-    "sentiment_votes_down": 26.74,
+    "sentiment_votes_up": 75.56,
+    "sentiment_votes_down": 24.44,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 13.0,
-    "recent_tps": 13.0,
-    "recent_tx_count": 1157,
+    "tps_24h_avg": 23.43,
+    "recent_tps": 23.43,
+    "recent_tx_count": 2085,
     "recent_ledger_count": 24,
     "recent_window_sec": 89,
-    "ledger_seq": 105308237,
+    "ledger_seq": 105309601,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-01 20:46:38 KST",
+    "updated_at": "2026-07-01 22:13:57 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
   },
   "etf_flow": {
-    "approved_count": 4,
+    "approved_count": 0,
     "daily_inflow_usd": 0,
     "weekly_inflow_usd": 0,
-    "aum_usd": 5820000,
-    "total_net_inflow_usd": 5820000,
-    "total_value_traded_usd": 5820000,
-    "updated_at": "SoSoValue 순유입 부분 수집 07/01 20:46",
-    "data_source": "sosovalue",
-    "partial": true
+    "aum_usd": 0,
+    "total_net_inflow_usd": 0,
+    "total_value_traded_usd": 0,
+    "updated_at": "뉴스 자동 파싱 대기",
+    "data_source": "news_parse"
   },
   "etf_news": [
     {
@@ -93,6 +92,20 @@
   ],
   "general_news": [
     {
+      "title": "누적 거래 25억 달러 돌파… XRP 목 조른다던 스테이블코인의 뜻밖의 질주",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE40S1RaeXdsMFBxNFhsbzUwdnBscDNZODd6SGc3N1RvSkJWQTF6SlUxNDhfbzV0a21MN0RCbmhZQUVyVFh4UFdscTByRDlKU1c5Z0wxemhvcEVqLVlGNmxIWWRVMHJWeUpqYlpqWWtlazdhTWPSAXdBVV95cUxNSEtwYWd4Z2EzRjBqenZUT1VhWHRvOXlyWVM0Y0NWOGRZQ0U4dE1rSXFzQ0F4QUNFSUJlWG0tLU5GSE8tWFJveGh6bUpmYk1FbWIySl90eDR0dzlaU3hoczgxTUliTTJZak43b1plZTlobm9fNU5VQQ?oc=5",
+      "date": "Wed, 01 Jul 2026 21:53:45 GMT",
+      "source": "핀포인트뉴스",
+      "score": 2
+    },
+    {
+      "title": "리플 사장 \"결제 미래는 멀티체인…RLUSD·XRP 동반 성장할 것\"",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE80Z2djb1VuVkg5UG9sV2F4U0EyNE1ianRKdUNuSUNqY1FwTDRObEd4WWVLWVpxSzdhdEN5ZjBPb3FPSkFRYjlQQkdiTkNkT2RXcng5RnAwRkhMSjZIbzZaMWxXS1Y2TnBFdl9udDhvRFBWWUk?oc=5",
+      "date": "Wed, 01 Jul 2026 21:41:11 GMT",
+      "source": "핀포인트뉴스",
+      "score": 3
+    },
+    {
       "title": "리플, '오픈USD' 동맹 전격 합류… 기관용 스테이블코인 패권 정조준",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYlZqeGhLWUpwNTdnVDY0ZFQ1QlctVmxIOUhrMUh2aU92eVhPMHB4UzZvZDZLeXFYRVlXaUotdnpLZm1KZHlXamVvZ1ZzR2xRbDhPWWs5SDlta3pDLUlOSk5Ccl9yN0NNdEVvVmoxV1RmNzk2eXRWUGZRR0Q5ajBWcUIwMjRLaXhD?oc=5",
       "date": "Wed, 01 Jul 2026 19:10:12 GMT",
@@ -107,11 +120,11 @@
       "score": 2
     },
     {
-      "title": "속보 | 3억 XRP, 락업",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1FUGJDSExQamJEbVk1MElmSFZ0d3VCQjV5eXVYYlcyaXlicWN2OWhWTmlmbndyanJCTGx5WVltaUpqVFdUbWhMS05VMVp3NldW?oc=5",
-      "date": "Wed, 01 Jul 2026 11:20:26 GMT",
-      "source": "CoinNess",
-      "score": 8
+      "title": "리플, 규제 압력 속 1.05달러 등락…캘리포니아·EU·호주 규제 동시 진압",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55N3JqZDI4dlBLbVhfbVd5d3pYRmtQTVphellGYzlucXkyOUp6dkRfRmNhdS1Pa2pyVkc0aFpMOTFCSzQ5ak1welpRMmtNVVlJRHRYVVJpVmx0Vlpxb1VKV9IBZkFVX3lxTE1ZN3Qyd05SWXhjU0xyLXNhbkVWcno2NEUycU9pSHh2VG9JQkNKZ01saFB0ZzNXNkNscnc4SVA4Mm8yS0NTVnJzODZ0LVNSb2xrMUppaEVSZzhIX01BSjVwakNSUWdLQQ?oc=5",
+      "date": "Wed, 01 Jul 2026 05:08:03 GMT",
+      "source": "tokenpost.kr",
+      "score": 2
     },
     {
       "title": "XRP, 리플 스테이블코인 RLUSD와 함께 성장하나…“대체 아닌 지원”",
@@ -135,13 +148,6 @@
       "score": 2
     },
     {
-      "title": "리플 전 CTO, XRPL 보안 우려 반박…비용 부담 구조에 초점",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hd21aNHBOOHdFbzFKMXo1RjBNbnF6bl9XcUZkenJSZGtBSDNWYTFjZjZrTjJGQ2dXMFdTeXdxTEFDX296ZWhKeEx3LUVZSDJOdzVz?oc=5",
-      "date": "Wed, 01 Jul 2026 01:23:00 GMT",
-      "source": "네이트",
-      "score": 2
-    },
-    {
       "title": "XRP 레저 대출 프로토콜 도입 왜 늦어지나…리플X \"안전성 보완 먼저\"",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1BS1BRR1ZPbHYzVWNka2tuN01jWGE3MUJ1WVRDdkRrMmk2d1F4bXpzTzBOT1U0d09PRWNiVHlrM2QyRE5EekNqYWplY3p4OUFsbk13?oc=5",
       "date": "Wed, 01 Jul 2026 00:16:09 GMT",
@@ -153,13 +159,6 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yd0lVckpZVXJ0TUdBSjdUZEFOVFNjZmhIa25ISEt3WjUtT1VNOXp1MlQxYzFKRUU0bTB1bnplVThUNnpQYTFPWGs0ZU1CUlFmMmYxUDZBZFVvMzR0OVZ2blY4WS1XSTd1RDQ0TkxVZFoyQQ?oc=5",
       "date": "Tue, 30 Jun 2026 22:10:48 GMT",
       "source": "TopStarNews",
-      "score": 2
-    },
-    {
-      "title": "리플코인 XRP 레저, 14년 만에 '신용'을 품다, XRPL 대출 프로토콜",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcTRMZlBNdEhDeks2dkhsYW5CaXNtOXZvV0hwTks1a1ZneDlSS0hCeTNBMjdFTWRfb1Zrb2RJbWQzT3RqeU5kWE1ybFZ0bEQya25wa3B4MXdpVjYwQ2FfZUUxS3dYalRpcXIzeldsVVc0Qllnb0ZCVXNLNVpiWlRaSTNxcVJlOEtqeUhpcg?oc=5",
-      "date": "Tue, 30 Jun 2026 08:54:00 GMT",
-      "source": "네이버 프리미엄콘텐츠",
       "score": 2
     }
   ]
