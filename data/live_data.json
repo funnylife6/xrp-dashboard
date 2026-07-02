@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-02T14:36:43",
+  "generated_at": "2026-07-02T16:45:39",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.091,
-    "price_krw": 1683.79,
-    "price_change_24h": 3.7657,
-    "price_change_7d": 6.03021,
-    "price_change_30d": -13.50405,
-    "market_cap_usd": 67925835059,
+    "price_usd": 1.089,
+    "price_krw": 1677.11,
+    "price_change_24h": 2.87891,
+    "price_change_7d": 5.53989,
+    "price_change_30d": -10.53128,
+    "market_cap_usd": 67773000422,
     "market_cap_rank": 6,
-    "volume_24h": 1884717410,
+    "volume_24h": 1879786829,
     "circulating_supply": 62241508805.0,
     "total_supply": 99985645029.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 79.28,
-    "sentiment_votes_down": 20.72,
+    "sentiment_votes_up": 78.38,
+    "sentiment_votes_down": 21.62,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 27.98,
-    "recent_tps": 27.98,
-    "recent_tx_count": 2490,
+    "tps_24h_avg": 21.73,
+    "recent_tps": 21.73,
+    "recent_tx_count": 1782,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 105324928,
+    "recent_window_sec": 82,
+    "ledger_seq": 105326932,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-02 14:36:37 KST",
+    "updated_at": "2026-07-02 16:45:29 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 4750000,
     "total_net_inflow_usd": 4750000,
     "total_value_traded_usd": 4750000,
-    "updated_at": "SoSoValue 순유입 부분 수집 07/02 14:36",
+    "updated_at": "SoSoValue 순유입 부분 수집 07/02 16:45",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -156,11 +156,11 @@
       "score": 3
     },
     {
-      "title": "리플, 27억 달러로 월가 대기업이 되다, (XRP)",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOM0QtUmhGODVfRWQ1ejNMVDhidkxFZUpRa2N6a1d5V3dxWk1MRldTM0V6eGJGR0Fja2c3OWhoRTRvdEtfb0hjLW5pS0xpRVRqUmNUc0VYeUdTZnBhSUJoUlFQa2t1UWhqLWhFUEUxbXotSFMwMzYxQjZqUTJmYlVoN19lalNJdlNnMEdKMQ?oc=5",
-      "date": "Wed, 01 Jul 2026 11:44:00 GMT",
-      "source": "네이버 프리미엄콘텐츠",
-      "score": 2
+      "title": "XRP(리플) ETF 6주 만의 최대 유입...가격 약세 vs 기관 매수 대립, 누가 이기나?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBiQklKT1puOVdJbzhzdmRfT1BwaXQwTlNFV2NiM01rZnM3b0ZnNDhhN0NFSWpyTkhzenZBSzJNcUFlSnZHMnBZX2pR?oc=5",
+      "date": "Wed, 01 Jul 2026 11:20:00 GMT",
+      "source": "코인리더스",
+      "score": 4
     }
   ]
 }
