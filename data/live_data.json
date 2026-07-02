@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-02T06:33:34",
+  "generated_at": "2026-07-02T09:54:45",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.058,
-    "price_krw": 1646.3,
-    "price_change_24h": 1.20968,
-    "price_change_7d": -2.30522,
-    "price_change_30d": -16.52278,
-    "market_cap_usd": 65865678512,
+    "price_usd": 1.076,
+    "price_krw": 1664.87,
+    "price_change_24h": 3.03738,
+    "price_change_7d": -0.52425,
+    "price_change_30d": -14.77309,
+    "market_cap_usd": 66969943004,
     "market_cap_rank": 6,
-    "volume_24h": 1546838974,
+    "volume_24h": 1586861331,
     "circulating_supply": 62241508805.0,
     "total_supply": 99985645029.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 75.26,
-    "sentiment_votes_down": 24.74,
+    "sentiment_votes_up": 75.51,
+    "sentiment_votes_down": 24.49,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 18.97,
-    "recent_tps": 18.97,
-    "recent_tx_count": 1688,
+    "tps_24h_avg": 16.92,
+    "recent_tps": 16.92,
+    "recent_tx_count": 1523,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 105317403,
+    "recent_window_sec": 90,
+    "ledger_seq": 105320547,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-02 06:33:27 KST",
+    "updated_at": "2026-07-02 09:54:36 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 4750000,
     "total_net_inflow_usd": 4750000,
     "total_value_traded_usd": 4750000,
-    "updated_at": "SoSoValue 순유입 부분 수집 07/02 06:33",
+    "updated_at": "SoSoValue 순유입 부분 수집 07/02 09:54",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -70,6 +70,13 @@
       "score": 0
     },
     {
+      "title": "XRP(리플) ETF 6주 만의 최대 유입...가격 약세 vs 기관 매수 대립, 누가 이기나?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBiQklKT1puOVdJbzhzdmRfT1BwaXQwTlNFV2NiM01rZnM3b0ZnNDhhN0NFSWpyTkhzenZBSzJNcUFlSnZHMnBZX2pR?oc=5",
+      "date": "Wed, 01 Jul 2026 11:20:00 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
+    {
       "title": "비트코인·이더리움보다 강했다…XRP 현물 ETF 자금 흐름 두각",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MYU83VFVJamx2ZUFUc05weTlNTEFvaWdmbHNnYXpoT19PUXVJOFBYNTZNT0dMbEFaRjdWSE5mWl8tdmFMZ1BCTXJNbVJzYVBIdFVtZWhsNGtFN0Y1SWFxRWFxRmIySXBkVlRZak55cnpoWkk?oc=5",
       "date": "Wed, 01 Jul 2026 01:48:52 GMT",
@@ -82,22 +89,36 @@
       "date": "Tue, 30 Jun 2026 03:07:51 GMT",
       "source": "tokenpost.kr",
       "score": 0
-    },
-    {
-      "title": "비트코인·이더리움 던진 기관들, XRP·HYPE로 갈아탔다…ETF 자금 흐름 분화",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA2bWgyeU5kcDY2UmJSakVTa2RjcGFwZEFIWU9VaHpHczZNWVQtZ0NwMDQwZUw2U3l0enhoTzBUdlluQk5sV2t3ZTFxZWlFLVR4VlJMMjB1ejVfOXhJdFFveWNraDNYc1ZIR0RZcFptbFFXOE0?oc=5",
-      "date": "Tue, 30 Jun 2026 01:26:00 GMT",
-      "source": "디지털투데이",
-      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "[데일리픽] XRPL 사이드체인 뭐가 달라지나…'메타 컴퓨트' 출격 예고",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yaWN6YmJENC1aeUZiRVRDT09YbExTM28tUVNvbU5Va2NpNnUtZzBfUUtUdS1uVjlQcWhUWkZ3clJBSlhqRzJsUFNQWDlnZ0NjLWJR?oc=5",
+      "date": "Thu, 02 Jul 2026 08:06:00 GMT",
+      "source": "네이트",
+      "score": 2
+    },
+    {
+      "title": "'XRP 대체론' 뒤집은 온체인 데이터… RLUSD의 진짜 역할",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GUmFhOFpYVzFPeEJUMTl4VmRocnJaNEVFZG9ZUnNxQnh3RThlTVQyRE1GQngwR1lsTFB0RElnYng5bS1BaTJ0bC1odS10eFNtZGctek8za0FvMy1abC1TSXpscXN3cm_SAWtBVV95cUxPV1hJQXp0a0JjRUpSVldDbkt4ekNkZVZ0MUZENThiWUNuQjE1WGJqVjRJcEJURW92dFlkZmhwcUNkeEthYncwd0dDVWtuVGpaUXZLSkZuNGNoQU5ncklOMjFLOTNJb1JBVWI5UQ?oc=5",
+      "date": "Thu, 02 Jul 2026 05:11:42 GMT",
+      "source": "비온미디어",
+      "score": 2
+    },
     {
       "title": "리플 \"XRP 다음 무대는 기관 결제\"…XRPL·RLUSD 확장 본격화",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtR1F4SWNTdndxQkJ5TXhlaXZFMlRKVm5UeTZtbnpNdWEyOHYyOW5yTkxwSUo0b244OVRhb1h3Y21CMlRVeHowTzEwa3NlX0pqdGtr?oc=5",
       "date": "Thu, 02 Jul 2026 00:10:00 GMT",
       "source": "네이트",
       "score": 4
+    },
+    {
+      "title": "리플, 10억 XRP 언락 후 7억개 재예치…왜 3억개만 풀었나",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBfQmdDNC1XelFjMFV4LWZVOW1ZTEZSYzdOU3JadUtTT0JaRVpTWXE0REtoYjBNQTVpcWdBRzZiRm9lNVJTWXR2XzU0S0R3LXlYbUdrTnJRQ3FpVFZzdmdZUWZidzB2cUtCaGpVUlBhdVI5X0U?oc=5",
+      "date": "Thu, 02 Jul 2026 00:03:00 GMT",
+      "source": "디지털투데이",
+      "score": 2
     },
     {
       "title": "리플 USD 누적 거래 25억 달러 돌파… XRP 잠식 우려 깨고 생태계 우군 안착",
@@ -128,39 +149,18 @@
       "score": 3
     },
     {
+      "title": "XRP(리플) ETF 6주 만의 최대 유입...가격 약세 vs 기관 매수 대립, 누가 이기나?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBiQklKT1puOVdJbzhzdmRfT1BwaXQwTlNFV2NiM01rZnM3b0ZnNDhhN0NFSWpyTkhzenZBSzJNcUFlSnZHMnBZX2pR?oc=5",
+      "date": "Wed, 01 Jul 2026 11:20:00 GMT",
+      "source": "코인리더스",
+      "score": 4
+    },
+    {
       "title": "XRP, 리플 스테이블코인 RLUSD와 함께 성장하나…“대체 아닌 지원”",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTQ1dRUmhGSndnaTYzM3NFSEItRFVpYWQ2WFZWV1ROaEVfanQtaXlpQVNYMy1ULTFReHI1RF9DdzR3em15NXhJX2ExRmpuRWk4bDBWNDhrSEx3dzFZU2NKbWpIZw?oc=5",
       "date": "Wed, 01 Jul 2026 03:07:39 GMT",
       "source": "CBC뉴스",
       "score": 3
-    },
-    {
-      "title": "올마나 조져대면 -7300만원이 편안하게 느껴지냐🤬",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9UTjBmMzBxUV81Y1ZIWDZKXzdiUTdzcy1vMmMwT1ZmM255cjRyZkxMMnhER1FLNGFjcWZfVlR0V3N1NmhrY3BtbnpjM09pb1JrVTNFeU1nQ1Y?oc=5",
-      "date": "Wed, 01 Jul 2026 02:51:22 GMT",
-      "source": "CoinNess",
-      "score": 8
-    },
-    {
-      "title": "에버노스 \"RLUSD는 XRP 대체재 아닌 강력한 지원군\"",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUGZBYXo4MlRORTlIMXJueXF2WThWa0tGU3c2UGRfU3MtZko3aFhxQ3BnZnFUMEFJckkteTRFRG1ibWdOWHktdFE4NXdsV280MEViZGhrZlZaLWJ1NjZJNzlrZHk3YW5idUJGeWVKVkozSF9leUhNQTdMTTItelVSVUY2WVZ2XzA?oc=5",
-      "date": "Wed, 01 Jul 2026 01:44:51 GMT",
-      "source": "글로벌이코노믹",
-      "score": 3
-    },
-    {
-      "title": "RLUSD가 XRP 대체? 에버노스 \"두 자산은 경쟁 아닌 상호보완 관계\"",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5GX00wUzdWcWp5VjRxNVlVaTBDb2UycTBUR2JBSDZOYmxmTHBJTkdyMnBENWlpNnNObndLNExYdXhzSnVidEstR29wcTdEbVUxY1M0dnZQR0RQbWpMTzJ6YUVGVkd5VENsOHUyclRicHY4Qk0?oc=5",
-      "date": "Wed, 01 Jul 2026 01:25:00 GMT",
-      "source": "디지털투데이",
-      "score": 2
-    },
-    {
-      "title": "리플 전 CTO, XRPL 보안 우려 반박…비용 부담 구조에 초점",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hd21aNHBOOHdFbzFKMXo1RjBNbnF6bl9XcUZkenJSZGtBSDNWYTFjZjZrTjJGQ2dXMFdTeXdxTEFDX296ZWhKeEx3LUVZSDJOdzVz?oc=5",
-      "date": "Wed, 01 Jul 2026 01:23:00 GMT",
-      "source": "네이트",
-      "score": 2
     }
   ]
 }
