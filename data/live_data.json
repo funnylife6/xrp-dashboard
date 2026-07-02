@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-02T16:45:39",
+  "generated_at": "2026-07-02T18:23:31",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.089,
-    "price_krw": 1677.11,
-    "price_change_24h": 2.87891,
-    "price_change_7d": 5.53989,
-    "price_change_30d": -10.53128,
-    "market_cap_usd": 67773000422,
+    "price_krw": 1677.21,
+    "price_change_24h": 2.63864,
+    "price_change_7d": 5.90257,
+    "price_change_30d": -11.55156,
+    "market_cap_usd": 67791289523,
     "market_cap_rank": 6,
-    "volume_24h": 1879786829,
+    "volume_24h": 1845905685,
     "circulating_supply": 62241508805.0,
     "total_supply": 99985645029.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 78.38,
-    "sentiment_votes_down": 21.62,
+    "sentiment_votes_up": 80.56,
+    "sentiment_votes_down": 19.44,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 21.73,
-    "recent_tps": 21.73,
-    "recent_tx_count": 1782,
+    "tps_24h_avg": 24.17,
+    "recent_tps": 24.17,
+    "recent_tx_count": 2175,
     "recent_ledger_count": 24,
-    "recent_window_sec": 82,
-    "ledger_seq": 105326932,
+    "recent_window_sec": 90,
+    "ledger_seq": 105328456,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-02 16:45:29 KST",
+    "updated_at": "2026-07-02 18:23:24 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 4750000,
     "total_net_inflow_usd": 4750000,
     "total_value_traded_usd": 4750000,
-    "updated_at": "SoSoValue 순유입 부분 수집 07/02 16:45",
+    "updated_at": "SoSoValue 순유입 부분 수집 07/02 18:23",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -70,13 +70,6 @@
       "score": 0
     },
     {
-      "title": "리플XRP·비트코인 상승·타이코 급등, 금리 부담에 관망",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2Z3A2SWMwQlJaV0lGMUpxNW0zU3lUWEtjMGVZc1hTWWdhZXhjSVlmLWZJSUhLY3JsSWZxV2NjTDRzMTVVeGFQNjdhdGs4bURlQjBES3lkNEh0Z3BjbVcyeVhETVpUdjZiRlprbGx3dmh5QQ?oc=5",
-      "date": "Wed, 01 Jul 2026 22:11:27 GMT",
-      "source": "TopStarNews",
-      "score": 0
-    },
-    {
       "title": "XRP, HYPE 펀드가 비트코인, 이더리움 ETF에서 투자자 이탈 속에서 밝은 조명: 크립토 데일리",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQTBMdmhxS1FKWXN5SVBsX0hWV19fR2xBTzlRTlo4Y3c5bTVucjNzZjBwM3NHT1NoUUcxZFM1elJlQ1NtNVhjRTU5ZjJWYTVBTC1KNktzTl90bDh3V3MwMGxwaDMza3pBenEwY1RHR3F4U253SmtoLUJRSHk2NThrOU5veFJ3cnJlb1YtelVvelo1dEhWSF8zYnZ5cXRIanBaR3Z1XzBNWEZ4UjBxaDlqSE5pYTZPSTJNdVRwejV4VQ?oc=5",
       "date": "Wed, 01 Jul 2026 11:29:10 GMT",
@@ -88,6 +81,13 @@
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBiQklKT1puOVdJbzhzdmRfT1BwaXQwTlNFV2NiM01rZnM3b0ZnNDhhN0NFSWpyTkhzenZBSzJNcUFlSnZHMnBZX2pR?oc=5",
       "date": "Wed, 01 Jul 2026 11:20:00 GMT",
       "source": "코인리더스",
+      "score": 0
+    },
+    {
+      "title": "비트코인·이더리움보다 강했다…XRP 현물 ETF 자금 흐름 두각",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MYU83VFVJamx2ZUFUc05weTlNTEFvaWdmbHNnYXpoT19PUXVJOFBYNTZNT0dMbEFaRjdWSE5mWl8tdmFMZ1BCTXJNbVJzYVBIdFVtZWhsNGtFN0Y1SWFxRWFxRmIySXBkVlRZak55cnpoWkk?oc=5",
+      "date": "Wed, 01 Jul 2026 01:48:52 GMT",
+      "source": "디지털투데이",
       "score": 0
     }
   ],
