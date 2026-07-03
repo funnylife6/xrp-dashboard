@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-03T06:24:25",
+  "generated_at": "2026-07-03T09:40:50",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.1,
-    "price_krw": 1689.89,
-    "price_change_24h": 4.21157,
-    "price_change_7d": 6.9804,
-    "price_change_30d": -10.41498,
-    "market_cap_usd": 68645226153,
+    "price_usd": 1.099,
+    "price_krw": 1682.39,
+    "price_change_24h": 1.99796,
+    "price_change_7d": 4.8279,
+    "price_change_30d": -11.639,
+    "market_cap_usd": 68430212099,
     "market_cap_rank": 6,
-    "volume_24h": 1739152768,
+    "volume_24h": 1703772274,
     "circulating_supply": 62241508805.0,
     "total_supply": 99985645029.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 70.09,
-    "sentiment_votes_down": 29.91,
+    "sentiment_votes_up": 71.03,
+    "sentiment_votes_down": 28.97,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 23.99,
-    "recent_tps": 23.99,
-    "recent_tx_count": 1967,
+    "tps_24h_avg": 31.64,
+    "recent_tps": 31.64,
+    "recent_tx_count": 2816,
     "recent_ledger_count": 24,
-    "recent_window_sec": 82,
-    "ledger_seq": 105339717,
+    "recent_window_sec": 89,
+    "ledger_seq": 105342786,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-03 06:24:19 KST",
+    "updated_at": "2026-07-03 09:40:37 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 6550000,
     "total_net_inflow_usd": 6550000,
     "total_value_traded_usd": 6550000,
-    "updated_at": "SoSoValue 순유입 부분 수집 07/03 06:24",
+    "updated_at": "SoSoValue 순유입 부분 수집 07/03 09:40",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -107,6 +107,20 @@
       "score": 2
     },
     {
+      "title": "XRP 저항선 돌파에 공매도 청산 집중…다음 관건은 1.065달러 지지",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkb21mOHpfSlE0TkRhOEUyTFNWNUdqX3lnaWtZRGI3ZFZfMkVyY0p0LXVfZnI0TnFwR2xkVEZEampnNzZMRmRxVUt0UHNxbllOMENJ?oc=5",
+      "date": "Fri, 03 Jul 2026 01:55:00 GMT",
+      "source": "네이트",
+      "score": 2
+    },
+    {
+      "title": "속보 | 리플 공동 설립자, 美 상원의원 아들 설립 파생상품 거래소 투자",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB4WEhoS1BTd1JOUFAwYmNvT1FCTWNLbVhGcjBTOVo4a0xHZElTZ0dQRnNDUDBPQXFxaTlLRFJLS0xyZ0J1VVczWlp4NEhfVXdN?oc=5",
+      "date": "Fri, 03 Jul 2026 00:10:37 GMT",
+      "source": "CoinNess",
+      "score": 9
+    },
+    {
       "title": "“이더리움 천하 끝났다”...리플 스테이블코인 RLUSD, XRP 원장 점유율 53.5% 돌파",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAyNngtUGNmalNVeGdCUHg2dHFicjZpMzNQS2JYcDF1RlQ1Um1YOXN5ckE5Vm1fQl9LZVpLblJiZEtMZ2ZpZG9jQUpBVVdPTC1TUzVJSkVFaG9uUUs0ZUgxdXdNQk5uQ05Qc1M3RWRncUxSNlHSAXdBVV95cUxObHhtaGM1QWtwby1VRTRxcXl4SndwUUMwTUZ6Qk52cktrWWlLSmlhV1hhNjk5NXNEb0JJTDBoamRqU2xOX3cwdlZhck9OT3BaMkszM3V0Y2NEM01qZHhlRl9lVHQydEt1TWctVGhNajlvZDVJVVNEUQ?oc=5",
       "date": "Thu, 02 Jul 2026 23:07:47 GMT",
@@ -146,20 +160,6 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWnR6aHhHU1ZDQnZzU1NkTkViNWh3Z2hPT0cybDlxb2NULUw4d0U0N3poYk8yaTJ0b004dmMyaGRFVXNHOGR0QUwxSHVPenhvWTVMN09ZOTIyRWRUU2lpdDg3TnFTckFxYWVzbDNRbTU1ZzIyRkk2LWZmRGV6THRJZGRHQmh3MWU4UmFCSw?oc=5",
       "date": "Thu, 02 Jul 2026 12:26:00 GMT",
       "source": "네이버 프리미엄콘텐츠",
-      "score": 3
-    },
-    {
-      "title": "[데일리픽] XRPL 사이드체인 뭐가 달라지나…'메타 컴퓨트' 출격 예고",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yaWN6YmJENC1aeUZiRVRDT09YbExTM28tUVNvbU5Va2NpNnUtZzBfUUtUdS1uVjlQcWhUWkZ3clJBSlhqRzJsUFNQWDlnZ0NjLWJR?oc=5",
-      "date": "Thu, 02 Jul 2026 08:06:00 GMT",
-      "source": "네이트",
-      "score": 2
-    },
-    {
-      "title": "리플 USD 누적 거래 25억 달러 돌파… XRP 잠식 우려 깨고 생태계 우군 안착",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHREJZMHJsblhNM0E0bW5odVNXV2tycGI3dGZjT1FoZ2c1UUJjVERMZDIybWF1SWM2eENTMHFvVWloX3dhU1lZekpQZXo0YXU0dTBnOFF5V3pGLWdVa2ZRZ2Q0Y3JSdnNfVzFub3p2cU0?oc=5",
-      "date": "Wed, 01 Jul 2026 23:46:39 GMT",
-      "source": "블록체인투데이",
       "score": 3
     }
   ]
