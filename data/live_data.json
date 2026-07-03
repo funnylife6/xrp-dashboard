@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-03T19:06:04",
+  "generated_at": "2026-07-03T20:36:10",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.13,
-    "price_krw": 1723.5,
-    "price_change_24h": 3.58388,
-    "price_change_7d": 7.57459,
-    "price_change_30d": -7.65764,
-    "market_cap_usd": 70099063389,
+    "price_usd": 1.14,
+    "price_krw": 1740.0,
+    "price_change_24h": 5.15026,
+    "price_change_7d": 8.60765,
+    "price_change_30d": -5.66553,
+    "market_cap_usd": 70778653004,
     "market_cap_rank": 6,
-    "volume_24h": 1474995595,
+    "volume_24h": 1621438292,
     "circulating_supply": 62241508805.0,
     "total_supply": 99985645029.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 70.21,
-    "sentiment_votes_down": 29.79,
+    "sentiment_votes_up": 71.88,
+    "sentiment_votes_down": 28.13,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 32.02,
-    "recent_tps": 32.02,
-    "recent_tx_count": 2882,
+    "tps_24h_avg": 20.82,
+    "recent_tps": 20.82,
+    "recent_tx_count": 1707,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 105351577,
+    "recent_window_sec": 82,
+    "ledger_seq": 105352973,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-03 19:05:56 KST",
+    "updated_at": "2026-07-03 20:35:57 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 6550000,
     "total_net_inflow_usd": 6550000,
     "total_value_traded_usd": 6550000,
-    "updated_at": "SoSoValue 순유입 부분 수집 07/03 19:06",
+    "updated_at": "SoSoValue 순유입 부분 수집 07/03 20:36",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -63,13 +63,6 @@
       "score": 0
     },
     {
-      "title": "미국 XRP 현물 ETF, 하루 654만 달러 순유입",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9VSmw1Q0FTS2lhejFhcHBfbHZGdjZZb2dIX3FpVldkN2JTZVhiR25lVXVhU01yanpVQ1pKSm0zTjVuWllJVEVDRU03U3BaUnhUMTRmekF5Nng0bWQtOEHSAV5BVV95cUxPVUpsNUNBU0tpYXoxYXBwX2x2RnY2WW9nSF9xaVZXZDdiU2VYYkduZVV1YVNNcmp6VUNaSkptM041blpZSVRFQ0VNN1NwWlJ4VDE0ZnpBeTZ4NG1kLThB?oc=5",
-      "date": "Fri, 03 Jul 2026 00:37:09 GMT",
-      "source": "tokenpost.kr",
-      "score": 0
-    },
-    {
       "title": "리플(XRP) 현물 ETF에 14억달러 몰렸는데…가격은 왜 안 오르나",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1SWXpPV2ZxQTFXendlMXlZYkw2cGZVcEhodk5vaTFVY0tIX0libWRmN214aXZ1Q2RMSGdMQVl0anBSRzNHQ2ppNExn?oc=5",
       "date": "Thu, 02 Jul 2026 22:00:00 GMT",
@@ -81,6 +74,13 @@
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1qeG11Q1BrX2gta1FVTWg1Y0NiNmVGSVRVVnRtRDZxYjNBeS02UWtnOUZpcjJOcjdIYnNJS3c2cVV1a09tbUFaNDlR?oc=5",
       "date": "Thu, 02 Jul 2026 21:49:00 GMT",
       "source": "코인리더스",
+      "score": 0
+    },
+    {
+      "title": "[알트 현물 ETF] 하이퍼리퀴드·체인링크 순유입, XRP 순유출...알트 ETF는 관망세",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QeDU5UExIZ3I3TW1LeUpDQTFLU1NCVWYzd1d6S2g4ME9DVm5henRpaWtfT1RKbC1xaFByS0NPVXR5TFNXYkw3elMwZHJoWU54MjlpWmJNaGFmRXp2MnRXWtIBZkFVX3lxTE1nSl9mUDE1bV92YkVyRUMtbDdpaWNiZ2IxY09XTEZXUzNPNmUxUkUwRWpkbTZISEVWMm44WEl1SHhyRzFNNjh4ekw4SWVmeE5HOFBaVENuam9tNEFLSEtsYVp5Ti16dw?oc=5",
+      "date": "Thu, 02 Jul 2026 03:42:57 GMT",
+      "source": "tokenpost.kr",
       "score": 0
     },
     {
@@ -114,11 +114,11 @@
       "score": 2
     },
     {
-      "title": "대체론의 종말 리플(XRP)이 쏘아 올린 스테이블코인 RLUSD의 실체",
-      "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxNVDdNS1dEVGgyWFlFYnBreUt1OU05TEFvQnFiVl9fS1dVUU5aZTJldmlwTU9FQkdzeVdiM01YRTVVUDZoUEQxb2gzbFhzaTF4ODVTdkFZOWRCZlA4N0w4V2pwWUVvdDlHWHFyQnR4cUIxUTlqWlNyV1lnNnVDMEVCcjRSRE9aNlk0RXZ5b01GTVlNN2NOb2RMRmNtNkxfeF9TUlZTa1dYcmhTRGxPeWVlRUtVd3BfdUNBT0prQmFpbTFlaWY1aFV2NkVzZmVKZjN0RV9SOW0ydDdMZ0tUMFdPNS1PVWxPeVkzQ2NicG1yYzU1Z0N6Yk5KQU9rTmRGTXR6UWQyUmFqS3NMNlRwTXdsdXp3Yjh0RjhtZUdOd29zUFRjcjNZZUtwejZadk5RMlhyMzZwamowQUhuUUJUZDJLcUVFVENmNWJMLW5sYkl6eFlWMGxOVmEzam9Hbjhac2Ewb2d1Rmx4cUtSSG56RHBHbl9wRzZ3YUJrRDJCcA?oc=5",
-      "date": "Fri, 03 Jul 2026 05:18:17 GMT",
-      "source": "MSN",
-      "score": 3
+      "title": "속보 | \"XRP, $1.08 지키며 바닥 높여…$1.1 넘어야 상승 탄력\"",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5jUzFnWE1hbndUanhiZzRLSG9vaG9VamN1TlhmdzNnYWlpeHE5TE1fbjVLMHZaTm1XM1Blc1BmWHNnN3J0UE1zcA?oc=5",
+      "date": "Fri, 03 Jul 2026 06:18:25 GMT",
+      "source": "CoinNess",
+      "score": 8
     },
     {
       "title": "RLUSD, XRPL서 존재감 키웠다…유통량 52%·거래쌍 9억달러 기록",
@@ -156,11 +156,11 @@
       "score": 4
     },
     {
-      "title": "속보 | 커뮤니티서 \"스트래티지, 491 BTC 또 매도\" 의혹 확산",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBUbkNfb2FIMkJpZ05OdnlZdjFxYm1rcmpIUTVNT3hDcklKSWhCa05IejVWcjlKR0xyZTdmd29ocmFnZlBuSzFWNHhCWTc4T1Bv?oc=5",
-      "date": "Thu, 02 Jul 2026 17:31:00 GMT",
-      "source": "CoinNess",
-      "score": 8
+      "title": "RLUSD는 XRP를 죽이는가, 살리는가 (리플코인)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWnR6aHhHU1ZDQnZzU1NkTkViNWh3Z2hPT0cybDlxb2NULUw4d0U0N3poYk8yaTJ0b004dmMyaGRFVXNHOGR0QUwxSHVPenhvWTVMN09ZOTIyRWRUU2lpdDg3TnFTckFxYWVzbDNRbTU1ZzIyRkk2LWZmRGV6THRJZGRHQmh3MWU4UmFCSw?oc=5",
+      "date": "Thu, 02 Jul 2026 12:26:00 GMT",
+      "source": "네이버 프리미엄콘텐츠",
+      "score": 3
     }
   ]
 }
