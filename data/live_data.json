@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-03T02:52:05",
+  "generated_at": "2026-07-03T06:24:25",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.087,
-    "price_krw": 1674.07,
-    "price_change_24h": 2.70827,
-    "price_change_7d": 5.46782,
-    "price_change_30d": -11.09381,
-    "market_cap_usd": 67653146876,
+    "price_usd": 1.1,
+    "price_krw": 1689.89,
+    "price_change_24h": 4.21157,
+    "price_change_7d": 6.9804,
+    "price_change_30d": -10.41498,
+    "market_cap_usd": 68645226153,
     "market_cap_rank": 6,
-    "volume_24h": 1740358938,
+    "volume_24h": 1739152768,
     "circulating_supply": 62241508805.0,
     "total_supply": 99985645029.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 72.73,
-    "sentiment_votes_down": 27.27,
+    "sentiment_votes_up": 70.09,
+    "sentiment_votes_down": 29.91,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 15.31,
-    "recent_tps": 15.31,
-    "recent_tx_count": 1363,
+    "tps_24h_avg": 23.99,
+    "recent_tps": 23.99,
+    "recent_tx_count": 1967,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 105336395,
+    "recent_window_sec": 82,
+    "ledger_seq": 105339717,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-03 02:51:52 KST",
+    "updated_at": "2026-07-03 06:24:19 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 6550000,
     "total_net_inflow_usd": 6550000,
     "total_value_traded_usd": 6550000,
-    "updated_at": "SoSoValue 순유입 부분 수집 07/03 02:52",
+    "updated_at": "SoSoValue 순유입 부분 수집 07/03 06:24",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -93,17 +93,17 @@
   ],
   "general_news": [
     {
+      "title": "RLUSD, XRPL서 존재감 키웠다…유통량 52%·거래쌍 9억달러 기록",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9RM0ZrZ2tWV3p4UUxzeHN6RERqRkhtc0Z3NF8yWkdoV2NUSWJkRGIySm96MHhMT0p5VkloZGZHMDZiZkFPaFdJbFBXODYxVnpYM1o4NVJMQy1tOUVaR1NvbWFRM21mSy1RNmJ0TTNrR2RUQTg?oc=5",
+      "date": "Fri, 03 Jul 2026 04:56:00 GMT",
+      "source": "디지털투데이",
+      "score": 2
+    },
+    {
       "title": "브릭스, 스위프트 우회 인프라 구축…XRP 최적 브릿지 자산 평가",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMnB1cFJqN1dPallrOXk0MlM5XzByU0lEeWlzNkYtQl8taG1qWUZ6ZEVXMVhmU3k2S21JdDhHc2xUSXRvSGlCNTJpVnNONHlpekVGYzUtSkVKRVlWX3lweGxNbVNJcFZTdlE1UmplbUt6NXRuWlpFOC02RVg2OE9OSWE3UkhmcG5S?oc=5",
       "date": "Fri, 03 Jul 2026 01:56:58 GMT",
       "source": "글로벌이코노믹",
-      "score": 2
-    },
-    {
-      "title": "XRP 저항선 돌파에 공매도 청산 집중…다음 관건은 1.065달러 지지",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkb21mOHpfSlE0TkRhOEUyTFNWNUdqX3lnaWtZRGI3ZFZfMkVyY0p0LXVfZnI0TnFwR2xkVEZEampnNzZMRmRxVUt0UHNxbllOMENJ?oc=5",
-      "date": "Fri, 03 Jul 2026 01:55:00 GMT",
-      "source": "네이트",
       "score": 2
     },
     {
@@ -149,11 +149,11 @@
       "score": 3
     },
     {
-      "title": "리플 \"XRP 다음 무대는 기관 결제\"…XRPL·RLUSD 확장 본격화",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBKZnJzUVpwU2lTTHFfZVpUaU4tUXpjUjZWOFRzZmVBaWsyZTJPeEUzWXJCTmpkVjVDNnRhSUh4WmhRWGV3R0xSakxBTmd4QnB1NzRHNHBlV0Y4VUEyTTgyb0FVZHVsSENxYVZQajFxcjBLNmM?oc=5",
-      "date": "Thu, 02 Jul 2026 00:09:56 GMT",
-      "source": "디지털투데이",
-      "score": 4
+      "title": "[데일리픽] XRPL 사이드체인 뭐가 달라지나…'메타 컴퓨트' 출격 예고",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yaWN6YmJENC1aeUZiRVRDT09YbExTM28tUVNvbU5Va2NpNnUtZzBfUUtUdS1uVjlQcWhUWkZ3clJBSlhqRzJsUFNQWDlnZ0NjLWJR?oc=5",
+      "date": "Thu, 02 Jul 2026 08:06:00 GMT",
+      "source": "네이트",
+      "score": 2
     },
     {
       "title": "리플 USD 누적 거래 25억 달러 돌파… XRP 잠식 우려 깨고 생태계 우군 안착",
