@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-03T09:40:50",
+  "generated_at": "2026-07-03T12:02:58",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.099,
-    "price_krw": 1682.39,
-    "price_change_24h": 1.99796,
-    "price_change_7d": 4.8279,
-    "price_change_30d": -11.639,
-    "market_cap_usd": 68430212099,
+    "price_usd": 1.11,
+    "price_krw": 1698.77,
+    "price_change_24h": 2.48891,
+    "price_change_7d": 8.71212,
+    "price_change_30d": -10.10038,
+    "market_cap_usd": 69047263344,
     "market_cap_rank": 6,
-    "volume_24h": 1703772274,
+    "volume_24h": 1607980140,
     "circulating_supply": 62241508805.0,
     "total_supply": 99985645029.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 71.03,
-    "sentiment_votes_down": 28.97,
+    "sentiment_votes_up": 68.0,
+    "sentiment_votes_down": 32.0,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 31.64,
-    "recent_tps": 31.64,
-    "recent_tx_count": 2816,
+    "tps_24h_avg": 25.95,
+    "recent_tps": 25.95,
+    "recent_tx_count": 2128,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 105342786,
+    "recent_window_sec": 82,
+    "ledger_seq": 105344999,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-03 09:40:37 KST",
+    "updated_at": "2026-07-03 12:02:48 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,11 +43,18 @@
     "aum_usd": 6550000,
     "total_net_inflow_usd": 6550000,
     "total_value_traded_usd": 6550000,
-    "updated_at": "SoSoValue 순유입 부분 수집 07/03 09:40",
+    "updated_at": "SoSoValue 순유입 부분 수집 07/03 12:02",
     "data_source": "sosovalue",
     "partial": true
   },
   "etf_news": [
+    {
+      "title": "SOL·XRP·HYPE 현물 ETF, 모두 순유입",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5rRUdEbzFVN2g2V0dpZjNkMmlLWC03MVRSVW4yMTZ0cnFkV2NfRkhaOVY0Mjh1YmpiaU9LajdSTzhtaF9kbkFzanhn?oc=5",
+      "date": "Fri, 03 Jul 2026 03:57:15 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
     {
       "title": "미국 XRP 현물 ETF, 하루 654만 달러 순유입",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9VSmw1Q0FTS2lhejFhcHBfbHZGdjZZb2dIX3FpVldkN2JTZVhiR25lVXVhU01yanpVQ1pKSm0zTjVuWllJVEVDRU03U3BaUnhUMTRmekF5Nng0bWQtOEHSAV5BVV95cUxPVUpsNUNBU0tpYXoxYXBwX2x2RnY2WW9nSF9xaVZXZDdiU2VYYkduZVV1YVNNcmp6VUNaSkptM041blpZSVRFQ0VNN1NwWlJ4VDE0ZnpBeTZ4NG1kLThB?oc=5",
@@ -77,13 +84,6 @@
       "score": 0
     },
     {
-      "title": "리플XRP·비트코인 상승·타이코 급등, 금리 부담에 관망",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2Z3A2SWMwQlJaV0lGMUpxNW0zU3lUWEtjMGVZc1hTWWdhZXhjSVlmLWZJSUhLY3JsSWZxV2NjTDRzMTVVeGFQNjdhdGs4bURlQjBES3lkNEh0Z3BjbVcyeVhETVpUdjZiRlprbGx3dmh5QQ?oc=5",
-      "date": "Wed, 01 Jul 2026 22:11:27 GMT",
-      "source": "TopStarNews",
-      "score": 0
-    },
-    {
       "title": "XRP, HYPE 펀드가 비트코인, 이더리움 ETF에서 투자자 이탈 속에서 밝은 조명: 크립토 데일리",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQTBMdmhxS1FKWXN5SVBsX0hWV19fR2xBTzlRTlo4Y3c5bTVucjNzZjBwM3NHT1NoUUcxZFM1elJlQ1NtNVhjRTU5ZjJWYTVBTC1KNktzTl90bDh3V3MwMGxwaDMza3pBenEwY1RHR3F4U253SmtoLUJRSHk2NThrOU5veFJ3cnJlb1YtelVvelo1dEhWSF8zYnZ5cXRIanBaR3Z1XzBNWEZ4UjBxaDlqSE5pYTZPSTJNdVRwejV4VQ?oc=5",
       "date": "Wed, 01 Jul 2026 11:29:10 GMT",
@@ -104,13 +104,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMnB1cFJqN1dPallrOXk0MlM5XzByU0lEeWlzNkYtQl8taG1qWUZ6ZEVXMVhmU3k2S21JdDhHc2xUSXRvSGlCNTJpVnNONHlpekVGYzUtSkVKRVlWX3lweGxNbVNJcFZTdlE1UmplbUt6NXRuWlpFOC02RVg2OE9OSWE3UkhmcG5S?oc=5",
       "date": "Fri, 03 Jul 2026 01:56:58 GMT",
       "source": "글로벌이코노믹",
-      "score": 2
-    },
-    {
-      "title": "XRP 저항선 돌파에 공매도 청산 집중…다음 관건은 1.065달러 지지",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkb21mOHpfSlE0TkRhOEUyTFNWNUdqX3lnaWtZRGI3ZFZfMkVyY0p0LXVfZnI0TnFwR2xkVEZEampnNzZMRmRxVUt0UHNxbllOMENJ?oc=5",
-      "date": "Fri, 03 Jul 2026 01:55:00 GMT",
-      "source": "네이트",
       "score": 2
     },
     {
@@ -161,6 +154,13 @@
       "date": "Thu, 02 Jul 2026 12:26:00 GMT",
       "source": "네이버 프리미엄콘텐츠",
       "score": 3
+    },
+    {
+      "title": "[데일리픽] XRPL 사이드체인 뭐가 달라지나…'메타 컴퓨트' 출격 예고",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yaWN6YmJENC1aeUZiRVRDT09YbExTM28tUVNvbU5Va2NpNnUtZzBfUUtUdS1uVjlQcWhUWkZ3clJBSlhqRzJsUFNQWDlnZ0NjLWJR?oc=5",
+      "date": "Thu, 02 Jul 2026 08:06:00 GMT",
+      "source": "네이트",
+      "score": 2
     }
   ]
 }
