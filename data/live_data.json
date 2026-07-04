@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-04T08:08:34",
+  "generated_at": "2026-07-04T10:31:22",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.14,
-    "price_krw": 1744.3,
-    "price_change_24h": 3.7156,
-    "price_change_7d": 7.7735,
-    "price_change_30d": -2.63119,
-    "market_cap_usd": 70987758203,
+    "price_krw": 1741.65,
+    "price_change_24h": 3.40685,
+    "price_change_7d": 7.88265,
+    "price_change_30d": -1.24588,
+    "market_cap_usd": 70909352285,
     "market_cap_rank": 6,
-    "volume_24h": 1780754027,
+    "volume_24h": 1821736114,
     "circulating_supply": 62241508805.0,
     "total_supply": 99985645029.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 77.67,
-    "sentiment_votes_down": 22.33,
+    "sentiment_votes_up": 76.92,
+    "sentiment_votes_down": 23.08,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 15.71,
-    "recent_tps": 15.71,
-    "recent_tx_count": 1414,
+    "tps_24h_avg": 14.07,
+    "recent_tps": 14.07,
+    "recent_tx_count": 1266,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 105363761,
+    "ledger_seq": 105365989,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-04 08:08:29 KST",
+    "updated_at": "2026-07-04 10:31:13 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 6550000,
     "total_net_inflow_usd": 6550000,
     "total_value_traded_usd": 6550000,
-    "updated_at": "SoSoValue 순유입 부분 수집 07/04 08:08",
+    "updated_at": "SoSoValue 순유입 부분 수집 07/04 10:31",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -93,13 +93,6 @@
   ],
   "general_news": [
     {
-      "title": "업비트 '거래 절벽'…리플(XRP) 거래 집중에도 시장은 약세",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5oS2ZHcVowUVNXdkxoVF8zYWdoRXV3OUZKYkREVlVPdk9TNmROMEtIdGY5dUFYTmNMQkdab2VmOGtFc1RwcDVHcGxn?oc=5",
-      "date": "Sat, 04 Jul 2026 01:34:00 GMT",
-      "source": "코인리더스",
-      "score": 3
-    },
-    {
       "title": "리플XRP·지케이패스·비트코인 상승…거래대금 급감",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9tTkpEbzBMcGhkMWV2Vkg1VjNIM0w4bTJqRlVLLTRmRkZwTjdSdEdQMGRCUzVwRzRNUEt0SEw4MVlkcnRKNy0zY3J6ODVxM0FHakVPbWwwdmd1UWRXM3V3Rkg2b3Zjc1hmZzQ4OFlwajhVUQ?oc=5",
       "date": "Fri, 03 Jul 2026 23:36:23 GMT",
@@ -125,13 +118,6 @@
       "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1HYmRzQVZsMFljSUtvUG55WUtHNUczX0ZrY1BrZnk1RzVBWjJ5SEhIbXBadGI5VmlGelpNdzRRY1JfLWw2?oc=5",
       "date": "Fri, 03 Jul 2026 15:40:00 GMT",
       "source": "코인리더스",
-      "score": 2
-    },
-    {
-      "title": "브릭스, 스위프트 우회 인프라 구축…XRP 최적 브릿지 자산 평가",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMnB1cFJqN1dPallrOXk0MlM5XzByU0lEeWlzNkYtQl8taG1qWUZ6ZEVXMVhmU3k2S21JdDhHc2xUSXRvSGlCNTJpVnNONHlpekVGYzUtSkVKRVlWX3lweGxNbVNJcFZTdlE1UmplbUt6NXRuWlpFOC02RVg2OE9OSWE3UkhmcG5S?oc=5",
-      "date": "Fri, 03 Jul 2026 01:56:58 GMT",
-      "source": "글로벌이코노믹",
       "score": 2
     },
     {
@@ -161,6 +147,20 @@
       "date": "Thu, 02 Jul 2026 22:49:17 GMT",
       "source": "TopStarNews",
       "score": 2
+    },
+    {
+      "title": "리플(XRP) 현물 ETF에 14억달러 몰렸는데…가격은 왜 안 오르나",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1SWXpPV2ZxQTFXendlMXlZYkw2cGZVcEhodk5vaTFVY0tIX0libWRmN214aXZ1Q2RMSGdMQVl0anBSRzNHQ2ppNExn?oc=5",
+      "date": "Thu, 02 Jul 2026 22:00:00 GMT",
+      "source": "코인리더스",
+      "score": 4
+    },
+    {
+      "title": "속보 | 갤럭시리서치 \"스트래티지 BTC 매도 승인, '시간 벌기'는 될 것\"",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0tVklyRy1lWVBJUTdnc2N2X21pa0VlS09Mak5nbURpU1RlaXJkRjg5dkRQdmpvZGl6N2pVUEVXT05UYm9OR25WdGtyckIweE92?oc=5",
+      "date": "Thu, 02 Jul 2026 21:27:00 GMT",
+      "source": "CoinNess",
+      "score": 8
     }
   ]
 }
