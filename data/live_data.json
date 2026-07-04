@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-04T15:39:42",
+  "generated_at": "2026-07-04T16:56:23",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.17,
-    "price_krw": 1789.16,
-    "price_change_24h": 4.7404,
-    "price_change_7d": 9.70722,
-    "price_change_30d": 0.04435,
-    "market_cap_usd": 72842492700,
+    "price_krw": 1792.36,
+    "price_change_24h": 5.24053,
+    "price_change_7d": 9.29019,
+    "price_change_30d": 0.4187,
+    "market_cap_usd": 72886008451,
     "market_cap_rank": 6,
-    "volume_24h": 1956769294,
+    "volume_24h": 1958403384,
     "circulating_supply": 62241508805.0,
     "total_supply": 99985645029.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 77.39,
-    "sentiment_votes_down": 22.61,
+    "sentiment_votes_up": 79.53,
+    "sentiment_votes_down": 20.47,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 26.28,
-    "recent_tps": 26.28,
-    "recent_tx_count": 2339,
+    "tps_24h_avg": 27.46,
+    "recent_tps": 27.46,
+    "recent_tx_count": 2471,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 105370786,
+    "recent_window_sec": 90,
+    "ledger_seq": 105371973,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-04 15:39:37 KST",
+    "updated_at": "2026-07-04 16:56:11 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 6550000,
     "total_net_inflow_usd": 6550000,
     "total_value_traded_usd": 6550000,
-    "updated_at": "SoSoValue 순유입 부분 수집 07/04 15:39",
+    "updated_at": "SoSoValue 순유입 부분 수집 07/04 16:56",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -135,13 +135,6 @@
       "score": 2
     },
     {
-      "title": "1,000달러→10달러…리플(XRP) 목표가 수정에 투자자들 '갑론을박'",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9qNG9YOXlabjF1cGxQek04Q01nNFlTRXpjMm9IdURGLURVd1pqRDQ3dExnTnB3cDZXVDJjUkxxMmdIS2w0bzBRNk1B?oc=5",
-      "date": "Fri, 03 Jul 2026 12:24:00 GMT",
-      "source": "코인리더스",
-      "score": 2
-    },
-    {
       "title": "속보 | 크립토퀀트 \"거래소 암호화폐 입금량 증가...시장 변동성 뒤따를 것\"",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1JaXRROUw3M2ZNOXVhQm50RVFVVHVSME5ZYUJkbS1Yd1VCdkR5TExTbFpac01EUF94MmpwN05UTFJXTHFad0VZX0QzcXB2SDRy?oc=5",
       "date": "Fri, 03 Jul 2026 07:31:00 GMT",
@@ -149,18 +142,25 @@
       "score": 8
     },
     {
+      "title": "암호화폐(코인) 리플 고래들의 대형 거래소 유출 물량 급증... 전문가 조언은?",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00aENWd3VmV1Bkb2NTUHA4Z2Z2S1ZfaXFVcldpbE9rVFZ6dWNjdUlSZ3M4akNpLTVsTDdON1hSREdDM3RXT25CVFQ0Q3VGYlZtTzQ2dzBn?oc=5",
+      "date": "Fri, 03 Jul 2026 06:35:00 GMT",
+      "source": "위키트리",
+      "score": 2
+    },
+    {
+      "title": "XRP 저항선 돌파에 공매도 청산 집중…다음 관건은 1.065달러 지지",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkb21mOHpfSlE0TkRhOEUyTFNWNUdqX3lnaWtZRGI3ZFZfMkVyY0p0LXVfZnI0TnFwR2xkVEZEampnNzZMRmRxVUt0UHNxbllOMENJ?oc=5",
+      "date": "Fri, 03 Jul 2026 01:55:00 GMT",
+      "source": "네이트",
+      "score": 2
+    },
+    {
       "title": "\"BTC 약세장 바닥까지 시간 더 필요\"",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1XdzVCRUlHMEUyaE5lZ29jSUlZWld3dW0weV9YNU9zN1hlc1dHTDZVdG1qWHNNQTFlcWJqWExmMmVHX1hMRS1EZG9qM2psNl9w?oc=5",
       "date": "Thu, 02 Jul 2026 23:08:00 GMT",
       "source": "CoinNess",
       "score": 8
-    },
-    {
-      "title": "“이더리움 천하 끝났다”...리플 스테이블코인 RLUSD, XRP 원장 점유율 53.5% 돌파",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAyNngtUGNmalNVeGdCUHg2dHFicjZpMzNQS2JYcDF1RlQ1Um1YOXN5ckE5Vm1fQl9LZVpLblJiZEtMZ2ZpZG9jQUpBVVdPTC1TUzVJSkVFaG9uUUs0ZUgxdXdNQk5uQ05Qc1M3RWRncUxSNlHSAXdBVV95cUxObHhtaGM1QWtwby1VRTRxcXl4SndwUUMwTUZ6Qk52cktrWWlLSmlhV1hhNjk5NXNEb0JJTDBoamRqU2xOX3cwdlZhck9OT3BaMkszM3V0Y2NEM01qZHhlRl9lVHQydEt1TWctVGhNajlvZDVJVVNEUQ?oc=5",
-      "date": "Thu, 02 Jul 2026 23:07:47 GMT",
-      "source": "핀포인트뉴스",
-      "score": 3
     }
   ]
 }
