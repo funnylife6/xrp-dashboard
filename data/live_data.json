@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-04T17:59:18",
+  "generated_at": "2026-07-04T19:17:43",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.18,
-    "price_krw": 1801.66,
-    "price_change_24h": 5.13711,
-    "price_change_7d": 10.28518,
-    "price_change_30d": 0.83094,
-    "market_cap_usd": 73339500983,
+    "price_usd": 1.17,
+    "price_krw": 1790.83,
+    "price_change_24h": 2.8566,
+    "price_change_7d": 10.50071,
+    "price_change_30d": 0.17605,
+    "market_cap_usd": 72911025213,
     "market_cap_rank": 5,
-    "volume_24h": 2129423293,
+    "volume_24h": 1961852955,
     "circulating_supply": 62241508805.0,
     "total_supply": 99985645029.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 79.53,
-    "sentiment_votes_down": 20.47,
+    "sentiment_votes_up": 80.16,
+    "sentiment_votes_down": 19.84,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 37.46,
-    "recent_tps": 37.46,
-    "recent_tx_count": 3371,
+    "tps_24h_avg": 18.03,
+    "recent_tps": 18.03,
+    "recent_tx_count": 1623,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 105372950,
+    "ledger_seq": 105374169,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-04 17:59:12 KST",
+    "updated_at": "2026-07-04 19:17:32 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 6550000,
     "total_net_inflow_usd": 6550000,
     "total_value_traded_usd": 6550000,
-    "updated_at": "SoSoValue 순유입 부분 수집 07/04 17:59",
+    "updated_at": "SoSoValue 순유입 부분 수집 07/04 19:17",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -77,10 +77,10 @@
       "score": 0
     },
     {
-      "title": "리플XRP·비트코인 상승·타이코 급등, 금리 부담에 관망",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2Z3A2SWMwQlJaV0lGMUpxNW0zU3lUWEtjMGVZc1hTWWdhZXhjSVlmLWZJSUhLY3JsSWZxV2NjTDRzMTVVeGFQNjdhdGs4bURlQjBES3lkNEh0Z3BjbVcyeVhETVpUdjZiRlprbGx3dmh5QQ?oc=5",
-      "date": "Wed, 01 Jul 2026 22:11:27 GMT",
-      "source": "TopStarNews",
+      "title": "70% 폭락에도 ETF는 '러브콜'…리플(XRP) 반등 기대 커진다!",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE40bGswVXc4Uk16Mm5PZzdSamoxcllJVkZRM3IxcnB2SUZ5X3g0eERGR1NVekJFbmNvdUZiNE83YVVLUmltZURMN1dn?oc=5",
+      "date": "Thu, 02 Jul 2026 03:01:00 GMT",
+      "source": "코인리더스",
       "score": 0
     },
     {
@@ -142,18 +142,18 @@
       "score": 8
     },
     {
-      "title": "“이더리움 천하 끝났다”...리플 스테이블코인 RLUSD, XRP 원장 점유율 53.5% 돌파",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5seG1oYzVBa3BvLVVFNHFxeXhKd3BRQzBNRnpCTnZyS2tZaUtKaWFXWGE2OTk1c0RvQklMMGhqZGpTbE5fdzB2VmFyT05PcFoySzMzdXRjY0QzTWpkeGVGX2VUdDJ0S3VNZy1UaE1qOW9kNUlVU0RR0gF3QVVfeXFMTmx4bWhjNUFrcG8tVUU0cXF5eEp3cFFDME1GekJOdnJLa1lpS0ppYVdYYTY5OTVzRG9CSUwwaGpkalNsTl93MHZWYXJPTk9wWjJLMzN1dGNjRDNNamR4ZUZfZVR0MnRLdU1nLVRoTWo5b2Q1SVVTRFE?oc=5",
-      "date": "Thu, 02 Jul 2026 23:10:37 GMT",
-      "source": "핀포인트뉴스",
-      "score": 3
-    },
-    {
       "title": "\"BTC 약세장 바닥까지 시간 더 필요\"",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1XdzVCRUlHMEUyaE5lZ29jSUlZWld3dW0weV9YNU9zN1hlc1dHTDZVdG1qWHNNQTFlcWJqWExmMmVHX1hMRS1EZG9qM2psNl9w?oc=5",
       "date": "Thu, 02 Jul 2026 23:08:00 GMT",
       "source": "CoinNess",
       "score": 8
+    },
+    {
+      "title": "“이더리움 천하 끝났다”...리플 스테이블코인 RLUSD, XRP 원장 점유율 53.5% 돌파",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAyNngtUGNmalNVeGdCUHg2dHFicjZpMzNQS2JYcDF1RlQ1Um1YOXN5ckE5Vm1fQl9LZVpLblJiZEtMZ2ZpZG9jQUpBVVdPTC1TUzVJSkVFaG9uUUs0ZUgxdXdNQk5uQ05Qc1M3RWRncUxSNlHSAXdBVV95cUxObHhtaGM1QWtwby1VRTRxcXl4SndwUUMwTUZ6Qk52cktrWWlLSmlhV1hhNjk5NXNEb0JJTDBoamRqU2xOX3cwdlZhck9OT3BaMkszM3V0Y2NEM01qZHhlRl9lVHQydEt1TWctVGhNajlvZDVJVVNEUQ?oc=5",
+      "date": "Thu, 02 Jul 2026 23:07:47 GMT",
+      "source": "핀포인트뉴스",
+      "score": 3
     },
     {
       "title": "리플XRP·비트코인·이더리움 상승, 거래는 위축",
