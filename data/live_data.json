@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-04T10:31:22",
+  "generated_at": "2026-07-04T12:02:13",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.14,
-    "price_krw": 1741.65,
-    "price_change_24h": 3.40685,
-    "price_change_7d": 7.88265,
-    "price_change_30d": -1.24588,
-    "market_cap_usd": 70909352285,
+    "price_krw": 1742.66,
+    "price_change_24h": 2.75592,
+    "price_change_7d": 7.83499,
+    "price_change_30d": -1.15003,
+    "market_cap_usd": 70969778895,
     "market_cap_rank": 6,
-    "volume_24h": 1821736114,
+    "volume_24h": 1799033930,
     "circulating_supply": 62241508805.0,
     "total_supply": 99985645029.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 76.92,
-    "sentiment_votes_down": 23.08,
+    "sentiment_votes_up": 76.19,
+    "sentiment_votes_down": 23.81,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 14.07,
-    "recent_tps": 14.07,
-    "recent_tx_count": 1266,
+    "tps_24h_avg": 20.34,
+    "recent_tps": 20.34,
+    "recent_tx_count": 1831,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 105365989,
+    "ledger_seq": 105367413,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-04 10:31:13 KST",
+    "updated_at": "2026-07-04 12:02:06 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 6550000,
     "total_net_inflow_usd": 6550000,
     "total_value_traded_usd": 6550000,
-    "updated_at": "SoSoValue 순유입 부분 수집 07/04 10:31",
+    "updated_at": "SoSoValue 순유입 부분 수집 07/04 12:02",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -121,6 +121,27 @@
       "score": 2
     },
     {
+      "title": "속보 | 크립토퀀트 \"거래소 암호화폐 입금량 증가...시장 변동성 뒤따를 것\"",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1JaXRROUw3M2ZNOXVhQm50RVFVVHVSME5ZYUJkbS1Yd1VCdkR5TExTbFpac01EUF94MmpwN05UTFJXTHFad0VZX0QzcXB2SDRy?oc=5",
+      "date": "Fri, 03 Jul 2026 07:31:00 GMT",
+      "source": "CoinNess",
+      "score": 8
+    },
+    {
+      "title": "암호화폐(코인) 리플 고래들의 대형 거래소 유출 물량 급증... 전문가 조언은?",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00aENWd3VmV1Bkb2NTUHA4Z2Z2S1ZfaXFVcldpbE9rVFZ6dWNjdUlSZ3M4akNpLTVsTDdON1hSREdDM3RXT25CVFQ0Q3VGYlZtTzQ2dzBn?oc=5",
+      "date": "Fri, 03 Jul 2026 06:35:00 GMT",
+      "source": "위키트리",
+      "score": 2
+    },
+    {
+      "title": "XRP 저항선 돌파에 공매도 청산 집중…다음 관건은 1.065달러 지지",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkb21mOHpfSlE0TkRhOEUyTFNWNUdqX3lnaWtZRGI3ZFZfMkVyY0p0LXVfZnI0TnFwR2xkVEZEampnNzZMRmRxVUt0UHNxbllOMENJ?oc=5",
+      "date": "Fri, 03 Jul 2026 01:55:00 GMT",
+      "source": "네이트",
+      "score": 2
+    },
+    {
       "title": "속보 | \"XRP, $1.08 지키며 바닥 높여…$1.1 넘어야 상승 탄력\"",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5jUzFnWE1hbndUanhiZzRLSG9vaG9VamN1TlhmdzNnYWlpeHE5TE1fbjVLMHZaTm1XM1Blc1BmWHNnN3J0UE1zcA?oc=5",
       "date": "Fri, 03 Jul 2026 00:10:37 GMT",
@@ -140,27 +161,6 @@
       "date": "Thu, 02 Jul 2026 23:07:47 GMT",
       "source": "핀포인트뉴스",
       "score": 3
-    },
-    {
-      "title": "리플XRP·비트코인·이더리움 상승, 거래는 위축",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0wcFNHSUdxZF9KdVE3eEVvWTl1U05JU3o3SjBIMUJ6bHJQdHZ5YUVRbWFaN2hPdlBydkpFN0NIVzhWTWI1bkpFSFFYWGJMaUk3Q3dvSjNVODZzb1FZd0VnWXc2ZTgxbkRvOHJEN3BhRVpkZw?oc=5",
-      "date": "Thu, 02 Jul 2026 22:49:17 GMT",
-      "source": "TopStarNews",
-      "score": 2
-    },
-    {
-      "title": "리플(XRP) 현물 ETF에 14억달러 몰렸는데…가격은 왜 안 오르나",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1SWXpPV2ZxQTFXendlMXlZYkw2cGZVcEhodk5vaTFVY0tIX0libWRmN214aXZ1Q2RMSGdMQVl0anBSRzNHQ2ppNExn?oc=5",
-      "date": "Thu, 02 Jul 2026 22:00:00 GMT",
-      "source": "코인리더스",
-      "score": 4
-    },
-    {
-      "title": "속보 | 갤럭시리서치 \"스트래티지 BTC 매도 승인, '시간 벌기'는 될 것\"",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0tVklyRy1lWVBJUTdnc2N2X21pa0VlS09Mak5nbURpU1RlaXJkRjg5dkRQdmpvZGl6N2pVUEVXT05UYm9OR25WdGtyckIweE92?oc=5",
-      "date": "Thu, 02 Jul 2026 21:27:00 GMT",
-      "source": "CoinNess",
-      "score": 8
     }
   ]
 }
