@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-04T14:07:17",
+  "generated_at": "2026-07-04T15:39:42",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.15,
-    "price_krw": 1765.7,
-    "price_change_24h": 4.03857,
-    "price_change_7d": 9.00674,
-    "price_change_30d": -1.95453,
-    "market_cap_usd": 71852855735,
+    "price_usd": 1.17,
+    "price_krw": 1789.16,
+    "price_change_24h": 4.7404,
+    "price_change_7d": 9.70722,
+    "price_change_30d": 0.04435,
+    "market_cap_usd": 72842492700,
     "market_cap_rank": 6,
-    "volume_24h": 1962029435,
+    "volume_24h": 1956769294,
     "circulating_supply": 62241508805.0,
     "total_supply": 99985645029.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 75.0,
-    "sentiment_votes_down": 25.0,
+    "sentiment_votes_up": 77.39,
+    "sentiment_votes_down": 22.61,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 35.03,
-    "recent_tps": 35.03,
-    "recent_tx_count": 3153,
+    "tps_24h_avg": 26.28,
+    "recent_tps": 26.28,
+    "recent_tx_count": 2339,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 105369357,
+    "recent_window_sec": 89,
+    "ledger_seq": 105370786,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-04 14:07:10 KST",
+    "updated_at": "2026-07-04 15:39:37 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 6550000,
     "total_net_inflow_usd": 6550000,
     "total_value_traded_usd": 6550000,
-    "updated_at": "SoSoValue 순유입 부분 수집 07/04 14:07",
+    "updated_at": "SoSoValue 순유입 부분 수집 07/04 15:39",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -93,6 +93,13 @@
   ],
   "general_news": [
     {
+      "title": "엑스알피(리플) 가격 반등...클래러티법 표결 후 27달러 가나",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBbl9BdDQwbUwyY3FJUThJd0c1Njl4VVhOeEdSSTBHU0RfaXhrNWpMOGM5RDdMaVR1VXhJaTNoSnBHX2p5WG1nTkdLQm0wdzZSSEZUNXdlTjdUZ05NdkpOYzJ3Zkg2QXp1dTZtbXFn?oc=5",
+      "date": "Sat, 04 Jul 2026 15:03:00 GMT",
+      "source": "gukjenews.com",
+      "score": 2
+    },
+    {
       "title": "리플XRP·지케이패스·비트코인 상승…거래대금 급감",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9tTkpEbzBMcGhkMWV2Vkg1VjNIM0w4bTJqRlVLLTRmRkZwTjdSdEdQMGRCUzVwRzRNUEt0SEw4MVlkcnRKNy0zY3J6ODVxM0FHakVPbWwwdmd1UWRXM3V3Rkg2b3Zjc1hmZzQ4OFlwajhVUQ?oc=5",
       "date": "Fri, 03 Jul 2026 23:36:23 GMT",
@@ -114,9 +121,23 @@
       "score": 2
     },
     {
+      "title": "속보 | 美 메이저 카운티 보안관협회, 클래리티 법안 반대 철회... 중립으로 선회",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBtZldvM2l4X2U1QmNhSjZZM0s0YVZEMkhSOUxTYi1BRzJ5T092ZlJCWU9TWXVmNWhpZVhnS21EUC11VnpLYjBhOU52MGhlemtJ?oc=5",
+      "date": "Fri, 03 Jul 2026 16:48:00 GMT",
+      "source": "CoinNess",
+      "score": 8
+    },
+    {
       "title": "리플, RLUSD 2억 9000만달러 폭풍 발행...대량 공급에 시세 폭등장 터지나",
       "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1HYmRzQVZsMFljSUtvUG55WUtHNUczX0ZrY1BrZnk1RzVBWjJ5SEhIbXBadGI5VmlGelpNdzRRY1JfLWw2?oc=5",
       "date": "Fri, 03 Jul 2026 15:40:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
+      "title": "1,000달러→10달러…리플(XRP) 목표가 수정에 투자자들 '갑론을박'",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9qNG9YOXlabjF1cGxQek04Q01nNFlTRXpjMm9IdURGLURVd1pqRDQ3dExnTnB3cDZXVDJjUkxxMmdIS2w0bzBRNk1B?oc=5",
+      "date": "Fri, 03 Jul 2026 12:24:00 GMT",
       "source": "코인리더스",
       "score": 2
     },
@@ -128,27 +149,6 @@
       "score": 8
     },
     {
-      "title": "암호화폐(코인) 리플 고래들의 대형 거래소 유출 물량 급증... 전문가 조언은?",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00aENWd3VmV1Bkb2NTUHA4Z2Z2S1ZfaXFVcldpbE9rVFZ6dWNjdUlSZ3M4akNpLTVsTDdON1hSREdDM3RXT25CVFQ0Q3VGYlZtTzQ2dzBn?oc=5",
-      "date": "Fri, 03 Jul 2026 06:35:00 GMT",
-      "source": "위키트리",
-      "score": 2
-    },
-    {
-      "title": "XRP 저항선 돌파에 공매도 청산 집중…다음 관건은 1.065달러 지지",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkb21mOHpfSlE0TkRhOEUyTFNWNUdqX3lnaWtZRGI3ZFZfMkVyY0p0LXVfZnI0TnFwR2xkVEZEampnNzZMRmRxVUt0UHNxbllOMENJ?oc=5",
-      "date": "Fri, 03 Jul 2026 01:55:00 GMT",
-      "source": "네이트",
-      "score": 2
-    },
-    {
-      "title": "“이더리움 천하 끝났다”...리플 스테이블코인 RLUSD, XRP 원장 점유율 53.5% 돌파",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5seG1oYzVBa3BvLVVFNHFxeXhKd3BRQzBNRnpCTnZyS2tZaUtKaWFXWGE2OTk1c0RvQklMMGhqZGpTbE5fdzB2VmFyT05PcFoySzMzdXRjY0QzTWpkeGVGX2VUdDJ0S3VNZy1UaE1qOW9kNUlVU0RR0gF3QVVfeXFMTmx4bWhjNUFrcG8tVUU0cXF5eEp3cFFDME1GekJOdnJLa1lpS0ppYVdYYTY5OTVzRG9CSUwwaGpkalNsTl93MHZWYXJPTk9wWjJLMzN1dGNjRDNNamR4ZUZfZVR0MnRLdU1nLVRoTWo5b2Q1SVVTRFE?oc=5",
-      "date": "Thu, 02 Jul 2026 23:10:37 GMT",
-      "source": "핀포인트뉴스",
-      "score": 3
-    },
-    {
       "title": "\"BTC 약세장 바닥까지 시간 더 필요\"",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1XdzVCRUlHMEUyaE5lZ29jSUlZWld3dW0weV9YNU9zN1hlc1dHTDZVdG1qWHNNQTFlcWJqWExmMmVHX1hMRS1EZG9qM2psNl9w?oc=5",
       "date": "Thu, 02 Jul 2026 23:08:00 GMT",
@@ -156,11 +156,11 @@
       "score": 8
     },
     {
-      "title": "리플(XRP) 현물 ETF에 14억달러 몰렸는데…가격은 왜 안 오르나",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1SWXpPV2ZxQTFXendlMXlZYkw2cGZVcEhodk5vaTFVY0tIX0libWRmN214aXZ1Q2RMSGdMQVl0anBSRzNHQ2ppNExn?oc=5",
-      "date": "Thu, 02 Jul 2026 22:00:00 GMT",
-      "source": "코인리더스",
-      "score": 4
+      "title": "“이더리움 천하 끝났다”...리플 스테이블코인 RLUSD, XRP 원장 점유율 53.5% 돌파",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAyNngtUGNmalNVeGdCUHg2dHFicjZpMzNQS2JYcDF1RlQ1Um1YOXN5ckE5Vm1fQl9LZVpLblJiZEtMZ2ZpZG9jQUpBVVdPTC1TUzVJSkVFaG9uUUs0ZUgxdXdNQk5uQ05Qc1M3RWRncUxSNlHSAXdBVV95cUxObHhtaGM1QWtwby1VRTRxcXl4SndwUUMwTUZ6Qk52cktrWWlLSmlhV1hhNjk5NXNEb0JJTDBoamRqU2xOX3cwdlZhck9OT3BaMkszM3V0Y2NEM01qZHhlRl9lVHQydEt1TWctVGhNajlvZDVJVVNEUQ?oc=5",
+      "date": "Thu, 02 Jul 2026 23:07:47 GMT",
+      "source": "핀포인트뉴스",
+      "score": 3
     }
   ]
 }
