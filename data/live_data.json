@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-04T19:17:43",
+  "generated_at": "2026-07-04T20:28:02",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.17,
-    "price_krw": 1790.83,
-    "price_change_24h": 2.8566,
-    "price_change_7d": 10.50071,
-    "price_change_30d": 0.17605,
-    "market_cap_usd": 72911025213,
-    "market_cap_rank": 5,
-    "volume_24h": 1961852955,
+    "price_usd": 1.16,
+    "price_krw": 1775.6,
+    "price_change_24h": 2.14798,
+    "price_change_7d": 9.78466,
+    "price_change_30d": -1.61018,
+    "market_cap_usd": 72303958044,
+    "market_cap_rank": 6,
+    "volume_24h": 1858168160,
     "circulating_supply": 62241508805.0,
     "total_supply": 99985645029.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 80.16,
-    "sentiment_votes_down": 19.84,
+    "sentiment_votes_up": 83.05,
+    "sentiment_votes_down": 16.95,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 18.03,
-    "recent_tps": 18.03,
-    "recent_tx_count": 1623,
+    "tps_24h_avg": 17.4,
+    "recent_tps": 17.4,
+    "recent_tx_count": 1566,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 105374169,
+    "ledger_seq": 105375265,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-04 19:17:32 KST",
+    "updated_at": "2026-07-04 20:27:57 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,11 +43,18 @@
     "aum_usd": 6550000,
     "total_net_inflow_usd": 6550000,
     "total_value_traded_usd": 6550000,
-    "updated_at": "SoSoValue 순유입 부분 수집 07/04 19:17",
+    "updated_at": "SoSoValue 순유입 부분 수집 07/04 20:28",
     "data_source": "sosovalue",
     "partial": true
   },
   "etf_news": [
+    {
+      "title": "엑스알피, 하루 새 5% 급등… ‘클래리티 법안’ 진전·ETF 기대감에 랠리",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAyVkRfMXN0dXBUbXZQX05xbnB6M25UNlpyNk1XTkNsZ3VKTGRieU1qQVhoYnhWTjFyd1AwR1ZMX0pJOWprYUg5Tnl4Y3NZZVZXSG5hb0JnejY?oc=5",
+      "date": "Sat, 04 Jul 2026 19:24:00 GMT",
+      "source": "블록미디어",
+      "score": 0
+    },
     {
       "title": "리플(XRP) 현물 ETF는 사는데 왜 가격은 안 오를까? 핵심 변수는 '클래러티법'",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBNMUFpendkZmJ1NGFtZ2tBeUNScjFNWGVfWmhvTlBDeHRuNHliWkdqdXk3ZWRuYTRwS0pydlBzbmhCVjR0Vnl5aFhB?oc=5",
@@ -77,17 +84,10 @@
       "score": 0
     },
     {
-      "title": "70% 폭락에도 ETF는 '러브콜'…리플(XRP) 반등 기대 커진다!",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE40bGswVXc4Uk16Mm5PZzdSamoxcllJVkZRM3IxcnB2SUZ5X3g0eERGR1NVekJFbmNvdUZiNE83YVVLUmltZURMN1dn?oc=5",
-      "date": "Thu, 02 Jul 2026 03:01:00 GMT",
-      "source": "코인리더스",
-      "score": 0
-    },
-    {
-      "title": "XRP, HYPE 펀드는 투자자들이 비트코인, 이더 ETF에서 이탈하는 가운데 밝은 빛으로 부상",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQTBMdmhxS1FKWXN5SVBsX0hWV19fR2xBTzlRTlo4Y3c5bTVucjNzZjBwM3NHT1NoUUcxZFM1elJlQ1NtNVhjRTU5ZjJWYTVBTC1KNktzTl90bDh3V3MwMGxwaDMza3pBenEwY1RHR3F4U253SmtoLUJRSHk2NThrOU5veFJ3cnJlb1YtelVvelo1dEhWSF8zYnZ5cXRIanBaR3Z1XzBNWEZ4UjBxaDlqSE5pYTZPSTJNdVRwejV4VQ?oc=5",
-      "date": "Wed, 01 Jul 2026 11:29:10 GMT",
-      "source": "CoinDesk",
+      "title": "리플XRP·비트코인 상승·타이코 급등, 금리 부담에 관망",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2Z3A2SWMwQlJaV0lGMUpxNW0zU3lUWEtjMGVZc1hTWWdhZXhjSVlmLWZJSUhLY3JsSWZxV2NjTDRzMTVVeGFQNjdhdGs4bURlQjBES3lkNEh0Z3BjbVcyeVhETVpUdjZiRlprbGx3dmh5QQ?oc=5",
+      "date": "Wed, 01 Jul 2026 22:11:27 GMT",
+      "source": "TopStarNews",
       "score": 0
     }
   ],
