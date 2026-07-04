@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-04T12:02:13",
+  "generated_at": "2026-07-04T14:07:17",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.14,
-    "price_krw": 1742.66,
-    "price_change_24h": 2.75592,
-    "price_change_7d": 7.83499,
-    "price_change_30d": -1.15003,
-    "market_cap_usd": 70969778895,
+    "price_usd": 1.15,
+    "price_krw": 1765.7,
+    "price_change_24h": 4.03857,
+    "price_change_7d": 9.00674,
+    "price_change_30d": -1.95453,
+    "market_cap_usd": 71852855735,
     "market_cap_rank": 6,
-    "volume_24h": 1799033930,
+    "volume_24h": 1962029435,
     "circulating_supply": 62241508805.0,
     "total_supply": 99985645029.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 76.19,
-    "sentiment_votes_down": 23.81,
+    "sentiment_votes_up": 75.0,
+    "sentiment_votes_down": 25.0,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 20.34,
-    "recent_tps": 20.34,
-    "recent_tx_count": 1831,
+    "tps_24h_avg": 35.03,
+    "recent_tps": 35.03,
+    "recent_tx_count": 3153,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 105367413,
+    "ledger_seq": 105369357,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-04 12:02:06 KST",
+    "updated_at": "2026-07-04 14:07:10 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 6550000,
     "total_net_inflow_usd": 6550000,
     "total_value_traded_usd": 6550000,
-    "updated_at": "SoSoValue 순유입 부분 수집 07/04 12:02",
+    "updated_at": "SoSoValue 순유입 부분 수집 07/04 14:07",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -142,11 +142,11 @@
       "score": 2
     },
     {
-      "title": "속보 | \"XRP, $1.08 지키며 바닥 높여…$1.1 넘어야 상승 탄력\"",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5jUzFnWE1hbndUanhiZzRLSG9vaG9VamN1TlhmdzNnYWlpeHE5TE1fbjVLMHZaTm1XM1Blc1BmWHNnN3J0UE1zcA?oc=5",
-      "date": "Fri, 03 Jul 2026 00:10:37 GMT",
-      "source": "CoinNess",
-      "score": 8
+      "title": "“이더리움 천하 끝났다”...리플 스테이블코인 RLUSD, XRP 원장 점유율 53.5% 돌파",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5seG1oYzVBa3BvLVVFNHFxeXhKd3BRQzBNRnpCTnZyS2tZaUtKaWFXWGE2OTk1c0RvQklMMGhqZGpTbE5fdzB2VmFyT05PcFoySzMzdXRjY0QzTWpkeGVGX2VUdDJ0S3VNZy1UaE1qOW9kNUlVU0RR0gF3QVVfeXFMTmx4bWhjNUFrcG8tVUU0cXF5eEp3cFFDME1GekJOdnJLa1lpS0ppYVdYYTY5OTVzRG9CSUwwaGpkalNsTl93MHZWYXJPTk9wWjJLMzN1dGNjRDNNamR4ZUZfZVR0MnRLdU1nLVRoTWo5b2Q1SVVTRFE?oc=5",
+      "date": "Thu, 02 Jul 2026 23:10:37 GMT",
+      "source": "핀포인트뉴스",
+      "score": 3
     },
     {
       "title": "\"BTC 약세장 바닥까지 시간 더 필요\"",
@@ -156,11 +156,11 @@
       "score": 8
     },
     {
-      "title": "“이더리움 천하 끝났다”...리플 스테이블코인 RLUSD, XRP 원장 점유율 53.5% 돌파",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAyNngtUGNmalNVeGdCUHg2dHFicjZpMzNQS2JYcDF1RlQ1Um1YOXN5ckE5Vm1fQl9LZVpLblJiZEtMZ2ZpZG9jQUpBVVdPTC1TUzVJSkVFaG9uUUs0ZUgxdXdNQk5uQ05Qc1M3RWRncUxSNlHSAXdBVV95cUxObHhtaGM1QWtwby1VRTRxcXl4SndwUUMwTUZ6Qk52cktrWWlLSmlhV1hhNjk5NXNEb0JJTDBoamRqU2xOX3cwdlZhck9OT3BaMkszM3V0Y2NEM01qZHhlRl9lVHQydEt1TWctVGhNajlvZDVJVVNEUQ?oc=5",
-      "date": "Thu, 02 Jul 2026 23:07:47 GMT",
-      "source": "핀포인트뉴스",
-      "score": 3
+      "title": "리플(XRP) 현물 ETF에 14억달러 몰렸는데…가격은 왜 안 오르나",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1SWXpPV2ZxQTFXendlMXlZYkw2cGZVcEhodk5vaTFVY0tIX0libWRmN214aXZ1Q2RMSGdMQVl0anBSRzNHQ2ppNExn?oc=5",
+      "date": "Thu, 02 Jul 2026 22:00:00 GMT",
+      "source": "코인리더스",
+      "score": 4
     }
   ]
 }
