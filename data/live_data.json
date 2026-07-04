@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-04T22:27:13",
+  "generated_at": "2026-07-04T23:30:36",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.16,
-    "price_krw": 1777.67,
-    "price_change_24h": 3.03336,
-    "price_change_7d": 10.54313,
-    "price_change_30d": -0.77115,
-    "market_cap_usd": 72383770594,
+    "price_krw": 1769.33,
+    "price_change_24h": 2.27796,
+    "price_change_7d": 9.987,
+    "price_change_30d": -0.32708,
+    "market_cap_usd": 72010590870,
     "market_cap_rank": 6,
-    "volume_24h": 1787374367,
+    "volume_24h": 1796745994,
     "circulating_supply": 62241508805.0,
     "total_supply": 99985645029.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 86.49,
-    "sentiment_votes_down": 13.51,
+    "sentiment_votes_up": 85.59,
+    "sentiment_votes_down": 14.41,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 22.91,
-    "recent_tps": 22.91,
-    "recent_tx_count": 1879,
+    "tps_24h_avg": 18.28,
+    "recent_tps": 18.28,
+    "recent_tx_count": 1645,
     "recent_ledger_count": 24,
-    "recent_window_sec": 82,
-    "ledger_seq": 105377120,
+    "recent_window_sec": 90,
+    "ledger_seq": 105378105,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-04 22:27:02 KST",
+    "updated_at": "2026-07-04 23:30:23 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 6550000,
     "total_net_inflow_usd": 6550000,
     "total_value_traded_usd": 6550000,
-    "updated_at": "SoSoValue 순유입 부분 수집 07/04 22:27",
+    "updated_at": "SoSoValue 순유입 부분 수집 07/04 23:30",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -60,6 +60,13 @@
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBNMUFpendkZmJ1NGFtZ2tBeUNScjFNWGVfWmhvTlBDeHRuNHliWkdqdXk3ZWRuYTRwS0pydlBzbmhCVjR0Vnl5aFhB?oc=5",
       "date": "Fri, 03 Jul 2026 22:32:00 GMT",
       "source": "코인리더스",
+      "score": 0
+    },
+    {
+      "title": "미국 XRP 현물 ETF, 하루 654만 달러 순유입",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41elQ0RGdIdkVMaXZEbWhZY0F4SGNBcUlua3Brbk0wemZfdzM2RXg5ekdpZ3oxWHVRYTcwLTRFM2lYWnR3NmhvZjZ4dTBHcWpJUGEzbHRYd1jSAV5BVV95cUxPVUpsNUNBU0tpYXoxYXBwX2x2RnY2WW9nSF9xaVZXZDdiU2VYYkduZVV1YVNNcmp6VUNaSkptM041blpZSVRFQ0VNN1NwWlJ4VDE0ZnpBeTZ4NG1kLThB?oc=5",
+      "date": "Fri, 03 Jul 2026 00:37:09 GMT",
+      "source": "tokenpost.kr",
       "score": 0
     },
     {
@@ -82,21 +89,28 @@
       "date": "Thu, 02 Jul 2026 04:09:42 GMT",
       "source": "코인리더스",
       "score": 0
-    },
-    {
-      "title": "[알트 현물 ETF] 하이퍼리퀴드·체인링크 순유입, XRP 순유출...알트 ETF는 관망세",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QeDU5UExIZ3I3TW1LeUpDQTFLU1NCVWYzd1d6S2g4ME9DVm5henRpaWtfT1RKbC1xaFByS0NPVXR5TFNXYkw3elMwZHJoWU54MjlpWmJNaGFmRXp2MnRXWtIBZkFVX3lxTE1nSl9mUDE1bV92YkVyRUMtbDdpaWNiZ2IxY09XTEZXUzNPNmUxUkUwRWpkbTZISEVWMm44WEl1SHhyRzFNNjh4ekw4SWVmeE5HOFBaVENuam9tNEFLSEtsYVp5Ti16dw?oc=5",
-      "date": "Thu, 02 Jul 2026 03:42:57 GMT",
-      "source": "tokenpost.kr",
-      "score": 0
     }
   ],
   "general_news": [
     {
-      "title": "리플(XRP) 단기 반등 성공, 숏 스퀴즈와 골든크로스 주목",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HM2o2WGxacktSaVRTS3dCdHVLbmE2UVFQZ19IRC1ZLWhnN0dVMEpnWlZYTElTX3V1REkwRjFFTWF1ZGZKdXAyU25UaWlZNlAzQnZIaVpGNVpTYWpyeDZKNNIBZkFVX3lxTE5FcVV4Y20yMlgwbm9hS3ZleTZ6YmU2ek4tTU1jUFkxQmFFUXJKdjhqb3N6dkhhd3MzS1pSS1lfV0JYeDQ3QkZtVkZPQmRDQ0FfOGZ3NUVwMEQ1V3o5Z1BjRndfc2lSZw?oc=5",
-      "date": "Sat, 04 Jul 2026 21:07:47 GMT",
-      "source": "tokenpost.kr",
+      "title": "리플XRP·미라네트워크 상승, 솔스티스 급락…거래대금 87%↑",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBqcV9TVUZlOVFEdzl1cWpnZWJYd0dxYTZMbG9oU3ZpRUhOcXRQVTE2eUFyUmdqc3RmSW5pWXJLWHlra29jdElJVkgxYmdsM3U5UG1IUzFoMDlzaDZnYm1mUFZabXlsVXdQZldnSFJQdUdqZw?oc=5",
+      "date": "Sat, 04 Jul 2026 22:59:48 GMT",
+      "source": "TopStarNews",
+      "score": 2
+    },
+    {
+      "title": "리플 기술자, '낮은 수수료=약점' 낙인에 한마디...\"정말 기괴하다\"",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5nWGhUYmVNS3FMS285OHJYUlNOY1l5aWU4YW5hRUVRZTJjcmNlUVJyZ1dlS0lzVFdHd3FHVllmb3pXN3h2c3JTTjdR?oc=5",
+      "date": "Sat, 04 Jul 2026 22:30:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
+      "title": "美 백악관 상황실장 XRP 보유 확인... 암호화폐 커뮤니티 '들썩'",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWEhqSXZMelZ6OXZxWGZhb202Wkp0ZUNieXlGeUZtX2RXVi1SRFZTUm9kVS1Qc21BU3FoZmpIVmJ3T3Y2Q0xWcWVwNVJHVWhpRVQtVlctXzZfRElPcTVhNXd3SC1XVXItSFNiT0VIVlVxc2hEVndLYzRYZWtzUU5Vdk9jTUlNTk1m?oc=5",
+      "date": "Sat, 04 Jul 2026 22:28:57 GMT",
+      "source": "글로벌이코노믹",
       "score": 2
     },
     {
@@ -142,25 +156,11 @@
       "score": 8
     },
     {
-      "title": "속보 | \"XRP, $1.08 지키며 바닥 높여…$1.1 넘어야 상승 탄력\"",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LSDJxbGNTNGlnYk43X0tpMFAyajMybllkMW1XRGtjRENDdTZrVFEwVUt4X0Y0dkFxb0pJa2ZZaGdEdkpySTMteHo0U2hzOTVP?oc=5",
-      "date": "Fri, 03 Jul 2026 06:19:20 GMT",
-      "source": "CoinNess",
-      "score": 8
-    },
-    {
       "title": "\"BTC 약세장 바닥까지 시간 더 필요\"",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1XdzVCRUlHMEUyaE5lZ29jSUlZWld3dW0weV9YNU9zN1hlc1dHTDZVdG1qWHNNQTFlcWJqWExmMmVHX1hMRS1EZG9qM2psNl9w?oc=5",
       "date": "Thu, 02 Jul 2026 23:08:00 GMT",
       "source": "CoinNess",
       "score": 8
-    },
-    {
-      "title": "“이더리움 천하 끝났다”...리플 스테이블코인 RLUSD, XRP 원장 점유율 53.5% 돌파",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAyNngtUGNmalNVeGdCUHg2dHFicjZpMzNQS2JYcDF1RlQ1Um1YOXN5ckE5Vm1fQl9LZVpLblJiZEtMZ2ZpZG9jQUpBVVdPTC1TUzVJSkVFaG9uUUs0ZUgxdXdNQk5uQ05Qc1M3RWRncUxSNlHSAXdBVV95cUxObHhtaGM1QWtwby1VRTRxcXl4SndwUUMwTUZ6Qk52cktrWWlLSmlhV1hhNjk5NXNEb0JJTDBoamRqU2xOX3cwdlZhck9OT3BaMkszM3V0Y2NEM01qZHhlRl9lVHQydEt1TWctVGhNajlvZDVJVVNEUQ?oc=5",
-      "date": "Thu, 02 Jul 2026 23:07:47 GMT",
-      "source": "핀포인트뉴스",
-      "score": 3
     }
   ]
 }
