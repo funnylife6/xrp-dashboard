@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-04T23:30:36",
+  "generated_at": "2026-07-05T01:17:05",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.16,
-    "price_krw": 1769.33,
-    "price_change_24h": 2.27796,
-    "price_change_7d": 9.987,
-    "price_change_30d": -0.32708,
-    "market_cap_usd": 72010590870,
+    "price_usd": 1.15,
+    "price_krw": 1754.05,
+    "price_change_24h": 1.07598,
+    "price_change_7d": 9.5694,
+    "price_change_30d": -1.70657,
+    "market_cap_usd": 71415368707,
     "market_cap_rank": 6,
-    "volume_24h": 1796745994,
+    "volume_24h": 1786106825,
     "circulating_supply": 62241508805.0,
     "total_supply": 99985645029.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 85.59,
-    "sentiment_votes_down": 14.41,
+    "sentiment_votes_up": 83.19,
+    "sentiment_votes_down": 16.81,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 18.28,
-    "recent_tps": 18.28,
-    "recent_tx_count": 1645,
+    "tps_24h_avg": 34.13,
+    "recent_tps": 34.13,
+    "recent_tx_count": 3038,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 105378105,
+    "recent_window_sec": 89,
+    "ledger_seq": 105379765,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-04 23:30:23 KST",
+    "updated_at": "2026-07-05 01:16:55 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 6550000,
     "total_net_inflow_usd": 6550000,
     "total_value_traded_usd": 6550000,
-    "updated_at": "SoSoValue 순유입 부분 수집 07/04 23:30",
+    "updated_at": "SoSoValue 순유입 부분 수집 07/05 01:17",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -114,6 +114,13 @@
       "score": 2
     },
     {
+      "title": "리플(XRP) 단기 반등 성공, 숏 스퀴즈와 골든크로스 주목",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HM2o2WGxacktSaVRTS3dCdHVLbmE2UVFQZ19IRC1ZLWhnN0dVMEpnWlZYTElTX3V1REkwRjFFTWF1ZGZKdXAyU25UaWlZNlAzQnZIaVpGNVpTYWpyeDZKNNIBZkFVX3lxTE5FcVV4Y20yMlgwbm9hS3ZleTZ6YmU2ek4tTU1jUFkxQmFFUXJKdjhqb3N6dkhhd3MzS1pSS1lfV0JYeDQ3QkZtVkZPQmRDQ0FfOGZ3NUVwMEQ1V3o5Z1BjRndfc2lSZw?oc=5",
+      "date": "Sat, 04 Jul 2026 21:07:47 GMT",
+      "source": "tokenpost.kr",
+      "score": 2
+    },
+    {
       "title": "엑스알피(리플) 가격 반등...클래러티법 표결 후 27달러 가나",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBbl9BdDQwbUwyY3FJUThJd0c1Njl4VVhOeEdSSTBHU0RfaXhrNWpMOGM5RDdMaVR1VXhJaTNoSnBHX2p5WG1nTkdLQm0wdzZSSEZUNXdlTjdUZ05NdkpOYzJ3Zkg2QXp1dTZtbXFn?oc=5",
       "date": "Sat, 04 Jul 2026 15:03:00 GMT",
@@ -152,13 +159,6 @@
       "title": "속보 | 크립토퀀트 \"거래소 암호화폐 입금량 증가...시장 변동성 뒤따를 것\"",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1JaXRROUw3M2ZNOXVhQm50RVFVVHVSME5ZYUJkbS1Yd1VCdkR5TExTbFpac01EUF94MmpwN05UTFJXTHFad0VZX0QzcXB2SDRy?oc=5",
       "date": "Fri, 03 Jul 2026 07:31:00 GMT",
-      "source": "CoinNess",
-      "score": 8
-    },
-    {
-      "title": "\"BTC 약세장 바닥까지 시간 더 필요\"",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1XdzVCRUlHMEUyaE5lZ29jSUlZWld3dW0weV9YNU9zN1hlc1dHTDZVdG1qWHNNQTFlcWJqWExmMmVHX1hMRS1EZG9qM2psNl9w?oc=5",
-      "date": "Thu, 02 Jul 2026 23:08:00 GMT",
       "source": "CoinNess",
       "score": 8
     }
