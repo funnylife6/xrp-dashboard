@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-05T01:17:05",
+  "generated_at": "2026-07-05T05:31:28",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.15,
-    "price_krw": 1754.05,
-    "price_change_24h": 1.07598,
-    "price_change_7d": 9.5694,
-    "price_change_30d": -1.70657,
-    "market_cap_usd": 71415368707,
+    "price_usd": 1.14,
+    "price_krw": 1735.36,
+    "price_change_24h": -0.31964,
+    "price_change_7d": 8.38115,
+    "price_change_30d": -0.20034,
+    "market_cap_usd": 70652220110,
     "market_cap_rank": 6,
-    "volume_24h": 1786106825,
+    "volume_24h": 1767387954,
     "circulating_supply": 62241508805.0,
     "total_supply": 99985645029.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 83.19,
-    "sentiment_votes_down": 16.81,
+    "sentiment_votes_up": 85.05,
+    "sentiment_votes_down": 14.95,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 34.13,
-    "recent_tps": 34.13,
-    "recent_tx_count": 3038,
+    "tps_24h_avg": 15.01,
+    "recent_tps": 15.01,
+    "recent_tx_count": 1336,
     "recent_ledger_count": 24,
     "recent_window_sec": 89,
-    "ledger_seq": 105379765,
+    "ledger_seq": 105383743,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-05 01:16:55 KST",
+    "updated_at": "2026-07-05 05:31:22 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 6550000,
     "total_net_inflow_usd": 6550000,
     "total_value_traded_usd": 6550000,
-    "updated_at": "SoSoValue 순유입 부분 수집 07/05 01:17",
+    "updated_at": "SoSoValue 순유입 부분 수집 07/05 05:31",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -93,17 +93,38 @@
   ],
   "general_news": [
     {
+      "title": "Ripple XRP(XRPUSD) 종목이 7월5일에 갑자기 2.10% 하락한 원인은 무엇일까요?",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZVhHRVlwUEVxZmYzOGFkdnY0ZUwxVGJhb1Vybk5ZZEw1TnhPWE5MTXpOTXJsS3ZxNHVhVW16MUJ3QktrYWUySkx4b1FzRUZ0YkFwZ2VHTUZaaTdJQ1J2Wmp2MWRyaXBKNFFlN0F2ckpHazZzTFQwV3ZiZ1VNWUp4M3JpSjBjcHhxVlEwT1R3ZTFVQQ?oc=5",
+      "date": "Sun, 05 Jul 2026 04:00:22 GMT",
+      "source": "TradingKey",
+      "score": 2
+    },
+    {
+      "title": "리플(XRP), 시세 이목…\"클래리티법 기대감에 투자심리 개선\"",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE45UlFjNFE5QXNzYzA0Xy1za25qRV9SMXN2dWFyZkdzOHdVVXQ4VnVXdWZMa05tM0FselBZblhxQUtaLWVjbHJxa1NnWi04TVotV2xVcm1BQ3ZnZ1QtNndxTzZwUWN4Yk4w?oc=5",
+      "date": "Sun, 05 Jul 2026 03:04:57 GMT",
+      "source": "CBC뉴스",
+      "score": 2
+    },
+    {
+      "title": "XRP(리플), 1.18달러 넘으면 폭발 기대 Up...그동안 '가짜 약세'에 낚였나?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9zd3ZoX05oaF9YMGdlU1RHMTFZN2F0WHFLcVU5ZzlOTnIwZzY3WGVXRzV1QXhEN0NQZ3FkYTcxY3RVSjdFUHBGV0dn?oc=5",
+      "date": "Sun, 05 Jul 2026 02:30:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
+      "title": "암호화폐 변호사 “XRP 최대 강점, ‘에스크로’…시장 안정 기여”",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9FLVhKZThUcGNsR0ZPbTBfamdoU1d2SWZRMVRGNkVaZ1hWRDdiWVNUV2lnRFh1aHJHeS1PX3hlQnQxLU1SQi1qLS1QOHFNNDdmYUxfLTNaSWZDOGFtbDZCbDI5WGpMQ3JIMEJnM29tcnE4ZTg?oc=5",
+      "date": "Sat, 04 Jul 2026 23:18:37 GMT",
+      "source": "디지털투데이",
+      "score": 2
+    },
+    {
       "title": "리플XRP·미라네트워크 상승, 솔스티스 급락…거래대금 87%↑",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBqcV9TVUZlOVFEdzl1cWpnZWJYd0dxYTZMbG9oU3ZpRUhOcXRQVTE2eUFyUmdqc3RmSW5pWXJLWHlra29jdElJVkgxYmdsM3U5UG1IUzFoMDlzaDZnYm1mUFZabXlsVXdQZldnSFJQdUdqZw?oc=5",
       "date": "Sat, 04 Jul 2026 22:59:48 GMT",
       "source": "TopStarNews",
-      "score": 2
-    },
-    {
-      "title": "리플 기술자, '낮은 수수료=약점' 낙인에 한마디...\"정말 기괴하다\"",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5nWGhUYmVNS3FMS285OHJYUlNOY1l5aWU4YW5hRUVRZTJjcmNlUVJyZ1dlS0lzVFdHd3FHVllmb3pXN3h2c3JTTjdR?oc=5",
-      "date": "Sat, 04 Jul 2026 22:30:00 GMT",
-      "source": "코인리더스",
       "score": 2
     },
     {
@@ -114,24 +135,10 @@
       "score": 2
     },
     {
-      "title": "리플(XRP) 단기 반등 성공, 숏 스퀴즈와 골든크로스 주목",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HM2o2WGxacktSaVRTS3dCdHVLbmE2UVFQZ19IRC1ZLWhnN0dVMEpnWlZYTElTX3V1REkwRjFFTWF1ZGZKdXAyU25UaWlZNlAzQnZIaVpGNVpTYWpyeDZKNNIBZkFVX3lxTE5FcVV4Y20yMlgwbm9hS3ZleTZ6YmU2ek4tTU1jUFkxQmFFUXJKdjhqb3N6dkhhd3MzS1pSS1lfV0JYeDQ3QkZtVkZPQmRDQ0FfOGZ3NUVwMEQ1V3o5Z1BjRndfc2lSZw?oc=5",
-      "date": "Sat, 04 Jul 2026 21:07:47 GMT",
-      "source": "tokenpost.kr",
-      "score": 2
-    },
-    {
-      "title": "엑스알피(리플) 가격 반등...클래러티법 표결 후 27달러 가나",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBbl9BdDQwbUwyY3FJUThJd0c1Njl4VVhOeEdSSTBHU0RfaXhrNWpMOGM5RDdMaVR1VXhJaTNoSnBHX2p5WG1nTkdLQm0wdzZSSEZUNXdlTjdUZ05NdkpOYzJ3Zkg2QXp1dTZtbXFn?oc=5",
-      "date": "Sat, 04 Jul 2026 15:03:00 GMT",
-      "source": "gukjenews.com",
-      "score": 2
-    },
-    {
-      "title": "리플XRP·지케이패스·비트코인 상승…거래대금 급감",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9tTkpEbzBMcGhkMWV2Vkg1VjNIM0w4bTJqRlVLLTRmRkZwTjdSdEdQMGRCUzVwRzRNUEt0SEw4MVlkcnRKNy0zY3J6ODVxM0FHakVPbWwwdmd1UWRXM3V3Rkg2b3Zjc1hmZzQ4OFlwajhVUQ?oc=5",
-      "date": "Fri, 03 Jul 2026 23:36:23 GMT",
-      "source": "TopStarNews",
+      "title": "역대 12년 만에 처음... 리플(XRP) 손실률 극대화에 글로벌 고래들 ‘역발상 매집’",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBNLXRiZDRiNVlhTjhKY1Y4OXhlR1A3cmQ1MXQzbF83NUJBQm5WcUtrYVBsbGFHWENfUDZwemdfX19vSHh6T0hPWHZsRFdRNnVnSzdjX3N4U0I3V01HdFozUTRMWUk5aWZMRG5kNjBVcDBLSmvSAXdBVV95cUxNRHJvak4yd1ljTVdNVUtKZlJreGF0RmZMNlN2ZVY4SF8wMUJCd2pxM2ZWS3Q2dThvbWxQQlV5aHlJOEdVX0ZKMldKYmk0QmhnajJZV3ktSWwzRFFIcHpYeDQ4UF8zeklVWjNIYTFrdXp5d0hxS093WQ?oc=5",
+      "date": "Sat, 04 Jul 2026 08:21:46 GMT",
+      "source": "핀포인트뉴스",
       "score": 2
     },
     {
@@ -140,13 +147,6 @@
       "date": "Fri, 03 Jul 2026 22:32:00 GMT",
       "source": "코인리더스",
       "score": 4
-    },
-    {
-      "title": "댓글 : 7월 4일 05:40분 XRP 분석( 현재 흐름, 단기전망)",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd3g1VHlyMm1QWFpJbHdoclR3cFZVZmdVVHE0bkxvSEd2SWhUWWxZT2JUelV2azNmLThCRmFVTGtHbDhnTnVaTEt1NEN4ckt5UzB4bVVhMUtYVjFPZlE4VFFqZkpJN19MV1BqRUZJVjlyM2hKYmFsWjU5Z1pZSXNGWXU2V0NqWEFV?oc=5",
-      "date": "Fri, 03 Jul 2026 20:42:00 GMT",
-      "source": "네이버 프리미엄콘텐츠",
-      "score": 2
     },
     {
       "title": "리플, RLUSD 2억 9000만달러 폭풍 발행...대량 공급에 시세 폭등장 터지나",
