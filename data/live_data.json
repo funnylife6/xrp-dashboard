@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-05T18:05:27",
+  "generated_at": "2026-07-05T19:49:00",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.13,
-    "price_krw": 1733.94,
-    "price_change_24h": -3.85905,
-    "price_change_7d": 8.53707,
-    "price_change_30d": 1.28695,
-    "market_cap_usd": 70581440593,
+    "price_krw": 1733.43,
+    "price_change_24h": -2.99742,
+    "price_change_7d": 8.40609,
+    "price_change_30d": 4.53952,
+    "market_cap_usd": 70579581600,
     "market_cap_rank": 6,
-    "volume_24h": 1235263529,
+    "volume_24h": 1166292108,
     "circulating_supply": 62241508805.0,
     "total_supply": 99985645029.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 68.66,
-    "sentiment_votes_down": 31.34,
+    "sentiment_votes_up": 66.15,
+    "sentiment_votes_down": 33.85,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 40.69,
-    "recent_tps": 40.69,
-    "recent_tx_count": 3621,
+    "tps_24h_avg": 14.97,
+    "recent_tps": 14.97,
+    "recent_tx_count": 1347,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 105395576,
+    "recent_window_sec": 90,
+    "ledger_seq": 105397192,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-05 18:05:14 KST",
+    "updated_at": "2026-07-05 19:48:46 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 6550000,
     "total_net_inflow_usd": 6550000,
     "total_value_traded_usd": 6550000,
-    "updated_at": "SoSoValue 순유입 부분 수집 07/05 18:05",
+    "updated_at": "SoSoValue 순유입 부분 수집 07/05 19:48",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -93,23 +93,16 @@
   ],
   "general_news": [
     {
-      "title": "XRP, 전 세계 220만개 호텔 예약 결제 지원",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE13TVhtaUhLNkVPZUNocFZQQUJjRFJiWWNrcklBVW03Z0toZXg1V2hqQXp5UURCNE1mU19oWTJDZEdrRThzSV8xXzUza0I2Q1MzaWZRelYyLWoxbVZWTWVSTDNxWTFxVjF1c1VKeHdGMjNvT3M?oc=5",
-      "date": "Sun, 05 Jul 2026 11:55:44 GMT",
-      "source": "디지털투데이",
+      "title": "XRP로 전 세계 220만 호텔 예약한다… 여행·AI 결제 영토 확장, '실생활 채택' 붐 불붙나",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMGpGbG9ld2ZablNHWkZIOUJ3WEtBZkRzZE5rSWFTZF9XOE1uOHFpLTZSbWlIeHNYZ0lTMEpaeXh1a2k4emstbERmUlpYYUtIdURCVU94R05SUXBrZ1EzMENWUmg4REk0Z3MxYXh2SzRWYVVERm1vZy1tbVNiVHo0bHdlSkQybzBo?oc=5",
+      "date": "Sun, 05 Jul 2026 18:38:17 GMT",
+      "source": "글로벌이코노믹",
       "score": 2
     },
     {
       "title": "리플(XRP) 3달러 회복 위한 '4가지 조건'…금리·비트코인·규제에 달렸다",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBEZ2dqY3BaSDVXWm1DNk0wc2lnTlA3QnhqZVlPeFc1TUw0WFkxeWk1aDFwMHh1di10dDA2TWRZa2UzemVDYXlZZkJn?oc=5",
       "date": "Sun, 05 Jul 2026 11:35:00 GMT",
-      "source": "코인리더스",
-      "score": 2
-    },
-    {
-      "title": "엑스알피(XRP), 호주 의회 공식 기록 등장...정치권 확산 시작",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4ya203ZklxcFF4V0JhOGxfaDFNdmw4RFlBVmY4ci1RRzF0V19Va29UTzhjc013Z3hmZlEzMy1oTTYxeWRVUC0tOXd3?oc=5",
-      "date": "Sun, 05 Jul 2026 10:00:00 GMT",
       "source": "코인리더스",
       "score": 2
     },
@@ -128,10 +121,10 @@
       "score": 2
     },
     {
-      "title": "\"XRP 에스크로 32.5% 미만 '뚝'…비트코인 진영 '중앙집중화' 주장 일축\"",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQY0ZiYlc0dGp0NERxOEFmUElZajQzVWU3UEJ1Zk1Bek5IekZJNTJYZlVoODdHSUZtbmNlSHZPSi0yX25NbENsc1d3UDlobGl2Nk56and0MWdraVkzMHhtTUR0eUNiZGRMdi1aekZIei0xajYyNFBhWm52TlA1cVpQMzRtTFJNQQ?oc=5",
-      "date": "Sun, 05 Jul 2026 03:45:31 GMT",
-      "source": "글로벌이코노믹",
+      "title": "암호화폐 변호사 “XRP 최대 강점, ‘에스크로’…시장 안정 기여”",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9FLVhKZThUcGNsR0ZPbTBfamdoU1d2SWZRMVRGNkVaZ1hWRDdiWVNUV2lnRFh1aHJHeS1PX3hlQnQxLU1SQi1qLS1QOHFNNDdmYUxfLTNaSWZDOGFtbDZCbDI5WGpMQ3JIMEJnM29tcnE4ZTg?oc=5",
+      "date": "Sat, 04 Jul 2026 23:18:37 GMT",
+      "source": "디지털투데이",
       "score": 2
     },
     {
@@ -161,6 +154,13 @@
       "date": "Fri, 03 Jul 2026 22:32:00 GMT",
       "source": "코인리더스",
       "score": 4
+    },
+    {
+      "title": "댓글 : 7월 4일 05:40분 XRP 분석( 현재 흐름, 단기전망)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd3g1VHlyMm1QWFpJbHdoclR3cFZVZmdVVHE0bkxvSEd2SWhUWWxZT2JUelV2azNmLThCRmFVTGtHbDhnTnVaTEt1NEN4ckt5UzB4bVVhMUtYVjFPZlE4VFFqZkpJN19MV1BqRUZJVjlyM2hKYmFsWjU5Z1pZSXNGWXU2V0NqWEFV?oc=5",
+      "date": "Fri, 03 Jul 2026 20:42:00 GMT",
+      "source": "네이버 프리미엄콘텐츠",
+      "score": 2
     }
   ]
 }
