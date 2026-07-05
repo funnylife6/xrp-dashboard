@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-05T16:59:13",
+  "generated_at": "2026-07-05T18:05:27",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.13,
-    "price_krw": 1733.12,
-    "price_change_24h": -3.32897,
-    "price_change_7d": 7.81492,
-    "price_change_30d": 2.98876,
-    "market_cap_usd": 70558283113,
+    "price_krw": 1733.94,
+    "price_change_24h": -3.85905,
+    "price_change_7d": 8.53707,
+    "price_change_30d": 1.28695,
+    "market_cap_usd": 70581440593,
     "market_cap_rank": 6,
-    "volume_24h": 1287957453,
+    "volume_24h": 1235263529,
     "circulating_supply": 62241508805.0,
     "total_supply": 99985645029.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 69.7,
-    "sentiment_votes_down": 30.3,
+    "sentiment_votes_up": 68.66,
+    "sentiment_votes_down": 31.34,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 16.0,
-    "recent_tps": 16.0,
-    "recent_tx_count": 1440,
+    "tps_24h_avg": 40.69,
+    "recent_tps": 40.69,
+    "recent_tx_count": 3621,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 105394549,
+    "recent_window_sec": 89,
+    "ledger_seq": 105395576,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-05 16:59:02 KST",
+    "updated_at": "2026-07-05 18:05:14 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 6550000,
     "total_net_inflow_usd": 6550000,
     "total_value_traded_usd": 6550000,
-    "updated_at": "SoSoValue 순유입 부분 수집 07/05 16:59",
+    "updated_at": "SoSoValue 순유입 부분 수집 07/05 18:05",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -100,6 +100,13 @@
       "score": 2
     },
     {
+      "title": "리플(XRP) 3달러 회복 위한 '4가지 조건'…금리·비트코인·규제에 달렸다",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBEZ2dqY3BaSDVXWm1DNk0wc2lnTlA3QnhqZVlPeFc1TUw0WFkxeWk1aDFwMHh1di10dDA2TWRZa2UzemVDYXlZZkJn?oc=5",
+      "date": "Sun, 05 Jul 2026 11:35:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
       "title": "엑스알피(XRP), 호주 의회 공식 기록 등장...정치권 확산 시작",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4ya203ZklxcFF4V0JhOGxfaDFNdmw4RFlBVmY4ci1RRzF0V19Va29UTzhjc013Z3hmZlEzMy1oTTYxeWRVUC0tOXd3?oc=5",
       "date": "Sun, 05 Jul 2026 10:00:00 GMT",
@@ -139,13 +146,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWEhqSXZMelZ6OXZxWGZhb202Wkp0ZUNieXlGeUZtX2RXVi1SRFZTUm9kVS1Qc21BU3FoZmpIVmJ3T3Y2Q0xWcWVwNVJHVWhpRVQtVlctXzZfRElPcTVhNXd3SC1XVXItSFNiT0VIVlVxc2hEVndLYzRYZWtzUU5Vdk9jTUlNTk1m?oc=5",
       "date": "Sat, 04 Jul 2026 22:28:57 GMT",
       "source": "글로벌이코노믹",
-      "score": 2
-    },
-    {
-      "title": "리플XRP·지케이패스·비트코인 상승…거래대금 급감",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9tTkpEbzBMcGhkMWV2Vkg1VjNIM0w4bTJqRlVLLTRmRkZwTjdSdEdQMGRCUzVwRzRNUEt0SEw4MVlkcnRKNy0zY3J6ODVxM0FHakVPbWwwdmd1UWRXM3V3Rkg2b3Zjc1hmZzQ4OFlwajhVUQ?oc=5",
-      "date": "Fri, 03 Jul 2026 23:36:23 GMT",
-      "source": "TopStarNews",
       "score": 2
     },
     {
