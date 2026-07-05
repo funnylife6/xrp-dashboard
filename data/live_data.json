@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-05T19:49:00",
+  "generated_at": "2026-07-05T20:49:58",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.13,
-    "price_krw": 1733.43,
-    "price_change_24h": -2.99742,
-    "price_change_7d": 8.40609,
-    "price_change_30d": 4.53952,
-    "market_cap_usd": 70579581600,
+    "price_krw": 1734.27,
+    "price_change_24h": -2.34992,
+    "price_change_7d": 8.98522,
+    "price_change_30d": 3.13899,
+    "market_cap_usd": 70604744308,
     "market_cap_rank": 6,
-    "volume_24h": 1166292108,
+    "volume_24h": 1128739665,
     "circulating_supply": 62241508805.0,
     "total_supply": 99985645029.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 66.15,
-    "sentiment_votes_down": 33.85,
+    "sentiment_votes_up": 65.15,
+    "sentiment_votes_down": 34.85,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 14.97,
-    "recent_tps": 14.97,
-    "recent_tx_count": 1347,
+    "tps_24h_avg": 14.81,
+    "recent_tps": 14.81,
+    "recent_tx_count": 1333,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 105397192,
+    "ledger_seq": 105398144,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-05 19:48:46 KST",
+    "updated_at": "2026-07-05 20:49:47 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 6550000,
     "total_net_inflow_usd": 6550000,
     "total_value_traded_usd": 6550000,
-    "updated_at": "SoSoValue 순유입 부분 수집 07/05 19:48",
+    "updated_at": "SoSoValue 순유입 부분 수집 07/05 20:49",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -100,9 +100,9 @@
       "score": 2
     },
     {
-      "title": "리플(XRP) 3달러 회복 위한 '4가지 조건'…금리·비트코인·규제에 달렸다",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBEZ2dqY3BaSDVXWm1DNk0wc2lnTlA3QnhqZVlPeFc1TUw0WFkxeWk1aDFwMHh1di10dDA2TWRZa2UzemVDYXlZZkJn?oc=5",
-      "date": "Sun, 05 Jul 2026 11:35:00 GMT",
+      "title": "엑스알피(XRP), 호주 의회 공식 기록 등장...정치권 확산 시작",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4ya203ZklxcFF4V0JhOGxfaDFNdmw4RFlBVmY4ci1RRzF0V19Va29UTzhjc013Z3hmZlEzMy1oTTYxeWRVUC0tOXd3?oc=5",
+      "date": "Sun, 05 Jul 2026 10:00:00 GMT",
       "source": "코인리더스",
       "score": 2
     },
@@ -128,13 +128,6 @@
       "score": 2
     },
     {
-      "title": "리플XRP·미라네트워크 상승, 솔스티스 급락…거래대금 87%↑",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBqcV9TVUZlOVFEdzl1cWpnZWJYd0dxYTZMbG9oU3ZpRUhOcXRQVTE2eUFyUmdqc3RmSW5pWXJLWHlra29jdElJVkgxYmdsM3U5UG1IUzFoMDlzaDZnYm1mUFZabXlsVXdQZldnSFJQdUdqZw?oc=5",
-      "date": "Sat, 04 Jul 2026 22:59:48 GMT",
-      "source": "TopStarNews",
-      "score": 2
-    },
-    {
       "title": "美 백악관 상황실장 XRP 보유 확인... 암호화폐 커뮤니티 '들썩'",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWEhqSXZMelZ6OXZxWGZhb202Wkp0ZUNieXlGeUZtX2RXVi1SRFZTUm9kVS1Qc21BU3FoZmpIVmJ3T3Y2Q0xWcWVwNVJHVWhpRVQtVlctXzZfRElPcTVhNXd3SC1XVXItSFNiT0VIVlVxc2hEVndLYzRYZWtzUU5Vdk9jTUlNTk1m?oc=5",
       "date": "Sat, 04 Jul 2026 22:28:57 GMT",
@@ -143,7 +136,7 @@
     },
     {
       "title": "속보 | BTC $63,000 상회",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LS3JhY2hKX3hCOWQzQzZNQW1FRjdRNWFUVnc0eXk2U2JIaXhRcThJS0I2cTZ5M1JjOHlUUTJVX1U0UHd3Sk1NTHJsUXBFZkI2?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1HU2d0bzNHM2FCVk9sTm5ydHQwVDlJOEdUdHV5blJ2N3dPbWI4VmtlS3dfLUtPd3FEWDY2X3otbzNnYkZaREo4Wg?oc=5",
       "date": "Fri, 03 Jul 2026 23:10:00 GMT",
       "source": "CoinNess",
       "score": 8
@@ -160,6 +153,13 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd3g1VHlyMm1QWFpJbHdoclR3cFZVZmdVVHE0bkxvSEd2SWhUWWxZT2JUelV2azNmLThCRmFVTGtHbDhnTnVaTEt1NEN4ckt5UzB4bVVhMUtYVjFPZlE4VFFqZkpJN19MV1BqRUZJVjlyM2hKYmFsWjU5Z1pZSXNGWXU2V0NqWEFV?oc=5",
       "date": "Fri, 03 Jul 2026 20:42:00 GMT",
       "source": "네이버 프리미엄콘텐츠",
+      "score": 2
+    },
+    {
+      "title": "리플, RLUSD 2억 9000만달러 폭풍 발행...대량 공급에 시세 폭등장 터지나",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1HYmRzQVZsMFljSUtvUG55WUtHNUczX0ZrY1BrZnk1RzVBWjJ5SEhIbXBadGI5VmlGelpNdzRRY1JfLWw2?oc=5",
+      "date": "Fri, 03 Jul 2026 15:40:00 GMT",
+      "source": "코인리더스",
       "score": 2
     }
   ]
