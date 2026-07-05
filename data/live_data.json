@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-05T20:49:58",
+  "generated_at": "2026-07-05T21:54:14",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.13,
-    "price_krw": 1734.27,
-    "price_change_24h": -2.34992,
-    "price_change_7d": 8.98522,
-    "price_change_30d": 3.13899,
-    "market_cap_usd": 70604744308,
+    "price_usd": 1.14,
+    "price_krw": 1746.1,
+    "price_change_24h": -2.00589,
+    "price_change_7d": 9.72828,
+    "price_change_30d": 2.47379,
+    "market_cap_usd": 71089335224,
     "market_cap_rank": 6,
-    "volume_24h": 1128739665,
+    "volume_24h": 1144761346,
     "circulating_supply": 62241508805.0,
     "total_supply": 99985645029.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 65.15,
-    "sentiment_votes_down": 34.85,
+    "sentiment_votes_up": 64.18,
+    "sentiment_votes_down": 35.82,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 14.81,
-    "recent_tps": 14.81,
-    "recent_tx_count": 1333,
+    "tps_24h_avg": 21.4,
+    "recent_tps": 21.4,
+    "recent_tx_count": 1905,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 105398144,
+    "recent_window_sec": 89,
+    "ledger_seq": 105399143,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-05 20:49:47 KST",
+    "updated_at": "2026-07-05 21:54:04 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,11 +43,18 @@
     "aum_usd": 6550000,
     "total_net_inflow_usd": 6550000,
     "total_value_traded_usd": 6550000,
-    "updated_at": "SoSoValue 순유입 부분 수집 07/05 20:49",
+    "updated_at": "SoSoValue 순유입 부분 수집 07/05 21:54",
     "data_source": "sosovalue",
     "partial": true
   },
   "etf_news": [
+    {
+      "title": "XRP(리플) ETF, 잘나가다 '삐끗'...3개월 만에 균열 포착",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1WVXNvREQ0cHVsMi16cWhJbmRYcHVBbkZxWkp4MWdKd0xwTVdadDNvZElwdU1zb1duXzRSc0lORnFiSC1halczaTdB?oc=5",
+      "date": "Sun, 05 Jul 2026 21:20:00 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
     {
       "title": "돈 둔화됐다더니 착시였네... 리플 ETF 자금 재가동에 공매도 세력 연쇄 청산 비상",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTYmw2SlpuZWZNRHVJSnpFVHBodW1tVGRqSWdfNnRzbjN4aXZMRUJPMEJTa096RUNuOWFuTUo0X3Y1YWZxNUFrTElKUHozM0t0Y0oxcXVpSllmNUhOdjE5bW1wN0NlNUlSakhSNzhJVzk3UjjSAXdBVV95cUxNVWl6MVBvNUdZRWtXakhCRWxpYzhSY2pLV2tyVVZaUm1VWUJPRWt0RlZkSXZhSURJdDZZaU9ZYmlYYjQ4VUNKMmJhS3JOUjJSdmlldEhRdlc1VVR4VHRhVjA1Yk00SFp1Q2ZOaEY0bWNRRmFkR0xxSQ?oc=5",
@@ -77,13 +84,6 @@
       "score": 0
     },
     {
-      "title": "리플(XRP) 현물 ETF에 14억달러 몰렸는데…가격은 왜 안 오르나",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1SWXpPV2ZxQTFXendlMXlZYkw2cGZVcEhodk5vaTFVY0tIX0libWRmN214aXZ1Q2RMSGdMQVl0anBSRzNHQ2ppNExn?oc=5",
-      "date": "Thu, 02 Jul 2026 22:00:00 GMT",
-      "source": "코인리더스",
-      "score": 0
-    },
-    {
       "title": "리플(XRP), 1달러 지지선서 반등…호재 쌓였는데도 웃지 못하는 이유",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1qeG11Q1BrX2gta1FVTWg1Y0NiNmVGSVRVVnRtRDZxYjNBeS02UWtnOUZpcjJOcjdIYnNJS3c2cVV1a09tbUFaNDlR?oc=5",
       "date": "Thu, 02 Jul 2026 21:49:00 GMT",
@@ -92,6 +92,13 @@
     }
   ],
   "general_news": [
+    {
+      "title": "XRP(리플) ETF, 잘나가다 '삐끗'...3개월 만에 균열 포착",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1WVXNvREQ0cHVsMi16cWhJbmRYcHVBbkZxWkp4MWdKd0xwTVdadDNvZElwdU1zb1duXzRSc0lORnFiSC1halczaTdB?oc=5",
+      "date": "Sun, 05 Jul 2026 21:20:00 GMT",
+      "source": "코인리더스",
+      "score": 3
+    },
     {
       "title": "XRP로 전 세계 220만 호텔 예약한다… 여행·AI 결제 영토 확장, '실생활 채택' 붐 불붙나",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMGpGbG9ld2ZablNHWkZIOUJ3WEtBZkRzZE5rSWFTZF9XOE1uOHFpLTZSbWlIeHNYZ0lTMEpaeXh1a2k4emstbERmUlpYYUtIdURCVU94R05SUXBrZ1EzMENWUmg4REk0Z3MxYXh2SzRWYVVERm1vZy1tbVNiVHo0bHdlSkQybzBo?oc=5",
@@ -153,13 +160,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd3g1VHlyMm1QWFpJbHdoclR3cFZVZmdVVHE0bkxvSEd2SWhUWWxZT2JUelV2azNmLThCRmFVTGtHbDhnTnVaTEt1NEN4ckt5UzB4bVVhMUtYVjFPZlE4VFFqZkpJN19MV1BqRUZJVjlyM2hKYmFsWjU5Z1pZSXNGWXU2V0NqWEFV?oc=5",
       "date": "Fri, 03 Jul 2026 20:42:00 GMT",
       "source": "네이버 프리미엄콘텐츠",
-      "score": 2
-    },
-    {
-      "title": "리플, RLUSD 2억 9000만달러 폭풍 발행...대량 공급에 시세 폭등장 터지나",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1HYmRzQVZsMFljSUtvUG55WUtHNUczX0ZrY1BrZnk1RzVBWjJ5SEhIbXBadGI5VmlGelpNdzRRY1JfLWw2?oc=5",
-      "date": "Fri, 03 Jul 2026 15:40:00 GMT",
-      "source": "코인리더스",
       "score": 2
     }
   ]
