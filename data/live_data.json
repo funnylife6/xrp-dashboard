@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-05T12:19:21",
+  "generated_at": "2026-07-05T14:15:10",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.13,
-    "price_krw": 1727.1,
-    "price_change_24h": -1.15913,
-    "price_change_7d": 7.88144,
-    "price_change_30d": 0.79178,
-    "market_cap_usd": 70312942501,
+    "price_krw": 1734.04,
+    "price_change_24h": -1.9702,
+    "price_change_7d": 7.99434,
+    "price_change_30d": 1.70619,
+    "market_cap_usd": 70598536757,
     "market_cap_rank": 6,
-    "volume_24h": 1664344671,
+    "volume_24h": 1529244898,
     "circulating_supply": 62241508805.0,
     "total_supply": 99985645029.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 80.0,
-    "sentiment_votes_down": 20.0,
+    "sentiment_votes_up": 81.11,
+    "sentiment_votes_down": 18.89,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 17.83,
-    "recent_tps": 17.83,
-    "recent_tx_count": 1605,
+    "tps_24h_avg": 24.31,
+    "recent_tps": 24.31,
+    "recent_tx_count": 2164,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 105390162,
+    "recent_window_sec": 89,
+    "ledger_seq": 105391980,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-05 12:19:09 KST",
+    "updated_at": "2026-07-05 14:15:04 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 6550000,
     "total_net_inflow_usd": 6550000,
     "total_value_traded_usd": 6550000,
-    "updated_at": "SoSoValue 순유입 부분 수집 07/05 12:19",
+    "updated_at": "SoSoValue 순유입 부분 수집 07/05 14:15",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -93,10 +93,10 @@
   ],
   "general_news": [
     {
-      "title": "여행 플랫폼 트라발라, 전 세계 220만 개 호텔 예약에 XRP 결제 도입",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSFh6dVRYamsySDhQNHNORmlpaDM3VGJDWlhBczFqQzBfMmJrWjRrUS01UWN6b3BtQVhVVkVnVTI3UTRkeHdDN1RxSUV5VExiN2dyQ3dDYTZqa3o1ZTVIZi1sMjVFTDZObi1HZ0Nnekw2RnE3R2huU29EdUxfUEJ1OVF3Z3VKZG4t?oc=5",
-      "date": "Sun, 05 Jul 2026 11:06:44 GMT",
-      "source": "글로벌이코노믹",
+      "title": "XRP, 전 세계 220만개 호텔 예약 결제 지원",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE13TVhtaUhLNkVPZUNocFZQQUJjRFJiWWNrcklBVW03Z0toZXg1V2hqQXp5UURCNE1mU19oWTJDZEdrRThzSV8xXzUza0I2Q1MzaWZRelYyLWoxbVZWTWVSTDNxWTFxVjF1c1VKeHdGMjNvT3M?oc=5",
+      "date": "Sun, 05 Jul 2026 11:55:44 GMT",
+      "source": "디지털투데이",
       "score": 2
     },
     {
@@ -121,10 +121,10 @@
       "score": 2
     },
     {
-      "title": "암호화폐 변호사 “XRP 최대 강점, ‘에스크로’…시장 안정 기여”",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9FLVhKZThUcGNsR0ZPbTBfamdoU1d2SWZRMVRGNkVaZ1hWRDdiWVNUV2lnRFh1aHJHeS1PX3hlQnQxLU1SQi1qLS1QOHFNNDdmYUxfLTNaSWZDOGFtbDZCbDI5WGpMQ3JIMEJnM29tcnE4ZTg?oc=5",
-      "date": "Sat, 04 Jul 2026 23:18:37 GMT",
-      "source": "디지털투데이",
+      "title": "\"XRP 에스크로 32.5% 미만 '뚝'…비트코인 진영 '중앙집중화' 주장 일축\"",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQY0ZiYlc0dGp0NERxOEFmUElZajQzVWU3UEJ1Zk1Bek5IekZJNTJYZlVoODdHSUZtbmNlSHZPSi0yX25NbENsc1d3UDlobGl2Nk56and0MWdraVkzMHhtTUR0eUNiZGRMdi1aekZIei0xajYyNFBhWm52TlA1cVpQMzRtTFJNQQ?oc=5",
+      "date": "Sun, 05 Jul 2026 03:45:31 GMT",
+      "source": "글로벌이코노믹",
       "score": 2
     },
     {
