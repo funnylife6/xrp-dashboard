@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-05T21:54:14",
+  "generated_at": "2026-07-05T22:55:04",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.14,
-    "price_krw": 1746.1,
-    "price_change_24h": -2.00589,
-    "price_change_7d": 9.72828,
-    "price_change_30d": 2.47379,
-    "market_cap_usd": 71089335224,
+    "price_usd": 1.15,
+    "price_krw": 1763.56,
+    "price_change_24h": -0.60402,
+    "price_change_7d": 10.36402,
+    "price_change_30d": 3.49857,
+    "market_cap_usd": 71799933316,
     "market_cap_rank": 6,
-    "volume_24h": 1144761346,
+    "volume_24h": 1194997547,
     "circulating_supply": 62241508805.0,
     "total_supply": 99985645029.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 64.18,
-    "sentiment_votes_down": 35.82,
+    "sentiment_votes_up": 62.69,
+    "sentiment_votes_down": 37.31,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 21.4,
-    "recent_tps": 21.4,
-    "recent_tx_count": 1905,
+    "tps_24h_avg": 18.08,
+    "recent_tps": 18.08,
+    "recent_tx_count": 1627,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 105399143,
+    "recent_window_sec": 90,
+    "ledger_seq": 105400086,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-05 21:54:04 KST",
+    "updated_at": "2026-07-05 22:54:58 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 6550000,
     "total_net_inflow_usd": 6550000,
     "total_value_traded_usd": 6550000,
-    "updated_at": "SoSoValue 순유입 부분 수집 07/05 21:54",
+    "updated_at": "SoSoValue 순유입 부분 수집 07/05 22:55",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -93,6 +93,13 @@
   ],
   "general_news": [
     {
+      "title": "리플XRP·솔스티스·비트코인 하락…금리 부담 속 혼조",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1rOE5kTTNMZlV0NVF0ZUtoNTI1TElHZ2JIOEtMQ2VkTm05azhYS3FTbXhEZkZNSVRzRU80Qm1xd2wzMmVScDlJYW5FMDNvX3Q4YTRUTGVVSUR2VzhrTXF0djFUN3ZPb0NPZzQyeldFZEdtZw?oc=5",
+      "date": "Sun, 05 Jul 2026 22:26:05 GMT",
+      "source": "TopStarNews",
+      "score": 2
+    },
+    {
       "title": "XRP(리플) ETF, 잘나가다 '삐끗'...3개월 만에 균열 포착",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1WVXNvREQ0cHVsMi16cWhJbmRYcHVBbkZxWkp4MWdKd0xwTVdadDNvZElwdU1zb1duXzRSc0lORnFiSC1halczaTdB?oc=5",
       "date": "Sun, 05 Jul 2026 21:20:00 GMT",
@@ -100,10 +107,10 @@
       "score": 3
     },
     {
-      "title": "XRP로 전 세계 220만 호텔 예약한다… 여행·AI 결제 영토 확장, '실생활 채택' 붐 불붙나",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMGpGbG9ld2ZablNHWkZIOUJ3WEtBZkRzZE5rSWFTZF9XOE1uOHFpLTZSbWlIeHNYZ0lTMEpaeXh1a2k4emstbERmUlpYYUtIdURCVU94R05SUXBrZ1EzMENWUmg4REk0Z3MxYXh2SzRWYVVERm1vZy1tbVNiVHo0bHdlSkQybzBo?oc=5",
-      "date": "Sun, 05 Jul 2026 18:38:17 GMT",
-      "source": "글로벌이코노믹",
+      "title": "XRP, 전 세계 220만개 호텔 예약 결제 지원",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE13TVhtaUhLNkVPZUNocFZQQUJjRFJiWWNrcklBVW03Z0toZXg1V2hqQXp5UURCNE1mU19oWTJDZEdrRThzSV8xXzUza0I2Q1MzaWZRelYyLWoxbVZWTWVSTDNxWTFxVjF1c1VKeHdGMjNvT3M?oc=5",
+      "date": "Sun, 05 Jul 2026 11:55:44 GMT",
+      "source": "디지털투데이",
       "score": 2
     },
     {
@@ -125,13 +132,6 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5USTIyenkweE5XaTdCbl9tM2wyUUJfc0tXMWk5WGExYmVMUEhTTG1oako4eGZEeDFVdmlJc3VDdWMtV2RXNTlNTUFwMC1iMF9UYmMtOVV3?oc=5",
       "date": "Sun, 05 Jul 2026 07:00:00 GMT",
       "source": "위키트리",
-      "score": 2
-    },
-    {
-      "title": "암호화폐 변호사 “XRP 최대 강점, ‘에스크로’…시장 안정 기여”",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9FLVhKZThUcGNsR0ZPbTBfamdoU1d2SWZRMVRGNkVaZ1hWRDdiWVNUV2lnRFh1aHJHeS1PX3hlQnQxLU1SQi1qLS1QOHFNNDdmYUxfLTNaSWZDOGFtbDZCbDI5WGpMQ3JIMEJnM29tcnE4ZTg?oc=5",
-      "date": "Sat, 04 Jul 2026 23:18:37 GMT",
-      "source": "디지털투데이",
       "score": 2
     },
     {
