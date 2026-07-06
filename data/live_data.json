@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-06T18:11:36",
+  "generated_at": "2026-07-06T20:20:38",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.15,
-    "price_krw": 1753.5,
-    "price_change_24h": 0.91815,
-    "price_change_7d": 9.1754,
-    "price_change_30d": 5.7041,
-    "market_cap_usd": 71335403546,
+    "price_usd": 1.14,
+    "price_krw": 1746.59,
+    "price_change_24h": 0.52198,
+    "price_change_7d": 6.6343,
+    "price_change_30d": 5.59423,
+    "market_cap_usd": 71093045499,
     "market_cap_rank": 6,
-    "volume_24h": 1627430987,
+    "volume_24h": 1687809870,
     "circulating_supply": 62241508805.0,
     "total_supply": 99985645029.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 75.0,
-    "sentiment_votes_down": 25.0,
+    "sentiment_votes_up": 75.49,
+    "sentiment_votes_down": 24.51,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 27.3,
-    "recent_tps": 27.3,
-    "recent_tx_count": 2457,
+    "tps_24h_avg": 20.56,
+    "recent_tps": 20.56,
+    "recent_tx_count": 1830,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 105417929,
+    "recent_window_sec": 89,
+    "ledger_seq": 105419932,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-06 18:11:23 KST",
+    "updated_at": "2026-07-06 20:20:25 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 6550000,
     "total_net_inflow_usd": 6550000,
     "total_value_traded_usd": 6550000,
-    "updated_at": "SoSoValue 순유입 부분 수집 07/06 18:11",
+    "updated_at": "SoSoValue 순유입 부분 수집 07/06 20:20",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -100,18 +100,25 @@
       "score": 4
     },
     {
+      "title": "“연 55.5% 보장” XRP 스테이킹 사이트, 또 등장했다…리플 스테이킹 사기와 동일 수법",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96OXVxdklhVjhjU0lUUTBTVEw4b3YwVmRuZnVLZ0JpbndjeEUzYnNrai1HNTk3aloyS20yQ1pUODVCZnhWV2VQcUIzTzBUT2FqN29RRWs5bmdyRWd4bkFrOXdqcElnQmp5by1XZEl5RdIBc0FVX3lxTE1BYWFwZHVtWHViMko4QU9IVE9HYTMwdXhTcHNHTXhSdVM1UGR1OWkxSldCTDhlcWFjVEtOQzdXcE50a2pqZmdoaVZhUUhGdjdjbGRoS3FIU3ctMmRrdGxRbDZaRUxqRTlFU0lENl9iOFhXOFU?oc=5",
+      "date": "Mon, 06 Jul 2026 12:00:00 GMT",
+      "source": "시사저널",
+      "score": 2
+    },
+    {
+      "title": "리플 MiCA 승리…XRP에 남은 과제",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IZjJUVk5LXzVEYmpVamx6OUNEMUlmZlV6NnJUdEZHYUpKTmZERGpvaEJKV0tidGxzU05Wak4ta0dIaUZmYk1peE5SMzBOMy1vNUpBVWZPUm0yVU11WUwzSDN2ZWdCS2lpeXc?oc=5",
+      "date": "Mon, 06 Jul 2026 10:29:57 GMT",
+      "source": "BeInCrypto",
+      "score": 2
+    },
+    {
       "title": "리플 ETF 유입·숏커버링 겹호재… XRP 1.14달러 저항선 돌파 후 안착 시도",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSC1DQWE2LVFyUFloZGFtTnppREV5WGRnM3lQUjlXVHVnWHBEWHpYVV9XQ1FzVDlrSHVWUXdBdTF1aVhhZXg1V3BITnlYbUZFZnpYdE5iYS1oSXk2ZTFOMVA5UFBkdndxS21wVHdyNmtZSDdfM3FPMUVmSEJEWFNORmROaDU2NHRYbnRkRGFlb3VPTGFkT09SYzYzT2l1Q2tZ?oc=5",
       "date": "Mon, 06 Jul 2026 10:21:43 GMT",
       "source": "Cryptonews",
       "score": 3
-    },
-    {
-      "title": "암호화폐(코인) 리플, 실사용처 빠르게 확장... 이번엔 전세계 220만개 호텔 예약 플랫폼",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42dnlxWi1paTVhY3pGWURHazlfV1NWZFBsMWtzWVVESl9oUUI0ak1sMU1kS2w5SVNzUTFwMlpZQW11T3hwbG1KV20zYXVlb3VyckR3aUR3?oc=5",
-      "date": "Mon, 06 Jul 2026 06:26:00 GMT",
-      "source": "위키트리",
-      "score": 2
     },
     {
       "title": "리플·비트코인, 클래리티법 기대감에 시세 동반 강세…\"ETF 자금 유입도 투자심리 개선\"",
@@ -154,13 +161,6 @@
       "date": "Sun, 05 Jul 2026 22:26:05 GMT",
       "source": "TopStarNews",
       "score": 2
-    },
-    {
-      "title": "XRP(리플) ETF, 잘나가다 '삐끗'...3개월 만에 균열 포착",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1WVXNvREQ0cHVsMi16cWhJbmRYcHVBbkZxWkp4MWdKd0xwTVdadDNvZElwdU1zb1duXzRSc0lORnFiSC1halczaTdB?oc=5",
-      "date": "Sun, 05 Jul 2026 21:20:00 GMT",
-      "source": "코인리더스",
-      "score": 3
     }
   ]
 }
