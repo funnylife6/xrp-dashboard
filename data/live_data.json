@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-06T15:58:43",
+  "generated_at": "2026-07-06T18:11:36",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.14,
-    "price_krw": 1747.84,
-    "price_change_24h": 0.45084,
-    "price_change_7d": 9.3004,
-    "price_change_30d": 3.02391,
-    "market_cap_usd": 71020833753,
+    "price_usd": 1.15,
+    "price_krw": 1753.5,
+    "price_change_24h": 0.91815,
+    "price_change_7d": 9.1754,
+    "price_change_30d": 5.7041,
+    "market_cap_usd": 71335403546,
     "market_cap_rank": 6,
-    "volume_24h": 1536934580,
+    "volume_24h": 1627430987,
     "circulating_supply": 62241508805.0,
     "total_supply": 99985645029.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 72.73,
-    "sentiment_votes_down": 27.27,
+    "sentiment_votes_up": 75.0,
+    "sentiment_votes_down": 25.0,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 37.76,
-    "recent_tps": 37.76,
-    "recent_tx_count": 3398,
+    "tps_24h_avg": 27.3,
+    "recent_tps": 27.3,
+    "recent_tx_count": 2457,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 105415885,
+    "ledger_seq": 105417929,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-06 15:58:29 KST",
+    "updated_at": "2026-07-06 18:11:23 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 6550000,
     "total_net_inflow_usd": 6550000,
     "total_value_traded_usd": 6550000,
-    "updated_at": "SoSoValue 순유입 부분 수집 07/06 15:58",
+    "updated_at": "SoSoValue 순유입 부분 수집 07/06 18:11",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -128,6 +128,13 @@
       "score": 2
     },
     {
+      "title": "리플, XRPL 중심 RLUSD 발행 확대…공급 균형 재조정",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5PakZoeVNja1pfeUx2LW9KdTJuU2JSQ1hENUwyQ0NuUDZiWGdhVE1TMDBUZ1o0VmhQY21WdThSTm9sS2I0dVhBZWZWei1oUGRBYW92N3paNGdDaFhGNzRRbkluZTRpdXpVdVY3cU0wME1laGc?oc=5",
+      "date": "Mon, 06 Jul 2026 01:56:05 GMT",
+      "source": "디지털투데이",
+      "score": 3
+    },
+    {
       "title": "XRP 반등 신호 커지나…1.90~2.10달러 구간이 분수령",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBkdlZMLWF2M1BMN3I3RkY5NUdYOTFRQ2NIVVFaQ3dBOVNJazkxM3VHQ2JhRDlLWHYwWmdOb0FneUx4YWVBRDFyc2Z3Q0wtQmc0QVRZRFZvZVcyUjhKNVRXOW96NFREdDRfMFlYNWpKcGt6YWs?oc=5",
       "date": "Mon, 06 Jul 2026 01:55:00 GMT",
@@ -154,13 +161,6 @@
       "date": "Sun, 05 Jul 2026 21:20:00 GMT",
       "source": "코인리더스",
       "score": 3
-    },
-    {
-      "title": "속보 | 스트래티지, 3588 BTC 추가 매도",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zRkNGYzZmYk5BVVJYdDRIbkM4dU5ObHpuQzJMWEc4b1dZTTE3S1AyY05EOEhaUm4zNUQ1Tnc2Mnoza19xU0tOSExsd21RZlpw?oc=5",
-      "date": "Sun, 05 Jul 2026 19:59:00 GMT",
-      "source": "CoinNess",
-      "score": 8
     }
   ]
 }
