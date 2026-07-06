@@ -1,51 +1,50 @@
 {
-  "generated_at": "2026-07-06T21:53:27",
+  "generated_at": "2026-07-06T22:59:45",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.15,
-    "price_krw": 1771.86,
-    "price_change_24h": 0.86787,
-    "price_change_7d": 7.56512,
-    "price_change_30d": 6.24234,
-    "market_cap_usd": 71703683364,
+    "price_krw": 1754.23,
+    "price_change_24h": -0.71059,
+    "price_change_7d": 7.92744,
+    "price_change_30d": 5.24891,
+    "market_cap_usd": 71363303280,
     "market_cap_rank": 6,
-    "volume_24h": 1841757765,
+    "volume_24h": 1776542854,
     "circulating_supply": 62241508805.0,
     "total_supply": 99985645029.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 73.39,
-    "sentiment_votes_down": 26.61,
+    "sentiment_votes_up": 71.56,
+    "sentiment_votes_down": 28.44,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 27.68,
-    "recent_tps": 27.68,
-    "recent_tx_count": 2491,
+    "tps_24h_avg": 18.22,
+    "recent_tps": 18.22,
+    "recent_tx_count": 1640,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 105421370,
+    "ledger_seq": 105422406,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-06 21:53:10 KST",
+    "updated_at": "2026-07-06 22:59:39 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
   },
   "etf_flow": {
-    "approved_count": 4,
+    "approved_count": 0,
     "daily_inflow_usd": 0,
     "weekly_inflow_usd": 0,
-    "aum_usd": 6550000,
-    "total_net_inflow_usd": 6550000,
-    "total_value_traded_usd": 6550000,
-    "updated_at": "SoSoValue 순유입 부분 수집 07/06 21:53",
-    "data_source": "sosovalue",
-    "partial": true
+    "aum_usd": 0,
+    "total_net_inflow_usd": 0,
+    "total_value_traded_usd": 0,
+    "updated_at": "뉴스 자동 파싱 대기",
+    "data_source": "news_parse"
   },
   "etf_news": [
     {
@@ -92,6 +91,20 @@
     }
   ],
   "general_news": [
+    {
+      "title": "일본 SBI 회장, ‘13조 베팅’ 리플 XRP 역대급 폭발 확신한 이유",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObkMtbk1NNDhQa1BWLVJXV2o3QzV2bEpBUUhkUVRXMVlOSDk2cE8xYXBmNHVtMzdjcTNjY29ZSjdnS255QThLYmhEOTlYRXYwRHVvMWVUd3VXSHRDODhKRzB6YUU1SUpxTEU4cFdrbWs1TWEzSlJGVEZFRFBsR0sya29UM3ktOVZT?oc=5",
+      "date": "Mon, 06 Jul 2026 22:26:32 GMT",
+      "source": "글로벌이코노믹",
+      "score": 2
+    },
+    {
+      "title": "리플XRP 보합·비트코인 상승·솔스티스 하락, 금리 완화 속 혼조",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5yS3o2dWhIV3d6eHdSdlRsUTlrSXV2ajB6RC1menlyRTNYZl9OTkgxSy1SSXdxUEI3ZFBmM3NzQWdWa2NBYzFNbmN5VmNDc3o2eE4xdFR6TFQtZ1RmM0d0Z0gxd1ZjU0hMSVFOZWU1eFM2UQ?oc=5",
+      "date": "Mon, 06 Jul 2026 22:23:15 GMT",
+      "source": "TopStarNews",
+      "score": 2
+    },
     {
       "title": "세계 첫 리플(XRP) 현물 ETF의 현실…1,000달러 투자금 457달러로 줄었다",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9jTUdRT3dUVUpvcmNQY2Npd2E4Zl9wQV9YV1R6dzJiSVU0SmRVZFJQMHg0VkZvbWR1dzNTUHpBeHlfZ0Vwek5KdUt3?oc=5",
@@ -146,20 +159,6 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBkdlZMLWF2M1BMN3I3RkY5NUdYOTFRQ2NIVVFaQ3dBOVNJazkxM3VHQ2JhRDlLWHYwWmdOb0FneUx4YWVBRDFyc2Z3Q0wtQmc0QVRZRFZvZVcyUjhKNVRXOW96NFREdDRfMFlYNWpKcGt6YWs?oc=5",
       "date": "Mon, 06 Jul 2026 01:55:00 GMT",
       "source": "디지털투데이",
-      "score": 2
-    },
-    {
-      "title": "XRP, 볼린저 밴드 상향 돌파…AI 결제 폭발에 반등 기대감",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHVVI0UXg2d250VFE2RFp3TzlYb0lHWUJ4ek4zb2QwbnR1QlZ4dVZ4a1FVdW5YT21rQ0VNbmVhNlJnanBneFBQTFlPZFI0RXVGenUw?oc=5",
-      "date": "Mon, 06 Jul 2026 00:26:00 GMT",
-      "source": "네이트",
-      "score": 2
-    },
-    {
-      "title": "리플XRP·솔스티스·비트코인 하락…금리 부담 속 혼조",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1rOE5kTTNMZlV0NVF0ZUtoNTI1TElHZ2JIOEtMQ2VkTm05azhYS3FTbXhEZkZNSVRzRU80Qm1xd2wzMmVScDlJYW5FMDNvX3Q4YTRUTGVVSUR2VzhrTXF0djFUN3ZPb0NPZzQyeldFZEdtZw?oc=5",
-      "date": "Sun, 05 Jul 2026 22:26:05 GMT",
-      "source": "TopStarNews",
       "score": 2
     }
   ]
