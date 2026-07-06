@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-05T23:59:32",
+  "generated_at": "2026-07-06T03:51:02",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.16,
-    "price_krw": 1768.14,
-    "price_change_24h": -0.03963,
-    "price_change_7d": 11.19171,
-    "price_change_30d": 3.97139,
-    "market_cap_usd": 71972911464,
+    "price_usd": 1.14,
+    "price_krw": 1752.89,
+    "price_change_24h": 0.54812,
+    "price_change_7d": 9.46264,
+    "price_change_30d": 4.22745,
+    "market_cap_usd": 71174965801,
     "market_cap_rank": 6,
-    "volume_24h": 1267735114,
+    "volume_24h": 1140807818,
     "circulating_supply": 62241508805.0,
     "total_supply": 99985645029.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 66.15,
-    "sentiment_votes_down": 33.85,
+    "sentiment_votes_up": 66.18,
+    "sentiment_votes_down": 33.82,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 23.7,
-    "recent_tps": 23.7,
-    "recent_tx_count": 2133,
+    "tps_24h_avg": 17.6,
+    "recent_tps": 17.6,
+    "recent_tx_count": 1584,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 105401087,
+    "ledger_seq": 105404668,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-05 23:59:19 KST",
+    "updated_at": "2026-07-06 03:50:52 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 6550000,
     "total_net_inflow_usd": 6550000,
     "total_value_traded_usd": 6550000,
-    "updated_at": "SoSoValue 순유입 부분 수집 07/05 23:59",
+    "updated_at": "SoSoValue 순유입 부분 수집 07/06 03:51",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -56,17 +56,17 @@
       "score": 0
     },
     {
+      "title": "XRP 현물 ETF 이번 주 순유입 1719 만 달러",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9BTEJfM0RCdmcwYm1pWFFaNmF3aDZTZG1sS3N3NFBTdm5ZcDQyTy1Dcjh1R2F1VXNCYlgzMHppQVlHcXlwb3VUNmdKU3RBYWEwQlFmdA?oc=5",
+      "date": "Sun, 05 Jul 2026 11:43:00 GMT",
+      "source": "odaily.news",
+      "score": 0
+    },
+    {
       "title": "돈 둔화됐다더니 착시였네... 리플 ETF 자금 재가동에 공매도 세력 연쇄 청산 비상",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTYmw2SlpuZWZNRHVJSnpFVHBodW1tVGRqSWdfNnRzbjN4aXZMRUJPMEJTa096RUNuOWFuTUo0X3Y1YWZxNUFrTElKUHozM0t0Y0oxcXVpSllmNUhOdjE5bW1wN0NlNUlSakhSNzhJVzk3UjjSAXdBVV95cUxNVWl6MVBvNUdZRWtXakhCRWxpYzhSY2pLV2tyVVZaUm1VWUJPRWt0RlZkSXZhSURJdDZZaU9ZYmlYYjQ4VUNKMmJhS3JOUjJSdmlldEhRdlc1VVR4VHRhVjA1Yk00SFp1Q2ZOaEY0bWNRRmFkR0xxSQ?oc=5",
       "date": "Sun, 05 Jul 2026 08:40:22 GMT",
       "source": "핀포인트뉴스",
-      "score": 0
-    },
-    {
-      "title": "엑스알피, 하루 새 5% 급등… ‘클래리티 법안’ 진전·ETF 기대감에 랠리",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAyVkRfMXN0dXBUbXZQX05xbnB6M25UNlpyNk1XTkNsZ3VKTGRieU1qQVhoYnhWTjFyd1AwR1ZMX0pJOWprYUg5Tnl4Y3NZZVZXSG5hb0JnejY?oc=5",
-      "date": "Sat, 04 Jul 2026 19:24:00 GMT",
-      "source": "블록미디어",
       "score": 0
     },
     {
@@ -93,6 +93,13 @@
   ],
   "general_news": [
     {
+      "title": "리플, XRPL 중심 RLUSD 발행 확대…공급 균형 재조정",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5PakZoeVNja1pfeUx2LW9KdTJuU2JSQ1hENUwyQ0NuUDZiWGdhVE1TMDBUZ1o0VmhQY21WdThSTm9sS2I0dVhBZWZWei1oUGRBYW92N3paNGdDaFhGNzRRbkluZTRpdXpVdVY3cU0wME1laGc?oc=5",
+      "date": "Mon, 06 Jul 2026 01:56:05 GMT",
+      "source": "디지털투데이",
+      "score": 3
+    },
+    {
       "title": "리플XRP·솔스티스·비트코인 하락…금리 부담 속 혼조",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1rOE5kTTNMZlV0NVF0ZUtoNTI1TElHZ2JIOEtMQ2VkTm05azhYS3FTbXhEZkZNSVRzRU80Qm1xd2wzMmVScDlJYW5FMDNvX3Q4YTRUTGVVSUR2VzhrTXF0djFUN3ZPb0NPZzQyeldFZEdtZw?oc=5",
       "date": "Sun, 05 Jul 2026 22:26:05 GMT",
@@ -107,10 +114,10 @@
       "score": 3
     },
     {
-      "title": "XRP, 전 세계 220만개 호텔 예약 결제 지원",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE13TVhtaUhLNkVPZUNocFZQQUJjRFJiWWNrcklBVW03Z0toZXg1V2hqQXp5UURCNE1mU19oWTJDZEdrRThzSV8xXzUza0I2Q1MzaWZRelYyLWoxbVZWTWVSTDNxWTFxVjF1c1VKeHdGMjNvT3M?oc=5",
-      "date": "Sun, 05 Jul 2026 11:55:44 GMT",
-      "source": "디지털투데이",
+      "title": "XRP로 전 세계 220만 호텔 예약한다… 여행·AI 결제 영토 확장, '실생활 채택' 붐 불붙나",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMGpGbG9ld2ZablNHWkZIOUJ3WEtBZkRzZE5rSWFTZF9XOE1uOHFpLTZSbWlIeHNYZ0lTMEpaeXh1a2k4emstbERmUlpYYUtIdURCVU94R05SUXBrZ1EzMENWUmg4REk0Z3MxYXh2SzRWYVVERm1vZy1tbVNiVHo0bHdlSkQybzBo?oc=5",
+      "date": "Sun, 05 Jul 2026 18:38:17 GMT",
+      "source": "글로벌이코노믹",
       "score": 2
     },
     {
@@ -135,31 +142,24 @@
       "score": 2
     },
     {
-      "title": "美 백악관 상황실장 XRP 보유 확인... 암호화폐 커뮤니티 '들썩'",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWEhqSXZMelZ6OXZxWGZhb202Wkp0ZUNieXlGeUZtX2RXVi1SRFZTUm9kVS1Qc21BU3FoZmpIVmJ3T3Y2Q0xWcWVwNVJHVWhpRVQtVlctXzZfRElPcTVhNXd3SC1XVXItSFNiT0VIVlVxc2hEVndLYzRYZWtzUU5Vdk9jTUlNTk1m?oc=5",
-      "date": "Sat, 04 Jul 2026 22:28:57 GMT",
+      "title": "\"XRP 에스크로 32.5% 미만 '뚝'…비트코인 진영 '중앙집중화' 주장 일축\"",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQY0ZiYlc0dGp0NERxOEFmUElZajQzVWU3UEJ1Zk1Bek5IekZJNTJYZlVoODdHSUZtbmNlSHZPSi0yX25NbENsc1d3UDlobGl2Nk56and0MWdraVkzMHhtTUR0eUNiZGRMdi1aekZIei0xajYyNFBhWm52TlA1cVpQMzRtTFJNQQ?oc=5",
+      "date": "Sun, 05 Jul 2026 03:45:31 GMT",
       "source": "글로벌이코노믹",
       "score": 2
     },
     {
-      "title": "속보 | BTC $63,000 상회",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1HU2d0bzNHM2FCVk9sTm5ydHQwVDlJOEdUdHV5blJ2N3dPbWI4VmtlS3dfLUtPd3FEWDY2X3otbzNnYkZaREo4Wg?oc=5",
-      "date": "Fri, 03 Jul 2026 23:10:00 GMT",
-      "source": "CoinNess",
-      "score": 8
+      "title": "리플XRP·미라네트워크 상승, 솔스티스 급락…거래대금 87%↑",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBqcV9TVUZlOVFEdzl1cWpnZWJYd0dxYTZMbG9oU3ZpRUhOcXRQVTE2eUFyUmdqc3RmSW5pWXJLWHlra29jdElJVkgxYmdsM3U5UG1IUzFoMDlzaDZnYm1mUFZabXlsVXdQZldnSFJQdUdqZw?oc=5",
+      "date": "Sat, 04 Jul 2026 22:59:48 GMT",
+      "source": "TopStarNews",
+      "score": 2
     },
     {
-      "title": "리플(XRP) 현물 ETF는 사는데 왜 가격은 안 오를까? 핵심 변수는 '클래러티법'",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBNMUFpendkZmJ1NGFtZ2tBeUNScjFNWGVfWmhvTlBDeHRuNHliWkdqdXk3ZWRuYTRwS0pydlBzbmhCVjR0Vnl5aFhB?oc=5",
-      "date": "Fri, 03 Jul 2026 22:32:00 GMT",
-      "source": "코인리더스",
-      "score": 4
-    },
-    {
-      "title": "댓글 : 7월 4일 05:40분 XRP 분석( 현재 흐름, 단기전망)",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd3g1VHlyMm1QWFpJbHdoclR3cFZVZmdVVHE0bkxvSEd2SWhUWWxZT2JUelV2azNmLThCRmFVTGtHbDhnTnVaTEt1NEN4ckt5UzB4bVVhMUtYVjFPZlE4VFFqZkpJN19MV1BqRUZJVjlyM2hKYmFsWjU5Z1pZSXNGWXU2V0NqWEFV?oc=5",
-      "date": "Fri, 03 Jul 2026 20:42:00 GMT",
-      "source": "네이버 프리미엄콘텐츠",
+      "title": "美 백악관 상황실장 XRP 보유 확인... 암호화폐 커뮤니티 '들썩'",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWEhqSXZMelZ6OXZxWGZhb202Wkp0ZUNieXlGeUZtX2RXVi1SRFZTUm9kVS1Qc21BU3FoZmpIVmJ3T3Y2Q0xWcWVwNVJHVWhpRVQtVlctXzZfRElPcTVhNXd3SC1XVXItSFNiT0VIVlVxc2hEVndLYzRYZWtzUU5Vdk9jTUlNTk1m?oc=5",
+      "date": "Sat, 04 Jul 2026 22:28:57 GMT",
+      "source": "글로벌이코노믹",
       "score": 2
     }
   ]
