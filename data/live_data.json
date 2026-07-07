@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-07T08:16:22",
+  "generated_at": "2026-07-07T11:22:28",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.13,
-    "price_krw": 1713.69,
-    "price_change_24h": -1.78499,
-    "price_change_7d": 7.62074,
-    "price_change_30d": -0.81554,
-    "market_cap_usd": 70064216928,
+    "price_usd": 1.12,
+    "price_krw": 1695.23,
+    "price_change_24h": -1.80466,
+    "price_change_7d": 7.61078,
+    "price_change_30d": -1.22256,
+    "market_cap_usd": 69706580145,
     "market_cap_rank": 6,
-    "volume_24h": 1726643400,
+    "volume_24h": 1731255547,
     "circulating_supply": 62241508805.0,
     "total_supply": 99985645029.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 67.35,
-    "sentiment_votes_down": 32.65,
+    "sentiment_votes_up": 68.09,
+    "sentiment_votes_down": 31.91,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 16.35,
-    "recent_tps": 16.35,
-    "recent_tx_count": 1455,
+    "tps_24h_avg": 17.71,
+    "recent_tps": 17.71,
+    "recent_tx_count": 1576,
     "recent_ledger_count": 24,
     "recent_window_sec": 89,
-    "ledger_seq": 105431117,
+    "ledger_seq": 105434034,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-07 08:16:15 KST",
+    "updated_at": "2026-07-07 11:22:14 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -47,6 +47,13 @@
     "data_source": "news_parse"
   },
   "etf_news": [
+    {
+      "title": "XRP(리플), 40억 달러 뭉칫돈 유입...RWA·결제 인프라 날개 달고 진격",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE96X3M2WXI3cVNYaHMtOElGcFlVcDBUYkdDMjFWeVFGNTdsakpBVEJQczVxYmhZVThiX0ZtNGtGUjI0ODEyMzJrUzB3?oc=5",
+      "date": "Tue, 07 Jul 2026 10:40:00 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
     {
       "title": "리플(XRP), 기관 자금 몰리나…\"RWA 토큰화·ETF·신규 지갑 모두 증가\"",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5aSElGZVMtMDZvMGhCa0Jud0hZQkJRbzJyMFI2Z3dKYnNxbHg1WmRIRERJQmRoTFZTSHJrTnhpYzk1bkRIaVp0YlR1djVLNnN4UnQzMHdZRjZ6aUJoZE9wTUR2amdfUHc?oc=5",
@@ -69,13 +76,6 @@
       "score": 0
     },
     {
-      "title": "대형 코인은 '버티기' 돌입...XRP(리플), 나홀로 9주 연속 기관 자금 순유입",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBOQXA5OFAwVDE4a3ZOLVgxbC1lSGhETUdkNjRnOWdvUXdXTTV2ZnVmdXg2WkNiTUUzRFoza1N0VzRSdEc5UzBqelhn?oc=5",
-      "date": "Mon, 06 Jul 2026 12:40:00 GMT",
-      "source": "코인리더스",
-      "score": 0
-    },
-    {
       "title": "세계 첫 리플(XRP) 현물 ETF의 현실…1,000달러 투자금 457달러로 줄었다",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9jTUdRT3dUVUpvcmNQY2Npd2E4Zl9wQV9YV1R6dzJiSVU0SmRVZFJQMHg0VkZvbWR1dzNTUHpBeHlfZ0Vwek5KdUt3?oc=5",
       "date": "Mon, 06 Jul 2026 12:22:00 GMT",
@@ -91,6 +91,13 @@
     }
   ],
   "general_news": [
+    {
+      "title": "XRP(리플), 40억 달러 뭉칫돈 유입...RWA·결제 인프라 날개 달고 진격",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE96X3M2WXI3cVNYaHMtOElGcFlVcDBUYkdDMjFWeVFGNTdsakpBVEJQczVxYmhZVThiX0ZtNGtGUjI0ODEyMzJrUzB3?oc=5",
+      "date": "Tue, 07 Jul 2026 10:40:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
     {
       "title": "리플(XRP), 기관 자금 몰리나…\"RWA 토큰화·ETF·신규 지갑 모두 증가\"",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5aSElGZVMtMDZvMGhCa0Jud0hZQkJRbzJyMFI2Z3dKYnNxbHg1WmRIRERJQmRoTFZTSHJrTnhpYzk1bkRIaVp0YlR1djVLNnN4UnQzMHdZRjZ6aUJoZE9wTUR2amdfUHc?oc=5",
@@ -152,13 +159,6 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96OXVxdklhVjhjU0lUUTBTVEw4b3YwVmRuZnVLZ0JpbndjeEUzYnNrai1HNTk3aloyS20yQ1pUODVCZnhWV2VQcUIzTzBUT2FqN29RRWs5bmdyRWd4bkFrOXdqcElnQmp5by1XZEl5RdIBc0FVX3lxTE1BYWFwZHVtWHViMko4QU9IVE9HYTMwdXhTcHNHTXhSdVM1UGR1OWkxSldCTDhlcWFjVEtOQzdXcE50a2pqZmdoaVZhUUhGdjdjbGRoS3FIU3ctMmRrdGxRbDZaRUxqRTlFU0lENl9iOFhXOFU?oc=5",
       "date": "Mon, 06 Jul 2026 12:00:00 GMT",
       "source": "시사저널",
-      "score": 2
-    },
-    {
-      "title": "리플, 오늘 EU CASP 정식 승인 확보... MiCA 시대 유럽 결제 인프라 판을 새로 짜다",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZFZQeG5JYkNLMUJpaUVheno2NGswMklKVkFFM2lwVDRvWEYtU0trNzk5WFl1WHVsT205QVhXODFOZkJOREFRYmliYmtVQmoxUlpYUHkzb1daVGtlX29fZFhVYXZOVXI1MG9QeDdpN0VWVlRmZjBjd3U2X1RtUkdudFd6bDV4bDNoX2ZqSg?oc=5",
-      "date": "Mon, 06 Jul 2026 10:51:00 GMT",
-      "source": "네이버 프리미엄콘텐츠",
       "score": 2
     }
   ]
