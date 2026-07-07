@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-07T21:50:44",
+  "generated_at": "2026-07-07T22:53:43",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.11,
-    "price_krw": 1685.6,
-    "price_change_24h": -3.22072,
-    "price_change_7d": 6.70965,
-    "price_change_30d": -0.8759,
-    "market_cap_usd": 69320281728,
+    "price_krw": 1687.69,
+    "price_change_24h": -2.90823,
+    "price_change_7d": 7.23429,
+    "price_change_30d": -1.02173,
+    "market_cap_usd": 69634084842,
     "market_cap_rank": 6,
-    "volume_24h": 1409267093,
-    "circulating_supply": 62241508805.0,
-    "total_supply": 99985645029.0,
+    "volume_24h": 1342559073,
+    "circulating_supply": 62466503703.0,
+    "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 59.21,
-    "sentiment_votes_down": 40.79,
+    "sentiment_votes_up": 57.14,
+    "sentiment_votes_down": 42.86,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 34.29,
-    "recent_tps": 34.29,
-    "recent_tx_count": 3086,
+    "tps_24h_avg": 14.0,
+    "recent_tps": 14.0,
+    "recent_tx_count": 1246,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 105443787,
+    "recent_window_sec": 89,
+    "ledger_seq": 105444766,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-07 21:50:36 KST",
+    "updated_at": "2026-07-07 22:53:33 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -48,6 +48,13 @@
   },
   "etf_news": [
     {
+      "title": "19개월 최저가 딛고 반등! 리플(XRP)에 다시 희망이 켜졌다",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE43NEN1eUJ1akstVVJmVzFiWnMxcldXa1BlcnhsZU43X21OYWhpNVJjNnVvSHd2RFpLeVF4cjQtQWVSZk1tbkxVX0pn?oc=5",
+      "date": "Tue, 07 Jul 2026 21:51:00 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
+    {
       "title": "비트와이즈 XRP ETF, 순유입 5억 달러 돌파...규제 풀리니 기관 자금 폭주",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBzSWQ0SG9XZlI2SG9aVUFZZGQzNXUzdXBxcXlncWs1ZUkwSlo3SS1Hc2lFV3pWT25nS3J5dHJMdGNQNkJ1TkhYM3Jn?oc=5",
       "date": "Tue, 07 Jul 2026 18:20:00 GMT",
@@ -62,13 +69,6 @@
       "score": 0
     },
     {
-      "title": "리플(XRP), 기관 자금 몰리나…\"RWA 토큰화·ETF·신규 지갑 모두 증가\"",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9STkhXb3Mwa0w0eWh0TS1GMG9QS2dYVGwtSlo2WnI1UEVEWmNGbmlHZUQxU2xGQmhVMTk3YzVHZE1CU0o0Z1ppQnk0N3B4QVFaaUxxSUFiN2E2c25ocG0yMG1ZRGY4Mnd2?oc=5",
-      "date": "Tue, 07 Jul 2026 08:04:49 GMT",
-      "source": "CBC뉴스",
-      "score": 0
-    },
-    {
       "title": "SOL·HYPE 현물 ETF 순유입...XRP는 변동 없어",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE43eU5EdFVoRUE0QUlENUg4aEU0RW1tVzdfQ3pyZWNqM2ZIUTNBbHBSNzlzekZPWmNaWWJqMElVUlpxeXZtYmtuaHpn?oc=5",
       "date": "Tue, 07 Jul 2026 05:37:51 GMT",
@@ -77,7 +77,7 @@
     },
     {
       "title": "미국 XRP 현물 ETF, 하루 655만달러 순유입",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XamtUY2RJS3hNMTZtS1B2OHF3cndaS0VLOGE5NEs0a01Lb3kxeEVzendURnRfQnZVS2lJcUtRTW8xaWxSVm1DVEtTaGpZemI1Z2E3dnotVEvSAV5BVV95cUxQOGFtWmxKVVdwWWVtLUk0NV94aXB6dmlJRXE3Vmdva3dIZ1JUaFNoR2lTSndETjlGVFhZNjlHU0xWYmpOVUIwVkFVVElyMlBSSGpGRlF4UHo0LVBtSGV3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4YW1abEpVV3BZZW0tSTQ1X3hpcHp2aUlFcTdWZ29rd0hnUlRoU2hHaVNKd0ROOUZUWFk2OUdTTFZiak5VQjBWQVVUSXIyUFJIakZGUXhQejQtUG1IZXfSAV5BVV95cUxQOGFtWmxKVVdwWWVtLUk0NV94aXB6dmlJRXE3Vmdva3dIZ1JUaFNoR2lTSndETjlGVFhZNjlHU0xWYmpOVUIwVkFVVElyMlBSSGpGRlF4UHo0LVBtSGV3?oc=5",
       "date": "Tue, 07 Jul 2026 04:33:30 GMT",
       "source": "tokenpost.kr",
       "score": 0
@@ -92,6 +92,20 @@
   ],
   "general_news": [
     {
+      "title": "비트코인·리플XRP·오픈그라디언트 하락, 금리·중동 리스크 부담",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE05UXRWQXBkd1VVeV9WRUVmTFJKTVJ5Q25Fa1hURi13NHdRU3p3Um1uZTBzNmxMa1NwUF9MLXNEWUFoNGNOa3U4YVhhOGd1NTUzSXBkMkNrWHBGdVJrQUtQSHRRemd2ekNNU1FjRkFNaGxrQQ?oc=5",
+      "date": "Tue, 07 Jul 2026 22:22:36 GMT",
+      "source": "TopStarNews",
+      "score": 2
+    },
+    {
+      "title": "19개월 최저가 딛고 반등! 리플(XRP)에 다시 희망이 켜졌다",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE43NEN1eUJ1akstVVJmVzFiWnMxcldXa1BlcnhsZU43X21OYWhpNVJjNnVvSHd2RFpLeVF4cjQtQWVSZk1tbkxVX0pn?oc=5",
+      "date": "Tue, 07 Jul 2026 21:51:00 GMT",
+      "source": "코인리더스",
+      "score": 3
+    },
+    {
       "title": "\"리플(XRP) 대항마의 반란\"...스텔라(XLM), 실물 자산 토큰화 30억 달러 돌파",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBoZDU4OHRTeUdIdkZlMlR6MGZseFlaTVIyRzdGZEVrcEIwN01teWttZ0FJdE1paGZrdDVnV2V6bTlCX0hDdGNmVERn?oc=5",
       "date": "Tue, 07 Jul 2026 17:40:00 GMT",
@@ -103,6 +117,13 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOHJtOWFzcVV5VVRTS3RxcmxzdTN2MGVBdzZRT1RDSEVNZU9wbWU2VFBGNnFldGVNQUZiMzlOSV9KaXQ2emVIZ2d1Mk1wb1JXeDlvRXhEcEU3d04zZVdZUkdoZTE3akNLTTh4cXhqN1dBN2podEVSQWRCZ3Q1dU1SS0VHUE03bnVEVFJxUQ?oc=5",
       "date": "Tue, 07 Jul 2026 13:13:02 GMT",
       "source": "네이버 프리미엄콘텐츠",
+      "score": 2
+    },
+    {
+      "title": "XRP 현재 가격과 시장 상황: 리플의 규제 환경 변화와 상승 잠재력",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96WXdiOEpSRHhQZmMzeFRNZmlHZVEwSVpnc1pHaVBkU29yVGVsMEcwby0yUUNxZVJFMFJhVVBSMkh1M3B4b2ZiTVdxZk5RdmdxR0c4ZzRJN2Z2NXZyR3JkMNIBZkFVX3lxTE9MbFAtbDNLWEs5UjljWVg4Y0JRZ3BDMHFCZHF1VndJS3Z0QUgyekdHeE0zWnh3QTZHczhqYTMwQXFlekxIdzdKLVRxQVV1aGl0eW54UWUxWUM5Z2YtWkwwa3lqRDUyZw?oc=5",
+      "date": "Tue, 07 Jul 2026 13:07:38 GMT",
+      "source": "tokenpost.kr",
       "score": 2
     },
     {
@@ -134,31 +155,10 @@
       "score": 3
     },
     {
-      "title": "속보 | 미 SEC, 2026 규제 계획에 암호화폐 관련 세가지 안건 포함",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE50T1lVdHloRVdwS0RST2ZRLUFYaHpvTHJwN012OUFnTjl5bF9kWVY2NzF2SlBCUEx2YnluSTY2cjZrSVg2TUlUbDg0ak9FSS1x?oc=5",
-      "date": "Mon, 06 Jul 2026 23:13:00 GMT",
-      "source": "CoinNess",
-      "score": 9
-    },
-    {
       "title": "일본 SBI 회장, ‘13조 베팅’ 리플 XRP 역대급 폭발 확신한 이유",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObkMtbk1NNDhQa1BWLVJXV2o3QzV2bEpBUUhkUVRXMVlOSDk2cE8xYXBmNHVtMzdjcTNjY29ZSjdnS255QThLYmhEOTlYRXYwRHVvMWVUd3VXSHRDODhKRzB6YUU1SUpxTEU4cFdrbWs1TWEzSlJGVEZFRFBsR0sya29UM3ktOVZT?oc=5",
       "date": "Mon, 06 Jul 2026 22:26:32 GMT",
       "source": "글로벌이코노믹",
-      "score": 2
-    },
-    {
-      "title": "리플XRP 보합·비트코인 상승·솔스티스 하락, 금리 완화 속 혼조",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5yS3o2dWhIV3d6eHdSdlRsUTlrSXV2ajB6RC1menlyRTNYZl9OTkgxSy1SSXdxUEI3ZFBmM3NzQWdWa2NBYzFNbmN5VmNDc3o2eE4xdFR6TFQtZ1RmM0d0Z0gxd1ZjU0hMSVFOZWU1eFM2UQ?oc=5",
-      "date": "Mon, 06 Jul 2026 22:23:15 GMT",
-      "source": "TopStarNews",
-      "score": 2
-    },
-    {
-      "title": "“리플은 아예 끼지도 못했다”...충격적인 스테이블코인 퇴출, 개미들 통곡의 밤",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDbWZzdktfa3V0MWxQcTVzMWQ2V3ltQ0RHY1FBR3hROVpja092emFFd3V4RVZOTXVjdS01MC04RkRyTzFsSzJqb3BzQlh6SmZnMTM3b0RvQ1VlZmo2SWdraTFrMFNPeVVtdVRfdFhXUHFHdlXSAXdBVV95cUxNM3lERnREbVhMQjBiZGRZX3FmTFdqV1ppTDNmNTdUUi1mTFlCeWJncXFDUWZtTWlLSEpNOFFVRDdlWjcxNmRQc1RCZjV3dUVTZkRBRzgxQV9LWkRrRDh4Znp1TGNQcHpra2VGMGotQ2ZoNVNqZk11cw?oc=5",
-      "date": "Mon, 06 Jul 2026 21:59:17 GMT",
-      "source": "핀포인트뉴스",
       "score": 2
     }
   ]
