@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-07T20:22:50",
+  "generated_at": "2026-07-07T21:50:44",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.12,
-    "price_krw": 1697.05,
-    "price_change_24h": -1.90414,
-    "price_change_7d": 7.3547,
-    "price_change_30d": -0.2767,
-    "market_cap_usd": 69752650071,
+    "price_usd": 1.11,
+    "price_krw": 1685.6,
+    "price_change_24h": -3.22072,
+    "price_change_7d": 6.70965,
+    "price_change_30d": -0.8759,
+    "market_cap_usd": 69320281728,
     "market_cap_rank": 6,
-    "volume_24h": 1404440538,
+    "volume_24h": 1409267093,
     "circulating_supply": 62241508805.0,
     "total_supply": 99985645029.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 60.47,
-    "sentiment_votes_down": 39.53,
+    "sentiment_votes_up": 59.21,
+    "sentiment_votes_down": 40.79,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 20.18,
-    "recent_tps": 20.18,
-    "recent_tx_count": 1796,
+    "tps_24h_avg": 34.29,
+    "recent_tps": 34.29,
+    "recent_tx_count": 3086,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 105442426,
+    "recent_window_sec": 90,
+    "ledger_seq": 105443787,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-07 20:22:42 KST",
+    "updated_at": "2026-07-07 21:50:36 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -106,13 +106,6 @@
       "score": 2
     },
     {
-      "title": "리플(XRP), 기관 자금 몰리나…\"RWA 토큰화·ETF·신규 지갑 모두 증가\"",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9STkhXb3Mwa0w0eWh0TS1GMG9QS2dYVGwtSlo2WnI1UEVEWmNGbmlHZUQxU2xGQmhVMTk3YzVHZE1CU0o0Z1ppQnk0N3B4QVFaaUxxSUFiN2E2c25ocG0yMG1ZRGY4Mnd2?oc=5",
-      "date": "Tue, 07 Jul 2026 08:04:49 GMT",
-      "source": "CBC뉴스",
-      "score": 4
-    },
-    {
       "title": "“리플은 실질 가치 부족 코인” 암호화폐 업계 괴물 비트맥스·카르다노 창업자 작심 발언",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NZWdpZ2JzVlloN2poRVJFYzdOaFdHOTNfUVBDaVBSbnBFbEt0Vm55MEdic1RULWU0TDV2N1dJaVMwbjZEYTdrZV8zbEROSmJyWlBrdXJB?oc=5",
       "date": "Tue, 07 Jul 2026 06:21:00 GMT",
@@ -139,6 +132,13 @@
       "date": "Tue, 07 Jul 2026 00:03:10 GMT",
       "source": "디지털투데이",
       "score": 3
+    },
+    {
+      "title": "속보 | 미 SEC, 2026 규제 계획에 암호화폐 관련 세가지 안건 포함",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE50T1lVdHloRVdwS0RST2ZRLUFYaHpvTHJwN012OUFnTjl5bF9kWVY2NzF2SlBCUEx2YnluSTY2cjZrSVg2TUlUbDg0ak9FSS1x?oc=5",
+      "date": "Mon, 06 Jul 2026 23:13:00 GMT",
+      "source": "CoinNess",
+      "score": 9
     },
     {
       "title": "일본 SBI 회장, ‘13조 베팅’ 리플 XRP 역대급 폭발 확신한 이유",
