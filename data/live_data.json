@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-07T11:22:28",
+  "generated_at": "2026-07-07T13:31:20",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.12,
-    "price_krw": 1695.23,
-    "price_change_24h": -1.80466,
-    "price_change_7d": 7.61078,
-    "price_change_30d": -1.22256,
-    "market_cap_usd": 69706580145,
+    "price_krw": 1697.54,
+    "price_change_24h": 0.94687,
+    "price_change_7d": 8.14004,
+    "price_change_30d": -1.48918,
+    "market_cap_usd": 69789121137,
     "market_cap_rank": 6,
-    "volume_24h": 1731255547,
+    "volume_24h": 1594454386,
     "circulating_supply": 62241508805.0,
     "total_supply": 99985645029.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 68.09,
-    "sentiment_votes_down": 31.91,
+    "sentiment_votes_up": 68.04,
+    "sentiment_votes_down": 31.96,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 17.71,
-    "recent_tps": 17.71,
-    "recent_tx_count": 1576,
+    "tps_24h_avg": 25.95,
+    "recent_tps": 25.95,
+    "recent_tx_count": 2128,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 105434034,
+    "recent_window_sec": 82,
+    "ledger_seq": 105436044,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-07 11:22:14 KST",
+    "updated_at": "2026-07-07 13:31:10 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,11 +92,25 @@
   ],
   "general_news": [
     {
+      "title": "리플이 밀어주는 에버노스, XRP를 '기업 준비자산'으로 만드는 판이 시작됐습니다",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOHJtOWFzcVV5VVRTS3RxcmxzdTN2MGVBdzZRT1RDSEVNZU9wbWU2VFBGNnFldGVNQUZiMzlOSV9KaXQ2emVIZ2d1Mk1wb1JXeDlvRXhEcEU3d04zZVdZUkdoZTE3akNLTTh4cXhqN1dBN2podEVSQWRCZ3Q1dU1SS0VHUE03bnVEVFJxUQ?oc=5",
+      "date": "Tue, 07 Jul 2026 13:07:30 GMT",
+      "source": "네이버 프리미엄콘텐츠",
+      "score": 2
+    },
+    {
+      "title": "댓글 : 2017년 XRP 상승구간 (17/03~17/12월구간) 유동성 지표 비교 분석 및 앞으로 예측",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT3NGZXRQdVF0Vl9vb1ZkMU1UX3VobWZINWM0d3pMTTRYUXdfSllhandTSGNRRG10bkV3eEgxOFpDTS1oRnUyRVQ5b3Rhdjh4UVRCUjEyYnZ3RWtwS1NIQzFkVTR0cENFR1ZaQnAxQzdQRlgwWGg1ek1xY0pINWZEQXg1UmhjSmFr?oc=5",
+      "date": "Tue, 07 Jul 2026 11:31:00 GMT",
+      "source": "네이버 프리미엄콘텐츠",
+      "score": 2
+    },
+    {
       "title": "XRP(리플), 40억 달러 뭉칫돈 유입...RWA·결제 인프라 날개 달고 진격",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE96X3M2WXI3cVNYaHMtOElGcFlVcDBUYkdDMjFWeVFGNTdsakpBVEJQczVxYmhZVThiX0ZtNGtGUjI0ODEyMzJrUzB3?oc=5",
       "date": "Tue, 07 Jul 2026 10:40:00 GMT",
       "source": "코인리더스",
-      "score": 2
+      "score": 3
     },
     {
       "title": "리플(XRP), 기관 자금 몰리나…\"RWA 토큰화·ETF·신규 지갑 모두 증가\"",
@@ -106,17 +120,17 @@
       "score": 4
     },
     {
-      "title": "리플(XRP), 구간 저항선 돌파 후 지지력 시험…거래량 급증에 시장 관심",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5IcjRMd0hZQVZubGljLWkxZ0QzMkk3c3NocXEtOEFvTzVmU1kzdzBYRjlmMUljajZCd1RUT3lvZk55eVViQmxMZ3V6Z2JZbVBpWXB6QXNvenl4OGw2S1Y1cEJ0SkNxajBSd0JhMEF1SFU?oc=5",
-      "date": "Tue, 07 Jul 2026 05:58:02 GMT",
-      "source": "블록체인투데이",
-      "score": 2
-    },
-    {
       "title": "리플, 달러 스테이블코인 ‘RLUSD’ 기습 장전…판도 변화 초읽기",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1POGxXMmNiRnVMOXlONDM0NlE2UGhMQXZEQk1YZ05LQm1RdS1iQzZHQlBhRFNod1hYalQ3MGVWZGNrUGxYX0pOa2Z0aVptb29pd2pQZldHQ0RXOFZ0bXZIRXdrMVVXSmczVmtIUjR4THQ3bTTSAXdBVV95cUxQV2VyTWlqVFpqZXUxWWVyeG5hb3YxaTQtLXRNNmE1dVFEVHh1MHZBWmJMUk5mOVREaXRmZUZVNEVvMmNRcER1VktpY0ZTR2F5TUwwbUVIV3UwcHBuaTlYYnc2d04wR28xQXFBUmM1TnBZbndReGU5QQ?oc=5",
       "date": "Tue, 07 Jul 2026 05:34:01 GMT",
       "source": "핀포인트뉴스",
+      "score": 2
+    },
+    {
+      "title": "리플, 유럽 MiCA 완벽 준수…XRP 기반 결제 영토 확장",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUWdWQWFBX3hmWENVdXJSUVJpU1J1a0RLYXNSVmprWnlKME52UThfcXg5U0lXV0JKYVFuTXNGMm1xYWRXMHMxaWxfZGhQdDYwVmQzUnRqX21xOE1JMm9XQmJJVklIbmlWb3Bxalp2TlN0MDJfMFBnX0doTXM3bkY4UUF2blNIUTVa?oc=5",
+      "date": "Tue, 07 Jul 2026 02:11:57 GMT",
+      "source": "글로벌이코노믹",
       "score": 2
     },
     {
@@ -146,20 +160,6 @@
       "date": "Mon, 06 Jul 2026 13:52:00 GMT",
       "source": "CoinNess",
       "score": 9
-    },
-    {
-      "title": "세계 첫 리플(XRP) 현물 ETF의 현실…1,000달러 투자금 457달러로 줄었다",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9jTUdRT3dUVUpvcmNQY2Npd2E4Zl9wQV9YV1R6dzJiSVU0SmRVZFJQMHg0VkZvbWR1dzNTUHpBeHlfZ0Vwek5KdUt3?oc=5",
-      "date": "Mon, 06 Jul 2026 12:22:00 GMT",
-      "source": "코인리더스",
-      "score": 4
-    },
-    {
-      "title": "“연 55.5% 보장” XRP 스테이킹 사이트, 또 등장했다…리플 스테이킹 사기와 동일 수법",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96OXVxdklhVjhjU0lUUTBTVEw4b3YwVmRuZnVLZ0JpbndjeEUzYnNrai1HNTk3aloyS20yQ1pUODVCZnhWV2VQcUIzTzBUT2FqN29RRWs5bmdyRWd4bkFrOXdqcElnQmp5by1XZEl5RdIBc0FVX3lxTE1BYWFwZHVtWHViMko4QU9IVE9HYTMwdXhTcHNHTXhSdVM1UGR1OWkxSldCTDhlcWFjVEtOQzdXcE50a2pqZmdoaVZhUUhGdjdjbGRoS3FIU3ctMmRrdGxRbDZaRUxqRTlFU0lENl9iOFhXOFU?oc=5",
-      "date": "Mon, 06 Jul 2026 12:00:00 GMT",
-      "source": "시사저널",
-      "score": 2
     }
   ]
 }
