@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-07T18:26:39",
+  "generated_at": "2026-07-07T20:22:50",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.13,
-    "price_krw": 1706.35,
-    "price_change_24h": -1.25381,
-    "price_change_7d": 8.718,
-    "price_change_30d": -1.29354,
-    "market_cap_usd": 70266493883,
+    "price_usd": 1.12,
+    "price_krw": 1697.05,
+    "price_change_24h": -1.90414,
+    "price_change_7d": 7.3547,
+    "price_change_30d": -0.2767,
+    "market_cap_usd": 69752650071,
     "market_cap_rank": 6,
-    "volume_24h": 1408448760,
+    "volume_24h": 1404440538,
     "circulating_supply": 62241508805.0,
     "total_supply": 99985645029.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 63.64,
-    "sentiment_votes_down": 36.36,
+    "sentiment_votes_up": 60.47,
+    "sentiment_votes_down": 39.53,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 27.36,
-    "recent_tps": 27.36,
-    "recent_tx_count": 2462,
+    "tps_24h_avg": 20.18,
+    "recent_tps": 20.18,
+    "recent_tx_count": 1796,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 105440619,
+    "recent_window_sec": 89,
+    "ledger_seq": 105442426,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-07 18:26:23 KST",
+    "updated_at": "2026-07-07 20:22:42 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -62,13 +62,6 @@
       "score": 0
     },
     {
-      "title": "XRP(리플), 40억 달러 뭉칫돈 유입...RWA·결제 인프라 날개 달고 진격",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE96X3M2WXI3cVNYaHMtOElGcFlVcDBUYkdDMjFWeVFGNTdsakpBVEJQczVxYmhZVThiX0ZtNGtGUjI0ODEyMzJrUzB3?oc=5",
-      "date": "Tue, 07 Jul 2026 10:40:00 GMT",
-      "source": "코인리더스",
-      "score": 0
-    },
-    {
       "title": "리플(XRP), 기관 자금 몰리나…\"RWA 토큰화·ETF·신규 지갑 모두 증가\"",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9STkhXb3Mwa0w0eWh0TS1GMG9QS2dYVGwtSlo2WnI1UEVEWmNGbmlHZUQxU2xGQmhVMTk3YzVHZE1CU0o0Z1ppQnk0N3B4QVFaaUxxSUFiN2E2c25ocG0yMG1ZRGY4Mnd2?oc=5",
       "date": "Tue, 07 Jul 2026 08:04:49 GMT",
@@ -88,6 +81,13 @@
       "date": "Tue, 07 Jul 2026 04:33:30 GMT",
       "source": "tokenpost.kr",
       "score": 0
+    },
+    {
+      "title": "세계 첫 리플(XRP) 현물 ETF의 현실…1,000달러 투자금 457달러로 줄었다",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9jTUdRT3dUVUpvcmNQY2Npd2E4Zl9wQV9YV1R6dzJiSVU0SmRVZFJQMHg0VkZvbWR1dzNTUHpBeHlfZ0Vwek5KdUt3?oc=5",
+      "date": "Mon, 06 Jul 2026 12:22:00 GMT",
+      "source": "코인리더스",
+      "score": 0
     }
   ],
   "general_news": [
@@ -101,16 +101,9 @@
     {
       "title": "리플이 밀어주는 에버노스, XRP를 '기업 준비자산'으로 만드는 판이 시작됐습니다",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOHJtOWFzcVV5VVRTS3RxcmxzdTN2MGVBdzZRT1RDSEVNZU9wbWU2VFBGNnFldGVNQUZiMzlOSV9KaXQ2emVIZ2d1Mk1wb1JXeDlvRXhEcEU3d04zZVdZUkdoZTE3akNLTTh4cXhqN1dBN2podEVSQWRCZ3Q1dU1SS0VHUE03bnVEVFJxUQ?oc=5",
-      "date": "Tue, 07 Jul 2026 13:07:30 GMT",
+      "date": "Tue, 07 Jul 2026 13:13:02 GMT",
       "source": "네이버 프리미엄콘텐츠",
       "score": 2
-    },
-    {
-      "title": "XRP(리플), 40억 달러 뭉칫돈 유입...RWA·결제 인프라 날개 달고 진격",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE96X3M2WXI3cVNYaHMtOElGcFlVcDBUYkdDMjFWeVFGNTdsakpBVEJQczVxYmhZVThiX0ZtNGtGUjI0ODEyMzJrUzB3?oc=5",
-      "date": "Tue, 07 Jul 2026 10:40:00 GMT",
-      "source": "코인리더스",
-      "score": 3
     },
     {
       "title": "리플(XRP), 기관 자금 몰리나…\"RWA 토큰화·ETF·신규 지갑 모두 증가\"",
@@ -159,6 +152,13 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5yS3o2dWhIV3d6eHdSdlRsUTlrSXV2ajB6RC1menlyRTNYZl9OTkgxSy1SSXdxUEI3ZFBmM3NzQWdWa2NBYzFNbmN5VmNDc3o2eE4xdFR6TFQtZ1RmM0d0Z0gxd1ZjU0hMSVFOZWU1eFM2UQ?oc=5",
       "date": "Mon, 06 Jul 2026 22:23:15 GMT",
       "source": "TopStarNews",
+      "score": 2
+    },
+    {
+      "title": "“리플은 아예 끼지도 못했다”...충격적인 스테이블코인 퇴출, 개미들 통곡의 밤",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDbWZzdktfa3V0MWxQcTVzMWQ2V3ltQ0RHY1FBR3hROVpja092emFFd3V4RVZOTXVjdS01MC04RkRyTzFsSzJqb3BzQlh6SmZnMTM3b0RvQ1VlZmo2SWdraTFrMFNPeVVtdVRfdFhXUHFHdlXSAXdBVV95cUxNM3lERnREbVhMQjBiZGRZX3FmTFdqV1ppTDNmNTdUUi1mTFlCeWJncXFDUWZtTWlLSEpNOFFVRDdlWjcxNmRQc1RCZjV3dUVTZkRBRzgxQV9LWkRrRDh4Znp1TGNQcHpra2VGMGotQ2ZoNVNqZk11cw?oc=5",
+      "date": "Mon, 06 Jul 2026 21:59:17 GMT",
+      "source": "핀포인트뉴스",
       "score": 2
     }
   ]
