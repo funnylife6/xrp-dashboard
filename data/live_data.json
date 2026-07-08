@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-08T17:57:21",
+  "generated_at": "2026-07-08T19:20:45",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.086,
-    "price_krw": 1636.1,
-    "price_change_24h": -3.97751,
-    "price_change_7d": 2.45381,
-    "price_change_30d": -7.62487,
-    "market_cap_usd": 67843589153,
+    "price_usd": 1.085,
+    "price_krw": 1632.02,
+    "price_change_24h": -2.61243,
+    "price_change_7d": 2.52224,
+    "price_change_30d": -7.59997,
+    "market_cap_usd": 67797547587,
     "market_cap_rank": 6,
-    "volume_24h": 1606874934,
+    "volume_24h": 1581432738,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 56.47,
-    "sentiment_votes_down": 43.53,
+    "sentiment_votes_up": 56.63,
+    "sentiment_votes_down": 43.37,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 24.63,
-    "recent_tps": 24.63,
-    "recent_tx_count": 2217,
+    "tps_24h_avg": 46.61,
+    "recent_tps": 46.61,
+    "recent_tx_count": 4195,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 105462601,
+    "ledger_seq": 105463894,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-08 17:57:10 KST",
+    "updated_at": "2026-07-08 19:20:36 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,6 +92,20 @@
   ],
   "general_news": [
     {
+      "title": "리플, 캔자스대 후원…XRP 로고 유니폼에 등장",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CSjhnRDlUQzBjOXVKeEVmVDNyQVBid3ZEYnlpczZfLXp0eEVjbUlPLXY1R2pUc19EZEpqUzBIOHJrWkloenFVWTdyVVQ3d2NSLV91cUM3cjjSAV5BVV95cUxNQkhka1FESjdCcmpCTTV3eC1wQ0ZfUmR1TEtnUktOdUdTdlNHNWx4UFRQMmRmR0VrN3o2Qk5RNWVUUHM1cHo2LWxBOTRqQXFTT2M4eTVkRzRDLXl3R3pR?oc=5",
+      "date": "Wed, 08 Jul 2026 14:30:47 GMT",
+      "source": "tokenpost.kr",
+      "score": 2
+    },
+    {
+      "title": "리플 운영 결제망 '레일', 주요 소프트웨어 기업서 제외",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pcUtmakR6dHVlNGlhNUxrN2xvb0o3SzRwZ3VadWRCaG43a3k1VV9GaWw4MWxOeGs3WUxEN29oazdTM0Y0NC1tZ1dfX2R2eklrQ0RtYjdtMFJoUXd6REFBXzRlUy0yWHRpdC15cUJIa2V2RE0?oc=5",
+      "date": "Wed, 08 Jul 2026 13:22:03 GMT",
+      "source": "디지털투데이",
+      "score": 2
+    },
+    {
       "title": "비트코인·이더리움·리플, 중동 리스크에 동반 약세…ETF 자금도 식었다",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5hdGE4S2RQUEcyOFoyNHhtTjZkQzBfM05lME1ha2F5NmVKc1hMb054YWFMel9LbURUaHUtUktrRklWT3pmd3d3d1Z3?oc=5",
       "date": "Wed, 08 Jul 2026 12:32:00 GMT",
@@ -117,20 +131,6 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE05UXRWQXBkd1VVeV9WRUVmTFJKTVJ5Q25Fa1hURi13NHdRU3p3Um1uZTBzNmxMa1NwUF9MLXNEWUFoNGNOa3U4YVhhOGd1NTUzSXBkMkNrWHBGdVJrQUtQSHRRemd2ekNNU1FjRkFNaGxrQQ?oc=5",
       "date": "Tue, 07 Jul 2026 22:22:36 GMT",
       "source": "TopStarNews",
-      "score": 2
-    },
-    {
-      "title": "8년동안 못뚫었던 이 라인 뚫으면",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBYUkQ4UGdwTDRwYjFxRmIzd2VzcF9ZMElaSm1xZDExb1Y5dnZ2MGFmd2V0UFJ5SjY2UUZJZXE1TzNKZ0xVNWtleFhVdkVHZU4wVWpWTk5qWng?oc=5",
-      "date": "Tue, 07 Jul 2026 17:06:40 GMT",
-      "source": "CoinNess",
-      "score": 8
-    },
-    {
-      "title": "리플이 밀어주는 에버노스, XRP를 '기업 준비자산'으로 만드는 판이 시작됐습니다",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOHJtOWFzcVV5VVRTS3RxcmxzdTN2MGVBdzZRT1RDSEVNZU9wbWU2VFBGNnFldGVNQUZiMzlOSV9KaXQ2emVIZ2d1Mk1wb1JXeDlvRXhEcEU3d04zZVdZUkdoZTE3akNLTTh4cXhqN1dBN2podEVSQWRCZ3Q1dU1SS0VHUE03bnVEVFJxUQ?oc=5",
-      "date": "Tue, 07 Jul 2026 13:13:02 GMT",
-      "source": "네이버 프리미엄콘텐츠",
       "score": 2
     },
     {
