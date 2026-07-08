@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-08T14:53:46",
+  "generated_at": "2026-07-08T16:26:04",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.075,
-    "price_krw": 1622.21,
-    "price_change_24h": -3.56729,
-    "price_change_7d": 2.7647,
-    "price_change_30d": -7.55205,
-    "market_cap_usd": 67169431940,
+    "price_usd": 1.077,
+    "price_krw": 1627.57,
+    "price_change_24h": -4.48789,
+    "price_change_7d": 1.68312,
+    "price_change_30d": -8.31975,
+    "market_cap_usd": 67304275802,
     "market_cap_rank": 6,
-    "volume_24h": 1599557309,
+    "volume_24h": 1563050947,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 57.14,
-    "sentiment_votes_down": 42.86,
+    "sentiment_votes_up": 53.85,
+    "sentiment_votes_down": 46.15,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 23.72,
-    "recent_tps": 23.72,
-    "recent_tx_count": 2111,
+    "tps_24h_avg": 26.83,
+    "recent_tps": 26.83,
+    "recent_tx_count": 2415,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 105459749,
+    "recent_window_sec": 90,
+    "ledger_seq": 105461183,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-08 14:53:33 KST",
+    "updated_at": "2026-07-08 16:25:57 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -120,6 +120,20 @@
       "score": 2
     },
     {
+      "title": "8년동안 못뚫었던 이 라인 뚫으면",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBYUkQ4UGdwTDRwYjFxRmIzd2VzcF9ZMElaSm1xZDExb1Y5dnZ2MGFmd2V0UFJ5SjY2UUZJZXE1TzNKZ0xVNWtleFhVdkVHZU4wVWpWTk5qWng?oc=5",
+      "date": "Tue, 07 Jul 2026 17:06:40 GMT",
+      "source": "CoinNess",
+      "score": 8
+    },
+    {
+      "title": "리플의 RLUSD가 AI 뱅킹 플랫폼 누비온(Nuvion)과 연동되면서 XRP에 새로운 결제 흐름이 마련됐다",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTEJDLXRhQU05dGk4UDNBSmdkZ1ItV1FoTEt2Y1o2S0JMQm5GZTlWUWQ4a184TnpZVl9BQXA5UjNqT0NRRGRRV1BuWElyUXVjLTZEV0JYMkMxcW9rX0g0WjhPOW45dTYtZ3ZXUC1Jd21IZGtZSjFveEYzM1dhUDhlVlFYeTUxUVA2cjVPVThuSFJBdWdsSEx4Wk9pRjNscks0VXhn?oc=5",
+      "date": "Tue, 07 Jul 2026 15:15:26 GMT",
+      "source": "Bitcoin News",
+      "score": 3
+    },
+    {
       "title": "리플이 밀어주는 에버노스, XRP를 '기업 준비자산'으로 만드는 판이 시작됐습니다",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOHJtOWFzcVV5VVRTS3RxcmxzdTN2MGVBdzZRT1RDSEVNZU9wbWU2VFBGNnFldGVNQUZiMzlOSV9KaXQ2emVIZ2d1Mk1wb1JXeDlvRXhEcEU3d04zZVdZUkdoZTE3akNLTTh4cXhqN1dBN2podEVSQWRCZ3Q1dU1SS0VHUE03bnVEVFJxUQ?oc=5",
       "date": "Tue, 07 Jul 2026 13:13:02 GMT",
@@ -146,20 +160,6 @@
       "date": "Tue, 07 Jul 2026 00:03:10 GMT",
       "source": "디지털투데이",
       "score": 3
-    },
-    {
-      "title": "“리플은 아예 끼지도 못했다”...충격적인 스테이블코인 퇴출, 개미들 통곡의 밤",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDbWZzdktfa3V0MWxQcTVzMWQ2V3ltQ0RHY1FBR3hROVpja092emFFd3V4RVZOTXVjdS01MC04RkRyTzFsSzJqb3BzQlh6SmZnMTM3b0RvQ1VlZmo2SWdraTFrMFNPeVVtdVRfdFhXUHFHdlXSAXdBVV95cUxNM3lERnREbVhMQjBiZGRZX3FmTFdqV1ppTDNmNTdUUi1mTFlCeWJncXFDUWZtTWlLSEpNOFFVRDdlWjcxNmRQc1RCZjV3dUVTZkRBRzgxQV9LWkRrRDh4Znp1TGNQcHpra2VGMGotQ2ZoNVNqZk11cw?oc=5",
-      "date": "Mon, 06 Jul 2026 21:59:17 GMT",
-      "source": "핀포인트뉴스",
-      "score": 2
-    },
-    {
-      "title": "속보 | 윈터뮤트 \"BTC, 구조적 강세장 아닌 '안도 랠리'\"",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE55ZVdTcHFMc0E1U3ZaSmV5V2xLTGVQSDFRTmpEZWNQN2dUaTdCaTU0bUtMWDJtWlpSTHl1RHdoX0swUmFoa05ZNTNsbnVTLWZi?oc=5",
-      "date": "Mon, 06 Jul 2026 19:20:00 GMT",
-      "source": "CoinNess",
-      "score": 8
     }
   ]
 }
