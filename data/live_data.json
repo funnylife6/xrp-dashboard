@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-09T19:25:57",
+  "generated_at": "2026-07-09T21:01:15",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.093,
-    "price_krw": 1645.64,
-    "price_change_24h": 0.60144,
-    "price_change_7d": 0.43908,
-    "price_change_30d": -4.05272,
-    "market_cap_usd": 68259209814,
+    "price_usd": 1.096,
+    "price_krw": 1650.17,
+    "price_change_24h": 0.70782,
+    "price_change_7d": 0.79138,
+    "price_change_30d": -3.67987,
+    "market_cap_usd": 68459144195,
     "market_cap_rank": 6,
-    "volume_24h": 920512281,
+    "volume_24h": 898232512,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 65.82,
-    "sentiment_votes_down": 34.18,
+    "sentiment_votes_up": 65.75,
+    "sentiment_votes_down": 34.25,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 17.52,
-    "recent_tps": 17.52,
-    "recent_tx_count": 1437,
+    "tps_24h_avg": 21.42,
+    "recent_tps": 21.42,
+    "recent_tx_count": 1928,
     "recent_ledger_count": 24,
-    "recent_window_sec": 82,
-    "ledger_seq": 105486454,
+    "recent_window_sec": 90,
+    "ledger_seq": 105487943,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-09 19:25:49 KST",
+    "updated_at": "2026-07-09 21:01:09 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 7290000,
     "total_net_inflow_usd": 7290000,
     "total_value_traded_usd": 7290000,
-    "updated_at": "SoSoValue 순유입 부분 수집 07/09 19:25",
+    "updated_at": "SoSoValue 순유입 부분 수집 07/09 21:01",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -100,9 +100,9 @@
       "score": 2
     },
     {
-      "title": "26년 7월9일 17:30분 XRP 분석( 차트분석)",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMTRCd1pKNUZtMXA0SUVLOHdEMmxWUlY2em5Eb3Ffd08xWG9EMUFxMXRfOFctSmZvem9Lel9pSUczMGxEem9xMGZjZ0ZObEQ2ZlFnYVNnclFOU1luNHFBbGxudjJGWVhYRzhVMGNGaDd6S2Z2UVM0Wm1CX1dNRGg2Q2ZYMVc3RDgxd0E?oc=5",
-      "date": "Thu, 09 Jul 2026 08:29:00 GMT",
+      "title": "잠들지 않는 S&P 500이 온다, XRP 레저 위에 올라온 미국 대표지수 이야기 (리플코인)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUmJxTW1pLUpkRGxmSjZnNzBuY3FTV1lzV2NZZ3JkaXVRRlhfVTB0c1VfTjhVMDF1ZGF6ZkM2cExONHlTQ0tQZThkeVV2XzBsZThjTjNSVFNiclBfU2RFTC10VjFQZ1FpU2JfUmVXYkxnc1hHMUw1dm0yZmZDYURLZHM0YWloLUFrellaOA?oc=5",
+      "date": "Thu, 09 Jul 2026 09:43:05 GMT",
       "source": "네이버 프리미엄콘텐츠",
       "score": 2
     },
@@ -149,18 +149,18 @@
       "score": 3
     },
     {
-      "title": "'내년 예정' 암호화폐 과세...입법조사처 \"과세 기준 미완에 분쟁 가능성\"",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9uaVRpTkV1NnRIWW1CS1hTaUtnVnNYM0U1WndLRzlBTUkyVXE5ZUladkI1aVZmOWdxOFZ3cmh2TUZ1SVBvX3JEVFFYV0VZUmgt?oc=5",
-      "date": "Wed, 08 Jul 2026 16:57:00 GMT",
-      "source": "CoinNess",
-      "score": 8
-    },
-    {
       "title": "엔저 장기화에…비트코인·XRP에 돈 굴리는 日기업 는다",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE52YmdTaVo1cjdEYmZHYUZXcEtWODZxVncyVHpObDd6Y0JaOThIMm1BQjJadGFmYVRBbzVNWDZBWnh2ZzNEMEk2QmctQjhpRm1DYlBN?oc=5",
       "date": "Tue, 07 Jul 2026 23:16:00 GMT",
       "source": "네이트",
       "score": 2
+    },
+    {
+      "title": "속보 | 日 SBI 산하 거래소 \"엔화 약세에 기업들 BTC·XRP 투자 주목\"",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8yLV9rRFFMM1UyLVQ3NkkxLXA0QUVhMFpJbFNpb0REU1lVUDZES1NxWDJhRTMtR1l6U3A1dG9OWl9QRUxrek5xVzQtREdZaGNP?oc=5",
+      "date": "Tue, 07 Jul 2026 19:51:00 GMT",
+      "source": "CoinNess",
+      "score": 8
     }
   ]
 }
