@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-09T09:29:40",
+  "generated_at": "2026-07-09T12:18:58",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.094,
-    "price_krw": 1655.29,
-    "price_change_24h": 1.72687,
-    "price_change_7d": 3.48448,
-    "price_change_30d": -6.26868,
-    "market_cap_usd": 68365206615,
+    "price_usd": 1.092,
+    "price_krw": 1652.28,
+    "price_change_24h": 0.53834,
+    "price_change_7d": 1.2144,
+    "price_change_30d": -5.61568,
+    "market_cap_usd": 68245661181,
     "market_cap_rank": 6,
-    "volume_24h": 731315583,
+    "volume_24h": 1042217834,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 63.1,
-    "sentiment_votes_down": 36.9,
+    "sentiment_votes_up": 63.64,
+    "sentiment_votes_down": 36.36,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 17.19,
-    "recent_tps": 17.19,
-    "recent_tx_count": 1547,
+    "tps_24h_avg": 23.56,
+    "recent_tps": 23.56,
+    "recent_tx_count": 2120,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 105477174,
+    "ledger_seq": 105479820,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-09 09:29:28 KST",
+    "updated_at": "2026-07-09 12:18:46 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 7290000,
     "total_net_inflow_usd": 7290000,
     "total_value_traded_usd": 7290000,
-    "updated_at": "SoSoValue 순유입 부분 수집 07/09 09:29",
+    "updated_at": "SoSoValue 순유입 부분 수집 07/09 12:18",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -100,13 +100,6 @@
       "score": 2
     },
     {
-      "title": "잠들지 않는 S&P 500이 온다, XRP 레저 위에 올라온 미국 대표지수 이야기 (리플코인)",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUmJxTW1pLUpkRGxmSjZnNzBuY3FTV1lzV2NZZ3JkaXVRRlhfVTB0c1VfTjhVMDF1ZGF6ZkM2cExONHlTQ0tQZThkeVV2XzBsZThjTjNSVFNiclBfU2RFTC10VjFQZ1FpU2JfUmVXYkxnc1hHMUw1dm0yZmZDYURLZHM0YWloLUFrellaOA?oc=5",
-      "date": "Thu, 09 Jul 2026 08:25:16 GMT",
-      "source": "네이버 프리미엄콘텐츠",
-      "score": 2
-    },
-    {
       "title": "리플(XRP), 일본 기업 재무에 편입되며 제도권 자산으로 부상",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3OEsweHpqNlh6RVdLbU8zdDdUR1lkT0I5TEJGbTAxMzJLY01Sd3dCdTdmY1Rzbk1Xc2VDdkZVYXpDRkhuZG1CQUVFUUdSMWNIb2JFTDZKajFfcGd0Slh5ctIBZkFVX3lxTE1uWk4xSExNOHJ2V1NxRzVKWnNYbVU3c0JNQjFhLUxtUXFOcTNRZklPOWVIaUVUSDNESzRiNDIxVzlsVG00VlVvRU9PVms2WnNGUjB1YUV0WXFSTWZiR2w1MzRJZ3BZZw?oc=5",
       "date": "Thu, 09 Jul 2026 05:07:30 GMT",
@@ -156,9 +149,16 @@
       "score": 2
     },
     {
-      "title": "속보 | 美 상원의원 “클래리티법에 블록체인 개발자 보호 조항 포함해야”",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1FdmFSZEw1SDE0MkZESzJ4ejhPYk52ZFBKVFhxanpEVHZvSnJ2X1ZTWUt3ZW90ZlQwSmFkSTdHRXRNUVdTLTF1cjNWdXpSV2hq?oc=5",
-      "date": "Wed, 08 Jul 2026 06:17:00 GMT",
+      "title": "엔저 장기화에…비트코인·XRP에 돈 굴리는 日기업 는다",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE52YmdTaVo1cjdEYmZHYUZXcEtWODZxVncyVHpObDd6Y0JaOThIMm1BQjJadGFmYVRBbzVNWDZBWnh2ZzNEMEk2QmctQjhpRm1DYlBN?oc=5",
+      "date": "Tue, 07 Jul 2026 23:16:00 GMT",
+      "source": "네이트",
+      "score": 2
+    },
+    {
+      "title": "속보 | 日 SBI 산하 거래소 \"엔화 약세에 기업들 BTC·XRP 투자 주목\"",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8yLV9rRFFMM1UyLVQ3NkkxLXA0QUVhMFpJbFNpb0REU1lVUDZES1NxWDJhRTMtR1l6U3A1dG9OWl9QRUxrek5xVzQtREdZaGNP?oc=5",
+      "date": "Tue, 07 Jul 2026 19:51:00 GMT",
       "source": "CoinNess",
       "score": 8
     }
