@@ -1,53 +1,59 @@
 {
-  "generated_at": "2026-07-09T21:01:15",
+  "generated_at": "2026-07-09T22:48:09",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.096,
-    "price_krw": 1650.17,
-    "price_change_24h": 0.70782,
-    "price_change_7d": 0.79138,
-    "price_change_30d": -3.67987,
-    "market_cap_usd": 68459144195,
+    "price_krw": 1651.57,
+    "price_change_24h": 0.53354,
+    "price_change_7d": 1.57221,
+    "price_change_30d": -3.40454,
+    "market_cap_usd": 68492123837,
     "market_cap_rank": 6,
-    "volume_24h": 898232512,
+    "volume_24h": 884687017,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 65.75,
-    "sentiment_votes_down": 34.25,
+    "sentiment_votes_up": 65.28,
+    "sentiment_votes_down": 34.72,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 21.42,
-    "recent_tps": 21.42,
-    "recent_tx_count": 1928,
+    "tps_24h_avg": 18.62,
+    "recent_tps": 18.62,
+    "recent_tx_count": 1676,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 105487943,
+    "ledger_seq": 105489602,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-09 21:01:09 KST",
+    "updated_at": "2026-07-09 22:47:54 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
   },
   "etf_flow": {
-    "approved_count": 4,
+    "approved_count": 0,
     "daily_inflow_usd": 0,
     "weekly_inflow_usd": 0,
-    "aum_usd": 7290000,
-    "total_net_inflow_usd": 7290000,
-    "total_value_traded_usd": 7290000,
-    "updated_at": "SoSoValue 순유입 부분 수집 07/09 21:01",
-    "data_source": "sosovalue",
-    "partial": true
+    "aum_usd": 0,
+    "total_net_inflow_usd": 0,
+    "total_value_traded_usd": 0,
+    "updated_at": "뉴스 자동 파싱 대기",
+    "data_source": "news_parse"
   },
   "etf_news": [
+    {
+      "title": "굳건하던 XRP 현물 ETF마저 뚫렸다… 3월 이후 최대 729만 달러 자금 썰물",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTjA4OG8xS1lsaTdmX19LUEVPdWVDMnA2Nm9rYmVqakREVGRRX3dXSlczNDQxR0JHN1A3QUk0blFLTEt2LWdrUENZYk9PbHlwYzc4WGJMWFZqVURsS3JiYTdHeUowOXBsLUZXT2dCY2EwUzBSSTNkTWRDcVYxZXJxVkU1azhaYnRj?oc=5",
+      "date": "Thu, 09 Jul 2026 21:12:50 GMT",
+      "source": "글로벌이코노믹",
+      "score": 0
+    },
     {
       "title": "올해 암호화폐 대폭락 전조?... 리플 자금 증발이 불러온 잔혹한 공포 시그널",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE40cXlZVk5HYmJBQkVUaWhDR3V0UTlicUhZZlVPeUJfc0I1MlY4U2NiSnhKYnpyYnQwOG5tdVluUllQSUxJRy1UM09YNjU0cGhVUGtGU3FSRlNWMjRfNnp6UV9JT2NkQ3B6OFJlTll3RS1yNV9Hakdn0gF3QVVfeXFMTjRxeVlWTkdiYkFCRVRpaENHdXRROWJxSFlmVU95Ql9zQjUyVjhTY2JKeEpienJidDA4bm11WW5SWVBJTElHLVQzT1g2NTRwaFVQa0ZTcVJGU1YyNF82enpRX0lPY2RDcHo4UmVOWXdFLXI1X0dqR2c?oc=5",
@@ -70,13 +76,6 @@
       "score": 0
     },
     {
-      "title": "비트코인 현물 ETF 자금흐름 반전 조짐…美 연준 변수는 여전",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Wc1B6b2pRcktWRHVLTTVLYVl6YnJ4bndJckUyUFc0RVYtNzdKNHNJNGR6T051WlhxYnBERk1rU202d0JUTDk5SVIyM0dGQUk2S3hpR2YtQ01FbHktTktvS1ZZQW9fOWxRT0ZRcHRUSVRMNjg?oc=5",
-      "date": "Thu, 09 Jul 2026 01:08:00 GMT",
-      "source": "디지털투데이",
-      "score": 0
-    },
-    {
       "title": "'70% 폭락'한 리플(XRP), 지금이 바닥 매수 기회인가...클래러티법 통과되는 순간 끝난다?",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9KZ1dQLUZ5RFhibXlnYXBYQ1RZbE93b2tBME16NGJ5M0ZxeHBISjdXelBydVFHTWJOYmMyODNtUllsRGh0NktlRVpR?oc=5",
       "date": "Wed, 08 Jul 2026 21:20:00 GMT",
@@ -93,10 +92,24 @@
   ],
   "general_news": [
     {
-      "title": "리플(XRP), 1.07달러 지지 후 반등 시도…개인 투자자 버티지만 기술적 약세는 여전",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE00VzdXbHBRRm9DWVR1NGszZHRibEpuSkVDTVZVX0xIY2ZHSTE1Y2FwMHlSQTd3THpwajhHVHVMbmtlRldSZUdfUFBn?oc=5",
-      "date": "Thu, 09 Jul 2026 12:11:00 GMT",
-      "source": "코인리더스",
+      "title": "비트코인·리플XRP·솔스티스, 금리 부담 속 엇갈린 흐름",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5va2t1eVNaSDdEY0k0Q2d4Y0UzQ2Y5SDdOSnhuWW9lcEwtYVRoMm9nMzJnMTQ3azlzYzF4dndQbzNqaEZWUmtrUGh2YXRaWHNjY0tpNGRkTkljZ0tiRUM4bk56amlZUDNqSVdhbElLOWlFUQ?oc=5",
+      "date": "Thu, 09 Jul 2026 22:23:11 GMT",
+      "source": "TopStarNews",
+      "score": 2
+    },
+    {
+      "title": "굳건하던 XRP 현물 ETF마저 뚫렸다… 3월 이후 최대 729만 달러 자금 썰물",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTjA4OG8xS1lsaTdmX19LUEVPdWVDMnA2Nm9rYmVqakREVGRRX3dXSlczNDQxR0JHN1A3QUk0blFLTEt2LWdrUENZYk9PbHlwYzc4WGJMWFZqVURsS3JiYTdHeUowOXBsLUZXT2dCY2EwUzBSSTNkTWRDcVYxZXJxVkU1azhaYnRj?oc=5",
+      "date": "Thu, 09 Jul 2026 21:12:50 GMT",
+      "source": "글로벌이코노믹",
+      "score": 4
+    },
+    {
+      "title": "리플(XRP), 1달러 초반대 지지 속 규제 법안 표결을 앞두고 강보합세",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkOHJURkY5QmV4Vjc4NWJTTkRGaGJEdnBRajhTOVloRXNxWFp5QVRUTTA0Mmo0SUpFUkdOVDBfLTI0ckFYN0NLWmhreGFMNlo2c1ZNcnFweXY3MllQNkFKSdIBZkFVX3lxTE9KUVg1QU1XV196NVNQbjdvRl9ySm12aWxRSm9NSVNlanBqejNwMEF0VU9ocXVUN25EdVBZbE15dEt0ZDZkWVR6blVMN3c5bnY1akhYN2JiaWl5YTRSWlJySVlzSEw0Zw?oc=5",
+      "date": "Thu, 09 Jul 2026 21:07:28 GMT",
+      "source": "tokenpost.kr",
       "score": 2
     },
     {
@@ -107,10 +120,10 @@
       "score": 2
     },
     {
-      "title": "리플(XRP), 일본 기업 재무에 편입되며 제도권 자산으로 부상",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3OEsweHpqNlh6RVdLbU8zdDdUR1lkT0I5TEJGbTAxMzJLY01Sd3dCdTdmY1Rzbk1Xc2VDdkZVYXpDRkhuZG1CQUVFUUdSMWNIb2JFTDZKajFfcGd0Slh5ctIBZkFVX3lxTE1uWk4xSExNOHJ2V1NxRzVKWnNYbVU3c0JNQjFhLUxtUXFOcTNRZklPOWVIaUVUSDNESzRiNDIxVzlsVG00VlVvRU9PVms2WnNGUjB1YUV0WXFSTWZiR2w1MzRJZ3BZZw?oc=5",
-      "date": "Thu, 09 Jul 2026 05:07:30 GMT",
-      "source": "tokenpost.kr",
+      "title": "리플(XRP)·스텔라(XLM) 동반 약세…미국-이란 긴장·기술적 약세에 추가 하락 경고",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9HbnFpcW0wS085M2xyZDNOYllsNDZ0NlBBd3V6dGFvUWxZVFpGYlhTQUNPcWM1cTFrekIzNzJkSE1FWFZqemQwdi1R?oc=5",
+      "date": "Thu, 09 Jul 2026 06:50:00 GMT",
+      "source": "코인리더스",
       "score": 2
     },
     {
@@ -128,17 +141,10 @@
       "score": 2
     },
     {
-      "title": "리플XRP·비트코인 하락, 솔스티스 상승…금리·중동 긴장 부담",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ZSnVZWUNKRW8xb19mLXkzTW1GN0FoUlhISlZpNjZkaVQwNjNpRWJ1UjJOT3JXRU5scUo2Yi1pY0lSNEZJMS1VeHNRTmRZSm0weWZYS2NxeGhLWG1PZjlXTnBrVHo1T0dhbFFpM3RjRmIwZw?oc=5",
-      "date": "Wed, 08 Jul 2026 22:05:52 GMT",
-      "source": "TopStarNews",
-      "score": 2
-    },
-    {
-      "title": "\"골드만삭스가 쓸어담는데 1달러 위태\"… 리플(XRP), 펀더멘털·가격 역주행 미스터리",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeUJlX1B5NW1tMlJXN1VEMFdPeXpGaEZZUEdJQzliSXJoWE9IOFhBRnctZ0lVZDdnLW55eWc1NnBDV09VcEdNWVkwUV9EdS1PRE9PeGZudl90MHo4dTMySlVuUDlGcGM3V2w3bWJUQmNROUtILUE4dENaYkplRjc1QXNwY3VrLUtZ?oc=5",
-      "date": "Wed, 08 Jul 2026 21:42:13 GMT",
-      "source": "글로벌이코노믹",
+      "title": "리플, 美 캔자스대와 5년 스폰서십 체결…전 종목 유니폼에 'XRP' 들어간다",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KVGlvWWlnNmk0eHVBTHZsajlQcVdua1FOMTVvNzJuUVFhYU0xZ2hHSlBudmdJWXJQZ2xqV0FHdDFZdnZQTEtXaGdQSWx0bGdiRzZJ?oc=5",
+      "date": "Wed, 08 Jul 2026 23:25:00 GMT",
+      "source": "네이트",
       "score": 2
     },
     {
@@ -149,16 +155,9 @@
       "score": 3
     },
     {
-      "title": "엔저 장기화에…비트코인·XRP에 돈 굴리는 日기업 는다",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE52YmdTaVo1cjdEYmZHYUZXcEtWODZxVncyVHpObDd6Y0JaOThIMm1BQjJadGFmYVRBbzVNWDZBWnh2ZzNEMEk2QmctQjhpRm1DYlBN?oc=5",
-      "date": "Tue, 07 Jul 2026 23:16:00 GMT",
-      "source": "네이트",
-      "score": 2
-    },
-    {
-      "title": "속보 | 日 SBI 산하 거래소 \"엔화 약세에 기업들 BTC·XRP 투자 주목\"",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8yLV9rRFFMM1UyLVQ3NkkxLXA0QUVhMFpJbFNpb0REU1lVUDZES1NxWDJhRTMtR1l6U3A1dG9OWl9QRUxrek5xVzQtREdZaGNP?oc=5",
-      "date": "Tue, 07 Jul 2026 19:51:00 GMT",
+      "title": "1만 XRP | 검색",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jVk9QcXY3R0p6RzlPa0tKSXliNmhGSEItZnZOankwNmtRZVBRVVZwY29ybUVWVjJYMTMwbFV0czdITHRiNXFLLTROZHZPODVEVElVVFJaMFpWOVNfalZ4OGJDX2FSWmhnQWNZMQ?oc=5",
+      "date": "Wed, 08 Jul 2026 08:51:04 GMT",
       "source": "CoinNess",
       "score": 8
     }
