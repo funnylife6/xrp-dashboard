@@ -1,50 +1,51 @@
 {
-  "generated_at": "2026-07-08T23:12:52",
+  "generated_at": "2026-07-09T01:08:25",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.091,
-    "price_krw": 1641.07,
-    "price_change_24h": -2.32468,
-    "price_change_7d": 2.88279,
-    "price_change_30d": -7.24067,
-    "market_cap_usd": 68121887537,
+    "price_usd": 1.088,
+    "price_krw": 1635.69,
+    "price_change_24h": -2.17273,
+    "price_change_7d": 3.43417,
+    "price_change_30d": -5.72147,
+    "market_cap_usd": 67939589910,
     "market_cap_rank": 6,
-    "volume_24h": 1541268202,
+    "volume_24h": 1499411347,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 62.96,
-    "sentiment_votes_down": 37.04,
+    "sentiment_votes_up": 62.5,
+    "sentiment_votes_down": 37.5,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 15.81,
-    "recent_tps": 15.81,
-    "recent_tx_count": 1407,
+    "tps_24h_avg": 17.4,
+    "recent_tps": 17.4,
+    "recent_tx_count": 1549,
     "recent_ledger_count": 24,
     "recent_window_sec": 89,
-    "ledger_seq": 105467522,
+    "ledger_seq": 105469330,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-08 23:12:40 KST",
+    "updated_at": "2026-07-09 01:08:12 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
   },
   "etf_flow": {
-    "approved_count": 0,
+    "approved_count": 4,
     "daily_inflow_usd": 0,
     "weekly_inflow_usd": 0,
-    "aum_usd": 0,
-    "total_net_inflow_usd": 0,
-    "total_value_traded_usd": 0,
-    "updated_at": "뉴스 자동 파싱 대기",
-    "data_source": "news_parse"
+    "aum_usd": 7290000,
+    "total_net_inflow_usd": 7290000,
+    "total_value_traded_usd": 7290000,
+    "updated_at": "SoSoValue 순유입 부분 수집 07/09 01:08",
+    "data_source": "sosovalue",
+    "partial": true
   },
   "etf_news": [
     {
@@ -76,17 +77,17 @@
       "score": 0
     },
     {
+      "title": "리플(XRP), 기관 자금 몰리나…\"RWA 토큰화·ETF·신규 지갑 모두 증가\"",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zOFRFWjc1MWFNUkp1RWRnSzgweFpMQWxtWExIM3p3NHdGUFR3WXphY2tBR0NOck9JSU9DOVNzRTkxa3ZjdDUwbTljVGxpLTNpdFV5Zy1CV2Nqc2dtSHlIc1hWRQ?oc=5",
+      "date": "Tue, 07 Jul 2026 08:04:49 GMT",
+      "source": "CBC뉴스",
+      "score": 0
+    },
+    {
       "title": "SOL·HYPE 현물 ETF 순유입...XRP는 변동 없어",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE43eU5EdFVoRUE0QUlENUg4aEU0RW1tVzdfQ3pyZWNqM2ZIUTNBbHBSNzlzekZPWmNaWWJqMElVUlpxeXZtYmtuaHpn?oc=5",
       "date": "Tue, 07 Jul 2026 05:37:51 GMT",
       "source": "코인리더스",
-      "score": 0
-    },
-    {
-      "title": "미국 XRP 현물 ETF, 하루 655만달러 순유입",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4YW1abEpVV3BZZW0tSTQ1X3hpcHp2aUlFcTdWZ29rd0hnUlRoU2hHaVNKd0ROOUZUWFk2OUdTTFZiak5VQjBWQVVUSXIyUFJIakZGUXhQejQtUG1IZXfSAV5BVV95cUxQOGFtWmxKVVdwWWVtLUk0NV94aXB6dmlJRXE3Vmdva3dIZ1JUaFNoR2lTSndETjlGVFhZNjlHU0xWYmpOVUIwVkFVVElyMlBSSGpGRlF4UHo0LVBtSGV3?oc=5",
-      "date": "Tue, 07 Jul 2026 04:33:30 GMT",
-      "source": "tokenpost.kr",
       "score": 0
     }
   ],
@@ -96,13 +97,6 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ZSnVZWUNKRW8xb19mLXkzTW1GN0FoUlhISlZpNjZkaVQwNjNpRWJ1UjJOT3JXRU5scUo2Yi1pY0lSNEZJMS1VeHNRTmRZSm0weWZYS2NxeGhLWG1PZjlXTnBrVHo1T0dhbFFpM3RjRmIwZw?oc=5",
       "date": "Wed, 08 Jul 2026 22:05:52 GMT",
       "source": "TopStarNews",
-      "score": 2
-    },
-    {
-      "title": "\"골드만삭스가 쓸어담는데 1달러 위태\"… 리플(XRP), 펀더멘털·가격 역주행 미스터리",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeUJlX1B5NW1tMlJXN1VEMFdPeXpGaEZZUEdJQzliSXJoWE9IOFhBRnctZ0lVZDdnLW55eWc1NnBDV09VcEdNWVkwUV9EdS1PRE9PeGZudl90MHo4dTMySlVuUDlGcGM3V2w3bWJUQmNROUtILUE4dENaYkplRjc1QXNwY3VrLUtZ?oc=5",
-      "date": "Wed, 08 Jul 2026 21:42:13 GMT",
-      "source": "글로벌이코노믹",
       "score": 2
     },
     {
@@ -134,6 +128,13 @@
       "score": 2
     },
     {
+      "title": "1만 XRP | 검색",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jVk9QcXY3R0p6RzlPa0tKSXliNmhGSEItZnZOankwNmtRZVBRVVZwY29ybUVWVjJYMTMwbFV0czdITHRiNXFLLTROZHZPODVEVElVVFJaMFpWOVNfalZ4OGJDX2FSWmhnQWNZMQ?oc=5",
+      "date": "Wed, 08 Jul 2026 08:51:04 GMT",
+      "source": "CoinNess",
+      "score": 9
+    },
+    {
       "title": "엔저 장기화에…비트코인·XRP에 돈 굴리는 日기업 는다",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdlNodHMxOVBlMmRkRFhYNEVGUTJ5OVl6LVJDU3VOVmIyYnYyVTR6RGoyTU5NekRuVlozZHQxYlVxSHNsTDBxMGlfOC1mXzRiRXRSUEtzNUxwenl5bTN6YjIxSF9Jb21rVkJ6cmN3bkQ2UlJYMUFiNzNYQXQyUTRETg?oc=5",
       "date": "Tue, 07 Jul 2026 23:14:11 GMT",
@@ -148,18 +149,18 @@
       "score": 2
     },
     {
+      "title": "리플(XRP), 기관 자금 몰리나…\"RWA 토큰화·ETF·신규 지갑 모두 증가\"",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zOFRFWjc1MWFNUkp1RWRnSzgweFpMQWxtWExIM3p3NHdGUFR3WXphY2tBR0NOck9JSU9DOVNzRTkxa3ZjdDUwbTljVGxpLTNpdFV5Zy1CV2Nqc2dtSHlIc1hWRQ?oc=5",
+      "date": "Tue, 07 Jul 2026 08:04:49 GMT",
+      "source": "CBC뉴스",
+      "score": 4
+    },
+    {
       "title": "리플, 달러 스테이블코인 ‘RLUSD’ 기습 장전…판도 변화 초읽기",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1POGxXMmNiRnVMOXlONDM0NlE2UGhMQXZEQk1YZ05LQm1RdS1iQzZHQlBhRFNod1hYalQ3MGVWZGNrUGxYX0pOa2Z0aVptb29pd2pQZldHQ0RXOFZ0bXZIRXdrMVVXSmczVmtIUjR4THQ3bTTSAXdBVV95cUxQV2VyTWlqVFpqZXUxWWVyeG5hb3YxaTQtLXRNNmE1dVFEVHh1MHZBWmJMUk5mOVREaXRmZUZVNEVvMmNRcER1VktpY0ZTR2F5TUwwbUVIV3UwcHBuaTlYYnc2d04wR28xQXFBUmM1TnBZbndReGU5QQ?oc=5",
       "date": "Tue, 07 Jul 2026 05:34:01 GMT",
       "source": "핀포인트뉴스",
       "score": 2
-    },
-    {
-      "title": "리플 영국 CEO, 유럽 성과에 \"큰 승리\" 환영…XRP·RLUSD 수혜 기대",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ma3dVMVdhVTlBMXBaU09XbnZpQngtV2E2cmM3WkE5bXhtYW5Wa2tVU2NKNmdlRDdPdjRIdUJNMWVndU54aUhZcklrWG5GTlNCMWV3aC1HanJsZnRwWEtfdkM1bTFPNG82emVYdHRyZXUzYm8?oc=5",
-      "date": "Tue, 07 Jul 2026 00:03:10 GMT",
-      "source": "디지털투데이",
-      "score": 3
     }
   ]
 }
