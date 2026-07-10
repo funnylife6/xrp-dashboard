@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-09T23:59:26",
+  "generated_at": "2026-07-10T03:34:21",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.093,
-    "price_krw": 1647.07,
-    "price_change_24h": 0.33211,
-    "price_change_7d": 1.28779,
-    "price_change_30d": -3.69232,
-    "market_cap_usd": 68300787563,
+    "price_usd": 1.1,
+    "price_krw": 1665.23,
+    "price_change_24h": 1.76103,
+    "price_change_7d": 1.49384,
+    "price_change_30d": -1.0187,
+    "market_cap_usd": 68983847532,
     "market_cap_rank": 6,
-    "volume_24h": 871122913,
+    "volume_24h": 886115077,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 63.89,
-    "sentiment_votes_down": 36.11,
+    "sentiment_votes_up": 63.77,
+    "sentiment_votes_down": 36.23,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 25.93,
-    "recent_tps": 25.93,
-    "recent_tx_count": 2334,
+    "tps_24h_avg": 20.77,
+    "recent_tps": 20.77,
+    "recent_tx_count": 1869,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 105490699,
+    "ledger_seq": 105494024,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-09 23:59:14 KST",
+    "updated_at": "2026-07-10 03:34:06 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -48,17 +48,17 @@
   },
   "etf_news": [
     {
+      "title": "리플(XRP) 현물 ETF, 하루 729만 달러 순유출…3월 이후 최대 규모 자금 이탈",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hUXlUTzN2SUVhanRiOFVSa3dMUVFlYllIUGJpM21aN2RjekFqNGU5cDMtdHRadWJtdU03U2ZlQnF3bmM1aXY2QmtXeFFpME5fOS14b0tYMGlmV2JjeG53NURpcE5zVmFp?oc=5",
+      "date": "Fri, 10 Jul 2026 02:28:40 GMT",
+      "source": "CBC뉴스",
+      "score": 0
+    },
+    {
       "title": "15억 달러 쓸어 담고도 1달러대 장기 정체…리플(XRP) 역대급 수급 불균형 언제 터질까",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5ocFJKcjNmcVVYN2l2TDU2S2tSNUVkRDNfVHNkTVNPVFZUSlVROU8yaVZkUEYyZXlHM2kzeFFzWENBcEhvd3RnaGpn?oc=5",
       "date": "Thu, 09 Jul 2026 22:08:00 GMT",
       "source": "코인리더스",
-      "score": 0
-    },
-    {
-      "title": "굳건하던 XRP 현물 ETF마저 뚫렸다… 3월 이후 최대 729만 달러 자금 썰물",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTjA4OG8xS1lsaTdmX19LUEVPdWVDMnA2Nm9rYmVqakREVGRRX3dXSlczNDQxR0JHN1A3QUk0blFLTEt2LWdrUENZYk9PbHlwYzc4WGJMWFZqVURsS3JiYTdHeUowOXBsLUZXT2dCY2EwUzBSSTNkTWRDcVYxZXJxVkU1azhaYnRj?oc=5",
-      "date": "Thu, 09 Jul 2026 21:12:50 GMT",
-      "source": "글로벌이코노믹",
       "score": 0
     },
     {
@@ -91,6 +91,13 @@
     }
   ],
   "general_news": [
+    {
+      "title": "리플(XRP) 현물 ETF, 하루 729만 달러 순유출…3월 이후 최대 규모 자금 이탈",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hUXlUTzN2SUVhanRiOFVSa3dMUVFlYllIUGJpM21aN2RjekFqNGU5cDMtdHRadWJtdU03U2ZlQnF3bmM1aXY2QmtXeFFpME5fOS14b0tYMGlmV2JjeG53NURpcE5zVmFp?oc=5",
+      "date": "Fri, 10 Jul 2026 02:28:40 GMT",
+      "source": "CBC뉴스",
+      "score": 4
+    },
     {
       "title": "리플, 美 대학 스포츠 유니폼에 XRP 브랜드 새긴다",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbW1VclI2cWJ5RjNvZElrV0daR2FvZUIzb1JFZjFPakxtVWctWFdyY2VpbndGOVR4UnlQSl9VTzJVaV9Jbkgwb0Y4dmFzRlNsSHFISG1ta1VVeHV2UGZNVzRzOWowQWpaa3E2blRKM0s2VzJXZEhIVm1zU1pVOWQ0Ym9zV2dSc1E5?oc=5",
@@ -134,11 +141,18 @@
       "score": 2
     },
     {
-      "title": "체인링크, 리플 캔자스대 후원 맹공…\"XRP 은행 테마 밈코인, 본업에 어긋나\"",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95b09ZckJZOXhIVzJrRmpKUWZfOERGX3V2Wl96eVRfc1lvNGlqTTAwd005bVlsMk5uR3d4TmV4cXdsLVV4eGhBY05WSXUxQ0FGMHZz?oc=5",
-      "date": "Thu, 09 Jul 2026 02:32:00 GMT",
-      "source": "네이트",
-      "score": 3
+      "title": "26년 7월9일 17:30분 XRP 분석( 차트분석)",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMTRCd1pKNUZtMXA0SUVLOHdEMmxWUlY2em5Eb3Ffd08xWG9EMUFxMXRfOFctSmZvem9Lel9pSUczMGxEem9xMGZjZ0ZObEQ2ZlFnYVNnclFOU1luNHFBbGxudjJGWVhYRzhVMGNGaDd6S2Z2UVM0Wm1CX1dNRGg2Q2ZYMVc3RDgxd0E?oc=5",
+      "date": "Thu, 09 Jul 2026 08:29:00 GMT",
+      "source": "네이버 프리미엄콘텐츠",
+      "score": 2
+    },
+    {
+      "title": "\"골드만삭스가 쓸어담는데 1달러 위태\"… 리플(XRP), 펀더멘털·가격 역주행 미스터리",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeUJlX1B5NW1tMlJXN1VEMFdPeXpGaEZZUEdJQzliSXJoWE9IOFhBRnctZ0lVZDdnLW55eWc1NnBDV09VcEdNWVkwUV9EdS1PRE9PeGZudl90MHo4dTMySlVuUDlGcGM3V2w3bWJUQmNROUtILUE4dENaYkplRjc1QXNwY3VrLUtZ?oc=5",
+      "date": "Wed, 08 Jul 2026 21:42:13 GMT",
+      "source": "글로벌이코노믹",
+      "score": 2
     },
     {
       "title": "리플 운영 결제망 '레일', 주요 소프트웨어 기업서 제외",
@@ -146,20 +160,6 @@
       "date": "Wed, 08 Jul 2026 13:22:03 GMT",
       "source": "디지털투데이",
       "score": 2
-    },
-    {
-      "title": "1만 XRP | 검색",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jVk9QcXY3R0p6RzlPa0tKSXliNmhGSEItZnZOankwNmtRZVBRVVZwY29ybUVWVjJYMTMwbFV0czdITHRiNXFLLTROZHZPODVEVElVVFJaMFpWOVNfalZ4OGJDX2FSWmhnQWNZMQ?oc=5",
-      "date": "Wed, 08 Jul 2026 08:51:04 GMT",
-      "source": "CoinNess",
-      "score": 8
-    },
-    {
-      "title": "속보 | 日 SBI 산하 거래소 \"엔화 약세에 기업들 BTC·XRP 투자 주목\"",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8yLV9rRFFMM1UyLVQ3NkkxLXA0QUVhMFpJbFNpb0REU1lVUDZES1NxWDJhRTMtR1l6U3A1dG9OWl9QRUxrek5xVzQtREdZaGNP?oc=5",
-      "date": "Tue, 07 Jul 2026 19:51:00 GMT",
-      "source": "CoinNess",
-      "score": 8
     }
   ]
 }
