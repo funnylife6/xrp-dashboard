@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-10T17:42:04",
+  "generated_at": "2026-07-10T19:18:08",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.1,
-    "price_krw": 1655.62,
-    "price_change_24h": 0.83257,
-    "price_change_7d": -1.0638,
-    "price_change_30d": -2.24888,
-    "market_cap_usd": 68847081112,
+    "price_krw": 1651.1,
+    "price_change_24h": 0.66857,
+    "price_change_7d": -2.31781,
+    "price_change_30d": -0.15653,
+    "market_cap_usd": 68685119498,
     "market_cap_rank": 6,
-    "volume_24h": 1002025720,
+    "volume_24h": 998092428,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 64.79,
-    "sentiment_votes_down": 35.21,
+    "sentiment_votes_up": 65.71,
+    "sentiment_votes_down": 34.29,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 23.98,
-    "recent_tps": 23.98,
-    "recent_tx_count": 1966,
+    "tps_24h_avg": 18.1,
+    "recent_tps": 18.1,
+    "recent_tx_count": 1484,
     "recent_ledger_count": 24,
     "recent_window_sec": 82,
-    "ledger_seq": 105507253,
+    "ledger_seq": 105508751,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-10 17:41:49 KST",
+    "updated_at": "2026-07-10 19:18:00 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -52,13 +52,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hUXlUTzN2SUVhanRiOFVSa3dMUVFlYllIUGJpM21aN2RjekFqNGU5cDMtdHRadWJtdU03U2ZlQnF3bmM1aXY2QmtXeFFpME5fOS14b0tYMGlmV2JjeG53NURpcE5zVmFp?oc=5",
       "date": "Fri, 10 Jul 2026 02:28:40 GMT",
       "source": "CBC뉴스",
-      "score": 0
-    },
-    {
-      "title": "굳건하던 XRP 현물 ETF마저 뚫렸다… 3월 이후 최대 729만 달러 자금 썰물",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTjA4OG8xS1lsaTdmX19LUEVPdWVDMnA2Nm9rYmVqakREVGRRX3dXSlczNDQxR0JHN1A3QUk0blFLTEt2LWdrUENZYk9PbHlwYzc4WGJMWFZqVURsS3JiYTdHeUowOXBsLUZXT2dCY2EwUzBSSTNkTWRDcVYxZXJxVkU1azhaYnRj?oc=5",
-      "date": "Thu, 09 Jul 2026 21:12:50 GMT",
-      "source": "글로벌이코노믹",
       "score": 0
     },
     {
@@ -87,6 +80,13 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBnUXUtYm9tUHExaWotVk5UVlVsOXN1WWZmM3pyTWVfc3Z5d29kNWp6ZGo5VXVHYUE0QVFzM2Q5RTZjSElveFZfQjVnMDd2cGVXSkZDZzM0OURxM1QtTU5HRFJlQ2dGVTBjUTVBVEs5TGFWMGs?oc=5",
       "date": "Wed, 08 Jul 2026 02:02:05 GMT",
       "source": "디지털투데이",
+      "score": 0
+    },
+    {
+      "title": "비트와이즈 XRP ETF, 순유입 5억 달러 돌파...규제 풀리니 기관 자금 폭주",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBzSWQ0SG9XZlI2SG9aVUFZZGQzNXUzdXBxcXlncWs1ZUkwSlo3SS1Hc2lFV3pWT25nS3J5dHJMdGNQNkJ1TkhYM3Jn?oc=5",
+      "date": "Tue, 07 Jul 2026 18:20:00 GMT",
+      "source": "코인리더스",
       "score": 0
     }
   ],
