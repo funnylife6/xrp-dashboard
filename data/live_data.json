@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-10T22:53:39",
+  "generated_at": "2026-07-10T23:52:35",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.1,
-    "price_krw": 1655.22,
-    "price_change_24h": 0.7074,
-    "price_change_7d": -2.48753,
-    "price_change_30d": 1.29083,
-    "market_cap_usd": 68969130027,
+    "price_krw": 1654.62,
+    "price_change_24h": 0.97399,
+    "price_change_7d": -2.19686,
+    "price_change_30d": 0.76779,
+    "market_cap_usd": 68948597397,
     "market_cap_rank": 6,
-    "volume_24h": 1018901426,
+    "volume_24h": 1010520132,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 66.22,
-    "sentiment_votes_down": 33.78,
+    "sentiment_votes_up": 66.67,
+    "sentiment_votes_down": 33.33,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 15.4,
-    "recent_tps": 15.4,
-    "recent_tx_count": 1386,
+    "tps_24h_avg": 16.18,
+    "recent_tps": 16.18,
+    "recent_tx_count": 1440,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 105512109,
+    "recent_window_sec": 89,
+    "ledger_seq": 105513033,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-10 22:53:26 KST",
+    "updated_at": "2026-07-10 23:52:24 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -48,6 +48,13 @@
   },
   "etf_news": [
     {
+      "title": "8억 개 토큰 삼킨 현물 ETF 폭풍 흡수에도…리플(XRP) 가격은 왜 1달러 선에 갇혔을까",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1IM3QzYXRzZGI4MTJzS3ZyRzQ2cmo4aEhvMmo1UDZselhMb3dXUDFfV3laMmtkak0yVHdkTnFrU3ROcXdVeVlFM0N3?oc=5",
+      "date": "Fri, 10 Jul 2026 23:31:00 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
+    {
       "title": "리플(XRP) 현물 ETF, 하루 729만 달러 순유출…3월 이후 최대 규모 자금 이탈",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hUXlUTzN2SUVhanRiOFVSa3dMUVFlYllIUGJpM21aN2RjekFqNGU5cDMtdHRadWJtdU03U2ZlQnF3bmM1aXY2QmtXeFFpME5fOS14b0tYMGlmV2JjeG53NURpcE5zVmFp?oc=5",
       "date": "Fri, 10 Jul 2026 02:28:40 GMT",
@@ -59,13 +66,6 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBIdGhVUXZ1Ti1uQVktZzdraUxQclJEdlJqMmIyUFVVeVZLSVRodXpkQkU3WEhOYXZPUGQ0Ul9Yb2lhWXVDeWJvd1hsX1lLbEN6NHRhbnFHd19PaW16SHZueEg2MlJQSFR6RjFGdlBkcDJjSTA?oc=5",
       "date": "Thu, 09 Jul 2026 12:53:10 GMT",
       "source": "디지털투데이",
-      "score": 0
-    },
-    {
-      "title": "'70% 폭락'한 리플(XRP), 지금이 바닥 매수 기회인가...클래러티법 통과되는 순간 끝난다?",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9KZ1dQLUZ5RFhibXlnYXBYQ1RZbE93b2tBME16NGJ5M0ZxeHBISjdXelBydVFHTWJOYmMyODNtUllsRGh0NktlRVpR?oc=5",
-      "date": "Wed, 08 Jul 2026 21:20:00 GMT",
-      "source": "코인리더스",
       "score": 0
     },
     {
@@ -92,6 +92,13 @@
   ],
   "general_news": [
     {
+      "title": "8억 개 토큰 삼킨 현물 ETF 폭풍 흡수에도…리플(XRP) 가격은 왜 1달러 선에 갇혔을까",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1IM3QzYXRzZGI4MTJzS3ZyRzQ2cmo4aEhvMmo1UDZselhMb3dXUDFfV3laMmtkak0yVHdkTnFrU3ROcXdVeVlFM0N3?oc=5",
+      "date": "Fri, 10 Jul 2026 23:31:00 GMT",
+      "source": "코인리더스",
+      "score": 4
+    },
+    {
       "title": "비트코인·이더리움·리플XRP 상승…기술주 랠리에도 국채금리 부담",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WMU5nMnlQclRiMEVNWGFMa2JmZTFNOV9aX0RfWUJtM05qeWZEVE9Rb2lNR3llVlE0WlhJQldGNXAtcjIzUWZFeWJEV2J3LVdjWk1OR1duNGk5bmxaWDVMZlRwNFFSMXdxVDYxVEpwVUVJZw?oc=5",
       "date": "Fri, 10 Jul 2026 22:35:31 GMT",
@@ -113,6 +120,13 @@
       "score": 2
     },
     {
+      "title": "암호화폐(코인) 리플 미결제약정 3개월 만에 최저치... 폭락 신호일까요?",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkdktraDZLdnRwUU9HbWlzSDMxNHRNbjVOU3MzR2lORzl6cjM1Uk1BRUJRdFpqQnVFdnNzVzQtSXB4SVZtRWN1bEpQWDRKNjI5emtWc3J3?oc=5",
+      "date": "Fri, 10 Jul 2026 06:42:00 GMT",
+      "source": "위키트리",
+      "score": 2
+    },
+    {
       "title": "리플(XRP) 현물 ETF, 하루 729만 달러 순유출…3월 이후 최대 규모 자금 이탈",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hUXlUTzN2SUVhanRiOFVSa3dMUVFlYllIUGJpM21aN2RjekFqNGU5cDMtdHRadWJtdU03U2ZlQnF3bmM1aXY2QmtXeFFpME5fOS14b0tYMGlmV2JjeG53NURpcE5zVmFp?oc=5",
       "date": "Fri, 10 Jul 2026 02:28:40 GMT",
@@ -127,25 +141,11 @@
       "score": 2
     },
     {
-      "title": "잠들지 않는 S&P 500이 온다, XRP 레저 위에 올라온 미국 대표지수 이야기 (리플코인)",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUmJxTW1pLUpkRGxmSjZnNzBuY3FTV1lzV2NZZ3JkaXVRRlhfVTB0c1VfTjhVMDF1ZGF6ZkM2cExONHlTQ0tQZThkeVV2XzBsZThjTjNSVFNiclBfU2RFTC10VjFQZ1FpU2JfUmVXYkxnc1hHMUw1dm0yZmZDYURLZHM0YWloLUFrellaOA?oc=5",
-      "date": "Thu, 09 Jul 2026 09:43:05 GMT",
-      "source": "네이버 프리미엄콘텐츠",
-      "score": 2
-    },
-    {
       "title": "26년 7월9일 17:30분 XRP 분석( 차트분석)",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMTRCd1pKNUZtMXA0SUVLOHdEMmxWUlY2em5Eb3Ffd08xWG9EMUFxMXRfOFctSmZvem9Lel9pSUczMGxEem9xMGZjZ0ZObEQ2ZlFnYVNnclFOU1luNHFBbGxudjJGWVhYRzhVMGNGaDd6S2Z2UVM0Wm1CX1dNRGg2Q2ZYMVc3RDgxd0E?oc=5",
       "date": "Thu, 09 Jul 2026 08:29:00 GMT",
       "source": "네이버 프리미엄콘텐츠",
       "score": 2
-    },
-    {
-      "title": "속보 | 오늘 $14.7억 상당 BTC 옵션 만기",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1xZ0FqNlNaVU1PZ09qV3Y4eFRsXzk2UFU0MnNITnBobGlvYzBZLUdrc0pRWWdDdDJKM3RHRUp1azViYW80ZjZMQ1RTaExHLUhP?oc=5",
-      "date": "Thu, 09 Jul 2026 08:05:00 GMT",
-      "source": "CoinNess",
-      "score": 8
     },
     {
       "title": "체인링크, 리플 캔자스대 후원 맹공…\"XRP 은행 테마 밈코인, 본업에 어긋나\"",
