@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-10T10:34:33",
+  "generated_at": "2026-07-10T13:06:13",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.12,
-    "price_krw": 1678.41,
-    "price_change_24h": 2.11403,
-    "price_change_7d": 1.42005,
-    "price_change_30d": 0.78719,
-    "market_cap_usd": 69670062112,
+    "price_usd": 1.11,
+    "price_krw": 1665.23,
+    "price_change_24h": 1.05654,
+    "price_change_7d": 0.14966,
+    "price_change_30d": -1.03603,
+    "market_cap_usd": 69127818227,
     "market_cap_rank": 6,
-    "volume_24h": 919403014,
+    "volume_24h": 919759031,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 67.69,
-    "sentiment_votes_down": 32.31,
+    "sentiment_votes_up": 71.43,
+    "sentiment_votes_down": 28.57,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 25.17,
-    "recent_tps": 25.17,
-    "recent_tx_count": 2265,
+    "tps_24h_avg": 16.76,
+    "recent_tps": 16.76,
+    "recent_tx_count": 1374,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 105500611,
+    "recent_window_sec": 82,
+    "ledger_seq": 105502976,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-10 10:34:27 KST",
+    "updated_at": "2026-07-10 13:06:00 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -83,14 +83,21 @@
       "score": 0
     },
     {
-      "title": "SOL·XRP 현물 ETF 순유출...HYPE는 순유입",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBmYjFwVDVhSVJvQzEwcGtMRUlSdFl0SGxuZDN6TlJaSTRhY0dSX3ZpM3hNVjZHam1LNmxUcUp1MTFlUDluVVFfaG9n?oc=5",
-      "date": "Thu, 09 Jul 2026 03:57:40 GMT",
+      "title": "'70% 폭락'한 리플(XRP), 지금이 바닥 매수 기회인가...클래러티법 통과되는 순간 끝난다?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9KZ1dQLUZ5RFhibXlnYXBYQ1RZbE93b2tBME16NGJ5M0ZxeHBISjdXelBydVFHTWJOYmMyODNtUllsRGh0NktlRVpR?oc=5",
+      "date": "Wed, 08 Jul 2026 21:20:00 GMT",
       "source": "코인리더스",
       "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "알트코인 반등 막혔다…이더리움·리플, 핵심 지지선 시험대",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWZmFfcmIweE44NE1BQUpDaGVQV0wtQ1l1M0szU3YyV3dHMGwxVE01d21DRFd6LTFxcGNKN0VTSVhqNWJnX1BsdnBPT1RyaXp4ZS1DdzZOMmxIck9JdVhKNdIBZkFVX3lxTE9lWUk4SzlaV3hfaUpEbE9QNkZRS0NNODZscThYRHVLNXZjdlNNZ20wbmU0VExjM1FwSUdkNXB2SGdWWDNaai1teG50azJZTzViZ1dZbkY2S1lXdWt0aGtDZXJKOGF6Zw?oc=5",
+      "date": "Fri, 10 Jul 2026 09:41:05 GMT",
+      "source": "tokenpost.kr",
+      "score": 2
+    },
     {
       "title": "리플(XRP) 현물 ETF, 하루 729만 달러 순유출…3월 이후 최대 규모 자금 이탈",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hUXlUTzN2SUVhanRiOFVSa3dMUVFlYllIUGJpM21aN2RjekFqNGU5cDMtdHRadWJtdU03U2ZlQnF3bmM1aXY2QmtXeFFpME5fOS14b0tYMGlmV2JjeG53NURpcE5zVmFp?oc=5",
@@ -120,13 +127,6 @@
       "score": 3
     },
     {
-      "title": "리플(XRP), 1달러 초반대 지지 속 규제 법안 표결을 앞두고 강보합세",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkOHJURkY5QmV4Vjc4NWJTTkRGaGJEdnBRajhTOVloRXNxWFp5QVRUTTA0Mmo0SUpFUkdOVDBfLTI0ckFYN0NLWmhreGFMNlo2c1ZNcnFweXY3MllQNkFKSdIBZkFVX3lxTE9KUVg1QU1XV196NVNQbjdvRl9ySm12aWxRSm9NSVNlanBqejNwMEF0VU9ocXVUN25EdVBZbE15dEt0ZDZkWVR6blVMN3c5bnY1akhYN2JiaWl5YTRSWlJySVlzSEw0Zw?oc=5",
-      "date": "Thu, 09 Jul 2026 21:07:28 GMT",
-      "source": "tokenpost.kr",
-      "score": 2
-    },
-    {
       "title": "리플(XRP), 1.07달러 지지 후 반등 시도…개인 투자자 버티지만 기술적 약세는 여전",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE00VzdXbHBRRm9DWVR1NGszZHRibEpuSkVDTVZVX0xIY2ZHSTE1Y2FwMHlSQTd3THpwajhHVHVMbmtlRldSZUdfUFBn?oc=5",
       "date": "Thu, 09 Jul 2026 12:11:00 GMT",
@@ -148,16 +148,16 @@
       "score": 9
     },
     {
-      "title": "리플 운영 결제망 '레일', 주요 소프트웨어 기업서 제외",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pcUtmakR6dHVlNGlhNUxrN2xvb0o3SzRwZ3VadWRCaG43a3k1VV9GaWw4MWxOeGs3WUxEN29oazdTM0Y0NC1tZ1dfX2R2eklrQ0RtYjdtMFJoUXd6REFBXzRlUy0yWHRpdC15cUJIa2V2RE0?oc=5",
-      "date": "Wed, 08 Jul 2026 13:22:03 GMT",
-      "source": "디지털투데이",
+      "title": "\"골드만삭스가 쓸어담는데 1달러 위태\"… 리플(XRP), 펀더멘털·가격 역주행 미스터리",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeUJlX1B5NW1tMlJXN1VEMFdPeXpGaEZZUEdJQzliSXJoWE9IOFhBRnctZ0lVZDdnLW55eWc1NnBDV09VcEdNWVkwUV9EdS1PRE9PeGZudl90MHo4dTMySlVuUDlGcGM3V2w3bWJUQmNROUtILUE4dENaYkplRjc1QXNwY3VrLUtZ?oc=5",
+      "date": "Wed, 08 Jul 2026 21:42:13 GMT",
+      "source": "글로벌이코노믹",
       "score": 2
     },
     {
-      "title": "1만 XRP | 검색",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jVk9QcXY3R0p6RzlPa0tKSXliNmhGSEItZnZOankwNmtRZVBRVVZwY29ybUVWVjJYMTMwbFV0czdITHRiNXFLLTROZHZPODVEVElVVFJaMFpWOVNfalZ4OGJDX2FSWmhnQWNZMQ?oc=5",
-      "date": "Wed, 08 Jul 2026 08:51:04 GMT",
+      "title": "'내년 예정' 암호화폐 과세...입법조사처 \"과세 기준 미완에 분쟁 가능성\"",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9uaVRpTkV1NnRIWW1CS1hTaUtnVnNYM0U1WndLRzlBTUkyVXE5ZUladkI1aVZmOWdxOFZ3cmh2TUZ1SVBvX3JEVFFYV0VZUmgt?oc=5",
+      "date": "Wed, 08 Jul 2026 16:57:00 GMT",
       "source": "CoinNess",
       "score": 8
     }
