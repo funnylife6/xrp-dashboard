@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-11T18:26:50",
+  "generated_at": "2026-07-11T19:40:14",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.12,
-    "price_krw": 1671.81,
-    "price_change_24h": 1.26905,
-    "price_change_7d": -4.9009,
-    "price_change_30d": -1.98189,
-    "market_cap_usd": 69661958831,
+    "price_usd": 1.11,
+    "price_krw": 1670.43,
+    "price_change_24h": 0.85938,
+    "price_change_7d": -5.13782,
+    "price_change_30d": -2.03295,
+    "market_cap_usd": 69604626866,
     "market_cap_rank": 6,
-    "volume_24h": 625424255,
+    "volume_24h": 612766658,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 61.43,
-    "sentiment_votes_down": 38.57,
+    "sentiment_votes_up": 62.69,
+    "sentiment_votes_down": 37.31,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 19.63,
-    "recent_tps": 19.63,
-    "recent_tx_count": 1610,
+    "tps_24h_avg": 17.09,
+    "recent_tps": 17.09,
+    "recent_tx_count": 1401,
     "recent_ledger_count": 24,
     "recent_window_sec": 82,
-    "ledger_seq": 105530453,
+    "ledger_seq": 105531604,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-11 18:26:38 KST",
+    "updated_at": "2026-07-11 19:40:08 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -103,7 +103,7 @@
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5RYV9SYk9hUl81dkhIN1BqWlNHbC1rNTZQZlNDV3gwS1Y2WUFZVU15QWpNWnNWeE5QMUwwR3Ffa2NiOVZxOHkwMkt3?oc=5",
       "date": "Sat, 11 Jul 2026 12:22:00 GMT",
       "source": "코인리더스",
-      "score": 2
+      "score": 3
     },
     {
       "title": "리플XRP, ETF보다 커진 토큰화 시장 주목…RWA 생태계 확대에 관심 집중",
@@ -117,6 +117,13 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Ua1hrdURzSXQyeUVmaUhTLUY4QXI4di1ZM3B5cXFSTUR0VExBcVp1bVpyc0JlVjVrLVo3Rnd6YmJleHJEZ2Y0MHdYOTZESzRBVjBDSElDTFh5cHpEWXBSeWRQbkhicFlVc1EwRjViLTlQQm8?oc=5",
       "date": "Sat, 11 Jul 2026 11:09:45 GMT",
       "source": "디지털투데이",
+      "score": 2
+    },
+    {
+      "title": "지옥에서 천국까지 리플XRP 차트가 예고한 거대한 변곡점",
+      "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxOS0swQ1lYbmMxSjF6TW1MbkNkRVdZZzNxaHBRVkhaSjlUMFdfTGphaHo0X0xuWHoyQ3FWU2ZncER1U0d0c3JZdHhveEpJTTJYdXdTandZcTByTWVsbUNsVUxTbV93MEJjLUVOVWE2Szh1b0xwZ3hjTEJIQVpIWGh2SUx2OGc0R0ZIc3JOazlWa3BweTdzanZhQVlfOFFQeG1YeGFIZG1ZWVliNGtwbl8wYjRueGstQnYzNk9kbURQNktBeUJZc213YVVnM3Y0SnUxRE9WaElDdFdCX1JPZjFyUWFTd3pNcVhscktDSkkyLWNzWEh4VHREb2U1cnNsaG1WLUFoMnJpcG5pdGJHckhhZzlsRzJmdUI1WXVuRVIzTGVnRC1JcGFsQjROVTZrc01GeXltZ1h2b2tkSnZDSnA2RXZrQjRfN09qbFZyZmdIdGg0ZklVSXhudHE0dE8zMFhkZko2c1QzcThyRUNOS3E5Znk4YjF0QktuR1JuRkZ1dDcxZ21UN29LeGdndFV1TklDNC10LTF5cUR6eXNad2w2VzE3LXo3NjVtUkJ4NDJzYU9kWVBjNW92TA?oc=5",
+      "date": "Sat, 11 Jul 2026 09:56:37 GMT",
+      "source": "MSN",
       "score": 2
     },
     {
@@ -141,23 +148,16 @@
       "score": 2
     },
     {
-      "title": "엑스알피(리플) 가격 상승...\"저항선 뚫으면 최고 3.80달러\"",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56NzY1STJyYXlMMkFDTExOQ0JPclpYVFFCa0RfWmtEczdxTHFrNU9Sc01Cc2ZHX3dlazhIajZkeDBfTDBvRjhVUkMwbDdPeUh6MUk4LUdsQnhlOXctMC04NWRNa0dFTzI1Sk43RnRB?oc=5",
-      "date": "Fri, 10 Jul 2026 15:00:00 GMT",
-      "source": "gukjenews.com",
+      "title": "리플(XRP) 40% 급락에도 '줍줍'…개인 투자자 지갑 수 역대 최고",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB3YlVsVDZtMy1WN2JLaEdFYU4yQXFfQnJXSWNSSHpaWFNTRlgwRnN6Sk9uOVI4SkpzN0ZTMUZkX0NNWTRyWW5YMFpEbzd4dkxxRnk1OXZuRjBaSFdYc3JlLXhuSER0VTlmamFXZEpDWVp5SEnSAXdBVV95cUxOamg1M3M1OVA1VGo4cU1oMy01djJoeFM3N3lnLWpGN1RtUEN3REFpcXotai1mTjB0RHZrSF9PZVZPeDk5RlNtcFpBZC1QN3NpRHJwRkJkQXZaXzNJSUdraHh4Zk44am01U3FMUnJ0THpxdXV1djNBVQ?oc=5",
+      "date": "Fri, 10 Jul 2026 21:35:52 GMT",
+      "source": "핀포인트뉴스",
       "score": 2
     },
     {
       "title": "1만 XRP | 검색",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jVk9QcXY3R0p6RzlPa0tKSXliNmhGSEItZnZOankwNmtRZVBRVVZwY29ybUVWVjJYMTMwbFV0czdITHRiNXFLLTROZHZPODVEVElVVFJaMFpWOVNfalZ4OGJDX2FSWmhnQWNZMQ?oc=5",
       "date": "Wed, 08 Jul 2026 08:51:04 GMT",
-      "source": "CoinNess",
-      "score": 8
-    },
-    {
-      "title": "속보 | 日 SBI 산하 거래소 \"엔화 약세에 기업들 BTC·XRP 투자 주목\"",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8yLV9rRFFMM1UyLVQ3NkkxLXA0QUVhMFpJbFNpb0REU1lVUDZES1NxWDJhRTMtR1l6U3A1dG9OWl9QRUxrek5xVzQtREdZaGNP?oc=5",
-      "date": "Tue, 07 Jul 2026 19:51:00 GMT",
       "source": "CoinNess",
       "score": 8
     }
