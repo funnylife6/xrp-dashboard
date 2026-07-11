@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-11T04:58:06",
+  "generated_at": "2026-07-11T07:10:46",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.1,
-    "price_krw": 1654.42,
-    "price_change_24h": -0.48636,
-    "price_change_7d": -2.98421,
-    "price_change_30d": -1.40699,
-    "market_cap_usd": 68944980105,
+    "price_usd": 1.11,
+    "price_krw": 1659.04,
+    "price_change_24h": 0.24853,
+    "price_change_7d": -2.77095,
+    "price_change_30d": -0.71147,
+    "market_cap_usd": 69132467790,
     "market_cap_rank": 6,
-    "volume_24h": 928317518,
+    "volume_24h": 904374708,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 68.35,
-    "sentiment_votes_down": 31.65,
+    "sentiment_votes_up": 68.42,
+    "sentiment_votes_down": 31.58,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 12.42,
-    "recent_tps": 12.42,
-    "recent_tx_count": 1105,
+    "tps_24h_avg": 16.64,
+    "recent_tps": 16.64,
+    "recent_tx_count": 1498,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 105517803,
+    "recent_window_sec": 90,
+    "ledger_seq": 105519891,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-11 04:57:52 KST",
+    "updated_at": "2026-07-11 07:10:34 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -48,6 +48,13 @@
   },
   "etf_news": [
     {
+      "title": "BTC·ETH·SOL·XRP 순유입…하이퍼리퀴드만 순유출 [오늘의 코인 ETF]",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5RRHRoUGpFT3Z4SDBCSkhaMEZqUU5JRmdDNHY0UFZjaE5yZnZlaGhodWFtMkdkb003VXpUck1ZMm40MHNkS0hFdXFMZWtOSUot?oc=5",
+      "date": "Sat, 11 Jul 2026 05:09:51 GMT",
+      "source": "블루밍비트",
+      "score": 0
+    },
+    {
       "title": "8억 개 토큰 삼킨 현물 ETF 폭풍 흡수에도…리플(XRP) 가격은 왜 1달러 선에 갇혔을까",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1IM3QzYXRzZGI4MTJzS3ZyRzQ2cmo4aEhvMmo1UDZselhMb3dXUDFfV3laMmtkak0yVHdkTnFrU3ROcXdVeVlFM0N3?oc=5",
       "date": "Fri, 10 Jul 2026 23:31:00 GMT",
@@ -59,13 +66,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hUXlUTzN2SUVhanRiOFVSa3dMUVFlYllIUGJpM21aN2RjekFqNGU5cDMtdHRadWJtdU03U2ZlQnF3bmM1aXY2QmtXeFFpME5fOS14b0tYMGlmV2JjeG53NURpcE5zVmFp?oc=5",
       "date": "Fri, 10 Jul 2026 02:28:40 GMT",
       "source": "CBC뉴스",
-      "score": 0
-    },
-    {
-      "title": "올해 암호화폐 대폭락 전조?... 리플 자금 증발이 불러온 잔혹한 공포 시그널",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE40cXlZVk5HYmJBQkVUaWhDR3V0UTlicUhZZlVPeUJfc0I1MlY4U2NiSnhKYnpyYnQwOG5tdVluUllQSUxJRy1UM09YNjU0cGhVUGtGU3FSRlNWMjRfNnp6UV9JT2NkQ3B6OFJlTll3RS1yNV9Hakdn0gF3QVVfeXFMTjRxeVlWTkdiYkFCRVRpaENHdXRROWJxSFlmVU95Ql9zQjUyVjhTY2JKeEpienJidDA4bm11WW5SWVBJTElHLVQzT1g2NTRwaFVQa0ZTcVJGU1YyNF82enpRX0lPY2RDcHo4UmVOWXdFLXI1X0dqR2c?oc=5",
-      "date": "Thu, 09 Jul 2026 15:22:28 GMT",
-      "source": "핀포인트뉴스",
       "score": 0
     },
     {
@@ -120,13 +120,6 @@
       "score": 2
     },
     {
-      "title": "리플, 美 캔자스대 스포츠단 후원...유니폼에 XRP 로고 부착",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1OWHlRYVZ5Nnlma29ia1p4NHp5ZWRkVlVDNWhwa3VrNl9VUm44amxVOUxYTXgxUVFwcjFEcFdxdk16NGJTZEdaZ3F3Z21CQURveDV2MDRNLTRvUk1ZcjdzaEhhUW43S2JNZF9wTG9aNFIyQQ?oc=5",
-      "date": "Fri, 10 Jul 2026 09:45:35 GMT",
-      "source": "디지털애셋",
-      "score": 9
-    },
-    {
       "title": "암호화폐(코인) 리플 미결제약정 3개월 만에 최저치... 폭락 신호일까요?",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkdktraDZLdnRwUU9HbWlzSDMxNHRNbjVOU3MzR2lORzl6cjM1Uk1BRUJRdFpqQnVFdnNzVzQtSXB4SVZtRWN1bEpQWDRKNjI5emtWc3J3?oc=5",
       "date": "Fri, 10 Jul 2026 06:42:00 GMT",
@@ -155,11 +148,18 @@
       "score": 2
     },
     {
-      "title": "속보 | 오늘 $14.7억 상당 BTC 옵션 만기",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1xZ0FqNlNaVU1PZ09qV3Y4eFRsXzk2UFU0MnNITnBobGlvYzBZLUdrc0pRWWdDdDJKM3RHRUp1azViYW80ZjZMQ1RTaExHLUhP?oc=5",
-      "date": "Thu, 09 Jul 2026 08:05:00 GMT",
-      "source": "CoinNess",
-      "score": 8
+      "title": "체인링크, 리플 캔자스대 후원 맹공…\"XRP 은행 테마 밈코인, 본업에 어긋나\"",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1FdmNNcWxZMWpHb0FveXR0Z3JXVm54WTBXTk9Oc295WTM5LS1WLUgxLXpHczZIOXdyQWZnakhzR0dpdkwyRENoQ3ZsaHJlQ2x0Y3p3Q2RzaG1oQ0REbUpzNnNHZjE5cGt4enpacGdRdnpPbWM?oc=5",
+      "date": "Thu, 09 Jul 2026 02:31:17 GMT",
+      "source": "디지털투데이",
+      "score": 3
+    },
+    {
+      "title": "리플XRP·비트코인 하락, 솔스티스 상승…금리·중동 긴장 부담",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ZSnVZWUNKRW8xb19mLXkzTW1GN0FoUlhISlZpNjZkaVQwNjNpRWJ1UjJOT3JXRU5scUo2Yi1pY0lSNEZJMS1VeHNRTmRZSm0weWZYS2NxeGhLWG1PZjlXTnBrVHo1T0dhbFFpM3RjRmIwZw?oc=5",
+      "date": "Wed, 08 Jul 2026 22:05:52 GMT",
+      "source": "TopStarNews",
+      "score": 2
     }
   ]
 }
