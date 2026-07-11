@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-11T15:29:19",
+  "generated_at": "2026-07-11T16:25:57",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.12,
-    "price_krw": 1672.34,
-    "price_change_24h": 1.18052,
-    "price_change_7d": -4.82751,
-    "price_change_30d": -0.06323,
-    "market_cap_usd": 69688203168,
+    "price_usd": 1.11,
+    "price_krw": 1667.23,
+    "price_change_24h": 0.85704,
+    "price_change_7d": -5.11838,
+    "price_change_30d": 0.15913,
+    "market_cap_usd": 69457364021,
     "market_cap_rank": 6,
-    "volume_24h": 653565714,
+    "volume_24h": 662124979,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 61.76,
-    "sentiment_votes_down": 38.24,
+    "sentiment_votes_up": 60.87,
+    "sentiment_votes_down": 39.13,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 16.06,
-    "recent_tps": 16.06,
-    "recent_tx_count": 1429,
+    "tps_24h_avg": 36.76,
+    "recent_tps": 36.76,
+    "recent_tx_count": 3272,
     "recent_ledger_count": 24,
     "recent_window_sec": 89,
-    "ledger_seq": 105527686,
+    "ledger_seq": 105528565,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-11 15:29:08 KST",
+    "updated_at": "2026-07-11 16:25:47 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,6 +92,13 @@
   ],
   "general_news": [
     {
+      "title": "Ripple XRP(XRPUSD) 종목이 7월11일에 1.06% 상승한 이유는 무엇인가요?",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb3U2VkJWVk5SN1ZramRaaFFRZWJUaE9BeWxrTWlGcVcyTFRIUGRZT1cxTF9vMWp6b0NNamlPTlUyaWRoOENkRkszcFlJbF9FSHNhbWNwZHhMU0ZDVXI4WU44cmM0WUh0dGk0cm1xRFNGZlBWVE05VzdqbTd1NTF2dFlLQnl1dmQ1b21VTzhjNkpwZw?oc=5",
+      "date": "Sat, 11 Jul 2026 15:06:10 GMT",
+      "source": "TradingKey",
+      "score": 2
+    },
+    {
       "title": "70% 폭락에도 희망은 남았다! 리플(XRP) 주목받는 이유",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5RYV9SYk9hUl81dkhIN1BqWlNHbC1rNTZQZlNDV3gwS1Y2WUFZVU15QWpNWnNWeE5QMUwwR3Ffa2NiOVZxOHkwMkt3?oc=5",
       "date": "Sat, 11 Jul 2026 12:22:00 GMT",
@@ -141,25 +148,18 @@
       "score": 2
     },
     {
+      "title": "리플(XRP) 40% 급락에도 '줍줍'…개인 투자자 지갑 수 역대 최고",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB3YlVsVDZtMy1WN2JLaEdFYU4yQXFfQnJXSWNSSHpaWFNTRlgwRnN6Sk9uOVI4SkpzN0ZTMUZkX0NNWTRyWW5YMFpEbzd4dkxxRnk1OXZuRjBaSFdYc3JlLXhuSER0VTlmamFXZEpDWVp5SEnSAXdBVV95cUxOamg1M3M1OVA1VGo4cU1oMy01djJoeFM3N3lnLWpGN1RtUEN3REFpcXotai1mTjB0RHZrSF9PZVZPeDk5RlNtcFpBZC1QN3NpRHJwRkJkQXZaXzNJSUdraHh4Zk44am01U3FMUnJ0THpxdXV1djNBVQ?oc=5",
+      "date": "Fri, 10 Jul 2026 21:35:52 GMT",
+      "source": "핀포인트뉴스",
+      "score": 2
+    },
+    {
       "title": "속보 | 업비트·빗썸·코인원, HBAR 투자 유의 촉구",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5JcFFZQ0s5UEVrdG5mUEo5MXU5T3VzTGpFd0xWbkxSOFRWZFpTeTBCZWgxMl9WUlJsaFRUbXRsTVBUMDJFVC1rd3JoRzRjWmY5?oc=5",
       "date": "Fri, 10 Jul 2026 16:47:00 GMT",
       "source": "CoinNess",
       "score": 10
-    },
-    {
-      "title": "스위프트 전 CIO, XRP 협력설 일축…리플 채택 루머 일단락",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90cHYxeUw5dXdMNUtvZkQ4Q3p0WWdqYWFYTzEtaVdoV2NYQnhHWEhoN3E1US1JTl9LcUk5YTYyVXpNck5uaHlobGc2MFMtWEQwN1NFNVZnZ2JvRXlRNmpkZNIBZkFVX3lxTE4ybU50NHdkR2FIYmdmY2J2d0poeHRYY295cHJoWFNtQTV3WDdCTm1pWmtjanVlUmczczRlakQ4bFBIaVhLMjA3WlpnWkZ6eG1vaThxWjI1eDJCSkFOSU9FNzZpYXZHdw?oc=5",
-      "date": "Fri, 10 Jul 2026 11:51:10 GMT",
-      "source": "tokenpost.kr",
-      "score": 2
-    },
-    {
-      "title": "토레스 판사 추가 판단에 XRP 다시 주목…1.05~1.16달러 박스권, 변수는 규제 해석",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FNnBlYkk4R0NfQlhFOE5qcml2Zktnb05aYzQ0aVhmTEY0dURPWm9CVmxiZ2RUT1NVN1NkSDJ4STZ2a0hiUjRHTG9GcVlMZXY5NzBJODYteXdSWU82TFBIddIBZkFVX3lxTE5aaXpCWk5LNy1DWmJIdHpnTndLN0hoa1lqMFBPT0hNOVJFMkVpN1kwWWUxa0NIQkZZM2lqZWVnUmlmWVZ0WFE1dDNhRVpJdDktckFuVVNDamRDNkdNWmdhZTN6enVTdw?oc=5",
-      "date": "Fri, 10 Jul 2026 09:50:52 GMT",
-      "source": "tokenpost.kr",
-      "score": 2
     }
   ]
 }
