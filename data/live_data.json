@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-11T14:23:51",
+  "generated_at": "2026-07-11T15:29:19",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.11,
-    "price_krw": 1663.97,
-    "price_change_24h": 0.93356,
-    "price_change_7d": -3.36,
-    "price_change_30d": -0.65205,
-    "market_cap_usd": 69334434538,
+    "price_usd": 1.12,
+    "price_krw": 1672.34,
+    "price_change_24h": 1.18052,
+    "price_change_7d": -4.82751,
+    "price_change_30d": -0.06323,
+    "market_cap_usd": 69688203168,
     "market_cap_rank": 6,
-    "volume_24h": 702748388,
+    "volume_24h": 653565714,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 57.53,
-    "sentiment_votes_down": 42.47,
+    "sentiment_votes_up": 61.76,
+    "sentiment_votes_down": 38.24,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 21.77,
-    "recent_tps": 21.77,
-    "recent_tx_count": 1959,
+    "tps_24h_avg": 16.06,
+    "recent_tps": 16.06,
+    "recent_tx_count": 1429,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 105526668,
+    "recent_window_sec": 89,
+    "ledger_seq": 105527686,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-11 14:23:40 KST",
+    "updated_at": "2026-07-11 15:29:08 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -141,6 +141,13 @@
       "score": 2
     },
     {
+      "title": "속보 | 업비트·빗썸·코인원, HBAR 투자 유의 촉구",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5JcFFZQ0s5UEVrdG5mUEo5MXU5T3VzTGpFd0xWbkxSOFRWZFpTeTBCZWgxMl9WUlJsaFRUbXRsTVBUMDJFVC1rd3JoRzRjWmY5?oc=5",
+      "date": "Fri, 10 Jul 2026 16:47:00 GMT",
+      "source": "CoinNess",
+      "score": 10
+    },
+    {
       "title": "스위프트 전 CIO, XRP 협력설 일축…리플 채택 루머 일단락",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90cHYxeUw5dXdMNUtvZkQ4Q3p0WWdqYWFYTzEtaVdoV2NYQnhHWEhoN3E1US1JTl9LcUk5YTYyVXpNck5uaHlobGc2MFMtWEQwN1NFNVZnZ2JvRXlRNmpkZNIBZkFVX3lxTE4ybU50NHdkR2FIYmdmY2J2d0poeHRYY295cHJoWFNtQTV3WDdCTm1pWmtjanVlUmczczRlakQ4bFBIaVhLMjA3WlpnWkZ6eG1vaThxWjI1eDJCSkFOSU9FNzZpYXZHdw?oc=5",
       "date": "Fri, 10 Jul 2026 11:51:10 GMT",
@@ -152,13 +159,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FNnBlYkk4R0NfQlhFOE5qcml2Zktnb05aYzQ0aVhmTEY0dURPWm9CVmxiZ2RUT1NVN1NkSDJ4STZ2a0hiUjRHTG9GcVlMZXY5NzBJODYteXdSWU82TFBIddIBZkFVX3lxTE5aaXpCWk5LNy1DWmJIdHpnTndLN0hoa1lqMFBPT0hNOVJFMkVpN1kwWWUxa0NIQkZZM2lqZWVnUmlmWVZ0WFE1dDNhRVpJdDktckFuVVNDamRDNkdNWmdhZTN6enVTdw?oc=5",
       "date": "Fri, 10 Jul 2026 09:50:52 GMT",
       "source": "tokenpost.kr",
-      "score": 2
-    },
-    {
-      "title": "암호화폐(코인) 리플 미결제약정 3개월 만에 최저치... 폭락 신호일까요?",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkdktraDZLdnRwUU9HbWlzSDMxNHRNbjVOU3MzR2lORzl6cjM1Uk1BRUJRdFpqQnVFdnNzVzQtSXB4SVZtRWN1bEpQWDRKNjI5emtWc3J3?oc=5",
-      "date": "Fri, 10 Jul 2026 06:42:00 GMT",
-      "source": "위키트리",
       "score": 2
     }
   ]
