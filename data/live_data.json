@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-11T21:41:37",
+  "generated_at": "2026-07-11T22:39:33",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.11,
-    "price_krw": 1669.6,
-    "price_change_24h": 0.8084,
-    "price_change_7d": -4.56637,
-    "price_change_30d": -1.89468,
-    "market_cap_usd": 69570597091,
+    "price_krw": 1664.15,
+    "price_change_24h": 0.55061,
+    "price_change_7d": -4.75387,
+    "price_change_30d": -2.5677,
+    "market_cap_usd": 69345296246,
     "market_cap_rank": 6,
-    "volume_24h": 587137116,
+    "volume_24h": 601718414,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 62.12,
-    "sentiment_votes_down": 37.88,
+    "sentiment_votes_up": 62.69,
+    "sentiment_votes_down": 37.31,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 18.0,
-    "recent_tps": 18.0,
-    "recent_tx_count": 1620,
+    "tps_24h_avg": 24.09,
+    "recent_tps": 24.09,
+    "recent_tx_count": 2168,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 105533497,
+    "ledger_seq": 105534398,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-11 21:41:30 KST",
+    "updated_at": "2026-07-11 22:39:20 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -47,6 +47,13 @@
     "data_source": "news_parse"
   },
   "etf_news": [
+    {
+      "title": "규제 불확실성 걷어낸 리플(XRP), 다음 상승 동력은 XRP 레저와 ETF에 쏠린다",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04RE9oZnpIeUZZVUk3TUdZVFd2cm00VDVKZVVKNjJ5c2lJX2pud2dwbk1FZ3hyZHJCQnNZWWlGU2J3ZlFqVmVubTdJY0liVy12eWxRVnR0N05ua0dOU1pHTy1sTmxvX0xsUE90R2F3?oc=5",
+      "date": "Sat, 11 Jul 2026 22:22:23 GMT",
+      "source": "미디어파인",
+      "score": 0
+    },
     {
       "title": "70% 폭락에도 희망은 남았다! 리플(XRP) 주목받는 이유",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5RYV9SYk9hUl81dkhIN1BqWlNHbC1rNTZQZlNDV3gwS1Y2WUFZVU15QWpNWnNWeE5QMUwwR3Ffa2NiOVZxOHkwMkt3?oc=5",
@@ -81,16 +88,23 @@
       "date": "Fri, 10 Jul 2026 23:31:00 GMT",
       "source": "코인리더스",
       "score": 0
-    },
-    {
-      "title": "올해 암호화폐 대폭락 전조?... 리플 자금 증발이 불러온 잔혹한 공포 시그널",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE40cXlZVk5HYmJBQkVUaWhDR3V0UTlicUhZZlVPeUJfc0I1MlY4U2NiSnhKYnpyYnQwOG5tdVluUllQSUxJRy1UM09YNjU0cGhVUGtGU3FSRlNWMjRfNnp6UV9JT2NkQ3B6OFJlTll3RS1yNV9Hakdn0gF3QVVfeXFMTjRxeVlWTkdiYkFCRVRpaENHdXRROWJxSFlmVU95Ql9zQjUyVjhTY2JKeEpienJidDA4bm11WW5SWVBJTElHLVQzT1g2NTRwaFVQa0ZTcVJGU1YyNF82enpRX0lPY2RDcHo4UmVOWXdFLXI1X0dqR2c?oc=5",
-      "date": "Thu, 09 Jul 2026 15:22:28 GMT",
-      "source": "핀포인트뉴스",
-      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "규제 불확실성 걷어낸 리플(XRP), 다음 상승 동력은 XRP 레저와 ETF에 쏠린다",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04RE9oZnpIeUZZVUk3TUdZVFd2cm00VDVKZVVKNjJ5c2lJX2pud2dwbk1FZ3hyZHJCQnNZWWlGU2J3ZlFqVmVubTdJY0liVy12eWxRVnR0N05ua0dOU1pHTy1sTmxvX0xsUE90R2F3?oc=5",
+      "date": "Sat, 11 Jul 2026 22:22:23 GMT",
+      "source": "미디어파인",
+      "score": 3
+    },
+    {
+      "title": "리플 CEO \"2020년 SEC 소송 때 폐업 고민했다\"",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YUDd1dzBDYXZTM2hqX1JDWDlveU5uQ1lmeEl2LXMwUHVmaGVCcl80bW5OdUY0XzhWSFo3bUVTbUFpNFgtdUJ2Zk5RdFNlQWdYTmZ3elRkSHg?oc=5",
+      "date": "Sat, 11 Jul 2026 21:46:00 GMT",
+      "source": "블록미디어",
+      "score": 2
+    },
     {
       "title": "Ripple XRP(XRPUSD) 종목이 7월11일에 1.06% 상승한 이유는 무엇인가요?",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb3U2VkJWVk5SN1ZramRaaFFRZWJUaE9BeWxrTWlGcVcyTFRIUGRZT1cxTF9vMWp6b0NNamlPTlUyaWRoOENkRkszcFlJbF9FSHNhbWNwZHhMU0ZDVXI4WU44cmM0WUh0dGk0cm1xRFNGZlBWVE05VzdqbTd1NTF2dFlLQnl1dmQ1b21VTzhjNkpwZw?oc=5",
@@ -146,20 +160,6 @@
       "date": "Fri, 10 Jul 2026 22:35:31 GMT",
       "source": "TopStarNews",
       "score": 2
-    },
-    {
-      "title": "1만 XRP | 검색",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jVk9QcXY3R0p6RzlPa0tKSXliNmhGSEItZnZOankwNmtRZVBRVVZwY29ybUVWVjJYMTMwbFV0czdITHRiNXFLLTROZHZPODVEVElVVFJaMFpWOVNfalZ4OGJDX2FSWmhnQWNZMQ?oc=5",
-      "date": "Wed, 08 Jul 2026 08:51:04 GMT",
-      "source": "CoinNess",
-      "score": 8
-    },
-    {
-      "title": "속보 | 日 SBI 산하 거래소 \"엔화 약세에 기업들 BTC·XRP 투자 주목\"",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8yLV9rRFFMM1UyLVQ3NkkxLXA0QUVhMFpJbFNpb0REU1lVUDZES1NxWDJhRTMtR1l6U3A1dG9OWl9QRUxrek5xVzQtREdZaGNP?oc=5",
-      "date": "Tue, 07 Jul 2026 19:51:00 GMT",
-      "source": "CoinNess",
-      "score": 8
     }
   ]
 }
