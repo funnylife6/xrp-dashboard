@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-12T18:54:36",
+  "generated_at": "2026-07-12T20:03:01",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.099,
-    "price_krw": 1647.86,
-    "price_change_24h": -1.5665,
-    "price_change_7d": -3.02227,
-    "price_change_30d": -2.82375,
-    "market_cap_usd": 68661571143,
+    "price_usd": 1.1,
+    "price_krw": 1648.85,
+    "price_change_24h": -1.33196,
+    "price_change_7d": -3.35584,
+    "price_change_30d": -2.73067,
+    "market_cap_usd": 68704898740,
     "market_cap_rank": 6,
-    "volume_24h": 696202505,
+    "volume_24h": 696990568,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 57.41,
-    "sentiment_votes_down": 42.59,
+    "sentiment_votes_up": 58.93,
+    "sentiment_votes_down": 41.07,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 14.53,
-    "recent_tps": 14.53,
-    "recent_tx_count": 1308,
+    "tps_24h_avg": 17.0,
+    "recent_tps": 17.0,
+    "recent_tx_count": 1530,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 105553468,
+    "ledger_seq": 105554539,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-12 18:54:21 KST",
+    "updated_at": "2026-07-12 20:02:54 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,6 +92,13 @@
   ],
   "general_news": [
     {
+      "title": "\"상승 베팅에 비용 폭탄\"… 리플(XRP), 펀딩비 폭등 속 1억 달러 연쇄 청산 '경고등'",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMW9QdVNvdlhRd2k3ZnZCN0ZrUmJ2Vm4ybm4tRDgwS09HVV9hTTRLNVc5SEcwWC1TV0tQZmJGN1VmNnZ5N3d1WkMtekdRdUFkaUtpUWRGc1dOVnc2ajZIb04tRzkwVkN0emlLYVh1OGs1eFBlZ1F0aWt1andEQnhKN01hWWpvYzVD?oc=5",
+      "date": "Sun, 12 Jul 2026 19:05:58 GMT",
+      "source": "글로벌이코노믹",
+      "score": 2
+    },
+    {
       "title": "리플(XRP), 1.1달러대 횡보와 함께 온체인 활동 최저 수준 기록",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2UFpMaWRibDJIbjdVU0wxN0Vya0lqOXcxZ08wdE9NY3lHTUV6V2Fmck1TdlRRSE9BdFlhaG9jSHZOT2pYRGFzSVZBU1lUU2RtenNQOEtpRmV4Rnh2TDRXWtIBZkFVX3lxTFBaOWRlVW9HRURGU1doNER0Yl9NTjc0TTBGWFBDZERnZ05qVXdFT3k5X19OclM5Q3p5b05VYndhSG1XOXdWRlpiYzZOZVJjTjJULTVmTEtsVjZ2Y0g0aUdqdTZmTjF5Zw?oc=5",
       "date": "Sun, 12 Jul 2026 13:07:34 GMT",
@@ -124,13 +131,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9EbWZEYnFkZ0RPZ1pzbng3Y3BxSVk4Skt0YktvSk9CQ1dzdjE3RmI5TFFEWTU1Q2Iwb2lFbExWUi1HWl9CZzZ4TXdiOXRNOFpCLWtLT3U4T1pybDhyM1c5QUhuN0R6bkpC?oc=5",
       "date": "Sun, 12 Jul 2026 01:50:14 GMT",
       "source": "CBC뉴스",
-      "score": 2
-    },
-    {
-      "title": "XRP, 클래리티 법안 17일 청문회 앞두고 숨고르기…1.16달러 돌파 시험대",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb1dfUEFYVzZpU2hyYk9ZRFBLT0I4MHFaX05tbzBmaEpuWTFGLWozUkRQRHY0eHZOU21IQXk3SVJ3UGxQNnQ5R1UtX0h6cFNaWmQtOEFUX0gtQjJjRzNRMy1aY0h6ZExVWG82LWxzdHM1d25PY1RGdlhKTk50YWtYbVdLY0h5eG8z?oc=5",
-      "date": "Sat, 11 Jul 2026 23:12:42 GMT",
-      "source": "글로벌이코노믹",
       "score": 2
     },
     {
