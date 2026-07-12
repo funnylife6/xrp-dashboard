@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-12T07:41:19",
+  "generated_at": "2026-07-12T09:45:03",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.091,
-    "price_krw": 1635.26,
-    "price_change_24h": -1.49352,
-    "price_change_7d": -4.13152,
-    "price_change_30d": -3.31142,
-    "market_cap_usd": 68149528128,
+    "price_usd": 1.094,
+    "price_krw": 1639.48,
+    "price_change_24h": -1.34084,
+    "price_change_7d": -3.90905,
+    "price_change_30d": -4.08591,
+    "market_cap_usd": 68314620599,
     "market_cap_rank": 6,
-    "volume_24h": 769746489,
+    "volume_24h": 795021809,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 51.79,
-    "sentiment_votes_down": 48.21,
+    "sentiment_votes_up": 53.7,
+    "sentiment_votes_down": 46.3,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 18.91,
-    "recent_tps": 18.91,
-    "recent_tx_count": 1532,
+    "tps_24h_avg": 18.84,
+    "recent_tps": 18.84,
+    "recent_tx_count": 1677,
     "recent_ledger_count": 24,
-    "recent_window_sec": 81,
-    "ledger_seq": 105542889,
+    "recent_window_sec": 89,
+    "ledger_seq": 105544841,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-12 07:41:06 KST",
+    "updated_at": "2026-07-12 09:44:56 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -99,6 +99,13 @@
       "score": 3
     },
     {
+      "title": "리플(XRP), 규제 불확실성 속 1달러 초반 횡보…XRPL 생태계는 고성장",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GeXp0VGJmaDA0UzRFWW1mMUxzM0RIVWRNZGpoUHBVNkFYLW5LVGc0VkFCQVZWbDBFSkFQRWFoTW1Dc0VOTTRLdEowaGZPcGtzS2VzWFJwLWpQTXc2RnFfcdIBZkFVX3lxTE1hMkVobk1SalR1YS1JRFVWcHo3UTlIVUV2S280QTNoWFloSHlyRXJ3aEowY3FxT0JWelZWZEwyMnpVOTBZVkJEZkVHNE5VVkw2RC1MT2Jxckh2UU55dEdjX0QybFlQQQ?oc=5",
+      "date": "Sun, 12 Jul 2026 05:07:21 GMT",
+      "source": "tokenpost.kr",
+      "score": 2
+    },
+    {
       "title": "\"리플, SEC 소송 당시 문 닫을 뻔했다\"",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9EbWZEYnFkZ0RPZ1pzbng3Y3BxSVk4Skt0YktvSk9CQ1dzdjE3RmI5TFFEWTU1Q2Iwb2lFbExWUi1HWl9CZzZ4TXdiOXRNOFpCLWtLT3U4T1pybDhyM1c5QUhuN0R6bkpC?oc=5",
       "date": "Sun, 12 Jul 2026 01:50:14 GMT",
@@ -120,13 +127,6 @@
       "score": 2
     },
     {
-      "title": "규제 불확실성 걷어낸 리플(XRP), 다음 상승 동력은 XRP 레저와 ETF에 쏠린다",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04RE9oZnpIeUZZVUk3TUdZVFd2cm00VDVKZVVKNjJ5c2lJX2pud2dwbk1FZ3hyZHJCQnNZWWlGU2J3ZlFqVmVubTdJY0liVy12eWxRVnR0N05ua0dOU1pHTy1sTmxvX0xsUE90R2F3?oc=5",
-      "date": "Sat, 11 Jul 2026 22:22:23 GMT",
-      "source": "미디어파인",
-      "score": 3
-    },
-    {
       "title": "리플 CEO \"2020년 SEC 소송 때 폐업 고민했다\"",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YUDd1dzBDYXZTM2hqX1JDWDlveU5uQ1lmeEl2LXMwUHVmaGVCcl80bW5OdUY0XzhWSFo3bUVTbUFpNFgtdUJ2Zk5RdFNlQWdYTmZ3elRkSHg?oc=5",
       "date": "Sat, 11 Jul 2026 21:46:00 GMT",
@@ -134,11 +134,11 @@
       "score": 3
     },
     {
-      "title": "10억 개 또 풀리는 리플(XRP), 이번에도 폭락 없이 1.18달러 벽 넘을까?",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE83M25pczh1WFhHU3l4R0lXRDk3UGZDdE9sa2hFZGUwYjN6VmFOeWxIQU95RThzenoxZlozajN6a1cxNHN0LXVyU0Jn?oc=5",
-      "date": "Sat, 11 Jul 2026 12:32:00 GMT",
-      "source": "코인리더스",
-      "score": 2
+      "title": "리플(Ripple)은 한때 사업 종료와 XRP를 주주들에게 인도하는 방안을 검토했다고 CEO가 밝혔습니다",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUkhiTlEwTDVzU180YTBjUVlpSlJ1T2lWc2xYZEZ1b3NVcGNlVFdFRnc2WS1hT0lCQ3VrRll5LUpuWVFIamtoek9SR19BallXMHpkdHVkdW1qblJqd3piZUJhcmxYMGlNRHdxRVAxVHlHRG9Ed20xY2Y2a2REemhkb1FmaThLV1k2S0tGLW5lSVdWZDNXb0xTLU5BazF6OFdhb3dMeEFLUHNPX0Y1T1VvYmJKR09uREZxZjlYQXRB?oc=5",
+      "date": "Sat, 11 Jul 2026 14:09:00 GMT",
+      "source": "CoinDesk",
+      "score": 3
     },
     {
       "title": "리플XRP, ETF보다 커진 토큰화 시장 주목…RWA 생태계 확대에 관심 집중",
