@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-12T17:53:42",
+  "generated_at": "2026-07-12T18:54:36",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.099,
-    "price_krw": 1647.99,
-    "price_change_24h": -1.38961,
-    "price_change_7d": -3.2051,
-    "price_change_30d": -2.97703,
-    "market_cap_usd": 68668209688,
+    "price_krw": 1647.86,
+    "price_change_24h": -1.5665,
+    "price_change_7d": -3.02227,
+    "price_change_30d": -2.82375,
+    "market_cap_usd": 68661571143,
     "market_cap_rank": 6,
-    "volume_24h": 703546626,
+    "volume_24h": 696202505,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 61.11,
-    "sentiment_votes_down": 38.89,
+    "sentiment_votes_up": 57.41,
+    "sentiment_votes_down": 42.59,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 24.79,
-    "recent_tps": 24.79,
-    "recent_tx_count": 2206,
+    "tps_24h_avg": 14.53,
+    "recent_tps": 14.53,
+    "recent_tx_count": 1308,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 105552516,
+    "recent_window_sec": 90,
+    "ledger_seq": 105553468,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-12 17:53:31 KST",
+    "updated_at": "2026-07-12 18:54:21 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,6 +92,13 @@
   ],
   "general_news": [
     {
+      "title": "리플(XRP), 1.1달러대 횡보와 함께 온체인 활동 최저 수준 기록",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2UFpMaWRibDJIbjdVU0wxN0Vya0lqOXcxZ08wdE9NY3lHTUV6V2Fmck1TdlRRSE9BdFlhaG9jSHZOT2pYRGFzSVZBU1lUU2RtenNQOEtpRmV4Rnh2TDRXWtIBZkFVX3lxTFBaOWRlVW9HRURGU1doNER0Yl9NTjc0TTBGWFBDZERnZ05qVXdFT3k5X19OclM5Q3p5b05VYndhSG1XOXdWRlpiYzZOZVJjTjJULTVmTEtsVjZ2Y0g0aUdqdTZmTjF5Zw?oc=5",
+      "date": "Sun, 12 Jul 2026 13:07:34 GMT",
+      "source": "tokenpost.kr",
+      "score": 2
+    },
+    {
       "title": "리플, XRP 소송 후 사업 중단 검토…CEO 공개",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSTNWaFVkOUR1dDI5ZU9LNkpacTJ3YWp1UlVvcWRCZ2IwQmlIUUZBa1ZwOHlKRkJibHRhT1pLSXQ5V3h1YlFLWi16dUlRLWF3QXRUWnRHWnd6UlRSMDRyN2JoSUZla0p5YUgtNWxmX1hodzFUVlhCWTVjNFYwUk41dnNITzE1UVE?oc=5",
       "date": "Sun, 12 Jul 2026 11:10:08 GMT",
@@ -104,13 +111,6 @@
       "date": "Sun, 12 Jul 2026 05:30:00 GMT",
       "source": "코인리더스",
       "score": 3
-    },
-    {
-      "title": "리플(XRP), 규제 불확실성 속 1달러 초반 횡보…XRPL 생태계는 고성장",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GeXp0VGJmaDA0UzRFWW1mMUxzM0RIVWRNZGpoUHBVNkFYLW5LVGc0VkFCQVZWbDBFSkFQRWFoTW1Dc0VOTTRLdEowaGZPcGtzS2VzWFJwLWpQTXc2RnFfcdIBZkFVX3lxTE1hMkVobk1SalR1YS1JRFVWcHo3UTlIVUV2S280QTNoWFloSHlyRXJ3aEowY3FxT0JWelZWZEwyMnpVOTBZVkJEZkVHNE5VVkw2RC1MT2Jxckh2UU55dEdjX0QybFlQQQ?oc=5",
-      "date": "Sun, 12 Jul 2026 05:07:21 GMT",
-      "source": "tokenpost.kr",
-      "score": 2
     },
     {
       "title": "리플 1달러 깨진다…독일 투자 거물 섬뜩한 경고",
