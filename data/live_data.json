@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-12T11:06:24",
+  "generated_at": "2026-07-12T12:12:40",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.094,
-    "price_krw": 1639.94,
-    "price_change_24h": -1.31887,
-    "price_change_7d": -3.04893,
-    "price_change_30d": -4.67023,
-    "market_cap_usd": 68330933271,
+    "price_usd": 1.096,
+    "price_krw": 1642.9,
+    "price_change_24h": -1.03913,
+    "price_change_7d": -3.15929,
+    "price_change_30d": -3.91535,
+    "market_cap_usd": 68456320304,
     "market_cap_rank": 6,
-    "volume_24h": 748229417,
+    "volume_24h": 744742904,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 54.39,
-    "sentiment_votes_down": 45.61,
+    "sentiment_votes_up": 56.36,
+    "sentiment_votes_down": 43.64,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 19.65,
-    "recent_tps": 19.65,
-    "recent_tx_count": 1611,
+    "tps_24h_avg": 26.63,
+    "recent_tps": 26.63,
+    "recent_tx_count": 2184,
     "recent_ledger_count": 24,
     "recent_window_sec": 82,
-    "ledger_seq": 105546135,
+    "ledger_seq": 105547181,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-12 11:06:10 KST",
+    "updated_at": "2026-07-12 12:12:27 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,6 +92,13 @@
   ],
   "general_news": [
     {
+      "title": "리플, XRP 소송 후 사업 중단 검토…CEO 공개",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSTNWaFVkOUR1dDI5ZU9LNkpacTJ3YWp1UlVvcWRCZ2IwQmlIUUZBa1ZwOHlKRkJibHRhT1pLSXQ5V3h1YlFLWi16dUlRLWF3QXRUWnRHWnd6UlRSMDRyN2JoSUZla0p5YUgtNWxmX1hodzFUVlhCWTVjNFYwUk41dnNITzE1UVE?oc=5",
+      "date": "Sun, 12 Jul 2026 11:10:08 GMT",
+      "source": "BeInCrypto",
+      "score": 2
+    },
+    {
       "title": "XRP(리플), 1.1달러 심리선 '와르르'...15억 달러 유입에도 추가 폭락?",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1YOXQ4blBuVnh5NUJFMUI5OHNkWVY0MHZWZjlWVi02YmM5OUtuN0xCbXVyai00WnVzQU16R0hQM3VfclRfRTY5bjhR?oc=5",
       "date": "Sun, 12 Jul 2026 05:30:00 GMT",
@@ -103,6 +110,13 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GeXp0VGJmaDA0UzRFWW1mMUxzM0RIVWRNZGpoUHBVNkFYLW5LVGc0VkFCQVZWbDBFSkFQRWFoTW1Dc0VOTTRLdEowaGZPcGtzS2VzWFJwLWpQTXc2RnFfcdIBZkFVX3lxTE1hMkVobk1SalR1YS1JRFVWcHo3UTlIVUV2S280QTNoWFloSHlyRXJ3aEowY3FxT0JWelZWZEwyMnpVOTBZVkJEZkVHNE5VVkw2RC1MT2Jxckh2UU55dEdjX0QybFlQQQ?oc=5",
       "date": "Sun, 12 Jul 2026 05:07:21 GMT",
       "source": "tokenpost.kr",
+      "score": 2
+    },
+    {
+      "title": "리플 1달러 깨진다…독일 투자 거물 섬뜩한 경고",
+      "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxObG9RN1RYUEJZRWZBcEpnVUE2dkNIQnMzLUkwYy16bVlvVVc4dU9MYmRPcnpYN05lLUFkSzVfdFlRb043Z0szMVNtOTRxQXhjUFZVS3Z6a2V2WHJoZ3NMd1dWQ19GVmMzRVhSa2d5N2VtYm9oNEc4Uk4wMUo4S3pwUnRIVTdzUlZGOXBSZjNFcVRaNEhuQXV4VGRQb0RXdy02QUl6LUVLdjdvbGVKdXBKMVJkTTFLZFE0aG84djNRdGo1RmZibWFXeGY2V3BUWW5tS3dwSllkRFpyN1VaSThaZVV1RXc4QTFEMWRpX0padTJQLVBMY0JHaHozUUFkQkdpVkV5T1VXb0poclVNaVR0WW5hREFkVXQ0MTgya0hXZURwdW55c2dUQ1p3NDh0YWhGM2hreU1qLVlfN1lqZm4yZmVUX1FYeUwxc3NCUkwzdHFnMGJobmUxM3FRX1h4OThHT0xkVFVUUnd4N3NVSDF2U1pWNU8xOThEOE9TVUM4NmVfdw?oc=5",
+      "date": "Sun, 12 Jul 2026 03:50:00 GMT",
+      "source": "MSN",
       "score": 2
     },
     {
@@ -146,20 +160,6 @@
       "date": "Sat, 11 Jul 2026 14:09:00 GMT",
       "source": "CoinDesk",
       "score": 3
-    },
-    {
-      "title": "리플XRP, ETF보다 커진 토큰화 시장 주목…RWA 생태계 확대에 관심 집중",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GVWhPZDFVYWdxTkpyaGVEREl0ZTVjamJacHF3NnFWeEpBNUxBM2tuUndMRUtZYklqTjJoMS1STzlVcURnZ1ByNkxWakdWZDlRN2lJWTJrYTdHaUFvckYzX2NuekZBQnd6?oc=5",
-      "date": "Sat, 11 Jul 2026 12:19:55 GMT",
-      "source": "CBC뉴스",
-      "score": 3
-    },
-    {
-      "title": "체인링크 커뮤니티 리드 “XRP, 실질적 채택 없다”",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Ua1hrdURzSXQyeUVmaUhTLUY4QXI4di1ZM3B5cXFSTUR0VExBcVp1bVpyc0JlVjVrLVo3Rnd6YmJleHJEZ2Y0MHdYOTZESzRBVjBDSElDTFh5cHpEWXBSeWRQbkhicFlVc1EwRjViLTlQQm8?oc=5",
-      "date": "Sat, 11 Jul 2026 11:09:45 GMT",
-      "source": "디지털투데이",
-      "score": 2
     }
   ]
 }
