@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-13T08:10:54",
+  "generated_at": "2026-07-13T11:35:54",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.079,
-    "price_krw": 1615.14,
-    "price_change_24h": -1.18646,
-    "price_change_7d": -5.75153,
-    "price_change_30d": -5.55685,
-    "market_cap_usd": 67405929929,
+    "price_usd": 1.078,
+    "price_krw": 1609.47,
+    "price_change_24h": -1.5842,
+    "price_change_7d": -5.03774,
+    "price_change_30d": -5.61996,
+    "market_cap_usd": 67346529809,
     "market_cap_rank": 6,
-    "volume_24h": 837608584,
+    "volume_24h": 877716071,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 66.07,
-    "sentiment_votes_down": 33.93,
+    "sentiment_votes_up": 62.5,
+    "sentiment_votes_down": 37.5,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 14.43,
-    "recent_tps": 14.43,
-    "recent_tx_count": 1299,
+    "tps_24h_avg": 17.94,
+    "recent_tps": 17.94,
+    "recent_tx_count": 1453,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 105565956,
+    "recent_window_sec": 81,
+    "ledger_seq": 105569176,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-13 08:10:41 KST",
+    "updated_at": "2026-07-13 11:35:47 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -48,9 +48,16 @@
   },
   "etf_news": [
     {
+      "title": "XRP ETF서 718만달러 빠져나가…고래 매수세 '실종' 수준",
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPQm9VTGhfcUpQZ0VUcGtPdXFLckpJZkVpTnNqeVZlR21pcFFpdEZpOXBpTS1YeldsdE5XaHlUTDRBMENBZEdRWDNkd25SQzlEdGpNNUJFall1Z0F4dm0tRFMxX19mNHdRdzdPQjAtZVBDaVVILW9qNE5PeDRsclFmdGgxRTducDAzXzJ6eExSQ1Q1VTg3NFZYWDlMTmoxZDlQUy1PUzljeFFJWm1UVldQMjZMWmNZeUtVWmg0MlhWZHlDU044cHFXRDJCT180TGtoTU1nSXdwQjFhY1lmN1RiU3BUV0swclpqWDhQX2wzSF9QSW5LT1VraUNSbG1aQVBvdkZjdjFRanZIYUtVQUtEZ284bGlJRGlDNjlBYm9CdGtVVlVETVVkaUNSU0I?oc=5",
+      "date": "Mon, 13 Jul 2026 11:34:29 GMT",
+      "source": "Yellow.com",
+      "score": 0
+    },
+    {
       "title": "“화려한 파티 뒤 대참사”... 리플 ETF 자금 메마르자 투매 폭풍 징후 포착",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE40aVhpSUlKYkZaNEFEeEtPVkNVdEROczhIQ1d5QTBaSmNPTWhxRlphLVZ5X0d6b1V1SGRFV3ZPRUhfZHZLMXl5YUg2VHFucmtmdlkyRVp6Ni1faF9IblJRLUF3MUdfYVdPOW9Ib1RhOEZna2_SAXdBVV95cUxNYlBVZ1VMNnZGcU1tVXNEdERjOEViVGFsdEd5aW9PYlJJWEVXcjg0eE5HVWFnTzRkWm9MYWpLZnF1QmZLSzJTb0tLU1p5cTdXczZzbEJmYzNjWU5yb05vb2pnS3dsa19GSldIOElsTlNIZ2JuOW51OA?oc=5",
-      "date": "Mon, 13 Jul 2026 05:20:45 GMT",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1iUFVnVUw2dkZxTW1Vc0R0RGM4RWJUYWx0R3lpb09iUklYRVdyODR4TkdVYWdPNGRab0xhaktmcXVCZktLMlNvS0tTWnlxN1dzNnNsQmZjM2NZTnJvTm9vamdLd2xrX0ZKV0g4SWxOU0hnYm45bnU40gF3QVVfeXFMTWJQVWdVTDZ2RnFNbVVzRHREYzhFYlRhbHRHeWlvT2JSSVhFV3I4NHhOR1VhZ080ZFpvTGFqS2ZxdUJmS0syU29LS1NaeXE3V3M2c2xCZmMzY1lOcm9Ob29qZ0t3bGtfRkpXSDhJbE5TSGdibjludTg?oc=5",
+      "date": "Mon, 13 Jul 2026 05:32:49 GMT",
       "source": "핀포인트뉴스",
       "score": 0
     },
@@ -80,13 +87,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92cnhISFczMkxXS253bWVjYi04am90SEZ5TFduOGNhZ25wcTlXd3VlOVJWSV9fU3IxUExGVzNIQ0FhTktCUFdqak00SS1HYlYzRTMzMGxRZ0VpM1JFZmdQam95OFFwSlJIZ3VNTkVuOFg1UUxBY3B6TEFYYVVKTWc?oc=5",
       "date": "Sat, 11 Jul 2026 06:57:25 GMT",
       "source": "PANews",
-      "score": 0
-    },
-    {
-      "title": "BTC·ETH·SOL·XRP 순유입…하이퍼리퀴드만 순유출 [오늘의 코인 ETF]",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5RRHRoUGpFT3Z4SDBCSkhaMEZqUU5JRmdDNHY0UFZjaE5yZnZlaGhodWFtMkdkb003VXpUck1ZMm40MHNkS0hFdXFMZWtOSUot?oc=5",
-      "date": "Sat, 11 Jul 2026 05:09:51 GMT",
-      "source": "블루밍비트",
       "score": 0
     }
   ],
