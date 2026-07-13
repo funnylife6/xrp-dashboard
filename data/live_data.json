@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-13T11:35:54",
+  "generated_at": "2026-07-13T14:12:21",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.078,
-    "price_krw": 1609.47,
-    "price_change_24h": -1.5842,
-    "price_change_7d": -5.03774,
-    "price_change_30d": -5.61996,
-    "market_cap_usd": 67346529809,
+    "price_usd": 1.069,
+    "price_krw": 1597.02,
+    "price_change_24h": -2.59085,
+    "price_change_7d": -4.17498,
+    "price_change_30d": -7.15917,
+    "market_cap_usd": 66761930947,
     "market_cap_rank": 6,
-    "volume_24h": 877716071,
+    "volume_24h": 946737392,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 62.5,
-    "sentiment_votes_down": 37.5,
+    "sentiment_votes_up": 62.96,
+    "sentiment_votes_down": 37.04,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 17.94,
-    "recent_tps": 17.94,
-    "recent_tx_count": 1453,
+    "tps_24h_avg": 15.75,
+    "recent_tps": 15.75,
+    "recent_tx_count": 1402,
     "recent_ledger_count": 24,
-    "recent_window_sec": 81,
-    "ledger_seq": 105569176,
+    "recent_window_sec": 89,
+    "ledger_seq": 105571622,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-13 11:35:47 KST",
+    "updated_at": "2026-07-13 14:12:15 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,10 +92,31 @@
   ],
   "general_news": [
     {
+      "title": "리플 지지 변호사 \"파산 위기서 XRP 보유자 7만 5,000명 덕분에 살았다\"",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9WM0JtVWhhMnZET01jNnFrTWFkbGdocVdRM1ZjQmFWbm82QngwdUtQUkd5NmgtbnFzN1V1SWdfUXdpcDVrdXR0bVFR?oc=5",
+      "date": "Mon, 13 Jul 2026 12:40:00 GMT",
+      "source": "코인리더스",
+      "score": 3
+    },
+    {
+      "title": "리플(XRP) 고래가 사라졌다? 100만 달러 거래 왜 97% 급감했나",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBVZC1DWi0wbUFSRy1HWnlBREtpRFQxNDNtOHJvQTZuMmhOTzBUZ0V6R3hJeTFMV1dSU0ROVHJJV3p5clZ2dGFkU1lB?oc=5",
+      "date": "Mon, 13 Jul 2026 11:03:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
       "title": "글로벌 XRP 생태계 서울로…10월 'XRP Seoul 2026' 개최",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1OaWlKWk1LYjczbHN3WjFLZDNpOVQtVlRidGJ3ZGdrRWFGRTRwV2xWZzdncnZRQm9uakxNTk5FV0VpVkdJejQzSnVRck11UQ?oc=5",
       "date": "Mon, 13 Jul 2026 05:17:53 GMT",
       "source": "전자신문",
+      "score": 2
+    },
+    {
+      "title": "리플, 매달 1조4000억원 규모 XRP 해제…시장 충격은 제한적",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mRlgxWV9yTl91cHYzQVZYN1dDR05Wak5Kczd4OEg0NUg5QjRDandCRkJreUdFMklsM00wNkhYcDd4MDVZU1pUN2d3MEpZeHQ3TUZLc2EtVFVBR01oSGNaTtIBZkFVX3lxTE1XeWxvaU4yRTBfZzV1bFdKckhDdVZ5d1ZwU2tuREc1S3pVMlhWNVlqdGlYbk1BVEZJYy0zVi1HOHZGdW51R1U0SzF6cE1YMTFQMDBiOU1RbEpER1Y0Y1dzM0FOUFNmQQ?oc=5",
+      "date": "Mon, 13 Jul 2026 05:16:32 GMT",
+      "source": "tokenpost.kr",
       "score": 2
     },
     {
@@ -107,10 +128,10 @@
     },
     {
       "title": "리플 CEO \"美 SEC 소송으로 폐업까지 검토\"…압박 과정 공개됐다",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE51SFJQRWRmQmZENHdSMEhNdEFVTnBQUE9TbE5HOHYxNWlfNm85UnZwb0Z0cmRrdmwwZ1AwSjZmZTBFWVhlVXZFYmxsSVB0UHdXZW1V?oc=5",
-      "date": "Mon, 13 Jul 2026 01:41:00 GMT",
-      "source": "네이트",
-      "score": 3
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9qWjBKNWcwZUljcDZ3TkVPNzJ3Y213cmQtUkMzczJORU1DdDZPSG9JcHhpbmlQU29MZlkyQ1RaT29ZSm50cGQ5VXhEMjczM2QxVlFndFVjUUhJTC0zRllGb0RZNndJcGdPRnVNUUJZTGVmMXM?oc=5",
+      "date": "Mon, 13 Jul 2026 01:40:06 GMT",
+      "source": "디지털투데이",
+      "score": 2
     },
     {
       "title": "'XRP서울 2026’, 10월3일 개최…모니카 롱 리플 사장 연설",
@@ -138,27 +159,6 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9wV01Ka1BSRmJlODFxREhIMEQxV1MzYk5tOVhkXzZpXzMxM1l1VG9vWnpuM0V6elZMdURtbllMVTh1TE1HVXJLVXFXbTRBckxRSWtIZ3hYOXp3M2M3eGN1WExvc0hfd0xsQWFtY202emR1elk?oc=5",
       "date": "Sun, 12 Jul 2026 23:57:00 GMT",
       "source": "디지털투데이",
-      "score": 2
-    },
-    {
-      "title": "클래러티법 청문회 앞둔 리플(XRP)…1.07달러가 운명 가른다",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBNLTRjMmFCTm1OSzZURkpEc3ZqblZsMVVLQXNDd0ttN3lSam5OLUQ4dWstX3hkdUhWU2x0cXJmcVVFQVpoQjN0SHVB?oc=5",
-      "date": "Sun, 12 Jul 2026 22:41:00 GMT",
-      "source": "코인리더스",
-      "score": 3
-    },
-    {
-      "title": "파산 위기 리플의 대반전...갈링하우스 CEO 5년 만의 충격 고백",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRzlrcmlLU2hUaGNacHM3eHRTWHpLd2hYWVhZeEo0R1hBRWRYaE9aZzNadlpha0dUOElRcmtKNEZqMndDV3V6QXRkajBoNWRwR3dYeVNCUGk4Yk40elJpY3dDZGRKRUpzQTR5RFNBRktRNWpldDZGR2VQT2U4dElJRFpoNDQ2VFd6?oc=5",
-      "date": "Sun, 12 Jul 2026 22:14:06 GMT",
-      "source": "글로벌이코노믹",
-      "score": 2
-    },
-    {
-      "title": "쓰레스홀드 상승·리플XRP 보합·블라스트 급등…호르무즈 충격 제한",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE10ZnVyWnpiZUFmbjlIN0J5WW13UEVVNENPTmZadW85dGxXbnBoT3g5VTc4cG93c0JZTEdCZW53QXdxR2ZEVzZyVVU2R3hidTBvRjhla2dBcDM2N3lEdU1iYXRiTGszWm5MY1JWYmI3a2hmdw?oc=5",
-      "date": "Sun, 12 Jul 2026 21:59:36 GMT",
-      "source": "TopStarNews",
       "score": 2
     }
   ]
