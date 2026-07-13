@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-13T04:32:35",
+  "generated_at": "2026-07-13T08:10:54",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.074,
-    "price_krw": 1618.54,
-    "price_change_24h": -1.95624,
-    "price_change_7d": -6.36574,
-    "price_change_30d": -5.17203,
-    "market_cap_usd": 67108086927,
+    "price_usd": 1.079,
+    "price_krw": 1615.14,
+    "price_change_24h": -1.18646,
+    "price_change_7d": -5.75153,
+    "price_change_30d": -5.55685,
+    "market_cap_usd": 67405929929,
     "market_cap_rank": 6,
-    "volume_24h": 800899256,
+    "volume_24h": 837608584,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 60.71,
-    "sentiment_votes_down": 39.29,
+    "sentiment_votes_up": 66.07,
+    "sentiment_votes_down": 33.93,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 20.18,
-    "recent_tps": 20.18,
-    "recent_tx_count": 1816,
+    "tps_24h_avg": 14.43,
+    "recent_tps": 14.43,
+    "recent_tx_count": 1299,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 105562517,
+    "ledger_seq": 105565956,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-13 04:32:21 KST",
+    "updated_at": "2026-07-13 08:10:41 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -48,10 +48,10 @@
   },
   "etf_news": [
     {
-      "title": "비트코인·이더리움 현물 ETF 나란히 순유입 전환…기관 복귀 신호는 '아직'",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9SdFlKeVdtVTFwTnp1ajI2WWZXdVM1SENpd0ZFVWpER1pHUk5WTTQ1WUd2WXc5ZDhyZnJ3YjdOY2RPRGVjanhZTHU4NzluNEZLLXdyVTN0cjNqeVdtZXZWd3BNSm5nUk14UHZpOFBBelJtSlk?oc=5",
-      "date": "Mon, 13 Jul 2026 02:01:26 GMT",
-      "source": "디지털투데이",
+      "title": "“화려한 파티 뒤 대참사”... 리플 ETF 자금 메마르자 투매 폭풍 징후 포착",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE40aVhpSUlKYkZaNEFEeEtPVkNVdEROczhIQ1d5QTBaSmNPTWhxRlphLVZ5X0d6b1V1SGRFV3ZPRUhfZHZLMXl5YUg2VHFucmtmdlkyRVp6Ni1faF9IblJRLUF3MUdfYVdPOW9Ib1RhOEZna2_SAXdBVV95cUxNYlBVZ1VMNnZGcU1tVXNEdERjOEViVGFsdEd5aW9PYlJJWEVXcjg0eE5HVWFnTzRkWm9MYWpLZnF1QmZLSzJTb0tLU1p5cTdXczZzbEJmYzNjWU5yb05vb2pnS3dsa19GSldIOElsTlNIZ2JuOW51OA?oc=5",
+      "date": "Mon, 13 Jul 2026 05:20:45 GMT",
+      "source": "핀포인트뉴스",
       "score": 0
     },
     {
@@ -92,8 +92,15 @@
   ],
   "general_news": [
     {
+      "title": "글로벌 XRP 생태계 서울로…10월 'XRP Seoul 2026' 개최",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1OaWlKWk1LYjczbHN3WjFLZDNpOVQtVlRidGJ3ZGdrRWFGRTRwV2xWZzdncnZRQm9uakxNTk5FV0VpVkdJejQzSnVRck11UQ?oc=5",
+      "date": "Mon, 13 Jul 2026 05:17:53 GMT",
+      "source": "전자신문",
+      "score": 2
+    },
+    {
       "title": "XRP 나눠주고 폐업?...리플, 美 증권위 소송에 문 닫을 뻔한 사연 공개",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBHR3p5Q1RFenQzWi15MThDWVVISFNmUUNBbkZVcVdtRTFHRmpDblM2dFFuUUFVUzdMdFVoR2FRUlVJM2xyRXBPcQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBnLTdEM0I5YnhrNXd3OHdtSENRMGc0RlJNRDFjMnhaOWY5NFpaYUw3RDQ4TVY2dFJLZlJOR1A2cXFDam9pUW9oMkx3?oc=5",
       "date": "Mon, 13 Jul 2026 02:13:00 GMT",
       "source": "코인리더스",
       "score": 3
@@ -153,13 +160,6 @@
       "date": "Sun, 12 Jul 2026 21:59:36 GMT",
       "source": "TopStarNews",
       "score": 2
-    },
-    {
-      "title": "리플, XRP 소송 후 사업 중단 검토…CEO 공개",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSTNWaFVkOUR1dDI5ZU9LNkpacTJ3YWp1UlVvcWRCZ2IwQmlIUUZBa1ZwOHlKRkJibHRhT1pLSXQ5V3h1YlFLWi16dUlRLWF3QXRUWnRHWnd6UlRSMDRyN2JoSUZla0p5YUgtNWxmX1hodzFUVlhCWTVjNFYwUk41dnNITzE1UVE?oc=5",
-      "date": "Sun, 12 Jul 2026 11:10:08 GMT",
-      "source": "BeInCrypto",
-      "score": 3
     }
   ]
 }
