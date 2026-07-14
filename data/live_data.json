@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-14T22:50:24",
+  "generated_at": "2026-07-14T23:44:16",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.11,
-    "price_krw": 1655.16,
-    "price_change_24h": 4.93734,
-    "price_change_7d": -0.1182,
-    "price_change_30d": -5.10888,
-    "market_cap_usd": 69448849874,
+    "price_krw": 1648.72,
+    "price_change_24h": 4.37748,
+    "price_change_7d": -0.28635,
+    "price_change_30d": -5.38006,
+    "market_cap_usd": 69326253080,
     "market_cap_rank": 6,
-    "volume_24h": 1257188931,
+    "volume_24h": 1251557195,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 68.32,
-    "sentiment_votes_down": 31.68,
+    "sentiment_votes_up": 67.29,
+    "sentiment_votes_down": 32.71,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 14.31,
-    "recent_tps": 14.31,
-    "recent_tx_count": 1288,
+    "tps_24h_avg": 14.82,
+    "recent_tps": 14.82,
+    "recent_tx_count": 1334,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 105602379,
+    "ledger_seq": 105603220,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-14 22:50:12 KST",
+    "updated_at": "2026-07-14 23:44:01 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -113,6 +113,13 @@
       "score": 2
     },
     {
+      "title": "\"1달러 붕괴 위기냐 반등이냐\"… 리플, 1.02달러 선서 운명 가를 '하모닉 패턴' 공방전",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORTlEbjAzX25HLURrcURjV0tJalpjeWsxTm01NThQTXFzZnZfcHVFN3Z4MEs2ZWlNUzlSXzZQQV9JTS1qMkR0MHB2TVNfVzc3UDRLOVhBMlNJZnNNLWxXV21tN1dqZTYwcHN1YmFaaXZvbldZMUVIMEFFaDJDRVFvWElBWEJ0UkFR?oc=5",
+      "date": "Tue, 14 Jul 2026 19:37:21 GMT",
+      "source": "글로벌이코노믹",
+      "score": 2
+    },
+    {
       "title": "리플, XRP 소송 후 사업 중단 검토…CEO 공개",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSTNWaFVkOUR1dDI5ZU9LNkpacTJ3YWp1UlVvcWRCZ2IwQmlIUUZBa1ZwOHlKRkJibHRhT1pLSXQ5V3h1YlFLWi16dUlRLWF3QXRUWnRHWnd6UlRSMDRyN2JoSUZla0p5YUgtNWxmX1hodzFUVlhCWTVjNFYwUk41dnNITzE1UVE?oc=5",
       "date": "Tue, 14 Jul 2026 14:49:24 GMT",
@@ -125,6 +132,13 @@
       "date": "Tue, 14 Jul 2026 11:59:30 GMT",
       "source": "VOI.ID",
       "score": 3
+    },
+    {
+      "title": "리플, 英 재무부 토큰화 태스크포스 합류…XRP 제도권 입지 넓히나",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1CX2xKYXRMU3RmQ18tMFNiZ0Z2VE8xeE8wRWJmME1yTVlLMEt6Uk93WmxUTzFwaTV1azk1WDE0eTVlbGlHOGJlaHZUa0RZUy1ILVJaOWt30gFbQVVfeXFMTlJoOXhHemw3RGFOZmozWEtOUkw4bXB1MjRNREx5ZkpEakMySnpVSHpjSDR5TFNWWmZfQUlVZGFrbmpZMkV2RzBJUjU2WnFhN1pzUUZYQjVfT2NwVQ?oc=5",
+      "date": "Tue, 14 Jul 2026 11:31:20 GMT",
+      "source": "tokenpost.kr",
+      "score": 2
     },
     {
       "title": "XRP Seoul 2026, 그랜드 하얏트 서울서 개최 - 조선비즈",
@@ -145,20 +159,6 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5OcEY1M3ZSenZ1WmV2b2ZUN1FWRGFsR0d3X2dRVUxDSzBJN1RBSUpyNmwwUnhrdTQ1dVBhUU10clREVVg1SjAyQ3duZ3FWMnVsYmxlTm5XdnJPajFJYXRJVlZfb2ZWSm9oME1tRUtYVQ?oc=5",
       "date": "Tue, 14 Jul 2026 05:02:05 GMT",
       "source": "서울신문",
-      "score": 2
-    },
-    {
-      "title": "포브스가 찍은 7월 유망 코인…XRP, 비트코인·이더리움 이어 4위",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uTUNMTzE2cDEwQXplX1NRZlQtLS1vTXpUMGNXTWR1VGtYMjdQT1FpbVMtdVB6ZWFvTTNnN3MzZHZNSXRfZjQzX1lzd2lHWnc1dll3?oc=5",
-      "date": "Tue, 14 Jul 2026 01:06:00 GMT",
-      "source": "네이트",
-      "score": 2
-    },
-    {
-      "title": "\"XRP 자체는 증권 아니다\" 美 법원 판결 3주년…리플 존폐 위기 넘긴 전환점",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfaWoybTZ2NzRsak1HSTU3LWtmS1FXWEJmSFdFVEgzSWlma0VoNW14dG5XcFkwM1lJZFB5ZUdoTUtEX08tMk4wZXZRYmtmclBRWGRn?oc=5",
-      "date": "Tue, 14 Jul 2026 01:04:00 GMT",
-      "source": "네이트",
       "score": 2
     }
   ]
