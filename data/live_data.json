@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-14T19:06:19",
+  "generated_at": "2026-07-14T20:35:29",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.11,
-    "price_krw": 1656.79,
-    "price_change_24h": 4.91513,
-    "price_change_7d": -0.81661,
-    "price_change_30d": -1.74582,
-    "market_cap_usd": 69499406911,
+    "price_krw": 1652.8,
+    "price_change_24h": 4.5337,
+    "price_change_7d": -1.04742,
+    "price_change_30d": -1.93059,
+    "market_cap_usd": 69343895039,
     "market_cap_rank": 6,
-    "volume_24h": 1179752447,
+    "volume_24h": 1223276097,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 60.44,
-    "sentiment_votes_down": 39.56,
+    "sentiment_votes_up": 65.0,
+    "sentiment_votes_down": 35.0,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 22.55,
-    "recent_tps": 22.55,
-    "recent_tx_count": 2007,
+    "tps_24h_avg": 13.19,
+    "recent_tps": 13.19,
+    "recent_tx_count": 1187,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 105598882,
+    "recent_window_sec": 90,
+    "ledger_seq": 105600270,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-14 19:06:05 KST",
+    "updated_at": "2026-07-14 20:35:18 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -127,17 +127,10 @@
       "score": 3
     },
     {
-      "title": "존 디튼 \"SEC, 리플랩스 경영진 가족 금융기록까지 요구\"...소송 뒷이야기 폭로",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0wLVJnTC1jX002ZU50Z0x6RFV4RnVSUmRkTmNDLTZsaVhTQWlSR3hMdGFWQzQ3VFNfQUIxYWNQSHh0U003M2tPQ0FB?oc=5",
-      "date": "Tue, 14 Jul 2026 05:10:00 GMT",
-      "source": "코인리더스",
-      "score": 3
-    },
-    {
-      "title": "리플(XRP), $1.07대 등락 속 7월 17일 CLARITY Act 청문회 주목",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53bzhhTm40RFRGczdoRTBNbVR2MEx0V0JSQUVzREswWno0TGNnOFc4ZVdSSmY3Mm5BeHdqSV8xVzhOVDVqeXFSeEJRTlk4Wnl4b3B4SUZRYnVwd3d4WWJfONIBZkFVX3lxTFB3R3dmV3AwZ0M1OXB1VXZpaFVQYk9nWi12ZkwtNmYwZFQ0UUFPOVNSbWo2Zng2SGxuUlljeXA4UGI4Qkx5YzdPN3VhRWRrMFlFQm14WmNoMTY4OEtSY0tfMXktTnUzUQ?oc=5",
-      "date": "Tue, 14 Jul 2026 05:07:38 GMT",
-      "source": "tokenpost.kr",
+      "title": "‘XRP Seoul 2026’ 10월 개최… 글로벌 디지털자산 생태계 한자리에",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5OcEY1M3ZSenZ1WmV2b2ZUN1FWRGFsR0d3X2dRVUxDSzBJN1RBSUpyNmwwUnhrdTQ1dVBhUU10clREVVg1SjAyQ3duZ3FWMnVsYmxlTm5XdnJPajFJYXRJVlZfb2ZWSm9oME1tRUtYVQ?oc=5",
+      "date": "Tue, 14 Jul 2026 05:02:05 GMT",
+      "source": "서울신문",
       "score": 2
     },
     {
@@ -160,6 +153,13 @@
       "date": "Mon, 13 Jul 2026 22:02:00 GMT",
       "source": "코인리더스",
       "score": 4
+    },
+    {
+      "title": "\"1년 하락 터널 끝 보이나\"… 리플, 1.1달러 '장기 저항선' 돌파 눈앞",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ05QU2QzdUtpREd2dGJCdXFka05MNnhzOWthRE1YNGdFNFlQT3dMRTVpWWdIbE00X1VYLUl6QmhRMEc1ZHlsRjJrc2tIb0pEa1dXSTRMYW9yOTRNbnlMS21Na3lKTUc2andqOGdCRG1GVkx4TlBKRHFndlVZOXNUM3R3N2FuVG5N?oc=5",
+      "date": "Mon, 13 Jul 2026 20:41:26 GMT",
+      "source": "글로벌이코노믹",
+      "score": 2
     }
   ]
 }
