@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-14T20:35:29",
+  "generated_at": "2026-07-14T21:50:44",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.11,
-    "price_krw": 1652.8,
-    "price_change_24h": 4.5337,
-    "price_change_7d": -1.04742,
-    "price_change_30d": -1.93059,
-    "market_cap_usd": 69343895039,
+    "price_krw": 1650.35,
+    "price_change_24h": 4.92589,
+    "price_change_7d": -0.76178,
+    "price_change_30d": -2.60828,
+    "market_cap_usd": 69242521261,
     "market_cap_rank": 6,
-    "volume_24h": 1223276097,
+    "volume_24h": 1232674291,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 65.0,
-    "sentiment_votes_down": 35.0,
+    "sentiment_votes_up": 65.66,
+    "sentiment_votes_down": 34.34,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 13.19,
-    "recent_tps": 13.19,
-    "recent_tx_count": 1187,
+    "tps_24h_avg": 17.89,
+    "recent_tps": 17.89,
+    "recent_tx_count": 1592,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 105600270,
+    "recent_window_sec": 89,
+    "ledger_seq": 105601450,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-14 20:35:18 KST",
+    "updated_at": "2026-07-14 21:50:38 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,6 +92,13 @@
   ],
   "general_news": [
     {
+      "title": "리플 vs SEC 소송전, 진술서 4,000건 판결문에 '직접 인용'...\"개미들의 반란 성공\"",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1rMTdCMUNfNnh4YXF3T3l6ZXA0eWdtSU1fLUt1RllzMmhRcy10QjhmTndnb0V6RUN3WEdWQmh5Yk5TcXBENUxielln?oc=5",
+      "date": "Tue, 14 Jul 2026 20:40:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
       "title": "슈워츠 \"SEC, XRP 자체를 증권으로 규정\"...3년 전 소송전 재조명",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1aM183MkpQRDZEZVBONmZDRVU5dXlIOUZmbDFGMmxrX3R1NHlIYjlvZXJCRkRBMlRzUXp3Y21zdUNXQXh1SERZNk53?oc=5",
       "date": "Tue, 14 Jul 2026 17:20:00 GMT",
@@ -111,6 +118,13 @@
       "date": "Tue, 14 Jul 2026 11:59:30 GMT",
       "source": "VOI.ID",
       "score": 3
+    },
+    {
+      "title": "리플, 英 재무부 토큰화 태스크포스 합류…XRP 제도권 입지 넓히나",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1CX2xKYXRMU3RmQ18tMFNiZ0Z2VE8xeE8wRWJmME1yTVlLMEt6Uk93WmxUTzFwaTV1azk1WDE0eTVlbGlHOGJlaHZUa0RZUy1ILVJaOWt30gFbQVVfeXFMTlJoOXhHemw3RGFOZmozWEtOUkw4bXB1MjRNREx5ZkpEakMySnpVSHpjSDR5TFNWWmZfQUlVZGFrbmpZMkV2RzBJUjU2WnFhN1pzUUZYQjVfT2NwVQ?oc=5",
+      "date": "Tue, 14 Jul 2026 11:31:20 GMT",
+      "source": "tokenpost.kr",
+      "score": 2
     },
     {
       "title": "XRP Seoul 2026, 그랜드 하얏트 서울서 개최 - 조선비즈",
@@ -136,7 +150,7 @@
     {
       "title": "\"XRP 자체는 증권 아니다\" 美 법원 판결 3주년…리플 존폐 위기 넘긴 전환점",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfaWoybTZ2NzRsak1HSTU3LWtmS1FXWEJmSFdFVEgzSWlma0VoNW14dG5XcFkwM1lJZFB5ZUdoTUtEX08tMk4wZXZRYmtmclBRWGRn?oc=5",
-      "date": "Tue, 14 Jul 2026 01:04:07 GMT",
+      "date": "Tue, 14 Jul 2026 01:04:00 GMT",
       "source": "네이트",
       "score": 2
     },
@@ -145,20 +159,6 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5xWUlrbTQ1Nk9WcDFxRWxKNjREMFFsUUY4bjNtWDlZdHdDNWd0TFFXa3ZrUGRuSVpHSlVUc0U2SW1ITVNsb2xmT3VMRUNTWXhfWFFNMjVuakJZMWZBdkktd29QLWN2ZkdZeF8tZ1h2TmNWdw?oc=5",
       "date": "Mon, 13 Jul 2026 22:38:51 GMT",
       "source": "톱스타뉴스",
-      "score": 2
-    },
-    {
-      "title": "리플(XRP) 현물 ETF, 공급은 계속 잠기는데 가격은 왜 움직이지 않을까?",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1GNW1JWW95VHNmMlBJZ0diaTB3Z2pkdWFxeFlhMTUyNnl0V2lyblVzOU8ydnB0ejJXZ1lxeVdCajBhMnFo?oc=5",
-      "date": "Mon, 13 Jul 2026 22:02:00 GMT",
-      "source": "코인리더스",
-      "score": 4
-    },
-    {
-      "title": "\"1년 하락 터널 끝 보이나\"… 리플, 1.1달러 '장기 저항선' 돌파 눈앞",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ05QU2QzdUtpREd2dGJCdXFka05MNnhzOWthRE1YNGdFNFlQT3dMRTVpWWdIbE00X1VYLUl6QmhRMEc1ZHlsRjJrc2tIb0pEa1dXSTRMYW9yOTRNbnlMS21Na3lKTUc2andqOGdCRG1GVkx4TlBKRHFndlVZOXNUM3R3N2FuVG5N?oc=5",
-      "date": "Mon, 13 Jul 2026 20:41:26 GMT",
-      "source": "글로벌이코노믹",
       "score": 2
     }
   ]
