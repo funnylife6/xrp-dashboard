@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-15T21:28:24",
+  "generated_at": "2026-07-15T22:29:36",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.11,
-    "price_krw": 1656.33,
-    "price_change_24h": 0.38572,
-    "price_change_7d": 2.29815,
-    "price_change_30d": -11.98565,
-    "market_cap_usd": 69560542986,
+    "price_usd": 1.12,
+    "price_krw": 1658.37,
+    "price_change_24h": 0.40797,
+    "price_change_7d": 2.52718,
+    "price_change_30d": -11.84526,
+    "market_cap_usd": 69669297130,
     "market_cap_rank": 6,
-    "volume_24h": 1176593503,
+    "volume_24h": 1158931456,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 68.89,
-    "sentiment_votes_down": 31.11,
+    "sentiment_votes_up": 67.05,
+    "sentiment_votes_down": 32.95,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 18.13,
-    "recent_tps": 18.13,
-    "recent_tx_count": 1487,
+    "tps_24h_avg": 26.15,
+    "recent_tps": 26.15,
+    "recent_tx_count": 2327,
     "recent_ledger_count": 24,
-    "recent_window_sec": 82,
-    "ledger_seq": 105623568,
+    "recent_window_sec": 89,
+    "ledger_seq": 105624529,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-15 21:28:10 KST",
+    "updated_at": "2026-07-15 22:29:28 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,6 +92,20 @@
   ],
   "general_news": [
     {
+      "title": "이캐시·온도파이낸스 급등, 리플XRP 상승…비트코인 저항 부담",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBaQjk0aTAxajBOQk5VRV84T1EyMmxwdERfbF9OWF9MVkhldUtlVzlBSmxMNDUya2d0N24xSTB3WFlwSDJWU055NWhJcVcyOGY0Q24zVm9qT254R0JxaU5jeWpMd2dxRTc4UmlQTnVPd3ptdw?oc=5",
+      "date": "Wed, 15 Jul 2026 21:31:59 GMT",
+      "source": "톱스타뉴스",
+      "score": 2
+    },
+    {
+      "title": "XRP, 1.11달러대서 등락… 리플의 새로운 통합 및 규제 논의 주목",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90dURVSmcyWXhsQXEzdmk4S0x5UUJ6MVdOVFl1TWdKbUwtM2hWdFJ0TWdKTDFtVmdDVndzNGo0TFZVeW9SY3FOQjg3dkRTNU5fa2pfY0IyeGc2b1VreF91ZdIBZkFVX3lxTE9STTZkTWhDM01zSl85YjlBSy1jZ0JSUHdqOHZvY2R2d0tsWjhwU1dUWXNRZnBXVDlDeW5iWmRkV3hVNXczNGwycmFfWElIdGFJWGdtMVNqR2dUWHFCc1BHLVVBMmNLZw?oc=5",
+      "date": "Wed, 15 Jul 2026 21:07:12 GMT",
+      "source": "tokenpost.kr",
+      "score": 2
+    },
+    {
       "title": "리플, 17일 큰 거 한방 오나... 1.16달러 뚫리면 감당 못 한다",
       "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxNcTFxLTNCM3JLanlDcFQ0VzJycHhObHhSR1l3Ui12UnlWUzZrRmg4a2hRSWxfTEtUbkJld1Z6NjVZdXVjd0h5Ry1iMEc3T0p1dWFDaTRHZ3ZpZDliSmFOVl9vRFROMl9vWUZxZERMemJpU3VINXhnaDRDcHpLclJmMVI1c3hKbTBNQUxoN080R0s5eFQ3bnYwUm5sa2c1Z3ZuTnVPbktzRjl2QmlSX3JlMmVqUUJRZ2ktdVY1Y25HR2hSejlfVC1HS0lhWC1KRTV2b3pMR000M0FMaXQzNERSdU1HOXRfOERmR1k4Ry1UdV9oaURncmx2czg2Unowcmt3Nm1uVTJfOThZeXhfbmNfTkllUFA0Yk5Va0pEQWNudkxiTi1ZZ0Raek9fR0gyMHotbUd3R3JXZ1Rwa3dVVUxLWXhYMXdFc2VVMjFUS2pDYXQzNWhNa082aFJfS1ZFa1B5ZlhIdFdqYlk0X1Q3X2R5d3VtNDVPdlVxQ3BJTmliSl9rUEJlbnE4cDZjY3F1YTAwS2psU0hjVzQ?oc=5",
       "date": "Wed, 15 Jul 2026 13:39:28 GMT",
@@ -127,13 +141,6 @@
       "score": 3
     },
     {
-      "title": "비트코인·이더리움·리플XRP 오름세…CPI 둔화에 거래 확대",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WaWtXc3JfYnotY2pDYVVUVENva3NSVU83SHY2WWNzODFCOEhRX29jdEt5TGdfejllOEVhY09ia0k3NTUxVURJLXZ5dkZnVG91SFlFcXp4VkhXNUxqY2w3R0RfRzJZUWVCZkNRMUd0cWE2Zw?oc=5",
-      "date": "Tue, 14 Jul 2026 22:26:55 GMT",
-      "source": "톱스타뉴스",
-      "score": 2
-    },
-    {
       "title": "SEC 전 간부의 매서운 추궁, 리플과 XRP 행보에 또 다른 법적 먹구름 드리우나",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9NUjBRNmVKWGpVc3JjeWNrMGt3Nnk3NGhsaU45c0VuNXpVdWR1SnR4Z3dzb3U0NUM2eEo3dUt6ZDRjd0Y5dm5jdXJR?oc=5",
       "date": "Tue, 14 Jul 2026 22:15:00 GMT",
@@ -145,13 +152,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORTlEbjAzX25HLURrcURjV0tJalpjeWsxTm01NThQTXFzZnZfcHVFN3Z4MEs2ZWlNUzlSXzZQQV9JTS1qMkR0MHB2TVNfVzc3UDRLOVhBMlNJZnNNLWxXV21tN1dqZTYwcHN1YmFaaXZvbldZMUVIMEFFaDJDRVFvWElBWEJ0UkFR?oc=5",
       "date": "Tue, 14 Jul 2026 19:37:21 GMT",
       "source": "글로벌이코노믹",
-      "score": 2
-    },
-    {
-      "title": "SWIFT, 토큰화 결제 상용화…XRP 직접 수혜는 빠졌다",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83MXZXQjlGZ0R6czI5YUtpUW5aS0NWaWVmZ1dVXzlFQkZUUmRyN3ZKR1gyLThOVU9uOG5DdElnMl9YaHY0ZlotVjlTNWRiMnhvV1lWR0pZRzc4NW_SAWBBVV95cUxNSnI3OFYtYllzWmUzY05UdjhWbDZvZTBMOGl2b2lOYjFhM2xneTlEOWJZak9RdndZWm9rV1lkZVBPMFBIcWZubWJDX0Z6dzNUd1g5cHVxTGNWTms4Qy05NHo?oc=5",
-      "date": "Tue, 14 Jul 2026 19:10:53 GMT",
-      "source": "tokenpost.kr",
       "score": 2
     },
     {
