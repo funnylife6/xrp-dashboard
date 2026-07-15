@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-15T20:09:51",
+  "generated_at": "2026-07-15T21:28:24",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.11,
-    "price_krw": 1648.02,
-    "price_change_24h": -0.23308,
-    "price_change_7d": 2.00875,
-    "price_change_30d": -12.75474,
-    "market_cap_usd": 69287048732,
+    "price_krw": 1656.33,
+    "price_change_24h": 0.38572,
+    "price_change_7d": 2.29815,
+    "price_change_30d": -11.98565,
+    "market_cap_usd": 69560542986,
     "market_cap_rank": 6,
-    "volume_24h": 1171211498,
+    "volume_24h": 1176593503,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 69.89,
-    "sentiment_votes_down": 30.11,
+    "sentiment_votes_up": 68.89,
+    "sentiment_votes_down": 31.11,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 16.08,
-    "recent_tps": 16.08,
-    "recent_tx_count": 1431,
+    "tps_24h_avg": 18.13,
+    "recent_tps": 18.13,
+    "recent_tx_count": 1487,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 105622335,
+    "recent_window_sec": 82,
+    "ledger_seq": 105623568,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-15 20:09:38 KST",
+    "updated_at": "2026-07-15 21:28:10 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,13 +92,6 @@
   ],
   "general_news": [
     {
-      "title": "\"1년 하락 터널 끝자락 선 리플\"… 일목균형표 겹겹이 쌓인 저항대 돌파가 관건",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ3NDRGJrM1Jnb1FCYjZudU5pWWxKZ0tRc0dKb2dHQ1lGcEhublVQYkItb3VxT3FOV1dQeEM2Z0NxYjJOenAtc1NFQlJWdlk4RDVhZUVRLW4xUi11WlIxRU5NM3pjMXdPLUhNNGotQ1JINXE0U2pLX3FVUGhSUFNMWEhtM2s4Ql9Y?oc=5",
-      "date": "Wed, 15 Jul 2026 18:51:58 GMT",
-      "source": "글로벌이코노믹",
-      "score": 2
-    },
-    {
       "title": "리플, 17일 큰 거 한방 오나... 1.16달러 뚫리면 감당 못 한다",
       "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxNcTFxLTNCM3JLanlDcFQ0VzJycHhObHhSR1l3Ui12UnlWUzZrRmg4a2hRSWxfTEtUbkJld1Z6NjVZdXVjd0h5Ry1iMEc3T0p1dWFDaTRHZ3ZpZDliSmFOVl9vRFROMl9vWUZxZERMemJpU3VINXhnaDRDcHpLclJmMVI1c3hKbTBNQUxoN080R0s5eFQ3bnYwUm5sa2c1Z3ZuTnVPbktzRjl2QmlSX3JlMmVqUUJRZ2ktdVY1Y25HR2hSejlfVC1HS0lhWC1KRTV2b3pMR000M0FMaXQzNERSdU1HOXRfOERmR1k4Ry1UdV9oaURncmx2czg2Unowcmt3Nm1uVTJfOThZeXhfbmNfTkllUFA0Yk5Va0pEQWNudkxiTi1ZZ0Raek9fR0gyMHotbUd3R3JXZ1Rwa3dVVUxLWXhYMXdFc2VVMjFUS2pDYXQzNWhNa082aFJfS1ZFa1B5ZlhIdFdqYlk0X1Q3X2R5d3VtNDVPdlVxQ3BJTmliSl9rUEJlbnE4cDZjY3F1YTAwS2psU0hjVzQ?oc=5",
       "date": "Wed, 15 Jul 2026 13:39:28 GMT",
@@ -110,7 +103,7 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmdmJFZHJGaGNwUlNHaE41MjdTMVdrTHAycDUwRnliUG1fLU14a1dLY1hWMFRxamsyY0cxWTY2SWd6Q1htVGd6WWxlRGNWRnQ1WVViZWhUckY?oc=5",
       "date": "Wed, 15 Jul 2026 13:39:00 GMT",
       "source": "블록미디어",
-      "score": 1
+      "score": 3
     },
     {
       "title": "개미들 피 마르는 박스권 횡보, 리플(XRP) 투자자들이 8월 대폭발 기대하기 힘든 이유",
@@ -146,6 +139,13 @@
       "date": "Tue, 14 Jul 2026 22:15:00 GMT",
       "source": "코인리더스",
       "score": 3
+    },
+    {
+      "title": "\"1달러 붕괴 위기냐 반등이냐\"… 리플, 1.02달러 선서 운명 가를 '하모닉 패턴' 공방전",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORTlEbjAzX25HLURrcURjV0tJalpjeWsxTm01NThQTXFzZnZfcHVFN3Z4MEs2ZWlNUzlSXzZQQV9JTS1qMkR0MHB2TVNfVzc3UDRLOVhBMlNJZnNNLWxXV21tN1dqZTYwcHN1YmFaaXZvbldZMUVIMEFFaDJDRVFvWElBWEJ0UkFR?oc=5",
+      "date": "Tue, 14 Jul 2026 19:37:21 GMT",
+      "source": "글로벌이코노믹",
+      "score": 2
     },
     {
       "title": "SWIFT, 토큰화 결제 상용화…XRP 직접 수혜는 빠졌다",
