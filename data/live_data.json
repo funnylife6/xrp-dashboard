@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-16T03:58:15",
+  "generated_at": "2026-07-16T06:17:56",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.11,
-    "price_krw": 1649.95,
-    "price_change_24h": 0.74839,
-    "price_change_7d": 2.65037,
-    "price_change_30d": -8.72522,
-    "market_cap_usd": 69463495715,
+    "price_krw": 1653.24,
+    "price_change_24h": 0.51089,
+    "price_change_7d": 1.9874,
+    "price_change_30d": -9.0515,
+    "market_cap_usd": 69642372216,
     "market_cap_rank": 6,
-    "volume_24h": 1134339301,
+    "volume_24h": 1108625537,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 67.42,
-    "sentiment_votes_down": 32.58,
+    "sentiment_votes_up": 68.18,
+    "sentiment_votes_down": 31.82,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 24.91,
-    "recent_tps": 24.91,
-    "recent_tx_count": 2217,
+    "tps_24h_avg": 12.67,
+    "recent_tps": 12.67,
+    "recent_tx_count": 1039,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 105629672,
+    "recent_window_sec": 82,
+    "ledger_seq": 105631859,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-16 03:58:02 KST",
+    "updated_at": "2026-07-16 06:17:48 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -47,6 +47,13 @@
     "data_source": "news_parse"
   },
   "etf_news": [
+    {
+      "title": "HYPE 현물 ETF 순유입·XRP는 변동 無...SOL은 순유출",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9nWHE0U05BLVpZQ2hCbG5BbUt1U29IcktFMl9hR1ZBOWtGV1dpMmI1RkJOTC1seVgzQVd5TDh1QUJTa0hKOTRLN2Vn?oc=5",
+      "date": "Thu, 16 Jul 2026 05:06:52 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
     {
       "title": "美 의회가 7월 17일 엑스알피(리플)의 운명 결정한다",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBNOU9mWGdxSk0ycEJabTJ5ajczWS1oWlFwT0NoOURvck5rQWQzOXR1OEVwblNpVjQxcUxxM1pUWVI3NmlhMmZKQmd3?oc=5",
@@ -81,13 +88,6 @@
       "date": "Sat, 11 Jul 2026 12:19:55 GMT",
       "source": "CBC뉴스",
       "score": 0
-    },
-    {
-      "title": "미국 XRP 현물 ETF 일일 총 순유입 10.74만 달러",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92cnhISFczMkxXS253bWVjYi04am90SEZ5TFduOGNhZ25wcTlXd3VlOVJWSV9fU3IxUExGVzNIQ0FhTktCUFdqak00SS1HYlYzRTMzMGxRZ0VpM1JFZmdQam95OFFwSlJIZ3VNTkVuOFg1UUxBY3B6TEFYYVVKTWc?oc=5",
-      "date": "Sat, 11 Jul 2026 06:57:25 GMT",
-      "source": "PANews",
-      "score": 0
     }
   ],
   "general_news": [
@@ -120,6 +120,13 @@
       "score": 2
     },
     {
+      "title": "\"1년 하락 터널 끝자락 선 리플\"… 일목균형표 겹겹이 쌓인 저항대 돌파가 관건",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ3NDRGJrM1Jnb1FCYjZudU5pWWxKZ0tRc0dKb2dHQ1lGcEhublVQYkItb3VxT3FOV1dQeEM2Z0NxYjJOenAtc1NFQlJWdlk4RDVhZUVRLW4xUi11WlIxRU5NM3pjMXdPLUhNNGotQ1JINXE0U2pLX3FVUGhSUFNMWEhtM2s4Ql9Y?oc=5",
+      "date": "Wed, 15 Jul 2026 18:51:58 GMT",
+      "source": "글로벌이코노믹",
+      "score": 2
+    },
+    {
       "title": "리플, 17일 큰 거 한방 오나... 1.16달러 뚫리면 감당 못 한다",
       "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxNcTFxLTNCM3JLanlDcFQ0VzJycHhObHhSR1l3Ui12UnlWUzZrRmg4a2hRSWxfTEtUbkJld1Z6NjVZdXVjd0h5Ry1iMEc3T0p1dWFDaTRHZ3ZpZDliSmFOVl9vRFROMl9vWUZxZERMemJpU3VINXhnaDRDcHpLclJmMVI1c3hKbTBNQUxoN080R0s5eFQ3bnYwUm5sa2c1Z3ZuTnVPbktzRjl2QmlSX3JlMmVqUUJRZ2ktdVY1Y25HR2hSejlfVC1HS0lhWC1KRTV2b3pMR000M0FMaXQzNERSdU1HOXRfOERmR1k4Ry1UdV9oaURncmx2czg2Unowcmt3Nm1uVTJfOThZeXhfbmNfTkllUFA0Yk5Va0pEQWNudkxiTi1ZZ0Raek9fR0gyMHotbUd3R3JXZ1Rwa3dVVUxLWXhYMXdFc2VVMjFUS2pDYXQzNWhNa082aFJfS1ZFa1B5ZlhIdFdqYlk0X1Q3X2R5d3VtNDVPdlVxQ3BJTmliSl9rUEJlbnE4cDZjY3F1YTAwS2psU0hjVzQ?oc=5",
       "date": "Wed, 15 Jul 2026 13:39:28 GMT",
@@ -131,7 +138,21 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmdmJFZHJGaGNwUlNHaE41MjdTMVdrTHAycDUwRnliUG1fLU14a1dLY1hWMFRxamsyY0cxWTY2SWd6Q1htVGd6WWxlRGNWRnQ1WVViZWhUckY?oc=5",
       "date": "Wed, 15 Jul 2026 13:39:00 GMT",
       "source": "블록미디어",
-      "score": 3
+      "score": 1
+    },
+    {
+      "title": "XRP 레저 거래량 3억개 수준으로 감소…실사용 지표 70% 넘게 후퇴",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE92dm9iZ3QwTmR2bjIxOHE0UEtPeHBnQ290UnlabV9Tc3hVbFJOTks0SU5NejJ6QzZYMUpGWkZnTW5yNVU4SHFhN1dSQTB6ZkFyRFc4bFAxcHYtVzN2M3hSX21LRlg3U090RndIMmNQR0l1OTA?oc=5",
+      "date": "Wed, 15 Jul 2026 13:24:56 GMT",
+      "source": "디지털투데이",
+      "score": 2
+    },
+    {
+      "title": "개미들 피 마르는 박스권 횡보, 리플(XRP) 투자자들이 8월 대폭발 기대하기 힘든 이유",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9Kc1l0RndmcExPVlNvTzQ4Nm9qOWVXZFBKVVhreG95NmpnbkEta05jQm5qVmp4QVdVYzBBWTYzNk4tcHlzU2g5Y3Z3?oc=5",
+      "date": "Wed, 15 Jul 2026 11:28:00 GMT",
+      "source": "코인리더스",
+      "score": 2
     },
     {
       "title": "속보 | 플랜B \"BTC 12.6만달러, 이번 사이클 고점 아냐…50만달러 가능",
@@ -139,27 +160,6 @@
       "date": "Wed, 15 Jul 2026 02:30:00 GMT",
       "source": "CoinNess",
       "score": 8
-    },
-    {
-      "title": "리플, RLUSD 1000만개 또 소각…공급 줄이고 활용처는 넓힌다",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jd21FcEJ2blpmaG9nOW8wQ19KdFhkcklUdlBlOXJqWDNmV2N2RXhRVWFQX2hkTU0xR3A5bHRxc3VqZnJSRlJNOGY4YnRTNHJMRjRHcmNjRmdVdlJMRHRlSWQwaFd0aHEyT1hCUUZsMmN1d1k?oc=5",
-      "date": "Wed, 15 Jul 2026 00:16:33 GMT",
-      "source": "디지털투데이",
-      "score": 2
-    },
-    {
-      "title": "리플, 리눅스 재단 AI 결제 프로젝트 합류…XRP·RLUSD 확장 나선다",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3MXcwSmtLd0VEUzJHNU85QXFmbkRweEMwVGxfWjNHS1lqUmE1ZmhLdXNOX09RZGtkQjNqSzh0UUtxd3pPRkZuQ1pndWhmcUJqUVhR?oc=5",
-      "date": "Tue, 14 Jul 2026 23:44:00 GMT",
-      "source": "네이트",
-      "score": 3
-    },
-    {
-      "title": "SEC 전 간부의 매서운 추궁, 리플과 XRP 행보에 또 다른 법적 먹구름 드리우나",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9NUjBRNmVKWGpVc3JjeWNrMGt3Nnk3NGhsaU45c0VuNXpVdWR1SnR4Z3dzb3U0NUM2eEo3dUt6ZDRjd0Y5dm5jdXJR?oc=5",
-      "date": "Tue, 14 Jul 2026 22:15:00 GMT",
-      "source": "코인리더스",
-      "score": 3
     }
   ]
 }
