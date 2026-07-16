@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-16T22:30:34",
+  "generated_at": "2026-07-16T23:27:04",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.093,
-    "price_krw": 1615.43,
-    "price_change_24h": -2.00961,
-    "price_change_7d": -0.29541,
-    "price_change_30d": -10.30797,
-    "market_cap_usd": 68287979183,
+    "price_usd": 1.086,
+    "price_krw": 1606.5,
+    "price_change_24h": -2.45133,
+    "price_change_7d": -0.9678,
+    "price_change_30d": -10.9146,
+    "market_cap_usd": 67845272768,
     "market_cap_rank": 6,
-    "volume_24h": 1089793390,
+    "volume_24h": 1094926143,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 59.72,
-    "sentiment_votes_down": 40.28,
+    "sentiment_votes_up": 59.42,
+    "sentiment_votes_down": 40.58,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 19.19,
-    "recent_tps": 19.19,
-    "recent_tx_count": 1727,
+    "tps_24h_avg": 16.17,
+    "recent_tps": 16.17,
+    "recent_tx_count": 1439,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 105647050,
+    "recent_window_sec": 89,
+    "ledger_seq": 105647932,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-16 22:30:21 KST",
+    "updated_at": "2026-07-16 23:26:56 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -47,6 +47,13 @@
     "data_source": "news_parse"
   },
   "etf_news": [
+    {
+      "title": "리플(XRP) 운명 가를 상원 표결…통과하면 최대 80억 달러 유입 전망",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5YM1lzM3JxcnBhTWpDVFlrMi1XQTg5MHF4SnV4OVBqTDFONFlhSDJ1WVo1dG1uNDlEa1RzUm1fcmF0MXlQNXhkNVVR?oc=5",
+      "date": "Thu, 16 Jul 2026 22:40:00 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
     {
       "title": "리플(XRP) 고래들 7일간 7,000만개 매집…ETF 매도에도 7,700만달러 베팅",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9VaUdWcEZsZHE1dDRabTlSSmdNcHF4RlZwYXRZWWNHQTlscUM4b25RYWRhT1RUWV9IWm5zblhxMVpzVHBKSmpfTGF3?oc=5",
@@ -81,16 +88,23 @@
       "date": "Sat, 11 Jul 2026 22:22:23 GMT",
       "source": "미디어파인",
       "score": 0
-    },
-    {
-      "title": "리플XRP, ETF보다 커진 토큰화 시장 주목…RWA 생태계 확대에 관심 집중",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GVWhPZDFVYWdxTkpyaGVEREl0ZTVjamJacHF3NnFWeEpBNUxBM2tuUndMRUtZYklqTjJoMS1STzlVcURnZ1ByNkxWakdWZDlRN2lJWTJrYTdHaUFvckYzX2NuekZBQnd6?oc=5",
-      "date": "Sat, 11 Jul 2026 12:19:55 GMT",
-      "source": "CBC뉴스",
-      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "이더리움·리플XRP·비트코인 하락…금리·중동 위험 겹쳤다",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzbzUzbXhlYV9SYWlrUEJiOGJoMUx5eER3SHpHdUdEZDJQN3JkdWYzRVRLQnVETHA4ZEM2cnEzNFlnM3RYRjZqT2VxNWhIQjNpU2F4YUhMUDRVUDRhZUNQSnplU2I4UmVpM1VRX0xEWFJJQQ?oc=5",
+      "date": "Thu, 16 Jul 2026 23:12:52 GMT",
+      "source": "톱스타뉴스",
+      "score": 2
+    },
+    {
+      "title": "리플(XRP) 운명 가를 상원 표결…통과하면 최대 80억 달러 유입 전망",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5YM1lzM3JxcnBhTWpDVFlrMi1XQTg5MHF4SnV4OVBqTDFONFlhSDJ1WVo1dG1uNDlEa1RzUm1fcmF0MXlQNXhkNVVR?oc=5",
+      "date": "Thu, 16 Jul 2026 22:40:00 GMT",
+      "source": "코인리더스",
+      "score": 3
+    },
     {
       "title": "리플 CEO “결제앱은 여전히 단절”…XRP 필요성 재강조",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aVVd1OHFybmFwM2hnaElfMkxZLXBnWS1zWktXejhlRFpYeHdhXzVfSmpyQTFIT2ZWWXhyYlBMemlBWkMxaXVWNEtPUUxRWmRMN0dINGxIN2hiN3k1NUxBWtIBZkFVX3lxTE9HWFlyUnNhYTFZV0pYY2FWX3hodjA4cHJOX01RMmFaTFVkZlJIMXZTRXRQNGdUVTIwc1NyTUYyR1UtdnlJc0ota2NqUTlCNjMyVHFFR0hKVWV3RGI3Uk1DcUMwNVQ3dw?oc=5",
@@ -127,13 +141,6 @@
       "score": 2
     },
     {
-      "title": "트럼프, CLARITY법 논의 합류…상원 휴회 전 처리 가능?",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCdmVoVWl0dHFGM3hxS0UtbnlFdlhCR0hBREJPVzFVSThxVERzLUZKd2F2Zk1ZTlloZnZJaVc5LUs4NWRYV2I4ZkhSWEJ3b1p5M0RGU0hJUVIxY2pBc1daR0I4LW9sZkNweHVnNVYxcHhYZnM?oc=5",
-      "date": "Wed, 15 Jul 2026 21:50:42 GMT",
-      "source": "BeInCrypto",
-      "score": 2
-    },
-    {
       "title": "이캐시·온도파이낸스 급등, 리플XRP 상승…비트코인 저항 부담",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBaQjk0aTAxajBOQk5VRV84T1EyMmxwdERfbF9OWF9MVkhldUtlVzlBSmxMNDUya2d0N24xSTB3WFlwSDJWU055NWhJcVcyOGY0Q24zVm9qT254R0JxaU5jeWpMd2dxRTc4UmlQTnVPd3ptdw?oc=5",
       "date": "Wed, 15 Jul 2026 21:31:59 GMT",
@@ -153,13 +160,6 @@
       "date": "Wed, 15 Jul 2026 13:39:00 GMT",
       "source": "블록미디어",
       "score": 1
-    },
-    {
-      "title": "데이비드 슈워츠 \"SEC, 역사 다시 쓰려 한다\" 직격…'XRP 비증권' 판결 공방 재점화",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA0SEthRGNrWFloekVoWnk3T00teG05eVJaMWY2Uzg1eG9icFhna1Jnbmpud0R0OUstZTR3Wk43YWR0aUtOT0c0VFdIQ3kwOGRROEZqd0kyMFZWeW1CM0E0Z05uU2VOU0RZb1lnbGVsbnRtN0E?oc=5",
-      "date": "Wed, 15 Jul 2026 01:44:47 GMT",
-      "source": "디지털투데이",
-      "score": 3
     }
   ]
 }
