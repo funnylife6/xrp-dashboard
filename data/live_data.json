@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-16T20:03:25",
+  "generated_at": "2026-07-16T21:30:35",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.097,
-    "price_krw": 1622.61,
-    "price_change_24h": -1.11328,
-    "price_change_7d": 0.06731,
-    "price_change_30d": -10.14859,
-    "market_cap_usd": 68511323951,
+    "price_usd": 1.096,
+    "price_krw": 1621.4,
+    "price_change_24h": -1.63097,
+    "price_change_7d": -3e-05,
+    "price_change_30d": -10.28188,
+    "market_cap_usd": 68464970772,
     "market_cap_rank": 6,
-    "volume_24h": 1055249400,
+    "volume_24h": 1032010629,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 61.76,
-    "sentiment_votes_down": 38.24,
+    "sentiment_votes_up": 58.82,
+    "sentiment_votes_down": 41.18,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 17.8,
-    "recent_tps": 17.8,
-    "recent_tx_count": 1602,
+    "tps_24h_avg": 19.13,
+    "recent_tps": 19.13,
+    "recent_tx_count": 1569,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 105644751,
+    "recent_window_sec": 82,
+    "ledger_seq": 105646114,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-16 20:03:19 KST",
+    "updated_at": "2026-07-16 21:30:20 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,17 +92,10 @@
   ],
   "general_news": [
     {
-      "title": "Ripple XRP(XRPUSD) 종목이 7월16일에 1.51% 하락한 이유는 무엇인가요?",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQm9oZXV5eE5pOFRkVUNoNUZRSzhLU0h0RVZrclVDaTM5aXVXb0dvQTBBYkNpRnFBTFM5aUVIdVZxeVpGcDdlOGdsRnFScU9md19lYWlCNlRfNmtvVU52NzhydzFnMk11U1N2WE9rNlBnVFRaME9XbDJUclAyS2Fmb0NpOXZVT01LWG9tcmhLWkpnQQ?oc=5",
-      "date": "Thu, 16 Jul 2026 18:01:13 GMT",
-      "source": "TradingKey",
-      "score": 2
-    },
-    {
-      "title": "XRP(리플), 1달러 방어선 구축은 성공...진짜 회복은 글쎄?",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1DWmQ5clMzMUZXdVpiR3ZMWmtYX1dnaTVBd25ac0tkdG96V0pVTHphQWpWcmpDUV8tYU1zQzRiRENKUk1lX3Bvc1ZR?oc=5",
-      "date": "Thu, 16 Jul 2026 17:00:00 GMT",
-      "source": "코인리더스",
+      "title": "리플 CEO “결제앱은 여전히 단절”…XRP 필요성 재강조",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aVVd1OHFybmFwM2hnaElfMkxZLXBnWS1zWktXejhlRFpYeHdhXzVfSmpyQTFIT2ZWWXhyYlBMemlBWkMxaXVWNEtPUUxRWmRMN0dINGxIN2hiN3k1NUxBWtIBZkFVX3lxTE9HWFlyUnNhYTFZV0pYY2FWX3hodjA4cHJOX01RMmFaTFVkZlJIMXZTRXRQNGdUVTIwc1NyTUYyR1UtdnlJc0ota2NqUTlCNjMyVHFFR0hKVWV3RGI3Uk1DcUMwNVQ3dw?oc=5",
+      "date": "Thu, 16 Jul 2026 16:06:42 GMT",
+      "source": "tokenpost.kr",
       "score": 2
     },
     {
@@ -113,24 +106,31 @@
       "score": 3
     },
     {
-      "title": "\"DTCC가 XRP 담보 인정?\"…확산된 루머의 실체, AI가 만든 '가짜 정보'였다",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTbl8tUjFmQWtRdUNWazJqZUdiSzRFRFdqRUdjd2lkRDI3cjctbGdpMVhKWTg1VXlBLWM0a0lyTHBJbW82MFRWRzlZTDNwcks5eFI2ZWV5UFVFTlI2QmRlSmFITnJWQVU?oc=5",
-      "date": "Thu, 16 Jul 2026 05:51:49 GMT",
-      "source": "비온미디어",
-      "score": 2
-    },
-    {
-      "title": "XRP 레저, 토큰화 상품 시장서 70.4% 장악...RWA 핵심 플랫폼 부상",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMC1leHNNemRLTTJpUUVSNXRUdTdJSUkzMWk0NFFXN0RDcjZmUEhxSkpQaFIyeHFHNGY4Q2JtUVlqU0hDbVZfcW1uWTlEX0U4ODJtRXI3eDVJTHhJNTVNd1dPUVJUTl9veWF2V25UUzljekppQXk0Y3FSc29DNjNuODNTejlKNHo2?oc=5",
-      "date": "Thu, 16 Jul 2026 05:45:04 GMT",
-      "source": "글로벌이코노믹",
-      "score": 2
+      "title": "XRP ETF 자금 유입 사실상 제로…기관 수요 흔들리나",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42RWhRaXJkelI0bEMwZ0lNNy13TlVwS1VIbWtuSGFRdmhaaWlDRkdkcENvZVM2d0tqUHFZVGFZdjZuYnlkRUpVMG1qRGh1TC0tSW5oLVE0ME1aZDl3dVI0WNIBZkFVX3lxTFB5ME1DcUNJMWhCUm0tdmQ0MkVuc3d4ZEQwQkNIdmNZOHNxRUtDVGQ4M0tTcmY5am1YeTVtb3V5eUdlRFU1YjBmSGUweE0yWms3Wjg0MVJZUmFVTVkyWE8wYUNNOXZ2Zw?oc=5",
+      "date": "Thu, 16 Jul 2026 11:10:47 GMT",
+      "source": "tokenpost.kr",
+      "score": 4
     },
     {
       "title": "美 캔자스대 유니폼 'XRP 로고' 논란 지속…리플 전 CTO \"표현의 자유일 뿐\"",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ZZnBzNmlCX19VOE1iNEx3ZTFGcHVNTUMyUzlmaWduY1liQ2ZWdkRjSFdvM1owcDhvNDE2MUxOZ3plZFJ0Mlp1ZVlQaXBrNTV0QUtud1RNZGFOZjRRVk9SQWNiUHpSdjAtWllPMm55aDZRX0E?oc=5",
-      "date": "Thu, 16 Jul 2026 02:07:43 GMT",
-      "source": "디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9JZ2xNRnJNQU9leDhoeDRNbjJHMkUwUDAtYTdTcFpPX2RRM2twZDRjSWx5amowMmo2dlkyRkVvV1JFNjFnWHNtZEFKXzR0S3Q4X1M0?oc=5",
+      "date": "Thu, 16 Jul 2026 02:08:00 GMT",
+      "source": "네이트",
+      "score": 2
+    },
+    {
+      "title": "XRP, 1달러 지지선과 1.18달러 저항 사이 횡보…리플은 사상 최고의 한 해 이어가",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1zV21aNXJiU0lRaDlPQnNSVXRnWmxmU200SlJMMTRTb2owYWEtRUR2Y21EQzNKRG1BeDZtUE5YMDM0OVhBS2dlVElR?oc=5",
+      "date": "Wed, 15 Jul 2026 22:21:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
+      "title": "트럼프, CLARITY법 논의 합류…상원 휴회 전 처리 가능?",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCdmVoVWl0dHFGM3hxS0UtbnlFdlhCR0hBREJPVzFVSThxVERzLUZKd2F2Zk1ZTlloZnZJaVc5LUs4NWRYV2I4ZkhSWEJ3b1p5M0RGU0hJUVIxY2pBc1daR0I4LW9sZkNweHVnNVYxcHhYZnM?oc=5",
+      "date": "Wed, 15 Jul 2026 21:50:42 GMT",
+      "source": "BeInCrypto",
       "score": 2
     },
     {
@@ -138,6 +138,13 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBaQjk0aTAxajBOQk5VRV84T1EyMmxwdERfbF9OWF9MVkhldUtlVzlBSmxMNDUya2d0N24xSTB3WFlwSDJWU055NWhJcVcyOGY0Q24zVm9qT254R0JxaU5jeWpMd2dxRTc4UmlQTnVPd3ptdw?oc=5",
       "date": "Wed, 15 Jul 2026 21:31:59 GMT",
       "source": "톱스타뉴스",
+      "score": 2
+    },
+    {
+      "title": "\"1년 하락 터널 끝자락 선 리플\"… 일목균형표 겹겹이 쌓인 저항대 돌파가 관건",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ3NDRGJrM1Jnb1FCYjZudU5pWWxKZ0tRc0dKb2dHQ1lGcEhublVQYkItb3VxT3FOV1dQeEM2Z0NxYjJOenAtc1NFQlJWdlk4RDVhZUVRLW4xUi11WlIxRU5NM3pjMXdPLUhNNGotQ1JINXE0U2pLX3FVUGhSUFNMWEhtM2s4Ql9Y?oc=5",
+      "date": "Wed, 15 Jul 2026 18:51:58 GMT",
+      "source": "글로벌이코노믹",
       "score": 2
     },
     {
@@ -153,13 +160,6 @@
       "date": "Wed, 15 Jul 2026 01:44:47 GMT",
       "source": "디지털투데이",
       "score": 3
-    },
-    {
-      "title": "리플, RLUSD 1000만개 또 소각…공급 줄이고 활용처는 넓힌다",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jd21FcEJ2blpmaG9nOW8wQ19KdFhkcklUdlBlOXJqWDNmV2N2RXhRVWFQX2hkTU0xR3A5bHRxc3VqZnJSRlJNOGY4YnRTNHJMRjRHcmNjRmdVdlJMRHRlSWQwaFd0aHEyT1hCUUZsMmN1d1k?oc=5",
-      "date": "Wed, 15 Jul 2026 00:16:33 GMT",
-      "source": "디지털투데이",
-      "score": 2
     }
   ]
 }
