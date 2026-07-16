@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-16T16:10:44",
+  "generated_at": "2026-07-16T17:44:54",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.11,
-    "price_krw": 1644.36,
-    "price_change_24h": -0.85664,
-    "price_change_7d": 1.87334,
-    "price_change_30d": -8.16428,
-    "market_cap_usd": 69480593638,
+    "price_usd": 1.1,
+    "price_krw": 1634.22,
+    "price_change_24h": -0.94038,
+    "price_change_7d": 1.48624,
+    "price_change_30d": -8.82778,
+    "market_cap_usd": 68975234830,
     "market_cap_rank": 6,
-    "volume_24h": 1054565694,
+    "volume_24h": 1026627555,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 66.67,
-    "sentiment_votes_down": 33.33,
+    "sentiment_votes_up": 65.22,
+    "sentiment_votes_down": 34.78,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 30.98,
-    "recent_tps": 30.98,
-    "recent_tx_count": 2757,
+    "tps_24h_avg": 17.99,
+    "recent_tps": 17.99,
+    "recent_tx_count": 1619,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 105641121,
+    "recent_window_sec": 90,
+    "ledger_seq": 105642586,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-16 16:10:35 KST",
+    "updated_at": "2026-07-16 17:44:42 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -69,6 +69,13 @@
       "score": 0
     },
     {
+      "title": "리플(XRP) 현물 ETF, 공급은 계속 잠기는데 가격은 왜 움직이지 않을까?",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1GNW1JWW95VHNmMlBJZ0diaTB3Z2pkdWFxeFlhMTUyNnl0V2lyblVzOU8ydnB0ejJXZ1lxeVdCajBhMnFo?oc=5",
+      "date": "Mon, 13 Jul 2026 22:02:00 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
+    {
       "title": "“화려한 파티 뒤 대참사”... 리플 ETF 자금 메마르자 투매 폭풍 징후 포착",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE40aVhpSUlKYkZaNEFEeEtPVkNVdEROczhIQ1d5QTBaSmNPTWhxRlphLVZ5X0d6b1V1SGRFV3ZPRUhfZHZLMXl5YUg2VHFucmtmdlkyRVp6Ni1faF9IblJRLUF3MUdfYVdPOW9Ib1RhOEZna2_SAXdBVV95cUxNYlBVZ1VMNnZGcU1tVXNEdERjOEViVGFsdEd5aW9PYlJJWEVXcjg0eE5HVWFnTzRkWm9MYWpLZnF1QmZLSzJTb0tLU1p5cTdXczZzbEJmYzNjWU5yb05vb2pnS3dsa19GSldIOElsTlNIZ2JuOW51OA?oc=5",
       "date": "Mon, 13 Jul 2026 05:20:45 GMT",
@@ -81,16 +88,16 @@
       "date": "Sat, 11 Jul 2026 22:22:23 GMT",
       "source": "미디어파인",
       "score": 0
-    },
-    {
-      "title": "리플XRP, ETF보다 커진 토큰화 시장 주목…RWA 생태계 확대에 관심 집중",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GVWhPZDFVYWdxTkpyaGVEREl0ZTVjamJacHF3NnFWeEpBNUxBM2tuUndMRUtZYklqTjJoMS1STzlVcURnZ1ByNkxWakdWZDlRN2lJWTJrYTdHaUFvckYzX2NuekZBQnd6?oc=5",
-      "date": "Sat, 11 Jul 2026 12:19:55 GMT",
-      "source": "CBC뉴스",
-      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "XRP(리플), 1달러 방어선 구축은 성공...진짜 회복은 글쎄?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1DWmQ5clMzMUZXdVpiR3ZMWmtYX1dnaTVBd25ac0tkdG96V0pVTHphQWpWcmpDUV8tYU1zQzRiRENKUk1lX3Bvc1ZR?oc=5",
+      "date": "Thu, 16 Jul 2026 17:00:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
     {
       "title": "리플(XRP) 고래들 7일간 7,000만개 매집…ETF 매도에도 7,700만달러 베팅",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9VaUdWcEZsZHE1dDRabTlSSmdNcHF4RlZwYXRZWWNHQTlscUM4b25RYWRhT1RUWV9IWm5zblhxMVpzVHBKSmpfTGF3?oc=5",
@@ -99,16 +106,16 @@
       "score": 3
     },
     {
-      "title": "XRP ETF 자금 유입 사실상 제로…기관 수요 흔들리나",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42RWhRaXJkelI0bEMwZ0lNNy13TlVwS1VIbWtuSGFRdmhaaWlDRkdkcENvZVM2d0tqUHFZVGFZdjZuYnlkRUpVMG1qRGh1TC0tSW5oLVE0ME1aZDl3dVI0WNIBZkFVX3lxTFB5ME1DcUNJMWhCUm0tdmQ0MkVuc3d4ZEQwQkNIdmNZOHNxRUtDVGQ4M0tTcmY5am1YeTVtb3V5eUdlRFU1YjBmSGUweE0yWms3Wjg0MVJZUmFVTVkyWE8wYUNNOXZ2Zw?oc=5",
-      "date": "Thu, 16 Jul 2026 11:10:47 GMT",
-      "source": "tokenpost.kr",
-      "score": 4
+      "title": "\"DTCC가 XRP 담보 인정?\"…확산된 루머의 실체, AI가 만든 '가짜 정보'였다",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTbl8tUjFmQWtRdUNWazJqZUdiSzRFRFdqRUdjd2lkRDI3cjctbGdpMVhKWTg1VXlBLWM0a0lyTHBJbW82MFRWRzlZTDNwcks5eFI2ZWV5UFVFTlI2QmRlSmFITnJWQVU?oc=5",
+      "date": "Thu, 16 Jul 2026 05:51:49 GMT",
+      "source": "비온미디어",
+      "score": 2
     },
     {
-      "title": "美 생산자물가 둔화에 XRP 숏 대량 정리…청산 격차 331%",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9VajdSQWRLODk3eHhsSk9MdWdaWHBvX2kzTGVDU3JLUUEyRVlQdW9VNHY1RDJtSE9zNWtqajlLVDhBMTNab25VSjg3WmpzWEp4ckxKNjdmbFRqSmliRWtEeXVpbThwd2ZuNlhyYUZrNEk5SGc?oc=5",
-      "date": "Thu, 16 Jul 2026 02:07:11 GMT",
+      "title": "美 캔자스대 유니폼 'XRP 로고' 논란 지속…리플 전 CTO \"표현의 자유일 뿐\"",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ZZnBzNmlCX19VOE1iNEx3ZTFGcHVNTUMyUzlmaWduY1liQ2ZWdkRjSFdvM1owcDhvNDE2MUxOZ3plZFJ0Mlp1ZVlQaXBrNTV0QUtud1RNZGFOZjRRVk9SQWNiUHpSdjAtWllPMm55aDZRX0E?oc=5",
+      "date": "Thu, 16 Jul 2026 02:07:43 GMT",
       "source": "디지털투데이",
       "score": 2
     },
@@ -120,17 +127,10 @@
       "score": 3
     },
     {
-      "title": "XRP, 1달러 지지선과 1.18달러 저항 사이 횡보…리플은 사상 최고의 한 해 이어가",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1zV21aNXJiU0lRaDlPQnNSVXRnWmxmU200SlJMMTRTb2owYWEtRUR2Y21EQzNKRG1BeDZtUE5YMDM0OVhBS2dlVElR?oc=5",
-      "date": "Wed, 15 Jul 2026 22:21:00 GMT",
-      "source": "코인리더스",
-      "score": 2
-    },
-    {
-      "title": "\"1년 하락 터널 끝자락 선 리플\"… 일목균형표 겹겹이 쌓인 저항대 돌파가 관건",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ3NDRGJrM1Jnb1FCYjZudU5pWWxKZ0tRc0dKb2dHQ1lGcEhublVQYkItb3VxT3FOV1dQeEM2Z0NxYjJOenAtc1NFQlJWdlk4RDVhZUVRLW4xUi11WlIxRU5NM3pjMXdPLUhNNGotQ1JINXE0U2pLX3FVUGhSUFNMWEhtM2s4Ql9Y?oc=5",
-      "date": "Wed, 15 Jul 2026 18:51:58 GMT",
-      "source": "글로벌이코노믹",
+      "title": "이캐시·온도파이낸스 급등, 리플XRP 상승…비트코인 저항 부담",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBaQjk0aTAxajBOQk5VRV84T1EyMmxwdERfbF9OWF9MVkhldUtlVzlBSmxMNDUya2d0N24xSTB3WFlwSDJWU055NWhJcVcyOGY0Q24zVm9qT254R0JxaU5jeWpMd2dxRTc4UmlQTnVPd3ptdw?oc=5",
+      "date": "Wed, 15 Jul 2026 21:31:59 GMT",
+      "source": "톱스타뉴스",
       "score": 2
     },
     {
@@ -141,25 +141,25 @@
       "score": 1
     },
     {
-      "title": "개미들 피 마르는 박스권 횡보, 리플(XRP) 투자자들이 8월 대폭발 기대하기 힘든 이유",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9Kc1l0RndmcExPVlNvTzQ4Nm9qOWVXZFBKVVhreG95NmpnbkEta05jQm5qVmp4QVdVYzBBWTYzNk4tcHlzU2g5Y3Z3?oc=5",
-      "date": "Wed, 15 Jul 2026 11:28:00 GMT",
-      "source": "코인리더스",
-      "score": 2
-    },
-    {
-      "title": "XRP 약세장 1년…개미들 손절할 때 고래들은 40억개 쓸어담았다",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jTkhGRmpubHljdTloQ3kyLS1NdWtRTTZ1aUx2WF9JYW12emE4S0l4eHQtQzZfUTR2bktPWm9JNVIyUERMRzRQdVVsYkswaXd1YVpnUV8xa182Uy1jQU5nUndCSnRUMllSdlFKaC1qX3d6NWM?oc=5",
-      "date": "Wed, 15 Jul 2026 01:26:00 GMT",
-      "source": "디지털투데이",
-      "score": 2
-    },
-    {
       "title": "리플, RLUSD 1000만개 또 소각…공급 줄이고 활용처는 넓힌다",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jd21FcEJ2blpmaG9nOW8wQ19KdFhkcklUdlBlOXJqWDNmV2N2RXhRVWFQX2hkTU0xR3A5bHRxc3VqZnJSRlJNOGY4YnRTNHJMRjRHcmNjRmdVdlJMRHRlSWQwaFd0aHEyT1hCUUZsMmN1d1k?oc=5",
       "date": "Wed, 15 Jul 2026 00:16:33 GMT",
       "source": "디지털투데이",
       "score": 2
+    },
+    {
+      "title": "비트코인·이더리움·리플XRP 오름세…CPI 둔화에 거래 확대",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WaWtXc3JfYnotY2pDYVVUVENva3NSVU83SHY2WWNzODFCOEhRX29jdEt5TGdfejllOEVhY09ia0k3NTUxVURJLXZ5dkZnVG91SFlFcXp4VkhXNUxqY2w3R0RfRzJZUWVCZkNRMUd0cWE2Zw?oc=5",
+      "date": "Tue, 14 Jul 2026 22:26:55 GMT",
+      "source": "톱스타뉴스",
+      "score": 2
+    },
+    {
+      "title": "SEC 전 간부의 매서운 추궁, 리플과 XRP 행보에 또 다른 법적 먹구름 드리우나",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9NUjBRNmVKWGpVc3JjeWNrMGt3Nnk3NGhsaU45c0VuNXpVdWR1SnR4Z3dzb3U0NUM2eEo3dUt6ZDRjd0Y5dm5jdXJR?oc=5",
+      "date": "Tue, 14 Jul 2026 22:15:00 GMT",
+      "source": "코인리더스",
+      "score": 3
     }
   ]
 }
