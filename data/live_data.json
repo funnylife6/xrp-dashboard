@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-16T18:59:10",
+  "generated_at": "2026-07-16T20:03:25",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.092,
-    "price_krw": 1616.83,
-    "price_change_24h": -1.74196,
-    "price_change_7d": -0.33659,
-    "price_change_30d": -10.38624,
-    "market_cap_usd": 68233741517,
+    "price_usd": 1.097,
+    "price_krw": 1622.61,
+    "price_change_24h": -1.11328,
+    "price_change_7d": 0.06731,
+    "price_change_30d": -10.14859,
+    "market_cap_usd": 68511323951,
     "market_cap_rank": 6,
-    "volume_24h": 1046297870,
+    "volume_24h": 1055249400,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 62.12,
-    "sentiment_votes_down": 37.88,
+    "sentiment_votes_up": 61.76,
+    "sentiment_votes_down": 38.24,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 23.14,
-    "recent_tps": 23.14,
-    "recent_tx_count": 2083,
+    "tps_24h_avg": 17.8,
+    "recent_tps": 17.8,
+    "recent_tx_count": 1602,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 105643744,
+    "ledger_seq": 105644751,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-16 18:58:56 KST",
+    "updated_at": "2026-07-16 20:03:19 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -62,13 +62,6 @@
       "score": 0
     },
     {
-      "title": "美 의회가 7월 17일 엑스알피(리플)의 운명 결정한다",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBNOU9mWGdxSk0ycEJabTJ5ajczWS1oWlFwT0NoOURvck5rQWQzOXR1OEVwblNpVjQxcUxxM1pUWVI3NmlhMmZKQmd3?oc=5",
-      "date": "Wed, 15 Jul 2026 22:30:00 GMT",
-      "source": "코인리더스",
-      "score": 0
-    },
-    {
       "title": "리플(XRP) 현물 ETF, 공급은 계속 잠기는데 가격은 왜 움직이지 않을까?",
       "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1GNW1JWW95VHNmMlBJZ0diaTB3Z2pkdWFxeFlhMTUyNnl0V2lyblVzOU8ydnB0ejJXZ1lxeVdCajBhMnFo?oc=5",
       "date": "Mon, 13 Jul 2026 22:02:00 GMT",
@@ -87,6 +80,13 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04RE9oZnpIeUZZVUk3TUdZVFd2cm00VDVKZVVKNjJ5c2lJX2pud2dwbk1FZ3hyZHJCQnNZWWlGU2J3ZlFqVmVubTdJY0liVy12eWxRVnR0N05ua0dOU1pHTy1sTmxvX0xsUE90R2F3?oc=5",
       "date": "Sat, 11 Jul 2026 22:22:23 GMT",
       "source": "미디어파인",
+      "score": 0
+    },
+    {
+      "title": "리플XRP, ETF보다 커진 토큰화 시장 주목…RWA 생태계 확대에 관심 집중",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GVWhPZDFVYWdxTkpyaGVEREl0ZTVjamJacHF3NnFWeEpBNUxBM2tuUndMRUtZYklqTjJoMS1STzlVcURnZ1ByNkxWakdWZDlRN2lJWTJrYTdHaUFvckYzX2NuekZBQnd6?oc=5",
+      "date": "Sat, 11 Jul 2026 12:19:55 GMT",
+      "source": "CBC뉴스",
       "score": 0
     }
   ],
@@ -120,18 +120,18 @@
       "score": 2
     },
     {
+      "title": "XRP 레저, 토큰화 상품 시장서 70.4% 장악...RWA 핵심 플랫폼 부상",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMC1leHNNemRLTTJpUUVSNXRUdTdJSUkzMWk0NFFXN0RDcjZmUEhxSkpQaFIyeHFHNGY4Q2JtUVlqU0hDbVZfcW1uWTlEX0U4ODJtRXI3eDVJTHhJNTVNd1dPUVJUTl9veWF2V25UUzljekppQXk0Y3FSc29DNjNuODNTejlKNHo2?oc=5",
+      "date": "Thu, 16 Jul 2026 05:45:04 GMT",
+      "source": "글로벌이코노믹",
+      "score": 2
+    },
+    {
       "title": "美 캔자스대 유니폼 'XRP 로고' 논란 지속…리플 전 CTO \"표현의 자유일 뿐\"",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ZZnBzNmlCX19VOE1iNEx3ZTFGcHVNTUMyUzlmaWduY1liQ2ZWdkRjSFdvM1owcDhvNDE2MUxOZ3plZFJ0Mlp1ZVlQaXBrNTV0QUtud1RNZGFOZjRRVk9SQWNiUHpSdjAtWllPMm55aDZRX0E?oc=5",
       "date": "Thu, 16 Jul 2026 02:07:43 GMT",
       "source": "디지털투데이",
       "score": 2
-    },
-    {
-      "title": "美 의회가 7월 17일 엑스알피(리플)의 운명 결정한다",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBNOU9mWGdxSk0ycEJabTJ5ajczWS1oWlFwT0NoOURvck5rQWQzOXR1OEVwblNpVjQxcUxxM1pUWVI3NmlhMmZKQmd3?oc=5",
-      "date": "Wed, 15 Jul 2026 22:30:00 GMT",
-      "source": "코인리더스",
-      "score": 3
     },
     {
       "title": "이캐시·온도파이낸스 급등, 리플XRP 상승…비트코인 저항 부담",
@@ -148,18 +148,18 @@
       "score": 1
     },
     {
+      "title": "데이비드 슈워츠 \"SEC, 역사 다시 쓰려 한다\" 직격…'XRP 비증권' 판결 공방 재점화",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA0SEthRGNrWFloekVoWnk3T00teG05eVJaMWY2Uzg1eG9icFhna1Jnbmpud0R0OUstZTR3Wk43YWR0aUtOT0c0VFdIQ3kwOGRROEZqd0kyMFZWeW1CM0E0Z05uU2VOU0RZb1lnbGVsbnRtN0E?oc=5",
+      "date": "Wed, 15 Jul 2026 01:44:47 GMT",
+      "source": "디지털투데이",
+      "score": 3
+    },
+    {
       "title": "리플, RLUSD 1000만개 또 소각…공급 줄이고 활용처는 넓힌다",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jd21FcEJ2blpmaG9nOW8wQ19KdFhkcklUdlBlOXJqWDNmV2N2RXhRVWFQX2hkTU0xR3A5bHRxc3VqZnJSRlJNOGY4YnRTNHJMRjRHcmNjRmdVdlJMRHRlSWQwaFd0aHEyT1hCUUZsMmN1d1k?oc=5",
       "date": "Wed, 15 Jul 2026 00:16:33 GMT",
       "source": "디지털투데이",
       "score": 2
-    },
-    {
-      "title": "SEC 전 간부의 매서운 추궁, 리플과 XRP 행보에 또 다른 법적 먹구름 드리우나",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9NUjBRNmVKWGpVc3JjeWNrMGt3Nnk3NGhsaU45c0VuNXpVdWR1SnR4Z3dzb3U0NUM2eEo3dUt6ZDRjd0Y5dm5jdXJR?oc=5",
-      "date": "Tue, 14 Jul 2026 22:15:00 GMT",
-      "source": "코인리더스",
-      "score": 3
     }
   ]
 }
