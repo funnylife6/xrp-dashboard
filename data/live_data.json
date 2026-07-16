@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-16T12:15:39",
+  "generated_at": "2026-07-16T14:31:15",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.11,
-    "price_krw": 1638.57,
-    "price_change_24h": 0.14158,
-    "price_change_7d": 1.42254,
-    "price_change_30d": -10.44969,
-    "market_cap_usd": 69192359154,
+    "price_krw": 1647.3,
+    "price_change_24h": -0.8007,
+    "price_change_7d": 1.25386,
+    "price_change_30d": -9.26924,
+    "market_cap_usd": 69441687653,
     "market_cap_rank": 6,
-    "volume_24h": 1188189531,
+    "volume_24h": 1130564198,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 69.62,
-    "sentiment_votes_down": 30.38,
+    "sentiment_votes_up": 72.86,
+    "sentiment_votes_down": 27.14,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 22.98,
-    "recent_tps": 22.98,
-    "recent_tx_count": 2068,
+    "tps_24h_avg": 26.06,
+    "recent_tps": 26.06,
+    "recent_tx_count": 2345,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 105637472,
+    "ledger_seq": 105639579,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-16 12:15:32 KST",
+    "updated_at": "2026-07-16 14:31:09 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,6 +92,13 @@
   ],
   "general_news": [
     {
+      "title": "리플(XRP), x402 재단 합류와 XRPL 업그레이드로 투자자 관심 집중",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EZllyOUQ5aENFMDlxRzdHS2k5STlsSUFxQmpxNVc3MUZOVmNOeU5hLWI5bjVvd09rUEVpNGw1N05lYWZmblFiRTBhczgtZFpCNVE4V01PQ2w3YVBPcEZwRdIBZkFVX3lxTFBmYmcwc29yUmlNRnhWbEZxTGQ5bmN4d2lKeFFMRnRubFU4U2d3TW1lM2Y5c2hsemhsZU1YaGZmWjJ5bXdYSlkwMU1tWTNQczNCLWVQekNJckdZUE5tS2V6bHVCQU5wdw?oc=5",
+      "date": "Thu, 16 Jul 2026 13:07:18 GMT",
+      "source": "tokenpost.kr",
+      "score": 2
+    },
+    {
       "title": "리플(XRP) 고래들 7일간 7,000만개 매집…ETF 매도에도 7,700만달러 베팅",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9VaUdWcEZsZHE1dDRabTlSSmdNcHF4RlZwYXRZWWNHQTlscUM4b25RYWRhT1RUWV9IWm5zblhxMVpzVHBKSmpfTGF3?oc=5",
       "date": "Thu, 16 Jul 2026 11:21:00 GMT",
@@ -131,13 +138,6 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBaQjk0aTAxajBOQk5VRV84T1EyMmxwdERfbF9OWF9MVkhldUtlVzlBSmxMNDUya2d0N24xSTB3WFlwSDJWU055NWhJcVcyOGY0Q24zVm9qT254R0JxaU5jeWpMd2dxRTc4UmlQTnVPd3ptdw?oc=5",
       "date": "Wed, 15 Jul 2026 21:31:59 GMT",
       "source": "톱스타뉴스",
-      "score": 2
-    },
-    {
-      "title": "XRP, 1.11달러대서 등락… 리플의 새로운 통합 및 규제 논의 주목",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90dURVSmcyWXhsQXEzdmk4S0x5UUJ6MVdOVFl1TWdKbUwtM2hWdFJ0TWdKTDFtVmdDVndzNGo0TFZVeW9SY3FOQjg3dkRTNU5fa2pfY0IyeGc2b1VreF91ZdIBZkFVX3lxTE9STTZkTWhDM01zSl85YjlBSy1jZ0JSUHdqOHZvY2R2d0tsWjhwU1dUWXNRZnBXVDlDeW5iWmRkV3hVNXczNGwycmFfWElIdGFJWGdtMVNqR2dUWHFCc1BHLVVBMmNLZw?oc=5",
-      "date": "Wed, 15 Jul 2026 21:07:12 GMT",
-      "source": "tokenpost.kr",
       "score": 2
     },
     {
