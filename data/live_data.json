@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-16T17:44:54",
+  "generated_at": "2026-07-16T18:59:10",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.1,
-    "price_krw": 1634.22,
-    "price_change_24h": -0.94038,
-    "price_change_7d": 1.48624,
-    "price_change_30d": -8.82778,
-    "market_cap_usd": 68975234830,
+    "price_usd": 1.092,
+    "price_krw": 1616.83,
+    "price_change_24h": -1.74196,
+    "price_change_7d": -0.33659,
+    "price_change_30d": -10.38624,
+    "market_cap_usd": 68233741517,
     "market_cap_rank": 6,
-    "volume_24h": 1026627555,
+    "volume_24h": 1046297870,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 65.22,
-    "sentiment_votes_down": 34.78,
+    "sentiment_votes_up": 62.12,
+    "sentiment_votes_down": 37.88,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 17.99,
-    "recent_tps": 17.99,
-    "recent_tx_count": 1619,
+    "tps_24h_avg": 23.14,
+    "recent_tps": 23.14,
+    "recent_tx_count": 2083,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 105642586,
+    "ledger_seq": 105643744,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-16 17:44:42 KST",
+    "updated_at": "2026-07-16 18:58:56 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,6 +92,13 @@
   ],
   "general_news": [
     {
+      "title": "Ripple XRP(XRPUSD) 종목이 7월16일에 1.51% 하락한 이유는 무엇인가요?",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQm9oZXV5eE5pOFRkVUNoNUZRSzhLU0h0RVZrclVDaTM5aXVXb0dvQTBBYkNpRnFBTFM5aUVIdVZxeVpGcDdlOGdsRnFScU9md19lYWlCNlRfNmtvVU52NzhydzFnMk11U1N2WE9rNlBnVFRaME9XbDJUclAyS2Fmb0NpOXZVT01LWG9tcmhLWkpnQQ?oc=5",
+      "date": "Thu, 16 Jul 2026 18:01:13 GMT",
+      "source": "TradingKey",
+      "score": 2
+    },
+    {
       "title": "XRP(리플), 1달러 방어선 구축은 성공...진짜 회복은 글쎄?",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1DWmQ5clMzMUZXdVpiR3ZMWmtYX1dnaTVBd25ac0tkdG96V0pVTHphQWpWcmpDUV8tYU1zQzRiRENKUk1lX3Bvc1ZR?oc=5",
       "date": "Thu, 16 Jul 2026 17:00:00 GMT",
@@ -145,13 +152,6 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jd21FcEJ2blpmaG9nOW8wQ19KdFhkcklUdlBlOXJqWDNmV2N2RXhRVWFQX2hkTU0xR3A5bHRxc3VqZnJSRlJNOGY4YnRTNHJMRjRHcmNjRmdVdlJMRHRlSWQwaFd0aHEyT1hCUUZsMmN1d1k?oc=5",
       "date": "Wed, 15 Jul 2026 00:16:33 GMT",
       "source": "디지털투데이",
-      "score": 2
-    },
-    {
-      "title": "비트코인·이더리움·리플XRP 오름세…CPI 둔화에 거래 확대",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WaWtXc3JfYnotY2pDYVVUVENva3NSVU83SHY2WWNzODFCOEhRX29jdEt5TGdfejllOEVhY09ia0k3NTUxVURJLXZ5dkZnVG91SFlFcXp4VkhXNUxqY2w3R0RfRzJZUWVCZkNRMUd0cWE2Zw?oc=5",
-      "date": "Tue, 14 Jul 2026 22:26:55 GMT",
-      "source": "톱스타뉴스",
       "score": 2
     },
     {
