@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-17T17:03:28",
+  "generated_at": "2026-07-17T18:32:18",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.087,
-    "price_krw": 1620.12,
-    "price_change_24h": -1.96947,
-    "price_change_7d": -1.51686,
-    "price_change_30d": -10.45514,
-    "market_cap_usd": 67877675446,
+    "price_usd": 1.089,
+    "price_krw": 1622.6,
+    "price_change_24h": -0.40524,
+    "price_change_7d": -1.27849,
+    "price_change_30d": -10.41656,
+    "market_cap_usd": 68040153702,
     "market_cap_rank": 6,
-    "volume_24h": 1096670698,
+    "volume_24h": 1047746345,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 65.67,
-    "sentiment_votes_down": 34.33,
+    "sentiment_votes_up": 64.18,
+    "sentiment_votes_down": 35.82,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 23.19,
-    "recent_tps": 23.19,
-    "recent_tx_count": 2087,
+    "tps_24h_avg": 14.44,
+    "recent_tps": 14.44,
+    "recent_tx_count": 1271,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 105664476,
+    "recent_window_sec": 88,
+    "ledger_seq": 105665865,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-17 17:03:14 KST",
+    "updated_at": "2026-07-17 18:32:05 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 4410000,
     "total_net_inflow_usd": 4410000,
     "total_value_traded_usd": 4410000,
-    "updated_at": "SoSoValue 순유입 부분 수집 07/17 17:03",
+    "updated_at": "SoSoValue 순유입 부분 수집 07/17 18:32",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -52,6 +52,13 @@
       "title": "리플(XRP) 운명 가를 상원 표결…통과하면 최대 80억 달러 유입 전망",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5YM1lzM3JxcnBhTWpDVFlrMi1XQTg5MHF4SnV4OVBqTDFONFlhSDJ1WVo1dG1uNDlEa1RzUm1fcmF0MXlQNXhkNVVR?oc=5",
       "date": "Thu, 16 Jul 2026 22:40:00 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
+    {
+      "title": "리플(XRP) 고래들 7일간 7,000만개 매집…ETF 매도에도 7,700만달러 베팅",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9VaUdWcEZsZHE1dDRabTlSSmdNcHF4RlZwYXRZWWNHQTlscUM4b25RYWRhT1RUWV9IWm5zblhxMVpzVHBKSmpfTGF3?oc=5",
+      "date": "Thu, 16 Jul 2026 11:21:00 GMT",
       "source": "코인리더스",
       "score": 0
     },
@@ -82,13 +89,6 @@
       "date": "Sat, 11 Jul 2026 22:22:23 GMT",
       "source": "미디어파인",
       "score": 0
-    },
-    {
-      "title": "리플XRP, ETF보다 커진 토큰화 시장 주목…RWA 생태계 확대에 관심 집중",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GVWhPZDFVYWdxTkpyaGVEREl0ZTVjamJacHF3NnFWeEpBNUxBM2tuUndMRUtZYklqTjJoMS1STzlVcURnZ1ByNkxWakdWZDlRN2lJWTJrYTdHaUFvckYzX2NuekZBQnd6?oc=5",
-      "date": "Sat, 11 Jul 2026 12:19:55 GMT",
-      "source": "CBC뉴스",
-      "score": 0
     }
   ],
   "general_news": [
@@ -117,6 +117,13 @@
       "title": "리플(XRP) 운명 가를 상원 표결…통과하면 최대 80억 달러 유입 전망",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5YM1lzM3JxcnBhTWpDVFlrMi1XQTg5MHF4SnV4OVBqTDFONFlhSDJ1WVo1dG1uNDlEa1RzUm1fcmF0MXlQNXhkNVVR?oc=5",
       "date": "Thu, 16 Jul 2026 22:40:00 GMT",
+      "source": "코인리더스",
+      "score": 3
+    },
+    {
+      "title": "리플(XRP) 고래들 7일간 7,000만개 매집…ETF 매도에도 7,700만달러 베팅",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9VaUdWcEZsZHE1dDRabTlSSmdNcHF4RlZwYXRZWWNHQTlscUM4b25RYWRhT1RUWV9IWm5zblhxMVpzVHBKSmpfTGF3?oc=5",
+      "date": "Thu, 16 Jul 2026 11:21:00 GMT",
       "source": "코인리더스",
       "score": 3
     },
@@ -154,13 +161,6 @@
       "date": "Wed, 15 Jul 2026 01:45:00 GMT",
       "source": "네이트",
       "score": 3
-    },
-    {
-      "title": "리플, RLUSD 1000만개 또 소각…공급 줄이고 활용처는 넓힌다",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jd21FcEJ2blpmaG9nOW8wQ19KdFhkcklUdlBlOXJqWDNmV2N2RXhRVWFQX2hkTU0xR3A5bHRxc3VqZnJSRlJNOGY4YnRTNHJMRjRHcmNjRmdVdlJMRHRlSWQwaFd0aHEyT1hCUUZsMmN1d1k?oc=5",
-      "date": "Wed, 15 Jul 2026 00:16:33 GMT",
-      "source": "디지털투데이",
-      "score": 2
     }
   ]
 }
