@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-17T00:59:05",
+  "generated_at": "2026-07-17T04:07:48",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.09,
-    "price_krw": 1609.45,
-    "price_change_24h": -1.83031,
-    "price_change_7d": -0.60737,
-    "price_change_30d": -10.59037,
-    "market_cap_usd": 68052460988,
+    "price_usd": 1.091,
+    "price_krw": 1615.21,
+    "price_change_24h": -1.90595,
+    "price_change_7d": -1.49754,
+    "price_change_30d": -10.13271,
+    "market_cap_usd": 68138435174,
     "market_cap_rank": 6,
-    "volume_24h": 1091928671,
+    "volume_24h": 1058756898,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 58.46,
-    "sentiment_votes_down": 41.54,
+    "sentiment_votes_up": 61.76,
+    "sentiment_votes_down": 38.24,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 22.03,
-    "recent_tps": 22.03,
-    "recent_tx_count": 1961,
+    "tps_24h_avg": 11.82,
+    "recent_tps": 11.82,
+    "recent_tx_count": 1064,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 105649373,
+    "recent_window_sec": 90,
+    "ledger_seq": 105652326,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-17 00:58:57 KST",
+    "updated_at": "2026-07-17 04:07:34 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 4410000,
     "total_net_inflow_usd": 4410000,
     "total_value_traded_usd": 4410000,
-    "updated_at": "SoSoValue 순유입 부분 수집 07/17 00:59",
+    "updated_at": "SoSoValue 순유입 부분 수집 07/17 04:07",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -104,13 +104,6 @@
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5YM1lzM3JxcnBhTWpDVFlrMi1XQTg5MHF4SnV4OVBqTDFONFlhSDJ1WVo1dG1uNDlEa1RzUm1fcmF0MXlQNXhkNVVR?oc=5",
       "date": "Thu, 16 Jul 2026 22:40:00 GMT",
       "source": "코인리더스",
-      "score": 3
-    },
-    {
-      "title": "XRP, 1년 사이 62% '미끌'...고래 매집·거래소 보유량 감소로 오를까?",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBmNl80UlZDd2IyVWJJSXFfcko3d3phX0pUazBudHJ2QUN2N1RnZ3hFQ29OMnZrNGs5YXlfSDZ2eXlSeWs3OTlnX0JR?oc=5",
-      "date": "Thu, 16 Jul 2026 21:40:00 GMT",
-      "source": "코인리더스",
       "score": 2
     },
     {
@@ -128,10 +121,17 @@
       "score": 4
     },
     {
-      "title": "XRP, 1달러 지지선과 1.18달러 저항 사이 횡보…리플은 사상 최고의 한 해 이어가",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1zV21aNXJiU0lRaDlPQnNSVXRnWmxmU200SlJMMTRTb2owYWEtRUR2Y21EQzNKRG1BeDZtUE5YMDM0OVhBS2dlVElR?oc=5",
-      "date": "Wed, 15 Jul 2026 22:21:00 GMT",
-      "source": "코인리더스",
+      "title": "美 생산자물가 둔화에 XRP 숏 대량 정리…청산 격차 331%",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9VajdSQWRLODk3eHhsSk9MdWdaWHBvX2kzTGVDU3JLUUEyRVlQdW9VNHY1RDJtSE9zNWtqajlLVDhBMTNab25VSjg3WmpzWEp4ckxKNjdmbFRqSmliRWtEeXVpbThwd2ZuNlhyYUZrNEk5SGc?oc=5",
+      "date": "Thu, 16 Jul 2026 02:07:11 GMT",
+      "source": "디지털투데이",
+      "score": 2
+    },
+    {
+      "title": "이캐시·온도파이낸스 급등, 리플XRP 상승…비트코인 저항 부담",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBaQjk0aTAxajBOQk5VRV84T1EyMmxwdERfbF9OWF9MVkhldUtlVzlBSmxMNDUya2d0N24xSTB3WFlwSDJWU055NWhJcVcyOGY0Q24zVm9qT254R0JxaU5jeWpMd2dxRTc4UmlQTnVPd3ptdw?oc=5",
+      "date": "Wed, 15 Jul 2026 21:31:59 GMT",
+      "source": "톱스타뉴스",
       "score": 2
     },
     {
@@ -156,9 +156,9 @@
       "score": 3
     },
     {
-      "title": "XRP 약세장 1년…개미들 손절할 때 고래들은 40억개 쓸어담았다",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jTkhGRmpubHljdTloQ3kyLS1NdWtRTTZ1aUx2WF9JYW12emE4S0l4eHQtQzZfUTR2bktPWm9JNVIyUERMRzRQdVVsYkswaXd1YVpnUV8xa182Uy1jQU5nUndCSnRUMllSdlFKaC1qX3d6NWM?oc=5",
-      "date": "Wed, 15 Jul 2026 01:26:00 GMT",
+      "title": "리플, RLUSD 1000만개 또 소각…공급 줄이고 활용처는 넓힌다",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jd21FcEJ2blpmaG9nOW8wQ19KdFhkcklUdlBlOXJqWDNmV2N2RXhRVWFQX2hkTU0xR3A5bHRxc3VqZnJSRlJNOGY4YnRTNHJMRjRHcmNjRmdVdlJMRHRlSWQwaFd0aHEyT1hCUUZsMmN1d1k?oc=5",
+      "date": "Wed, 15 Jul 2026 00:16:33 GMT",
       "source": "디지털투데이",
       "score": 2
     }
