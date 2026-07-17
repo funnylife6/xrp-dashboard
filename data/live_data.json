@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-17T12:40:21",
+  "generated_at": "2026-07-17T14:26:21",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.08,
-    "price_krw": 1604.84,
-    "price_change_24h": -2.17766,
-    "price_change_7d": -3.04549,
-    "price_change_30d": -9.4263,
-    "market_cap_usd": 67468549090,
+    "price_usd": 1.083,
+    "price_krw": 1606.65,
+    "price_change_24h": -2.61821,
+    "price_change_7d": -2.48047,
+    "price_change_30d": -10.02369,
+    "market_cap_usd": 67635435128,
     "market_cap_rank": 6,
-    "volume_24h": 1021988792,
+    "volume_24h": 1126587285,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 59.15,
-    "sentiment_votes_down": 40.85,
+    "sentiment_votes_up": 61.11,
+    "sentiment_votes_down": 38.89,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 16.61,
-    "recent_tps": 16.61,
-    "recent_tx_count": 1495,
+    "tps_24h_avg": 15.66,
+    "recent_tps": 15.66,
+    "recent_tx_count": 1409,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 105660381,
+    "ledger_seq": 105662032,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-17 12:40:14 KST",
+    "updated_at": "2026-07-17 14:26:10 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 4410000,
     "total_net_inflow_usd": 4410000,
     "total_value_traded_usd": 4410000,
-    "updated_at": "SoSoValue 순유입 부분 수집 07/17 12:40",
+    "updated_at": "SoSoValue 순유입 부분 수집 07/17 14:26",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -59,13 +59,6 @@
       "title": "리플(XRP) 운명 가를 상원 표결…통과하면 최대 80억 달러 유입 전망",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5YM1lzM3JxcnBhTWpDVFlrMi1XQTg5MHF4SnV4OVBqTDFONFlhSDJ1WVo1dG1uNDlEa1RzUm1fcmF0MXlQNXhkNVVR?oc=5",
       "date": "Thu, 16 Jul 2026 22:40:00 GMT",
-      "source": "코인리더스",
-      "score": 0
-    },
-    {
-      "title": "리플(XRP) 고래들 7일간 7,000만개 매집…ETF 매도에도 7,700만달러 베팅",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9VaUdWcEZsZHE1dDRabTlSSmdNcHF4RlZwYXRZWWNHQTlscUM4b25RYWRhT1RUWV9IWm5zblhxMVpzVHBKSmpfTGF3?oc=5",
-      "date": "Thu, 16 Jul 2026 11:21:00 GMT",
       "source": "코인리더스",
       "score": 0
     },
@@ -89,6 +82,13 @@
       "date": "Mon, 13 Jul 2026 05:20:45 GMT",
       "source": "핀포인트뉴스",
       "score": 0
+    },
+    {
+      "title": "리플XRP, ETF보다 커진 토큰화 시장 주목…RWA 생태계 확대에 관심 집중",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GVWhPZDFVYWdxTkpyaGVEREl0ZTVjamJacHF3NnFWeEpBNUxBM2tuUndMRUtZYklqTjJoMS1STzlVcURnZ1ByNkxWakdWZDlRN2lJWTJrYTdHaUFvckYzX2NuekZBQnd6?oc=5",
+      "date": "Sat, 11 Jul 2026 12:19:55 GMT",
+      "source": "CBC뉴스",
+      "score": 0
     }
   ],
   "general_news": [
@@ -97,6 +97,13 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1na2hHTHFZczh5aXNGWkM2eXlsVFFnZlVkQ1VnbnZ2QzQzS0I4cXNtbXZHWjdYMnBuQ09MU3A2R1phV0h0RTgzTk5aMjZfTm45VHRRaTZ0WXRzY2lPeHY0am95cjROckRy?oc=5",
       "date": "Fri, 17 Jul 2026 06:48:42 GMT",
       "source": "CBC뉴스",
+      "score": 3
+    },
+    {
+      "title": "기관마저 돌아섰다…리플(XRP) 헤드앤드숄더 붕괴 초읽기",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1Nd1hsRVRESFdJNWEzRUFzV2RXQUdVS2M3SG1yeV9xN1F1R3N0R0RvUHR2Mlp1aWIzWW1ETmZyenJZdWI5cWwzTVhB?oc=5",
+      "date": "Fri, 17 Jul 2026 05:42:00 GMT",
+      "source": "코인리더스",
       "score": 3
     },
     {
@@ -111,7 +118,7 @@
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5YM1lzM3JxcnBhTWpDVFlrMi1XQTg5MHF4SnV4OVBqTDFONFlhSDJ1WVo1dG1uNDlEa1RzUm1fcmF0MXlQNXhkNVVR?oc=5",
       "date": "Thu, 16 Jul 2026 22:40:00 GMT",
       "source": "코인리더스",
-      "score": 2
+      "score": 3
     },
     {
       "title": "XRP ETF 자금 유입 사실상 제로…기관 수요 흔들리나",
@@ -154,13 +161,6 @@
       "date": "Wed, 15 Jul 2026 01:44:47 GMT",
       "source": "디지털투데이",
       "score": 3
-    },
-    {
-      "title": "리플, RLUSD 1000만개 또 소각…공급 줄이고 활용처는 넓힌다",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jd21FcEJ2blpmaG9nOW8wQ19KdFhkcklUdlBlOXJqWDNmV2N2RXhRVWFQX2hkTU0xR3A5bHRxc3VqZnJSRlJNOGY4YnRTNHJMRjRHcmNjRmdVdlJMRHRlSWQwaFd0aHEyT1hCUUZsMmN1d1k?oc=5",
-      "date": "Wed, 15 Jul 2026 00:16:33 GMT",
-      "source": "디지털투데이",
-      "score": 2
     }
   ]
 }
