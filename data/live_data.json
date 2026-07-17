@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-17T06:35:15",
+  "generated_at": "2026-07-17T09:04:00",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.085,
-    "price_krw": 1606.89,
-    "price_change_24h": -2.5567,
-    "price_change_7d": -2.19714,
-    "price_change_30d": -10.89131,
-    "market_cap_usd": 67779306922,
+    "price_usd": 1.084,
+    "price_krw": 1610.64,
+    "price_change_24h": -1.96743,
+    "price_change_7d": -1.76377,
+    "price_change_30d": -9.33252,
+    "market_cap_usd": 67725961945,
     "market_cap_rank": 6,
-    "volume_24h": 1147554887,
+    "volume_24h": 1029936029,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 60.0,
-    "sentiment_votes_down": 40.0,
+    "sentiment_votes_up": 60.81,
+    "sentiment_votes_down": 39.19,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 13.0,
-    "recent_tps": 13.0,
-    "recent_tx_count": 1170,
+    "tps_24h_avg": 17.4,
+    "recent_tps": 17.4,
+    "recent_tx_count": 1549,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 105654635,
+    "recent_window_sec": 89,
+    "ledger_seq": 105656979,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-17 06:35:02 KST",
+    "updated_at": "2026-07-17 09:03:52 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 4410000,
     "total_net_inflow_usd": 4410000,
     "total_value_traded_usd": 4410000,
-    "updated_at": "SoSoValue 순유입 부분 수집 07/17 06:35",
+    "updated_at": "SoSoValue 순유입 부분 수집 07/17 09:03",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -70,9 +70,9 @@
       "score": 0
     },
     {
-      "title": "리플(XRP) 현물 ETF, 공급은 계속 잠기는데 가격은 왜 움직이지 않을까?",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1GNW1JWW95VHNmMlBJZ0diaTB3Z2pkdWFxeFlhMTUyNnl0V2lyblVzOU8ydnB0ejJXZ1lxeVdCajBhMnFo?oc=5",
-      "date": "Mon, 13 Jul 2026 22:02:00 GMT",
+      "title": "美 의회가 7월 17일 엑스알피(리플)의 운명 결정한다",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBNOU9mWGdxSk0ycEJabTJ5ajczWS1oWlFwT0NoOURvck5rQWQzOXR1OEVwblNpVjQxcUxxM1pUWVI3NmlhMmZKQmd3?oc=5",
+      "date": "Wed, 15 Jul 2026 22:30:00 GMT",
       "source": "코인리더스",
       "score": 0
     },
@@ -107,18 +107,18 @@
       "score": 3
     },
     {
-      "title": "리플 CEO “결제앱은 여전히 단절”…XRP 필요성 재강조",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aVVd1OHFybmFwM2hnaElfMkxZLXBnWS1zWktXejhlRFpYeHdhXzVfSmpyQTFIT2ZWWXhyYlBMemlBWkMxaXVWNEtPUUxRWmRMN0dINGxIN2hiN3k1NUxBWtIBZkFVX3lxTE9HWFlyUnNhYTFZV0pYY2FWX3hodjA4cHJOX01RMmFaTFVkZlJIMXZTRXRQNGdUVTIwc1NyTUYyR1UtdnlJc0ota2NqUTlCNjMyVHFFR0hKVWV3RGI3Uk1DcUMwNVQ3dw?oc=5",
-      "date": "Thu, 16 Jul 2026 16:06:42 GMT",
-      "source": "tokenpost.kr",
-      "score": 2
-    },
-    {
       "title": "리플(XRP) 고래들 7일간 7,000만개 매집…ETF 매도에도 7,700만달러 베팅",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9VaUdWcEZsZHE1dDRabTlSSmdNcHF4RlZwYXRZWWNHQTlscUM4b25RYWRhT1RUWV9IWm5zblhxMVpzVHBKSmpfTGF3?oc=5",
       "date": "Thu, 16 Jul 2026 11:21:00 GMT",
       "source": "코인리더스",
       "score": 3
+    },
+    {
+      "title": "XRP ETF 자금 유입 사실상 제로…기관 수요 흔들리나",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42RWhRaXJkelI0bEMwZ0lNNy13TlVwS1VIbWtuSGFRdmhaaWlDRkdkcENvZVM2d0tqUHFZVGFZdjZuYnlkRUpVMG1qRGh1TC0tSW5oLVE0ME1aZDl3dVI0WNIBZkFVX3lxTFB5ME1DcUNJMWhCUm0tdmQ0MkVuc3d4ZEQwQkNIdmNZOHNxRUtDVGQ4M0tTcmY5am1YeTVtb3V5eUdlRFU1YjBmSGUweE0yWms3Wjg0MVJZUmFVTVkyWE8wYUNNOXZ2Zw?oc=5",
+      "date": "Thu, 16 Jul 2026 11:10:47 GMT",
+      "source": "tokenpost.kr",
+      "score": 4
     },
     {
       "title": "이캐시·온도파이낸스 급등, 리플XRP 상승…비트코인 저항 부담",
