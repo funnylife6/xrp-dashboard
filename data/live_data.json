@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-17T04:07:48",
+  "generated_at": "2026-07-17T06:35:15",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.091,
-    "price_krw": 1615.21,
-    "price_change_24h": -1.90595,
-    "price_change_7d": -1.49754,
-    "price_change_30d": -10.13271,
-    "market_cap_usd": 68138435174,
+    "price_usd": 1.085,
+    "price_krw": 1606.89,
+    "price_change_24h": -2.5567,
+    "price_change_7d": -2.19714,
+    "price_change_30d": -10.89131,
+    "market_cap_usd": 67779306922,
     "market_cap_rank": 6,
-    "volume_24h": 1058756898,
+    "volume_24h": 1147554887,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 61.76,
-    "sentiment_votes_down": 38.24,
+    "sentiment_votes_up": 60.0,
+    "sentiment_votes_down": 40.0,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 11.82,
-    "recent_tps": 11.82,
-    "recent_tx_count": 1064,
+    "tps_24h_avg": 13.0,
+    "recent_tps": 13.0,
+    "recent_tx_count": 1170,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 105652326,
+    "ledger_seq": 105654635,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-17 04:07:34 KST",
+    "updated_at": "2026-07-17 06:35:02 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 4410000,
     "total_net_inflow_usd": 4410000,
     "total_value_traded_usd": 4410000,
-    "updated_at": "SoSoValue 순유입 부분 수집 07/17 04:07",
+    "updated_at": "SoSoValue 순유입 부분 수집 07/17 06:35",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -104,6 +104,13 @@
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5YM1lzM3JxcnBhTWpDVFlrMi1XQTg5MHF4SnV4OVBqTDFONFlhSDJ1WVo1dG1uNDlEa1RzUm1fcmF0MXlQNXhkNVVR?oc=5",
       "date": "Thu, 16 Jul 2026 22:40:00 GMT",
       "source": "코인리더스",
+      "score": 3
+    },
+    {
+      "title": "리플 CEO “결제앱은 여전히 단절”…XRP 필요성 재강조",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aVVd1OHFybmFwM2hnaElfMkxZLXBnWS1zWktXejhlRFpYeHdhXzVfSmpyQTFIT2ZWWXhyYlBMemlBWkMxaXVWNEtPUUxRWmRMN0dINGxIN2hiN3k1NUxBWtIBZkFVX3lxTE9HWFlyUnNhYTFZV0pYY2FWX3hodjA4cHJOX01RMmFaTFVkZlJIMXZTRXRQNGdUVTIwc1NyTUYyR1UtdnlJc0ota2NqUTlCNjMyVHFFR0hKVWV3RGI3Uk1DcUMwNVQ3dw?oc=5",
+      "date": "Thu, 16 Jul 2026 16:06:42 GMT",
+      "source": "tokenpost.kr",
       "score": 2
     },
     {
@@ -112,20 +119,6 @@
       "date": "Thu, 16 Jul 2026 11:21:00 GMT",
       "source": "코인리더스",
       "score": 3
-    },
-    {
-      "title": "XRP ETF 자금 유입 사실상 제로…기관 수요 흔들리나",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42RWhRaXJkelI0bEMwZ0lNNy13TlVwS1VIbWtuSGFRdmhaaWlDRkdkcENvZVM2d0tqUHFZVGFZdjZuYnlkRUpVMG1qRGh1TC0tSW5oLVE0ME1aZDl3dVI0WNIBZkFVX3lxTFB5ME1DcUNJMWhCUm0tdmQ0MkVuc3d4ZEQwQkNIdmNZOHNxRUtDVGQ4M0tTcmY5am1YeTVtb3V5eUdlRFU1YjBmSGUweE0yWms3Wjg0MVJZUmFVTVkyWE8wYUNNOXZ2Zw?oc=5",
-      "date": "Thu, 16 Jul 2026 11:10:47 GMT",
-      "source": "tokenpost.kr",
-      "score": 4
-    },
-    {
-      "title": "美 생산자물가 둔화에 XRP 숏 대량 정리…청산 격차 331%",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9VajdSQWRLODk3eHhsSk9MdWdaWHBvX2kzTGVDU3JLUUEyRVlQdW9VNHY1RDJtSE9zNWtqajlLVDhBMTNab25VSjg3WmpzWEp4ckxKNjdmbFRqSmliRWtEeXVpbThwd2ZuNlhyYUZrNEk5SGc?oc=5",
-      "date": "Thu, 16 Jul 2026 02:07:11 GMT",
-      "source": "디지털투데이",
-      "score": 2
     },
     {
       "title": "이캐시·온도파이낸스 급등, 리플XRP 상승…비트코인 저항 부담",
@@ -161,6 +154,13 @@
       "date": "Wed, 15 Jul 2026 00:16:33 GMT",
       "source": "디지털투데이",
       "score": 2
+    },
+    {
+      "title": "리플, 리눅스 재단 AI 결제 프로젝트 합류…XRP·RLUSD 확장 나선다",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3MXcwSmtLd0VEUzJHNU85QXFmbkRweEMwVGxfWjNHS1lqUmE1ZmhLdXNOX09RZGtkQjNqSzh0UUtxd3pPRkZuQ1pndWhmcUJqUVhR?oc=5",
+      "date": "Tue, 14 Jul 2026 23:44:00 GMT",
+      "source": "네이트",
+      "score": 3
     }
   ]
 }
