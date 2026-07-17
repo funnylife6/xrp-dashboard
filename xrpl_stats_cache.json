@@ -1,18 +1,18 @@
 {
   "tx_today": 0,
   "tx_7d_avg": 0,
-  "tps_24h_avg": 15.66,
-  "recent_tps": 15.66,
-  "recent_tx_count": 1409,
+  "tps_24h_avg": 15.9,
+  "recent_tps": 15.9,
+  "recent_tx_count": 1431,
   "recent_ledger_count": 24,
   "recent_window_sec": 90,
-  "ledger_seq": 105662032,
+  "ledger_seq": 105663397,
   "ledger_close_sec": 0.0,
   "load_factor": 1.0,
   "peers": 0,
-  "updated_at": "2026-07-17 14:26:10 KST",
+  "updated_at": "2026-07-17 15:53:54 KST",
   "status": "ok",
   "status_label": "최근 ledger 평균",
   "data_source": "xrpl_recent_ledgers",
-  "cached_at": "2026-07-17T14:26:19"
+  "cached_at": "2026-07-17T15:54:02"
 }
