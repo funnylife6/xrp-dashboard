@@ -1,50 +1,51 @@
 {
-  "generated_at": "2026-07-16T23:27:04",
+  "generated_at": "2026-07-17T00:59:05",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.086,
-    "price_krw": 1606.5,
-    "price_change_24h": -2.45133,
-    "price_change_7d": -0.9678,
-    "price_change_30d": -10.9146,
-    "market_cap_usd": 67845272768,
+    "price_usd": 1.09,
+    "price_krw": 1609.45,
+    "price_change_24h": -1.83031,
+    "price_change_7d": -0.60737,
+    "price_change_30d": -10.59037,
+    "market_cap_usd": 68052460988,
     "market_cap_rank": 6,
-    "volume_24h": 1094926143,
+    "volume_24h": 1091928671,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 59.42,
-    "sentiment_votes_down": 40.58,
+    "sentiment_votes_up": 58.46,
+    "sentiment_votes_down": 41.54,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 16.17,
-    "recent_tps": 16.17,
-    "recent_tx_count": 1439,
+    "tps_24h_avg": 22.03,
+    "recent_tps": 22.03,
+    "recent_tx_count": 1961,
     "recent_ledger_count": 24,
     "recent_window_sec": 89,
-    "ledger_seq": 105647932,
+    "ledger_seq": 105649373,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-16 23:26:56 KST",
+    "updated_at": "2026-07-17 00:58:57 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
   },
   "etf_flow": {
-    "approved_count": 0,
+    "approved_count": 4,
     "daily_inflow_usd": 0,
     "weekly_inflow_usd": 0,
-    "aum_usd": 0,
-    "total_net_inflow_usd": 0,
-    "total_value_traded_usd": 0,
-    "updated_at": "뉴스 자동 파싱 대기",
-    "data_source": "news_parse"
+    "aum_usd": 4410000,
+    "total_net_inflow_usd": 4410000,
+    "total_value_traded_usd": 4410000,
+    "updated_at": "SoSoValue 순유입 부분 수집 07/17 00:59",
+    "data_source": "sosovalue",
+    "partial": true
   },
   "etf_news": [
     {
@@ -106,10 +107,10 @@
       "score": 3
     },
     {
-      "title": "리플 CEO “결제앱은 여전히 단절”…XRP 필요성 재강조",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aVVd1OHFybmFwM2hnaElfMkxZLXBnWS1zWktXejhlRFpYeHdhXzVfSmpyQTFIT2ZWWXhyYlBMemlBWkMxaXVWNEtPUUxRWmRMN0dINGxIN2hiN3k1NUxBWtIBZkFVX3lxTE9HWFlyUnNhYTFZV0pYY2FWX3hodjA4cHJOX01RMmFaTFVkZlJIMXZTRXRQNGdUVTIwc1NyTUYyR1UtdnlJc0ota2NqUTlCNjMyVHFFR0hKVWV3RGI3Uk1DcUMwNVQ3dw?oc=5",
-      "date": "Thu, 16 Jul 2026 16:06:42 GMT",
-      "source": "tokenpost.kr",
+      "title": "XRP, 1년 사이 62% '미끌'...고래 매집·거래소 보유량 감소로 오를까?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBmNl80UlZDd2IyVWJJSXFfcko3d3phX0pUazBudHJ2QUN2N1RnZ3hFQ29OMnZrNGs5YXlfSDZ2eXlSeWs3OTlnX0JR?oc=5",
+      "date": "Thu, 16 Jul 2026 21:40:00 GMT",
+      "source": "코인리더스",
       "score": 2
     },
     {
@@ -127,24 +128,10 @@
       "score": 4
     },
     {
-      "title": "美 캔자스대 유니폼 'XRP 로고' 논란 지속…리플 전 CTO \"표현의 자유일 뿐\"",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9JZ2xNRnJNQU9leDhoeDRNbjJHMkUwUDAtYTdTcFpPX2RRM2twZDRjSWx5amowMmo2dlkyRkVvV1JFNjFnWHNtZEFKXzR0S3Q4X1M0?oc=5",
-      "date": "Thu, 16 Jul 2026 02:08:00 GMT",
-      "source": "네이트",
-      "score": 2
-    },
-    {
       "title": "XRP, 1달러 지지선과 1.18달러 저항 사이 횡보…리플은 사상 최고의 한 해 이어가",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1zV21aNXJiU0lRaDlPQnNSVXRnWmxmU200SlJMMTRTb2owYWEtRUR2Y21EQzNKRG1BeDZtUE5YMDM0OVhBS2dlVElR?oc=5",
       "date": "Wed, 15 Jul 2026 22:21:00 GMT",
       "source": "코인리더스",
-      "score": 2
-    },
-    {
-      "title": "이캐시·온도파이낸스 급등, 리플XRP 상승…비트코인 저항 부담",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBaQjk0aTAxajBOQk5VRV84T1EyMmxwdERfbF9OWF9MVkhldUtlVzlBSmxMNDUya2d0N24xSTB3WFlwSDJWU055NWhJcVcyOGY0Q24zVm9qT254R0JxaU5jeWpMd2dxRTc4UmlQTnVPd3ptdw?oc=5",
-      "date": "Wed, 15 Jul 2026 21:31:59 GMT",
-      "source": "톱스타뉴스",
       "score": 2
     },
     {
@@ -160,6 +147,20 @@
       "date": "Wed, 15 Jul 2026 13:39:00 GMT",
       "source": "블록미디어",
       "score": 1
+    },
+    {
+      "title": "데이비드 슈워츠 \"SEC, 역사 다시 쓰려 한다\" 직격…'XRP 비증권' 판결 공방 재점화",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA0SEthRGNrWFloekVoWnk3T00teG05eVJaMWY2Uzg1eG9icFhna1Jnbmpud0R0OUstZTR3Wk43YWR0aUtOT0c0VFdIQ3kwOGRROEZqd0kyMFZWeW1CM0E0Z05uU2VOU0RZb1lnbGVsbnRtN0E?oc=5",
+      "date": "Wed, 15 Jul 2026 01:44:47 GMT",
+      "source": "디지털투데이",
+      "score": 3
+    },
+    {
+      "title": "XRP 약세장 1년…개미들 손절할 때 고래들은 40억개 쓸어담았다",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jTkhGRmpubHljdTloQ3kyLS1NdWtRTTZ1aUx2WF9JYW12emE4S0l4eHQtQzZfUTR2bktPWm9JNVIyUERMRzRQdVVsYkswaXd1YVpnUV8xa182Uy1jQU5nUndCSnRUMllSdlFKaC1qX3d6NWM?oc=5",
+      "date": "Wed, 15 Jul 2026 01:26:00 GMT",
+      "source": "디지털투데이",
+      "score": 2
     }
   ]
 }
