@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-17T09:04:00",
+  "generated_at": "2026-07-17T11:03:17",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.084,
-    "price_krw": 1610.64,
-    "price_change_24h": -1.96743,
-    "price_change_7d": -1.76377,
-    "price_change_30d": -9.33252,
-    "market_cap_usd": 67725961945,
+    "price_usd": 1.086,
+    "price_krw": 1614.07,
+    "price_change_24h": -1.92607,
+    "price_change_7d": -2.51024,
+    "price_change_30d": -9.22214,
+    "market_cap_usd": 67841204380,
     "market_cap_rank": 6,
-    "volume_24h": 1029936029,
+    "volume_24h": 1032975695,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 60.81,
-    "sentiment_votes_down": 39.19,
+    "sentiment_votes_up": 59.21,
+    "sentiment_votes_down": 40.79,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 17.4,
-    "recent_tps": 17.4,
-    "recent_tx_count": 1549,
+    "tps_24h_avg": 14.59,
+    "recent_tps": 14.59,
+    "recent_tx_count": 1313,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 105656979,
+    "recent_window_sec": 90,
+    "ledger_seq": 105658863,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-17 09:03:52 KST",
+    "updated_at": "2026-07-17 11:03:10 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,11 +43,18 @@
     "aum_usd": 4410000,
     "total_net_inflow_usd": 4410000,
     "total_value_traded_usd": 4410000,
-    "updated_at": "SoSoValue 순유입 부분 수집 07/17 09:03",
+    "updated_at": "SoSoValue 순유입 부분 수집 07/17 11:03",
     "data_source": "sosovalue",
     "partial": true
   },
   "etf_news": [
+    {
+      "title": "비트코인·리플, 클래리티법 논의 앞두고 관망세…\"트럼프 회동 주목\"",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1na2hHTHFZczh5aXNGWkM2eXlsVFFnZlVkQ1VnbnZ2QzQzS0I4cXNtbXZHWjdYMnBuQ09MU3A2R1phV0h0RTgzTk5aMjZfTm45VHRRaTZ0WXRzY2lPeHY0am95cjROckRy?oc=5",
+      "date": "Fri, 17 Jul 2026 06:48:42 GMT",
+      "source": "CBC뉴스",
+      "score": 0
+    },
     {
       "title": "리플(XRP) 운명 가를 상원 표결…통과하면 최대 80억 달러 유입 전망",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5YM1lzM3JxcnBhTWpDVFlrMi1XQTg5MHF4SnV4OVBqTDFONFlhSDJ1WVo1dG1uNDlEa1RzUm1fcmF0MXlQNXhkNVVR?oc=5",
@@ -82,16 +89,16 @@
       "date": "Mon, 13 Jul 2026 05:20:45 GMT",
       "source": "핀포인트뉴스",
       "score": 0
-    },
-    {
-      "title": "규제 불확실성 걷어낸 리플(XRP), 다음 상승 동력은 XRP 레저와 ETF에 쏠린다",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04RE9oZnpIeUZZVUk3TUdZVFd2cm00VDVKZVVKNjJ5c2lJX2pud2dwbk1FZ3hyZHJCQnNZWWlGU2J3ZlFqVmVubTdJY0liVy12eWxRVnR0N05ua0dOU1pHTy1sTmxvX0xsUE90R2F3?oc=5",
-      "date": "Sat, 11 Jul 2026 22:22:23 GMT",
-      "source": "미디어파인",
-      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "비트코인·리플, 클래리티법 논의 앞두고 관망세…\"트럼프 회동 주목\"",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1na2hHTHFZczh5aXNGWkM2eXlsVFFnZlVkQ1VnbnZ2QzQzS0I4cXNtbXZHWjdYMnBuQ09MU3A2R1phV0h0RTgzTk5aMjZfTm45VHRRaTZ0WXRzY2lPeHY0am95cjROckRy?oc=5",
+      "date": "Fri, 17 Jul 2026 06:48:42 GMT",
+      "source": "CBC뉴스",
+      "score": 3
+    },
     {
       "title": "이더리움·리플XRP·비트코인 하락…금리·중동 위험 겹쳤다",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzbzUzbXhlYV9SYWlrUEJiOGJoMUx5eER3SHpHdUdEZDJQN3JkdWYzRVRLQnVETHA4ZEM2cnEzNFlnM3RYRjZqT2VxNWhIQjNpU2F4YUhMUDRVUDRhZUNQSnplU2I4UmVpM1VRX0xEWFJJQQ?oc=5",
@@ -121,6 +128,13 @@
       "score": 4
     },
     {
+      "title": "美 의회가 7월 17일 엑스알피(리플)의 운명 결정한다",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBNOU9mWGdxSk0ycEJabTJ5ajczWS1oWlFwT0NoOURvck5rQWQzOXR1OEVwblNpVjQxcUxxM1pUWVI3NmlhMmZKQmd3?oc=5",
+      "date": "Wed, 15 Jul 2026 22:30:00 GMT",
+      "source": "코인리더스",
+      "score": 3
+    },
+    {
       "title": "이캐시·온도파이낸스 급등, 리플XRP 상승…비트코인 저항 부담",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBaQjk0aTAxajBOQk5VRV84T1EyMmxwdERfbF9OWF9MVkhldUtlVzlBSmxMNDUya2d0N24xSTB3WFlwSDJWU055NWhJcVcyOGY0Q24zVm9qT254R0JxaU5jeWpMd2dxRTc4UmlQTnVPd3ptdw?oc=5",
       "date": "Wed, 15 Jul 2026 21:31:59 GMT",
@@ -146,20 +160,6 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA0SEthRGNrWFloekVoWnk3T00teG05eVJaMWY2Uzg1eG9icFhna1Jnbmpud0R0OUstZTR3Wk43YWR0aUtOT0c0VFdIQ3kwOGRROEZqd0kyMFZWeW1CM0E0Z05uU2VOU0RZb1lnbGVsbnRtN0E?oc=5",
       "date": "Wed, 15 Jul 2026 01:44:47 GMT",
       "source": "디지털투데이",
-      "score": 3
-    },
-    {
-      "title": "리플, RLUSD 1000만개 또 소각…공급 줄이고 활용처는 넓힌다",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jd21FcEJ2blpmaG9nOW8wQ19KdFhkcklUdlBlOXJqWDNmV2N2RXhRVWFQX2hkTU0xR3A5bHRxc3VqZnJSRlJNOGY4YnRTNHJMRjRHcmNjRmdVdlJMRHRlSWQwaFd0aHEyT1hCUUZsMmN1d1k?oc=5",
-      "date": "Wed, 15 Jul 2026 00:16:33 GMT",
-      "source": "디지털투데이",
-      "score": 2
-    },
-    {
-      "title": "리플, 리눅스 재단 AI 결제 프로젝트 합류…XRP·RLUSD 확장 나선다",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3MXcwSmtLd0VEUzJHNU85QXFmbkRweEMwVGxfWjNHS1lqUmE1ZmhLdXNOX09RZGtkQjNqSzh0UUtxd3pPRkZuQ1pndWhmcUJqUVhR?oc=5",
-      "date": "Tue, 14 Jul 2026 23:44:00 GMT",
-      "source": "네이트",
       "score": 3
     }
   ]
