@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-18T14:18:32",
+  "generated_at": "2026-07-18T15:27:46",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.086,
-    "price_krw": 1616.42,
-    "price_change_24h": 0.26541,
-    "price_change_7d": -1.93889,
-    "price_change_30d": -6.50122,
-    "market_cap_usd": 67860180089,
+    "price_usd": 1.088,
+    "price_krw": 1618.51,
+    "price_change_24h": 1.11122,
+    "price_change_7d": -2.28519,
+    "price_change_30d": -6.10532,
+    "market_cap_usd": 67948388502,
     "market_cap_rank": 6,
-    "volume_24h": 709596902,
+    "volume_24h": 657965985,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 61.64,
-    "sentiment_votes_down": 38.36,
+    "sentiment_votes_up": 60.0,
+    "sentiment_votes_down": 40.0,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 12.25,
-    "recent_tps": 12.25,
-    "recent_tx_count": 1090,
+    "tps_24h_avg": 14.15,
+    "recent_tps": 14.15,
+    "recent_tx_count": 1259,
     "recent_ledger_count": 24,
     "recent_window_sec": 89,
-    "ledger_seq": 105684593,
+    "ledger_seq": 105685692,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-18 14:18:18 KST",
+    "updated_at": "2026-07-18 15:27:37 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,11 +92,25 @@
   ],
   "general_news": [
     {
+      "title": "엑스알피(리플) 시세 주춤 \"클래러리법 통과 땐 대규모 자금 유입\"",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pcU5pbmhtdmoxdFhpWFZJeE9hSXhYRkRHRE91MzFvS2VZaGNkOV80aGlZazlqN1pMVFJRUHlGQkZSZ1RqdlhXRmpfS0ZBM1UzZTVIa3lDSllTOVp5aTk2WE5zaTFGVUNob0ZwTk5R?oc=5",
+      "date": "Sat, 18 Jul 2026 15:07:00 GMT",
+      "source": "gukjenews.com",
+      "score": 2
+    },
+    {
       "title": "클래리티 법안 상원 통과 임박...XRP ‘2단계 상승’ 시나리오 작동하나",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZm1MRlRIMWphNkw2Wm9FS2plVU90Y1pYMzJFZWV3MlFuOWd5bndFaTU4SkZNc0UwYXluaHZoRzRLT1dySUYzanNCSlRLM0h3VUJ5MnlVSno4UFFZaDlPWU5GT3RBWDlVY1Naazl3a2xpdkMzMDkzY2tiaW4xMS00dW9venRJdURy?oc=5",
       "date": "Sat, 18 Jul 2026 12:40:02 GMT",
       "source": "글로벌이코노믹",
       "score": 2
+    },
+    {
+      "title": "XRP, 기관 투자 유입에도 1.08달러대 횡보…CLARITY Act가 변수",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MbWdoLXRFR1lYbkJyVFluVXBKTWdhQk82c3NySDdLTlRTQlc4UDJBWGUtSTNmOGJhMF9GZXpzOXJiS3pPdldGT0Rxb0plNmVyMjN0SmxZdlplZEZ1Z3pPY9IBZkFVX3lxTFA2QkRTei1zWlFJRi1MWFNsZXdrTXRCeFpjbXJiSkRROXNvMmxSbDBGZk9Xalg2Y05fSi15U2o5d1NNTHllbE9hTmNZYTFVUnc0OHZJX1I4Y1ZXV1lLaERMOHVDM2UzQQ?oc=5",
+      "date": "Sat, 18 Jul 2026 05:07:49 GMT",
+      "source": "tokenpost.kr",
+      "score": 3
     },
     {
       "title": "마침내 오늘 열린다! 리플(XRP) 80억 달러 폭탄 유입 결정지을 클래러티법 운명의 청문회!",
@@ -120,13 +134,6 @@
       "score": 2
     },
     {
-      "title": "리플X, XRP 브리지 자산 역할 부각…“15배 자본 효율” 강조",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtSEpJNjVQUnY1YkdLOWNOOFhXMmlhNkNjZUJTYnotOU43M0pMdjAtbDZNc0x3UFRZRUZCWWJBMmVNSWNvcXFMSzhHTl9UbFBXRGFEem1pZDZCTjRxQ214d9IBZkFVX3lxTFBaMGpOU01fYVRTSWxacm9qVElsODJyS2pvN3NOelhNNU5XX1lIUWJmcmpUeXVMdm1pWDlvOExZMHpqT0lsMm5LVVVVbTBLRFZwV21jNjIxampTcUlUeUI5bGI2VEVJZw?oc=5",
-      "date": "Fri, 17 Jul 2026 17:36:30 GMT",
-      "source": "tokenpost.kr",
-      "score": 2
-    },
-    {
       "title": "엑스알피(리플) 시세, 본격 상승장 언제쯤? 클래리티법 주시",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9FX0ZieXpPWDlmVmpaaERBRE1jWElzSDE3M0pMdWZQdHRTNnBxY2FmSFd5cU0wck1fWDNJNUI5QnpHOEdmN3Zod1J0X2stRnFlNV9VdExxaUhseXlIVVR4bURaQUIwQlkyV0JIc3VB?oc=5",
       "date": "Fri, 17 Jul 2026 15:04:00 GMT",
@@ -134,17 +141,10 @@
       "score": 2
     },
     {
-      "title": "이더리움·리플XRP·비트코인 하락…금리·중동 위험 겹쳤다",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzbzUzbXhlYV9SYWlrUEJiOGJoMUx5eER3SHpHdUdEZDJQN3JkdWYzRVRLQnVETHA4ZEM2cnEzNFlnM3RYRjZqT2VxNWhIQjNpU2F4YUhMUDRVUDRhZUNQSnplU2I4UmVpM1VRX0xEWFJJQQ?oc=5",
-      "date": "Thu, 16 Jul 2026 23:12:52 GMT",
-      "source": "톱스타뉴스",
-      "score": 2
-    },
-    {
-      "title": "美 캔자스대 유니폼 'XRP 로고' 논란 지속…리플 전 CTO \"표현의 자유일 뿐\"",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ZZnBzNmlCX19VOE1iNEx3ZTFGcHVNTUMyUzlmaWduY1liQ2ZWdkRjSFdvM1owcDhvNDE2MUxOZ3plZFJ0Mlp1ZVlQaXBrNTV0QUtud1RNZGFOZjRRVk9SQWNiUHpSdjAtWllPMm55aDZRX0E?oc=5",
-      "date": "Thu, 16 Jul 2026 02:07:43 GMT",
-      "source": "디지털투데이",
+      "title": "美 의회가 7월 17일 엑스알피(리플)의 운명 결정한다",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBNOU9mWGdxSk0ycEJabTJ5ajczWS1oWlFwT0NoOURvck5rQWQzOXR1OEVwblNpVjQxcUxxM1pUWVI3NmlhMmZKQmd3?oc=5",
+      "date": "Wed, 15 Jul 2026 22:30:00 GMT",
+      "source": "코인리더스",
       "score": 2
     },
     {
