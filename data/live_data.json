@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-18T18:27:16",
+  "generated_at": "2026-07-18T19:40:49",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.093,
-    "price_krw": 1625.76,
-    "price_change_24h": 0.24587,
-    "price_change_7d": -1.97526,
-    "price_change_30d": -4.52351,
-    "market_cap_usd": 68260386666,
+    "price_usd": 1.092,
+    "price_krw": 1624.12,
+    "price_change_24h": 0.2734,
+    "price_change_7d": -2.07439,
+    "price_change_30d": -4.14263,
+    "market_cap_usd": 68189518424,
     "market_cap_rank": 6,
-    "volume_24h": 607965227,
+    "volume_24h": 603476166,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 61.76,
-    "sentiment_votes_down": 38.24,
+    "sentiment_votes_up": 65.28,
+    "sentiment_votes_down": 34.72,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 20.24,
-    "recent_tps": 20.24,
-    "recent_tx_count": 1822,
+    "tps_24h_avg": 27.24,
+    "recent_tps": 27.24,
+    "recent_tx_count": 2424,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 105688520,
+    "recent_window_sec": 89,
+    "ledger_seq": 105689674,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-18 18:27:04 KST",
+    "updated_at": "2026-07-18 19:40:42 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -106,13 +106,6 @@
       "score": 2
     },
     {
-      "title": "XRP, 기관 투자 유입에도 1.08달러대 횡보…CLARITY Act가 변수",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MbWdoLXRFR1lYbkJyVFluVXBKTWdhQk82c3NySDdLTlRTQlc4UDJBWGUtSTNmOGJhMF9GZXpzOXJiS3pPdldGT0Rxb0plNmVyMjN0SmxZdlplZEZ1Z3pPY9IBZkFVX3lxTFA2QkRTei1zWlFJRi1MWFNsZXdrTXRCeFpjbXJiSkRROXNvMmxSbDBGZk9Xalg2Y05fSi15U2o5d1NNTHllbE9hTmNZYTFVUnc0OHZJX1I4Y1ZXV1lLaERMOHVDM2UzQQ?oc=5",
-      "date": "Sat, 18 Jul 2026 05:07:49 GMT",
-      "source": "tokenpost.kr",
-      "score": 3
-    },
-    {
       "title": "마침내 오늘 열린다! 리플(XRP) 80억 달러 폭탄 유입 결정지을 클래러티법 운명의 청문회!",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5RRTM3blF0UEZHSGgwZmZQdTZsb1NHUWRRVWl3NE14Y0lkTGg0aDdQNFJOU1NIZ2ZqYlFzTC10R3FQNVhmLVFka3dR?oc=5",
       "date": "Sat, 18 Jul 2026 00:28:00 GMT",
@@ -141,11 +134,25 @@
       "score": 2
     },
     {
+      "title": "이더리움·리플XRP·비트코인 하락…금리·중동 위험 겹쳤다",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzbzUzbXhlYV9SYWlrUEJiOGJoMUx5eER3SHpHdUdEZDJQN3JkdWYzRVRLQnVETHA4ZEM2cnEzNFlnM3RYRjZqT2VxNWhIQjNpU2F4YUhMUDRVUDRhZUNQSnplU2I4UmVpM1VRX0xEWFJJQQ?oc=5",
+      "date": "Thu, 16 Jul 2026 23:12:52 GMT",
+      "source": "톱스타뉴스",
+      "score": 2
+    },
+    {
+      "title": "美 캔자스대 유니폼 'XRP 로고' 논란 지속…리플 전 CTO \"표현의 자유일 뿐\"",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ZZnBzNmlCX19VOE1iNEx3ZTFGcHVNTUMyUzlmaWduY1liQ2ZWdkRjSFdvM1owcDhvNDE2MUxOZ3plZFJ0Mlp1ZVlQaXBrNTV0QUtud1RNZGFOZjRRVk9SQWNiUHpSdjAtWllPMm55aDZRX0E?oc=5",
+      "date": "Thu, 16 Jul 2026 02:07:43 GMT",
+      "source": "디지털투데이",
+      "score": 2
+    },
+    {
       "title": "美 의회가 7월 17일 엑스알피(리플)의 운명 결정한다",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBNOU9mWGdxSk0ycEJabTJ5ajczWS1oWlFwT0NoOURvck5rQWQzOXR1OEVwblNpVjQxcUxxM1pUWVI3NmlhMmZKQmd3?oc=5",
       "date": "Wed, 15 Jul 2026 22:30:00 GMT",
       "source": "코인리더스",
-      "score": 2
+      "score": 3
     },
     {
       "title": "\"RLUSD 살려라\"…바이낸스, 80만 달러 수혈",
@@ -153,13 +160,6 @@
       "date": "Wed, 15 Jul 2026 13:39:00 GMT",
       "source": "블록미디어",
       "score": 1
-    },
-    {
-      "title": "리플, RLUSD 1000만개 또 소각…공급 줄이고 활용처는 넓힌다",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jd21FcEJ2blpmaG9nOW8wQ19KdFhkcklUdlBlOXJqWDNmV2N2RXhRVWFQX2hkTU0xR3A5bHRxc3VqZnJSRlJNOGY4YnRTNHJMRjRHcmNjRmdVdlJMRHRlSWQwaFd0aHEyT1hCUUZsMmN1d1k?oc=5",
-      "date": "Wed, 15 Jul 2026 00:16:33 GMT",
-      "source": "디지털투데이",
-      "score": 2
     }
   ]
 }
