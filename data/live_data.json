@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-18T21:42:31",
+  "generated_at": "2026-07-18T22:40:44",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.093,
-    "price_krw": 1626.07,
-    "price_change_24h": 0.40671,
-    "price_change_7d": -1.91831,
-    "price_change_30d": -5.07761,
-    "market_cap_usd": 68265950485,
+    "price_usd": 1.092,
+    "price_krw": 1624.29,
+    "price_change_24h": 0.44997,
+    "price_change_7d": -2.0257,
+    "price_change_30d": -4.43109,
+    "market_cap_usd": 68193136577,
     "market_cap_rank": 6,
-    "volume_24h": 613369420,
+    "volume_24h": 618480061,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 63.77,
-    "sentiment_votes_down": 36.23,
+    "sentiment_votes_up": 67.65,
+    "sentiment_votes_down": 32.35,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 14.07,
-    "recent_tps": 14.07,
-    "recent_tx_count": 1252,
+    "tps_24h_avg": 16.55,
+    "recent_tps": 16.55,
+    "recent_tx_count": 1357,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 105691582,
+    "recent_window_sec": 82,
+    "ledger_seq": 105692492,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-18 21:42:24 KST",
+    "updated_at": "2026-07-18 22:40:30 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -51,13 +51,6 @@
       "title": "마침내 오늘 열린다! 리플(XRP) 80억 달러 폭탄 유입 결정지을 클래러티법 운명의 청문회!",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5RRTM3blF0UEZHSGgwZmZQdTZsb1NHUWRRVWl3NE14Y0lkTGg0aDdQNFJOU1NIZ2ZqYlFzTC10R3FQNVhmLVFka3dR?oc=5",
       "date": "Sat, 18 Jul 2026 00:28:00 GMT",
-      "source": "코인리더스",
-      "score": 0
-    },
-    {
-      "title": "리플(XRP) 운명 가를 상원 표결…통과하면 최대 80억 달러 유입 전망",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5YM1lzM3JxcnBhTWpDVFlrMi1XQTg5MHF4SnV4OVBqTDFONFlhSDJ1WVo1dG1uNDlEa1RzUm1fcmF0MXlQNXhkNVVR?oc=5",
-      "date": "Thu, 16 Jul 2026 22:40:00 GMT",
       "source": "코인리더스",
       "score": 0
     },
@@ -88,9 +81,30 @@
       "date": "Sat, 11 Jul 2026 06:57:25 GMT",
       "source": "PANews",
       "score": 0
+    },
+    {
+      "title": "BTC·ETH·SOL·XRP 순유입…하이퍼리퀴드만 순유출 [오늘의 코인 ETF]",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5RRHRoUGpFT3Z4SDBCSkhaMEZqUU5JRmdDNHY0UFZjaE5yZnZlaGhodWFtMkdkb003VXpUck1ZMm40MHNkS0hFdXFMZWtOSUot?oc=5",
+      "date": "Sat, 11 Jul 2026 05:09:51 GMT",
+      "source": "블루밍비트",
+      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "거래유의 봉크 급등·비트코인 반등·리플XRP 보합",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9sdmFJemc1ZEROblN3V0U4ZzYyMkZDa2x5UW1NLWRDTEdaT2F1c3B3eE9jTzhuakU4b2Fzb0lxRjNKb0JpWmI3WEF1Q0ZhLVBqQmxyV3hXVjg5cnBjUXBmUW80eU03ZGNDNHV1SHpqdEFvZw?oc=5",
+      "date": "Sat, 18 Jul 2026 22:34:27 GMT",
+      "source": "톱스타뉴스",
+      "score": 2
+    },
+    {
+      "title": "클래리티 법안 통과 땐 XRP '상품' 지위 못 바꾼다…연방법으로 영구 확립",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSUdpN2pfZTdKQkVNdzQ4TXhXWVBObC0yTlZRNUNGNUtoWmtfODcxbmVGSW05akhmY0ttUFZLYUZrS185X0xuMlZrd3F6U0k5aXlreFlPdDVVdlFkSDdPOVdPcHFzRXQwM2YzeDIwa3Q2eXRId0NxQUtxalZWXzVxSWJrZkJram11?oc=5",
+      "date": "Sat, 18 Jul 2026 22:20:25 GMT",
+      "source": "글로벌이코노믹",
+      "score": 2
+    },
     {
       "title": "엑스알피(리플) 시세 주춤 \"클래러리법 통과 땐 대규모 자금 유입\"",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pcU5pbmhtdmoxdFhpWFZJeE9hSXhYRkRHRE91MzFvS2VZaGNkOV80aGlZazlqN1pMVFJRUHlGQkZSZ1RqdlhXRmpfS0ZBM1UzZTVIa3lDSllTOVp5aTk2WE5zaTFGVUNob0ZwTk5R?oc=5",
@@ -120,13 +134,6 @@
       "score": 3
     },
     {
-      "title": "리플XRP·비트코인 보합, 이캐시 급등…금리·이란 긴장 부담",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTVWVQQlBQM0l6eklwaHFsZVV4bUVNLUdkWHZ0cW1URkZEVm9fb29TaDZyTVZSODZRYVRGZ1d2ekV6X245RHVhc09QZ29pa1hDTktjcUlTQ1JkbXp6UGR2WTJoMVU0MzE2RVYwV0R2TDBGQQ?oc=5",
-      "date": "Fri, 17 Jul 2026 22:33:35 GMT",
-      "source": "톱스타뉴스",
-      "score": 2
-    },
-    {
       "title": "리플X, XRP 브리지 자산 역할 부각…“15배 자본 효율” 강조",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtSEpJNjVQUnY1YkdLOWNOOFhXMmlhNkNjZUJTYnotOU43M0pMdjAtbDZNc0x3UFRZRUZCWWJBMmVNSWNvcXFMSzhHTl9UbFBXRGFEem1pZDZCTjRxQ214d9IBZkFVX3lxTFBaMGpOU01fYVRTSWxacm9qVElsODJyS2pvN3NOelhNNU5XX1lIUWJmcmpUeXVMdm1pWDlvOExZMHpqT0lsMm5LVVVVbTBLRFZwV21jNjIxampTcUlUeUI5bGI2VEVJZw?oc=5",
       "date": "Fri, 17 Jul 2026 17:36:30 GMT",
@@ -134,32 +141,25 @@
       "score": 2
     },
     {
-      "title": "이더리움·리플XRP·비트코인 하락…금리·중동 위험 겹쳤다",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzbzUzbXhlYV9SYWlrUEJiOGJoMUx5eER3SHpHdUdEZDJQN3JkdWYzRVRLQnVETHA4ZEM2cnEzNFlnM3RYRjZqT2VxNWhIQjNpU2F4YUhMUDRVUDRhZUNQSnplU2I4UmVpM1VRX0xEWFJJQQ?oc=5",
-      "date": "Thu, 16 Jul 2026 23:12:52 GMT",
-      "source": "톱스타뉴스",
-      "score": 2
-    },
-    {
-      "title": "리플(XRP) 운명 가를 상원 표결…통과하면 최대 80억 달러 유입 전망",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5YM1lzM3JxcnBhTWpDVFlrMi1XQTg5MHF4SnV4OVBqTDFONFlhSDJ1WVo1dG1uNDlEa1RzUm1fcmF0MXlQNXhkNVVR?oc=5",
-      "date": "Thu, 16 Jul 2026 22:40:00 GMT",
-      "source": "코인리더스",
-      "score": 3
-    },
-    {
-      "title": "美 캔자스대 유니폼 'XRP 로고' 논란 지속…리플 전 CTO \"표현의 자유일 뿐\"",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ZZnBzNmlCX19VOE1iNEx3ZTFGcHVNTUMyUzlmaWduY1liQ2ZWdkRjSFdvM1owcDhvNDE2MUxOZ3plZFJ0Mlp1ZVlQaXBrNTV0QUtud1RNZGFOZjRRVk9SQWNiUHpSdjAtWllPMm55aDZRX0E?oc=5",
-      "date": "Thu, 16 Jul 2026 02:07:43 GMT",
-      "source": "디지털투데이",
-      "score": 2
-    },
-    {
       "title": "美 의회가 7월 17일 엑스알피(리플)의 운명 결정한다",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBNOU9mWGdxSk0ycEJabTJ5ajczWS1oWlFwT0NoOURvck5rQWQzOXR1OEVwblNpVjQxcUxxM1pUWVI3NmlhMmZKQmd3?oc=5",
       "date": "Wed, 15 Jul 2026 22:30:00 GMT",
       "source": "코인리더스",
-      "score": 3
+      "score": 2
+    },
+    {
+      "title": "\"RLUSD 살려라\"…바이낸스, 80만 달러 수혈",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmdmJFZHJGaGNwUlNHaE41MjdTMVdrTHAycDUwRnliUG1fLU14a1dLY1hWMFRxamsyY0cxWTY2SWd6Q1htVGd6WWxlRGNWRnQ1WVViZWhUckY?oc=5",
+      "date": "Wed, 15 Jul 2026 13:39:00 GMT",
+      "source": "블록미디어",
+      "score": 1
+    },
+    {
+      "title": "리플, RLUSD 1000만개 또 소각…공급 줄이고 활용처는 넓힌다",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jd21FcEJ2blpmaG9nOW8wQ19KdFhkcklUdlBlOXJqWDNmV2N2RXhRVWFQX2hkTU0xR3A5bHRxc3VqZnJSRlJNOGY4YnRTNHJMRjRHcmNjRmdVdlJMRHRlSWQwaFd0aHEyT1hCUUZsMmN1d1k?oc=5",
+      "date": "Wed, 15 Jul 2026 00:16:33 GMT",
+      "source": "디지털투데이",
+      "score": 2
     }
   ]
 }
