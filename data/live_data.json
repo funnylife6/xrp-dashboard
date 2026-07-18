@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-18T10:47:51",
+  "generated_at": "2026-07-18T11:46:43",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.086,
-    "price_krw": 1616.18,
-    "price_change_24h": 0.01422,
-    "price_change_7d": -1.92326,
-    "price_change_30d": -7.87545,
-    "market_cap_usd": 67852294445,
+    "price_usd": 1.087,
+    "price_krw": 1617.58,
+    "price_change_24h": 0.24394,
+    "price_change_7d": -1.71051,
+    "price_change_30d": -7.79585,
+    "market_cap_usd": 67915948205,
     "market_cap_rank": 6,
-    "volume_24h": 816671970,
+    "volume_24h": 807604276,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 62.32,
-    "sentiment_votes_down": 37.68,
+    "sentiment_votes_up": 62.86,
+    "sentiment_votes_down": 37.14,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 10.27,
-    "recent_tps": 10.27,
-    "recent_tx_count": 842,
+    "tps_24h_avg": 12.92,
+    "recent_tps": 12.92,
+    "recent_tx_count": 1150,
     "recent_ledger_count": 24,
-    "recent_window_sec": 82,
-    "ledger_seq": 105681253,
+    "recent_window_sec": 89,
+    "ledger_seq": 105682191,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-18 10:47:37 KST",
+    "updated_at": "2026-07-18 11:46:29 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -46,6 +46,120 @@
     "updated_at": "뉴스 자동 파싱 대기",
     "data_source": "news_parse"
   },
-  "etf_news": [],
-  "general_news": []
+  "etf_news": [
+    {
+      "title": "마침내 오늘 열린다! 리플(XRP) 80억 달러 폭탄 유입 결정지을 클래러티법 운명의 청문회!",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5RRTM3blF0UEZHSGgwZmZQdTZsb1NHUWRRVWl3NE14Y0lkTGg0aDdQNFJOU1NIZ2ZqYlFzTC10R3FQNVhmLVFka3dR?oc=5",
+      "date": "Sat, 18 Jul 2026 00:28:00 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
+    {
+      "title": "기관은 8개월째 샀는데…리플(XRP)은 왜 70% 추락했나",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBJMU5IMUx3azI2a3NwYW1rQ3VmcjNTbVdtd01zc081T011TTI0MDdRZldaQTNkbDdFa24tYnlaSlpIdXNucC1BRVB3?oc=5",
+      "date": "Sat, 18 Jul 2026 00:05:00 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
+    {
+      "title": "XRP, 최고점서 70% 폭락...리플 호재 어디로 갔나?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5OWHU2NW80M1Z6eXh6N0ttcDhRTjc4ZldoSXFaZXVzQ3ZkREw5OFVvSkZaUUNpbDk2Z25LR1VTQnUwWDBVWnN0YVln?oc=5",
+      "date": "Fri, 17 Jul 2026 22:30:00 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
+    {
+      "title": "HYPE 현물 ETF 순유입·XRP는 변동 無...SOL은 순유출",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9nWHE0U05BLVpZQ2hCbG5BbUt1U29IcktFMl9hR1ZBOWtGV1dpMmI1RkJOTC1seVgzQVd5TDh1QUJTa0hKOTRLN2Vn?oc=5",
+      "date": "Thu, 16 Jul 2026 05:06:52 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
+    {
+      "title": "美 의회가 7월 17일 엑스알피(리플)의 운명 결정한다",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBNOU9mWGdxSk0ycEJabTJ5ajczWS1oWlFwT0NoOURvck5rQWQzOXR1OEVwblNpVjQxcUxxM1pUWVI3NmlhMmZKQmd3?oc=5",
+      "date": "Wed, 15 Jul 2026 22:30:00 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
+    {
+      "title": "“화려한 파티 뒤 대참사”... 리플 ETF 자금 메마르자 투매 폭풍 징후 포착",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE40aVhpSUlKYkZaNEFEeEtPVkNVdEROczhIQ1d5QTBaSmNPTWhxRlphLVZ5X0d6b1V1SGRFV3ZPRUhfZHZLMXl5YUg2VHFucmtmdlkyRVp6Ni1faF9IblJRLUF3MUdfYVdPOW9Ib1RhOEZna2_SAXdBVV95cUxNYlBVZ1VMNnZGcU1tVXNEdERjOEViVGFsdEd5aW9PYlJJWEVXcjg0eE5HVWFnTzRkWm9MYWpLZnF1QmZLSzJTb0tLU1p5cTdXczZzbEJmYzNjWU5yb05vb2pnS3dsa19GSldIOElsTlNIZ2JuOW51OA?oc=5",
+      "date": "Mon, 13 Jul 2026 05:20:45 GMT",
+      "source": "핀포인트뉴스",
+      "score": 0
+    }
+  ],
+  "general_news": [
+    {
+      "title": "마침내 오늘 열린다! 리플(XRP) 80억 달러 폭탄 유입 결정지을 클래러티법 운명의 청문회!",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5RRTM3blF0UEZHSGgwZmZQdTZsb1NHUWRRVWl3NE14Y0lkTGg0aDdQNFJOU1NIZ2ZqYlFzTC10R3FQNVhmLVFka3dR?oc=5",
+      "date": "Sat, 18 Jul 2026 00:28:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
+      "title": "기관은 8개월째 샀는데…리플(XRP)은 왜 70% 추락했나",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBJMU5IMUx3azI2a3NwYW1rQ3VmcjNTbVdtd01zc081T011TTI0MDdRZldaQTNkbDdFa24tYnlaSlpIdXNucC1BRVB3?oc=5",
+      "date": "Sat, 18 Jul 2026 00:05:00 GMT",
+      "source": "코인리더스",
+      "score": 3
+    },
+    {
+      "title": "리플XRP·비트코인 보합, 이캐시 급등…금리·이란 긴장 부담",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTVWVQQlBQM0l6eklwaHFsZVV4bUVNLUdkWHZ0cW1URkZEVm9fb29TaDZyTVZSODZRYVRGZ1d2ekV6X245RHVhc09QZ29pa1hDTktjcUlTQ1JkbXp6UGR2WTJoMVU0MzE2RVYwV0R2TDBGQQ?oc=5",
+      "date": "Fri, 17 Jul 2026 22:33:35 GMT",
+      "source": "톱스타뉴스",
+      "score": 2
+    },
+    {
+      "title": "XRP, 최고점서 70% 폭락...리플 호재 어디로 갔나?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5OWHU2NW80M1Z6eXh6N0ttcDhRTjc4ZldoSXFaZXVzQ3ZkREw5OFVvSkZaUUNpbDk2Z25LR1VTQnUwWDBVWnN0YVln?oc=5",
+      "date": "Fri, 17 Jul 2026 22:30:00 GMT",
+      "source": "코인리더스",
+      "score": 3
+    },
+    {
+      "title": "리플X, XRP 브리지 자산 역할 부각…“15배 자본 효율” 강조",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtSEpJNjVQUnY1YkdLOWNOOFhXMmlhNkNjZUJTYnotOU43M0pMdjAtbDZNc0x3UFRZRUZCWWJBMmVNSWNvcXFMSzhHTl9UbFBXRGFEem1pZDZCTjRxQ214d9IBZkFVX3lxTFBaMGpOU01fYVRTSWxacm9qVElsODJyS2pvN3NOelhNNU5XX1lIUWJmcmpUeXVMdm1pWDlvOExZMHpqT0lsMm5LVVVVbTBLRFZwV21jNjIxampTcUlUeUI5bGI2VEVJZw?oc=5",
+      "date": "Fri, 17 Jul 2026 17:36:30 GMT",
+      "source": "tokenpost.kr",
+      "score": 2
+    },
+    {
+      "title": "엑스알피(리플) 시세, 본격 상승장 언제쯤? 클래리티법 주시",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9FX0ZieXpPWDlmVmpaaERBRE1jWElzSDE3M0pMdWZQdHRTNnBxY2FmSFd5cU0wck1fWDNJNUI5QnpHOEdmN3Zod1J0X2stRnFlNV9VdExxaUhseXlIVVR4bURaQUIwQlkyV0JIc3VB?oc=5",
+      "date": "Fri, 17 Jul 2026 15:04:00 GMT",
+      "source": "gukjenews.com",
+      "score": 2
+    },
+    {
+      "title": "이더리움·리플XRP·비트코인 하락…금리·중동 위험 겹쳤다",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzbzUzbXhlYV9SYWlrUEJiOGJoMUx5eER3SHpHdUdEZDJQN3JkdWYzRVRLQnVETHA4ZEM2cnEzNFlnM3RYRjZqT2VxNWhIQjNpU2F4YUhMUDRVUDRhZUNQSnplU2I4UmVpM1VRX0xEWFJJQQ?oc=5",
+      "date": "Thu, 16 Jul 2026 23:12:52 GMT",
+      "source": "톱스타뉴스",
+      "score": 2
+    },
+    {
+      "title": "美 캔자스대 유니폼 'XRP 로고' 논란 지속…리플 전 CTO \"표현의 자유일 뿐\"",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ZZnBzNmlCX19VOE1iNEx3ZTFGcHVNTUMyUzlmaWduY1liQ2ZWdkRjSFdvM1owcDhvNDE2MUxOZ3plZFJ0Mlp1ZVlQaXBrNTV0QUtud1RNZGFOZjRRVk9SQWNiUHpSdjAtWllPMm55aDZRX0E?oc=5",
+      "date": "Thu, 16 Jul 2026 02:07:43 GMT",
+      "source": "디지털투데이",
+      "score": 2
+    },
+    {
+      "title": "\"1년 하락 터널 끝자락 선 리플\"… 일목균형표 겹겹이 쌓인 저항대 돌파가 관건",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ3NDRGJrM1Jnb1FCYjZudU5pWWxKZ0tRc0dKb2dHQ1lGcEhublVQYkItb3VxT3FOV1dQeEM2Z0NxYjJOenAtc1NFQlJWdlk4RDVhZUVRLW4xUi11WlIxRU5NM3pjMXdPLUhNNGotQ1JINXE0U2pLX3FVUGhSUFNMWEhtM2s4Ql9Y?oc=5",
+      "date": "Wed, 15 Jul 2026 18:51:58 GMT",
+      "source": "글로벌이코노믹",
+      "score": 2
+    },
+    {
+      "title": "\"RLUSD 살려라\"…바이낸스, 80만 달러 수혈",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmdmJFZHJGaGNwUlNHaE41MjdTMVdrTHAycDUwRnliUG1fLU14a1dLY1hWMFRxamsyY0cxWTY2SWd6Q1htVGd6WWxlRGNWRnQ1WVViZWhUckY?oc=5",
+      "date": "Wed, 15 Jul 2026 13:39:00 GMT",
+      "source": "블록미디어",
+      "score": 1
+    }
+  ]
 }
