@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-19T05:16:34",
+  "generated_at": "2026-07-19T07:38:38",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.095,
-    "price_krw": 1629.74,
-    "price_change_24h": 0.82019,
-    "price_change_7d": -0.2739,
-    "price_change_30d": -2.79804,
-    "market_cap_usd": 68432290764,
+    "price_usd": 1.096,
+    "price_krw": 1630.13,
+    "price_change_24h": 0.61209,
+    "price_change_7d": 0.19112,
+    "price_change_30d": -2.93759,
+    "market_cap_usd": 68444256161,
     "market_cap_rank": 6,
-    "volume_24h": 667601947,
+    "volume_24h": 678147715,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 65.52,
-    "sentiment_votes_down": 34.48,
+    "sentiment_votes_up": 63.16,
+    "sentiment_votes_down": 36.84,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 15.34,
-    "recent_tps": 15.34,
-    "recent_tx_count": 1381,
+    "tps_24h_avg": 14.99,
+    "recent_tps": 14.99,
+    "recent_tx_count": 1229,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 105698706,
+    "recent_window_sec": 82,
+    "ledger_seq": 105700942,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-19 05:16:20 KST",
+    "updated_at": "2026-07-19 07:38:28 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -76,27 +76,27 @@
       "score": 0
     },
     {
+      "title": "미국 XRP 현물 ETF 일일 총 순유입 10.74만 달러",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92cnhISFczMkxXS253bWVjYi04am90SEZ5TFduOGNhZ25wcTlXd3VlOVJWSV9fU3IxUExGVzNIQ0FhTktCUFdqak00SS1HYlYzRTMzMGxRZ0VpM1JFZmdQam95OFFwSlJIZ3VNTkVuOFg1UUxBY3B6TEFYYVVKTWc?oc=5",
+      "date": "Sat, 11 Jul 2026 06:57:25 GMT",
+      "source": "PANews",
+      "score": 0
+    },
+    {
       "title": "BTC·ETH·SOL·XRP 순유입…하이퍼리퀴드만 순유출 [오늘의 코인 ETF]",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5RRHRoUGpFT3Z4SDBCSkhaMEZqUU5JRmdDNHY0UFZjaE5yZnZlaGhodWFtMkdkb003VXpUck1ZMm40MHNkS0hFdXFMZWtOSUot?oc=5",
       "date": "Sat, 11 Jul 2026 05:09:51 GMT",
       "source": "블루밍비트",
       "score": 0
-    },
-    {
-      "title": "XRP ETF, 하루 729만달러 이탈…누적 순유입은 14억달러 유지",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBIdGhVUXZ1Ti1uQVktZzdraUxQclJEdlJqMmIyUFVVeVZLSVRodXpkQkU3WEhOYXZPUGQ0Ul9Yb2lhWXVDeWJvd1hsX1lLbEN6NHRhbnFHd19PaW16SHZueEg2MlJQSFR6RjFGdlBkcDJjSTA?oc=5",
-      "date": "Thu, 09 Jul 2026 12:53:10 GMT",
-      "source": "디지털투데이",
-      "score": 0
     }
   ],
   "general_news": [
     {
-      "title": "암호화폐(코인) 리플 XRPL 800만개 돌파... 가격에 미칠 영향은?",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CcTF1RFZUV1hCSmU1cDByUUdOckd4SGRDV184eVJWRWlnWmt5V3N4d3FKYloycmZCVGxNZlVReUtKVHIwSzBqb2pIVk51UURYVmFCN0x3?oc=5",
-      "date": "Sun, 19 Jul 2026 02:43:00 GMT",
-      "source": "위키트리",
-      "score": 2
+      "title": "리플(XRP) 1.09달러 박스권 유지…유럽 MiCA 등록·ETF 편입에도 상승 탄력 제한",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDekZKbEh2VERBeGV4N3p3d0hsUExOWlNUUU10R3BILVEtd1hiMU1xS1FVQ0VkaGFMTGxhaXp5SUdLLXZqR3RSX0pMaUdodjVDTkNLeGhxN3pRSTdVb1NpZdIBZkFVX3lxTE9xVTE4UmtUems4U1NxUy1VRG83UXpyNTd1Z0hfT1JqanVrT2QxQ0VpSmhQQnB2N1pNS19SY0hvUXdCeUlkOG53bWRIOG5CQjJQUFJNNTNVOEF6RzhLWVdZZk5KV2UwZw?oc=5",
+      "date": "Sun, 19 Jul 2026 05:07:45 GMT",
+      "source": "tokenpost.kr",
+      "score": 3
     },
     {
       "title": "거래유의 봉크 급등·비트코인 반등·리플XRP 보합",
@@ -141,10 +141,10 @@
       "score": 3
     },
     {
-      "title": "리플 CEO “결제앱은 여전히 단절”…XRP 필요성 재강조",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aVVd1OHFybmFwM2hnaElfMkxZLXBnWS1zWktXejhlRFpYeHdhXzVfSmpyQTFIT2ZWWXhyYlBMemlBWkMxaXVWNEtPUUxRWmRMN0dINGxIN2hiN3k1NUxBWtIBZkFVX3lxTE9HWFlyUnNhYTFZV0pYY2FWX3hodjA4cHJOX01RMmFaTFVkZlJIMXZTRXRQNGdUVTIwc1NyTUYyR1UtdnlJc0ota2NqUTlCNjMyVHFFR0hKVWV3RGI3Uk1DcUMwNVQ3dw?oc=5",
-      "date": "Thu, 16 Jul 2026 16:06:42 GMT",
-      "source": "tokenpost.kr",
+      "title": "리플XRP·비트코인 보합, 이캐시 급등…금리·이란 긴장 부담",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTVWVQQlBQM0l6eklwaHFsZVV4bUVNLUdkWHZ0cW1URkZEVm9fb29TaDZyTVZSODZRYVRGZ1d2ekV6X245RHVhc09QZ29pa1hDTktjcUlTQ1JkbXp6UGR2WTJoMVU0MzE2RVYwV0R2TDBGQQ?oc=5",
+      "date": "Fri, 17 Jul 2026 22:33:35 GMT",
+      "source": "톱스타뉴스",
       "score": 2
     },
     {
