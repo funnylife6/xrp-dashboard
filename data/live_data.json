@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-19T20:14:27",
+  "generated_at": "2026-07-19T21:13:10",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.096,
-    "price_krw": 1630.58,
-    "price_change_24h": 0.2458,
-    "price_change_7d": -0.29669,
-    "price_change_30d": -3.02346,
-    "market_cap_usd": 68462518538,
+    "price_krw": 1630.25,
+    "price_change_24h": 0.20875,
+    "price_change_7d": -0.37256,
+    "price_change_30d": -3.04548,
+    "market_cap_usd": 68452079396,
     "market_cap_rank": 6,
-    "volume_24h": 662376055,
+    "volume_24h": 651407322,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
@@ -22,16 +22,16 @@
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 14.62,
-    "recent_tps": 14.62,
-    "recent_tx_count": 1301,
+    "tps_24h_avg": 12.03,
+    "recent_tps": 12.03,
+    "recent_tx_count": 1071,
     "recent_ledger_count": 24,
     "recent_window_sec": 89,
-    "ledger_seq": 105712813,
+    "ledger_seq": 105713732,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-19 20:14:14 KST",
+    "updated_at": "2026-07-19 21:12:56 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -85,7 +85,7 @@
     {
       "title": "XRP ETF, 하루 729만달러 이탈…누적 순유입은 14억달러 유지",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBIdGhVUXZ1Ti1uQVktZzdraUxQclJEdlJqMmIyUFVVeVZLSVRodXpkQkU3WEhOYXZPUGQ0Ul9Yb2lhWXVDeWJvd1hsX1lLbEN6NHRhbnFHd19PaW16SHZueEg2MlJQSFR6RjFGdlBkcDJjSTA?oc=5",
-      "date": "Thu, 09 Jul 2026 12:53:10 GMT",
+      "date": "Thu, 09 Jul 2026 07:00:00 GMT",
       "source": "디지털투데이",
       "score": 0
     }
@@ -145,7 +145,7 @@
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5RRTM3blF0UEZHSGgwZmZQdTZsb1NHUWRRVWl3NE14Y0lkTGg0aDdQNFJOU1NIZ2ZqYlFzTC10R3FQNVhmLVFka3dR?oc=5",
       "date": "Sat, 18 Jul 2026 00:28:00 GMT",
       "source": "코인리더스",
-      "score": 2
+      "score": 3
     },
     {
       "title": "리플XRP·비트코인 보합, 이캐시 급등…금리·이란 긴장 부담",
