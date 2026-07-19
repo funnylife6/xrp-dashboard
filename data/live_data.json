@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-19T21:13:10",
+  "generated_at": "2026-07-19T22:14:58",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.096,
-    "price_krw": 1630.25,
-    "price_change_24h": 0.20875,
-    "price_change_7d": -0.37256,
-    "price_change_30d": -3.04548,
-    "market_cap_usd": 68452079396,
+    "price_usd": 1.095,
+    "price_krw": 1628.61,
+    "price_change_24h": 0.08762,
+    "price_change_7d": 0.06995,
+    "price_change_30d": -3.10825,
+    "market_cap_usd": 68358042522,
     "market_cap_rank": 6,
-    "volume_24h": 651407322,
+    "volume_24h": 656839168,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 59.32,
-    "sentiment_votes_down": 40.68,
+    "sentiment_votes_up": 56.67,
+    "sentiment_votes_down": 43.33,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 12.03,
-    "recent_tps": 12.03,
-    "recent_tx_count": 1071,
+    "tps_24h_avg": 19.0,
+    "recent_tps": 19.0,
+    "recent_tx_count": 1558,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 105713732,
+    "recent_window_sec": 82,
+    "ledger_seq": 105714698,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-19 21:12:56 KST",
+    "updated_at": "2026-07-19 22:14:51 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -91,6 +91,13 @@
     }
   ],
   "general_news": [
+    {
+      "title": "XRP, 1.15달러 벽에 '멈칫'...RLUSD가 불붙이나?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAyaUxVM0I2TWYyTUI2MkdFenNkUzFieXhlTzA2bDlNRkJKTU9Yb0pEREFNY2ZkcHVIYWt6SGZVZkhFdGVJQjEyV2JB?oc=5",
+      "date": "Sun, 19 Jul 2026 21:20:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
     {
       "title": "리플, 규제 명확성과 생태계 확장이 반등 열쇠 될까?",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FSVUwZ3g1b3BZRFZFb01xWVFZWlhBWVVnZ2h4V01fVXN5TVRTb0JTNEtLVlEtMjNzZUdXNmcwUXNTeHg1Y3dKR2tVYVRFel9QeTM1ZmxpWW1GQXo4WG15MdIBZkFVX3lxTFBvSnpjT3dLR0x3QTQta1BKY0VCc0lSeDYxNUJXVVlUNFFsTE9tSEFkMVhiaGZ1NkhEbHJRUXlWTWVNbHB3YmJCRGpGTXZNR3AtSVRKQ1ZWNnYyRmhyQjZ1bGIzZFloQQ?oc=5",
@@ -153,13 +160,6 @@
       "date": "Fri, 17 Jul 2026 22:33:35 GMT",
       "source": "톱스타뉴스",
       "score": 2
-    },
-    {
-      "title": "\"RLUSD 살려라\"…바이낸스, 80만 달러 수혈",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmdmJFZHJGaGNwUlNHaE41MjdTMVdrTHAycDUwRnliUG1fLU14a1dLY1hWMFRxamsyY0cxWTY2SWd6Q1htVGd6WWxlRGNWRnQ1WVViZWhUckY?oc=5",
-      "date": "Wed, 15 Jul 2026 13:39:00 GMT",
-      "source": "블록미디어",
-      "score": 1
     }
   ]
 }
