@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-20T21:39:14",
+  "generated_at": "2026-07-20T22:51:03",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.12,
-    "price_krw": 1648.19,
-    "price_change_24h": 2.21298,
-    "price_change_7d": 5.30456,
-    "price_change_30d": -2.42849,
-    "market_cap_usd": 69755857776,
+    "price_usd": 1.11,
+    "price_krw": 1635.21,
+    "price_change_24h": 0.93193,
+    "price_change_7d": 4.8699,
+    "price_change_30d": -3.27005,
+    "market_cap_usd": 69227564705,
     "market_cap_rank": 6,
-    "volume_24h": 1206644313,
+    "volume_24h": 1190263101,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 70.42,
-    "sentiment_votes_down": 29.58,
+    "sentiment_votes_up": 70.27,
+    "sentiment_votes_down": 29.73,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 14.93,
-    "recent_tps": 14.93,
-    "recent_tx_count": 1344,
+    "tps_24h_avg": 14.16,
+    "recent_tps": 14.16,
+    "recent_tx_count": 1274,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 105736635,
+    "ledger_seq": 105737755,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-20 21:39:07 KST",
+    "updated_at": "2026-07-20 22:50:50 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,6 +92,20 @@
   ],
   "general_news": [
     {
+      "title": "봉크 급락·리플XRP 보합·비트코인 보합…중동 긴장에 거래 위축",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9hUFpjVFZsT1kxZmRraEl2bTVsWTVyaGlYQUR4bTNyaTU0VTRpNmgwa2F2Wm9BMUtxLXl1VTl2Mk5BYjVINkpWNnVGRnVoYmR1NVNWRW1VcjhSSDFDU1FsZFNiWjBNcEN3RzdPbTg3cmVZZw?oc=5",
+      "date": "Mon, 20 Jul 2026 22:27:44 GMT",
+      "source": "톱스타뉴스",
+      "score": 2
+    },
+    {
+      "title": "\"XRP 클래리티 통과 땐 이더리움 뛰어넘는 기관 수요 유입\"",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZXhma3BVWmczUlVTRFd4WVI1Nk5EdE1PUVJlNUJyQm12TnB0SzREVjdmQWk4S0JVX0FUNWpyR0FkT21jcEVIU3pUYXQ2d2h5OHVyY1ZtcDdHSEFMR2ozSU9LMmNVTE1ZdlJxOEhaNkdUWVVzVlRQVGRMQXBFTy1KNjVRQnNmN3Vy?oc=5",
+      "date": "Mon, 20 Jul 2026 22:04:04 GMT",
+      "source": "글로벌이코노믹",
+      "score": 3
+    },
+    {
       "title": "파생시장 롱·숏 균형에 숨죽인 리플… 1.15달러 저항선 돌파가 강세 전환 분수령",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSzJfV0tEZEJyNzVFVjUzVHo2YUlJRzhybGE2RkVidzlEQXcyYm9lUkFFY2pSTFQ1UWVCNTdDcTRGLXhJcXEtZy1PSlp4WVBEakxJdEZzMldOaDcxcV82czhoY1RiaENUcTVXUTc3NS1RNTVPN25tTGg0ektkQXh1UkpUeTZPZWZE?oc=5",
       "date": "Mon, 20 Jul 2026 21:18:54 GMT",
@@ -127,13 +141,6 @@
       "score": 3
     },
     {
-      "title": "XRP, 비트코인 동반 하락…한국은 예외",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5GRXRTMkVYRTJ1TTVNOUNHUGZJbndNU19QWFZrX21aakJQZVE3S0tHVGFuQXhFcUthS3NBQjZVYXQtcU9WcDhXUERRcVhxMXE1dFM5UHFJcnphckpPQTI3WEVHVm1vYWdNbTQ5M1dvQkxQbEQ2S2VCVnBXcw?oc=5",
-      "date": "Mon, 20 Jul 2026 07:50:29 GMT",
-      "source": "BeInCrypto",
-      "score": 2
-    },
-    {
       "title": "역헤드앤숄더 그리며 숨고르기 들어간 리플(XRP)… ‘1.12달러’ 넥라인 돌파가 관건",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00T0kwc3BTa3FielVWZHlzTGpYRy1HYXozNkxvMFlKRTBtdlBuamctSUhUc1NFWlhyOTRkWDJlTEhCaV9UdFpQUWxQRDBiY3IxbG9ZN0swWlNTQUpxT09NMUp6dlhrbWJtNDkxYXRyUzQ?oc=5",
       "date": "Mon, 20 Jul 2026 07:37:24 GMT",
@@ -152,13 +159,6 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYWViU1dhWTFxd05TcXpQZ1hoekFHWGp1dFNybnU3dlRrS3hURU1ZMEx1NnVTRlBCVTlFdE1lTkp5czRNc3IwTlJ4cGFDVTdHUWM2Tk4wN1lwRmxNeEUtaVd4YTNWNG94SEJrTmxGLWNMM3dsY3Zua3J5VWZVNzBfc2ZqVWl2QmRaeEJpTQ?oc=5",
       "date": "Mon, 20 Jul 2026 04:50:00 GMT",
       "source": "네이버 프리미엄콘텐츠",
-      "score": 2
-    },
-    {
-      "title": "가격은 버티는데 속은 텅 비었다?…XRP 레저, 핵심 지표 3개 동반 하락",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8xZ0tvdVRNb1lvOTZUY0NpTy1IQTJBek5zd0hNa24yVHBjSm1BUnJIQVRjN0hzb3JoaEUwRzJBdVVBaG45NHFqZHFoZ2llcFNhdWhPckRLazdfOTR6QnhxWGhwNlpuVmx3RnZYb2J5UWxVYms?oc=5",
-      "date": "Sun, 19 Jul 2026 23:53:39 GMT",
-      "source": "디지털투데이",
       "score": 2
     }
   ]
