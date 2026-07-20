@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-20T22:51:03",
+  "generated_at": "2026-07-20T23:50:42",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.11,
-    "price_krw": 1635.21,
-    "price_change_24h": 0.93193,
-    "price_change_7d": 4.8699,
-    "price_change_30d": -3.27005,
-    "market_cap_usd": 69227564705,
+    "price_krw": 1641.9,
+    "price_change_24h": 1.58593,
+    "price_change_7d": 5.10086,
+    "price_change_30d": -3.39296,
+    "market_cap_usd": 69517807834,
     "market_cap_rank": 6,
-    "volume_24h": 1190263101,
+    "volume_24h": 1201238640,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 70.27,
-    "sentiment_votes_down": 29.73,
+    "sentiment_votes_up": 71.05,
+    "sentiment_votes_down": 28.95,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 14.16,
-    "recent_tps": 14.16,
-    "recent_tx_count": 1274,
+    "tps_24h_avg": 20.41,
+    "recent_tps": 20.41,
+    "recent_tx_count": 1674,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 105737755,
+    "recent_window_sec": 82,
+    "ledger_seq": 105738691,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-20 22:50:50 KST",
+    "updated_at": "2026-07-20 23:50:28 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -106,13 +106,6 @@
       "score": 3
     },
     {
-      "title": "파생시장 롱·숏 균형에 숨죽인 리플… 1.15달러 저항선 돌파가 강세 전환 분수령",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSzJfV0tEZEJyNzVFVjUzVHo2YUlJRzhybGE2RkVidzlEQXcyYm9lUkFFY2pSTFQ1UWVCNTdDcTRGLXhJcXEtZy1PSlp4WVBEakxJdEZzMldOaDcxcV82czhoY1RiaENUcTVXUTc3NS1RNTVPN25tTGg0ektkQXh1UkpUeTZPZWZE?oc=5",
-      "date": "Mon, 20 Jul 2026 21:18:54 GMT",
-      "source": "글로벌이코노믹",
-      "score": 2
-    },
-    {
       "title": "\"월가 금융 거래까지 XRP 레저로\"...리플, 기관 결제망 확장",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5XazVXcG5DS1JZUkpuUWR1U3doeExLd3RlN1BPTk9Hb2hFSWtxWXA2LTdjc2U0YWg3cDVfMks1aU9Uakt4ZXVfTGdB?oc=5",
       "date": "Mon, 20 Jul 2026 18:40:00 GMT",
@@ -139,6 +132,13 @@
       "date": "Mon, 20 Jul 2026 11:26:57 GMT",
       "source": "MSN",
       "score": 3
+    },
+    {
+      "title": "XRP, 비트코인 동반 하락…한국은 예외",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5GRXRTMkVYRTJ1TTVNOUNHUGZJbndNU19QWFZrX21aakJQZVE3S0tHVGFuQXhFcUthS3NBQjZVYXQtcU9WcDhXUERRcVhxMXE1dFM5UHFJcnphckpPQTI3WEVHVm1vYWdNbTQ5M1dvQkxQbEQ2S2VCVnBXcw?oc=5",
+      "date": "Mon, 20 Jul 2026 07:50:29 GMT",
+      "source": "BeInCrypto",
+      "score": 2
     },
     {
       "title": "역헤드앤숄더 그리며 숨고르기 들어간 리플(XRP)… ‘1.12달러’ 넥라인 돌파가 관건",
