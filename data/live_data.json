@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-20T16:52:05",
+  "generated_at": "2026-07-20T18:49:26",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.11,
-    "price_krw": 1642.8,
-    "price_change_24h": 1.58474,
-    "price_change_7d": 3.45625,
-    "price_change_30d": -2.9007,
-    "market_cap_usd": 69441231409,
+    "price_krw": 1646.32,
+    "price_change_24h": 2.15293,
+    "price_change_7d": 5.06024,
+    "price_change_30d": -2.4328,
+    "market_cap_usd": 69640784878,
     "market_cap_rank": 6,
-    "volume_24h": 1062422020,
+    "volume_24h": 1128479053,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 66.67,
-    "sentiment_votes_down": 33.33,
+    "sentiment_votes_up": 71.64,
+    "sentiment_votes_down": 28.36,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 18.81,
-    "recent_tps": 18.81,
-    "recent_tx_count": 1693,
+    "tps_24h_avg": 15.21,
+    "recent_tps": 15.21,
+    "recent_tx_count": 1369,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 105732148,
+    "ledger_seq": 105733976,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-20 16:51:54 KST",
+    "updated_at": "2026-07-20 18:49:11 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -47,6 +47,13 @@
     "data_source": "news_parse"
   },
   "etf_news": [
+    {
+      "title": "다시 돈 몰리는데 무서워요…리플(XRP) ETF 유입 뒤에 숨겨진 '시한폭탄'",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Wb2JXT0JmYlRaX2dSb3VaY0NSN0ZsODdCaHZnRDktaDl5R01yakxkb2VEYVBkNVBOclloNGxCWnZuUmxTdHlWaERmY0RtZXlzb1NYQzVSQ3RidWhOdDZQNm9WdVBVTEVramtkWlJhd2RpMDDSAXdBVV95cUxQbDdjbDNJVkFucUpNOHFIaFhHWmNNMV9PWExYUE52bXNTSmlwYlR4SGZGczF4WkdwaXdIY3pCdEhEcWFRVGxvMnp2ei1PaHA2RjFCOHlPVzYzNFJHdVRESjM5NnQ2OHRiQS1xa1kyS3RNS05GMldwRQ?oc=5",
+      "date": "Mon, 20 Jul 2026 15:16:00 GMT",
+      "source": "핀포인트뉴스",
+      "score": 0
+    },
     {
       "title": "리플(XRP) 현물 ETF 자금 돌아왔다…매도 압력 꺾을 수 있을까",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA2VUR2Tk01bUFyek9xeVpCbkVWcFlzUGllcTc0V2FkQWZYbzF1UUh5WGRicGM5RW85Z3h2VzlYa0QzN2d4djlPZzh3?oc=5",
@@ -81,16 +88,23 @@
       "date": "Sun, 19 Jul 2026 12:40:00 GMT",
       "source": "odaily.news",
       "score": 0
-    },
-    {
-      "title": "그레이스케일, 리플 대형 계약 강조…XRP 가격 왜 반등 안 할까?",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUMFFNOUJ3ZV9hM1B4REFnZ1ZOb09nMV9kS0dCQnEzZFhkTjNmckRjR0JZWTgzLUU3Y3NwQkkzVjltSnJ3SDRDMUtMTDBVNGZHWkZXdlJ2ZUZzNUZPQW1qR3lLU25KMDFoTVJSaFpGZl9NNjFkTHBMbE44TlU?oc=5",
-      "date": "Sun, 19 Jul 2026 07:00:00 GMT",
-      "source": "BeInCrypto",
-      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "\"월가 금융 거래까지 XRP 레저로\"...리플, 기관 결제망 확장",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5XazVXcG5DS1JZUkpuUWR1U3doeExLd3RlN1BPTk9Hb2hFSWtxWXA2LTdjc2U0YWg3cDVfMks1aU9Uakt4ZXVfTGdB?oc=5",
+      "date": "Mon, 20 Jul 2026 18:40:00 GMT",
+      "source": "코인리더스",
+      "score": 3
+    },
+    {
+      "title": "다시 돈 몰리는데 무서워요…리플(XRP) ETF 유입 뒤에 숨겨진 '시한폭탄'",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Wb2JXT0JmYlRaX2dSb3VaY0NSN0ZsODdCaHZnRDktaDl5R01yakxkb2VEYVBkNVBOclloNGxCWnZuUmxTdHlWaERmY0RtZXlzb1NYQzVSQ3RidWhOdDZQNm9WdVBVTEVramtkWlJhd2RpMDDSAXdBVV95cUxQbDdjbDNJVkFucUpNOHFIaFhHWmNNMV9PWExYUE52bXNTSmlwYlR4SGZGczF4WkdwaXdIY3pCdEhEcWFRVGxvMnp2ei1PaHA2RjFCOHlPVzYzNFJHdVRESjM5NnQ2OHRiQS1xa1kyS3RNS05GMldwRQ?oc=5",
+      "date": "Mon, 20 Jul 2026 15:16:00 GMT",
+      "source": "핀포인트뉴스",
+      "score": 3
+    },
     {
       "title": "리플(XRP) 현물 ETF 자금 돌아왔다…매도 압력 꺾을 수 있을까",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA2VUR2Tk01bUFyek9xeVpCbkVWcFlzUGllcTc0V2FkQWZYbzF1UUh5WGRicGM5RW85Z3h2VzlYa0QzN2d4djlPZzh3?oc=5",
@@ -120,13 +134,6 @@
       "score": 2
     },
     {
-      "title": "리플, 마스터카드·JP모건과 손잡았다…XRP 가격 상승으로 이어질까",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1yR2xxTS0wZ2xLQkc2RjhjQWljUS0xX084aUh1NFdKMi0wSzlPTGpWVzREdm5iUzEzcXcxS19jeGR0R21KVzFNRkZB?oc=5",
-      "date": "Mon, 20 Jul 2026 07:32:00 GMT",
-      "source": "코인리더스",
-      "score": 2
-    },
-    {
       "title": "암호화폐(코인) 리플, 결국 또 '이 문제'로 불확실성 고조... 언제 해결될까?",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TUUlvRmlOTnlBbWFhc0NVUkd1R3lxOEtLOEhPX2RFcVJOR0tHZHhQZDBIWkpoUEdDQ0tuZGlmV0ZOOHY1eUgtNVdJMTNwQ1RuVWIzbUln?oc=5",
       "date": "Mon, 20 Jul 2026 06:36:00 GMT",
@@ -141,10 +148,10 @@
       "score": 2
     },
     {
-      "title": "리플 전 CTO \"인스타서 나 만났다면 의심하라…90%는 사칭범\"",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvVTg1NS03V0ROUTRNNlNtbjl3WVpJV25ITWNUMEIzbmZRb05GRHJybTlXbW9YcGtjZU5uOVl3NFdJbDVDUm1pNTh1Y1lVVHJ0bWh3?oc=5",
-      "date": "Mon, 20 Jul 2026 00:04:00 GMT",
-      "source": "네이트",
+      "title": "가격은 버티는데 속은 텅 비었다?…XRP 레저, 핵심 지표 3개 동반 하락",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8xZ0tvdVRNb1lvOTZUY0NpTy1IQTJBek5zd0hNa24yVHBjSm1BUnJIQVRjN0hzb3JoaEUwRzJBdVVBaG45NHFqZHFoZ2llcFNhdWhPckRLazdfOTR6QnhxWGhwNlpuVmx3RnZYb2J5UWxVYms?oc=5",
+      "date": "Sun, 19 Jul 2026 23:53:39 GMT",
+      "source": "디지털투데이",
       "score": 2
     },
     {
@@ -152,13 +159,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQkNmTnVudFVxMThfdUU1NVIwaktJMWdoSVdIVkVfRWVUbTJYOF9NckpKWjlZOGl4NFUta3poRFRqYzcwUm5SZXN3VVB4eFMxUS1xY2oxa05OV29BQUhPTlVMUEQ2b0psc3REeFdYd3A0bURsMDdYcVd1MFhoLXRvWVozNDJOaXJG?oc=5",
       "date": "Sun, 19 Jul 2026 22:17:40 GMT",
       "source": "글로벌이코노믹",
-      "score": 2
-    },
-    {
-      "title": "오리진트레일·봉크·리플XRP 혼조…거래 열기 둔화",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE56VUlwWTJZdVlfNDd0MmVPMm5zdVFfcENvbDN0T2NRSl9qYXdHWmFQR0l5LVJIdThSeEJ4MjVkOGVrTllKcjdETE5VVU9fc0Z2bzZfcnVWeVhReHprNDFnaU5lWTdvRXhZS19BQ3lCU0p0UQ?oc=5",
-      "date": "Sun, 19 Jul 2026 22:15:37 GMT",
-      "source": "톱스타뉴스",
       "score": 2
     }
   ]
