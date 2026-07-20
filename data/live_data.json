@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-20T01:01:44",
+  "generated_at": "2026-07-20T05:00:45",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.095,
-    "price_krw": 1628.51,
-    "price_change_24h": 0.19557,
-    "price_change_7d": 0.87542,
-    "price_change_30d": -3.30001,
-    "market_cap_usd": 68420064560,
+    "price_usd": 1.096,
+    "price_krw": 1621.21,
+    "price_change_24h": 0.01087,
+    "price_change_7d": 2.22851,
+    "price_change_30d": -3.74556,
+    "market_cap_usd": 68447298289,
     "market_cap_rank": 6,
-    "volume_24h": 705568497,
+    "volume_24h": 746481998,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 58.33,
-    "sentiment_votes_down": 41.67,
+    "sentiment_votes_up": 60.0,
+    "sentiment_votes_down": 40.0,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 13.51,
-    "recent_tps": 13.51,
-    "recent_tx_count": 1216,
+    "tps_24h_avg": 16.33,
+    "recent_tps": 16.33,
+    "recent_tx_count": 1453,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 105717295,
+    "recent_window_sec": 89,
+    "ledger_seq": 105721031,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-20 01:01:31 KST",
+    "updated_at": "2026-07-20 05:00:37 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -62,6 +62,13 @@
       "score": 0
     },
     {
+      "title": "XRP 현물 ETF 지난주 순유입 678.47 만 달러",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDeEotalBpM19IdlZtaXM0cW5wTlF2SFE1MjFDUHgwazNiWkphZWMzV2JIYkN3VlVMMENEblpFa0RzU05EZGpYY1Y5YnZJNHE5MGhFWURn?oc=5",
+      "date": "Sun, 19 Jul 2026 12:40:00 GMT",
+      "source": "odaily.news",
+      "score": 0
+    },
+    {
       "title": "마침내 오늘 열린다! 리플(XRP) 80억 달러 폭탄 유입 결정지을 클래러티법 운명의 청문회!",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5RRTM3blF0UEZHSGgwZmZQdTZsb1NHUWRRVWl3NE14Y0lkTGg0aDdQNFJOU1NIZ2ZqYlFzTC10R3FQNVhmLVFka3dR?oc=5",
       "date": "Sat, 18 Jul 2026 00:28:00 GMT",
@@ -81,13 +88,6 @@
       "date": "Mon, 13 Jul 2026 05:20:45 GMT",
       "source": "핀포인트뉴스",
       "score": 0
-    },
-    {
-      "title": "BTC·ETH·SOL·XRP 순유입…하이퍼리퀴드만 순유출 [오늘의 코인 ETF]",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5RRHRoUGpFT3Z4SDBCSkhaMEZqUU5JRmdDNHY0UFZjaE5yZnZlaGhodWFtMkdkb003VXpUck1ZMm40MHNkS0hFdXFMZWtOSUot?oc=5",
-      "date": "Sat, 11 Jul 2026 05:09:51 GMT",
-      "source": "블루밍비트",
-      "score": 0
     }
   ],
   "general_news": [
@@ -106,6 +106,13 @@
       "score": 2
     },
     {
+      "title": "글로벌 규제 완화 바람 탄 리플, 1.15달러 저항선 돌파 및 안착 여부 주목",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQkNmTnVudFVxMThfdUU1NVIwaktJMWdoSVdIVkVfRWVUbTJYOF9NckpKWjlZOGl4NFUta3poRFRqYzcwUm5SZXN3VVB4eFMxUS1xY2oxa05OV29BQUhPTlVMUEQ2b0psc3REeFdYd3A0bURsMDdYcVd1MFhoLXRvWVozNDJOaXJG?oc=5",
+      "date": "Sun, 19 Jul 2026 22:17:40 GMT",
+      "source": "글로벌이코노믹",
+      "score": 2
+    },
+    {
       "title": "오리진트레일·봉크·리플XRP 혼조…거래 열기 둔화",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE56VUlwWTJZdVlfNDd0MmVPMm5zdVFfcENvbDN0T2NRSl9qYXdHWmFQR0l5LVJIdThSeEJ4MjVkOGVrTllKcjdETE5VVU9fc0Z2bzZfcnVWeVhReHprNDFnaU5lWTdvRXhZS19BQ3lCU0p0UQ?oc=5",
       "date": "Sun, 19 Jul 2026 22:15:37 GMT",
@@ -120,10 +127,10 @@
       "score": 2
     },
     {
-      "title": "리플, 규제 명확성과 생태계 확장이 반등 열쇠 될까?",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FSVUwZ3g1b3BZRFZFb01xWVFZWlhBWVVnZ2h4V01fVXN5TVRTb0JTNEtLVlEtMjNzZUdXNmcwUXNTeHg1Y3dKR2tVYVRFel9QeTM1ZmxpWW1GQXo4WG15MdIBZkFVX3lxTFBvSnpjT3dLR0x3QTQta1BKY0VCc0lSeDYxNUJXVVlUNFFsTE9tSEFkMVhiaGZ1NkhEbHJRUXlWTWVNbHB3YmJCRGpGTXZNR3AtSVRKQ1ZWNnYyRmhyQjZ1bGIzZFloQQ?oc=5",
-      "date": "Sun, 19 Jul 2026 13:07:16 GMT",
-      "source": "tokenpost.kr",
+      "title": "XRP(리플), 결제 건수부터 3대 핵심 온체인 지표 '뚝'...반등은 물거품?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9iQXQ5UnlIXzFHeklfSVlyQ1NOUUo0ak9vS25nMzdPRGg2Tm9vc3pDeTc1OVFMVExBcEV5dmd5NEdyM09WX05uUEtB?oc=5",
+      "date": "Sun, 19 Jul 2026 16:00:00 GMT",
+      "source": "코인리더스",
       "score": 2
     },
     {
@@ -141,11 +148,11 @@
       "score": 2
     },
     {
-      "title": "클래리티 법안 통과 땐 XRP '상품' 지위 못 바꾼다…연방법으로 영구 확립",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSUdpN2pfZTdKQkVNdzQ4TXhXWVBObC0yTlZRNUNGNUtoWmtfODcxbmVGSW05akhmY0ttUFZLYUZrS185X0xuMlZrd3F6U0k5aXlreFlPdDVVdlFkSDdPOVdPcHFzRXQwM2YzeDIwa3Q2eXRId0NxQUtxalZWXzVxSWJrZkJram11?oc=5",
-      "date": "Sat, 18 Jul 2026 22:20:25 GMT",
-      "source": "글로벌이코노믹",
-      "score": 2
+      "title": "리플(XRP) 1.09달러 박스권 유지…유럽 MiCA 등록·ETF 편입에도 상승 탄력 제한",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDekZKbEh2VERBeGV4N3p3d0hsUExOWlNUUU10R3BILVEtd1hiMU1xS1FVQ0VkaGFMTGxhaXp5SUdLLXZqR3RSX0pMaUdodjVDTkNLeGhxN3pRSTdVb1NpZdIBZkFVX3lxTE9xVTE4UmtUems4U1NxUy1VRG83UXpyNTd1Z0hfT1JqanVrT2QxQ0VpSmhQQnB2N1pNS19SY0hvUXdCeUlkOG53bWRIOG5CQjJQUFJNNTNVOEF6RzhLWVdZZk5KV2UwZw?oc=5",
+      "date": "Sun, 19 Jul 2026 05:07:45 GMT",
+      "source": "tokenpost.kr",
+      "score": 3
     },
     {
       "title": "클래리티 법안 상원 통과 임박...XRP ‘2단계 상승’ 시나리오 작동하나",
@@ -153,13 +160,6 @@
       "date": "Sat, 18 Jul 2026 12:40:02 GMT",
       "source": "글로벌이코노믹",
       "score": 2
-    },
-    {
-      "title": "마침내 오늘 열린다! 리플(XRP) 80억 달러 폭탄 유입 결정지을 클래러티법 운명의 청문회!",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5RRTM3blF0UEZHSGgwZmZQdTZsb1NHUWRRVWl3NE14Y0lkTGg0aDdQNFJOU1NIZ2ZqYlFzTC10R3FQNVhmLVFka3dR?oc=5",
-      "date": "Sat, 18 Jul 2026 00:28:00 GMT",
-      "source": "코인리더스",
-      "score": 3
     }
   ]
 }
