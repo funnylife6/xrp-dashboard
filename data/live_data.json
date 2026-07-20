@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-20T20:16:26",
+  "generated_at": "2026-07-20T21:39:14",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.11,
-    "price_krw": 1645.13,
-    "price_change_24h": 1.64211,
-    "price_change_7d": 4.42997,
-    "price_change_30d": -2.46408,
-    "market_cap_usd": 69603343608,
+    "price_usd": 1.12,
+    "price_krw": 1648.19,
+    "price_change_24h": 2.21298,
+    "price_change_7d": 5.30456,
+    "price_change_30d": -2.42849,
+    "market_cap_usd": 69755857776,
     "market_cap_rank": 6,
-    "volume_24h": 1185733472,
+    "volume_24h": 1206644313,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 70.15,
-    "sentiment_votes_down": 29.85,
+    "sentiment_votes_up": 70.42,
+    "sentiment_votes_down": 29.58,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 15.34,
-    "recent_tps": 15.34,
-    "recent_tx_count": 1365,
+    "tps_24h_avg": 14.93,
+    "recent_tps": 14.93,
+    "recent_tx_count": 1344,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 105735335,
+    "recent_window_sec": 90,
+    "ledger_seq": 105736635,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-20 20:16:10 KST",
+    "updated_at": "2026-07-20 21:39:07 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,6 +92,13 @@
   ],
   "general_news": [
     {
+      "title": "파생시장 롱·숏 균형에 숨죽인 리플… 1.15달러 저항선 돌파가 강세 전환 분수령",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSzJfV0tEZEJyNzVFVjUzVHo2YUlJRzhybGE2RkVidzlEQXcyYm9lUkFFY2pSTFQ1UWVCNTdDcTRGLXhJcXEtZy1PSlp4WVBEakxJdEZzMldOaDcxcV82czhoY1RiaENUcTVXUTc3NS1RNTVPN25tTGg0ektkQXh1UkpUeTZPZWZE?oc=5",
+      "date": "Mon, 20 Jul 2026 21:18:54 GMT",
+      "source": "글로벌이코노믹",
+      "score": 2
+    },
+    {
       "title": "\"월가 금융 거래까지 XRP 레저로\"...리플, 기관 결제망 확장",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5XazVXcG5DS1JZUkpuUWR1U3doeExLd3RlN1BPTk9Hb2hFSWtxWXA2LTdjc2U0YWg3cDVfMks1aU9Uakt4ZXVfTGdB?oc=5",
       "date": "Mon, 20 Jul 2026 18:40:00 GMT",
@@ -134,6 +141,13 @@
       "score": 2
     },
     {
+      "title": "암호화폐(코인) 리플, 결국 또 '이 문제'로 불확실성 고조... 언제 해결될까?",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TUUlvRmlOTnlBbWFhc0NVUkd1R3lxOEtLOEhPX2RFcVJOR0tHZHhQZDBIWkpoUEdDQ0tuZGlmV0ZOOHY1eUgtNVdJMTNwQ1RuVWIzbUln?oc=5",
+      "date": "Mon, 20 Jul 2026 06:36:00 GMT",
+      "source": "위키트리",
+      "score": 2
+    },
+    {
       "title": "블랙록은 XRP를 사지 않았습니다, '도로와 화물'로 읽는 XRPL의 진짜 가치",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYWViU1dhWTFxd05TcXpQZ1hoekFHWGp1dFNybnU3dlRrS3hURU1ZMEx1NnVTRlBCVTlFdE1lTkp5czRNc3IwTlJ4cGFDVTdHUWM2Tk4wN1lwRmxNeEUtaVd4YTNWNG94SEJrTmxGLWNMM3dsY3Zua3J5VWZVNzBfc2ZqVWl2QmRaeEJpTQ?oc=5",
       "date": "Mon, 20 Jul 2026 04:50:00 GMT",
@@ -141,24 +155,10 @@
       "score": 2
     },
     {
-      "title": "리플 전 CTO \"인스타서 나 만났다면 의심하라…90%는 사칭범\"",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvVTg1NS03V0ROUTRNNlNtbjl3WVpJV25ITWNUMEIzbmZRb05GRHJybTlXbW9YcGtjZU5uOVl3NFdJbDVDUm1pNTh1Y1lVVHJ0bWh3?oc=5",
-      "date": "Mon, 20 Jul 2026 00:04:00 GMT",
-      "source": "네이트",
-      "score": 2
-    },
-    {
       "title": "가격은 버티는데 속은 텅 비었다?…XRP 레저, 핵심 지표 3개 동반 하락",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8xZ0tvdVRNb1lvOTZUY0NpTy1IQTJBek5zd0hNa24yVHBjSm1BUnJIQVRjN0hzb3JoaEUwRzJBdVVBaG45NHFqZHFoZ2llcFNhdWhPckRLazdfOTR6QnhxWGhwNlpuVmx3RnZYb2J5UWxVYms?oc=5",
       "date": "Sun, 19 Jul 2026 23:53:39 GMT",
       "source": "디지털투데이",
-      "score": 2
-    },
-    {
-      "title": "글로벌 규제 완화 바람 탄 리플, 1.15달러 저항선 돌파 및 안착 여부 주목",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQkNmTnVudFVxMThfdUU1NVIwaktJMWdoSVdIVkVfRWVUbTJYOF9NckpKWjlZOGl4NFUta3poRFRqYzcwUm5SZXN3VVB4eFMxUS1xY2oxa05OV29BQUhPTlVMUEQ2b0psc3REeFdYd3A0bURsMDdYcVd1MFhoLXRvWVozNDJOaXJG?oc=5",
-      "date": "Sun, 19 Jul 2026 22:17:40 GMT",
-      "source": "글로벌이코노믹",
       "score": 2
     }
   ]
