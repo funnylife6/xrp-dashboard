@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-19T23:25:46",
+  "generated_at": "2026-07-20T01:01:44",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.095,
-    "price_krw": 1628.77,
-    "price_change_24h": 0.25758,
-    "price_change_7d": 0.86472,
-    "price_change_30d": -3.39458,
-    "market_cap_usd": 68384374690,
+    "price_krw": 1628.51,
+    "price_change_24h": 0.19557,
+    "price_change_7d": 0.87542,
+    "price_change_30d": -3.30001,
+    "market_cap_usd": 68420064560,
     "market_cap_rank": 6,
-    "volume_24h": 652487874,
+    "volume_24h": 705568497,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 57.63,
-    "sentiment_votes_down": 42.37,
+    "sentiment_votes_up": 58.33,
+    "sentiment_votes_down": 41.67,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 21.7,
-    "recent_tps": 21.7,
-    "recent_tx_count": 1779,
+    "tps_24h_avg": 13.51,
+    "recent_tps": 13.51,
+    "recent_tx_count": 1216,
     "recent_ledger_count": 24,
-    "recent_window_sec": 82,
-    "ledger_seq": 105715801,
+    "recent_window_sec": 90,
+    "ledger_seq": 105717295,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-19 23:25:39 KST",
+    "updated_at": "2026-07-20 01:01:31 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,10 +92,17 @@
   ],
   "general_news": [
     {
-      "title": "글로벌 규제 완화 바람 탄 리플, 1.15달러 저항선 돌파 및 안착 여부 주목",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQkNmTnVudFVxMThfdUU1NVIwaktJMWdoSVdIVkVfRWVUbTJYOF9NckpKWjlZOGl4NFUta3poRFRqYzcwUm5SZXN3VVB4eFMxUS1xY2oxa05OV29BQUhPTlVMUEQ2b0psc3REeFdYd3A0bURsMDdYcVd1MFhoLXRvWVozNDJOaXJG?oc=5",
-      "date": "Sun, 19 Jul 2026 22:17:40 GMT",
-      "source": "글로벌이코노믹",
+      "title": "리플 전 CTO \"인스타서 나 만났다면 의심하라…90%는 사칭범\"",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvVTg1NS03V0ROUTRNNlNtbjl3WVpJV25ITWNUMEIzbmZRb05GRHJybTlXbW9YcGtjZU5uOVl3NFdJbDVDUm1pNTh1Y1lVVHJ0bWh3?oc=5",
+      "date": "Mon, 20 Jul 2026 00:04:00 GMT",
+      "source": "네이트",
+      "score": 2
+    },
+    {
+      "title": "가격은 버티는데 속은 텅 비었다?…XRP 레저, 핵심 지표 3개 동반 하락",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8xZ0tvdVRNb1lvOTZUY0NpTy1IQTJBek5zd0hNa24yVHBjSm1BUnJIQVRjN0hzb3JoaEUwRzJBdVVBaG45NHFqZHFoZ2llcFNhdWhPckRLazdfOTR6QnhxWGhwNlpuVmx3RnZYb2J5UWxVYms?oc=5",
+      "date": "Sun, 19 Jul 2026 23:53:39 GMT",
+      "source": "디지털투데이",
       "score": 2
     },
     {
@@ -131,13 +138,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1DSEFCeW1FMnV1WFhyY2VwQk91eUY3ZkwyNGFoWGFFU0lZTDJEVmg1YTFuVDlqUmt6NWIyR3ZGbk85bm90VF83MzRKYi1EUjdJSUNydF82VzFlZlZDUUZfa0hqVXo?oc=5",
       "date": "Sun, 19 Jul 2026 10:45:31 GMT",
       "source": "BeInCrypto",
-      "score": 2
-    },
-    {
-      "title": "거래유의 봉크 급등·비트코인 반등·리플XRP 보합",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9sdmFJemc1ZEROblN3V0U4ZzYyMkZDa2x5UW1NLWRDTEdaT2F1c3B3eE9jTzhuakU4b2Fzb0lxRjNKb0JpWmI3WEF1Q0ZhLVBqQmxyV3hXVjg5cnBjUXBmUW80eU03ZGNDNHV1SHpqdEFvZw?oc=5",
-      "date": "Sat, 18 Jul 2026 22:34:27 GMT",
-      "source": "톱스타뉴스",
       "score": 2
     },
     {
