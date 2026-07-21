@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-21T17:51:02",
+  "generated_at": "2026-07-21T19:06:39",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.16,
-    "price_krw": 1712.12,
-    "price_change_24h": 4.08104,
-    "price_change_7d": 4.63692,
-    "price_change_30d": 1.06562,
-    "market_cap_usd": 72198595378,
+    "price_krw": 1713.42,
+    "price_change_24h": 3.90717,
+    "price_change_7d": 4.95377,
+    "price_change_30d": 1.19331,
+    "market_cap_usd": 72260779668,
     "market_cap_rank": 6,
-    "volume_24h": 1393692544,
+    "volume_24h": 1408148728,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 80.47,
-    "sentiment_votes_down": 19.53,
+    "sentiment_votes_up": 79.39,
+    "sentiment_votes_down": 20.61,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 21.3,
-    "recent_tps": 21.3,
-    "recent_tx_count": 1917,
+    "tps_24h_avg": 13.9,
+    "recent_tps": 13.9,
+    "recent_tx_count": 1237,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 105755607,
+    "recent_window_sec": 89,
+    "ledger_seq": 105756791,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-21 17:50:54 KST",
+    "updated_at": "2026-07-21 19:06:32 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 2490000,
     "total_net_inflow_usd": 2490000,
     "total_value_traded_usd": 2490000,
-    "updated_at": "SoSoValue 순유입 부분 수집 07/21 17:51",
+    "updated_at": "SoSoValue 순유입 부분 수집 07/21 19:06",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -93,6 +93,13 @@
   ],
   "general_news": [
     {
+      "title": "\"1달러 붕괴 전 '불트랩'인가\"… 리플(XRP) 반등 속 데드크로스 경고등",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOC1tSGt4c3dPVGhDQUkxdktWa2hZWG9rRHhRdTZzVl82V3BDcnl1R2ZzZ1J0d29JWEJxb3RwR2VpN3NKc1VJMFo1YnRJRjloNzJ4SVdfVUY5YlNlbm1kR0RvdTlWNmUwMHBNRFZEcDhHTnRxbHdiZ2J0ajFaT0lQOU5NUi01Wm41?oc=5",
+      "date": "Tue, 21 Jul 2026 18:37:19 GMT",
+      "source": "글로벌이코노믹",
+      "score": 2
+    },
+    {
       "title": "리플(XRP) 1.30달러냐 1달러냐…좁아진 가격이 곧 터진다",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5xQ0I2Z3Jpd0s5QjRBVThtOWkxOUJwUTFtYTJ0OHpnczhfMGFBSXk1U1NzeUI2emN2OGd1MWdlZlhjb3E3X0FEMERn?oc=5",
       "date": "Tue, 21 Jul 2026 12:36:00 GMT",
@@ -140,13 +147,6 @@
       "date": "Mon, 20 Jul 2026 22:27:44 GMT",
       "source": "톱스타뉴스",
       "score": 2
-    },
-    {
-      "title": "\"XRP 클래리티 통과 땐 이더리움 뛰어넘는 기관 수요 유입\"",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZXhma3BVWmczUlVTRFd4WVI1Nk5EdE1PUVJlNUJyQm12TnB0SzREVjdmQWk4S0JVX0FUNWpyR0FkT21jcEVIU3pUYXQ2d2h5OHVyY1ZtcDdHSEFMR2ozSU9LMmNVTE1ZdlJxOEhaNkdUWVVzVlRQVGRMQXBFTy1KNjVRQnNmN3Vy?oc=5",
-      "date": "Mon, 20 Jul 2026 22:04:04 GMT",
-      "source": "글로벌이코노믹",
-      "score": 3
     },
     {
       "title": "\"월가 금융 거래까지 XRP 레저로\"...리플, 기관 결제망 확장",
