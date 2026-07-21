@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-21T16:17:35",
+  "generated_at": "2026-07-21T17:51:02",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.15,
-    "price_krw": 1706.43,
-    "price_change_24h": 3.7289,
-    "price_change_7d": 5.0176,
-    "price_change_30d": 0.39942,
-    "market_cap_usd": 72072162355,
+    "price_usd": 1.16,
+    "price_krw": 1712.12,
+    "price_change_24h": 4.08104,
+    "price_change_7d": 4.63692,
+    "price_change_30d": 1.06562,
+    "market_cap_usd": 72198595378,
     "market_cap_rank": 6,
-    "volume_24h": 1358795262,
+    "volume_24h": 1393692544,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 78.33,
-    "sentiment_votes_down": 21.67,
+    "sentiment_votes_up": 80.47,
+    "sentiment_votes_down": 19.53,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 29.66,
-    "recent_tps": 29.66,
-    "recent_tx_count": 2669,
+    "tps_24h_avg": 21.3,
+    "recent_tps": 21.3,
+    "recent_tx_count": 1917,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 105754145,
+    "ledger_seq": 105755607,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-21 16:17:27 KST",
+    "updated_at": "2026-07-21 17:50:54 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 2490000,
     "total_net_inflow_usd": 2490000,
     "total_value_traded_usd": 2490000,
-    "updated_at": "SoSoValue 순유입 부분 수집 07/21 16:17",
+    "updated_at": "SoSoValue 순유입 부분 수집 07/21 17:51",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -93,13 +93,6 @@
   ],
   "general_news": [
     {
-      "title": "엑스알피(리플) 시세 강세...‘클래리티법' 승인으로 20달러 전망",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoOTh5Mi1mUjc2VGg4V1p1RVFsWVNxREgwbVloQk4tZ3lNQVF0QUtVeWtkSVZ2dHZESV9pR0RJSzFSOXdtdVREOHRPOGRCRGNWMUdnYXVLQ2tkRFE1R1hJMTRjWGpyS0hRSk5CblZn?oc=5",
-      "date": "Tue, 21 Jul 2026 15:01:00 GMT",
-      "source": "gukjenews.com",
-      "score": 2
-    },
-    {
       "title": "리플(XRP) 1.30달러냐 1달러냐…좁아진 가격이 곧 터진다",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5xQ0I2Z3Jpd0s5QjRBVThtOWkxOUJwUTFtYTJ0OHpnczhfMGFBSXk1U1NzeUI2emN2OGd1MWdlZlhjb3E3X0FEMERn?oc=5",
       "date": "Tue, 21 Jul 2026 12:36:00 GMT",
@@ -121,18 +114,18 @@
       "score": 2
     },
     {
-      "title": "리플 XRP, 13년 연속 시가총액 10위권 유지…다음 목표는 6달러?",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTdNQ3hWMWQxTHBmREJJTEFIai1wTHgweFhYRXBNU2FIMUhSeTJDNVV1c3B4R1ZfSnhFZmNKclI1X3hIRVQyOWlhVVFsSms3WlRWNDNrcGw3QktrenlObjVCTVVJelJfSmp4a3FjRElDMHR6SnlNQ3JaeGVHc2tlX0dPRHlwdTRt?oc=5",
-      "date": "Tue, 21 Jul 2026 02:02:27 GMT",
-      "source": "글로벌이코노믹",
-      "score": 2
-    },
-    {
       "title": "리플, 마스터카드·JP모건과 기관 결제망 공략…XRP·RLUSD 투트랙 전략",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KalVWS1lXdVBpQ0xCNE5oXzZnenlMRUg2NU8wa1g2WEpfYXBYRGVwWWcyd3UyR05paUotcEZiWHJvWFN1UVlhaEhEdWJqVGp5dXFzMGp4eE9IRWhtdEU4eTNMTEhNcThfNTlTWU1tUHBkc3M?oc=5",
       "date": "Tue, 21 Jul 2026 01:04:46 GMT",
       "source": "디지털투데이",
       "score": 4
+    },
+    {
+      "title": "XRP 레저 거래량 되살아났다…가격은 저항선 앞 마지막 관문",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBWb19Vd29aZ2tQSnVrSGMtNVJJanpVMDFRa0haQkYzU1BUT205RTNtVGxORy13d19CcnM4RkxWa2RId2tsejBqSXE1VGsxbU9BLXRhVGdfTWFMcktzSWNsMVdCZnlfTllmV1VaTDVjUy1CRE0?oc=5",
+      "date": "Tue, 21 Jul 2026 01:04:00 GMT",
+      "source": "디지털투데이",
+      "score": 2
     },
     {
       "title": "“XRP·RLUSD 없으면 금융 마비”... 리플 수석부사장의 충격적 독점 선언",
@@ -147,6 +140,13 @@
       "date": "Mon, 20 Jul 2026 22:27:44 GMT",
       "source": "톱스타뉴스",
       "score": 2
+    },
+    {
+      "title": "\"XRP 클래리티 통과 땐 이더리움 뛰어넘는 기관 수요 유입\"",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZXhma3BVWmczUlVTRFd4WVI1Nk5EdE1PUVJlNUJyQm12TnB0SzREVjdmQWk4S0JVX0FUNWpyR0FkT21jcEVIU3pUYXQ2d2h5OHVyY1ZtcDdHSEFMR2ozSU9LMmNVTE1ZdlJxOEhaNkdUWVVzVlRQVGRMQXBFTy1KNjVRQnNmN3Vy?oc=5",
+      "date": "Mon, 20 Jul 2026 22:04:04 GMT",
+      "source": "글로벌이코노믹",
+      "score": 3
     },
     {
       "title": "\"월가 금융 거래까지 XRP 레저로\"...리플, 기관 결제망 확장",
