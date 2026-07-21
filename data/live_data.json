@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-21T07:52:59",
+  "generated_at": "2026-07-21T10:17:57",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.13,
-    "price_krw": 1672.43,
-    "price_change_24h": 4.07358,
-    "price_change_7d": 6.02349,
-    "price_change_30d": -1.104,
-    "market_cap_usd": 70780248261,
+    "price_krw": 1673.42,
+    "price_change_24h": 3.96691,
+    "price_change_7d": 6.17085,
+    "price_change_30d": -1.26983,
+    "market_cap_usd": 70785000168,
     "market_cap_rank": 6,
-    "volume_24h": 1276434032,
+    "volume_24h": 1287473774,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 74.44,
-    "sentiment_votes_down": 25.56,
+    "sentiment_votes_up": 76.84,
+    "sentiment_votes_down": 23.16,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 16.24,
-    "recent_tps": 16.24,
-    "recent_tx_count": 1462,
+    "tps_24h_avg": 11.96,
+    "recent_tps": 11.96,
+    "recent_tx_count": 1076,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 105746242,
+    "ledger_seq": 105748520,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-21 07:52:53 KST",
+    "updated_at": "2026-07-21 10:17:47 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 2490000,
     "total_net_inflow_usd": 2490000,
     "total_value_traded_usd": 2490000,
-    "updated_at": "SoSoValue 순유입 부분 수집 07/21 07:52",
+    "updated_at": "SoSoValue 순유입 부분 수집 07/21 10:17",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -93,6 +93,13 @@
   ],
   "general_news": [
     {
+      "title": "\"바이낸스 고래 엑스알피 입금, 두 달 만에 최저…매도 압력 감소세\"",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBYVWVxUUQ3d1BhRjFMRjNKbEgzVUh0a1l1ME4yeDN5RXN2T3d1LU5ETF95RWsyR3VaSS0teVZmbjlOaWpKZXQ3ODctemNrSFRE?oc=5",
+      "date": "Tue, 21 Jul 2026 09:07:57 GMT",
+      "source": "블루밍비트",
+      "score": 2
+    },
+    {
       "title": "매도세 약해졌다! 리플(XRP)·스텔라(XLM) 변동성 폭발 임박",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9ab003al8yZUNjSVBDZkJhUTNjQWZNVWJBa2NjeVVwbHhVTVNuT2htSzNBaFBJUXFmLXFaV2RjNERKZGtfWDVZWDZB?oc=5",
       "date": "Tue, 21 Jul 2026 06:26:00 GMT",
@@ -114,13 +121,6 @@
       "score": 2
     },
     {
-      "title": "리플 XRP, 13년 연속 시가총액 10위권 유지…다음 목표는 6달러?",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTdNQ3hWMWQxTHBmREJJTEFIai1wTHgweFhYRXBNU2FIMUhSeTJDNVV1c3B4R1ZfSnhFZmNKclI1X3hIRVQyOWlhVVFsSms3WlRWNDNrcGw3QktrenlObjVCTVVJelJfSmp4a3FjRElDMHR6SnlNQ3JaeGVHc2tlX0dPRHlwdTRt?oc=5",
-      "date": "Tue, 21 Jul 2026 02:02:27 GMT",
-      "source": "글로벌이코노믹",
-      "score": 2
-    },
-    {
       "title": "리플, 마스터카드·JP모건과 기관 결제망 공략…XRP·RLUSD 투트랙 전략",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KalVWS1lXdVBpQ0xCNE5oXzZnenlMRUg2NU8wa1g2WEpfYXBYRGVwWWcyd3UyR05paUotcEZiWHJvWFN1UVlhaEhEdWJqVGp5dXFzMGp4eE9IRWhtdEU4eTNMTEhNcThfNTlTWU1tUHBkc3M?oc=5",
       "date": "Tue, 21 Jul 2026 01:04:46 GMT",
@@ -135,10 +135,10 @@
       "score": 2
     },
     {
-      "title": "“XRP·RLUSD 없으면 금융 마비”... 리플 수석부사장의 충격적 독점 선언",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJYXV2bzhmbHFNYUFORkUtRkFjalBfSGVTMFdmaFk3d0dOMl9lekpuMnNtUmtHUGZGaUd1QmhLNVlGQmhjS2xRa1VjaXVMelJ5bDYtMTFVVDZpTlQ0U0pyOEh0dVZ2MUYzOGFhZW41WldmcmPSAXdBVV95cUxOaUd6Z1I1WjNKNHVMc3ltbE1vZHV5SzU3enQ5OWJHRzhDR0NVZDl2S0xVTHNpTWNpd0l0Y2l3NzAzMGg3MTlpQjZxUV9vQkhxMEduU1NXd2FNbVZ0NDRNM3BERmR6ZnNQTFk1WnhQekJ5cGNtZjEtZw?oc=5",
-      "date": "Mon, 20 Jul 2026 21:42:53 GMT",
-      "source": "핀포인트뉴스",
+      "title": "\"XRP 클래리티 통과 땐 이더리움 뛰어넘는 기관 수요 유입\"",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZXhma3BVWmczUlVTRFd4WVI1Nk5EdE1PUVJlNUJyQm12TnB0SzREVjdmQWk4S0JVX0FUNWpyR0FkT21jcEVIU3pUYXQ2d2h5OHVyY1ZtcDdHSEFMR2ozSU9LMmNVTE1ZdlJxOEhaNkdUWVVzVlRQVGRMQXBFTy1KNjVRQnNmN3Vy?oc=5",
+      "date": "Mon, 20 Jul 2026 22:04:04 GMT",
+      "source": "글로벌이코노믹",
       "score": 3
     },
     {
@@ -146,7 +146,7 @@
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5XazVXcG5DS1JZUkpuUWR1U3doeExLd3RlN1BPTk9Hb2hFSWtxWXA2LTdjc2U0YWg3cDVfMks1aU9Uakt4ZXVfTGdB?oc=5",
       "date": "Mon, 20 Jul 2026 18:40:00 GMT",
       "source": "코인리더스",
-      "score": 3
+      "score": 4
     },
     {
       "title": "다시 돈 몰리는데 무서워요…리플(XRP) ETF 유입 뒤에 숨겨진 '시한폭탄'",
