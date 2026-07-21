@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-21T14:31:40",
+  "generated_at": "2026-07-21T16:17:35",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.14,
-    "price_krw": 1692.37,
-    "price_change_24h": 4.72294,
-    "price_change_7d": 5.21876,
-    "price_change_30d": 0.14845,
-    "market_cap_usd": 71402615468,
+    "price_usd": 1.15,
+    "price_krw": 1706.43,
+    "price_change_24h": 3.7289,
+    "price_change_7d": 5.0176,
+    "price_change_30d": 0.39942,
+    "market_cap_usd": 72072162355,
     "market_cap_rank": 6,
-    "volume_24h": 1332690526,
+    "volume_24h": 1358795262,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 76.52,
-    "sentiment_votes_down": 23.48,
+    "sentiment_votes_up": 78.33,
+    "sentiment_votes_down": 21.67,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 51.91,
-    "recent_tps": 51.91,
-    "recent_tx_count": 4672,
+    "tps_24h_avg": 29.66,
+    "recent_tps": 29.66,
+    "recent_tx_count": 2669,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 105752492,
+    "ledger_seq": 105754145,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-21 14:31:34 KST",
+    "updated_at": "2026-07-21 16:17:27 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 2490000,
     "total_net_inflow_usd": 2490000,
     "total_value_traded_usd": 2490000,
-    "updated_at": "SoSoValue 순유입 부분 수집 07/21 14:31",
+    "updated_at": "SoSoValue 순유입 부분 수집 07/21 16:17",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -70,13 +70,6 @@
       "score": 0
     },
     {
-      "title": "美 이더리움 현물 ETF, 지난주 1억500만달러 순유입…비트코인도 7567만달러 유입",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMQnBSWF9TY2lJYmhkS0tuSURjbXRjVVdYUFcxa3g2VFk1U1Z1WF81WV9XTG1OS0F3aDNrVlVmbHlQQVB0YlpVbnlRNi1jS3do?oc=5",
-      "date": "Mon, 20 Jul 2026 05:11:50 GMT",
-      "source": "블루밍비트",
-      "score": 0
-    },
-    {
       "title": "XRP 현물 ETF, 15억 달러 사상 최고 복귀...시장 반응은 여전히 '냉랭'",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE80WmpEQmVNYnhWYTl1NjVka2ZyMUp3VE1YQW1rVWI0YWRlZ1RLR2EwNTJVMnhkLXlsVVpiOHBsUXB4Z29sazB5WTJn?oc=5",
       "date": "Sun, 19 Jul 2026 23:05:00 GMT",
@@ -89,14 +82,21 @@
       "date": "Sun, 19 Jul 2026 13:05:00 GMT",
       "source": "코인리더스",
       "score": 0
+    },
+    {
+      "title": "XRP 현물 ETF 지난주 순유입 678.47 만 달러",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDeEotalBpM19IdlZtaXM0cW5wTlF2SFE1MjFDUHgwazNiWkphZWMzV2JIYkN3VlVMMENEblpFa0RzU05EZGpYY1Y5YnZJNHE5MGhFWURn?oc=5",
+      "date": "Sun, 19 Jul 2026 12:40:00 GMT",
+      "source": "odaily.news",
+      "score": 0
     }
   ],
   "general_news": [
     {
-      "title": "미 의회, 클래리티법 협상 막바지…XRP 가격 전망 엇갈려",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wckNkR3BSUUltRnpsZG1UaTdzRXctb1RFVEd5MFAwTXpqbWNPZkZRTkFHWFd0V0RzSU1POTNRdGI1UGk0amFKdzhxNVR0SHhXTGpRQXdueXJ5RVp6N1g4NUhFd0FQbjNQNnc?oc=5",
-      "date": "Tue, 21 Jul 2026 13:57:48 GMT",
-      "source": "sisaworld.kr",
+      "title": "엑스알피(리플) 시세 강세...‘클래리티법' 승인으로 20달러 전망",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoOTh5Mi1mUjc2VGg4V1p1RVFsWVNxREgwbVloQk4tZ3lNQVF0QUtVeWtkSVZ2dHZESV9pR0RJSzFSOXdtdVREOHRPOGRCRGNWMUdnYXVLQ2tkRFE1R1hJMTRjWGpyS0hRSk5CblZn?oc=5",
+      "date": "Tue, 21 Jul 2026 15:01:00 GMT",
+      "source": "gukjenews.com",
       "score": 2
     },
     {
@@ -105,13 +105,6 @@
       "date": "Tue, 21 Jul 2026 12:36:00 GMT",
       "source": "코인리더스",
       "score": 2
-    },
-    {
-      "title": "레버리지 거품 빠진 리플(XRP), 현물 매수세 타고 1.28달러 사정권 진입 전망",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBudGdSdnZxX3FhODM2R3JualFtdjE4Uko1eTRUbU0wNVY2QVFwMlNYdk9fVkxCckpGYjh6dGxkSHRxLWZOdTJhY0hR?oc=5",
-      "date": "Tue, 21 Jul 2026 11:10:00 GMT",
-      "source": "코인리더스",
-      "score": 3
     },
     {
       "title": "\"바이낸스 고래 엑스알피 입금, 두 달 만에 최저…매도 압력 감소세\"",
@@ -125,6 +118,13 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWkRWMnZEZ2hZVjcxcm84eDZvTHd0NmZ1dDc1enJ4ZTdWQS1icWd3VXhfSG9RWmJINk11Yk9xc3pvTnlkUlVjOGZMMTFMcjJOZFFYaVREOUt6Q1YycUFLeW5CZHUzSHU2ZFRzbENIVnBoMHRtd1JndHl6eXVSbFhXS2Z6QTNWVFA2S1NkbTRLT19GUQ?oc=5",
       "date": "Tue, 21 Jul 2026 04:06:15 GMT",
       "source": "TradingKey",
+      "score": 2
+    },
+    {
+      "title": "리플 XRP, 13년 연속 시가총액 10위권 유지…다음 목표는 6달러?",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTdNQ3hWMWQxTHBmREJJTEFIai1wTHgweFhYRXBNU2FIMUhSeTJDNVV1c3B4R1ZfSnhFZmNKclI1X3hIRVQyOWlhVVFsSms3WlRWNDNrcGw3QktrenlObjVCTVVJelJfSmp4a3FjRElDMHR6SnlNQ3JaeGVHc2tlX0dPRHlwdTRt?oc=5",
+      "date": "Tue, 21 Jul 2026 02:02:27 GMT",
+      "source": "글로벌이코노믹",
       "score": 2
     },
     {
@@ -149,18 +149,18 @@
       "score": 2
     },
     {
-      "title": "\"XRP 클래리티 통과 땐 이더리움 뛰어넘는 기관 수요 유입\"",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZXhma3BVWmczUlVTRFd4WVI1Nk5EdE1PUVJlNUJyQm12TnB0SzREVjdmQWk4S0JVX0FUNWpyR0FkT21jcEVIU3pUYXQ2d2h5OHVyY1ZtcDdHSEFMR2ozSU9LMmNVTE1ZdlJxOEhaNkdUWVVzVlRQVGRMQXBFTy1KNjVRQnNmN3Vy?oc=5",
-      "date": "Mon, 20 Jul 2026 22:04:04 GMT",
-      "source": "글로벌이코노믹",
-      "score": 3
-    },
-    {
       "title": "\"월가 금융 거래까지 XRP 레저로\"...리플, 기관 결제망 확장",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5XazVXcG5DS1JZUkpuUWR1U3doeExLd3RlN1BPTk9Hb2hFSWtxWXA2LTdjc2U0YWg3cDVfMks1aU9Uakt4ZXVfTGdB?oc=5",
       "date": "Mon, 20 Jul 2026 18:40:00 GMT",
       "source": "코인리더스",
       "score": 4
+    },
+    {
+      "title": "다시 돈 몰리는데 무서워요…리플(XRP) ETF 유입 뒤에 숨겨진 '시한폭탄'",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Wb2JXT0JmYlRaX2dSb3VaY0NSN0ZsODdCaHZnRDktaDl5R01yakxkb2VEYVBkNVBOclloNGxCWnZuUmxTdHlWaERmY0RtZXlzb1NYQzVSQ3RidWhOdDZQNm9WdVBVTEVramtkWlJhd2RpMDDSAXdBVV95cUxQbDdjbDNJVkFucUpNOHFIaFhHWmNNMV9PWExYUE52bXNTSmlwYlR4SGZGczF4WkdwaXdIY3pCdEhEcWFRVGxvMnp2ei1PaHA2RjFCOHlPVzYzNFJHdVRESjM5NnQ2OHRiQS1xa1kyS3RNS05GMldwRQ?oc=5",
+      "date": "Mon, 20 Jul 2026 15:16:00 GMT",
+      "source": "핀포인트뉴스",
+      "score": 3
     }
   ]
 }
