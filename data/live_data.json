@@ -1,50 +1,51 @@
 {
-  "generated_at": "2026-07-20T23:50:42",
+  "generated_at": "2026-07-21T01:55:20",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.11,
-    "price_krw": 1641.9,
-    "price_change_24h": 1.58593,
-    "price_change_7d": 5.10086,
-    "price_change_30d": -3.39296,
-    "market_cap_usd": 69517807834,
+    "price_krw": 1647.78,
+    "price_change_24h": 1.65015,
+    "price_change_7d": 4.46824,
+    "price_change_30d": -2.96174,
+    "market_cap_usd": 69574492613,
     "market_cap_rank": 6,
-    "volume_24h": 1201238640,
+    "volume_24h": 1164045991,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 71.05,
-    "sentiment_votes_down": 28.95,
+    "sentiment_votes_up": 72.62,
+    "sentiment_votes_down": 27.38,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 20.41,
-    "recent_tps": 20.41,
-    "recent_tx_count": 1674,
+    "tps_24h_avg": 21.28,
+    "recent_tps": 21.28,
+    "recent_tx_count": 1745,
     "recent_ledger_count": 24,
     "recent_window_sec": 82,
-    "ledger_seq": 105738691,
+    "ledger_seq": 105740637,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-20 23:50:28 KST",
+    "updated_at": "2026-07-21 01:55:09 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
   },
   "etf_flow": {
-    "approved_count": 0,
+    "approved_count": 4,
     "daily_inflow_usd": 0,
     "weekly_inflow_usd": 0,
-    "aum_usd": 0,
-    "total_net_inflow_usd": 0,
-    "total_value_traded_usd": 0,
-    "updated_at": "뉴스 자동 파싱 대기",
-    "data_source": "news_parse"
+    "aum_usd": 2490000,
+    "total_net_inflow_usd": 2490000,
+    "total_value_traded_usd": 2490000,
+    "updated_at": "SoSoValue 순유입 부분 수집 07/21 01:55",
+    "data_source": "sosovalue",
+    "partial": true
   },
   "etf_news": [
     {
@@ -92,18 +93,18 @@
   ],
   "general_news": [
     {
+      "title": "리플, 마스터카드·JP모건과 기관 결제망 공략…XRP·RLUSD 투트랙 전략",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04N3lkLXlvd3NjSFpnX3c3VEg3NkFwczVvYUR5aUJxek5oVEFMNkZuVHpFSEw1cEowc3pqUG9WZFYyNjc5YWdEaloxcXFhaVVPYTAw?oc=5",
+      "date": "Tue, 21 Jul 2026 01:05:00 GMT",
+      "source": "네이트",
+      "score": 4
+    },
+    {
       "title": "봉크 급락·리플XRP 보합·비트코인 보합…중동 긴장에 거래 위축",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9hUFpjVFZsT1kxZmRraEl2bTVsWTVyaGlYQUR4bTNyaTU0VTRpNmgwa2F2Wm9BMUtxLXl1VTl2Mk5BYjVINkpWNnVGRnVoYmR1NVNWRW1VcjhSSDFDU1FsZFNiWjBNcEN3RzdPbTg3cmVZZw?oc=5",
       "date": "Mon, 20 Jul 2026 22:27:44 GMT",
       "source": "톱스타뉴스",
       "score": 2
-    },
-    {
-      "title": "\"XRP 클래리티 통과 땐 이더리움 뛰어넘는 기관 수요 유입\"",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZXhma3BVWmczUlVTRFd4WVI1Nk5EdE1PUVJlNUJyQm12TnB0SzREVjdmQWk4S0JVX0FUNWpyR0FkT21jcEVIU3pUYXQ2d2h5OHVyY1ZtcDdHSEFMR2ozSU9LMmNVTE1ZdlJxOEhaNkdUWVVzVlRQVGRMQXBFTy1KNjVRQnNmN3Vy?oc=5",
-      "date": "Mon, 20 Jul 2026 22:04:04 GMT",
-      "source": "글로벌이코노믹",
-      "score": 3
     },
     {
       "title": "\"월가 금융 거래까지 XRP 레저로\"...리플, 기관 결제망 확장",
