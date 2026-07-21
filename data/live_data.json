@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-21T12:06:49",
+  "generated_at": "2026-07-21T14:31:40",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.13,
-    "price_krw": 1677.05,
-    "price_change_24h": 2.8604,
-    "price_change_7d": 6.0351,
-    "price_change_30d": -1.31353,
-    "market_cap_usd": 70865285746,
+    "price_usd": 1.14,
+    "price_krw": 1692.37,
+    "price_change_24h": 4.72294,
+    "price_change_7d": 5.21876,
+    "price_change_30d": 0.14845,
+    "market_cap_usd": 71402615468,
     "market_cap_rank": 6,
-    "volume_24h": 1274189951,
+    "volume_24h": 1332690526,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 74.77,
-    "sentiment_votes_down": 25.23,
+    "sentiment_votes_up": 76.52,
+    "sentiment_votes_down": 23.48,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 14.16,
-    "recent_tps": 14.16,
-    "recent_tx_count": 1274,
+    "tps_24h_avg": 51.91,
+    "recent_tps": 51.91,
+    "recent_tx_count": 4672,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 105750225,
+    "ledger_seq": 105752492,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-21 12:06:36 KST",
+    "updated_at": "2026-07-21 14:31:34 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 2490000,
     "total_net_inflow_usd": 2490000,
     "total_value_traded_usd": 2490000,
-    "updated_at": "SoSoValue 순유입 부분 수집 07/21 12:06",
+    "updated_at": "SoSoValue 순유입 부분 수집 07/21 14:31",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -93,6 +93,20 @@
   ],
   "general_news": [
     {
+      "title": "미 의회, 클래리티법 협상 막바지…XRP 가격 전망 엇갈려",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wckNkR3BSUUltRnpsZG1UaTdzRXctb1RFVEd5MFAwTXpqbWNPZkZRTkFHWFd0V0RzSU1POTNRdGI1UGk0amFKdzhxNVR0SHhXTGpRQXdueXJ5RVp6N1g4NUhFd0FQbjNQNnc?oc=5",
+      "date": "Tue, 21 Jul 2026 13:57:48 GMT",
+      "source": "sisaworld.kr",
+      "score": 2
+    },
+    {
+      "title": "리플(XRP) 1.30달러냐 1달러냐…좁아진 가격이 곧 터진다",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5xQ0I2Z3Jpd0s5QjRBVThtOWkxOUJwUTFtYTJ0OHpnczhfMGFBSXk1U1NzeUI2emN2OGd1MWdlZlhjb3E3X0FEMERn?oc=5",
+      "date": "Tue, 21 Jul 2026 12:36:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
       "title": "레버리지 거품 빠진 리플(XRP), 현물 매수세 타고 1.28달러 사정권 진입 전망",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBudGdSdnZxX3FhODM2R3JualFtdjE4Uko1eTRUbU0wNVY2QVFwMlNYdk9fVkxCckpGYjh6dGxkSHRxLWZOdTJhY0hR?oc=5",
       "date": "Tue, 21 Jul 2026 11:10:00 GMT",
@@ -104,20 +118,6 @@
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBYVWVxUUQ3d1BhRjFMRjNKbEgzVUh0a1l1ME4yeDN5RXN2T3d1LU5ETF95RWsyR3VaSS0teVZmbjlOaWpKZXQ3ODctemNrSFRE?oc=5",
       "date": "Tue, 21 Jul 2026 09:07:57 GMT",
       "source": "블루밍비트",
-      "score": 2
-    },
-    {
-      "title": "매도세 약해졌다! 리플(XRP)·스텔라(XLM) 변동성 폭발 임박",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9ab003al8yZUNjSVBDZkJhUTNjQWZNVWJBa2NjeVVwbHhVTVNuT2htSzNBaFBJUXFmLXFaV2RjNERKZGtfWDVZWDZB?oc=5",
-      "date": "Tue, 21 Jul 2026 06:26:00 GMT",
-      "source": "코인리더스",
-      "score": 2
-    },
-    {
-      "title": "XRP 둘러싼 극과 극 전망…5달러 강세론 vs. 폭락론 '일파만파'",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBmNFpCa1kyUGdGV2dBRF8tOUxzb0dScVdaTVhDV2YxazVTOVBFVVhfMFdWcDRIN2g2MlJwTTY0V0dlaF9wMTFEbUM5RFo5NVpYclpEVzFsTnkyNFFMQ1dONzJuT3pNU1ZuVW8yZFpwb0xUZVU?oc=5",
-      "date": "Tue, 21 Jul 2026 04:24:05 GMT",
-      "source": "디지털투데이",
       "score": 2
     },
     {
