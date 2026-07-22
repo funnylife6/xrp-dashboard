@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-22T22:54:54",
+  "generated_at": "2026-07-22T23:55:59",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.14,
-    "price_krw": 1683.21,
-    "price_change_24h": -0.07054,
-    "price_change_7d": 2.27581,
-    "price_change_30d": 0.88521,
-    "market_cap_usd": 71195116017,
+    "price_krw": 1684.42,
+    "price_change_24h": -0.09221,
+    "price_change_7d": 2.34727,
+    "price_change_30d": 1.34221,
+    "market_cap_usd": 71255595952,
     "market_cap_rank": 6,
-    "volume_24h": 1055302602,
+    "volume_24h": 1041716444,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 73.81,
-    "sentiment_votes_down": 26.19,
+    "sentiment_votes_up": 76.19,
+    "sentiment_votes_down": 23.81,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 18.24,
-    "recent_tps": 18.24,
-    "recent_tx_count": 1642,
+    "tps_24h_avg": 14.39,
+    "recent_tps": 14.39,
+    "recent_tx_count": 1281,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 105782967,
+    "recent_window_sec": 89,
+    "ledger_seq": 105783918,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-22 22:54:48 KST",
+    "updated_at": "2026-07-22 23:55:46 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -134,13 +134,6 @@
       "score": 3
     },
     {
-      "title": "\"1달러 붕괴 전 '불트랩'인가\"… 리플(XRP) 반등 속 데드크로스 경고등",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOC1tSGt4c3dPVGhDQUkxdktWa2hZWG9rRHhRdTZzVl82V3BDcnl1R2ZzZ1J0d29JWEJxb3RwR2VpN3NKc1VJMFo1YnRJRjloNzJ4SVdfVUY5YlNlbm1kR0RvdTlWNmUwMHBNRFZEcDhHTnRxbHdiZ2J0ajFaT0lQOU5NUi01Wm41?oc=5",
-      "date": "Tue, 21 Jul 2026 18:37:19 GMT",
-      "source": "글로벌이코노믹",
-      "score": 2
-    },
-    {
       "title": "그레이스케일마저 암호화폐 리플(XRP) 극찬했는데... 코인 시장은 왜 조용할까?",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YeEJmTWhrc09HWVhsRC1Ob0ZLTnY2MU4tVWdwd1dtdjFVc0doTGpYSVhjMG1vLU5yTVdQaDRzSWFsSUFmeWh2Nmo4Q2pNWl9sMEVBcld3?oc=5",
       "date": "Tue, 21 Jul 2026 06:27:00 GMT",
@@ -159,6 +152,13 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5pR3pnUjVaM0o0dUxzeW1sTW9kdXlLNTd6dDk5YkdHOENHQ1VkOXZLTFVMc2lNY2l3SXRjaXc3MDMwaDcxOWlCNnFRX29CSHEwR25TU1d3YU1tVnQ0NE0zcERGZHpmc1BMWTVaeFB6QnlwY21mMS1n0gF3QVVfeXFMTmlHemdSNVozSjR1THN5bWxNb2R1eUs1N3p0OTliR0c4Q0dDVWQ5dktMVUxzaU1jaXdJdGNpdzcwMzBoNzE5aUI2cVFfb0JIcTBHblNTV3dhTW1WdDQ0TTNwREZkemZzUExZNVp4UHpCeXBjbWYxLWc?oc=5",
       "date": "Tue, 21 Jul 2026 00:06:14 GMT",
       "source": "핀포인트뉴스",
+      "score": 3
+    },
+    {
+      "title": "\"XRP 클래리티 통과 땐 이더리움 뛰어넘는 기관 수요 유입\"",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZXhma3BVWmczUlVTRFd4WVI1Nk5EdE1PUVJlNUJyQm12TnB0SzREVjdmQWk4S0JVX0FUNWpyR0FkT21jcEVIU3pUYXQ2d2h5OHVyY1ZtcDdHSEFMR2ozSU9LMmNVTE1ZdlJxOEhaNkdUWVVzVlRQVGRMQXBFTy1KNjVRQnNmN3Vy?oc=5",
+      "date": "Mon, 20 Jul 2026 22:04:04 GMT",
+      "source": "글로벌이코노믹",
       "score": 3
     }
   ]
