@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-22T20:18:56",
+  "generated_at": "2026-07-22T21:35:02",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.14,
-    "price_krw": 1677.44,
-    "price_change_24h": -1.46547,
-    "price_change_7d": 2.36025,
-    "price_change_30d": 0.40315,
-    "market_cap_usd": 70930883736,
+    "price_krw": 1682.55,
+    "price_change_24h": -0.67667,
+    "price_change_7d": 2.66404,
+    "price_change_30d": 0.8016,
+    "market_cap_usd": 71147582340,
     "market_cap_rank": 6,
-    "volume_24h": 1117196414,
+    "volume_24h": 1084510824,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 72.84,
-    "sentiment_votes_down": 27.16,
+    "sentiment_votes_up": 72.5,
+    "sentiment_votes_down": 27.5,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 14.41,
-    "recent_tps": 14.41,
-    "recent_tx_count": 1297,
+    "tps_24h_avg": 18.02,
+    "recent_tps": 18.02,
+    "recent_tx_count": 1622,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 105780526,
+    "ledger_seq": 105781718,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-22 20:18:47 KST",
+    "updated_at": "2026-07-22 21:34:55 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -48,9 +48,9 @@
   },
   "etf_news": [
     {
-      "title": "비트코인·이더리움·리플 회복 둔화…ETF 유입에도 美·이란 충돌 부담",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5pbG82SFhqNmNsZlp6VjJRODAyMUUwUExjOE1uMDBrUExlR3JlZjBoNEZVRm9jWS1wTjk3RzNiSGk3RzA1UU5wQmRn?oc=5",
-      "date": "Wed, 22 Jul 2026 11:09:00 GMT",
+      "title": "리플(XRP) 1.14달러 회복…숏 스퀴즈·ETF 유입 속 클래러티법 주목",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBURUhGYkJiZVNTb1ZRelhqX2xjYVNZNkpENkU0cHlEMkpkZmVPMng4bzQzRWI4OG1xLVNYWUZHT0Nxdk9zNXBseQ?oc=5",
+      "date": "Wed, 22 Jul 2026 21:25:00 GMT",
       "source": "코인리더스",
       "score": 0
     },
@@ -92,18 +92,11 @@
   ],
   "general_news": [
     {
-      "title": "엑스알피(리플) 시세↓... \"클래리티법 통과 가능성에 5배 폭등\"",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBRME1Yam5DMXdJWHRnVlVWdVdhUjFYejVYdWpTY21WM2RUSl8xU1A4enFjOFNoaml6UF9OZjcwYW8zSWUweW5aUDd3X3dJZk50S1U1VFozYVlaVEExZzZDQi11V1JlN3JZX3BHTktn?oc=5",
-      "date": "Wed, 22 Jul 2026 15:01:00 GMT",
-      "source": "gukjenews.com",
-      "score": 2
-    },
-    {
-      "title": "XRP(리플), 매수세 '꿈틀'...1.3달러 회복도 가능?",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBlRExQaGt2MWc4UHRpZS05VkFOemVnTlFRSFdLa2d2amR0d2JwSWlCUEZzZjdiMlpuRlVFVENBd0RFS3lZTGowZ0N3?oc=5",
-      "date": "Wed, 22 Jul 2026 14:40:00 GMT",
+      "title": "리플(XRP) 1.14달러 회복…숏 스퀴즈·ETF 유입 속 클래러티법 주목",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBURUhGYkJiZVNTb1ZRelhqX2xjYVNZNkpENkU0cHlEMkpkZmVPMng4bzQzRWI4OG1xLVNYWUZHT0Nxdk9zNXBseQ?oc=5",
+      "date": "Wed, 22 Jul 2026 21:25:00 GMT",
       "source": "코인리더스",
-      "score": 2
+      "score": 3
     },
     {
       "title": "Ripple XRP(XRPUSD) 종목이 7월22일에 갑자기 1.27% 하락한 상황에서 무엇을 주목해야 할까요?",
@@ -141,6 +134,20 @@
       "score": 2
     },
     {
+      "title": "엑스알피(리플) 시세 강세...‘클래리티법' 승인으로 20달러 전망",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoOTh5Mi1mUjc2VGg4V1p1RVFsWVNxREgwbVloQk4tZ3lNQVF0QUtVeWtkSVZ2dHZESV9pR0RJSzFSOXdtdVREOHRPOGRCRGNWMUdnYXVLQ2tkRFE1R1hJMTRjWGpyS0hRSk5CblZn?oc=5",
+      "date": "Tue, 21 Jul 2026 15:01:00 GMT",
+      "source": "gukjenews.com",
+      "score": 2
+    },
+    {
+      "title": "그레이스케일마저 암호화폐 리플(XRP) 극찬했는데... 코인 시장은 왜 조용할까?",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YeEJmTWhrc09HWVhsRC1Ob0ZLTnY2MU4tVWdwd1dtdjFVc0doTGpYSVhjMG1vLU5yTVdQaDRzSWFsSUFmeWh2Nmo4Q2pNWl9sMEVBcld3?oc=5",
+      "date": "Tue, 21 Jul 2026 06:27:00 GMT",
+      "source": "위키트리",
+      "score": 2
+    },
+    {
       "title": "리플, 마스터카드·JP모건과 기관 결제망 공략…XRP·RLUSD 투트랙 전략",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KalVWS1lXdVBpQ0xCNE5oXzZnenlMRUg2NU8wa1g2WEpfYXBYRGVwWWcyd3UyR05paUotcEZiWHJvWFN1UVlhaEhEdWJqVGp5dXFzMGp4eE9IRWhtdEU4eTNMTEhNcThfNTlTWU1tUHBkc3M?oc=5",
       "date": "Tue, 21 Jul 2026 01:04:46 GMT",
@@ -153,13 +160,6 @@
       "date": "Tue, 21 Jul 2026 00:06:14 GMT",
       "source": "핀포인트뉴스",
       "score": 3
-    },
-    {
-      "title": "\"월가 금융 거래까지 XRP 레저로\"...리플, 기관 결제망 확장",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5XazVXcG5DS1JZUkpuUWR1U3doeExLd3RlN1BPTk9Hb2hFSWtxWXA2LTdjc2U0YWg3cDVfMks1aU9Uakt4ZXVfTGdB?oc=5",
-      "date": "Mon, 20 Jul 2026 18:40:00 GMT",
-      "source": "코인리더스",
-      "score": 4
     }
   ]
 }
