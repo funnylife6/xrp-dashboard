@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-22T14:32:08",
+  "generated_at": "2026-07-22T16:16:10",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.14,
-    "price_krw": 1681.78,
-    "price_change_24h": -0.65669,
-    "price_change_7d": 1.66653,
-    "price_change_30d": -1.99056,
-    "market_cap_usd": 71113042799,
+    "price_usd": 1.15,
+    "price_krw": 1699.84,
+    "price_change_24h": -0.24003,
+    "price_change_7d": 2.25732,
+    "price_change_30d": 1.0688,
+    "market_cap_usd": 71877768344,
     "market_cap_rank": 6,
-    "volume_24h": 1304527018,
+    "volume_24h": 1261120620,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 80.2,
-    "sentiment_votes_down": 19.8,
+    "sentiment_votes_up": 78.35,
+    "sentiment_votes_down": 21.65,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 22.76,
-    "recent_tps": 22.76,
-    "recent_tx_count": 2048,
+    "tps_24h_avg": 16.39,
+    "recent_tps": 16.39,
+    "recent_tx_count": 1459,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 105775116,
+    "recent_window_sec": 89,
+    "ledger_seq": 105776734,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-22 14:32:00 KST",
+    "updated_at": "2026-07-22 16:15:56 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,6 +92,20 @@
   ],
   "general_news": [
     {
+      "title": "엑스알피(리플) 시세↓... \"클래리티법 통과 가능성에 5배 폭등\"",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBRME1Yam5DMXdJWHRnVlVWdVdhUjFYejVYdWpTY21WM2RUSl8xU1A4enFjOFNoaml6UF9OZjcwYW8zSWUweW5aUDd3X3dJZk50S1U1VFozYVlaVEExZzZDQi11V1JlN3JZX3BHTktn?oc=5",
+      "date": "Wed, 22 Jul 2026 15:01:00 GMT",
+      "source": "gukjenews.com",
+      "score": 2
+    },
+    {
+      "title": "XRP(리플), 매수세 '꿈틀'...1.3달러 회복도 가능?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBlRExQaGt2MWc4UHRpZS05VkFOemVnTlFRSFdLa2d2amR0d2JwSWlCUEZzZjdiMlpuRlVFVENBd0RFS3lZTGowZ0N3?oc=5",
+      "date": "Wed, 22 Jul 2026 14:40:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
       "title": "XRP, 이중 골든크로스 완성…1.13달러 돌파",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5zTjRfWjVqS2swVXQ0ZVRyWER5MkZ1Wm9ZVEFXNlluQi02Tm4xV0JOb0dLM3JCeC1TSE81M0ZwNTh0c09Xa0dNZThKdjVpb2oyRHBIeW1sOUxDcFAya2FiQWpvLVF1VTRQZDNkWTdTZTZ6NmM?oc=5",
       "date": "Wed, 22 Jul 2026 13:24:20 GMT",
@@ -113,13 +127,6 @@
       "score": 2
     },
     {
-      "title": "XRP 고래 지갑 매집 강화...대형 투자자 움직임이 상승장 시그널?",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DamtwcTFUZzVMeXZuNEcxaHQyTVB5VWJZaXQ0NE9Eb3puUGxkWjJsUnUyMzdDczVFTmQtdXdYY1hzM01xOTIza2hlQ2hCV01ZWHNkQ0tFZnpYV09tSVMwNU1jLUlST0tGNGJDT0dPZlc?oc=5",
-      "date": "Wed, 22 Jul 2026 00:26:58 GMT",
-      "source": "블록체인투데이",
-      "score": 2
-    },
-    {
       "title": "비트코인 1개월만에 최고치…코인관련주도 반등",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96U1dBMGlQTDBVS2NQVTVSSkxsTWhFOVc0UmQ1RTUwQ3N6U1pKaEZ0RHg2V3ZZU21TOFBNaTFkWVppT2VXSEd6QkFwZEsyLXRFTmFyVkg2Mmx6NUlrV3d0eTBVejEwV25xQlRYVW00UXnSAXRBVV95cUxQb1NhemtkQ0hRMF9peTNZLVBDLXU0SXFpSGR6dG5MM001aDBvc2U4VHhoaElUVUZRMzlMLVhpTmlqX3BmSjNkLWl6cmZSMGxZNF9XZ004ZWEteklHWGlyY2hTWmlTSTRmZ05FY0ptSTdVdEdVTg?oc=5",
       "date": "Tue, 21 Jul 2026 23:54:00 GMT",
@@ -132,13 +139,6 @@
       "date": "Tue, 21 Jul 2026 22:28:17 GMT",
       "source": "톱스타뉴스",
       "score": 3
-    },
-    {
-      "title": "리플(XRP), 다음 주 10억 개 쏟아낸다…가격 폭락으로 이어질까?",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBOQUd1S0NhU0FUZmdleHpHOE1ING11Wkc3Z0NaMnZOdDZNeEdmb1I3enRDSmN6MUFmak5sYW9QMkRxNnppNGVwRXBR?oc=5",
-      "date": "Tue, 21 Jul 2026 21:57:00 GMT",
-      "source": "코인리더스",
-      "score": 2
     },
     {
       "title": "매달 10억 개 쏟아지는 물량 벽…리플(XRP), 언제쯤 에스크로 압박 벗어날까",
