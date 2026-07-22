@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-22T12:10:33",
+  "generated_at": "2026-07-22T14:32:08",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.14,
-    "price_krw": 1682.52,
-    "price_change_24h": 0.14951,
-    "price_change_7d": 2.63471,
-    "price_change_30d": -0.89279,
-    "market_cap_usd": 71008082925,
+    "price_krw": 1681.78,
+    "price_change_24h": -0.65669,
+    "price_change_7d": 1.66653,
+    "price_change_30d": -1.99056,
+    "market_cap_usd": 71113042799,
     "market_cap_rank": 6,
-    "volume_24h": 1334367915,
+    "volume_24h": 1304527018,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 80.53,
-    "sentiment_votes_down": 19.47,
+    "sentiment_votes_up": 80.2,
+    "sentiment_votes_down": 19.8,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 13.09,
-    "recent_tps": 13.09,
-    "recent_tx_count": 1165,
+    "tps_24h_avg": 22.76,
+    "recent_tps": 22.76,
+    "recent_tx_count": 2048,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 105772898,
+    "recent_window_sec": 90,
+    "ledger_seq": 105775116,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-22 12:10:25 KST",
+    "updated_at": "2026-07-22 14:32:00 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,17 +92,24 @@
   ],
   "general_news": [
     {
+      "title": "XRP, 이중 골든크로스 완성…1.13달러 돌파",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5zTjRfWjVqS2swVXQ0ZVRyWER5MkZ1Wm9ZVEFXNlluQi02Tm4xV0JOb0dLM3JCeC1TSE81M0ZwNTh0c09Xa0dNZThKdjVpb2oyRHBIeW1sOUxDcFAya2FiQWpvLVF1VTRQZDNkWTdTZTZ6NmM?oc=5",
+      "date": "Wed, 22 Jul 2026 13:24:20 GMT",
+      "source": "디지털투데이",
+      "score": 2
+    },
+    {
+      "title": "Ripple XRP(XRPUSD) 종목이 7월22일에 갑자기 1.27% 하락한 상황에서 무엇을 주목해야 할까요?",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdEdlMDg3YWVYUEdPcG8xczczcDNoNzR6SkR2UTB1eE1STDZNUDl3Yzc1NnZWNTdFTmF2ZTYtUlI3RWota25nUklFcjhEaWFCNnpuQTljX1VkWGRlYnFJZUh4aUxVeVVWOVVUX1BnX3NWdXR3LWhLS0FaaFhhRS01QTczTlo4UTlCR1NraUJmR3Badw?oc=5",
+      "date": "Wed, 22 Jul 2026 05:26:21 GMT",
+      "source": "TradingKey",
+      "score": 2
+    },
+    {
       "title": "[분석] \"엑스알피, 5주간 고래 보유량 2.8% 확대…추가 상승 뒷받침\"",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFRDN5b1IzVGZRc3IzMkU5ODAxRjNvYUM2VFRoOXd0UkdSRGtFTWM0NEtqSkhsejVFUkNLVzNwZ0ZCYWF3NlhxaHFleHZwdk9a?oc=5",
       "date": "Wed, 22 Jul 2026 05:02:48 GMT",
       "source": "블루밍비트",
-      "score": 2
-    },
-    {
-      "title": "리플 전 CTO \"XRP 너무 일찍 팔았다…당시 선택 후회\"",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42SDQzOWgxRFZlWW5ObXJibEJ6THNxakg1TU83OWZzMkl2TW9KNEt1SGFZSkx1dUdoRUdoMlBveFh3X2tfY2x5Wmx2eVJLVUZhNWJaV3kwNUhTUE9LVEdjV3ZzZmhiUFdiX2l3MUpZLW5pRkE?oc=5",
-      "date": "Wed, 22 Jul 2026 01:13:00 GMT",
-      "source": "디지털투데이",
       "score": 2
     },
     {
@@ -139,13 +146,6 @@
       "date": "Tue, 21 Jul 2026 21:30:00 GMT",
       "source": "코인리더스",
       "score": 3
-    },
-    {
-      "title": "호재가 모두 나왔는데도...리플(XRP) 가격은 고점 대비 반 토막",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE95SXgtdGJDVHZMRGJyb0lRZDJVNHhYS05yc2tZY3NTUkNRSjNZZDdoZVBBdU5ldVJieTQ3Umd0cnM4cV9lX3VQWF9R?oc=5",
-      "date": "Tue, 21 Jul 2026 21:25:00 GMT",
-      "source": "코인리더스",
-      "score": 2
     },
     {
       "title": "리플, 마스터카드·JP모건과 기관 결제망 공략…XRP·RLUSD 투트랙 전략",
