@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-22T07:53:23",
+  "generated_at": "2026-07-22T10:18:12",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.13,
-    "price_krw": 1671.04,
-    "price_change_24h": -0.36367,
-    "price_change_7d": 1.95355,
-    "price_change_30d": 0.06707,
-    "market_cap_usd": 70557704930,
+    "price_krw": 1679.77,
+    "price_change_24h": 0.0669,
+    "price_change_7d": 2.36228,
+    "price_change_30d": 0.06089,
+    "market_cap_usd": 70830703991,
     "market_cap_rank": 6,
-    "volume_24h": 1364990347,
+    "volume_24h": 1304389355,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 81.1,
-    "sentiment_votes_down": 18.9,
+    "sentiment_votes_up": 81.36,
+    "sentiment_votes_down": 18.64,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 15.06,
-    "recent_tps": 15.06,
-    "recent_tx_count": 1340,
+    "tps_24h_avg": 10.77,
+    "recent_tps": 10.77,
+    "recent_tx_count": 969,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 105768848,
+    "recent_window_sec": 90,
+    "ledger_seq": 105771127,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-22 07:53:16 KST",
+    "updated_at": "2026-07-22 10:18:02 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -141,13 +141,6 @@
       "score": 2
     },
     {
-      "title": "그레이스케일마저 암호화폐 리플(XRP) 극찬했는데... 코인 시장은 왜 조용할까?",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YeEJmTWhrc09HWVhsRC1Ob0ZLTnY2MU4tVWdwd1dtdjFVc0doTGpYSVhjMG1vLU5yTVdQaDRzSWFsSUFmeWh2Nmo4Q2pNWl9sMEVBcld3?oc=5",
-      "date": "Tue, 21 Jul 2026 06:27:00 GMT",
-      "source": "위키트리",
-      "score": 2
-    },
-    {
       "title": "리플, 마스터카드·JP모건과 기관 결제망 공략…XRP·RLUSD 투트랙 전략",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KalVWS1lXdVBpQ0xCNE5oXzZnenlMRUg2NU8wa1g2WEpfYXBYRGVwWWcyd3UyR05paUotcEZiWHJvWFN1UVlhaEhEdWJqVGp5dXFzMGp4eE9IRWhtdEU4eTNMTEhNcThfNTlTWU1tUHBkc3M?oc=5",
       "date": "Tue, 21 Jul 2026 01:04:46 GMT",
@@ -159,6 +152,13 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZXhma3BVWmczUlVTRFd4WVI1Nk5EdE1PUVJlNUJyQm12TnB0SzREVjdmQWk4S0JVX0FUNWpyR0FkT21jcEVIU3pUYXQ2d2h5OHVyY1ZtcDdHSEFMR2ozSU9LMmNVTE1ZdlJxOEhaNkdUWVVzVlRQVGRMQXBFTy1KNjVRQnNmN3Vy?oc=5",
       "date": "Mon, 20 Jul 2026 22:04:04 GMT",
       "source": "글로벌이코노믹",
+      "score": 3
+    },
+    {
+      "title": "“XRP·RLUSD 없으면 금융 마비”... 리플 수석부사장의 충격적 독점 선언",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJYXV2bzhmbHFNYUFORkUtRkFjalBfSGVTMFdmaFk3d0dOMl9lekpuMnNtUmtHUGZGaUd1QmhLNVlGQmhjS2xRa1VjaXVMelJ5bDYtMTFVVDZpTlQ0U0pyOEh0dVZ2MUYzOGFhZW41WldmcmPSAXdBVV95cUxOaUd6Z1I1WjNKNHVMc3ltbE1vZHV5SzU3enQ5OWJHRzhDR0NVZDl2S0xVTHNpTWNpd0l0Y2l3NzAzMGg3MTlpQjZxUV9vQkhxMEduU1NXd2FNbVZ0NDRNM3BERmR6ZnNQTFk1WnhQekJ5cGNtZjEtZw?oc=5",
+      "date": "Mon, 20 Jul 2026 21:42:53 GMT",
+      "source": "핀포인트뉴스",
       "score": 3
     }
   ]
