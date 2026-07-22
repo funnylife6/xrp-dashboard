@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-22T10:18:12",
+  "generated_at": "2026-07-22T12:10:33",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.13,
-    "price_krw": 1679.77,
-    "price_change_24h": 0.0669,
-    "price_change_7d": 2.36228,
-    "price_change_30d": 0.06089,
-    "market_cap_usd": 70830703991,
+    "price_usd": 1.14,
+    "price_krw": 1682.52,
+    "price_change_24h": 0.14951,
+    "price_change_7d": 2.63471,
+    "price_change_30d": -0.89279,
+    "market_cap_usd": 71008082925,
     "market_cap_rank": 6,
-    "volume_24h": 1304389355,
+    "volume_24h": 1334367915,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 81.36,
-    "sentiment_votes_down": 18.64,
+    "sentiment_votes_up": 80.53,
+    "sentiment_votes_down": 19.47,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 10.77,
-    "recent_tps": 10.77,
-    "recent_tx_count": 969,
+    "tps_24h_avg": 13.09,
+    "recent_tps": 13.09,
+    "recent_tx_count": 1165,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 105771127,
+    "recent_window_sec": 89,
+    "ledger_seq": 105772898,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-22 10:18:02 KST",
+    "updated_at": "2026-07-22 12:10:25 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -47,6 +47,13 @@
     "data_source": "news_parse"
   },
   "etf_news": [
+    {
+      "title": "비트코인·이더리움·리플 회복 둔화…ETF 유입에도 美·이란 충돌 부담",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5pbG82SFhqNmNsZlp6VjJRODAyMUUwUExjOE1uMDBrUExlR3JlZjBoNEZVRm9jWS1wTjk3RzNiSGk3RzA1UU5wQmRn?oc=5",
+      "date": "Wed, 22 Jul 2026 11:09:00 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
     {
       "title": "SOL·XRP 현물 ETF 순유입...HYPE는 순유출",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1SUVBPaVV1YkFHLXBOVzZFOGZzdjZQX2JEcjlBY2FSTTFyT3d0NjNOVmlzdDczVkR1X2dqMFNtQUx5WXZqYy1iUExR?oc=5",
@@ -81,13 +88,6 @@
       "date": "Mon, 20 Jul 2026 13:02:00 GMT",
       "source": "코인리더스",
       "score": 0
-    },
-    {
-      "title": "XRP 현물 ETF 지난주 순유입 678.47만 달러",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yUHB6UXAyNlNCdkxycU9mTE03YzZyZ1drR0tjZnZ3ZmJsQ1RYUTB3Ymt1dmJsQUJzbUxvZWN5LWNwYzJLa29lWmpMbGVjZldDMHhNSVZ1MjJ6djRMcVhRLTVfclpCWWFxVU90UTBQX0Z5bURCMlRpN0pFMldwU3c?oc=5",
-      "date": "Mon, 20 Jul 2026 05:21:18 GMT",
-      "source": "PANews",
-      "score": 0
     }
   ],
   "general_news": [
@@ -110,6 +110,13 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DamtwcTFUZzVMeXZuNEcxaHQyTVB5VWJZaXQ0NE9Eb3puUGxkWjJsUnUyMzdDczVFTmQtdXdYY1hzM01xOTIza2hlQ2hCV01ZWHNkQ0tFZnpYV09tSVMwNU1jLUlST0tGNGJDT0dPZlc?oc=5",
       "date": "Wed, 22 Jul 2026 00:26:58 GMT",
       "source": "블록체인투데이",
+      "score": 2
+    },
+    {
+      "title": "비트코인 1개월만에 최고치…코인관련주도 반등",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96U1dBMGlQTDBVS2NQVTVSSkxsTWhFOVc0UmQ1RTUwQ3N6U1pKaEZ0RHg2V3ZZU21TOFBNaTFkWVppT2VXSEd6QkFwZEsyLXRFTmFyVkg2Mmx6NUlrV3d0eTBVejEwV25xQlRYVW00UXnSAXRBVV95cUxQb1NhemtkQ0hRMF9peTNZLVBDLXU0SXFpSGR6dG5MM001aDBvc2U4VHhoaElUVUZRMzlMLVhpTmlqX3BmSjNkLWl6cmZSMGxZNF9XZ004ZWEteklHWGlyY2hTWmlTSTRmZ05FY0ptSTdVdEdVTg?oc=5",
+      "date": "Tue, 21 Jul 2026 23:54:00 GMT",
+      "source": "연합인포맥스",
       "score": 2
     },
     {
@@ -148,16 +155,9 @@
       "score": 4
     },
     {
-      "title": "\"XRP 클래리티 통과 땐 이더리움 뛰어넘는 기관 수요 유입\"",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZXhma3BVWmczUlVTRFd4WVI1Nk5EdE1PUVJlNUJyQm12TnB0SzREVjdmQWk4S0JVX0FUNWpyR0FkT21jcEVIU3pUYXQ2d2h5OHVyY1ZtcDdHSEFMR2ozSU9LMmNVTE1ZdlJxOEhaNkdUWVVzVlRQVGRMQXBFTy1KNjVRQnNmN3Vy?oc=5",
-      "date": "Mon, 20 Jul 2026 22:04:04 GMT",
-      "source": "글로벌이코노믹",
-      "score": 3
-    },
-    {
       "title": "“XRP·RLUSD 없으면 금융 마비”... 리플 수석부사장의 충격적 독점 선언",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJYXV2bzhmbHFNYUFORkUtRkFjalBfSGVTMFdmaFk3d0dOMl9lekpuMnNtUmtHUGZGaUd1QmhLNVlGQmhjS2xRa1VjaXVMelJ5bDYtMTFVVDZpTlQ0U0pyOEh0dVZ2MUYzOGFhZW41WldmcmPSAXdBVV95cUxOaUd6Z1I1WjNKNHVMc3ltbE1vZHV5SzU3enQ5OWJHRzhDR0NVZDl2S0xVTHNpTWNpd0l0Y2l3NzAzMGg3MTlpQjZxUV9vQkhxMEduU1NXd2FNbVZ0NDRNM3BERmR6ZnNQTFk1WnhQekJ5cGNtZjEtZw?oc=5",
-      "date": "Mon, 20 Jul 2026 21:42:53 GMT",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5pR3pnUjVaM0o0dUxzeW1sTW9kdXlLNTd6dDk5YkdHOENHQ1VkOXZLTFVMc2lNY2l3SXRjaXc3MDMwaDcxOWlCNnFRX29CSHEwR25TU1d3YU1tVnQ0NE0zcERGZHpmc1BMWTVaeFB6QnlwY21mMS1n0gF3QVVfeXFMTmlHemdSNVozSjR1THN5bWxNb2R1eUs1N3p0OTliR0c4Q0dDVWQ5dktMVUxzaU1jaXdJdGNpdzcwMzBoNzE5aUI2cVFfb0JIcTBHblNTV3dhTW1WdDQ0TTNwREZkemZzUExZNVp4UHpCeXBjbWYxLWc?oc=5",
+      "date": "Tue, 21 Jul 2026 00:06:14 GMT",
       "source": "핀포인트뉴스",
       "score": 3
     }
