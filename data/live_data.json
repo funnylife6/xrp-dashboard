@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-22T17:47:29",
+  "generated_at": "2026-07-22T19:00:14",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.15,
-    "price_krw": 1696.46,
-    "price_change_24h": -0.72291,
-    "price_change_7d": 3.20229,
-    "price_change_30d": 1.03431,
-    "market_cap_usd": 71713472751,
+    "price_usd": 1.14,
+    "price_krw": 1686.73,
+    "price_change_24h": -1.18695,
+    "price_change_7d": 2.1812,
+    "price_change_30d": 0.268,
+    "market_cap_usd": 71296381080,
     "market_cap_rank": 6,
-    "volume_24h": 1227453760,
+    "volume_24h": 1150614654,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 76.47,
-    "sentiment_votes_down": 23.53,
+    "sentiment_votes_up": 75.31,
+    "sentiment_votes_down": 24.69,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 15.52,
-    "recent_tps": 15.52,
-    "recent_tx_count": 1381,
+    "tps_24h_avg": 14.38,
+    "recent_tps": 14.38,
+    "recent_tx_count": 1280,
     "recent_ledger_count": 24,
     "recent_window_sec": 89,
-    "ledger_seq": 105778160,
+    "ledger_seq": 105779294,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-22 17:47:16 KST",
+    "updated_at": "2026-07-22 19:00:02 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -99,16 +99,9 @@
       "score": 2
     },
     {
-      "title": "XRP, 이중 골든크로스 완성…1.13달러 돌파",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5zTjRfWjVqS2swVXQ0ZVRyWER5MkZ1Wm9ZVEFXNlluQi02Tm4xV0JOb0dLM3JCeC1TSE81M0ZwNTh0c09Xa0dNZThKdjVpb2oyRHBIeW1sOUxDcFAya2FiQWpvLVF1VTRQZDNkWTdTZTZ6NmM?oc=5",
-      "date": "Wed, 22 Jul 2026 13:24:20 GMT",
-      "source": "디지털투데이",
-      "score": 2
-    },
-    {
-      "title": "리플(XRP) 조정 끝나가나…거래량·미결제 약정 동반 증가",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9HNmVvaXdudzRjY0hIXzN4M0k3bjJUaVBwZW04dFF0U0MyLVdTU3Zxb2FFYUlHWmZxVFFVUEVfRC1kcGdhQjAzVWJn?oc=5",
-      "date": "Wed, 22 Jul 2026 12:38:00 GMT",
+      "title": "XRP(리플), 매수세 '꿈틀'...1.3달러 회복도 가능?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBlRExQaGt2MWc4UHRpZS05VkFOemVnTlFRSFdLa2d2amR0d2JwSWlCUEZzZjdiMlpuRlVFVENBd0RFS3lZTGowZ0N3?oc=5",
+      "date": "Wed, 22 Jul 2026 14:40:00 GMT",
       "source": "코인리더스",
       "score": 2
     },
@@ -160,6 +153,13 @@
       "date": "Tue, 21 Jul 2026 01:04:46 GMT",
       "source": "디지털투데이",
       "score": 4
+    },
+    {
+      "title": "“XRP·RLUSD 없으면 금융 마비”... 리플 수석부사장의 충격적 독점 선언",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5pR3pnUjVaM0o0dUxzeW1sTW9kdXlLNTd6dDk5YkdHOENHQ1VkOXZLTFVMc2lNY2l3SXRjaXc3MDMwaDcxOWlCNnFRX29CSHEwR25TU1d3YU1tVnQ0NE0zcERGZHpmc1BMWTVaeFB6QnlwY21mMS1n0gF3QVVfeXFMTmlHemdSNVozSjR1THN5bWxNb2R1eUs1N3p0OTliR0c4Q0dDVWQ5dktMVUxzaU1jaXdJdGNpdzcwMzBoNzE5aUI2cVFfb0JIcTBHblNTV3dhTW1WdDQ0TTNwREZkemZzUExZNVp4UHpCeXBjbWYxLWc?oc=5",
+      "date": "Tue, 21 Jul 2026 00:06:14 GMT",
+      "source": "핀포인트뉴스",
+      "score": 3
     }
   ]
 }
