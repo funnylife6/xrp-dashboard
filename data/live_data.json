@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-22T01:54:20",
+  "generated_at": "2026-07-22T05:13:20",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.14,
-    "price_krw": 1692.81,
-    "price_change_24h": 2.63155,
-    "price_change_7d": 2.91381,
-    "price_change_30d": 0.70409,
-    "market_cap_usd": 71447725852,
+    "price_krw": 1689.78,
+    "price_change_24h": 0.62937,
+    "price_change_7d": 3.34256,
+    "price_change_30d": 0.74002,
+    "market_cap_usd": 71233404494,
     "market_cap_rank": 6,
-    "volume_24h": 1480823329,
+    "volume_24h": 1414102082,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 81.45,
-    "sentiment_votes_down": 18.55,
+    "sentiment_votes_up": 81.4,
+    "sentiment_votes_down": 18.6,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 11.86,
-    "recent_tps": 11.86,
-    "recent_tx_count": 961,
+    "tps_24h_avg": 14.22,
+    "recent_tps": 14.22,
+    "recent_tx_count": 1280,
     "recent_ledger_count": 24,
-    "recent_window_sec": 81,
-    "ledger_seq": 105763187,
+    "recent_window_sec": 90,
+    "ledger_seq": 105766326,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-22 01:54:09 KST",
+    "updated_at": "2026-07-22 05:13:11 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,6 +92,13 @@
   ],
   "general_news": [
     {
+      "title": "[분석] \"엑스알피, 5주간 고래 보유량 2.8% 확대…추가 상승 뒷받침\"",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFRDN5b1IzVGZRc3IzMkU5ODAxRjNvYUM2VFRoOXd0UkdSRGtFTWM0NEtqSkhsejVFUkNLVzNwZ0ZCYWF3NlhxaHFleHZwdk9a?oc=5",
+      "date": "Wed, 22 Jul 2026 05:02:48 GMT",
+      "source": "블루밍비트",
+      "score": 2
+    },
+    {
       "title": "리플 전 CTO \"XRP 너무 일찍 팔았다…당시 선택 후회\"",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42SDQzOWgxRFZlWW5ObXJibEJ6THNxakg1TU83OWZzMkl2TW9KNEt1SGFZSkx1dUdoRUdoMlBveFh3X2tfY2x5Wmx2eVJLVUZhNWJaV3kwNUhTUE9LVEdjV3ZzZmhiUFdiX2l3MUpZLW5pRkE?oc=5",
       "date": "Wed, 22 Jul 2026 01:13:00 GMT",
@@ -99,10 +106,10 @@
       "score": 2
     },
     {
-      "title": "리플 생태계에서 AI 에이전트 기반 거래가 1천만 건 돌파 임박, 차세대 자율 결제 경제 시대 도래하나",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5YXk3Rl9FY0dWbVdKclBaY2FRa2FsbG5hTnIzQk9yOWpNY0U2VGU4S2wtODFjQ2VqZXJ4SG90bWlHXzNuVDFOZTZJZ1N5eWhMX1hqTGtFMVJKN0d3MElaSjF1cVBVSEg1dDY1a2luQ0c?oc=5",
-      "date": "Wed, 22 Jul 2026 00:16:15 GMT",
-      "source": "블록체인투데이",
+      "title": "비트코인 1개월만에 최고치…코인관련주도 반등",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96U1dBMGlQTDBVS2NQVTVSSkxsTWhFOVc0UmQ1RTUwQ3N6U1pKaEZ0RHg2V3ZZU21TOFBNaTFkWVppT2VXSEd6QkFwZEsyLXRFTmFyVkg2Mmx6NUlrV3d0eTBVejEwV25xQlRYVW00UXnSAXRBVV95cUxQb1NhemtkQ0hRMF9peTNZLVBDLXU0SXFpSGR6dG5MM001aDBvc2U4VHhoaElUVUZRMzlMLVhpTmlqX3BmSjNkLWl6cmZSMGxZNF9XZ004ZWEteklHWGlyY2hTWmlTSTRmZ05FY0ptSTdVdEdVTg?oc=5",
+      "date": "Tue, 21 Jul 2026 23:54:00 GMT",
+      "source": "연합인포맥스",
       "score": 2
     },
     {
@@ -153,13 +160,6 @@
       "date": "Tue, 21 Jul 2026 00:06:14 GMT",
       "source": "핀포인트뉴스",
       "score": 3
-    },
-    {
-      "title": "\"월가 금융 거래까지 XRP 레저로\"...리플, 기관 결제망 확장",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5XazVXcG5DS1JZUkpuUWR1U3doeExLd3RlN1BPTk9Hb2hFSWtxWXA2LTdjc2U0YWg3cDVfMks1aU9Uakt4ZXVfTGdB?oc=5",
-      "date": "Mon, 20 Jul 2026 18:40:00 GMT",
-      "source": "코인리더스",
-      "score": 4
     }
   ]
 }
