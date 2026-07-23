@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-23T12:19:33",
+  "generated_at": "2026-07-23T14:39:38",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.13,
-    "price_krw": 1666.99,
-    "price_change_24h": -0.32878,
-    "price_change_7d": 2.15418,
-    "price_change_30d": 2.19517,
-    "market_cap_usd": 70729679533,
+    "price_usd": 1.11,
+    "price_krw": 1639.47,
+    "price_change_24h": -2.43601,
+    "price_change_7d": 0.23124,
+    "price_change_30d": 1.02147,
+    "market_cap_usd": 69480233185,
     "market_cap_rank": 6,
-    "volume_24h": 911223430,
+    "volume_24h": 982868066,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
@@ -22,16 +22,16 @@
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 21.97,
-    "recent_tps": 21.97,
-    "recent_tx_count": 1977,
+    "tps_24h_avg": 15.88,
+    "recent_tps": 15.88,
+    "recent_tx_count": 1413,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 105795613,
+    "recent_window_sec": 89,
+    "ledger_seq": 105797795,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-23 12:19:26 KST",
+    "updated_at": "2026-07-23 14:39:31 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -141,6 +141,13 @@
       "score": 3
     },
     {
+      "title": "속보 | 비트멕스, 9/23 운영 종료",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9DWTFaNUY1a3Q3OHVDYU9NU3FxR2pzV1k2ODRiTjJzVGhTM0lIY1NhSXNDYy15Q3YyeDZ6bjN3cE1tczFGRnpEVGt2Yy01QkZD?oc=5",
+      "date": "Wed, 22 Jul 2026 16:06:00 GMT",
+      "source": "CoinNess",
+      "score": 8
+    },
+    {
       "title": "엑스알피(리플) 시세↓... \"클래리티법 통과 가능성에 5배 폭등\"",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBRME1Yam5DMXdJWHRnVlVWdVdhUjFYejVYdWpTY21WM2RUSl8xU1A4enFjOFNoaml6UF9OZjcwYW8zSWUweW5aUDd3X3dJZk50S1U1VFozYVlaVEExZzZDQi11V1JlN3JZX3BHTktn?oc=5",
       "date": "Wed, 22 Jul 2026 15:01:00 GMT",
@@ -153,13 +160,6 @@
       "date": "Tue, 21 Jul 2026 22:28:17 GMT",
       "source": "톱스타뉴스",
       "score": 3
-    },
-    {
-      "title": "\"1달러 붕괴 전 '불트랩'인가\"… 리플(XRP) 반등 속 데드크로스 경고등",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOC1tSGt4c3dPVGhDQUkxdktWa2hZWG9rRHhRdTZzVl82V3BDcnl1R2ZzZ1J0d29JWEJxb3RwR2VpN3NKc1VJMFo1YnRJRjloNzJ4SVdfVUY5YlNlbm1kR0RvdTlWNmUwMHBNRFZEcDhHTnRxbHdiZ2J0ajFaT0lQOU5NUi01Wm41?oc=5",
-      "date": "Tue, 21 Jul 2026 18:37:19 GMT",
-      "source": "글로벌이코노믹",
-      "score": 2
     }
   ]
 }
