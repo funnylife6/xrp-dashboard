@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-23T17:53:54",
+  "generated_at": "2026-07-23T19:02:40",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.11,
-    "price_krw": 1630.29,
-    "price_change_24h": -3.76565,
-    "price_change_7d": -0.14492,
-    "price_change_30d": 0.46718,
-    "market_cap_usd": 69094498051,
+    "price_usd": 1.1,
+    "price_krw": 1629.45,
+    "price_change_24h": -3.28789,
+    "price_change_7d": 0.96143,
+    "price_change_30d": 0.62555,
+    "market_cap_usd": 68978706156,
     "market_cap_rank": 6,
-    "volume_24h": 982057338,
+    "volume_24h": 995021765,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 74.39,
-    "sentiment_votes_down": 25.61,
+    "sentiment_votes_up": 74.36,
+    "sentiment_votes_down": 25.64,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 46.63,
-    "recent_tps": 46.63,
-    "recent_tx_count": 4197,
+    "tps_24h_avg": 26.13,
+    "recent_tps": 26.13,
+    "recent_tx_count": 2143,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 105800822,
+    "recent_window_sec": 82,
+    "ledger_seq": 105801893,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-23 17:53:47 KST",
+    "updated_at": "2026-07-23 19:02:29 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -99,11 +99,11 @@
       "score": 2
     },
     {
-      "title": "현물 ETF 자금 몰리는데 비트코인·이더리움·리플 왜 떨어졌나?",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1CNFFteXhmZ3M1Q25NZkNDZThUMHRoMUhRT3FkOUg0Y3lPZWg2cnM0NWx5SnBrQU9GMDlaVGd6SkZEZHRfYVh3MS1R?oc=5",
-      "date": "Thu, 23 Jul 2026 11:56:00 GMT",
-      "source": "코인리더스",
-      "score": 4
+      "title": "리플, 브라질서 UDAX 가동…XRP 레저 장기 확장 나섰다",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zdmgwUGxzWEo3UUlnUHVPZ1hKV1Nrc3Y0bEZwMWVwOGdCeXVSb2RFdVVrMEhNOE9FemxtZms0cm5QVmtnb2VhSHFTdUQ0RlI4WjE4d2NZVmR2dEnSAWBBVV95cUxNMWp4V0czb2NuaE9yWmw1MUFzcXdjY2k4cU5YaGhuTjY1cnllOXJpR1U5U3NGRG1xM0tVNW0tNHk1Q085U2J5VGhhR3kwVzlJR1JIV3dETDg3UWtEcm9KNnY?oc=5",
+      "date": "Thu, 23 Jul 2026 15:30:35 GMT",
+      "source": "tokenpost.kr",
+      "score": 2
     },
     {
       "title": "리플X 엔지니어링 총괄 \"AI 에이전트, XRPL서 XRP로 서비스 사고판다\"",
@@ -155,11 +155,11 @@
       "score": 2
     },
     {
-      "title": "속보 | 샌티멘트 \"XRP 고래·상어 지갑 보유량 증가...상승세 뒷받침\"",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSUDdVcGJSY1R0X2MtbnZPRUwzeTlCeUwwMjNWQ29mMjlkZkVHNXR5cDQzMDY5VFZ4MXFibEJyWWIxcG5sWkVEbThWZFJvSU9o?oc=5",
-      "date": "Tue, 21 Jul 2026 06:57:00 GMT",
-      "source": "CoinNess",
-      "score": 9
+      "title": "리플, 마스터카드·JP모건과 기관 결제망 공략…XRP·RLUSD 투트랙 전략",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KalVWS1lXdVBpQ0xCNE5oXzZnenlMRUg2NU8wa1g2WEpfYXBYRGVwWWcyd3UyR05paUotcEZiWHJvWFN1UVlhaEhEdWJqVGp5dXFzMGp4eE9IRWhtdEU4eTNMTEhNcThfNTlTWU1tUHBkc3M?oc=5",
+      "date": "Tue, 21 Jul 2026 01:04:46 GMT",
+      "source": "디지털투데이",
+      "score": 4
     }
   ]
 }
