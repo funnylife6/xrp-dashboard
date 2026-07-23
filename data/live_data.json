@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-23T02:06:44",
+  "generated_at": "2026-07-23T05:38:04",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.14,
-    "price_krw": 1670.76,
-    "price_change_24h": -0.43348,
-    "price_change_7d": 2.23888,
-    "price_change_30d": 0.92667,
-    "market_cap_usd": 71083317930,
+    "price_krw": 1666.34,
+    "price_change_24h": 0.24523,
+    "price_change_7d": 2.13946,
+    "price_change_30d": 1.7591,
+    "market_cap_usd": 70995040264,
     "market_cap_rank": 6,
-    "volume_24h": 1013274110,
+    "volume_24h": 990308249,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 76.54,
-    "sentiment_votes_down": 23.46,
+    "sentiment_votes_up": 73.08,
+    "sentiment_votes_down": 26.92,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 20.38,
-    "recent_tps": 20.38,
-    "recent_tx_count": 1834,
+    "tps_24h_avg": 21.47,
+    "recent_tps": 21.47,
+    "recent_tx_count": 1911,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 105785960,
+    "recent_window_sec": 89,
+    "ledger_seq": 105789284,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-23 02:06:33 KST",
+    "updated_at": "2026-07-23 05:37:55 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,6 +92,13 @@
   ],
   "general_news": [
     {
+      "title": "클래리티 법안 진전에 규제 명확성 부각…美 기관 자금, XRP 향했다",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CWVR5MGl6Yno5cUVlYjRvMTR5T1ZaclA1bkdMZFJMdS1rV3o4SEVacUo2RjVHNnpYOXRZSUxkUmdIajA0bUpnYzVXQ2FhOEs5c3BJ?oc=5",
+      "date": "Thu, 23 Jul 2026 02:06:00 GMT",
+      "source": "네이트",
+      "score": 3
+    },
+    {
       "title": "리플X 엔지니어링 총괄 \"AI 에이전트, XRPL서 XRP로 서비스 사고판다\"",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JMHBxU3NNc0U0ckxnRm54TENhcFFfNHp4QS1oOVBOeFJZMTdFM1NfLWpsalJKWjEyVmZOWjFfUTNLblF1RmVQQnM5ZnFRZEQ4VG8w?oc=5",
       "date": "Thu, 23 Jul 2026 00:20:00 GMT",
@@ -103,7 +110,7 @@
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9ZUzJwbzZfUVNLc1Y0Q21keEVmeWstUTBub01ja3JHVEVXTThrSGdHR0xhVl9Ja3FvMTExS1VULUdTa0RBMXU0eXRR?oc=5",
       "date": "Thu, 23 Jul 2026 00:10:00 GMT",
       "source": "코인리더스",
-      "score": 2
+      "score": 3
     },
     {
       "title": "비트코인·이더리움·리플XRP 혼조…유가·금리에 거래 위축",
@@ -127,10 +134,17 @@
       "score": 3
     },
     {
-      "title": "Ripple XRP(XRPUSD) 종목이 7월22일에 갑자기 1.27% 하락한 상황에서 무엇을 주목해야 할까요?",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdEdlMDg3YWVYUEdPcG8xczczcDNoNzR6SkR2UTB1eE1STDZNUDl3Yzc1NnZWNTdFTmF2ZTYtUlI3RWota25nUklFcjhEaWFCNnpuQTljX1VkWGRlYnFJZUh4aUxVeVVWOVVUX1BnX3NWdXR3LWhLS0FaaFhhRS01QTczTlo4UTlCR1NraUJmR3Badw?oc=5",
-      "date": "Wed, 22 Jul 2026 05:26:21 GMT",
-      "source": "TradingKey",
+      "title": "엑스알피(리플) 시세↓... \"클래리티법 통과 가능성에 5배 폭등\"",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBRME1Yam5DMXdJWHRnVlVWdVdhUjFYejVYdWpTY21WM2RUSl8xU1A4enFjOFNoaml6UF9OZjcwYW8zSWUweW5aUDd3X3dJZk50S1U1VFozYVlaVEExZzZDQi11V1JlN3JZX3BHTktn?oc=5",
+      "date": "Wed, 22 Jul 2026 15:01:00 GMT",
+      "source": "gukjenews.com",
+      "score": 2
+    },
+    {
+      "title": "리플 전 CTO \"XRP 너무 일찍 팔았다…당시 선택 후회\"",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42SDQzOWgxRFZlWW5ObXJibEJ6THNxakg1TU83OWZzMkl2TW9KNEt1SGFZSkx1dUdoRUdoMlBveFh3X2tfY2x5Wmx2eVJLVUZhNWJaV3kwNUhTUE9LVEdjV3ZzZmhiUFdiX2l3MUpZLW5pRkE?oc=5",
+      "date": "Wed, 22 Jul 2026 01:13:00 GMT",
+      "source": "디지털투데이",
       "score": 2
     },
     {
@@ -141,25 +155,11 @@
       "score": 3
     },
     {
-      "title": "그레이스케일마저 암호화폐 리플(XRP) 극찬했는데... 코인 시장은 왜 조용할까?",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YeEJmTWhrc09HWVhsRC1Ob0ZLTnY2MU4tVWdwd1dtdjFVc0doTGpYSVhjMG1vLU5yTVdQaDRzSWFsSUFmeWh2Nmo4Q2pNWl9sMEVBcld3?oc=5",
-      "date": "Tue, 21 Jul 2026 06:27:00 GMT",
-      "source": "위키트리",
-      "score": 2
-    },
-    {
-      "title": "리플, 마스터카드·JP모건과 기관 결제망 공략…XRP·RLUSD 투트랙 전략",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KalVWS1lXdVBpQ0xCNE5oXzZnenlMRUg2NU8wa1g2WEpfYXBYRGVwWWcyd3UyR05paUotcEZiWHJvWFN1UVlhaEhEdWJqVGp5dXFzMGp4eE9IRWhtdEU4eTNMTEhNcThfNTlTWU1tUHBkc3M?oc=5",
-      "date": "Tue, 21 Jul 2026 01:04:46 GMT",
-      "source": "디지털투데이",
-      "score": 4
-    },
-    {
-      "title": "“XRP·RLUSD 없으면 금융 마비”... 리플 수석부사장의 충격적 독점 선언",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5pR3pnUjVaM0o0dUxzeW1sTW9kdXlLNTd6dDk5YkdHOENHQ1VkOXZLTFVMc2lNY2l3SXRjaXc3MDMwaDcxOWlCNnFRX29CSHEwR25TU1d3YU1tVnQ0NE0zcERGZHpmc1BMWTVaeFB6QnlwY21mMS1n0gF3QVVfeXFMTmlHemdSNVozSjR1THN5bWxNb2R1eUs1N3p0OTliR0c4Q0dDVWQ5dktMVUxzaU1jaXdJdGNpdzcwMzBoNzE5aUI2cVFfb0JIcTBHblNTV3dhTW1WdDQ0TTNwREZkemZzUExZNVp4UHpCeXBjbWYxLWc?oc=5",
-      "date": "Tue, 21 Jul 2026 00:06:14 GMT",
-      "source": "핀포인트뉴스",
-      "score": 3
+      "title": "속보 | 샌티멘트 \"XRP 고래·상어 지갑 보유량 증가...상승세 뒷받침\"",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSUDdVcGJSY1R0X2MtbnZPRUwzeTlCeUwwMjNWQ29mMjlkZkVHNXR5cDQzMDY5VFZ4MXFibEJyWWIxcG5sWkVEbThWZFJvSU9o?oc=5",
+      "date": "Tue, 21 Jul 2026 13:57:00 GMT",
+      "source": "CoinNess",
+      "score": 9
     }
   ]
 }
