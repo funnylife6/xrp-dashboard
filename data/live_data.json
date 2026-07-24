@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-24T10:31:55",
+  "generated_at": "2026-07-24T12:14:33",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.1,
-    "price_krw": 1613.84,
-    "price_change_24h": -2.655,
-    "price_change_7d": 1.90164,
-    "price_change_30d": 0.67584,
-    "market_cap_usd": 69021942974,
+    "price_krw": 1611.47,
+    "price_change_24h": -2.53617,
+    "price_change_7d": 1.78024,
+    "price_change_30d": 0.79944,
+    "market_cap_usd": 68914071932,
     "market_cap_rank": 6,
-    "volume_24h": 1111903380,
+    "volume_24h": 1150864024,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 66.1,
-    "sentiment_votes_down": 33.9,
+    "sentiment_votes_up": 63.08,
+    "sentiment_votes_down": 36.92,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 16.9,
-    "recent_tps": 16.9,
-    "recent_tx_count": 1386,
+    "tps_24h_avg": 24.01,
+    "recent_tps": 24.01,
+    "recent_tx_count": 2161,
     "recent_ledger_count": 24,
-    "recent_window_sec": 82,
-    "ledger_seq": 105816413,
+    "recent_window_sec": 90,
+    "ledger_seq": 105818015,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-24 10:31:48 KST",
+    "updated_at": "2026-07-24 12:14:23 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -47,6 +47,13 @@
     "data_source": "news_parse"
   },
   "etf_news": [
+    {
+      "title": "ETF 자금 다시 빠졌다…비트코인·이더리움·리플 반등 시험대",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9WbVRmNHRmTEhHOUhJTjdVTW9lclhnTDZOQUh5VHFYQzVsalp5dHpkUFZHQko3aDFieXd4UlV6YWoxRUZtdjJCUFZB?oc=5",
+      "date": "Fri, 24 Jul 2026 11:17:00 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
     {
       "title": "클래러티법 입법 막히면 리플(XRP) 1.00달러선까지 후퇴 가능성",
       "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5jNjRDaUFRZkFFR1BKaXprVTBkdTRRcGQ1Vm8xU1pTTllSS3ZKYXdjMmVOSlM4ejZsWFVoZE9EdEdqZmZm?oc=5",
@@ -81,13 +88,6 @@
       "date": "Tue, 21 Jul 2026 22:28:17 GMT",
       "source": "톱스타뉴스",
       "score": 0
-    },
-    {
-      "title": "다시 돈 몰리는데 무서워요…리플(XRP) ETF 유입 뒤에 숨겨진 '시한폭탄'",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Wb2JXT0JmYlRaX2dSb3VaY0NSN0ZsODdCaHZnRDktaDl5R01yakxkb2VEYVBkNVBOclloNGxCWnZuUmxTdHlWaERmY0RtZXlzb1NYQzVSQ3RidWhOdDZQNm9WdVBVTEVramtkWlJhd2RpMDDSAXdBVV95cUxQbDdjbDNJVkFucUpNOHFIaFhHWmNNMV9PWExYUE52bXNTSmlwYlR4SGZGczF4WkdwaXdIY3pCdEhEcWFRVGxvMnp2ei1PaHA2RjFCOHlPVzYzNFJHdVRESjM5NnQ2OHRiQS1xa1kyS3RNS05GMldwRQ?oc=5",
-      "date": "Mon, 20 Jul 2026 15:16:00 GMT",
-      "source": "핀포인트뉴스",
-      "score": 0
     }
   ],
   "general_news": [
@@ -97,6 +97,13 @@
       "date": "Fri, 24 Jul 2026 06:36:25 GMT",
       "source": "BeInCrypto",
       "score": 3
+    },
+    {
+      "title": "체인 간 경계 허문 리플, '리플 민트'로 B2B 금융 재편",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55T1ZZTlhQUVhPR0V1aGo5Ti1GS1Y1YWs0SU5KOVdsamJKSGpRamwybGFhLVI4dXdLSTJZSmN1V2RjU3FPS0FpcFVmbDRjbWZuMjUwY2tHX2dWVFF6V0ktcjBkUFQ4N01Da0o0a2NGREo?oc=5",
+      "date": "Fri, 24 Jul 2026 06:01:13 GMT",
+      "source": "블록체인투데이",
+      "score": 2
     },
     {
       "title": "리플, 기관용 RLUSD(리플USD) 발행 플랫폼 '리플 민트' 출시",
@@ -153,13 +160,6 @@
       "date": "Wed, 22 Jul 2026 22:24:04 GMT",
       "source": "톱스타뉴스",
       "score": 2
-    },
-    {
-      "title": "클래러티법 통과 임박? 리플(XRP) 현물 ETF 폭등 전 마지막 바닥 매수 기회될까",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE94Vl9PZ0s4eWo5RHlNdnRmQmdfSV9FRWVVWFZuWGF1b3Fvb1hmWHpiWXhUclphYWRoanczVUVxTnpMU1Y1bTh0VVNR?oc=5",
-      "date": "Wed, 22 Jul 2026 21:34:00 GMT",
-      "source": "코인리더스",
-      "score": 4
     }
   ]
 }
