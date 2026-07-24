@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-24T18:54:23",
+  "generated_at": "2026-07-24T20:13:04",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.087,
-    "price_krw": 1587.07,
-    "price_change_24h": -1.57583,
-    "price_change_7d": -0.39306,
-    "price_change_30d": 3.48545,
-    "market_cap_usd": 67845338138,
+    "price_usd": 1.089,
+    "price_krw": 1590.56,
+    "price_change_24h": -1.87807,
+    "price_change_7d": -0.11097,
+    "price_change_30d": 3.08957,
+    "market_cap_usd": 68016720774,
     "market_cap_rank": 6,
-    "volume_24h": 1073630459,
+    "volume_24h": 1062322749,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 63.89,
-    "sentiment_votes_down": 36.11,
+    "sentiment_votes_up": 67.11,
+    "sentiment_votes_down": 32.89,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 24.83,
-    "recent_tps": 24.83,
-    "recent_tx_count": 2235,
+    "tps_24h_avg": 24.18,
+    "recent_tps": 24.18,
+    "recent_tx_count": 1983,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 105824237,
+    "recent_window_sec": 82,
+    "ledger_seq": 105825466,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-24 18:54:12 KST",
+    "updated_at": "2026-07-24 20:12:48 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -51,13 +51,6 @@
       "title": "ETF 자금 다시 빠졌다…비트코인·이더리움·리플 반등 시험대",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9WbVRmNHRmTEhHOUhJTjdVTW9lclhnTDZOQUh5VHFYQzVsalp5dHpkUFZHQko3aDFieXd4UlV6YWoxRUZtdjJCUFZB?oc=5",
       "date": "Fri, 24 Jul 2026 11:17:00 GMT",
-      "source": "코인리더스",
-      "score": 0
-    },
-    {
-      "title": "클래러티법 입법 막히면 리플(XRP) 1.00달러선까지 후퇴 가능성",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5jNjRDaUFRZkFFR1BKaXprVTBkdTRRcGQ1Vm8xU1pTTllSS3ZKYXdjMmVOSlM4ejZsWFVoZE9EdEdqZmZm?oc=5",
-      "date": "Thu, 23 Jul 2026 22:31:00 GMT",
       "source": "코인리더스",
       "score": 0
     },
@@ -88,9 +81,23 @@
       "date": "Tue, 21 Jul 2026 22:28:17 GMT",
       "source": "톱스타뉴스",
       "score": 0
+    },
+    {
+      "title": "다시 돈 몰리는데 무서워요…리플(XRP) ETF 유입 뒤에 숨겨진 '시한폭탄'",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Wb2JXT0JmYlRaX2dSb3VaY0NSN0ZsODdCaHZnRDktaDl5R01yakxkb2VEYVBkNVBOclloNGxCWnZuUmxTdHlWaERmY0RtZXlzb1NYQzVSQ3RidWhOdDZQNm9WdVBVTEVramtkWlJhd2RpMDDSAXdBVV95cUxQbDdjbDNJVkFucUpNOHFIaFhHWmNNMV9PWExYUE52bXNTSmlwYlR4SGZGczF4WkdwaXdIY3pCdEhEcWFRVGxvMnp2ei1PaHA2RjFCOHlPVzYzNFJHdVRESjM5NnQ2OHRiQS1xa1kyS3RNS05GMldwRQ?oc=5",
+      "date": "Mon, 20 Jul 2026 15:16:00 GMT",
+      "source": "핀포인트뉴스",
+      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "리플, 기관용 스테이블코인 시장 공략 속도전...XRP도 대반격 예고",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBKVzloRWtuQjJlX242SElFaEJfc08wRWdMcHY2Ykd4NVZka05GUkNqQnc2VmNNMWpnbndVdDZOai1KT2cwVy00RndR?oc=5",
+      "date": "Fri, 24 Jul 2026 20:00:00 GMT",
+      "source": "코인리더스",
+      "score": 3
+    },
     {
       "title": "엑스알피(리플) 폭발적 상승 온다? \"최소 15달러 경로 열려\"",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qS0hIVjVDdTQwQVVLMkkxNnhtS2VrbWpDUU9VM2IybE00b19YOVQtbk5iRkM3V2FCYkQzeXBUZDUxNGdQVS0wSlVBcGZkTExydXFGdHpsdEhDMkxEVlpmdXlfQjFzT0ZuVkZTaUF3?oc=5",
@@ -132,13 +139,6 @@
       "date": "Fri, 24 Jul 2026 06:36:25 GMT",
       "source": "BeInCrypto",
       "score": 3
-    },
-    {
-      "title": "체인 간 경계 허문 리플, '리플 민트'로 B2B 금융 재편",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55T1ZZTlhQUVhPR0V1aGo5Ti1GS1Y1YWs0SU5KOVdsamJKSGpRamwybGFhLVI4dXdLSTJZSmN1V2RjU3FPS0FpcFVmbDRjbWZuMjUwY2tHX2dWVFF6V0ktcjBkUFQ4N01Da0o0a2NGREo?oc=5",
-      "date": "Fri, 24 Jul 2026 06:01:13 GMT",
-      "source": "블록체인투데이",
-      "score": 2
     },
     {
       "title": "리플, 기관용 RLUSD(리플USD) 발행 플랫폼 '리플 민트' 출시",
