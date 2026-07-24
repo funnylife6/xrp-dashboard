@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-24T15:52:13",
+  "generated_at": "2026-07-24T17:22:14",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.09,
-    "price_krw": 1593.39,
-    "price_change_24h": -1.95955,
-    "price_change_7d": 0.79486,
-    "price_change_30d": 1.53882,
-    "market_cap_usd": 68114473802,
+    "price_usd": 1.086,
+    "price_krw": 1586.69,
+    "price_change_24h": -1.9258,
+    "price_change_7d": 0.0173,
+    "price_change_30d": 2.89125,
+    "market_cap_usd": 67842268077,
     "market_cap_rank": 6,
-    "volume_24h": 1080221395,
+    "volume_24h": 1092998342,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
@@ -22,16 +22,16 @@
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 29.8,
-    "recent_tps": 29.8,
-    "recent_tx_count": 2444,
+    "tps_24h_avg": 18.63,
+    "recent_tps": 18.63,
+    "recent_tx_count": 1658,
     "recent_ledger_count": 24,
-    "recent_window_sec": 82,
-    "ledger_seq": 105821399,
+    "recent_window_sec": 89,
+    "ledger_seq": 105822797,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-24 15:52:01 KST",
+    "updated_at": "2026-07-24 17:22:05 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,6 +92,27 @@
   ],
   "general_news": [
     {
+      "title": "엑스알피(리플) 폭발적 상승 온다? \"최소 15달러 경로 열려\"",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qS0hIVjVDdTQwQVVLMkkxNnhtS2VrbWpDUU9VM2IybE00b19YOVQtbk5iRkM3V2FCYkQzeXBUZDUxNGdQVS0wSlVBcGZkTExydXFGdHpsdEhDMkxEVlpmdXlfQjFzT0ZuVkZTaUF3?oc=5",
+      "date": "Fri, 24 Jul 2026 15:41:09 GMT",
+      "source": "gukjenews.com",
+      "score": 2
+    },
+    {
+      "title": "리플, CNBC·스태티스타 톱 핀테크 4년 연속 선정…XRP 채택과는 선 그었다",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xNXBrSC1SWk00Zk1rMW1TZ01falZFeG1fcmd5bGtMRmNiRW5RNzJRbWl1VXl4RzFhVEI1RjVfd0NxRkRNaHdiWGpEMHhnVU1obVN3WVNMLVM3RG5yTmZoTNIBZkFVX3lxTE8zMWx1Y1pzT01tZmRqQ0NrbXEtdXJ6QmctcjVORkpHNDdjSWpHZ1pMUmFhRG9RWXFFMkQ0dFp2VldKdG5JeHJBN2Q4M01tWGJhRUJHWlpSX3Y0dHhtMzhoZDZIZElUZw?oc=5",
+      "date": "Fri, 24 Jul 2026 14:52:41 GMT",
+      "source": "tokenpost.kr",
+      "score": 2
+    },
+    {
+      "title": "ETF 자금 다시 빠졌다…비트코인·이더리움·리플 반등 시험대",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9WbVRmNHRmTEhHOUhJTjdVTW9lclhnTDZOQUh5VHFYQzVsalp5dHpkUFZHQko3aDFieXd4UlV6YWoxRUZtdjJCUFZB?oc=5",
+      "date": "Fri, 24 Jul 2026 11:17:00 GMT",
+      "source": "코인리더스",
+      "score": 3
+    },
+    {
       "title": "암호화폐(코인) 리플, 만약 클래러티 법안 통과 못 하면 어떻게 될까?",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tMklrZjhoQ0VaNkhUNko0X0FMQUFMQi1CRzhGeTNOZGFzbkV1OXZrdVpJMlQtOW93R0gwQXVZR2tGRG9ZY2hfMW92N3kzVGdMS1FzS1Rn?oc=5",
       "date": "Fri, 24 Jul 2026 07:33:00 GMT",
@@ -139,27 +160,6 @@
       "date": "Thu, 23 Jul 2026 23:09:12 GMT",
       "source": "비온미디어",
       "score": 3
-    },
-    {
-      "title": "클래러티법 입법 막히면 리플(XRP) 1.00달러선까지 후퇴 가능성",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5jNjRDaUFRZkFFR1BKaXprVTBkdTRRcGQ1Vm8xU1pTTllSS3ZKYXdjMmVOSlM4ejZsWFVoZE9EdEdqZmZm?oc=5",
-      "date": "Thu, 23 Jul 2026 22:31:00 GMT",
-      "source": "코인리더스",
-      "score": 3
-    },
-    {
-      "title": "오원익스체인지·비트코인·리플XRP 하락…중동 긴장 부담",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50Y25qUk1wcE9KdVFoVkxYQU1EMUlWeWNZSlBVdjQ5SEVCSmt0SV9xcDI5NVZDeHRON0F0Y0t6Nkd4eDBzVXlwTEctQnd2RWVHRDA5MGFveFlidHYxV21NUDh0V09Mc3BLcUdxc3NneDdadw?oc=5",
-      "date": "Thu, 23 Jul 2026 22:23:20 GMT",
-      "source": "톱스타뉴스",
-      "score": 2
-    },
-    {
-      "title": "암호화폐 XRP 레저, 올해 토큰화 신용 10억 달러 급증… RWA 시장 영향력 확대",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOclRqQjAwWjZxZlFzREhXcE9zUkxxTEhEeEl2SXh1VWpIX0hYUmQwUFRnMGdiOVZYM3pSS24wa2M5UXp5anFOUzFTSHN4TWxXRFNVVjlmYXdqbW9JQUVDazdFTDNXZUJSWHhwNGljaTBrYmFJSjVYTGhZblNQcUhDVHZpS2l2ZTJu?oc=5",
-      "date": "Thu, 23 Jul 2026 22:12:12 GMT",
-      "source": "글로벌이코노믹",
-      "score": 2
     }
   ]
 }
