@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-24T17:22:14",
+  "generated_at": "2026-07-24T18:54:23",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.086,
-    "price_krw": 1586.69,
-    "price_change_24h": -1.9258,
-    "price_change_7d": 0.0173,
-    "price_change_30d": 2.89125,
-    "market_cap_usd": 67842268077,
+    "price_usd": 1.087,
+    "price_krw": 1587.07,
+    "price_change_24h": -1.57583,
+    "price_change_7d": -0.39306,
+    "price_change_30d": 3.48545,
+    "market_cap_usd": 67845338138,
     "market_cap_rank": 6,
-    "volume_24h": 1092998342,
+    "volume_24h": 1073630459,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 61.97,
-    "sentiment_votes_down": 38.03,
+    "sentiment_votes_up": 63.89,
+    "sentiment_votes_down": 36.11,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 18.63,
-    "recent_tps": 18.63,
-    "recent_tx_count": 1658,
+    "tps_24h_avg": 24.83,
+    "recent_tps": 24.83,
+    "recent_tx_count": 2235,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 105822797,
+    "recent_window_sec": 90,
+    "ledger_seq": 105824237,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-24 17:22:05 KST",
+    "updated_at": "2026-07-24 18:54:12 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -106,6 +106,13 @@
       "score": 2
     },
     {
+      "title": "XRP, 컵 앤 핸들 무산 위기 속 RLUSD 민트 기능 도입… 1.5달러 재탈환 가능할까?",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVHBVSzdWalc4Nl8tR1BHOW1WTE1nekY5N2ZHZU5ZbUUyaS0zTmE0Z1g1RVZidjMzeTRyc1dXR1NIelpQMnVfRmhKRkdsWW5Mc3FBWnZkaUJudVJhN0l6QlBVeHNPRW4zOTFDb0x4QkttU2xCMXg4SkFZY2YtWFZoQUlLczNWR05za29MZDU5VTRCbUtaSUFuQ0VvY0ItaUdKeV9uaGdJRGhOOEF3RF9BNXl0bmcyWENYRkVnQ3BlQlU?oc=5",
+      "date": "Fri, 24 Jul 2026 12:28:14 GMT",
+      "source": "Cryptonews",
+      "score": 2
+    },
+    {
       "title": "ETF 자금 다시 빠졌다…비트코인·이더리움·리플 반등 시험대",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9WbVRmNHRmTEhHOUhJTjdVTW9lclhnTDZOQUh5VHFYQzVsalp5dHpkUFZHQko3aDFieXd4UlV6YWoxRUZtdjJCUFZB?oc=5",
       "date": "Fri, 24 Jul 2026 11:17:00 GMT",
@@ -153,13 +160,6 @@
       "date": "Fri, 24 Jul 2026 02:01:00 GMT",
       "source": "네이트",
       "score": 2
-    },
-    {
-      "title": "AI가 스스로 결제한다, 리플X \"XRPL서 XRP·RLUSD로 143만건 거래\" |",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RMGlLNUtLa0RNWnU3NXROSzBySTdtM3RrNmFPd2tEZ3Z4RGRzRVF6VERlYUpuYzZVTzk5dmF3cmMwNEZHcVE1ZkRIbkRBVnUwd3dKeFI3TklwaEtrTjVHTTQwVDhIbVY0TFZZ?oc=5",
-      "date": "Thu, 23 Jul 2026 23:09:12 GMT",
-      "source": "비온미디어",
-      "score": 3
     }
   ]
 }
