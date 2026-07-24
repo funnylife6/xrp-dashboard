@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-24T14:19:09",
+  "generated_at": "2026-07-24T15:52:13",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.091,
-    "price_krw": 1594.24,
-    "price_change_24h": -2.021,
-    "price_change_7d": 1.03533,
-    "price_change_30d": 1.44915,
-    "market_cap_usd": 68135435415,
+    "price_usd": 1.09,
+    "price_krw": 1593.39,
+    "price_change_24h": -1.95955,
+    "price_change_7d": 0.79486,
+    "price_change_30d": 1.53882,
+    "market_cap_usd": 68114473802,
     "market_cap_rank": 6,
-    "volume_24h": 1089718440,
+    "volume_24h": 1080221395,
     "circulating_supply": 62466503703.0,
     "total_supply": 99985639695.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 61.76,
-    "sentiment_votes_down": 38.24,
+    "sentiment_votes_up": 61.97,
+    "sentiment_votes_down": 38.03,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 18.72,
-    "recent_tps": 18.72,
-    "recent_tx_count": 1685,
+    "tps_24h_avg": 29.8,
+    "recent_tps": 29.8,
+    "recent_tx_count": 2444,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 105819953,
+    "recent_window_sec": 82,
+    "ledger_seq": 105821399,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-24 14:19:00 KST",
+    "updated_at": "2026-07-24 15:52:01 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -106,6 +106,13 @@
       "score": 3
     },
     {
+      "title": "체인 간 경계 허문 리플, '리플 민트'로 B2B 금융 재편",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55T1ZZTlhQUVhPR0V1aGo5Ti1GS1Y1YWs0SU5KOVdsamJKSGpRamwybGFhLVI4dXdLSTJZSmN1V2RjU3FPS0FpcFVmbDRjbWZuMjUwY2tHX2dWVFF6V0ktcjBkUFQ4N01Da0o0a2NGREo?oc=5",
+      "date": "Fri, 24 Jul 2026 06:01:13 GMT",
+      "source": "블록체인투데이",
+      "score": 2
+    },
+    {
       "title": "리플, 기관용 RLUSD(리플USD) 발행 플랫폼 '리플 민트' 출시",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVSzBsSGJSQWctZGo4MUxWTTVUMHJnb0dFN0Z4cnNmYzRrSXdYVXlqRElycHBFSGlkU3YzSkk3ajJXZ2p2MHprTjF3N044VkR6djZ0NkdNc0dKVEgzYm1abkIzQnJybUNrTW1QclZOYWJEUQ?oc=5",
       "date": "Fri, 24 Jul 2026 05:10:00 GMT",
@@ -152,13 +159,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOclRqQjAwWjZxZlFzREhXcE9zUkxxTEhEeEl2SXh1VWpIX0hYUmQwUFRnMGdiOVZYM3pSS24wa2M5UXp5anFOUzFTSHN4TWxXRFNVVjlmYXdqbW9JQUVDazdFTDNXZUJSWHhwNGljaTBrYmFJSjVYTGhZblNQcUhDVHZpS2l2ZTJu?oc=5",
       "date": "Thu, 23 Jul 2026 22:12:12 GMT",
       "source": "글로벌이코노믹",
-      "score": 2
-    },
-    {
-      "title": "전송량이 25% 감소한 가운데 리플의 RLUSD, 두 가지 호재 맞다",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUFFVbl9DNWkwa2tFLUdaU0k5YlJVU09waFpweWNuQ1hzQVBUR0hURXhlZjM0NmR6bDlnbHUtR1E5dFNMSi1tc3FJbEJBSTJuWGZrZ2V2WElKMzUtdF9kdTRjZ3BPaG1iaHZZeFFWdEpvTDRWdGVQVlVXQnE4Zk16MFFXQk5UbEk2Uk1UQjBDQnJXbDItUG5aNHRsNGE4dUMyWDQ3ZGhWSUhWUQ?oc=5",
-      "date": "Thu, 23 Jul 2026 21:33:00 GMT",
-      "source": "CoinDesk",
       "score": 2
     }
   ]
