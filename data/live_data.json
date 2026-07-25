@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-25T18:56:12",
+  "generated_at": "2026-07-25T20:08:13",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.1,
-    "price_krw": 1608.83,
-    "price_change_24h": 1.43627,
-    "price_change_7d": 0.91778,
-    "price_change_30d": 5.95839,
-    "market_cap_usd": 68934147683,
+    "price_krw": 1604.88,
+    "price_change_24h": 0.97503,
+    "price_change_7d": 0.60776,
+    "price_change_30d": 6.44254,
+    "market_cap_usd": 68756858659,
     "market_cap_rank": 6,
-    "volume_24h": 602678813,
+    "volume_24h": 627704851,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 62.9,
-    "sentiment_votes_down": 37.1,
+    "sentiment_votes_up": 62.5,
+    "sentiment_votes_down": 37.5,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 11.65,
-    "recent_tps": 11.65,
-    "recent_tx_count": 1037,
+    "tps_24h_avg": 11.54,
+    "recent_tps": 11.54,
+    "recent_tx_count": 1039,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 105846830,
+    "recent_window_sec": 90,
+    "ledger_seq": 105847966,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-25 18:55:59 KST",
+    "updated_at": "2026-07-25 20:08:06 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -47,6 +47,20 @@
     "data_source": "news_parse"
   },
   "etf_news": [
+    {
+      "title": "개인 투자자마저 외면한 리플(XRP)…기관 자금까지 멈추며 상승 동력 흔들",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE10NDV6Ry1lSllFVkdjRG54Y3RKbXc2b0VDSnZDMWtBU0hfdHU3djFBVzhreU1GUGRSc0ZaUEdRTmJPREEycm5vdnhB?oc=5",
+      "date": "Sat, 25 Jul 2026 12:03:00 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
+    {
+      "title": "XRP, 리플 호재에도 기관 돈줄 '조용'...반등은 물 건너가나",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBjNGVMTEVrTC1EN09OcUZsRlFsVkp5cjdlT05vVERVVTgwUnhEdVpsaTJ3bS1xaVloT3FORkxST2pMb3dJQ2NISFF3?oc=5",
+      "date": "Sat, 25 Jul 2026 00:00:00 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
     {
       "title": "클래러티법 통과 임박? 리플(XRP) 현물 ETF 폭등 전 마지막 바닥 매수 기회될까",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE94Vl9PZ0s4eWo5RHlNdnRmQmdfSV9FRWVVWFZuWGF1b3Fvb1hmWHpiWXhUclphYWRoanczVUVxTnpMU1Y1bTh0VVNR?oc=5",
@@ -74,30 +88,9 @@
       "date": "Mon, 20 Jul 2026 15:16:00 GMT",
       "source": "핀포인트뉴스",
       "score": 0
-    },
-    {
-      "title": "리플(XRP) 현물 ETF 자금 돌아왔다…매도 압력 꺾을 수 있을까",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA2VUR2Tk01bUFyek9xeVpCbkVWcFlzUGllcTc0V2FkQWZYbzF1UUh5WGRicGM5RW85Z3h2VzlYa0QzN2d4djlPZzh3?oc=5",
-      "date": "Mon, 20 Jul 2026 13:02:00 GMT",
-      "source": "코인리더스",
-      "score": 0
-    },
-    {
-      "title": "XRP 현물 ETF 지난주 순유입 678.47만 달러",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yUHB6UXAyNlNCdkxycU9mTE03YzZyZ1drR0tjZnZ3ZmJsQ1RYUTB3Ymt1dmJsQUJzbUxvZWN5LWNwYzJLa29lWmpMbGVjZldDMHhNSVZ1MjJ6djRMcVhRLTVfclpCWWFxVU90UTBQX0Z5bURCMlRpN0pFMldwU3c?oc=5",
-      "date": "Mon, 20 Jul 2026 05:21:18 GMT",
-      "source": "PANews",
-      "score": 0
     }
   ],
   "general_news": [
-    {
-      "title": "속보 | XRP, 최근 6개월간 RWA 유입액 26억 달러...BNB 이어 2위",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1wRFZuYncwMFhoNS1QMlpYNnhCMGpTU1FIdXBOLU1YaFJmY2xZM01hZm1GenFsLVVpbGNLel82OTJHQW93c0llVA?oc=5",
-      "date": "Sat, 25 Jul 2026 15:08:35 GMT",
-      "source": "CoinNess",
-      "score": 8
-    },
     {
       "title": "개인 투자자마저 외면한 리플(XRP)…기관 자금까지 멈추며 상승 동력 흔들",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE10NDV6Ry1lSllFVkdjRG54Y3RKbXc2b0VDSnZDMWtBU0hfdHU3djFBVzhreU1GUGRSc0ZaUEdRTmJPREEycm5vdnhB?oc=5",
@@ -118,6 +111,13 @@
       "date": "Sat, 25 Jul 2026 10:00:15 GMT",
       "source": "글로벌이코노믹",
       "score": 2
+    },
+    {
+      "title": "XRP, 리플 호재에도 기관 돈줄 '조용'...반등은 물 건너가나",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBjNGVMTEVrTC1EN09OcUZsRlFsVkp5cjdlT05vVERVVTgwUnhEdVpsaTJ3bS1xaVloT3FORkxST2pMb3dJQ2NISFF3?oc=5",
+      "date": "Sat, 25 Jul 2026 00:00:00 GMT",
+      "source": "코인리더스",
+      "score": 4
     },
     {
       "title": "비트코인·솔스티스·리플XRP 엇갈려…이란·관세 부담",
