@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-25T05:28:50",
+  "generated_at": "2026-07-25T07:32:45",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.092,
-    "price_krw": 1593.51,
-    "price_change_24h": -1.50729,
-    "price_change_7d": 0.2524,
-    "price_change_30d": 1.59276,
-    "market_cap_usd": 68271929122,
+    "price_usd": 1.087,
+    "price_krw": 1587.04,
+    "price_change_24h": -2.61419,
+    "price_change_7d": -0.12337,
+    "price_change_30d": 0.05034,
+    "market_cap_usd": 67996796363,
     "market_cap_rank": 6,
-    "volume_24h": 962340659,
+    "volume_24h": 946384417,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 65.22,
-    "sentiment_votes_down": 34.78,
+    "sentiment_votes_up": 63.77,
+    "sentiment_votes_down": 36.23,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 13.27,
-    "recent_tps": 13.27,
-    "recent_tx_count": 1088,
+    "tps_24h_avg": 15.33,
+    "recent_tps": 15.33,
+    "recent_tx_count": 1364,
     "recent_ledger_count": 24,
-    "recent_window_sec": 82,
-    "ledger_seq": 105834192,
+    "recent_window_sec": 89,
+    "ledger_seq": 105836142,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-25 05:28:38 KST",
+    "updated_at": "2026-07-25 07:32:34 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -96,27 +96,27 @@
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBjNGVMTEVrTC1EN09OcUZsRlFsVkp5cjdlT05vVERVVTgwUnhEdVpsaTJ3bS1xaVloT3FORkxST2pMb3dJQ2NISFF3?oc=5",
       "date": "Sat, 25 Jul 2026 00:00:00 GMT",
       "source": "코인리더스",
-      "score": 4
+      "score": 3
+    },
+    {
+      "title": "비트코인·솔스티스·리플XRP 엇갈려…이란·관세 부담",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1idFpWYzFRdm9oa2tLZDVfX1g4RzZ3R3hCUFRPdDBVU201aFdNYW56cTRlYVgwUFRudHh4MElEVzNkb1U5OE9oWWw5OFpEMjl4NUdEV25WOWZuSThhZThXX0dpcE51QXl5U1BuTEdFWWFzQQ?oc=5",
+      "date": "Fri, 24 Jul 2026 23:34:01 GMT",
+      "source": "톱스타뉴스",
+      "score": 2
     },
     {
       "title": "리플, 기관용 스테이블코인 시장 공략 속도전...XRP도 대반격 예고",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBKVzloRWtuQjJlX242SElFaEJfc08wRWdMcHY2Ykd4NVZka05GUkNqQnc2VmNNMWpnbndVdDZOai1KT2cwVy00RndR?oc=5",
       "date": "Fri, 24 Jul 2026 20:00:00 GMT",
       "source": "코인리더스",
-      "score": 3
+      "score": 4
     },
     {
       "title": "엑스알피(리플) 폭발적 상승 온다? \"최소 15달러 경로 열려\"",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qS0hIVjVDdTQwQVVLMkkxNnhtS2VrbWpDUU9VM2IybE00b19YOVQtbk5iRkM3V2FCYkQzeXBUZDUxNGdQVS0wSlVBcGZkTExydXFGdHpsdEhDMkxEVlpmdXlfQjFzT0ZuVkZTaUF3?oc=5",
       "date": "Fri, 24 Jul 2026 15:41:09 GMT",
       "source": "gukjenews.com",
-      "score": 2
-    },
-    {
-      "title": "리플, CNBC·스태티스타 톱 핀테크 4년 연속 선정…XRP 채택과는 선 그었다",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xNXBrSC1SWk00Zk1rMW1TZ01falZFeG1fcmd5bGtMRmNiRW5RNzJRbWl1VXl4RzFhVEI1RjVfd0NxRkRNaHdiWGpEMHhnVU1obVN3WVNMLVM3RG5yTmZoTNIBZkFVX3lxTE8zMWx1Y1pzT01tZmRqQ0NrbXEtdXJ6QmctcjVORkpHNDdjSWpHZ1pMUmFhRG9RWXFFMkQ0dFp2VldKdG5JeHJBN2Q4M01tWGJhRUJHWlpSX3Y0dHhtMzhoZDZIZElUZw?oc=5",
-      "date": "Fri, 24 Jul 2026 14:52:41 GMT",
-      "source": "tokenpost.kr",
       "score": 2
     },
     {
