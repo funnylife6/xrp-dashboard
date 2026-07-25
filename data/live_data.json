@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-25T11:03:03",
+  "generated_at": "2026-07-25T14:08:06",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.09,
-    "price_krw": 1591.39,
-    "price_change_24h": -1.40009,
-    "price_change_7d": 0.35936,
-    "price_change_30d": 1.67659,
-    "market_cap_usd": 68182198535,
+    "price_krw": 1591.15,
+    "price_change_24h": -0.06244,
+    "price_change_7d": 0.44503,
+    "price_change_30d": 7.28802,
+    "market_cap_usd": 68200219709,
     "market_cap_rank": 6,
-    "volume_24h": 950864083,
+    "volume_24h": 702326408,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 63.77,
-    "sentiment_votes_down": 36.23,
+    "sentiment_votes_up": 64.62,
+    "sentiment_votes_down": 35.38,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 14.08,
-    "recent_tps": 14.08,
-    "recent_tx_count": 1253,
+    "tps_24h_avg": 14.17,
+    "recent_tps": 14.17,
+    "recent_tx_count": 1275,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 105839438,
+    "recent_window_sec": 90,
+    "ledger_seq": 105842326,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-25 11:02:56 KST",
+    "updated_at": "2026-07-25 14:08:00 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -47,6 +47,13 @@
     "data_source": "news_parse"
   },
   "etf_news": [
+    {
+      "title": "개인 투자자마저 외면한 리플(XRP)…기관 자금까지 멈추며 상승 동력 흔들",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE10NDV6Ry1lSllFVkdjRG54Y3RKbXc2b0VDSnZDMWtBU0hfdHU3djFBVzhreU1GUGRSc0ZaUEdRTmJPREEycm5vdnhB?oc=5",
+      "date": "Sat, 25 Jul 2026 12:03:00 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
     {
       "title": "XRP, 리플 호재에도 기관 돈줄 '조용'...반등은 물 건너가나",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBjNGVMTEVrTC1EN09OcUZsRlFsVkp5cjdlT05vVERVVTgwUnhEdVpsaTJ3bS1xaVloT3FORkxST2pMb3dJQ2NISFF3?oc=5",
@@ -81,16 +88,23 @@
       "date": "Tue, 21 Jul 2026 22:28:17 GMT",
       "source": "톱스타뉴스",
       "score": 0
-    },
-    {
-      "title": "다시 돈 몰리는데 무서워요…리플(XRP) ETF 유입 뒤에 숨겨진 '시한폭탄'",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Wb2JXT0JmYlRaX2dSb3VaY0NSN0ZsODdCaHZnRDktaDl5R01yakxkb2VEYVBkNVBOclloNGxCWnZuUmxTdHlWaERmY0RtZXlzb1NYQzVSQ3RidWhOdDZQNm9WdVBVTEVramtkWlJhd2RpMDDSAXdBVV95cUxQbDdjbDNJVkFucUpNOHFIaFhHWmNNMV9PWExYUE52bXNTSmlwYlR4SGZGczF4WkdwaXdIY3pCdEhEcWFRVGxvMnp2ei1PaHA2RjFCOHlPVzYzNFJHdVRESjM5NnQ2OHRiQS1xa1kyS3RNS05GMldwRQ?oc=5",
-      "date": "Mon, 20 Jul 2026 15:16:00 GMT",
-      "source": "핀포인트뉴스",
-      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "개인 투자자마저 외면한 리플(XRP)…기관 자금까지 멈추며 상승 동력 흔들",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE10NDV6Ry1lSllFVkdjRG54Y3RKbXc2b0VDSnZDMWtBU0hfdHU3djFBVzhreU1GUGRSc0ZaUEdRTmJPREEycm5vdnhB?oc=5",
+      "date": "Sat, 25 Jul 2026 12:03:00 GMT",
+      "source": "코인리더스",
+      "score": 3
+    },
+    {
+      "title": "리플 사업 확장에도 XRP는 제자리…장기 횡보 전망까지",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DWXU0NkNSVWNxX184NnBQZ0MwTDQ4d2M2MEt3MDdNNXhubHJsYkRvOExsUG1hZnlvZXB3MnFVNUljQ1hhQjFyX0hfa2UyOHl0UzZ2ZVAyMU9FZ1daV3lYRdIBZkFVX3lxTE5GRHZ3MFczcTIxS1Z2N2JJYXdQTXRtdUJCS2JtanZ0N3ptaEZGLTV2dTRXN09vbzZSRWRFLWNSYnJoVjF2enBDeXJoU29Wa1F4c01JSFozV1VKZktjWkxpbk9RS0Fldw?oc=5",
+      "date": "Sat, 25 Jul 2026 11:54:13 GMT",
+      "source": "tokenpost.kr",
+      "score": 2
+    },
     {
       "title": "월가 베테랑이 주장하는 XRP에 주목해야 하는 3가지 이유",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT0ZZbXdhNFQyNnFhTXAwUmVrTlZULTZZaHJXc0tSNWR3SFBGWENnZjZEUTVweHFXdS1fSWdGZVRSRWlWY0lFZ3J3MEhiLXhOYlNHQjh2VVpabHdvU29wVF9FNFo0RVpLcGxnR05zSmJGREJtUWdQRzBQM0Y0OVA2dDl4Q3NiWG9W?oc=5",
@@ -110,13 +124,6 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1idFpWYzFRdm9oa2tLZDVfX1g4RzZ3R3hCUFRPdDBVU201aFdNYW56cTRlYVgwUFRudHh4MElEVzNkb1U5OE9oWWw5OFpEMjl4NUdEV25WOWZuSThhZThXX0dpcE51QXl5U1BuTEdFWWFzQQ?oc=5",
       "date": "Fri, 24 Jul 2026 23:34:01 GMT",
       "source": "톱스타뉴스",
-      "score": 2
-    },
-    {
-      "title": "올해 40% 폭락한 리플(XRP), 연말 1.40달러 대반격 성공할까?",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5GSjRrbENQZWN3OUJtQ3ZCeHVST3h3eEFoVm8zaXhvNWNUTDkzZUVTRU1xWG5TT1pVQ3h4R2pDNzV5NE5XXzZQWTNn?oc=5",
-      "date": "Fri, 24 Jul 2026 22:29:00 GMT",
-      "source": "코인리더스",
       "score": 2
     },
     {
@@ -153,13 +160,6 @@
       "date": "Fri, 24 Jul 2026 05:10:00 GMT",
       "source": "디지털애셋",
       "score": 10
-    },
-    {
-      "title": "리플, 인프라 기업 노타베네와 협력…B2B 결제 플랫폼에 RLUSD 연동",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1NRnhHTnhRUEdGeXVFTnU2bGlKYkJmQUVoMUlpdGM1TFdrTE9JaklUT0dHbGhoOTFOYzFqX01lS3ZFRVc5TjBMNkpZWko2QldFWjI4cXRKZUhXOFhzb3h0N3FpM0R6NUh5bDhReXMyZE9lMk0?oc=5",
-      "date": "Fri, 24 Jul 2026 02:03:21 GMT",
-      "source": "디지털투데이",
-      "score": 2
     }
   ]
 }
