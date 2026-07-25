@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-25T09:32:03",
+  "generated_at": "2026-07-25T11:03:03",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.089,
-    "price_krw": 1589.19,
-    "price_change_24h": -1.77781,
-    "price_change_7d": 0.01161,
-    "price_change_30d": 0.68357,
-    "market_cap_usd": 68085782614,
+    "price_usd": 1.09,
+    "price_krw": 1591.39,
+    "price_change_24h": -1.40009,
+    "price_change_7d": 0.35936,
+    "price_change_30d": 1.67659,
+    "market_cap_usd": 68182198535,
     "market_cap_rank": 6,
-    "volume_24h": 980472509,
+    "volume_24h": 950864083,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 65.67,
-    "sentiment_votes_down": 34.33,
+    "sentiment_votes_up": 63.77,
+    "sentiment_votes_down": 36.23,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 12.48,
-    "recent_tps": 12.48,
-    "recent_tx_count": 1111,
+    "tps_24h_avg": 14.08,
+    "recent_tps": 14.08,
+    "recent_tx_count": 1253,
     "recent_ledger_count": 24,
     "recent_window_sec": 89,
-    "ledger_seq": 105838012,
+    "ledger_seq": 105839438,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-25 09:31:55 KST",
+    "updated_at": "2026-07-25 11:02:56 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,6 +92,13 @@
   ],
   "general_news": [
     {
+      "title": "월가 베테랑이 주장하는 XRP에 주목해야 하는 3가지 이유",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT0ZZbXdhNFQyNnFhTXAwUmVrTlZULTZZaHJXc0tSNWR3SFBGWENnZjZEUTVweHFXdS1fSWdGZVRSRWlWY0lFZ3J3MEhiLXhOYlNHQjh2VVpabHdvU29wVF9FNFo0RVpLcGxnR05zSmJGREJtUWdQRzBQM0Y0OVA2dDl4Q3NiWG9W?oc=5",
+      "date": "Sat, 25 Jul 2026 10:00:15 GMT",
+      "source": "글로벌이코노믹",
+      "score": 2
+    },
+    {
       "title": "XRP, 리플 호재에도 기관 돈줄 '조용'...반등은 물 건너가나",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBjNGVMTEVrTC1EN09OcUZsRlFsVkp5cjdlT05vVERVVTgwUnhEdVpsaTJ3bS1xaVloT3FORkxST2pMb3dJQ2NISFF3?oc=5",
       "date": "Sat, 25 Jul 2026 00:00:00 GMT",
@@ -131,13 +138,6 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qS0hIVjVDdTQwQVVLMkkxNnhtS2VrbWpDUU9VM2IybE00b19YOVQtbk5iRkM3V2FCYkQzeXBUZDUxNGdQVS0wSlVBcGZkTExydXFGdHpsdEhDMkxEVlpmdXlfQjFzT0ZuVkZTaUF3?oc=5",
       "date": "Fri, 24 Jul 2026 15:41:09 GMT",
       "source": "gukjenews.com",
-      "score": 2
-    },
-    {
-      "title": "XRP, 컵 앤 핸들 무산 위기 속 RLUSD 민트 기능 도입… 1.5달러 재탈환 가능할까?",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVHBVSzdWalc4Nl8tR1BHOW1WTE1nekY5N2ZHZU5ZbUUyaS0zTmE0Z1g1RVZidjMzeTRyc1dXR1NIelpQMnVfRmhKRkdsWW5Mc3FBWnZkaUJudVJhN0l6QlBVeHNPRW4zOTFDb0x4QkttU2xCMXg4SkFZY2YtWFZoQUlLczNWR05za29MZDU5VTRCbUtaSUFuQ0VvY0ItaUdKeV9uaGdJRGhOOEF3RF9BNXl0bmcyWENYRkVnQ3BlQlU?oc=5",
-      "date": "Fri, 24 Jul 2026 12:28:14 GMT",
-      "source": "Cryptonews",
       "score": 2
     },
     {
