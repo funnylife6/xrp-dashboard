@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-26T16:51:21",
+  "generated_at": "2026-07-26T17:56:23",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.1,
-    "price_krw": 1609.75,
-    "price_change_24h": 0.15597,
-    "price_change_7d": 0.5284,
-    "price_change_30d": 6.37498,
-    "market_cap_usd": 68970140030,
+    "price_krw": 1607.25,
+    "price_change_24h": -0.15921,
+    "price_change_7d": 0.68413,
+    "price_change_30d": 5.56686,
+    "market_cap_usd": 68862963701,
     "market_cap_rank": 6,
-    "volume_24h": 564435965,
+    "volume_24h": 542000331,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 67.14,
-    "sentiment_votes_down": 32.86,
+    "sentiment_votes_up": 67.61,
+    "sentiment_votes_down": 32.39,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 18.02,
-    "recent_tps": 18.02,
-    "recent_tx_count": 1622,
+    "tps_24h_avg": 12.57,
+    "recent_tps": 12.57,
+    "recent_tx_count": 1119,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 105867586,
+    "recent_window_sec": 89,
+    "ledger_seq": 105868604,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-26 16:51:06 KST",
+    "updated_at": "2026-07-26 17:56:14 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -52,6 +52,13 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFByZGVNV3FwMHN3TVo0UnJqWERGMkVKZWF0ckZwQ2Nub0ppVVVoNGVaVzg4dXl3T2Q4THF2dkJua0REcE9CVllJRENjbnIwd0x4TEpscWJR?oc=5",
       "date": "Sun, 26 Jul 2026 01:26:00 GMT",
       "source": "위키트리",
+      "score": 0
+    },
+    {
+      "title": "개인 투자자마저 외면한 리플(XRP)…기관 자금까지 멈추며 상승 동력 흔들",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE10NDV6Ry1lSllFVkdjRG54Y3RKbXc2b0VDSnZDMWtBU0hfdHU3djFBVzhreU1GUGRSc0ZaUEdRTmJPREEycm5vdnhB?oc=5",
+      "date": "Sat, 25 Jul 2026 12:03:00 GMT",
+      "source": "코인리더스",
       "score": 0
     },
     {
@@ -80,13 +87,6 @@
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1SUVBPaVV1YkFHLXBOVzZFOGZzdjZQX2JEcjlBY2FSTTFyT3d0NjNOVmlzdDczVkR1X2dqMFNtQUx5WXZqYy1iUExR?oc=5",
       "date": "Wed, 22 Jul 2026 05:33:30 GMT",
       "source": "코인리더스",
-      "score": 0
-    },
-    {
-      "title": "[분석] \"엑스알피, 5주간 고래 보유량 2.8% 확대…추가 상승 뒷받침\"",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFRDN5b1IzVGZRc3IzMkU5ODAxRjNvYUM2VFRoOXd0UkdSRGtFTWM0NEtqSkhsejVFUkNLVzNwZ0ZCYWF3NlhxaHFleHZwdk9a?oc=5",
-      "date": "Wed, 22 Jul 2026 05:02:48 GMT",
-      "source": "블루밍비트",
       "score": 0
     }
   ],
