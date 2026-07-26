@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-26T21:26:20",
+  "generated_at": "2026-07-26T22:28:16",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.1,
-    "price_krw": 1608.05,
-    "price_change_24h": 0.37666,
-    "price_change_7d": 0.47183,
-    "price_change_30d": 5.58392,
-    "market_cap_usd": 68881219401,
+    "price_usd": 1.11,
+    "price_krw": 1620.8,
+    "price_change_24h": 0.95754,
+    "price_change_7d": 1.65211,
+    "price_change_30d": 6.60613,
+    "market_cap_usd": 69430553040,
     "market_cap_rank": 6,
-    "volume_24h": 526036294,
+    "volume_24h": 555711149,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 67.65,
-    "sentiment_votes_down": 32.35,
+    "sentiment_votes_up": 65.22,
+    "sentiment_votes_down": 34.78,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 24.43,
-    "recent_tps": 24.43,
-    "recent_tx_count": 2199,
+    "tps_24h_avg": 13.37,
+    "recent_tps": 13.37,
+    "recent_tx_count": 1190,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 105871897,
+    "recent_window_sec": 89,
+    "ledger_seq": 105872866,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-26 21:26:12 KST",
+    "updated_at": "2026-07-26 22:28:05 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -47,6 +47,13 @@
     "data_source": "news_parse"
   },
   "etf_news": [
+    {
+      "title": "XRP(리플), 개인 관심 '잠잠'·기관은 장기 매수...1.21달러 뚫을까?",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAwa3NrWHpEZ29NWC1lLUNJNUVpODRuQ05rNTNRVFVLU3lPNzBONE1fbXZYSXBfQ283Z2x1M3dQbXcwbnZySHk1Rg?oc=5",
+      "date": "Sun, 26 Jul 2026 21:40:00 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
     {
       "title": "버려진 암호화폐(코인) 리플... 차갑게 식은 투심 속 피어오르는 희망은 '이것'입니다",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFByZGVNV3FwMHN3TVo0UnJqWERGMkVKZWF0ckZwQ2Nub0ppVVVoNGVaVzg4dXl3T2Q4THF2dkJua0REcE9CVllJRENjbnIwd0x4TEpscWJR?oc=5",
@@ -65,13 +72,6 @@
       "title": "클래러티법 입법 막히면 리플(XRP) 1.00달러선까지 후퇴 가능성",
       "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5jNjRDaUFRZkFFR1BKaXprVTBkdTRRcGQ1Vm8xU1pTTllSS3ZKYXdjMmVOSlM4ejZsWFVoZE9EdEdqZmZm?oc=5",
       "date": "Thu, 23 Jul 2026 22:31:00 GMT",
-      "source": "코인리더스",
-      "score": 0
-    },
-    {
-      "title": "현물 ETF 자금 몰리는데 비트코인·이더리움·리플 왜 떨어졌나?",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1CNFFteXhmZ3M1Q25NZkNDZThUMHRoMUhRT3FkOUg0Y3lPZWg2cnM0NWx5SnBrQU9GMDlaVGd6SkZEZHRfYVh3MS1R?oc=5",
-      "date": "Thu, 23 Jul 2026 11:56:00 GMT",
       "source": "코인리더스",
       "score": 0
     },
@@ -127,13 +127,6 @@
       "score": 3
     },
     {
-      "title": "시바이누 급등·리 하락·리플XRP 보합…스테이블코인 유입 둔화",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE05bGVENXRmbjlmaTV0Tk0wMDgtVzVrcklBeXYtMEhVSTFSWHJ5SDU4blpTZEtVNS1jTDVTZ2pKam9ScGM3OHRTWDkyT1BCcnlIOHJ6c2RjM3NMeVZUOTNaa2xtaHF4dGxyZVFBTmcyUmdCQQ?oc=5",
-      "date": "Sat, 25 Jul 2026 22:27:46 GMT",
-      "source": "톱스타뉴스",
-      "score": 2
-    },
-    {
       "title": "속보 | XRP, 최근 6개월간 RWA 유입액 26억 달러...BNB 이어 2위",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1wRFZuYncwMFhoNS1QMlpYNnhCMGpTU1FIdXBOLU1YaFJmY2xZM01hZm1GenFsLVVpbGNLel82OTJHQW93c0llVA?oc=5",
       "date": "Sat, 25 Jul 2026 15:08:35 GMT",
@@ -160,6 +153,13 @@
       "date": "Sat, 25 Jul 2026 10:00:15 GMT",
       "source": "글로벌이코노믹",
       "score": 2
+    },
+    {
+      "title": "속보 | 코인베이스 비트코인 프리미엄, 67일 연속 마이너스",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5xM1NVcXRSdzVNYVMyUmNUYVZ4SmZtVEJtUm9tNVNzUzROaW5ibXdDTmU3LS03Ql9NSWpvTkZpQXdUOS0wcDMyQ0FlOTduaXNK?oc=5",
+      "date": "Fri, 24 Jul 2026 23:03:00 GMT",
+      "source": "CoinNess",
+      "score": 8
     }
   ]
 }
