@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-26T17:56:23",
+  "generated_at": "2026-07-26T19:02:20",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.1,
-    "price_krw": 1607.25,
-    "price_change_24h": -0.15921,
-    "price_change_7d": 0.68413,
-    "price_change_30d": 5.56686,
-    "market_cap_usd": 68862963701,
+    "price_krw": 1608.71,
+    "price_change_24h": -0.00153,
+    "price_change_7d": 0.95886,
+    "price_change_30d": 6.04494,
+    "market_cap_usd": 68920947493,
     "market_cap_rank": 6,
-    "volume_24h": 542000331,
+    "volume_24h": 548670367,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 67.61,
-    "sentiment_votes_down": 32.39,
+    "sentiment_votes_up": 65.67,
+    "sentiment_votes_down": 34.33,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 12.57,
-    "recent_tps": 12.57,
-    "recent_tx_count": 1119,
+    "tps_24h_avg": 16.78,
+    "recent_tps": 16.78,
+    "recent_tx_count": 1510,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 105868604,
+    "recent_window_sec": 90,
+    "ledger_seq": 105869640,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-26 17:56:14 KST",
+    "updated_at": "2026-07-26 19:02:06 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -155,11 +155,11 @@
       "score": 2
     },
     {
-      "title": "속보 | 코인베이스 비트코인 프리미엄, 67일 연속 마이너스",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5xM1NVcXRSdzVNYVMyUmNUYVZ4SmZtVEJtUm9tNVNzUzROaW5ibXdDTmU3LS03Ql9NSWpvTkZpQXdUOS0wcDMyQ0FlOTduaXNK?oc=5",
-      "date": "Fri, 24 Jul 2026 23:03:00 GMT",
-      "source": "CoinNess",
-      "score": 8
+      "title": "리플, 기관용 스테이블코인 시장 공략 속도전...XRP도 대반격 예고",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBKVzloRWtuQjJlX242SElFaEJfc08wRWdMcHY2Ykd4NVZka05GUkNqQnc2VmNNMWpnbndVdDZOai1KT2cwVy00RndR?oc=5",
+      "date": "Fri, 24 Jul 2026 20:00:00 GMT",
+      "source": "코인리더스",
+      "score": 4
     }
   ]
 }
