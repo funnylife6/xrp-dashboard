@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-25T23:28:04",
+  "generated_at": "2026-07-26T01:06:40",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.098,
-    "price_krw": 1602.74,
-    "price_change_24h": 0.66429,
-    "price_change_7d": 0.4847,
-    "price_change_30d": 5.63455,
-    "market_cap_usd": 68669667694,
+    "price_usd": 1.099,
+    "price_krw": 1603.8,
+    "price_change_24h": 0.42257,
+    "price_change_7d": 0.47474,
+    "price_change_30d": 5.6556,
+    "market_cap_usd": 68716176134,
     "market_cap_rank": 6,
-    "volume_24h": 610147868,
+    "volume_24h": 591217555,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 59.68,
-    "sentiment_votes_down": 40.32,
+    "sentiment_votes_up": 61.02,
+    "sentiment_votes_down": 38.98,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 18.84,
-    "recent_tps": 18.84,
-    "recent_tx_count": 1545,
+    "tps_24h_avg": 17.24,
+    "recent_tps": 17.24,
+    "recent_tx_count": 1552,
     "recent_ledger_count": 24,
-    "recent_window_sec": 82,
-    "ledger_seq": 105851115,
+    "recent_window_sec": 90,
+    "ledger_seq": 105852667,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-25 23:27:58 KST",
+    "updated_at": "2026-07-26 01:06:28 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,6 +92,13 @@
   ],
   "general_news": [
     {
+      "title": "리플(XRP), 3분기 말 1.35달러 간다? AI가 제시한 상승 확률과 핵심 변수",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE00THZXRG90aTZnQ1ZLVFhVXzlVSXdaQUgtcF9YZDVqV0V5RzNYT3lwb010bHpQM2s0bXJTTGxKVTdHN3FWNjkzZFZR?oc=5",
+      "date": "Sat, 25 Jul 2026 23:13:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
       "title": "XRP 거래량 26% 감소…RLUSD 확산 속 수요 연결성 논쟁",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5CbnB0N1p4aEhveE5FaUZGbk45NDdGRVlWQ3l6QmlIUWhKQ3BKSHhjVmFocTlZTjFPcHpTVnMtVW1jb2JlWnR0QkJZekZLaVFWSjJiV0VaNlBxOTVHZXBKelVMeUkyWXI4WnBDNEgyR0U2eGM?oc=5",
       "date": "Sat, 25 Jul 2026 22:44:21 GMT",
@@ -117,14 +124,7 @@
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE10NDV6Ry1lSllFVkdjRG54Y3RKbXc2b0VDSnZDMWtBU0hfdHU3djFBVzhreU1GUGRSc0ZaUEdRTmJPREEycm5vdnhB?oc=5",
       "date": "Sat, 25 Jul 2026 12:03:00 GMT",
       "source": "코인리더스",
-      "score": 3
-    },
-    {
-      "title": "리플 사업 확장에도 XRP는 제자리…장기 횡보 전망까지",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DWXU0NkNSVWNxX184NnBQZ0MwTDQ4d2M2MEt3MDdNNXhubHJsYkRvOExsUG1hZnlvZXB3MnFVNUljQ1hhQjFyX0hfa2UyOHl0UzZ2ZVAyMU9FZ1daV3lYRdIBZkFVX3lxTE5GRHZ3MFczcTIxS1Z2N2JJYXdQTXRtdUJCS2JtanZ0N3ptaEZGLTV2dTRXN09vbzZSRWRFLWNSYnJoVjF2enBDeXJoU29Wa1F4c01JSFozV1VKZktjWkxpbk9RS0Fldw?oc=5",
-      "date": "Sat, 25 Jul 2026 11:54:13 GMT",
-      "source": "tokenpost.kr",
-      "score": 2
+      "score": 4
     },
     {
       "title": "월가 베테랑이 주장하는 XRP에 주목해야 하는 3가지 이유",
