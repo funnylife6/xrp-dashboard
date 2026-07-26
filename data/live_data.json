@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-26T19:02:20",
+  "generated_at": "2026-07-26T20:28:05",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.1,
-    "price_krw": 1608.71,
-    "price_change_24h": -0.00153,
-    "price_change_7d": 0.95886,
-    "price_change_30d": 6.04494,
-    "market_cap_usd": 68920947493,
+    "price_krw": 1607.14,
+    "price_change_24h": 0.11871,
+    "price_change_7d": 0.63488,
+    "price_change_30d": 4.86117,
+    "market_cap_usd": 68858393229,
     "market_cap_rank": 6,
-    "volume_24h": 548670367,
+    "volume_24h": 530031277,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 65.67,
-    "sentiment_votes_down": 34.33,
+    "sentiment_votes_up": 63.77,
+    "sentiment_votes_down": 36.23,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 16.78,
-    "recent_tps": 16.78,
-    "recent_tx_count": 1510,
+    "tps_24h_avg": 25.52,
+    "recent_tps": 25.52,
+    "recent_tx_count": 2297,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 105869640,
+    "ledger_seq": 105870987,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-26 19:02:06 KST",
+    "updated_at": "2026-07-26 20:27:58 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,17 +92,17 @@
   ],
   "general_news": [
     {
+      "title": "XRP 현재 가격, 기술적 지지선 및 글로벌 규제 동향 분석",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGZlMtMWo1Sk5ZS2l5SDBabTBteVlqbWdpN2hCOWZpTi1VZjJtdnJueEU0M3RWT2VwaVpIRVYtWDU5NXowZzdReTNjbWVraEZuaTVQQXhqQ3gtVGZsMzRGQ9IBZkFVX3lxTE1nQVpoU2dyNUUwWkVEeTZDNDRzR2dTWUY1ZDZUTjBuc01QbFBsLVlJeGs1dEtvSG5ZVzRwMlhKZTRiTzR0OWJROXNWRVB5Z2d1YXpRckxJSE4tZkxPTUVwa2VaMlNQdw?oc=5",
+      "date": "Sun, 26 Jul 2026 16:44:22 GMT",
+      "source": "tokenpost.kr",
+      "score": 2
+    },
+    {
       "title": "리플X 엔지니어링 총괄 \"XRP 렛저 에이전트 거래, 2년 안에 1억건 갈 수도\"",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pMHJ5TWtlaFFtZnhnRFZtVGRQTlBzcDU3Q1pVYUo4TkRPY2VsbERfekF1WExNc3RQMVVUQWMxU3ZLWWdLZ2VOMkRmT3k4RmF2U2NB?oc=5",
       "date": "Sun, 26 Jul 2026 06:41:00 GMT",
       "source": "네이트",
-      "score": 2
-    },
-    {
-      "title": "리플 에스크로 340억 개, 정말 미국 정부 금고로 갈까",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORm9PQVFDZzlSajNFR20zSWhRbjBjZHVHSnJvUGxXaFhIaWZOOEx4alZCZVZuR1V5UUtoSXpvQnhhZ0d1SjBqcm9hNHhHa21tVjdhdk4yWTBCZU1RX0ZvZy1CSnBCOUNCdzZ3ejFRY3VwZ2NmQ010bF9BN0twR0gwaG5STTJKN24zNVFPQg?oc=5",
-      "date": "Sun, 26 Jul 2026 04:42:00 GMT",
-      "source": "네이버 프리미엄콘텐츠",
       "score": 2
     },
     {
@@ -141,6 +141,13 @@
       "score": 8
     },
     {
+      "title": "속보 | 내년 암호화폐 과세, 국세청 조직 신설에도 민심은 '재유예' 무게",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB2YWlkSDdEUmthRFBxblZBMEVFMGVOaHM2eENfU05jYVFlblE4SjVrTm5KNTNaWjZ5RmF2cDNxNWlHRVVHVnhsQ0hPR3c3OTU0?oc=5",
+      "date": "Sat, 25 Jul 2026 15:00:00 GMT",
+      "source": "CoinNess",
+      "score": 8
+    },
+    {
       "title": "개인 투자자마저 외면한 리플(XRP)…기관 자금까지 멈추며 상승 동력 흔들",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE10NDV6Ry1lSllFVkdjRG54Y3RKbXc2b0VDSnZDMWtBU0hfdHU3djFBVzhreU1GUGRSc0ZaUEdRTmJPREEycm5vdnhB?oc=5",
       "date": "Sat, 25 Jul 2026 12:03:00 GMT",
@@ -153,13 +160,6 @@
       "date": "Sat, 25 Jul 2026 10:00:15 GMT",
       "source": "글로벌이코노믹",
       "score": 2
-    },
-    {
-      "title": "리플, 기관용 스테이블코인 시장 공략 속도전...XRP도 대반격 예고",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBKVzloRWtuQjJlX242SElFaEJfc08wRWdMcHY2Ykd4NVZka05GUkNqQnc2VmNNMWpnbndVdDZOai1KT2cwVy00RndR?oc=5",
-      "date": "Fri, 24 Jul 2026 20:00:00 GMT",
-      "source": "코인리더스",
-      "score": 4
     }
   ]
 }
