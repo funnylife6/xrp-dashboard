@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-26T22:28:16",
+  "generated_at": "2026-07-26T23:28:39",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.11,
-    "price_krw": 1620.8,
-    "price_change_24h": 0.95754,
-    "price_change_7d": 1.65211,
-    "price_change_30d": 6.60613,
-    "market_cap_usd": 69430553040,
+    "price_krw": 1620.59,
+    "price_change_24h": 1.11171,
+    "price_change_7d": 1.23582,
+    "price_change_30d": 6.03802,
+    "market_cap_usd": 69428807284,
     "market_cap_rank": 6,
-    "volume_24h": 555711149,
+    "volume_24h": 588848357,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 65.22,
-    "sentiment_votes_down": 34.78,
+    "sentiment_votes_up": 63.77,
+    "sentiment_votes_down": 36.23,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 13.37,
-    "recent_tps": 13.37,
-    "recent_tx_count": 1190,
+    "tps_24h_avg": 12.45,
+    "recent_tps": 12.45,
+    "recent_tx_count": 1108,
     "recent_ledger_count": 24,
     "recent_window_sec": 89,
-    "ledger_seq": 105872866,
+    "ledger_seq": 105873810,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-26 22:28:05 KST",
+    "updated_at": "2026-07-26 23:28:32 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -48,8 +48,15 @@
   },
   "etf_news": [
     {
+      "title": "리플(XRP) 1.15달러 돌파 도전… 기관 장기 매수 속에 암호화폐 시장 주목",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNk96UTg0OHMzMlJuWTJFd1dUR2NoeDdMekw5WDBFaGQ0blQ5dWlzVU5uaTZWZk1DVnhsVlVKeXo1UmNMT1dtT3ZINE1lMXBpQTNqRlYxS1J0MkU3d1p5YzBrU0xraWV6VVE0alNBbTZLRERYZlhSeXdNcnZZd2tQZkc3MFRNbWZQ?oc=5",
+      "date": "Sun, 26 Jul 2026 22:32:34 GMT",
+      "source": "글로벌이코노믹",
+      "score": 0
+    },
+    {
       "title": "XRP(리플), 개인 관심 '잠잠'·기관은 장기 매수...1.21달러 뚫을까?",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAwa3NrWHpEZ29NWC1lLUNJNUVpODRuQ05rNTNRVFVLU3lPNzBONE1fbXZYSXBfQ283Z2x1M3dQbXcwbnZySHk1Rg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9BdHZLU2lqYzFZV05DYjN3VXViR0dSSFZkQ0JkSFVIOGNKQnJLUFItQzRwWFZzRTJMMk8zX1daVFFhd1RMV09yVlZn?oc=5",
       "date": "Sun, 26 Jul 2026 21:40:00 GMT",
       "source": "코인리더스",
       "score": 0
@@ -59,13 +66,6 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFByZGVNV3FwMHN3TVo0UnJqWERGMkVKZWF0ckZwQ2Nub0ppVVVoNGVaVzg4dXl3T2Q4THF2dkJua0REcE9CVllJRENjbnIwd0x4TEpscWJR?oc=5",
       "date": "Sun, 26 Jul 2026 01:26:00 GMT",
       "source": "위키트리",
-      "score": 0
-    },
-    {
-      "title": "개인 투자자마저 외면한 리플(XRP)…기관 자금까지 멈추며 상승 동력 흔들",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE10NDV6Ry1lSllFVkdjRG54Y3RKbXc2b0VDSnZDMWtBU0hfdHU3djFBVzhreU1GUGRSc0ZaUEdRTmJPREEycm5vdnhB?oc=5",
-      "date": "Sat, 25 Jul 2026 12:03:00 GMT",
-      "source": "코인리더스",
       "score": 0
     },
     {
@@ -92,6 +92,20 @@
   ],
   "general_news": [
     {
+      "title": "리플(XRP) 1.15달러 돌파 도전… 기관 장기 매수 속에 암호화폐 시장 주목",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNk96UTg0OHMzMlJuWTJFd1dUR2NoeDdMekw5WDBFaGQ0blQ5dWlzVU5uaTZWZk1DVnhsVlVKeXo1UmNMT1dtT3ZINE1lMXBpQTNqRlYxS1J0MkU3d1p5YzBrU0xraWV6VVE0alNBbTZLRERYZlhSeXdNcnZZd2tQZkc3MFRNbWZQ?oc=5",
+      "date": "Sun, 26 Jul 2026 22:32:34 GMT",
+      "source": "글로벌이코노믹",
+      "score": 3
+    },
+    {
+      "title": "XRP(리플), 개인 관심 '잠잠'·기관은 장기 매수...1.21달러 뚫을까?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9BdHZLU2lqYzFZV05DYjN3VXViR0dSSFZkQ0JkSFVIOGNKQnJLUFItQzRwWFZzRTJMMk8zX1daVFFhd1RMV09yVlZn?oc=5",
+      "date": "Sun, 26 Jul 2026 21:40:00 GMT",
+      "source": "코인리더스",
+      "score": 4
+    },
+    {
       "title": "XRP 현재 가격, 기술적 지지선 및 글로벌 규제 동향 분석",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGZlMtMWo1Sk5ZS2l5SDBabTBteVlqbWdpN2hCOWZpTi1VZjJtdnJueEU0M3RWT2VwaVpIRVYtWDU5NXowZzdReTNjbWVraEZuaTVQQXhqQ3gtVGZsMzRGQ9IBZkFVX3lxTE1nQVpoU2dyNUUwWkVEeTZDNDRzR2dTWUY1ZDZUTjBuc01QbFBsLVlJeGs1dEtvSG5ZVzRwMlhKZTRiTzR0OWJROXNWRVB5Z2d1YXpRckxJSE4tZkxPTUVwa2VaMlNQdw?oc=5",
       "date": "Sun, 26 Jul 2026 16:44:22 GMT",
@@ -99,11 +113,11 @@
       "score": 2
     },
     {
-      "title": "리플X 엔지니어링 총괄 \"XRP 렛저 에이전트 거래, 2년 안에 1억건 갈 수도\"",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pMHJ5TWtlaFFtZnhnRFZtVGRQTlBzcDU3Q1pVYUo4TkRPY2VsbERfekF1WExNc3RQMVVUQWMxU3ZLWWdLZ2VOMkRmT3k4RmF2U2NB?oc=5",
-      "date": "Sun, 26 Jul 2026 06:41:00 GMT",
-      "source": "네이트",
-      "score": 2
+      "title": "속보 | 마이클 세일러, BTC 추매 암시",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1xS3hUc3ZocVBtWnFUdWlhVmNaMnczZFpaTUpfd042SWRfQXIzYU02cGRaclVMbm1ZdjJoTzQwYjg2TnlVWTFsZElUUzI4c1pY?oc=5",
+      "date": "Sun, 26 Jul 2026 06:01:00 GMT",
+      "source": "CoinNess",
+      "score": 8
     },
     {
       "title": "버려진 암호화폐(코인) 리플... 차갑게 식은 투심 속 피어오르는 희망은 '이것'입니다",
@@ -134,13 +148,6 @@
       "score": 8
     },
     {
-      "title": "속보 | 내년 암호화폐 과세, 국세청 조직 신설에도 민심은 '재유예' 무게",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB2YWlkSDdEUmthRFBxblZBMEVFMGVOaHM2eENfU05jYVFlblE4SjVrTm5KNTNaWjZ5RmF2cDNxNWlHRVVHVnhsQ0hPR3c3OTU0?oc=5",
-      "date": "Sat, 25 Jul 2026 15:00:00 GMT",
-      "source": "CoinNess",
-      "score": 8
-    },
-    {
       "title": "개인 투자자마저 외면한 리플(XRP)…기관 자금까지 멈추며 상승 동력 흔들",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE10NDV6Ry1lSllFVkdjRG54Y3RKbXc2b0VDSnZDMWtBU0hfdHU3djFBVzhreU1GUGRSc0ZaUEdRTmJPREEycm5vdnhB?oc=5",
       "date": "Sat, 25 Jul 2026 12:03:00 GMT",
@@ -153,13 +160,6 @@
       "date": "Sat, 25 Jul 2026 10:00:15 GMT",
       "source": "글로벌이코노믹",
       "score": 2
-    },
-    {
-      "title": "속보 | 코인베이스 비트코인 프리미엄, 67일 연속 마이너스",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5xM1NVcXRSdzVNYVMyUmNUYVZ4SmZtVEJtUm9tNVNzUzROaW5ibXdDTmU3LS03Ql9NSWpvTkZpQXdUOS0wcDMyQ0FlOTduaXNK?oc=5",
-      "date": "Fri, 24 Jul 2026 23:03:00 GMT",
-      "source": "CoinNess",
-      "score": 8
     }
   ]
 }
