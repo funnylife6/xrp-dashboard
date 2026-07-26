@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-26T14:25:13",
+  "generated_at": "2026-07-26T15:36:45",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.098,
-    "price_krw": 1602.89,
-    "price_change_24h": 0.75187,
-    "price_change_7d": 0.43369,
-    "price_change_30d": 6.28938,
-    "market_cap_usd": 68677663723,
+    "price_usd": 1.1,
+    "price_krw": 1608.28,
+    "price_change_24h": 0.43261,
+    "price_change_7d": 0.35046,
+    "price_change_30d": 6.34902,
+    "market_cap_usd": 68910187730,
     "market_cap_rank": 6,
-    "volume_24h": 574636861,
+    "volume_24h": 580402109,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 60.94,
-    "sentiment_votes_down": 39.06,
+    "sentiment_votes_up": 63.38,
+    "sentiment_votes_down": 36.62,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 16.69,
-    "recent_tps": 16.69,
-    "recent_tx_count": 1502,
+    "tps_24h_avg": 22.72,
+    "recent_tps": 22.72,
+    "recent_tx_count": 1863,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 105865303,
+    "recent_window_sec": 82,
+    "ledger_seq": 105866419,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-26 14:25:05 KST",
+    "updated_at": "2026-07-26 15:36:31 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -113,10 +113,10 @@
       "score": 2
     },
     {
-      "title": "XRP 가격 변동, 클래리티 액트 표결 앞두고 관망세 유지",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CVXA5Qms5Q3F3V1pjRlZMSHhySmVtYjFybjVtUnZsejFRUmNMNnJaZmx5cTEwUVc1UFhvTkd1UjVfdDJwUUlyQW5ERjhRZzZzZTF2TGVxOUJEMmhta1N2etIBZkFVX3lxTE9QLVVkTUxXcUhONTloVHZvdTFCa1hhSFBQZUs4WDNCMWxJMzNXdVZ2WGIyNncwcHp5dlFycndZRTFXOUFRTHROTDZvUUpJZDNTZjI1emRjd3VCQlR0WG1rX2Z5RXQxUQ?oc=5",
-      "date": "Sun, 26 Jul 2026 00:44:16 GMT",
-      "source": "tokenpost.kr",
+      "title": "리플(XRP), 3분기 말 1.35달러 간다? AI가 제시한 상승 확률과 핵심 변수",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE00THZXRG90aTZnQ1ZLVFhVXzlVSXdaQUgtcF9YZDVqV0V5RzNYT3lwb010bHpQM2s0bXJTTGxKVTdHN3FWNjkzZFZR?oc=5",
+      "date": "Sat, 25 Jul 2026 23:13:00 GMT",
+      "source": "코인리더스",
       "score": 2
     },
     {
@@ -125,13 +125,6 @@
       "date": "Sat, 25 Jul 2026 22:44:21 GMT",
       "source": "디지털투데이",
       "score": 3
-    },
-    {
-      "title": "\"320억 XRP 소각설은 FUD\"…전문가 \"검증자 합의 없이 불가능\"",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR2Y3UFdoaG5UNHRHdmFLRjJkRkpVVmZ1MVp2UzNTMTBhYXVhSG1scnlVM1puZmVXNFdDTzlYWk9NVWFzcERGNERSb1ZYc1JRMHl1OTZSNHpQRzJzMVNBaHBQYWcxblVDeTQ2R0d1WmxITGhHRm00MXdlUVFxSDJXRXJFSDRqbUFQ?oc=5",
-      "date": "Sat, 25 Jul 2026 22:28:18 GMT",
-      "source": "글로벌이코노믹",
-      "score": 2
     },
     {
       "title": "시바이누 급등·리 하락·리플XRP 보합…스테이블코인 유입 둔화",
@@ -146,6 +139,13 @@
       "date": "Sat, 25 Jul 2026 15:08:35 GMT",
       "source": "CoinNess",
       "score": 8
+    },
+    {
+      "title": "개인 투자자마저 외면한 리플(XRP)…기관 자금까지 멈추며 상승 동력 흔들",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE10NDV6Ry1lSllFVkdjRG54Y3RKbXc2b0VDSnZDMWtBU0hfdHU3djFBVzhreU1GUGRSc0ZaUEdRTmJPREEycm5vdnhB?oc=5",
+      "date": "Sat, 25 Jul 2026 12:03:00 GMT",
+      "source": "코인리더스",
+      "score": 3
     },
     {
       "title": "월가 베테랑이 주장하는 XRP에 주목해야 하는 3가지 이유",
