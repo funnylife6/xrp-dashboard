@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-27T17:16:36",
+  "generated_at": "2026-07-27T18:54:09",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.092,
-    "price_krw": 1600.53,
-    "price_change_24h": -0.89603,
-    "price_change_7d": -1.90984,
-    "price_change_30d": 2.17304,
-    "market_cap_usd": 68282258186,
+    "price_usd": 1.087,
+    "price_krw": 1594.1,
+    "price_change_24h": -1.2879,
+    "price_change_7d": -2.48813,
+    "price_change_30d": 2.50617,
+    "market_cap_usd": 67949336292,
     "market_cap_rank": 6,
-    "volume_24h": 957351652,
+    "volume_24h": 930372465,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 67.57,
-    "sentiment_votes_down": 32.43,
+    "sentiment_votes_up": 67.53,
+    "sentiment_votes_down": 32.47,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 14.87,
-    "recent_tps": 14.87,
-    "recent_tx_count": 1219,
+    "tps_24h_avg": 14.77,
+    "recent_tps": 14.77,
+    "recent_tx_count": 1329,
     "recent_ledger_count": 24,
-    "recent_window_sec": 82,
-    "ledger_seq": 105890563,
+    "recent_window_sec": 90,
+    "ledger_seq": 105892088,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-27 17:16:29 KST",
+    "updated_at": "2026-07-27 18:53:54 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -106,13 +106,6 @@
       "score": 2
     },
     {
-      "title": "리플, 美 의회에 CLARITY Act 처리 압박…XRP 제도권 편입 갈림길",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jTHMxeUtIXy1zXzZrU2RwRERzZkhDb0d6QTNhYUgtMktscTdSRFhGa0RTUjdXd0t6RnA3a3lKUGZMZ1dHcnRzMUxRVVdQemdHOVlKNFZn0gFbQVVfeXFMUGRMQ3ZTQWJuNlBEUkM4Zkdsa3pwemQ0aloya3d3b0hWbVdlbjlzRlQ1YlM3NTlQTVpzN21vTHMwZk1aRC13ZjlIT3VRVW81VW9lNTdBNlNUbGdfZw?oc=5",
-      "date": "Mon, 27 Jul 2026 09:29:45 GMT",
-      "source": "tokenpost.kr",
-      "score": 2
-    },
-    {
       "title": "엑스알피(리플) 1.15달러 돌파가 분수령…ETF 자금은 아직 떠나지 않았다",
       "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE83RjEwdHZOQTZtRnNOUktsME1MNG5uazZyX08taEdrYW1Mc1V5emQ4Vm92b2ZLV3BCcHAyRzlmUWtwWVU?oc=5",
       "date": "Mon, 27 Jul 2026 09:15:00 GMT",
@@ -160,6 +153,13 @@
       "date": "Sun, 26 Jul 2026 21:02:00 GMT",
       "source": "위키트리",
       "score": 2
+    },
+    {
+      "title": "“美 투자자 자금, USDC 타고 거래소로 재유입”",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBjUGVaWFRVY0FoU1oxSmRnNDVWQUpVRVEwMlNkeTF6b05yVlNPV2UzbTdjblM4NjM1VURRNE55SzZfOUY3b0M4b085Sjgxbm5j?oc=5",
+      "date": "Sun, 26 Jul 2026 16:09:00 GMT",
+      "source": "CoinNess",
+      "score": 8
     }
   ]
 }
