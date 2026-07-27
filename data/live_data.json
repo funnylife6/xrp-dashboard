@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-27T01:08:37",
+  "generated_at": "2026-07-27T05:04:42",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.11,
-    "price_krw": 1624.49,
-    "price_change_24h": 0.93669,
-    "price_change_7d": 1.22887,
-    "price_change_30d": 5.98171,
-    "market_cap_usd": 69350754846,
+    "price_krw": 1622.27,
+    "price_change_24h": 0.45983,
+    "price_change_7d": 0.93948,
+    "price_change_30d": 4.41398,
+    "market_cap_usd": 69122381311,
     "market_cap_rank": 6,
-    "volume_24h": 583504769,
+    "volume_24h": 608178140,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 64.18,
-    "sentiment_votes_down": 35.82,
+    "sentiment_votes_up": 63.41,
+    "sentiment_votes_down": 36.59,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 15.06,
-    "recent_tps": 15.06,
-    "recent_tx_count": 1355,
+    "tps_24h_avg": 15.84,
+    "recent_tps": 15.84,
+    "recent_tx_count": 1299,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 105875382,
+    "recent_window_sec": 82,
+    "ledger_seq": 105879093,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-27 01:08:30 KST",
+    "updated_at": "2026-07-27 05:04:30 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -48,17 +48,17 @@
   },
   "etf_news": [
     {
-      "title": "리플(XRP) 1.15달러 돌파 도전… 기관 장기 매수 속에 암호화폐 시장 주목",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNk96UTg0OHMzMlJuWTJFd1dUR2NoeDdMekw5WDBFaGQ0blQ5dWlzVU5uaTZWZk1DVnhsVlVKeXo1UmNMT1dtT3ZINE1lMXBpQTNqRlYxS1J0MkU3d1p5YzBrU0xraWV6VVE0alNBbTZLRERYZlhSeXdNcnZZd2tQZkc3MFRNbWZQ?oc=5",
-      "date": "Sun, 26 Jul 2026 22:32:34 GMT",
-      "source": "글로벌이코노믹",
-      "score": 0
-    },
-    {
       "title": "XRP(리플), 개인 관심 '잠잠'·기관은 장기 매수...1.21달러 뚫을까?",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9BdHZLU2lqYzFZV05DYjN3VXViR0dSSFZkQ0JkSFVIOGNKQnJLUFItQzRwWFZzRTJMMk8zX1daVFFhd1RMV09yVlZn?oc=5",
       "date": "Sun, 26 Jul 2026 21:40:00 GMT",
       "source": "코인리더스",
+      "score": 0
+    },
+    {
+      "title": "XRP 현물 ETF 지난주 순유입 815.26 만 달러",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xakZJR0dJbVZSOGdnQ0RDcmp0VlRhVktzR0U5S1BRSHh5S3FOZHYwM2d3RnNXcnh6ekhXTUMxblpWUkFBSFFydkR2TXdfbmhvYXVYeg?oc=5",
+      "date": "Sun, 26 Jul 2026 11:25:00 GMT",
+      "source": "odaily.news",
       "score": 0
     },
     {
@@ -76,34 +76,34 @@
       "score": 0
     },
     {
-      "title": "클래러티법 통과 임박? 리플(XRP) 현물 ETF 폭등 전 마지막 바닥 매수 기회될까",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE94Vl9PZ0s4eWo5RHlNdnRmQmdfSV9FRWVVWFZuWGF1b3Fvb1hmWHpiWXhUclphYWRoanczVUVxTnpMU1Y1bTh0VVNR?oc=5",
-      "date": "Wed, 22 Jul 2026 21:34:00 GMT",
+      "title": "현물 ETF 자금 몰리는데 비트코인·이더리움·리플 왜 떨어졌나?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1CNFFteXhmZ3M1Q25NZkNDZThUMHRoMUhRT3FkOUg0Y3lPZWg2cnM0NWx5SnBrQU9GMDlaVGd6SkZEZHRfYVh3MS1R?oc=5",
+      "date": "Thu, 23 Jul 2026 11:56:00 GMT",
       "source": "코인리더스",
       "score": 0
     },
     {
-      "title": "SOL·XRP 현물 ETF 순유입...HYPE는 순유출",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1SUVBPaVV1YkFHLXBOVzZFOGZzdjZQX2JEcjlBY2FSTTFyT3d0NjNOVmlzdDczVkR1X2dqMFNtQUx5WXZqYy1iUExR?oc=5",
-      "date": "Wed, 22 Jul 2026 05:33:30 GMT",
+      "title": "클래러티법 통과 임박? 리플(XRP) 현물 ETF 폭등 전 마지막 바닥 매수 기회될까",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE94Vl9PZ0s4eWo5RHlNdnRmQmdfSV9FRWVVWFZuWGF1b3Fvb1hmWHpiWXhUclphYWRoanczVUVxTnpMU1Y1bTh0VVNR?oc=5",
+      "date": "Wed, 22 Jul 2026 21:34:00 GMT",
       "source": "코인리더스",
       "score": 0
     }
   ],
   "general_news": [
     {
-      "title": "리플 에스크로 물량 324억 XRP…커뮤니티 \"공개 원장으로 직접 확인\"",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1SakExRldwcW14TXZVNzFpbDJCVV9HbXB1TGowOHZRd281MFR5bUZRbkh5UHoyZkFhM2lVTkJHQ1BsT1oyeHFDemZ4Wi12Y0hCRld6LXN2QnpUekxxS0xXNTA3RkdBOHRoTnRSZ0ZMb0g3ZFk?oc=5",
-      "date": "Mon, 27 Jul 2026 00:18:12 GMT",
-      "source": "디지털투데이",
+      "title": "리플 인프라는 커지는데 XRP는 잠잠…2028년 돌파 시나리오 부상",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hbFFrRkJFSHF5LUY5alAwREo4UUg1N0RWaDFrQ2QtX0FZaXk4QUhLNThUREtQNGRTcThWMjdmNXA4Q0lqRTNYYWZpc2RwdHVVRFdj?oc=5",
+      "date": "Mon, 27 Jul 2026 02:52:00 GMT",
+      "source": "네이트",
       "score": 2
     },
     {
-      "title": "칼시 \"XRP(리플), 올해 1달러 붕괴 확률 59%\"",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4yN0VrZThzMkJqNTNaYl9BSWRmZnNGZ3U3LUNLTkNLaDkxV1lva0s4UlZmc193dzdvUUkwbmNCSlRpajRONEtJZGNB?oc=5",
-      "date": "Sun, 26 Jul 2026 23:05:00 GMT",
-      "source": "코인리더스",
-      "score": 2
+      "title": "리플(XRP) 1.15달러 돌파 도전… 기관 장기 매수 속에 암호화폐 시장 주목",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNk96UTg0OHMzMlJuWTJFd1dUR2NoeDdMekw5WDBFaGQ0blQ5dWlzVU5uaTZWZk1DVnhsVlVKeXo1UmNMT1dtT3ZINE1lMXBpQTNqRlYxS1J0MkU3d1p5YzBrU0xraWV6VVE0alNBbTZLRERYZlhSeXdNcnZZd2tQZkc3MFRNbWZQ?oc=5",
+      "date": "Sun, 26 Jul 2026 22:32:34 GMT",
+      "source": "글로벌이코노믹",
+      "score": 3
     },
     {
       "title": "비트코인·리플XRP 보합, 시바이누 상승…거래대금 13.3%↑",
@@ -127,17 +127,17 @@
       "score": 2
     },
     {
-      "title": "XRP, 1년 새 70% 급락에도 반등 기대-“5년 내 4달러 가능”",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBldG5qeDU1WVN0OUZmdDd4ckUxU3BaRFlNTXpIZ3JFZUtWQTZ0aVlhRE9lMV9NZE4tOGZPT2F1NTE2QlNVZzR3RndRaE5QVElkVlV4cFRHczZsUUNuZTNyaFJHRGZBR1I3LXRKV05n?oc=5",
-      "date": "Sun, 26 Jul 2026 15:15:00 GMT",
-      "source": "미디어파인",
-      "score": 2
-    },
-    {
       "title": "XRP, '320억개 소각설' 다시 확산…\"리플 단독으로는 불가능\"",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wc1d5X2xMZnU4N2NuZEtvWjYxNVVycGNXOUFjSmVKbTdLbVhwRy1fTEtyVUdsRTg2QmRnMElMdnRfZHNWX1Bfd0g2d0U3M0ZuS0d3ZEo2bjJXd1JQSmI0ZTJrelpYRURj?oc=5",
       "date": "Sun, 26 Jul 2026 12:02:26 GMT",
       "source": "CBC뉴스",
+      "score": 2
+    },
+    {
+      "title": "리플X 엔지니어링 총괄 \"XRP 렛저 에이전트 거래, 2년 안에 1억건 갈 수도\"",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBBMVhlVXl1czVyamMzVWFGSjJrV2xjUXlVN2kteEZodlNuYTJYVFlaT1RpNWZMSDZlZ0twMVJsRlNQNUpZVmdGZTZ5b1JxVk1PNHlNT2o1d2pEU2ctbUFmQWZDSDFfT2cyM0xxNVJpeHRFUVE?oc=5",
+      "date": "Sun, 26 Jul 2026 06:40:37 GMT",
+      "source": "디지털투데이",
       "score": 2
     },
     {
@@ -148,17 +148,17 @@
       "score": 8
     },
     {
-      "title": "XRP 거래량 26% 감소…RLUSD 확산 속 수요 연결성 논쟁",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5CbnB0N1p4aEhveE5FaUZGbk45NDdGRVlWQ3l6QmlIUWhKQ3BKSHhjVmFocTlZTjFPcHpTVnMtVW1jb2JlWnR0QkJZekZLaVFWSjJiV0VaNlBxOTVHZXBKelVMeUkyWXI4WnBDNEgyR0U2eGM?oc=5",
-      "date": "Sat, 25 Jul 2026 22:44:21 GMT",
-      "source": "디지털투데이",
+      "title": "리플 에스크로 340억 개, 정말 미국 정부 금고로 갈까",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORm9PQVFDZzlSajNFR20zSWhRbjBjZHVHSnJvUGxXaFhIaWZOOEx4alZCZVZuR1V5UUtoSXpvQnhhZ0d1SjBqcm9hNHhHa21tVjdhdk4yWTBCZU1RX0ZvZy1CSnBCOUNCdzZ3ejFRY3VwZ2NmQ010bF9BN0twR0gwaG5STTJKN24zNVFPQg?oc=5",
+      "date": "Sun, 26 Jul 2026 04:42:00 GMT",
+      "source": "네이버 프리미엄콘텐츠",
       "score": 2
     },
     {
-      "title": "Ripple XRP(XRPUSD) 종목이 7월25일에 변동성이 심화되었습니다. 무엇을 주의해야 할까요?",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ2tRclo1SlN6YTBIcHd3SmRmUkhmS2ZXV3ZoSE1KTkZkWV81aFhBcUg5LXBoN1AzcGhXT0lfYVZqb0FqWkFTaDVrdTFZc0FRcTFWVzdXYjI0OFg5WFQ4bnhibWY4a2xmNGlkSFhsNVZEc1h2cTZDdEpWaURzTVgxa1FRVkQ5R19WclJHZlA4TGxuUQ?oc=5",
-      "date": "Sat, 25 Jul 2026 16:46:02 GMT",
-      "source": "TradingKey",
+      "title": "XRP 가격 변동, 클래리티 액트 표결 앞두고 관망세 유지",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CVXA5Qms5Q3F3V1pjRlZMSHhySmVtYjFybjVtUnZsejFRUmNMNnJaZmx5cTEwUVc1UFhvTkd1UjVfdDJwUUlyQW5ERjhRZzZzZTF2TGVxOUJEMmhta1N2etIBZkFVX3lxTE9QLVVkTUxXcUhONTloVHZvdTFCa1hhSFBQZUs4WDNCMWxJMzNXdVZ2WGIyNncwcHp5dlFycndZRTFXOUFRTHROTDZvUUpJZDNTZjI1emRjd3VCQlR0WG1rX2Z5RXQxUQ?oc=5",
+      "date": "Sun, 26 Jul 2026 00:44:16 GMT",
+      "source": "tokenpost.kr",
       "score": 2
     }
   ]
