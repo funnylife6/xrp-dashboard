@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-27T15:21:26",
+  "generated_at": "2026-07-27T17:16:36",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.089,
-    "price_krw": 1598.73,
-    "price_change_24h": -1.15023,
-    "price_change_7d": -0.10006,
-    "price_change_30d": 2.54859,
-    "market_cap_usd": 68086657666,
+    "price_usd": 1.092,
+    "price_krw": 1600.53,
+    "price_change_24h": -0.89603,
+    "price_change_7d": -1.90984,
+    "price_change_30d": 2.17304,
+    "market_cap_usd": 68282258186,
     "market_cap_rank": 6,
-    "volume_24h": 858631077,
+    "volume_24h": 957351652,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 71.79,
-    "sentiment_votes_down": 28.21,
+    "sentiment_votes_up": 67.57,
+    "sentiment_votes_down": 32.43,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 18.42,
-    "recent_tps": 18.42,
-    "recent_tx_count": 1658,
+    "tps_24h_avg": 14.87,
+    "recent_tps": 14.87,
+    "recent_tx_count": 1219,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 105888765,
+    "recent_window_sec": 82,
+    "ledger_seq": 105890563,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-27 15:21:14 KST",
+    "updated_at": "2026-07-27 17:16:29 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -141,6 +141,13 @@
       "score": 2
     },
     {
+      "title": "리플(XRP) 1.15달러 돌파 도전… 기관 장기 매수 속에 암호화폐 시장 주목",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNk96UTg0OHMzMlJuWTJFd1dUR2NoeDdMekw5WDBFaGQ0blQ5dWlzVU5uaTZWZk1DVnhsVlVKeXo1UmNMT1dtT3ZINE1lMXBpQTNqRlYxS1J0MkU3d1p5YzBrU0xraWV6VVE0alNBbTZLRERYZlhSeXdNcnZZd2tQZkc3MFRNbWZQ?oc=5",
+      "date": "Sun, 26 Jul 2026 22:32:34 GMT",
+      "source": "글로벌이코노믹",
+      "score": 3
+    },
+    {
       "title": "비트코인·리플XRP 보합, 시바이누 상승…거래대금 13.3%↑",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1NTUsyUlphdEpVX2ZBTkNzYWN6N3p2YjROOEU0cWpzaFVCcG4yVDNHNTYyZmhNYXBfeXFIelR1dS1lM2ZMQ1RobXY5c00zXzctVFJEaUMxREw3eUttQ1BsT3VYUHdtR3Z4UmZtaGZlNzJ3dw?oc=5",
       "date": "Sun, 26 Jul 2026 22:28:27 GMT",
@@ -153,13 +160,6 @@
       "date": "Sun, 26 Jul 2026 21:02:00 GMT",
       "source": "위키트리",
       "score": 2
-    },
-    {
-      "title": "“美 투자자 자금, USDC 타고 거래소로 재유입”",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBjUGVaWFRVY0FoU1oxSmRnNDVWQUpVRVEwMlNkeTF6b05yVlNPV2UzbTdjblM4NjM1VURRNE55SzZfOUY3b0M4b085Sjgxbm5j?oc=5",
-      "date": "Sun, 26 Jul 2026 16:09:00 GMT",
-      "source": "CoinNess",
-      "score": 8
     }
   ]
 }
