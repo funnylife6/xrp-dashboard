@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-28T05:28:18",
+  "generated_at": "2026-07-28T07:59:22",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.059,
-    "price_krw": 1549.69,
-    "price_change_24h": -4.4296,
-    "price_change_7d": -5.80817,
-    "price_change_30d": 1.06695,
-    "market_cap_usd": 66201714580,
+    "price_usd": 1.055,
+    "price_krw": 1540.51,
+    "price_change_24h": -4.75227,
+    "price_change_7d": -6.66879,
+    "price_change_30d": 0.9896,
+    "market_cap_usd": 65965491641,
     "market_cap_rank": 6,
-    "volume_24h": 1152632950,
+    "volume_24h": 1255259291,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 65.22,
-    "sentiment_votes_down": 34.78,
+    "sentiment_votes_up": 64.47,
+    "sentiment_votes_down": 35.53,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 11.45,
-    "recent_tps": 11.45,
-    "recent_tx_count": 1019,
+    "tps_24h_avg": 14.42,
+    "recent_tps": 14.42,
+    "recent_tx_count": 1283,
     "recent_ledger_count": 24,
     "recent_window_sec": 89,
-    "ledger_seq": 105902002,
+    "ledger_seq": 105904376,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-28 05:28:04 KST",
+    "updated_at": "2026-07-28 07:59:15 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -83,10 +83,10 @@
       "score": 0
     },
     {
-      "title": "엑스알피(리플) 1.15달러 돌파가 분수령…ETF 자금은 아직 떠나지 않았다",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE83RjEwdHZOQTZtRnNOUktsME1MNG5uazZyX08taEdrYW1Mc1V5emQ4Vm92b2ZLV3BCcHAyRzlmUWtwWVU?oc=5",
-      "date": "Mon, 27 Jul 2026 09:15:00 GMT",
-      "source": "코인리더스",
+      "title": "리플(XRP), 美 자산운용사도 ETF 담았다…\"비트코인 ETF도 함께 투자\"",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA0UDMtZWZ0bi14RENBeDNiTmhHbGNqZ3BBZDVoaExyancxdkdNNXFoOHRQOXQteWVsWG9QdFJ5SXhNbHN1RFN3dkNhZUZQaFp1elBtLThwU0NrWWQxYVM1U210MA?oc=5",
+      "date": "Mon, 27 Jul 2026 08:34:27 GMT",
+      "source": "CBC뉴스",
       "score": 0
     }
   ],
@@ -120,6 +120,13 @@
       "score": 2
     },
     {
+      "title": "속보 | 코스피 서킷브레이커 발동",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE92QmtCRHcyTV8yQVhvaWw3NkRoSFdFV01HT1IyS2lxUHpocDFOTnQ1QUUwNVA0UkRVcmJFQk5fNjlrRTVZTW5kV204dDZUWnZh?oc=5",
+      "date": "Mon, 27 Jul 2026 16:15:00 GMT",
+      "source": "CoinNess",
+      "score": 8
+    },
+    {
       "title": "리플(XRP) 1.10달러 지켰지만…ETF·파생 수요 둔화에 반등 ‘빨간불’",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1mc0pxQkUwTkctRWpzYjZ3NTFzVzlPbkFjVnZSOHJUbVk2b2k4VDg4SXNVbm5fX0R5YzRYb2dRWmJtVUJVZVNQRE9n?oc=5",
       "date": "Mon, 27 Jul 2026 12:39:00 GMT",
@@ -132,13 +139,6 @@
       "date": "Mon, 27 Jul 2026 10:36:00 GMT",
       "source": "코인리더스",
       "score": 2
-    },
-    {
-      "title": "엑스알피(리플) 1.15달러 돌파가 분수령…ETF 자금은 아직 떠나지 않았다",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE83RjEwdHZOQTZtRnNOUktsME1MNG5uazZyX08taEdrYW1Mc1V5emQ4Vm92b2ZLV3BCcHAyRzlmUWtwWVU?oc=5",
-      "date": "Mon, 27 Jul 2026 09:15:00 GMT",
-      "source": "코인리더스",
-      "score": 3
     },
     {
       "title": "리플(XRP), 美 자산운용사도 ETF 담았다…\"비트코인 ETF도 함께 투자\"",
