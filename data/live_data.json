@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-28T15:13:38",
+  "generated_at": "2026-07-28T16:56:24",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.053,
-    "price_krw": 1533.11,
-    "price_change_24h": -3.28943,
-    "price_change_7d": -8.2725,
-    "price_change_30d": 0.1632,
-    "market_cap_usd": 65869302670,
+    "price_usd": 1.065,
+    "price_krw": 1549.64,
+    "price_change_24h": -2.41823,
+    "price_change_7d": -7.71532,
+    "price_change_30d": 1.3672,
+    "market_cap_usd": 66610744329,
     "market_cap_rank": 6,
-    "volume_24h": 1311109423,
+    "volume_24h": 1340896381,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 61.54,
-    "sentiment_votes_down": 38.46,
+    "sentiment_votes_up": 65.06,
+    "sentiment_votes_down": 34.94,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 20.42,
-    "recent_tps": 20.42,
-    "recent_tx_count": 1838,
+    "tps_24h_avg": 25.73,
+    "recent_tps": 25.73,
+    "recent_tx_count": 2316,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 105911150,
+    "ledger_seq": 105912744,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-28 15:13:25 KST",
+    "updated_at": "2026-07-28 16:56:13 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -47,13 +47,6 @@
     "data_source": "news_parse"
   },
   "etf_news": [
-    {
-      "title": "비트코인 6만3,000달러도 무너지나…연준 결정 앞두고 리플(XRP) 1달러 위태",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1GRlFMYnBZY09zY1huWTE1cnZ5dExRZmpEN0NsUDVhN1g3RUtmdnozR09NZnliUGo4VlNMXy1IbFdWWmhCSTd5aW5B?oc=5",
-      "date": "Tue, 28 Jul 2026 13:05:00 GMT",
-      "source": "코인리더스",
-      "score": 0
-    },
     {
       "title": "암호화폐(코인) 리플 ETF 자산 10억 달러 모였는데 왜 XRP는 1.05달러로 하락했나",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91R0Y3WFp4bllCQ2xMb1dvM1NQZnhBU0lGZ3V2a1lhYUVTZXBfMXNjWk9PXzhTa3lmYzE4N0U3bzZWVkN2cnlCcWtrdUlCY1gxc2ltSHhB?oc=5",
@@ -87,6 +80,13 @@
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1mc0pxQkUwTkctRWpzYjZ3NTFzVzlPbkFjVnZSOHJUbVk2b2k4VDg4SXNVbm5fX0R5YzRYb2dRWmJtVUJVZVNQRE9n?oc=5",
       "date": "Mon, 27 Jul 2026 12:39:00 GMT",
       "source": "코인리더스",
+      "score": 0
+    },
+    {
+      "title": "리플(XRP), 美 자산운용사도 ETF 담았다…\"비트코인 ETF도 함께 투자\"",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zTk5lV2ZmU1FpZnlwUW9zUDF6N2tzblVMNmRjZG4zTEg5c1dNdDB4MG5pajJQQlBfODJYQWtSbUZYZ3EyRExjcnY2OWh0SEJqckJOY1Q3V1g2b3VjWlZJRTZ0cFA4UQ?oc=5",
+      "date": "Mon, 27 Jul 2026 08:34:27 GMT",
+      "source": "CBC뉴스",
       "score": 0
     }
   ],
@@ -134,13 +134,6 @@
       "score": 2
     },
     {
-      "title": "속보 | 마라홀딩스 CEO \"AI 전력 공급, BTC 채굴보다 훨씬 돈 된다\" - 코인니스",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5IVUFla3A2MFlXYlNBQUhjYV96bU1wc2RJZFJRa2otLWFKLWFTUHRwZFhKdDAxTlBmU3lQTlFmQVRHcldEcVNpNA?oc=5",
-      "date": "Mon, 27 Jul 2026 19:17:00 GMT",
-      "source": "CoinNess",
-      "score": 8
-    },
-    {
       "title": "속보 | 코스피 서킷브레이커 발동",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE92QmtCRHcyTV8yQVhvaWw3NkRoSFdFV01HT1IyS2lxUHpocDFOTnQ1QUUwNVA0UkRVcmJFQk5fNjlrRTVZTW5kV204dDZUWnZh?oc=5",
       "date": "Mon, 27 Jul 2026 16:15:00 GMT",
@@ -160,6 +153,13 @@
       "date": "Mon, 27 Jul 2026 10:36:00 GMT",
       "source": "코인리더스",
       "score": 2
+    },
+    {
+      "title": "리플(XRP), 美 자산운용사도 ETF 담았다…\"비트코인 ETF도 함께 투자\"",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zTk5lV2ZmU1FpZnlwUW9zUDF6N2tzblVMNmRjZG4zTEg5c1dNdDB4MG5pajJQQlBfODJYQWtSbUZYZ3EyRExjcnY2OWh0SEJqckJOY1Q3V1g2b3VjWlZJRTZ0cFA4UQ?oc=5",
+      "date": "Mon, 27 Jul 2026 08:34:27 GMT",
+      "source": "CBC뉴스",
+      "score": 3
     }
   ]
 }
