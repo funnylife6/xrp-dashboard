@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-28T07:59:22",
+  "generated_at": "2026-07-28T10:37:39",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.055,
-    "price_krw": 1540.51,
-    "price_change_24h": -4.75227,
-    "price_change_7d": -6.66879,
-    "price_change_30d": 0.9896,
-    "market_cap_usd": 65965491641,
+    "price_krw": 1540.17,
+    "price_change_24h": -4.76865,
+    "price_change_7d": -7.0335,
+    "price_change_30d": 0.5442,
+    "market_cap_usd": 65959219305,
     "market_cap_rank": 6,
-    "volume_24h": 1255259291,
+    "volume_24h": 1276634073,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 64.47,
-    "sentiment_votes_down": 35.53,
+    "sentiment_votes_up": 64.2,
+    "sentiment_votes_down": 35.8,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 14.42,
-    "recent_tps": 14.42,
-    "recent_tx_count": 1283,
+    "tps_24h_avg": 14.84,
+    "recent_tps": 14.84,
+    "recent_tx_count": 1321,
     "recent_ledger_count": 24,
     "recent_window_sec": 89,
-    "ledger_seq": 105904376,
+    "ledger_seq": 105906853,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-28 07:59:15 KST",
+    "updated_at": "2026-07-28 10:37:32 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -84,20 +84,13 @@
     },
     {
       "title": "리플(XRP), 美 자산운용사도 ETF 담았다…\"비트코인 ETF도 함께 투자\"",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA0UDMtZWZ0bi14RENBeDNiTmhHbGNqZ3BBZDVoaExyancxdkdNNXFoOHRQOXQteWVsWG9QdFJ5SXhNbHN1RFN3dkNhZUZQaFp1elBtLThwU0NrWWQxYVM1U210MA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zTk5lV2ZmU1FpZnlwUW9zUDF6N2tzblVMNmRjZG4zTEg5c1dNdDB4MG5pajJQQlBfODJYQWtSbUZYZ3EyRExjcnY2OWh0SEJqckJOY1Q3V1g2b3VjWlZJRTZ0cFA4UQ?oc=5",
       "date": "Mon, 27 Jul 2026 08:34:27 GMT",
       "source": "CBC뉴스",
       "score": 0
     }
   ],
   "general_news": [
-    {
-      "title": "리플(XRP)·스텔라(XLM) 동반 하락…매도세 강화에 핵심 지지선 위협",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ZNVk1ZlZMYTgtaE9qaVdRdllyZWEyNVNpa3hVM0RmVWVJejMzaXNtYmRTclFxUUdwZU44T1NHZnk5Zkdia2x5MXpn?oc=5",
-      "date": "Tue, 28 Jul 2026 05:09:00 GMT",
-      "source": "코인리더스",
-      "score": 2
-    },
     {
       "title": "클래러티법 표결 임박했는데…리플(XRP) 1.09달러 지지선 무너지고 폭락할까",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1hLXp1VjBZQk5yRnpLZU9jOExGeHZnNmVVN1BhdWExaFZ5QXdpNFFvQWkydzBjRC04Q0ZpY3JHbFFNLWl4Y01ZZWl3?oc=5",
@@ -117,6 +110,13 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5lbW90cWRmaHpSX1NrQnFYcmx2TGlnblNfbnY5eE9zdGxBdjIxTjlDN0NDaFpzdERWZGgwbF9YOFJPY1d0UHBTTnNDeVJLLU5YTWJpVnNpODgzZmNKTGFWTW0xOXZIS014MEcycVpBSXYydw?oc=5",
       "date": "Mon, 27 Jul 2026 21:42:45 GMT",
       "source": "톱스타뉴스",
+      "score": 2
+    },
+    {
+      "title": "리플(XRP), 글로벌 규제 승인 및 인프라 확장 가속",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhaEx5NjE4YjdkVUlWaDJyX3hBb3NmV1BZcXRzM0YyWktDclpJaFh3a3JiQnJaTy1Palh6T2RFckZIVDYwN3VxdkJjUnJ2cjM3TWtkVmo4ZEFtR3BGNTNiONIBZkFVX3lxTFBVdzZNaXhTOEZqQ1VsM2pZYmNNMHVqNURKS0lXUVpMUE94LXVQTTItX3gyaFhDTDRSd3RRNGRWWnF1emd1emlVdnhOMWJGX2FZcmNXUkZRY3dFRE5oNEktbVRoeWIwZw?oc=5",
+      "date": "Mon, 27 Jul 2026 16:44:45 GMT",
+      "source": "tokenpost.kr",
       "score": 2
     },
     {
@@ -142,7 +142,7 @@
     },
     {
       "title": "리플(XRP), 美 자산운용사도 ETF 담았다…\"비트코인 ETF도 함께 투자\"",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA0UDMtZWZ0bi14RENBeDNiTmhHbGNqZ3BBZDVoaExyancxdkdNNXFoOHRQOXQteWVsWG9QdFJ5SXhNbHN1RFN3dkNhZUZQaFp1elBtLThwU0NrWWQxYVM1U210MA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zTk5lV2ZmU1FpZnlwUW9zUDF6N2tzblVMNmRjZG4zTEg5c1dNdDB4MG5pajJQQlBfODJYQWtSbUZYZ3EyRExjcnY2OWh0SEJqckJOY1Q3V1g2b3VjWlZJRTZ0cFA4UQ?oc=5",
       "date": "Mon, 27 Jul 2026 08:34:27 GMT",
       "source": "CBC뉴스",
       "score": 3
