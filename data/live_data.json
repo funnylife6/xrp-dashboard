@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-28T21:08:18",
+  "generated_at": "2026-07-28T22:32:19",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.065,
-    "price_krw": 1547.19,
-    "price_change_24h": -2.25859,
-    "price_change_7d": -7.24572,
-    "price_change_30d": 1.91577,
-    "market_cap_usd": 66577272065,
+    "price_usd": 1.066,
+    "price_krw": 1549.87,
+    "price_change_24h": -1.21687,
+    "price_change_7d": -7.0082,
+    "price_change_30d": 2.55065,
+    "market_cap_usd": 66670987387,
     "market_cap_rank": 6,
-    "volume_24h": 1330994810,
+    "volume_24h": 1311541171,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 58.33,
-    "sentiment_votes_down": 41.67,
+    "sentiment_votes_up": 57.83,
+    "sentiment_votes_down": 42.17,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 18.76,
-    "recent_tps": 18.76,
-    "recent_tx_count": 1670,
+    "tps_24h_avg": 14.81,
+    "recent_tps": 14.81,
+    "recent_tx_count": 1333,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 105916667,
+    "recent_window_sec": 90,
+    "ledger_seq": 105917968,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-28 21:08:09 KST",
+    "updated_at": "2026-07-28 22:32:07 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,6 +92,20 @@
   ],
   "general_news": [
     {
+      "title": "쑨 급등·이더리움 상승·리플XRP 보합…연준 경계",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Dem5WS21CM0tkb3hLREFzRXVQdDNldTVYbDlnT2hUdzhFeDd3MzBNYV9aOW1zdEJrZDFSR3laZzlFNllaS0VIZjhydnFaMHVfOFRWOXBld3ZESzM5VEUta2JHekQ3R2drcDB5TjFNdFpzQQ?oc=5",
+      "date": "Tue, 28 Jul 2026 22:16:59 GMT",
+      "source": "톱스타뉴스",
+      "score": 2
+    },
+    {
+      "title": "Fed 앞두고 비트코인·리플 동반 약세…XRP ETF 수요는 유지",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxbVVsNlNEMmJBZW1sXzlqRVR4YVh0V1ZzWGxXQ2Y0anFKaXQ1WWpiblUxSWNYNDJreEFsRF91d3VGN3ZXSUxvdWhHQ2c3RWx1Qmo4ejJpY2hlZG0tLUIyQ9IBZkFVX3lxTFBIX0t2RnZpcThTeVF3WGVnckVRM1c0S1dNR2c1M3lYdGdxRWt6bzNHd1I0Qmd1Q0FCUVJXeG83WXRfOGZTQklHY3FSNE9fdWhoY3JHbnN5a3ZJZHBLSVB2N05nNXhhZw?oc=5",
+      "date": "Tue, 28 Jul 2026 20:40:31 GMT",
+      "source": "tokenpost.kr",
+      "score": 3
+    },
+    {
       "title": "리플 RLUSD, 업비트 입성...원화·BTC·USDT 동시 지원",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBydWpfU3pJOTZZSHQxMlBWMjIyXzV2OEdUWjk1MG5uNC1BVzNtMWc5UTRnLTdlcU1IZVpMZ3ZocHh5Y2ZUQ0d0cjdR?oc=5",
       "date": "Tue, 28 Jul 2026 16:00:00 GMT",
@@ -104,13 +118,6 @@
       "date": "Tue, 28 Jul 2026 13:20:00 GMT",
       "source": "CBC뉴스",
       "score": 3
-    },
-    {
-      "title": "리플(XRP) 매도세 심화…미결제 약정 증가에도 1달러 향해 하락",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE83cGtlX2trcml1WGJudnozYmsyRjZHVTNiejB6WlJYTDlyZjU2alJIWGRFS0plVTlLcV9pQlllazQ5a3ZEU3dqSTd3?oc=5",
-      "date": "Tue, 28 Jul 2026 13:07:00 GMT",
-      "source": "코인리더스",
-      "score": 2
     },
     {
       "title": "암호화폐(코인) 리플 ETF 자산 10억 달러 모였는데 왜 XRP는 1.05달러로 하락했나",
@@ -127,25 +134,11 @@
       "score": 2
     },
     {
-      "title": "클래러티법 표결 임박했는데…리플(XRP) 1.09달러 지지선 무너지고 폭락할까",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1hLXp1VjBZQk5yRnpLZU9jOExGeHZnNmVVN1BhdWExaFZ5QXdpNFFvQWkydzBjRC04Q0ZpY3JHbFFNLWl4Y01ZZWl3?oc=5",
-      "date": "Mon, 27 Jul 2026 22:44:00 GMT",
-      "source": "코인리더스",
-      "score": 2
-    },
-    {
       "title": "골드만삭스도 1억 5,000만 달러 품었다! 리플(XRP) 현물 ETF의 화려한 부활!",
       "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9uTVFBX3poRmh3Rm9VQmhielV0M2xxV0VDdGl6QWpWVEgzTHdYVUplZVZpblUyc3JMVjFGcXVzakx3NjlD?oc=5",
       "date": "Mon, 27 Jul 2026 22:06:00 GMT",
       "source": "코인리더스",
       "score": 4
-    },
-    {
-      "title": "리플XRP·비트코인 약세, 에스프레소 급락…공격 중단 효과 제한",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5lbW90cWRmaHpSX1NrQnFYcmx2TGlnblNfbnY5eE9zdGxBdjIxTjlDN0NDaFpzdERWZGgwbF9YOFJPY1d0UHBTTnNDeVJLLU5YTWJpVnNpODgzZmNKTGFWTW0xOXZIS014MEcycVpBSXYydw?oc=5",
-      "date": "Mon, 27 Jul 2026 21:42:45 GMT",
-      "source": "톱스타뉴스",
-      "score": 2
     },
     {
       "title": "속보 | 코스피 서킷브레이커 발동",
@@ -160,6 +153,13 @@
       "date": "Mon, 27 Jul 2026 15:51:00 GMT",
       "source": "CoinNess",
       "score": 9
+    },
+    {
+      "title": "리플(XRP) 1.10달러 지켰지만…ETF·파생 수요 둔화에 반등 ‘빨간불’",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1mc0pxQkUwTkctRWpzYjZ3NTFzVzlPbkFjVnZSOHJUbVk2b2k4VDg4SXNVbm5fX0R5YzRYb2dRWmJtVUJVZVNQRE9n?oc=5",
+      "date": "Mon, 27 Jul 2026 12:39:00 GMT",
+      "source": "코인리더스",
+      "score": 3
     }
   ]
 }
