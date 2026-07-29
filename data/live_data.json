@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-29T01:52:31",
+  "generated_at": "2026-07-29T05:15:11",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.073,
-    "price_krw": 1561.14,
-    "price_change_24h": 1.39194,
-    "price_change_7d": -6.33152,
-    "price_change_30d": 2.59618,
-    "market_cap_usd": 67066495601,
+    "price_usd": 1.086,
+    "price_krw": 1568.13,
+    "price_change_24h": 2.68062,
+    "price_change_7d": -4.8325,
+    "price_change_30d": 4.36464,
+    "market_cap_usd": 67890673189,
     "market_cap_rank": 6,
-    "volume_24h": 1218167206,
+    "volume_24h": 1270630469,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 59.49,
-    "sentiment_votes_down": 40.51,
+    "sentiment_votes_up": 59.76,
+    "sentiment_votes_down": 40.24,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 22.06,
-    "recent_tps": 22.06,
-    "recent_tx_count": 1985,
+    "tps_24h_avg": 12.56,
+    "recent_tps": 12.56,
+    "recent_tx_count": 1118,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 105921064,
+    "recent_window_sec": 89,
+    "ledger_seq": 105924221,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-29 01:52:22 KST",
+    "updated_at": "2026-07-29 05:15:04 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -141,13 +141,6 @@
       "score": 4
     },
     {
-      "title": "속보 | 코스피 서킷브레이커 발동",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE92QmtCRHcyTV8yQVhvaWw3NkRoSFdFV01HT1IyS2lxUHpocDFOTnQ1QUUwNVA0UkRVcmJFQk5fNjlrRTVZTW5kV204dDZUWnZh?oc=5",
-      "date": "Mon, 27 Jul 2026 16:15:00 GMT",
-      "source": "CoinNess",
-      "score": 8
-    },
-    {
       "title": "속보 | 美 민주당 원내대표, 암호화폐 법안 협상 일환으로 SEC·CFTC 후보 백악관에 제안",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5icHJLQzM2TTlFdmZVZGNEWFZVOEFULXF5Z1M0WDVzUVFHRWdnWlZ5LTZtZGMtS0dSWkdsaERBVEZJX1hEMEhrTWxud3U4SmIw?oc=5",
       "date": "Mon, 27 Jul 2026 15:51:00 GMT",
@@ -160,6 +153,13 @@
       "date": "Mon, 27 Jul 2026 12:39:00 GMT",
       "source": "코인리더스",
       "score": 3
+    },
+    {
+      "title": "리플 첫 SEC 승리 날 1,000달러 투자했다면…현재 가치는?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9kSDVORHBYQ3ZPNHBZNlVUN09OU29IODNNUTUzSWFmYmw3WF9HeVNoTk1IMktHRXV5WjkzNURicHI0OUQ1WHVpYXRR?oc=5",
+      "date": "Mon, 27 Jul 2026 10:36:00 GMT",
+      "source": "코인리더스",
+      "score": 2
     }
   ]
 }
