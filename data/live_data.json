@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-29T13:04:25",
+  "generated_at": "2026-07-29T15:26:07",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.077,
-    "price_krw": 1564.76,
-    "price_change_24h": 2.25192,
-    "price_change_7d": -5.2126,
-    "price_change_30d": 2.41981,
-    "market_cap_usd": 67329966773,
+    "price_usd": 1.07,
+    "price_krw": 1553.02,
+    "price_change_24h": 0.83926,
+    "price_change_7d": -6.29264,
+    "price_change_30d": 2.16916,
+    "market_cap_usd": 66867712729,
     "market_cap_rank": 6,
-    "volume_24h": 1255578464,
+    "volume_24h": 1220952134,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 63.75,
-    "sentiment_votes_down": 36.25,
+    "sentiment_votes_up": 62.67,
+    "sentiment_votes_down": 37.33,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 10.27,
-    "recent_tps": 10.27,
-    "recent_tx_count": 914,
+    "tps_24h_avg": 21.89,
+    "recent_tps": 21.89,
+    "recent_tx_count": 1948,
     "recent_ledger_count": 24,
     "recent_window_sec": 89,
-    "ledger_seq": 105931582,
+    "ledger_seq": 105933791,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-29 13:04:17 KST",
+    "updated_at": "2026-07-29 15:25:53 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -47,6 +47,20 @@
     "data_source": "news_parse"
   },
   "etf_news": [
+    {
+      "title": "리플(XRP), 그레이스케일 CEO도 ETF 일부 매도…\"2611주 처분\"",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ROXhuNmstOTREVjFqVDl5cVZBSHRBMXZJWG1saVpCMG1TQUpudm1Rc3VLV0d5dnFpSXF5dEhIeGRacDJqc1NCS1ZsV2FnMkhpQlZr?oc=5",
+      "date": "Wed, 29 Jul 2026 14:38:00 GMT",
+      "source": "네이트",
+      "score": 0
+    },
+    {
+      "title": "\"연준·클래리티 악재 속\"…그레이스케일 CEO, XRP 현물 ETF 지분 첫 매각",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9fYVcyVldKekRoMHBzV2w5SzVQOFFPaHl0bVR3UFFuT3dWWUFHSjFGWnBQM0RGWi15bEVyNmhaUWVQU0hTTHRCZll3cUVWY3VGaEVPRjRObjA?oc=5",
+      "date": "Wed, 29 Jul 2026 14:22:00 GMT",
+      "source": "블록미디어",
+      "score": 0
+    },
     {
       "title": "리플(XRP) 다음 강세장서 5달러 갈까…두 가지 상승 동력은?",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4zTDNlempkdUdqM1BIRWQwTElFS084UUVCTDBZZ3JselZuenRZVmZDU2dLdTEwSS1VdFhhM2FFMDZhWF8yLWZKVHp3?oc=5",
@@ -74,29 +88,29 @@
       "date": "Tue, 28 Jul 2026 02:36:45 GMT",
       "source": "PANews",
       "score": 0
-    },
-    {
-      "title": "골드만삭스도 1억 5,000만 달러 품었다! 리플(XRP) 현물 ETF의 화려한 부활!",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9uTVFBX3poRmh3Rm9VQmhielV0M2xxV0VDdGl6QWpWVEgzTHdYVUplZVZpblUyc3JMVjFGcXVzakx3NjlD?oc=5",
-      "date": "Mon, 27 Jul 2026 22:06:00 GMT",
-      "source": "코인리더스",
-      "score": 0
-    },
-    {
-      "title": "XRP 가격 전망: ETF 자금 유입이 월간 최저로 줄면 1.11달러는 어떻게 되나",
-      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPS0pFMTg0VEVDZzJGQmpYcjRRUzcyNHRiQnhwUW43VDJkY1lMWVp1Zy04Y0FkUE1udzROeWY0OFJDcEFlbWN5ejFMQVV0eU90RENXWEtXN0UwcFI3SGk4dnExRDFvRTJPQTB0MWhySDJrRnpodUVERzdOWERzQ3dJUUR1MmxidV8wNzQ2R29xcUtiaUFzQ3JHMXkzbHhsRklkbHNzM0tna0I4UGoyQXVtUUZqMVYtclBiYXkyUzlOcUR2eFAyQVA4bHBWR1BReVR1LTlFRzhjX3YyTDFmZE1yWEZMWnJLS2NPUTJuY3F0NnhKbDBucmRydjRHRFd0eUlLYjd1MW5UdXF0Ull4NG9NclMzNE5PdnN6VXg3cThiSDI0dGJyTzA0LTZ6M2lnQTQzSkNWel9ZUmVXOEtvLUI2NjlpZExfZU1Ga0E?oc=5",
-      "date": "Mon, 27 Jul 2026 15:02:58 GMT",
-      "source": "Yellow.com",
-      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "리플(XRP), 그레이스케일 CEO도 ETF 일부 매도…\"2611주 처분\"",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ROXhuNmstOTREVjFqVDl5cVZBSHRBMXZJWG1saVpCMG1TQUpudm1Rc3VLV0d5dnFpSXF5dEhIeGRacDJqc1NCS1ZsV2FnMkhpQlZr?oc=5",
+      "date": "Wed, 29 Jul 2026 14:38:00 GMT",
+      "source": "네이트",
+      "score": 3
+    },
     {
       "title": "리플(XRP) 다음 강세장서 5달러 갈까…두 가지 상승 동력은?",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4zTDNlempkdUdqM1BIRWQwTElFS084UUVCTDBZZ3JselZuenRZVmZDU2dLdTEwSS1VdFhhM2FFMDZhWF8yLWZKVHp3?oc=5",
       "date": "Wed, 29 Jul 2026 12:18:00 GMT",
       "source": "코인리더스",
       "score": 2
+    },
+    {
+      "title": "그레이스케일 CEO, 상장 전 매수한 XRP ETF 지분 매도 신청",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBmQkJHeU93N25WbHZPbDI3SDdLLXBWMlFxbE1GeF90bVJsWnVKcXBhdWEzOC1EcHRGUzF2TTJDRW5mOVpfM19FSEpZdlBVSmJQc29lZ1phV1VsYVkzdy1IbFd6cVd0SkJJOGUxZVZ2SkpJXzdRV2JV?oc=5",
+      "date": "Wed, 29 Jul 2026 11:35:05 GMT",
+      "source": "BeInCrypto",
+      "score": 3
     },
     {
       "title": "XRP, 연준 금리 결정 앞두고 1.05달러선 기로… 리플 ETF 수급은 하단 지지",
@@ -135,10 +149,10 @@
     },
     {
       "title": "테더·USDC 양강 구도 흔드나…리플유에스디 RLUSD 업비트 상장",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYQ2gtREpZRzd5ZzN4SVRibGFyUlhqSzhvdVBMV21CMHhjXzQxaXp2dDNEUWlhVWVTUWtiR0xCeGpHZzcxYTltTGlxcXN0MnNTNXI0?oc=5",
-      "date": "Tue, 28 Jul 2026 13:21:00 GMT",
-      "source": "네이트",
-      "score": 4
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtcTBETGREYWJMQkxsanNTRnM5eldaNmFMdkJ2aXJuN1c4VlZ5TTdXMkZLSkM4MzhPcHZzWk4wdFFHZHJhVnozRnYtQ1JhVVQzc3plUlVZVWpXWExGUnJfeGQzS3dLRmlu?oc=5",
+      "date": "Tue, 28 Jul 2026 13:20:00 GMT",
+      "source": "CBC뉴스",
+      "score": 3
     },
     {
       "title": "암호화폐(코인) 리플 ETF 자산 10억 달러 모였는데 왜 XRP는 1.05달러로 하락했나",
@@ -146,20 +160,6 @@
       "date": "Tue, 28 Jul 2026 06:41:00 GMT",
       "source": "위키트리",
       "score": 3
-    },
-    {
-      "title": "골드만삭스도 1억 5,000만 달러 품었다! 리플(XRP) 현물 ETF의 화려한 부활!",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9uTVFBX3poRmh3Rm9VQmhielV0M2xxV0VDdGl6QWpWVEgzTHdYVUplZVZpblUyc3JMVjFGcXVzakx3NjlD?oc=5",
-      "date": "Mon, 27 Jul 2026 22:06:00 GMT",
-      "source": "코인리더스",
-      "score": 4
-    },
-    {
-      "title": "리플XRP·비트코인 약세, 에스프레소 급락…공격 중단 효과 제한",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5lbW90cWRmaHpSX1NrQnFYcmx2TGlnblNfbnY5eE9zdGxBdjIxTjlDN0NDaFpzdERWZGgwbF9YOFJPY1d0UHBTTnNDeVJLLU5YTWJpVnNpODgzZmNKTGFWTW0xOXZIS014MEcycVpBSXYydw?oc=5",
-      "date": "Mon, 27 Jul 2026 21:42:45 GMT",
-      "source": "톱스타뉴스",
-      "score": 2
     }
   ]
 }
