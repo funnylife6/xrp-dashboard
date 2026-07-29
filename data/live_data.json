@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-29T16:47:27",
+  "generated_at": "2026-07-29T18:02:41",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.066,
-    "price_krw": 1544.17,
-    "price_change_24h": 0.24715,
-    "price_change_7d": -7.37552,
-    "price_change_30d": 1.80105,
-    "market_cap_usd": 66643851420,
+    "price_usd": 1.077,
+    "price_krw": 1559.53,
+    "price_change_24h": 1.79634,
+    "price_change_7d": -6.08831,
+    "price_change_30d": 1.38296,
+    "market_cap_usd": 67350173677,
     "market_cap_rank": 6,
-    "volume_24h": 1291808997,
+    "volume_24h": 1303198368,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 59.46,
-    "sentiment_votes_down": 40.54,
+    "sentiment_votes_up": 65.22,
+    "sentiment_votes_down": 34.78,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 13.67,
-    "recent_tps": 13.67,
-    "recent_tx_count": 1217,
+    "tps_24h_avg": 23.59,
+    "recent_tps": 23.59,
+    "recent_tx_count": 1934,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 105935064,
+    "recent_window_sec": 82,
+    "ledger_seq": 105936245,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-29 16:47:15 KST",
+    "updated_at": "2026-07-29 18:02:28 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,13 +92,6 @@
   ],
   "general_news": [
     {
-      "title": "XRP, 주요 코인보다 하락 속도 빠른 이유?",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9tVWdWUGVYNTJRMnFPOEpSaDJTMm9JXzJJV3Ixa05OQ1Jnb013dU9xMmIxYnFOQ3NGTGMwNHhwQ0VKMHRwNnJILThsdXhoWGYzcXB3NFF6Zm5jdGx3LWtvSVh2SldRT3Iwc0I4eW90Zkk0UQ?oc=5",
-      "date": "Wed, 29 Jul 2026 15:20:55 GMT",
-      "source": "kr.beincrypto.com",
-      "score": 2
-    },
-    {
       "title": "리플(XRP), 그레이스케일 CEO도 ETF 일부 매도…\"2611주 처분\"",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ROXhuNmstOTREVjFqVDl5cVZBSHRBMXZJWG1saVpCMG1TQUpudm1Rc3VLV0d5dnFpSXF5dEhIeGRacDJqc1NCS1ZsV2FnMkhpQlZr?oc=5",
       "date": "Wed, 29 Jul 2026 14:38:00 GMT",
@@ -111,6 +104,13 @@
       "date": "Wed, 29 Jul 2026 12:18:00 GMT",
       "source": "코인리더스",
       "score": 2
+    },
+    {
+      "title": "그레이스케일 CEO, 상장 전 매수한 XRP ETF 지분 매도 신청",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBmQkJHeU93N25WbHZPbDI3SDdLLXBWMlFxbE1GeF90bVJsWnVKcXBhdWEzOC1EcHRGUzF2TTJDRW5mOVpfM19FSEpZdlBVSmJQc29lZ1phV1VsYVkzdy1IbFd6cVd0SkJJOGUxZVZ2SkpJXzdRV2JV?oc=5",
+      "date": "Wed, 29 Jul 2026 11:35:05 GMT",
+      "source": "BeInCrypto",
+      "score": 3
     },
     {
       "title": "홍콩 거래 허용된 XRP…1.09달러 돌파 여부 주목",
@@ -137,14 +137,14 @@
       "title": "\"1달러 방어선 무너졌다\"… 리플, 95% '상승 베팅' 쏠림 속 대규모 청산 경고",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVTV2SDJBLUVqLXdDNm5EdU5ia3NKOXZoWHRDal9wSEVjN0oxOFk4bFBRSXRwSlRSdWlUYTM0ZjdrMFNHaWlSWlpCV1RZOTl1S1FtaVlmVWp1VXlaYUs1S1hZdnRqNkhKVHlkOXdHWl9Yel9KTjFjNHlLVEMtTjJUd2pyczhiT1RD?oc=5",
       "date": "Tue, 28 Jul 2026 23:43:15 GMT",
-      "source": "g-enews.com",
+      "source": "글로벌이코노믹",
       "score": 2
     },
     {
       "title": "쑨 급등·이더리움 상승·리플XRP 보합…연준 경계",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Dem5WS21CM0tkb3hLREFzRXVQdDNldTVYbDlnT2hUdzhFeDd3MzBNYV9aOW1zdEJrZDFSR3laZzlFNllaS0VIZjhydnFaMHVfOFRWOXBld3ZESzM5VEUta2JHekQ3R2drcDB5TjFNdFpzQQ?oc=5",
       "date": "Tue, 28 Jul 2026 22:16:59 GMT",
-      "source": "톱스타뉴스",
+      "source": "topstarnews.net",
       "score": 2
     },
     {
