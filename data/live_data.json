@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-29T05:15:11",
+  "generated_at": "2026-07-29T08:03:13",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.086,
-    "price_krw": 1568.13,
-    "price_change_24h": 2.68062,
-    "price_change_7d": -4.8325,
-    "price_change_30d": 4.36464,
-    "market_cap_usd": 67890673189,
+    "price_usd": 1.09,
+    "price_krw": 1578.87,
+    "price_change_24h": 3.26236,
+    "price_change_7d": -3.60667,
+    "price_change_30d": 4.159,
+    "market_cap_usd": 68117591419,
     "market_cap_rank": 6,
-    "volume_24h": 1270630469,
+    "volume_24h": 1298705668,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 59.76,
-    "sentiment_votes_down": 40.24,
+    "sentiment_votes_up": 59.74,
+    "sentiment_votes_down": 40.26,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 12.56,
-    "recent_tps": 12.56,
-    "recent_tx_count": 1118,
+    "tps_24h_avg": 16.46,
+    "recent_tps": 16.46,
+    "recent_tx_count": 1481,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 105924221,
+    "recent_window_sec": 90,
+    "ledger_seq": 105926845,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-29 05:15:04 KST",
+    "updated_at": "2026-07-29 08:03:00 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,10 +92,17 @@
   ],
   "general_news": [
     {
-      "title": "\"1달러 방어선 무너졌다\"… 리플, 95% '상승 베팅' 쏠림 속 대규모 청산 경고",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVTV2SDJBLUVqLXdDNm5EdU5ia3NKOXZoWHRDal9wSEVjN0oxOFk4bFBRSXRwSlRSdWlUYTM0ZjdrMFNHaWlSWlpCV1RZOTl1S1FtaVlmVWp1VXlaYUs1S1hZdnRqNkhKVHlkOXdHWl9Yel9KTjFjNHlLVEMtTjJUd2pyczhiT1RD?oc=5",
-      "date": "Tue, 28 Jul 2026 23:43:15 GMT",
-      "source": "글로벌이코노믹",
+      "title": "리플(XRP) 가격 핵심 변수인 암호화폐 클래리티 법안 관련 중대 소식이 전해졌다",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tOGt4aEdVZzNYNmpDRDk5NllJR2FkRHhMVEVsdkVrdkVyeE5vUk02bkxXQ1loWDNVb0NxTEVSZlZYdWdJVFFHYVB4eFFMbHVWbkZobk1n?oc=5",
+      "date": "Wed, 29 Jul 2026 06:40:00 GMT",
+      "source": "위키트리",
+      "score": 2
+    },
+    {
+      "title": "비트코인 핵심 지지선 붕괴…이더리움·리플도 추가 하락 경고",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBMdExHbVNuNXAwcm9yY01fdFhiaFg1LWZXTFNxVE9UYmRRLVdBY2I3VmhuUTlyMXBsT1hGWVRpZnpEU1BsdkQtUDVn?oc=5",
+      "date": "Wed, 29 Jul 2026 04:47:00 GMT",
+      "source": "코인리더스",
       "score": 2
     },
     {
@@ -141,25 +148,18 @@
       "score": 4
     },
     {
+      "title": "리플XRP·비트코인 약세, 에스프레소 급락…공격 중단 효과 제한",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5lbW90cWRmaHpSX1NrQnFYcmx2TGlnblNfbnY5eE9zdGxBdjIxTjlDN0NDaFpzdERWZGgwbF9YOFJPY1d0UHBTTnNDeVJLLU5YTWJpVnNpODgzZmNKTGFWTW0xOXZIS014MEcycVpBSXYydw?oc=5",
+      "date": "Mon, 27 Jul 2026 21:42:45 GMT",
+      "source": "톱스타뉴스",
+      "score": 2
+    },
+    {
       "title": "속보 | 美 민주당 원내대표, 암호화폐 법안 협상 일환으로 SEC·CFTC 후보 백악관에 제안",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5icHJLQzM2TTlFdmZVZGNEWFZVOEFULXF5Z1M0WDVzUVFHRWdnWlZ5LTZtZGMtS0dSWkdsaERBVEZJX1hEMEhrTWxud3U4SmIw?oc=5",
       "date": "Mon, 27 Jul 2026 15:51:00 GMT",
       "source": "CoinNess",
       "score": 9
-    },
-    {
-      "title": "리플(XRP) 1.10달러 지켰지만…ETF·파생 수요 둔화에 반등 ‘빨간불’",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1mc0pxQkUwTkctRWpzYjZ3NTFzVzlPbkFjVnZSOHJUbVk2b2k4VDg4SXNVbm5fX0R5YzRYb2dRWmJtVUJVZVNQRE9n?oc=5",
-      "date": "Mon, 27 Jul 2026 12:39:00 GMT",
-      "source": "코인리더스",
-      "score": 3
-    },
-    {
-      "title": "리플 첫 SEC 승리 날 1,000달러 투자했다면…현재 가치는?",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9kSDVORHBYQ3ZPNHBZNlVUN09OU29IODNNUTUzSWFmYmw3WF9HeVNoTk1IMktHRXV5WjkzNURicHI0OUQ1WHVpYXRR?oc=5",
-      "date": "Mon, 27 Jul 2026 10:36:00 GMT",
-      "source": "코인리더스",
-      "score": 2
     }
   ]
 }
