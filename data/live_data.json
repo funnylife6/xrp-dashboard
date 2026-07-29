@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-29T21:52:54",
+  "generated_at": "2026-07-29T22:53:48",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.074,
-    "price_krw": 1551.57,
-    "price_change_24h": 0.80037,
-    "price_change_7d": -5.56649,
-    "price_change_30d": 1.24318,
-    "market_cap_usd": 67195292937,
+    "price_usd": 1.073,
+    "price_krw": 1550.2,
+    "price_change_24h": 0.87011,
+    "price_change_7d": -5.93191,
+    "price_change_30d": 1.03888,
+    "market_cap_usd": 67124478813,
     "market_cap_rank": 6,
-    "volume_24h": 1414255479,
+    "volume_24h": 1329904497,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 70.27,
-    "sentiment_votes_down": 29.73,
+    "sentiment_votes_up": 68.92,
+    "sentiment_votes_down": 31.08,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 14.52,
-    "recent_tps": 14.52,
-    "recent_tx_count": 1292,
+    "tps_24h_avg": 13.4,
+    "recent_tps": 13.4,
+    "recent_tx_count": 1099,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 105939827,
+    "recent_window_sec": 82,
+    "ledger_seq": 105940781,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-29 21:52:40 KST",
+    "updated_at": "2026-07-29 22:53:37 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,6 +92,13 @@
   ],
   "general_news": [
     {
+      "title": "리플XRP·비트코인 하락, 메타다오 급락…연준 경계에 거래 위축",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9JdDN6aEFlMG9XSWRjcV9MMzZ5d1JIYWdidmttbXRWSDhGNHlMYWxLZWxfRkZ3WEJhdzl2cm1UX2dtOEkzVDlQejhTQ3hhZ3V5NjFVQ1ptNWcxNktyRXdRazcwZFlENjRhRVhHOFUzX0hQdw?oc=5",
+      "date": "Wed, 29 Jul 2026 21:51:19 GMT",
+      "source": "톱스타뉴스",
+      "score": 2
+    },
+    {
       "title": "모건스탠리, ETH·SOL ETF 0.14% 최저 수수료로 참전…리플(XRP) 등 알트코인 ETF 판 전체가 흔들린다",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44b2duR3J4OUMtemtoQkNMNTJjako5R3pVQkd6QkFMYnF1VWFUTmhaMkx3N2xZdzgyaW83U3djQzJ6a19LZ2xNZHA5WkMtbXR2Rkd5dlBsdzY2UUM4MS1GeENKdmVMSVlv?oc=5",
       "date": "Wed, 29 Jul 2026 21:00:00 GMT",
@@ -102,7 +109,7 @@
       "title": "\"검증자 85% 찬성\"...XRP 레저, 보안 체계 업그레이드",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE81YjVwaHpOaml1WUVwZ1puaXJsc0NxelktZ2lvTk9hTWdUbmtqQ2RETlQ1SUxYU1ZpZy15NGNNaVVzSmlqTUtOMnZ3?oc=5",
       "date": "Wed, 29 Jul 2026 20:00:00 GMT",
-      "source": "coinreaders.com",
+      "source": "코인리더스",
       "score": 2
     },
     {
@@ -130,14 +137,14 @@
       "title": "리플(XRP) 다음 강세장서 5달러 갈까…두 가지 상승 동력은?",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4zTDNlempkdUdqM1BIRWQwTElFS084UUVCTDBZZ3JselZuenRZVmZDU2dLdTEwSS1VdFhhM2FFMDZhWF8yLWZKVHp3?oc=5",
       "date": "Wed, 29 Jul 2026 12:18:00 GMT",
-      "source": "coinreaders.com",
+      "source": "코인리더스",
       "score": 3
     },
     {
       "title": "그레이스케일 CEO, 상장 전 매수한 XRP ETF 지분 매도 신청",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBmQkJHeU93N25WbHZPbDI3SDdLLXBWMlFxbE1GeF90bVJsWnVKcXBhdWEzOC1EcHRGUzF2TTJDRW5mOVpfM19FSEpZdlBVSmJQc29lZ1phV1VsYVkzdy1IbFd6cVd0SkJJOGUxZVZ2SkpJXzdRV2JV?oc=5",
       "date": "Wed, 29 Jul 2026 11:35:27 GMT",
-      "source": "BeInCrypto",
+      "source": "kr.beincrypto.com",
       "score": 3
     },
     {
@@ -152,13 +159,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVTV2SDJBLUVqLXdDNm5EdU5ia3NKOXZoWHRDal9wSEVjN0oxOFk4bFBRSXRwSlRSdWlUYTM0ZjdrMFNHaWlSWlpCV1RZOTl1S1FtaVlmVWp1VXlaYUs1S1hZdnRqNkhKVHlkOXdHWl9Yel9KTjFjNHlLVEMtTjJUd2pyczhiT1RD?oc=5",
       "date": "Tue, 28 Jul 2026 23:43:15 GMT",
       "source": "글로벌이코노믹",
-      "score": 2
-    },
-    {
-      "title": "쑨 급등·이더리움 상승·리플XRP 보합…연준 경계",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Dem5WS21CM0tkb3hLREFzRXVQdDNldTVYbDlnT2hUdzhFeDd3MzBNYV9aOW1zdEJrZDFSR3laZzlFNllaS0VIZjhydnFaMHVfOFRWOXBld3ZESzM5VEUta2JHekQ3R2drcDB5TjFNdFpzQQ?oc=5",
-      "date": "Tue, 28 Jul 2026 22:16:59 GMT",
-      "source": "톱스타뉴스",
       "score": 2
     }
   ]
