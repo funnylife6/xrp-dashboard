@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-29T11:00:28",
+  "generated_at": "2026-07-29T13:04:25",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.086,
-    "price_krw": 1576.14,
-    "price_change_24h": 2.92639,
-    "price_change_7d": -4.25031,
-    "price_change_30d": 3.61033,
-    "market_cap_usd": 67883442451,
+    "price_usd": 1.077,
+    "price_krw": 1564.76,
+    "price_change_24h": 2.25192,
+    "price_change_7d": -5.2126,
+    "price_change_30d": 2.41981,
+    "market_cap_usd": 67329966773,
     "market_cap_rank": 6,
-    "volume_24h": 1292594328,
+    "volume_24h": 1255578464,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 63.16,
-    "sentiment_votes_down": 36.84,
+    "sentiment_votes_up": 63.75,
+    "sentiment_votes_down": 36.25,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 11.0,
-    "recent_tps": 11.0,
-    "recent_tx_count": 902,
+    "tps_24h_avg": 10.27,
+    "recent_tps": 10.27,
+    "recent_tx_count": 914,
     "recent_ledger_count": 24,
-    "recent_window_sec": 82,
-    "ledger_seq": 105929633,
+    "recent_window_sec": 89,
+    "ledger_seq": 105931582,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-29 11:00:18 KST",
+    "updated_at": "2026-07-29 13:04:17 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -47,6 +47,13 @@
     "data_source": "news_parse"
   },
   "etf_news": [
+    {
+      "title": "리플(XRP) 다음 강세장서 5달러 갈까…두 가지 상승 동력은?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4zTDNlempkdUdqM1BIRWQwTElFS084UUVCTDBZZ3JselZuenRZVmZDU2dLdTEwSS1VdFhhM2FFMDZhWF8yLWZKVHp3?oc=5",
+      "date": "Wed, 29 Jul 2026 12:18:00 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
     {
       "title": "XRP, 연준 금리 결정 앞두고 1.05달러선 기로… 리플 ETF 수급은 하단 지지",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaUtLUW5fX0NkOW5WbWFfMmdPbU9qUW5USEJOR0VpbXJsNDdxdzRIaEU3aFBvU3JvS2ZlTDdIckRERi10TUVVZHBpblJQSngyUlRIMGNSb0hNc01wZ3ZscDRGWFN2Z2o0aUw0MjROWWNwVGhrYTBLVG1IU0NoYXNYbThYV0pldUsxNkRtNWF5QUVLZ3NY?oc=5",
@@ -81,16 +88,16 @@
       "date": "Mon, 27 Jul 2026 15:02:58 GMT",
       "source": "Yellow.com",
       "score": 0
-    },
-    {
-      "title": "리플(XRP) 1.10달러 지켰지만…ETF·파생 수요 둔화에 반등 ‘빨간불’",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1mc0pxQkUwTkctRWpzYjZ3NTFzVzlPbkFjVnZSOHJUbVk2b2k4VDg4SXNVbm5fX0R5YzRYb2dRWmJtVUJVZVNQRE9n?oc=5",
-      "date": "Mon, 27 Jul 2026 12:39:00 GMT",
-      "source": "코인리더스",
-      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "리플(XRP) 다음 강세장서 5달러 갈까…두 가지 상승 동력은?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4zTDNlempkdUdqM1BIRWQwTElFS084UUVCTDBZZ3JselZuenRZVmZDU2dLdTEwSS1VdFhhM2FFMDZhWF8yLWZKVHp3?oc=5",
+      "date": "Wed, 29 Jul 2026 12:18:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
     {
       "title": "XRP, 연준 금리 결정 앞두고 1.05달러선 기로… 리플 ETF 수급은 하단 지지",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaUtLUW5fX0NkOW5WbWFfMmdPbU9qUW5USEJOR0VpbXJsNDdxdzRIaEU3aFBvU3JvS2ZlTDdIckRERi10TUVVZHBpblJQSngyUlRIMGNSb0hNc01wZ3ZscDRGWFN2Z2o0aUw0MjROWWNwVGhrYTBLVG1IU0NoYXNYbThYV0pldUsxNkRtNWF5QUVLZ3NY?oc=5",
@@ -139,13 +146,6 @@
       "date": "Tue, 28 Jul 2026 06:41:00 GMT",
       "source": "위키트리",
       "score": 3
-    },
-    {
-      "title": "리플(XRP)·스텔라(XLM) 동반 하락…매도세 강화에 핵심 지지선 위협",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ZNVk1ZlZMYTgtaE9qaVdRdllyZWEyNVNpa3hVM0RmVWVJejMzaXNtYmRTclFxUUdwZU44T1NHZnk5Zkdia2x5MXpn?oc=5",
-      "date": "Tue, 28 Jul 2026 05:09:00 GMT",
-      "source": "코인리더스",
-      "score": 2
     },
     {
       "title": "골드만삭스도 1억 5,000만 달러 품었다! 리플(XRP) 현물 ETF의 화려한 부활!",
