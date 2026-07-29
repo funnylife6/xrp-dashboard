@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-29T22:53:48",
+  "generated_at": "2026-07-29T23:55:26",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.073,
-    "price_krw": 1550.2,
-    "price_change_24h": 0.87011,
-    "price_change_7d": -5.93191,
-    "price_change_30d": 1.03888,
-    "market_cap_usd": 67124478813,
+    "price_usd": 1.072,
+    "price_krw": 1548.15,
+    "price_change_24h": 0.4365,
+    "price_change_7d": -6.07681,
+    "price_change_30d": 1.42735,
+    "market_cap_usd": 67064058331,
     "market_cap_rank": 6,
-    "volume_24h": 1329904497,
+    "volume_24h": 1302413882,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 68.92,
-    "sentiment_votes_down": 31.08,
+    "sentiment_votes_up": 66.67,
+    "sentiment_votes_down": 33.33,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 13.4,
-    "recent_tps": 13.4,
-    "recent_tx_count": 1099,
+    "tps_24h_avg": 10.52,
+    "recent_tps": 10.52,
+    "recent_tx_count": 947,
     "recent_ledger_count": 24,
-    "recent_window_sec": 82,
-    "ledger_seq": 105940781,
+    "recent_window_sec": 90,
+    "ledger_seq": 105941753,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-29 22:53:37 KST",
+    "updated_at": "2026-07-29 23:55:18 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -95,7 +95,7 @@
       "title": "리플XRP·비트코인 하락, 메타다오 급락…연준 경계에 거래 위축",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9JdDN6aEFlMG9XSWRjcV9MMzZ5d1JIYWdidmttbXRWSDhGNHlMYWxLZWxfRkZ3WEJhdzl2cm1UX2dtOEkzVDlQejhTQ3hhZ3V5NjFVQ1ptNWcxNktyRXdRazcwZFlENjRhRVhHOFUzX0hQdw?oc=5",
       "date": "Wed, 29 Jul 2026 21:51:19 GMT",
-      "source": "톱스타뉴스",
+      "source": "topstarnews.net",
       "score": 2
     },
     {
@@ -104,13 +104,6 @@
       "date": "Wed, 29 Jul 2026 21:00:00 GMT",
       "source": "CBC뉴스",
       "score": 3
-    },
-    {
-      "title": "\"검증자 85% 찬성\"...XRP 레저, 보안 체계 업그레이드",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE81YjVwaHpOaml1WUVwZ1puaXJsc0NxelktZ2lvTk9hTWdUbmtqQ2RETlQ1SUxYU1ZpZy15NGNNaVVzSmlqTUtOMnZ3?oc=5",
-      "date": "Wed, 29 Jul 2026 20:00:00 GMT",
-      "source": "코인리더스",
-      "score": 2
     },
     {
       "title": "리플 주소 6600만 XRP 이동…목적은 미확인",
@@ -134,6 +127,13 @@
       "score": 4
     },
     {
+      "title": "리플(XRP) 1.10달러 돌파할까…플레어 업그레이드가 반등 이끌까",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE12WjBsVzhadmRoNWJZOUl2UmlBeEItRlVSLXoydUpheXJmUTE5c2xweTJTYllUS0tQMlZlQlVvdklOYnZJYlZnVl93?oc=5",
+      "date": "Wed, 29 Jul 2026 13:36:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
       "title": "리플(XRP) 다음 강세장서 5달러 갈까…두 가지 상승 동력은?",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4zTDNlempkdUdqM1BIRWQwTElFS084UUVCTDBZZ3JselZuenRZVmZDU2dLdTEwSS1VdFhhM2FFMDZhWF8yLWZKVHp3?oc=5",
       "date": "Wed, 29 Jul 2026 12:18:00 GMT",
@@ -144,7 +144,7 @@
       "title": "그레이스케일 CEO, 상장 전 매수한 XRP ETF 지분 매도 신청",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBmQkJHeU93N25WbHZPbDI3SDdLLXBWMlFxbE1GeF90bVJsWnVKcXBhdWEzOC1EcHRGUzF2TTJDRW5mOVpfM19FSEpZdlBVSmJQc29lZ1phV1VsYVkzdy1IbFd6cVd0SkJJOGUxZVZ2SkpJXzdRV2JV?oc=5",
       "date": "Wed, 29 Jul 2026 11:35:27 GMT",
-      "source": "kr.beincrypto.com",
+      "source": "BeInCrypto",
       "score": 3
     },
     {
