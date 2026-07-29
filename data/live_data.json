@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-29T19:50:52",
+  "generated_at": "2026-07-29T20:44:03",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.072,
-    "price_krw": 1547.4,
-    "price_change_24h": 1.15387,
-    "price_change_7d": -6.10528,
-    "price_change_30d": 0.60522,
-    "market_cap_usd": 67007014618,
+    "price_usd": 1.066,
+    "price_krw": 1537.74,
+    "price_change_24h": 0.41277,
+    "price_change_7d": -6.2978,
+    "price_change_30d": -0.61304,
+    "market_cap_usd": 66562368512,
     "market_cap_rank": 6,
-    "volume_24h": 1409489586,
+    "volume_24h": 1442102271,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 67.57,
-    "sentiment_votes_down": 32.43,
+    "sentiment_votes_up": 66.67,
+    "sentiment_votes_down": 33.33,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 26.57,
-    "recent_tps": 26.57,
-    "recent_tx_count": 2391,
+    "tps_24h_avg": 12.18,
+    "recent_tps": 12.18,
+    "recent_tx_count": 1084,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 105937924,
+    "recent_window_sec": 89,
+    "ledger_seq": 105938752,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-29 19:50:38 KST",
+    "updated_at": "2026-07-29 20:43:51 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -62,13 +62,6 @@
       "score": 0
     },
     {
-      "title": "리플(XRP), 홍콩 첫 일반 투자자 거래 시작…“공식 현물 거래 길 열렸다”",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91dTlOR28ycUlETDBMZXZfY1FDcFV1QU13YkhXUWg2QUMtbGlWODJSUGJrMU1ZZTlzU0wwR2sxNVJrLWtXT0t5UWlyVjJmNUN5dkljV1hQSE90XzlDM0VWLWYzenpGVUxD?oc=5",
-      "date": "Wed, 29 Jul 2026 10:08:13 GMT",
-      "source": "CBC뉴스",
-      "score": 0
-    },
-    {
       "title": "XRP, 연준 금리 결정 앞두고 1.05달러선 기로… 리플 ETF 수급은 하단 지지",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaUtLUW5fX0NkOW5WbWFfMmdPbU9qUW5USEJOR0VpbXJsNDdxdzRIaEU3aFBvU3JvS2ZlTDdIckRERi10TUVVZHBpblJQSngyUlRIMGNSb0hNc01wZ3ZscDRGWFN2Z2o0aUw0MjROWWNwVGhrYTBLVG1IU0NoYXNYbThYV0pldUsxNkRtNWF5QUVLZ3NY?oc=5",
       "date": "Wed, 29 Jul 2026 08:23:29 GMT",
@@ -88,9 +81,30 @@
       "date": "Tue, 28 Jul 2026 02:36:45 GMT",
       "source": "PANews",
       "score": 0
+    },
+    {
+      "title": "골드만삭스도 1억 5,000만 달러 품었다! 리플(XRP) 현물 ETF의 화려한 부활!",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9uTVFBX3poRmh3Rm9VQmhielV0M2xxV0VDdGl6QWpWVEgzTHdYVUplZVZpblUyc3JMVjFGcXVzakx3NjlD?oc=5",
+      "date": "Mon, 27 Jul 2026 22:06:00 GMT",
+      "source": "코인리더스",
+      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "\"검증자 85% 찬성\"...XRP 레저, 보안 체계 업그레이드",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE81YjVwaHpOaml1WUVwZ1puaXJsc0NxelktZ2lvTk9hTWdUbmtqQ2RETlQ1SUxYU1ZpZy15NGNNaVVzSmlqTUtOMnZ3?oc=5",
+      "date": "Wed, 29 Jul 2026 20:00:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
+      "title": "리플 주소 6600만 XRP 이동…목적은 미확인",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBObHNMNERjdENoaHNDSVF1VTNDUlZVVzdTMEs0X3ZDdU9jTVgwVHIxV3dCS0FiSXhfdktDUlV5UXkwRlViQkxXUC1CU0ZYVHBHZHlnVlMxbFfSAV5BVV95cUxPM3BaR3BRc2JxVFFYTm9zWllNbHBWak5rbmhZQm8wUGhuOFplZUNmeWxKMUNOaTA4eERRU19xeEo5TFh1WUdOX2RhMHlOamxNSk1oWFhnRE9FVng1S25n?oc=5",
+      "date": "Wed, 29 Jul 2026 16:55:25 GMT",
+      "source": "tokenpost.kr",
+      "score": 2
+    },
     {
       "title": "리플(XRP), 그레이스케일 CEO도 ETF 일부 매도…\"2611주 처분\"",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ROXhuNmstOTREVjFqVDl5cVZBSHRBMXZJWG1saVpCMG1TQUpudm1Rc3VLV0d5dnFpSXF5dEhIeGRacDJqc1NCS1ZsV2FnMkhpQlZr?oc=5",
@@ -104,13 +118,6 @@
       "date": "Wed, 29 Jul 2026 14:13:00 GMT",
       "source": "위키트리",
       "score": 4
-    },
-    {
-      "title": "리플(XRP) 1.10달러 돌파할까…플레어 업그레이드가 반등 이끌까",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE12WjBsVzhadmRoNWJZOUl2UmlBeEItRlVSLXoydUpheXJmUTE5c2xweTJTYllUS0tQMlZlQlVvdklOYnZJYlZnVl93?oc=5",
-      "date": "Wed, 29 Jul 2026 13:36:00 GMT",
-      "source": "코인리더스",
-      "score": 2
     },
     {
       "title": "리플(XRP) 다음 강세장서 5달러 갈까…두 가지 상승 동력은?",
@@ -127,25 +134,11 @@
       "score": 3
     },
     {
-      "title": "리플(XRP), 홍콩 첫 일반 투자자 거래 시작…“공식 현물 거래 길 열렸다”",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91dTlOR28ycUlETDBMZXZfY1FDcFV1QU13YkhXUWg2QUMtbGlWODJSUGJrMU1ZZTlzU0wwR2sxNVJrLWtXT0t5UWlyVjJmNUN5dkljV1hQSE90XzlDM0VWLWYzenpGVUxD?oc=5",
-      "date": "Wed, 29 Jul 2026 10:08:13 GMT",
-      "source": "CBC뉴스",
-      "score": 4
-    },
-    {
       "title": "XRP, 연준 금리 결정 앞두고 1.05달러선 기로… 리플 ETF 수급은 하단 지지",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaUtLUW5fX0NkOW5WbWFfMmdPbU9qUW5USEJOR0VpbXJsNDdxdzRIaEU3aFBvU3JvS2ZlTDdIckRERi10TUVVZHBpblJQSngyUlRIMGNSb0hNc01wZ3ZscDRGWFN2Z2o0aUw0MjROWWNwVGhrYTBLVG1IU0NoYXNYbThYV0pldUsxNkRtNWF5QUVLZ3NY?oc=5",
       "date": "Wed, 29 Jul 2026 08:23:29 GMT",
       "source": "Cryptonews",
       "score": 3
-    },
-    {
-      "title": "오에스엘 홍콩, 개인 XRP 거래…홍콩 첫 지원 나선다",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE44NWM2cFRiY1BzSGJBQXNUYW5kc0JnZmE5Ukpqd1JMQlgtV2lPczlfbUNDMVY4QWJIYk9vQjF2LUctdHZ2WmNxVG9UcmJSbzdUUHdrb2FjR1bSAV5BVV95cUxQRkRCMlhvdGlSU3RHYXJEV2hIQlJvTXdFUEp4U2h3eGIzSlF2QVhsSVdqdV9sdnh3dk9wZlIydVFPMm9ILWVEdjc1UnBSVlFRUVhGR0lMU0xPRUtRX2FB?oc=5",
-      "date": "Wed, 29 Jul 2026 05:47:20 GMT",
-      "source": "tokenpost.kr",
-      "score": 2
     },
     {
       "title": "\"1달러 방어선 무너졌다\"… 리플, 95% '상승 베팅' 쏠림 속 대규모 청산 경고",
@@ -160,6 +153,13 @@
       "date": "Tue, 28 Jul 2026 22:16:59 GMT",
       "source": "톱스타뉴스",
       "score": 2
+    },
+    {
+      "title": "리플 RLUSD, 업비트 입성...원화·BTC·USDT 동시 지원",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBydWpfU3pJOTZZSHQxMlBWMjIyXzV2OEdUWjk1MG5uNC1BVzNtMWc5UTRnLTdlcU1IZVpMZ3ZocHh5Y2ZUQ0d0cjdR?oc=5",
+      "date": "Tue, 28 Jul 2026 16:00:00 GMT",
+      "source": "코인리더스",
+      "score": 3
     }
   ]
 }
