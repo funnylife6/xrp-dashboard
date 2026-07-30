@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-30T04:51:46",
+  "generated_at": "2026-07-30T07:29:29",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.074,
-    "price_krw": 1546.23,
-    "price_change_24h": -0.16718,
-    "price_change_7d": -5.24255,
-    "price_change_30d": 2.91903,
-    "market_cap_usd": 67140245080,
+    "price_usd": 1.076,
+    "price_krw": 1546.1,
+    "price_change_24h": -0.98157,
+    "price_change_7d": -5.25029,
+    "price_change_30d": 2.75012,
+    "market_cap_usd": 67311752740,
     "market_cap_rank": 6,
-    "volume_24h": 1297159466,
+    "volume_24h": 1230166734,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 70.0,
-    "sentiment_votes_down": 30.0,
+    "sentiment_votes_up": 69.57,
+    "sentiment_votes_down": 30.43,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 16.28,
-    "recent_tps": 16.28,
-    "recent_tx_count": 1449,
+    "tps_24h_avg": 13.48,
+    "recent_tps": 13.48,
+    "recent_tx_count": 1200,
     "recent_ledger_count": 24,
     "recent_window_sec": 89,
-    "ledger_seq": 105946414,
+    "ledger_seq": 105948893,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-30 04:51:34 KST",
+    "updated_at": "2026-07-30 07:29:21 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -79,7 +79,7 @@
       "title": "\"연준·클래리티 악재 속\"…그레이스케일 CEO, XRP 현물 ETF 지분 첫 매각",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9fYVcyVldKekRoMHBzV2w5SzVQOFFPaHl0bVR3UFFuT3dWWUFHSjFGWnBQM0RGWi15bEVyNmhaUWVQU0hTTHRCZll3cUVWY3VGaEVPRjRObjA?oc=5",
       "date": "Wed, 29 Jul 2026 14:22:00 GMT",
-      "source": "블록미디어",
+      "source": "blockmedia.co.kr",
       "score": 0
     },
     {
@@ -92,11 +92,11 @@
   ],
   "general_news": [
     {
-      "title": "\"월 1.8% 수익\" 약속했는데…123억 규모 리플 받고 '잠적'",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xbDZvMzRENUd2RVotT1k1X24tbnNHT0RlVFFkTlB5NHlnZ0dud3JjOWh1YlFYSjVDZEltLXJ2RXk1eDJDM01lVGY2UDZ6eDQ2MjV3?oc=5",
-      "date": "Thu, 30 Jul 2026 03:02:00 GMT",
-      "source": "네이트",
-      "score": 2
+      "title": "“리플 예치하면 매달 1.8% 수익”… 123억 원 들고 잠적한 일당 검거",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NWmFjSDRMaE9oNWJHSkE3NTFYSk4zMEMxS09tb1NuVHNWS3owdEhhVGxsdXNFY1BZbXV5SFBaYTRHbnFOZUhHQy1LdkJ4ekRieGfSAVNBVV95cUxPV1FRTkZkQjNndlFHRl9FbFJWaW42YzJFNTZGVVpwejhsYkRCel9oR2d2UERUejdURlhQZUZYUGI5MXFTMWRFMWtQeG44ekVqbEZVZw?oc=5",
+      "date": "Thu, 30 Jul 2026 05:26:49 GMT",
+      "source": "서울경제",
+      "score": 9
     },
     {
       "title": "'가짜 리플 스테이킹' 일당 검거…\"71명에 123억 가로채\" 피해 더 늘듯",
@@ -118,6 +118,13 @@
       "date": "Wed, 29 Jul 2026 21:00:00 GMT",
       "source": "CBC뉴스",
       "score": 3
+    },
+    {
+      "title": "XRP, 주요 코인보다 하락 속도 빠른 이유?",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9tVWdWUGVYNTJRMnFPOEpSaDJTMm9JXzJJV3Ixa05OQ1Jnb013dU9xMmIxYnFOQ3NGTGMwNHhwQ0VKMHRwNnJILThsdXhoWGYzcXB3NFF6Zm5jdGx3LWtvSVh2SldRT3Iwc0I4eW90Zkk0UQ?oc=5",
+      "date": "Wed, 29 Jul 2026 15:20:55 GMT",
+      "source": "BeInCrypto",
+      "score": 2
     },
     {
       "title": "리플(XRP), 그레이스케일 CEO도 ETF 일부 매도…\"2611주 처분\"",
@@ -145,13 +152,6 @@
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4zTDNlempkdUdqM1BIRWQwTElFS084UUVCTDBZZ3JselZuenRZVmZDU2dLdTEwSS1VdFhhM2FFMDZhWF8yLWZKVHp3?oc=5",
       "date": "Wed, 29 Jul 2026 12:18:00 GMT",
       "source": "코인리더스",
-      "score": 3
-    },
-    {
-      "title": "그레이스케일 CEO, 상장 전 매수한 XRP ETF 지분 매도 신청",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBmQkJHeU93N25WbHZPbDI3SDdLLXBWMlFxbE1GeF90bVJsWnVKcXBhdWEzOC1EcHRGUzF2TTJDRW5mOVpfM19FSEpZdlBVSmJQc29lZ1phV1VsYVkzdy1IbFd6cVd0SkJJOGUxZVZ2SkpJXzdRV2JV?oc=5",
-      "date": "Wed, 29 Jul 2026 11:35:27 GMT",
-      "source": "BeInCrypto",
       "score": 3
     },
     {
