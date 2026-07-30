@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-30T07:29:29",
+  "generated_at": "2026-07-30T09:59:20",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.076,
-    "price_krw": 1546.1,
-    "price_change_24h": -0.98157,
-    "price_change_7d": -5.25029,
-    "price_change_30d": 2.75012,
-    "market_cap_usd": 67311752740,
+    "price_usd": 1.079,
+    "price_krw": 1549.76,
+    "price_change_24h": -0.82078,
+    "price_change_7d": -4.9331,
+    "price_change_30d": 3.53195,
+    "market_cap_usd": 67507078435,
     "market_cap_rank": 6,
-    "volume_24h": 1230166734,
+    "volume_24h": 1145394691,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 69.57,
-    "sentiment_votes_down": 30.43,
+    "sentiment_votes_up": 66.13,
+    "sentiment_votes_down": 33.87,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 13.48,
-    "recent_tps": 13.48,
-    "recent_tx_count": 1200,
+    "tps_24h_avg": 18.02,
+    "recent_tps": 18.02,
+    "recent_tx_count": 1604,
     "recent_ledger_count": 24,
     "recent_window_sec": 89,
-    "ledger_seq": 105948893,
+    "ledger_seq": 105951241,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-30 07:29:21 KST",
+    "updated_at": "2026-07-30 09:59:06 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -79,7 +79,7 @@
       "title": "\"연준·클래리티 악재 속\"…그레이스케일 CEO, XRP 현물 ETF 지분 첫 매각",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9fYVcyVldKekRoMHBzV2w5SzVQOFFPaHl0bVR3UFFuT3dWWUFHSjFGWnBQM0RGWi15bEVyNmhaUWVQU0hTTHRCZll3cUVWY3VGaEVPRjRObjA?oc=5",
       "date": "Wed, 29 Jul 2026 14:22:00 GMT",
-      "source": "blockmedia.co.kr",
+      "source": "블록미디어",
       "score": 0
     },
     {
@@ -91,6 +91,20 @@
     }
   ],
   "general_news": [
+    {
+      "title": "코인 이자 후하게 쳐준다더니 273억 '먹튀'",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JRXN0enlMY0FrNDRrT2tlUjRnQnZJdTZEQ3NIT1BSNWNqaEpWX1JJNWVEMFM5dndScnBVSXl1dmExYnBfS3ZqMXY1eE9YS2xPZVpQTEZWV3A3Zw?oc=5",
+      "date": "Thu, 30 Jul 2026 08:58:28 GMT",
+      "source": "한국경제",
+      "score": 9
+    },
+    {
+      "title": "[데일리픽] XRP 소송 주역, 美 최고 정보 수장으로…MS·메타 AI 수익화에 '희비'",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE03cUtMOUh0Q3dqay1hTWYxOHFnUFpRRkRaVWtsM0JabDd5eUhlaTRaSzZHMHNfZnZrMW5ZT1l1QlNMMmpkcnByZHlsSm5UNE9vdGFN?oc=5",
+      "date": "Thu, 30 Jul 2026 08:01:00 GMT",
+      "source": "네이트",
+      "score": 2
+    },
     {
       "title": "“리플 예치하면 매달 1.8% 수익”… 123억 원 들고 잠적한 일당 검거",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NWmFjSDRMaE9oNWJHSkE3NTFYSk4zMEMxS09tb1NuVHNWS3owdEhhVGxsdXNFY1BZbXV5SFBaYTRHbnFOZUhHQy1LdkJ4ekRieGfSAVNBVV95cUxPV1FRTkZkQjNndlFHRl9FbFJWaW42YzJFNTZGVVpwejhsYkRCel9oR2d2UERUejdURlhQZUZYUGI5MXFTMWRFMWtQeG44ekVqbEZVZw?oc=5",
@@ -120,13 +134,6 @@
       "score": 3
     },
     {
-      "title": "XRP, 주요 코인보다 하락 속도 빠른 이유?",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9tVWdWUGVYNTJRMnFPOEpSaDJTMm9JXzJJV3Ixa05OQ1Jnb013dU9xMmIxYnFOQ3NGTGMwNHhwQ0VKMHRwNnJILThsdXhoWGYzcXB3NFF6Zm5jdGx3LWtvSVh2SldRT3Iwc0I4eW90Zkk0UQ?oc=5",
-      "date": "Wed, 29 Jul 2026 15:20:55 GMT",
-      "source": "BeInCrypto",
-      "score": 2
-    },
-    {
       "title": "리플(XRP), 그레이스케일 CEO도 ETF 일부 매도…\"2611주 처분\"",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5SWWN0TTY3VjFEdUlLSDRfZjQwVWt4bVdOc2pHRC1uTW1TeEJLSnQwQks3cExKVUw0UVFDUFFjdUlzWmxhbFlqZTFMUnJBdUN4bzh5aFQ1OFI4V09paDZocjg4a2kzREk3R09KOFNNTnp1bzRNVXYyMw?oc=5",
       "date": "Wed, 29 Jul 2026 14:38:00 GMT",
@@ -139,13 +146,6 @@
       "date": "Wed, 29 Jul 2026 14:13:00 GMT",
       "source": "위키트리",
       "score": 4
-    },
-    {
-      "title": "리플(XRP) 1.10달러 돌파할까…플레어 업그레이드가 반등 이끌까",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE12WjBsVzhadmRoNWJZOUl2UmlBeEItRlVSLXoydUpheXJmUTE5c2xweTJTYllUS0tQMlZlQlVvdklOYnZJYlZnVl93?oc=5",
-      "date": "Wed, 29 Jul 2026 13:36:00 GMT",
-      "source": "코인리더스",
-      "score": 2
     },
     {
       "title": "리플(XRP) 다음 강세장서 5달러 갈까…두 가지 상승 동력은?",
