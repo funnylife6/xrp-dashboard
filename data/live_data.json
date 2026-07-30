@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-30T01:45:15",
+  "generated_at": "2026-07-30T04:51:46",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.075,
-    "price_krw": 1554.22,
-    "price_change_24h": 0.06542,
-    "price_change_7d": -5.79616,
-    "price_change_30d": 2.64216,
-    "market_cap_usd": 67188549874,
+    "price_usd": 1.074,
+    "price_krw": 1546.23,
+    "price_change_24h": -0.16718,
+    "price_change_7d": -5.24255,
+    "price_change_30d": 2.91903,
+    "market_cap_usd": 67140245080,
     "market_cap_rank": 6,
-    "volume_24h": 1285424728,
+    "volume_24h": 1297159466,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 65.28,
-    "sentiment_votes_down": 34.72,
+    "sentiment_votes_up": 70.0,
+    "sentiment_votes_down": 30.0,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 13.43,
-    "recent_tps": 13.43,
-    "recent_tx_count": 1209,
+    "tps_24h_avg": 16.28,
+    "recent_tps": 16.28,
+    "recent_tx_count": 1449,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 105943472,
+    "recent_window_sec": 89,
+    "ledger_seq": 105946414,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-30 01:45:04 KST",
+    "updated_at": "2026-07-30 04:51:34 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -58,21 +58,21 @@
       "title": "XRP 현물 ETF로 향하는 기관 자금…美 투자자문사 거버, 보유 내역 공개",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FTlRZWTFtRWRDOU9KRXBJM0pkMlFMeWNPelh6UHFTR2taMUZ1ZFo5SXVCVDB3bFo2dmY4ZzlvS3RBZDM0RG9NU3d5aHNtdl9pLWpn?oc=5",
       "date": "Thu, 30 Jul 2026 01:08:00 GMT",
-      "source": "news.nate.com",
+      "source": "네이트",
       "score": 0
     },
     {
       "title": "모건스탠리, ETH·SOL ETF 0.14% 최저 수수료로 참전…리플(XRP) 등 알트코인 ETF 판 전체가 흔들린다",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44b2duR3J4OUMtemtoQkNMNTJjako5R3pVQkd6QkFMYnF1VWFUTmhaMkx3N2xZdzgyaW83U3djQzJ6a19LZ2xNZHA5WkMtbXR2Rkd5dlBsdzY2UUM4MS1GeENKdmVMSVlv?oc=5",
       "date": "Wed, 29 Jul 2026 21:00:00 GMT",
-      "source": "cbci.co.kr",
+      "source": "CBC뉴스",
       "score": 0
     },
     {
       "title": "리플(XRP), 그레이스케일 CEO도 ETF 일부 매도…\"2611주 처분\"",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5SWWN0TTY3VjFEdUlLSDRfZjQwVWt4bVdOc2pHRC1uTW1TeEJLSnQwQks3cExKVUw0UVFDUFFjdUlzWmxhbFlqZTFMUnJBdUN4bzh5aFQ1OFI4V09paDZocjg4a2kzREk3R09KOFNNTnp1bzRNVXYyMw?oc=5",
       "date": "Wed, 29 Jul 2026 14:38:00 GMT",
-      "source": "news.nate.com",
+      "source": "네이트",
       "score": 0
     },
     {
@@ -92,6 +92,20 @@
   ],
   "general_news": [
     {
+      "title": "\"월 1.8% 수익\" 약속했는데…123억 규모 리플 받고 '잠적'",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xbDZvMzRENUd2RVotT1k1X24tbnNHT0RlVFFkTlB5NHlnZ0dud3JjOWh1YlFYSjVDZEltLXJ2RXk1eDJDM01lVGY2UDZ6eDQ2MjV3?oc=5",
+      "date": "Thu, 30 Jul 2026 03:02:00 GMT",
+      "source": "네이트",
+      "score": 2
+    },
+    {
+      "title": "'가짜 리플 스테이킹' 일당 검거…\"71명에 123억 가로채\" 피해 더 늘듯",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sX3dhS1NfNlhwOTBqMENGV1doeWJzY2FXSWJZY3UyZlNMdnBxcHJDc0ZKNzlnZEhqWlFZUzBLMEEtbW51U242UFAwTTVBMTRBbkVuRHlKMW1jakxfTWJVaNIBeEFVX3lxTE9vYVJSUzZld1p2LXI3N0tYdUNJSEx2U19abWJJY1hobUlJYll0VGprcEdWelJ5cVhIUHhfSUNQRl94YzlZMExVQjZVOVpxaFpJNG1qUTZsVmpVVUJ0VFJtRUxiRGpfeWZPYlFDOXMtVndQa21OTjdfeg?oc=5",
+      "date": "Thu, 30 Jul 2026 03:00:00 GMT",
+      "source": "뉴시스",
+      "score": 2
+    },
+    {
       "title": "리플XRP·비트코인 하락, 메타다오 급락…연준 경계에 거래 위축",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9JdDN6aEFlMG9XSWRjcV9MMzZ5d1JIYWdidmttbXRWSDhGNHlMYWxLZWxfRkZ3WEJhdzl2cm1UX2dtOEkzVDlQejhTQ3hhZ3V5NjFVQ1ptNWcxNktyRXdRazcwZFlENjRhRVhHOFUzX0hQdw?oc=5",
       "date": "Wed, 29 Jul 2026 21:51:19 GMT",
@@ -102,21 +116,14 @@
       "title": "모건스탠리, ETH·SOL ETF 0.14% 최저 수수료로 참전…리플(XRP) 등 알트코인 ETF 판 전체가 흔들린다",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44b2duR3J4OUMtemtoQkNMNTJjako5R3pVQkd6QkFMYnF1VWFUTmhaMkx3N2xZdzgyaW83U3djQzJ6a19LZ2xNZHA5WkMtbXR2Rkd5dlBsdzY2UUM4MS1GeENKdmVMSVlv?oc=5",
       "date": "Wed, 29 Jul 2026 21:00:00 GMT",
-      "source": "cbci.co.kr",
+      "source": "CBC뉴스",
       "score": 3
     },
     {
-      "title": "리플 주소 6600만 XRP 이동…목적은 미확인",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBObHNMNERjdENoaHNDSVF1VTNDUlZVVzdTMEs0X3ZDdU9jTVgwVHIxV3dCS0FiSXhfdktDUlV5UXkwRlViQkxXUC1CU0ZYVHBHZHlnVlMxbFfSAV5BVV95cUxPM3BaR3BRc2JxVFFYTm9zWllNbHBWak5rbmhZQm8wUGhuOFplZUNmeWxKMUNOaTA4eERRU19xeEo5TFh1WUdOX2RhMHlOamxNSk1oWFhnRE9FVng1S25n?oc=5",
-      "date": "Wed, 29 Jul 2026 16:55:25 GMT",
-      "source": "tokenpost.kr",
-      "score": 2
-    },
-    {
       "title": "리플(XRP), 그레이스케일 CEO도 ETF 일부 매도…\"2611주 처분\"",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ROXhuNmstOTREVjFqVDl5cVZBSHRBMXZJWG1saVpCMG1TQUpudm1Rc3VLV0d5dnFpSXF5dEhIeGRacDJqc1NCS1ZsV2FnMkhpQlZr?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5SWWN0TTY3VjFEdUlLSDRfZjQwVWt4bVdOc2pHRC1uTW1TeEJLSnQwQks3cExKVUw0UVFDUFFjdUlzWmxhbFlqZTFMUnJBdUN4bzh5aFQ1OFI4V09paDZocjg4a2kzREk3R09KOFNNTnp1bzRNVXYyMw?oc=5",
       "date": "Wed, 29 Jul 2026 14:38:00 GMT",
-      "source": "news.nate.com",
+      "source": "네이트",
       "score": 3
     },
     {
@@ -130,14 +137,14 @@
       "title": "리플(XRP) 1.10달러 돌파할까…플레어 업그레이드가 반등 이끌까",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE12WjBsVzhadmRoNWJZOUl2UmlBeEItRlVSLXoydUpheXJmUTE5c2xweTJTYllUS0tQMlZlQlVvdklOYnZJYlZnVl93?oc=5",
       "date": "Wed, 29 Jul 2026 13:36:00 GMT",
-      "source": "coinreaders.com",
+      "source": "코인리더스",
       "score": 2
     },
     {
       "title": "리플(XRP) 다음 강세장서 5달러 갈까…두 가지 상승 동력은?",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4zTDNlempkdUdqM1BIRWQwTElFS084UUVCTDBZZ3JselZuenRZVmZDU2dLdTEwSS1VdFhhM2FFMDZhWF8yLWZKVHp3?oc=5",
       "date": "Wed, 29 Jul 2026 12:18:00 GMT",
-      "source": "coinreaders.com",
+      "source": "코인리더스",
       "score": 3
     },
     {
@@ -153,13 +160,6 @@
       "date": "Wed, 29 Jul 2026 08:23:29 GMT",
       "source": "Cryptonews",
       "score": 3
-    },
-    {
-      "title": "\"1달러 방어선 무너졌다\"… 리플, 95% '상승 베팅' 쏠림 속 대규모 청산 경고",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVTV2SDJBLUVqLXdDNm5EdU5ia3NKOXZoWHRDal9wSEVjN0oxOFk4bFBRSXRwSlRSdWlUYTM0ZjdrMFNHaWlSWlpCV1RZOTl1S1FtaVlmVWp1VXlaYUs1S1hZdnRqNkhKVHlkOXdHWl9Yel9KTjFjNHlLVEMtTjJUd2pyczhiT1RD?oc=5",
-      "date": "Tue, 28 Jul 2026 23:43:15 GMT",
-      "source": "글로벌이코노믹",
-      "score": 2
     }
   ]
 }
