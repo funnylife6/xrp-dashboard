@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-30T15:46:19",
+  "generated_at": "2026-07-30T17:17:48",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.09,
-    "price_krw": 1555.18,
-    "price_change_24h": 2.08279,
-    "price_change_7d": -1.71103,
-    "price_change_30d": 5.59574,
-    "market_cap_usd": 68183064275,
+    "price_usd": 1.088,
+    "price_krw": 1550.49,
+    "price_change_24h": 1.54479,
+    "price_change_7d": -1.7736,
+    "price_change_30d": 4.72019,
+    "market_cap_usd": 68020728825,
     "market_cap_rank": 6,
-    "volume_24h": 1203144623,
+    "volume_24h": 1186245849,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 65.63,
-    "sentiment_votes_down": 34.38,
+    "sentiment_votes_up": 66.13,
+    "sentiment_votes_down": 33.87,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 28.67,
-    "recent_tps": 28.67,
-    "recent_tx_count": 2580,
+    "tps_24h_avg": 29.64,
+    "recent_tps": 29.64,
+    "recent_tx_count": 2668,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 105956659,
+    "ledger_seq": 105958086,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-30 15:46:12 KST",
+    "updated_at": "2026-07-30 17:17:41 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -102,8 +102,8 @@
       "title": "코인 이자 후하게 쳐준다더니 273억 '먹튀'",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JRXN0enlMY0FrNDRrT2tlUjRnQnZJdTZEQ3NIT1BSNWNqaEpWX1JJNWVEMFM5dndScnBVSXl1dmExYnBfS3ZqMXY1eE9YS2xPZVpQTEZWV3A3Zw?oc=5",
       "date": "Thu, 30 Jul 2026 08:58:28 GMT",
-      "source": "한국경제",
-      "score": 9
+      "source": "hankyung.com",
+      "score": 2
     },
     {
       "title": "“리플 예치하면 매달 1.8% 수익”… 123억 원 들고 잠적한 일당 검거",
@@ -116,8 +116,15 @@
       "title": "'가짜 리플 스테이킹' 일당 검거…\"71명에 123억 가로채\" 피해 더 늘듯",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sX3dhS1NfNlhwOTBqMENGV1doeWJzY2FXSWJZY3UyZlNMdnBxcHJDc0ZKNzlnZEhqWlFZUzBLMEEtbW51U242UFAwTTVBMTRBbkVuRHlKMW1jakxfTWJVaNIBeEFVX3lxTE9vYVJSUzZld1p2LXI3N0tYdUNJSEx2U19abWJJY1hobUlJYll0VGprcEdWelJ5cVhIUHhfSUNQRl94YzlZMExVQjZVOVpxaFpJNG1qUTZsVmpVVUJ0VFJtRUxiRGpfeWZPYlFDOXMtVndQa21OTjdfeg?oc=5",
       "date": "Thu, 30 Jul 2026 03:00:00 GMT",
-      "source": "newsis.com",
+      "source": "뉴시스",
       "score": 2
+    },
+    {
+      "title": "속보 | JP모건 \"美 클래리티법 지연, 암호화폐 시장 하방압력 가중\"",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00ZnBMS0NTWEx6M0ZfemVialVpMjJwUElLSXdUUFNxYjlZOEJjZ1hfdmpocFBkTlphbTNhTllueFgzZXZlZkJZVWcyajEybE95?oc=5",
+      "date": "Wed, 29 Jul 2026 22:35:00 GMT",
+      "source": "CoinNess",
+      "score": 8
     },
     {
       "title": "리플XRP·비트코인 하락, 메타다오 급락…연준 경계에 거래 위축",
@@ -137,7 +144,7 @@
       "title": "XRP, 주요 코인보다 하락 속도 빠른 이유?",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9tVWdWUGVYNTJRMnFPOEpSaDJTMm9JXzJJV3Ixa05OQ1Jnb013dU9xMmIxYnFOQ3NGTGMwNHhwQ0VKMHRwNnJILThsdXhoWGYzcXB3NFF6Zm5jdGx3LWtvSVh2SldRT3Iwc0I4eW90Zkk0UQ?oc=5",
       "date": "Wed, 29 Jul 2026 15:20:55 GMT",
-      "source": "kr.beincrypto.com",
+      "source": "BeInCrypto",
       "score": 2
     },
     {
@@ -152,13 +159,6 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1N0l4M0NfcTFmejVFVXd2WHJTaG9jWE82b00tUlRlS0xDd1dKVW9OX29wYU5QMk9ieTRhUVNfNjJ0ZVgxQUFIWWJ0MXBXaTJ0Wkd6aDV3?oc=5",
       "date": "Wed, 29 Jul 2026 14:13:00 GMT",
       "source": "위키트리",
-      "score": 3
-    },
-    {
-      "title": "리플(XRP) 다음 강세장서 5달러 갈까…두 가지 상승 동력은?",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4zTDNlempkdUdqM1BIRWQwTElFS084UUVCTDBZZ3JselZuenRZVmZDU2dLdTEwSS1VdFhhM2FFMDZhWF8yLWZKVHp3?oc=5",
-      "date": "Wed, 29 Jul 2026 12:18:00 GMT",
-      "source": "코인리더스",
       "score": 3
     }
   ]
