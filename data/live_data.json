@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-31T06:28:02",
+  "generated_at": "2026-07-31T09:23:51",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.081,
-    "price_krw": 1547.41,
-    "price_change_24h": 0.59958,
-    "price_change_7d": -2.5334,
-    "price_change_30d": 3.09338,
-    "market_cap_usd": 67601076585,
+    "price_usd": 1.074,
+    "price_krw": 1538.33,
+    "price_change_24h": -0.52223,
+    "price_change_7d": -3.32306,
+    "price_change_30d": 2.80264,
+    "market_cap_usd": 67175736089,
     "market_cap_rank": 6,
-    "volume_24h": 969502528,
+    "volume_24h": 999208192,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 66.67,
-    "sentiment_votes_down": 33.33,
+    "sentiment_votes_up": 66.04,
+    "sentiment_votes_down": 33.96,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 12.03,
-    "recent_tps": 12.03,
-    "recent_tx_count": 1071,
+    "tps_24h_avg": 19.76,
+    "recent_tps": 19.76,
+    "recent_tx_count": 1778,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 105967006,
+    "recent_window_sec": 90,
+    "ledger_seq": 105973168,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-31 06:27:50 KST",
+    "updated_at": "2026-07-31 09:23:42 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,14 +43,14 @@
     "aum_usd": 3030000,
     "total_net_inflow_usd": 3030000,
     "total_value_traded_usd": 3030000,
-    "updated_at": "SoSoValue 순유입 부분 수집 07/31 06:28",
+    "updated_at": "SoSoValue 순유입 부분 수집 07/31 09:23",
     "data_source": "sosovalue",
     "partial": true
   },
   "etf_news": [
     {
       "title": "XRP 현물 ETF 순유입...SOL·HYPE는 변동 없어",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1zRE0tVDBoS0RRNFN6VmFsVzhCdWhEUS01VE5xQnNDcnNzOHRhdTZrSUFwbFlxOHVXbWNPbUVtTE9NM2tXWVdlbTJn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5WbWViOFdzRG42aXpqOFFDNzZQcGxianI1ZGZPTU56NW84dEFrVzFNdWhjc3lRM0d6STNuaTIwVWhzcXVyR09kdA?oc=5",
       "date": "Fri, 31 Jul 2026 05:44:45 GMT",
       "source": "코인리더스",
       "score": 0
@@ -66,7 +66,7 @@
       "title": "XRP ETF 15억 달러 유입에도 '반토막'… 운명 가르는 입법 분수령",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTWNkOURidnZRVFgxWm4yaE9vd1hobXZSc1pJb3BzUmtPd0lBVHhqaWw3eTRKendTQjk0Y2dYUktRanktMlF5OEdDZGdJNjVnSlIzUFhDWDNqampCd25SZUR5SDU1REc4cXFLblZYV20yY3F5OUl0MWNnSTNNTWRWYWtlbkEzbmJt?oc=5",
       "date": "Thu, 30 Jul 2026 22:04:17 GMT",
-      "source": "g-enews.com",
+      "source": "글로벌이코노믹",
       "score": 0
     },
     {
@@ -77,17 +77,17 @@
       "score": 0
     },
     {
-      "title": "\"거래가는 41% 폭락인데\"...XRP, ETF 누적 순유입 15억 달러 돌파",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA2c29QWHJNNk9wenR4dF9RRFFXam5pOVFNX0ZtTFo4cXVWRTZFbHZXdWR1SGkxU2hCSjFBTnQyU1RuaWV3VFlIcVZB?oc=5",
-      "date": "Thu, 30 Jul 2026 21:20:00 GMT",
-      "source": "코인리더스",
-      "score": 0
-    },
-    {
       "title": "미국 XRP 현물 ETF 일일 총 순유입 58.47만 달러",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MUW50NG1mcGVOTTRxUkRNajZSZDRSSGRmdjlDZk0tMkZMelF5aC1fcWlJN2h3UWlVNGQwVUNELTZFSnQ5ajBMTkNIcnd5eldhWlNjRVlOZzNaOXkzWmNxTWJIejVaVl9ENXk0eGs4VnQ4ckxkUkoxaEJpRTd6Q0k?oc=5",
       "date": "Thu, 30 Jul 2026 01:22:57 GMT",
-      "source": "PANews",
+      "source": "panewslab.com",
+      "score": 0
+    },
+    {
+      "title": "XRP 현물 ETF로 향하는 기관 자금…美 투자자문사 거버, 보유 내역 공개",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FTlRZWTFtRWRDOU9KRXBJM0pkMlFMeWNPelh6UHFTR2taMUZ1ZFo5SXVCVDB3bFo2dmY4ZzlvS3RBZDM0RG9NU3d5aHNtdl9pLWpn?oc=5",
+      "date": "Thu, 30 Jul 2026 01:08:00 GMT",
+      "source": "네이트",
       "score": 0
     }
   ],
@@ -101,16 +101,16 @@
     },
     {
       "title": "리플 스테이블코인 '몸집 키우기'…이더리움서 RLUSD 1500만개 추가 발행",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA5SkhHUWRsby12SDBJMHgyc3RHQTBnVjd3QU5pWEUzcnNmWnFxN20yalpRQlRkTWFEM1Y0M2F0MU0yOWRiOEFKMjJIUmVEU3NrYVp3?oc=5",
-      "date": "Fri, 31 Jul 2026 00:21:00 GMT",
-      "source": "네이트",
-      "score": 3
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5QR1p1dDZRTHYxOVVOb2FjaW80cXF4MFNsWG1Fc1J6MkFjUHdSdE1rX0NWVE9qVGRwSE5FaUFqbURqZUpseGM0LWM0OU5CRlZzZmVoRWtEZF9SSzFPMzU5QWhkeng4MU9kRi14cTlwWDBUMWc?oc=5",
+      "date": "Fri, 31 Jul 2026 00:20:54 GMT",
+      "source": "디지털투데이",
+      "score": 2
     },
     {
       "title": "리플XRP·비트코인 보합, 오일러 급락…금리·중동 부담",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9wS1dHNmRkbE8xWmtrbWo3RENMdkJ3UTFqZG5Fbk81MXdwcFpOSHZnc1BObXVxRHlVMmlTVl9JNjBNSGhRTHdXWmJ2bTdRdTY4Z01McFpseUIxUzl6M3gwbThWbmxVb3BSbE5vLXlRdVFIQQ?oc=5",
       "date": "Thu, 30 Jul 2026 22:42:33 GMT",
-      "source": "톱스타뉴스",
+      "source": "topstarnews.net",
       "score": 2
     },
     {
@@ -145,14 +145,14 @@
       "title": "코인 이자 후하게 쳐준다더니 273억 '먹튀'",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JRXN0enlMY0FrNDRrT2tlUjRnQnZJdTZEQ3NIT1BSNWNqaEpWX1JJNWVEMFM5dndScnBVSXl1dmExYnBfS3ZqMXY1eE9YS2xPZVpQTEZWV3A3Zw?oc=5",
       "date": "Thu, 30 Jul 2026 08:58:28 GMT",
-      "source": "한국경제",
-      "score": 9
+      "source": "hankyung.com",
+      "score": 2
     },
     {
-      "title": "'가짜 리플 스테이킹' 일당 검거…\"71명에 123억 가로채\" 피해 더 늘듯",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sX3dhS1NfNlhwOTBqMENGV1doeWJzY2FXSWJZY3UyZlNMdnBxcHJDc0ZKNzlnZEhqWlFZUzBLMEEtbW51U242UFAwTTVBMTRBbkVuRHlKMW1jakxfTWJVaNIBeEFVX3lxTE9vYVJSUzZld1p2LXI3N0tYdUNJSEx2U19abWJJY1hobUlJYll0VGprcEdWelJ5cVhIUHhfSUNQRl94YzlZMExVQjZVOVpxaFpJNG1qUTZsVmpVVUJ0VFJtRUxiRGpfeWZPYlFDOXMtVndQa21OTjdfeg?oc=5",
-      "date": "Thu, 30 Jul 2026 03:00:00 GMT",
-      "source": "뉴시스",
+      "title": "[데일리픽] XRP 소송 주역, 美 최고 정보 수장으로…MS·메타 AI 수익화에 '희비'",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE03cUtMOUh0Q3dqay1hTWYxOHFnUFpRRkRaVWtsM0JabDd5eUhlaTRaSzZHMHNfZnZrMW5ZT1l1QlNMMmpkcnByZHlsSm5UNE9vdGFN?oc=5",
+      "date": "Thu, 30 Jul 2026 08:01:00 GMT",
+      "source": "네이트",
       "score": 2
     },
     {
