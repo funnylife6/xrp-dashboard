@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-31T17:23:41",
+  "generated_at": "2026-07-31T18:50:46",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.066,
-    "price_krw": 1533.37,
-    "price_change_24h": -2.2124,
-    "price_change_7d": -1.87912,
-    "price_change_30d": 1.07589,
-    "market_cap_usd": 66635126399,
+    "price_usd": 1.064,
+    "price_krw": 1535.41,
+    "price_change_24h": -2.0373,
+    "price_change_7d": -2.20561,
+    "price_change_30d": 0.44389,
+    "market_cap_usd": 66504379106,
     "market_cap_rank": 6,
-    "volume_24h": 1108735637,
+    "volume_24h": 1112982443,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 63.27,
-    "sentiment_votes_down": 36.73,
+    "sentiment_votes_up": 65.38,
+    "sentiment_votes_down": 34.62,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 13.06,
-    "recent_tps": 13.06,
-    "recent_tx_count": 1162,
+    "tps_24h_avg": 23.08,
+    "recent_tps": 23.08,
+    "recent_tx_count": 2054,
     "recent_ledger_count": 24,
     "recent_window_sec": 89,
-    "ledger_seq": 105980572,
+    "ledger_seq": 105981919,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-31 17:23:26 KST",
+    "updated_at": "2026-07-31 18:50:35 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 3030000,
     "total_net_inflow_usd": 3030000,
     "total_value_traded_usd": 3030000,
-    "updated_at": "SoSoValue 순유입 부분 수집 07/31 17:23",
+    "updated_at": "SoSoValue 순유입 부분 수집 07/31 18:50",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -117,7 +117,7 @@
       "title": "암호화폐(코인) 리플 관련 거대 호재들 눈길... 생태계 활기",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12eHh5THFzeTJiNlR1cFRJQ0U4NUYtWWF3S0I4Q0gyTVZKc2hZelItRzRsUU5tWTNDaEk2TXFaa2RwUk1rQUNwbU9ENGJwY2tfS1RVejJB?oc=5",
       "date": "Fri, 31 Jul 2026 06:38:00 GMT",
-      "source": "위키트리",
+      "source": "wikitree.co.kr",
       "score": 2
     },
     {
@@ -156,11 +156,11 @@
       "score": 2
     },
     {
-      "title": "속보 | 리플, 상승 때마다 80% 급락..역대 5번 불장 연출 후 되돌림",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAtZHl6UmRleFBVVFZOSTcxS1pQeHROd0NfVzBJQnplMWppRTItd2p0OEVNTEtIejRjR3VuRFgxYWEtZ0w1d0FvYXBHSkF3dzFX?oc=5",
-      "date": "Wed, 29 Jul 2026 15:06:00 GMT",
-      "source": "CoinNess",
-      "score": 9
+      "title": "업비트 64억 XRP, RLUSD 통합 확대…렌딩도 예고",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1N0l4M0NfcTFmejVFVXd2WHJTaG9jWE82b00tUlRlS0xDd1dKVW9OX29wYU5QMk9ieTRhUVNfNjJ0ZVgxQUFIWWJ0MXBXaTJ0Wkd6aDV3?oc=5",
+      "date": "Wed, 29 Jul 2026 14:13:00 GMT",
+      "source": "wikitree.co.kr",
+      "score": 3
     }
   ]
 }
