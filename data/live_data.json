@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-31T03:20:47",
+  "generated_at": "2026-07-31T06:28:02",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.08,
-    "price_krw": 1553.27,
-    "price_change_24h": 0.48174,
-    "price_change_7d": -2.41202,
-    "price_change_30d": 3.5229,
-    "market_cap_usd": 67554091357,
+    "price_usd": 1.081,
+    "price_krw": 1547.41,
+    "price_change_24h": 0.59958,
+    "price_change_7d": -2.5334,
+    "price_change_30d": 3.09338,
+    "market_cap_usd": 67601076585,
     "market_cap_rank": 6,
-    "volume_24h": 919513804,
+    "volume_24h": 969502528,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
@@ -31,7 +31,7 @@
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-07-31 03:20:34 KST",
+    "updated_at": "2026-07-31 06:27:50 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,11 +43,18 @@
     "aum_usd": 3030000,
     "total_net_inflow_usd": 3030000,
     "total_value_traded_usd": 3030000,
-    "updated_at": "SoSoValue 순유입 부분 수집 07/31 03:20",
+    "updated_at": "SoSoValue 순유입 부분 수집 07/31 06:28",
     "data_source": "sosovalue",
     "partial": true
   },
   "etf_news": [
+    {
+      "title": "XRP 현물 ETF 순유입...SOL·HYPE는 변동 없어",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1zRE0tVDBoS0RRNFN6VmFsVzhCdWhEUS01VE5xQnNDcnNzOHRhdTZrSUFwbFlxOHVXbWNPbUVtTE9NM2tXWVdlbTJn?oc=5",
+      "date": "Fri, 31 Jul 2026 05:44:45 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
     {
       "title": "XRP 현물 ETF 누적 순유입 15억달러 '신기록'…비트와이즈가 선두",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9PYldsWDZXV3I3TzNwOEtFZUtfQ1diV2dFTU9NelRrQ0hZYjVVWjdRQS1RQ0NzM1ZYRUxOU3hXM0ZCYjk4VUdxdnN3eFVKM25RUFNqbHRxODNnaDdvZXdNLWRFekV5ZmxmdDh0YmtMMFRaOWc?oc=5",
@@ -59,7 +66,7 @@
       "title": "XRP ETF 15억 달러 유입에도 '반토막'… 운명 가르는 입법 분수령",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTWNkOURidnZRVFgxWm4yaE9vd1hobXZSc1pJb3BzUmtPd0lBVHhqaWw3eTRKendTQjk0Y2dYUktRanktMlF5OEdDZGdJNjVnSlIzUFhDWDNqampCd25SZUR5SDU1REc4cXFLblZYV20yY3F5OUl0MWNnSTNNTWRWYWtlbkEzbmJt?oc=5",
       "date": "Thu, 30 Jul 2026 22:04:17 GMT",
-      "source": "글로벌이코노믹",
+      "source": "g-enews.com",
       "score": 0
     },
     {
@@ -80,14 +87,7 @@
       "title": "미국 XRP 현물 ETF 일일 총 순유입 58.47만 달러",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MUW50NG1mcGVOTTRxUkRNajZSZDRSSGRmdjlDZk0tMkZMelF5aC1fcWlJN2h3UWlVNGQwVUNELTZFSnQ5ajBMTkNIcnd5eldhWlNjRVlOZzNaOXkzWmNxTWJIejVaVl9ENXk0eGs4VnQ4ckxkUkoxaEJpRTd6Q0k?oc=5",
       "date": "Thu, 30 Jul 2026 01:22:57 GMT",
-      "source": "panewslab.com",
-      "score": 0
-    },
-    {
-      "title": "XRP 현물 ETF로 향하는 기관 자금…美 투자자문사 거버, 보유 내역 공개",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FTlRZWTFtRWRDOU9KRXBJM0pkMlFMeWNPelh6UHFTR2taMUZ1ZFo5SXVCVDB3bFo2dmY4ZzlvS3RBZDM0RG9NU3d5aHNtdl9pLWpn?oc=5",
-      "date": "Thu, 30 Jul 2026 01:08:00 GMT",
-      "source": "네이트",
+      "source": "PANews",
       "score": 0
     }
   ],
@@ -121,6 +121,13 @@
       "score": 2
     },
     {
+      "title": "리플(XRP) 미결제 약정, 2024년 이후 최저…파생상품 투자자 떠난다",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBVV2hrZGt3SnJMZDYydWw1SFE5M1JwT0tqNXliMC1SM1B0TUVwSlJ0M2F1bTg1My13OFFRR3dYYmJwdEFQM3BKVGhn?oc=5",
+      "date": "Thu, 30 Jul 2026 22:00:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
       "title": "엑스알피(리플) ETF 누적 유입 15억 달러 돌파…그런데 자산은 10억 달러도 안 됐다",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9tVEFkRVZYZTl3UGJ2SFFLU2xYbW9sV0xjSFpRaXljbkRGUHFLX2tDZFFDTHVDVi1LSnpmRG93bUtadkdsMzVES2p3?oc=5",
       "date": "Thu, 30 Jul 2026 21:54:00 GMT",
@@ -139,13 +146,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JRXN0enlMY0FrNDRrT2tlUjRnQnZJdTZEQ3NIT1BSNWNqaEpWX1JJNWVEMFM5dndScnBVSXl1dmExYnBfS3ZqMXY1eE9YS2xPZVpQTEZWV3A3Zw?oc=5",
       "date": "Thu, 30 Jul 2026 08:58:28 GMT",
       "source": "한국경제",
-      "score": 9
-    },
-    {
-      "title": "“리플 예치하면 매달 1.8% 수익”… 123억 원 들고 잠적한 일당 검거",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NWmFjSDRMaE9oNWJHSkE3NTFYSk4zMEMxS09tb1NuVHNWS3owdEhhVGxsdXNFY1BZbXV5SFBaYTRHbnFOZUhHQy1LdkJ4ekRieGfSAVNBVV95cUxPV1FRTkZkQjNndlFHRl9FbFJWaW42YzJFNTZGVVpwejhsYkRCel9oR2d2UERUejdURlhQZUZYUGI5MXFTMWRFMWtQeG44ekVqbEZVZw?oc=5",
-      "date": "Thu, 30 Jul 2026 05:26:49 GMT",
-      "source": "서울경제",
       "score": 9
     },
     {
