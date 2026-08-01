@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-01T17:54:54",
+  "generated_at": "2026-08-01T18:57:22",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.057,
-    "price_krw": 1525.32,
-    "price_change_24h": -1.11694,
-    "price_change_7d": -4.15118,
-    "price_change_30d": -3.07119,
-    "market_cap_usd": 66115599770,
+    "price_usd": 1.051,
+    "price_krw": 1516.92,
+    "price_change_24h": -1.32295,
+    "price_change_7d": -4.86835,
+    "price_change_30d": -3.36498,
+    "market_cap_usd": 65731896398,
     "market_cap_rank": 6,
-    "volume_24h": 563589451,
+    "volume_24h": 594335917,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 73.33,
-    "sentiment_votes_down": 26.67,
+    "sentiment_votes_up": 68.85,
+    "sentiment_votes_down": 31.15,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 21.27,
-    "recent_tps": 21.27,
-    "recent_tx_count": 1744,
+    "tps_24h_avg": 15.53,
+    "recent_tps": 15.53,
+    "recent_tx_count": 1398,
     "recent_ledger_count": 24,
-    "recent_window_sec": 82,
-    "ledger_seq": 106003350,
+    "recent_window_sec": 90,
+    "ledger_seq": 106004321,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-01 17:54:40 KST",
+    "updated_at": "2026-08-01 18:57:16 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,14 +43,14 @@
     "aum_usd": 7120000,
     "total_net_inflow_usd": 7120000,
     "total_value_traded_usd": 7120000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/01 17:54",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/01 18:57",
     "data_source": "sosovalue",
     "partial": true
   },
   "etf_news": [
     {
       "title": "리플(XRP) 현물 ETF 15억 달러 돌파의 ‘불편한 진실’…투자금 5억 달러 증발",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBDRXhjd3Z0WUh0WEM2OFRVb2hNWVduUlE4VkZjbzE0amt0ZFltbUxHZ2JGZ0ZVVWxnTFd6QS1nTHN2RVNnX2Z1RA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9PU21xaHhPWkRZREVrdE0tSGlPUklwWHB5ZjBLNHR6SlNLaG45RUVLaG1DWjN6R2ptV1VOQW1lUWNseTc3Uks3YUdB?oc=5",
       "date": "Fri, 31 Jul 2026 23:08:00 GMT",
       "source": "코인리더스",
       "score": 0
@@ -73,7 +73,7 @@
       "title": "XRP ETF 15억 달러 유입에도 '반토막'… 운명 가르는 입법 분수령",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTWNkOURidnZRVFgxWm4yaE9vd1hobXZSc1pJb3BzUmtPd0lBVHhqaWw3eTRKendTQjk0Y2dYUktRanktMlF5OEdDZGdJNjVnSlIzUFhDWDNqampCd25SZUR5SDU1REc4cXFLblZYV20yY3F5OUl0MWNnSTNNTWRWYWtlbkEzbmJt?oc=5",
       "date": "Thu, 30 Jul 2026 22:04:17 GMT",
-      "source": "g-enews.com",
+      "source": "글로벌이코노믹",
       "score": 0
     },
     {
@@ -87,7 +87,7 @@
       "title": "미국 XRP 현물 ETF 일일 총 순유입 58.47만 달러",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MUW50NG1mcGVOTTRxUkRNajZSZDRSSGRmdjlDZk0tMkZMelF5aC1fcWlJN2h3UWlVNGQwVUNELTZFSnQ5ajBMTkNIcnd5eldhWlNjRVlOZzNaOXkzWmNxTWJIejVaVl9ENXk0eGs4VnQ4ckxkUkoxaEJpRTd6Q0k?oc=5",
       "date": "Thu, 30 Jul 2026 01:22:57 GMT",
-      "source": "PANews",
+      "source": "panewslab.com",
       "score": 0
     }
   ],
@@ -115,7 +115,7 @@
     },
     {
       "title": "리플(XRP) 현물 ETF 15억 달러 돌파의 ‘불편한 진실’…투자금 5억 달러 증발",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBDRXhjd3Z0WUh0WEM2OFRVb2hNWVduUlE4VkZjbzE0amt0ZFltbUxHZ2JGZ0ZVVWxnTFd6QS1nTHN2RVNnX2Z1RA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9PU21xaHhPWkRZREVrdE0tSGlPUklwWHB5ZjBLNHR6SlNLaG45RUVLaG1DWjN6R2ptV1VOQW1lUWNseTc3Uks3YUdB?oc=5",
       "date": "Fri, 31 Jul 2026 23:08:00 GMT",
       "source": "코인리더스",
       "score": 4
@@ -131,7 +131,7 @@
       "title": "SBI, XRP 약세에도 리플 지분 412억달러 그대로 재확인",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50RFBuOGozRXFpSHZYWjNUU2hOZ0M3ZlNpd21RTjhTOW14QTh0S0syQU8xMHVwSC02NERGTEVuUlpKaC11N0gyaS1hUFpPai1FdWRCbHBn?oc=5",
       "date": "Fri, 31 Jul 2026 21:29:00 GMT",
-      "source": "위키트리",
+      "source": "wikitree.co.kr",
       "score": 2
     },
     {
