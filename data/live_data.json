@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-02T04:49:16",
+  "generated_at": "2026-08-02T07:27:48",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.081,
-    "price_krw": 1559.83,
-    "price_change_24h": 1.48814,
-    "price_change_7d": -1.76495,
-    "price_change_30d": -0.79051,
-    "market_cap_usd": 67598282725,
+    "price_usd": 1.082,
+    "price_krw": 1561.81,
+    "price_change_24h": 1.94037,
+    "price_change_7d": -1.57335,
+    "price_change_30d": -1.60294,
+    "market_cap_usd": 67684859771,
     "market_cap_rank": 6,
-    "volume_24h": 705876759,
+    "volume_24h": 745462823,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 72.88,
-    "sentiment_votes_down": 27.12,
+    "sentiment_votes_up": 70.49,
+    "sentiment_votes_down": 29.51,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 13.61,
-    "recent_tps": 13.61,
-    "recent_tx_count": 1225,
+    "tps_24h_avg": 16.59,
+    "recent_tps": 16.59,
+    "recent_tx_count": 1493,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106013443,
+    "ledger_seq": 106015890,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-02 04:49:06 KST",
+    "updated_at": "2026-08-02 07:27:42 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 7120000,
     "total_net_inflow_usd": 7120000,
     "total_value_traded_usd": 7120000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/02 04:49",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/02 07:27",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -71,7 +71,7 @@
     },
     {
       "title": "XRP 현물 ETF 순유입...SOL·HYPE는 변동 없어",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1zRE0tVDBoS0RRNFN6VmFsVzhCdWhEUS01VE5xQnNDcnNzOHRhdTZrSUFwbFlxOHVXbWNPbUVtTE9NM2tXWVdlbTJn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5WbWViOFdzRG42aXpqOFFDNzZQcGxianI1ZGZPTU56NW84dEFrVzFNdWhjc3lRM0d6STNuaTIwVWhzcXVyR09kdA?oc=5",
       "date": "Fri, 31 Jul 2026 05:44:45 GMT",
       "source": "코인리더스",
       "score": 0
@@ -93,6 +93,13 @@
   ],
   "general_news": [
     {
+      "title": "XRP 매도압력 최저 주장…원자료 확인 안 됐다",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZZWNScVR2US13clhrN09YazhWV2ZESUFiNmswOV8xWm1xOU5HUmZ5c2JZVzRQaS0xMHdxdUdmQ0FJNERkNXh6NVhZcXFRRHhmTXNqcXBMWUowZUQ0bVVsWNIBZkFVX3lxTE9ieWV1alYtMDE0RXNKVnFWc3MySDdEWHBrVjJ4MmpHeXd4WEV2UUpHWm8zLXVwaERyY0sxaE4zd0lvOF9yTVBGQ19QXzk0WVJFc1FuRV9wdEJRSEdna0RwZl9zcldZZw?oc=5",
+      "date": "Sun, 02 Aug 2026 04:01:01 GMT",
+      "source": "tokenpost.kr",
+      "score": 2
+    },
+    {
       "title": "日 SBI 홀딩스, 419억 달러 규모 리플 지분 가치 공개",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVUVkaWxKMWN0cDF3UDlXZzRTUXB5ZGYyLUdoMkZvZ1RSZ3BPLTB5TjBTVnVUbUQ1d0FOOUN5QmdOOXlPRUhsblgxLWtTdXpGcWpJNVZDdGpzRE80b3U1blpHOHRYT2N1aW5QbGNlZ1gyQ3N6Rnh6YUh0MUJHNkVrVjhNd1I0N2RV?oc=5",
       "date": "Sun, 02 Aug 2026 02:06:37 GMT",
@@ -103,7 +110,7 @@
       "title": "오일러 상승·비트코인·리플XRP 보합…거래대금 27.6%↓",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zQ1E1blNoYjU1YVRYRWR5U1ctYUdmemYtekFWR2g4TUZWV3kzTm5KVm85d1ZYUnpGVzUwcjJsVHJ1NzhXQmtwQ1l3dFhmQkhlc2U5M3B1U0VObjFRdVo1VHM4X3BPc2lLRkQ1MTdBcDhyQQ?oc=5",
       "date": "Sun, 02 Aug 2026 01:20:12 GMT",
-      "source": "topstarnews.net",
+      "source": "톱스타뉴스",
       "score": 2
     },
     {
@@ -121,17 +128,10 @@
       "score": 2
     },
     {
-      "title": "리플 사칭 발표 확산…XRP 커뮤니티 경계령",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YV1lVUG5leGRoRHlIZERwRm9oRzE2NW1LR0g1MGpTb2hpMDMyQW1zbGtiYnhDMmhpV1pjOGtyUExjdHo2UlFjSng3czJpZ3YxMGNVQ3UwWWrSAV5BVV95cUxQbnZETTkwQXpMMl9HUEtMLUE4YlRNVEdLeTIwNzA0Y0hSU3BaWFpmdDc2dUd2MjA1ck12UHpXZWIxSExCZmtuVnJhWDhVem42c0I5TmNKb1ZQeXFYaWt3?oc=5",
-      "date": "Sat, 01 Aug 2026 11:18:32 GMT",
-      "source": "tokenpost.kr",
-      "score": 2
-    },
-    {
       "title": "XRP 레저 업그레이드, XRP 보유 선택 가능…수요 감소하나?",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE55eHQ1U21EZUJyZFA5cXAzR01UajF4bF9uSGZpcWdrcGNHczM4NFVwT2RHbWhybV90dzFmb3JfbEFRSFYwa3F6dV81ZXAzTXNvVkdDa2IzMW0xakdHR2t1Z0NmQU1mWll6aGxPbXBhZU96Q1VUcVRXREU5NA?oc=5",
       "date": "Sat, 01 Aug 2026 07:26:44 GMT",
-      "source": "kr.beincrypto.com",
+      "source": "BeInCrypto",
       "score": 2
     },
     {
