@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-01T23:27:34",
+  "generated_at": "2026-08-02T01:04:59",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.059,
-    "price_krw": 1528.53,
-    "price_change_24h": -0.25894,
-    "price_change_7d": -3.69877,
-    "price_change_30d": -2.18412,
-    "market_cap_usd": 66241377670,
+    "price_usd": 1.062,
+    "price_krw": 1532.38,
+    "price_change_24h": -0.10547,
+    "price_change_7d": -3.36514,
+    "price_change_30d": -1.9614,
+    "market_cap_usd": 66397558860,
     "market_cap_rank": 6,
-    "volume_24h": 579637277,
+    "volume_24h": 589802677,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 70.49,
-    "sentiment_votes_down": 29.51,
+    "sentiment_votes_up": 73.21,
+    "sentiment_votes_down": 26.79,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 14.5,
-    "recent_tps": 14.5,
-    "recent_tx_count": 1305,
+    "tps_24h_avg": 16.5,
+    "recent_tps": 16.5,
+    "recent_tx_count": 1485,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106008496,
+    "ledger_seq": 106009997,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-01 23:27:21 KST",
+    "updated_at": "2026-08-02 01:04:54 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,11 +43,18 @@
     "aum_usd": 7120000,
     "total_net_inflow_usd": 7120000,
     "total_value_traded_usd": 7120000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/01 23:27",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/02 01:04",
     "data_source": "sosovalue",
     "partial": true
   },
   "etf_news": [
+    {
+      "title": "이더리움(ETH), ETF만으로 설명 안 된다…스테이킹·네트워크 활동이 만든 7월 강세 지속될까",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XeUtwS3kweXhiM0JMUDdxRS1TRjdZXzJlVVBQRFpVR01FdkYtZHFFTnJEb2xwUUlMaVBNYlpaWlQ4aGlOaTF1cUI2MGl6OGU2UXRORHZrUEF2TGVfZmdDQ2o2SGtQcV9H?oc=5",
+      "date": "Sun, 02 Aug 2026 00:45:00 GMT",
+      "source": "CBC뉴스",
+      "score": 0
+    },
     {
       "title": "리플(XRP) 현물 ETF 15억 달러 돌파의 ‘불편한 진실’…투자금 5억 달러 증발",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9PU21xaHhPWkRZREVrdE0tSGlPUklwWHB5ZjBLNHR6SlNLaG45RUVLaG1DWjN6R2ptV1VOQW1lUWNseTc3Uks3YUdB?oc=5",
@@ -64,7 +71,7 @@
     },
     {
       "title": "XRP 현물 ETF 순유입...SOL·HYPE는 변동 없어",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1zRE0tVDBoS0RRNFN6VmFsVzhCdWhEUS01VE5xQnNDcnNzOHRhdTZrSUFwbFlxOHVXbWNPbUVtTE9NM2tXWVdlbTJn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5WbWViOFdzRG42aXpqOFFDNzZQcGxianI1ZGZPTU56NW84dEFrVzFNdWhjc3lRM0d6STNuaTIwVWhzcXVyR09kdA?oc=5",
       "date": "Fri, 31 Jul 2026 05:44:45 GMT",
       "source": "코인리더스",
       "score": 0
@@ -81,13 +88,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTWNkOURidnZRVFgxWm4yaE9vd1hobXZSc1pJb3BzUmtPd0lBVHhqaWw3eTRKendTQjk0Y2dYUktRanktMlF5OEdDZGdJNjVnSlIzUFhDWDNqampCd25SZUR5SDU1REc4cXFLblZYV20yY3F5OUl0MWNnSTNNTWRWYWtlbkEzbmJt?oc=5",
       "date": "Thu, 30 Jul 2026 22:04:17 GMT",
       "source": "글로벌이코노믹",
-      "score": 0
-    },
-    {
-      "title": "\"거래가는 41% 폭락인데\"...XRP, ETF 누적 순유입 15억 달러 돌파",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA2c29QWHJNNk9wenR4dF9RRFFXam5pOVFNX0ZtTFo4cXVWRTZFbHZXdWR1SGkxU2hCSjFBTnQyU1RuaWV3VFlIcVZB?oc=5",
-      "date": "Thu, 30 Jul 2026 21:20:00 GMT",
-      "source": "코인리더스",
       "score": 0
     }
   ],
@@ -138,7 +138,7 @@
       "title": "리플, RLUSD 원화시장 진입 뒤 기관 발행망까지 확대…XRP와 연결고리는",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTWTdCWU5BdUphSFhNeFlIejF0VkVSeTBaMjJiaTVQQjBLM1pXd0VDMWp0NUhQeFdkNWJwcGRXRU00QmVuQWZQU05kb0kxcHRXNFpUS014RVgxVUE2YWNxM0J3STVtTGQ4?oc=5",
       "date": "Fri, 31 Jul 2026 16:09:18 GMT",
-      "source": "cbci.co.kr",
+      "source": "CBC뉴스",
       "score": 4
     },
     {
@@ -157,9 +157,9 @@
     },
     {
       "title": "리플 스테이블코인 '몸집 키우기'…이더리움서 RLUSD 1500만개 추가 발행",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA5SkhHUWRsby12SDBJMHgyc3RHQTBnVjd3QU5pWEUzcnNmWnFxN20yalpRQlRkTWFEM1Y0M2F0MU0yOWRiOEFKMjJIUmVEU3NrYVp3?oc=5",
-      "date": "Fri, 31 Jul 2026 00:21:00 GMT",
-      "source": "네이트",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5QR1p1dDZRTHYxOVVOb2FjaW80cXF4MFNsWG1Fc1J6MkFjUHdSdE1rX0NWVE9qVGRwSE5FaUFqbURqZUpseGM0LWM0OU5CRlZzZmVoRWtEZF9SSzFPMzU5QWhkeng4MU9kRi14cTlwWDBUMWc?oc=5",
+      "date": "Fri, 31 Jul 2026 00:20:54 GMT",
+      "source": "디지털투데이",
       "score": 3
     }
   ]
