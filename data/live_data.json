@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-02T21:22:45",
+  "generated_at": "2026-08-02T22:25:01",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.082,
-    "price_krw": 1561.46,
-    "price_change_24h": 2.26801,
-    "price_change_7d": -1.63853,
-    "price_change_30d": -4.9371,
-    "market_cap_usd": 67671129161,
+    "price_usd": 1.09,
+    "price_krw": 1572.06,
+    "price_change_24h": 2.85225,
+    "price_change_7d": -1.73341,
+    "price_change_30d": -3.79343,
+    "market_cap_usd": 68112696211,
     "market_cap_rank": 6,
-    "volume_24h": 730555973,
+    "volume_24h": 768483932,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 71.43,
-    "sentiment_votes_down": 28.57,
+    "sentiment_votes_up": 75.0,
+    "sentiment_votes_down": 25.0,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 14.43,
-    "recent_tps": 14.43,
-    "recent_tx_count": 1284,
+    "tps_24h_avg": 17.8,
+    "recent_tps": 17.8,
+    "recent_tx_count": 1460,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 106028812,
+    "recent_window_sec": 82,
+    "ledger_seq": 106029775,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-02 21:22:35 KST",
+    "updated_at": "2026-08-02 22:24:48 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,11 +43,25 @@
     "aum_usd": 7120000,
     "total_net_inflow_usd": 7120000,
     "total_value_traded_usd": 7120000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/02 21:22",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/02 22:24",
     "data_source": "sosovalue",
     "partial": true
   },
   "etf_news": [
+    {
+      "title": "엑스알피(리플) 2.4% 상승…네트워크 업그레이드·ETF 자금 유입이 반등 견인",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE14dFdhRWV0S2hiYjlTSUhQTDNqTnRKbkdFV25YOVFwcWxTaUpobVlfRWM3TVpCZ3YzZzN0R3o4LTBlTXdwTXZMNVhB?oc=5",
+      "date": "Sun, 02 Aug 2026 22:17:00 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
+    {
+      "title": "엑스알피 ETF 4개월 연속 순유입…알트코인 투자자금 ‘쏠림’ 심화",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9iT0Nhb2JZYkJiVTJkNDFtZ0RiSVFnUkpPMFBpWGhHS3kyN1YzdjMtZzR3Z3MxYlh1ZlBsc0MzZnhQTTNPNTZWNTh4T3VLc3FDTmJheU1mTWk?oc=5",
+      "date": "Sun, 02 Aug 2026 21:23:00 GMT",
+      "source": "블록미디어",
+      "score": 0
+    },
     {
       "title": "리플(XRP) 현물 ETF 15억 달러 돌파의 ‘불편한 진실’…투자금 5억 달러 증발",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9PU21xaHhPWkRZREVrdE0tSGlPUklwWHB5ZjBLNHR6SlNLaG45RUVLaG1DWjN6R2ptV1VOQW1lUWNseTc3Uks3YUdB?oc=5",
@@ -56,24 +70,10 @@
       "score": 0
     },
     {
-      "title": "리플(XRP) 현물 ETF에 돈 몰리는데…왜 1.10달러도 넘지 못하나",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1OODVETDdybXFXRFlvSGtTQlo3ZnJFQ2pFbHZ2U2NkVGxLeGJQREpBWkFWRTItT3Z0TVJPUy1xSFFSMTkySV9nNw?oc=5",
-      "date": "Fri, 31 Jul 2026 13:04:00 GMT",
-      "source": "코인리더스",
-      "score": 0
-    },
-    {
-      "title": "XRP 현물 ETF 순유입...SOL·HYPE는 변동 없어",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5WbWViOFdzRG42aXpqOFFDNzZQcGxianI1ZGZPTU56NW84dEFrVzFNdWhjc3lRM0d6STNuaTIwVWhzcXVyR09kdA?oc=5",
-      "date": "Fri, 31 Jul 2026 05:44:45 GMT",
-      "source": "코인리더스",
-      "score": 0
-    },
-    {
       "title": "XRP 현물 ETF 누적 순유입 15억달러 '신기록'…비트와이즈가 선두",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FaUJnckp0U0w1cERuTkJyRDZqc2FrcGZGN05JUV8xU2JUV2ZUdjBhUDlxeC1QWEVod1IwSUlXSjRrekRxby1SZnU1aDFOc256dVdz?oc=5",
       "date": "Fri, 31 Jul 2026 02:13:07 GMT",
-      "source": "news.nate.com",
+      "source": "네이트",
       "score": 0
     },
     {
@@ -93,9 +93,16 @@
   ],
   "general_news": [
     {
-      "title": "\"4년 하락 징크스 끊나\"… 리플 1.25달러 돌파 시험대",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWjJmUlRoUjduQjFVU0p1YzZxMXlBbDlzTmYxM1NkejBJN1VTUnpyYVJPYWtFczBGLWRuLWhueUlEaHQ5ay1LTVZsRU0zczcxVXNMRkwycFNnZy02bDItbHFBM3J5T0IydHZkSGRaWXFuaVJ5Z0piVlNlWThOWDlVM2FYZXduSmZp?oc=5",
-      "date": "Sun, 02 Aug 2026 19:54:48 GMT",
+      "title": "엑스알피(리플) 2.4% 상승…네트워크 업그레이드·ETF 자금 유입이 반등 견인",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE14dFdhRWV0S2hiYjlTSUhQTDNqTnRKbkdFV25YOVFwcWxTaUpobVlfRWM3TVpCZ3YzZzN0R3o4LTBlTXdwTXZMNVhB?oc=5",
+      "date": "Sun, 02 Aug 2026 22:17:00 GMT",
+      "source": "코인리더스",
+      "score": 3
+    },
+    {
+      "title": "리플 기업 가치 500억 달러 돌파… 스탠다드차타드 \"XRP 28달러 간다\"",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYjhPQ3JkeVZzWDlzVXpPQ29LUC1YOEJackUtMmxjMGwtYnU4VU5QODZNODQ2RTduclB4N3hMeTRTeE5zdFJsbUdxVDJtYmxvMVkySGhaNTFWSHRGOEpJdkZxOXBPVnY5b2xCcGdQM3F4LWFxQVNkSkdqa3hyRVlPWWhpMUIxOXZa?oc=5",
+      "date": "Sun, 02 Aug 2026 21:44:08 GMT",
       "source": "글로벌이코노믹",
       "score": 2
     },
@@ -131,7 +138,7 @@
       "title": "XRP 레저 업그레이드, XRP 보유 선택 가능…수요 감소하나?",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE55eHQ1U21EZUJyZFA5cXAzR01UajF4bF9uSGZpcWdrcGNHczM4NFVwT2RHbWhybV90dzFmb3JfbEFRSFYwa3F6dV81ZXAzTXNvVkdDa2IzMW0xakdHR2t1Z0NmQU1mWll6aGxPbXBhZU96Q1VUcVRXREU5NA?oc=5",
       "date": "Sat, 01 Aug 2026 07:26:44 GMT",
-      "source": "kr.beincrypto.com",
+      "source": "BeInCrypto",
       "score": 2
     },
     {
@@ -154,13 +161,6 @@
       "date": "Fri, 31 Jul 2026 00:23:46 GMT",
       "source": "블록체인투데이",
       "score": 2
-    },
-    {
-      "title": "리플 스테이블코인 '몸집 키우기'…이더리움서 RLUSD 1500만개 추가 발행",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5QR1p1dDZRTHYxOVVOb2FjaW80cXF4MFNsWG1Fc1J6MkFjUHdSdE1rX0NWVE9qVGRwSE5FaUFqbURqZUpseGM0LWM0OU5CRlZzZmVoRWtEZF9SSzFPMzU5QWhkeng4MU9kRi14cTlwWDBUMWc?oc=5",
-      "date": "Fri, 31 Jul 2026 00:20:54 GMT",
-      "source": "digitaltoday.co.kr",
-      "score": 3
     }
   ]
 }
