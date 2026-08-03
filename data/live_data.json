@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-03T18:45:52",
+  "generated_at": "2026-08-03T20:21:14",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.08,
-    "price_krw": 1544.51,
-    "price_change_24h": -0.2267,
-    "price_change_7d": -1.1691,
-    "price_change_30d": -8.5095,
-    "market_cap_usd": 67526622485,
+    "price_usd": 1.081,
+    "price_krw": 1544.67,
+    "price_change_24h": 0.03681,
+    "price_change_7d": -0.9907,
+    "price_change_30d": -7.4444,
+    "market_cap_usd": 67568141399,
     "market_cap_rank": 6,
-    "volume_24h": 1035392090,
+    "volume_24h": 1042873264,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 66.67,
-    "sentiment_votes_down": 33.33,
+    "sentiment_votes_up": 68.48,
+    "sentiment_votes_down": 31.52,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 23.32,
-    "recent_tps": 23.32,
-    "recent_tx_count": 2099,
+    "tps_24h_avg": 30.53,
+    "recent_tps": 30.53,
+    "recent_tx_count": 2748,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106048717,
+    "ledger_seq": 106050202,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-03 18:45:38 KST",
+    "updated_at": "2026-08-03 20:21:08 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 7120000,
     "total_net_inflow_usd": 7120000,
     "total_value_traded_usd": 7120000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/03 18:45",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/03 20:21",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -52,7 +52,14 @@
       "title": "리플(XRP) 현물 ETF 주간 1,500만달러 순유입…솔라나 펀드는 1,700만달러 이탈",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QWk9aOGNKX0hDSjVnLUVjREZncXhhYVA3OWdiRjJJeTdwcEVWRjg2REZvTUhPSklkS0R2TzdMV2dHQlhCMV9BcTVleG9FVE1mbk5lZTVqRlVSUHl6TUlqSFZfdGUxbG5q?oc=5",
       "date": "Mon, 03 Aug 2026 08:10:45 GMT",
-      "source": "CBC뉴스",
+      "source": "cbci.co.kr",
+      "score": 0
+    },
+    {
+      "title": "美 비트코인 현물 ETF, 지난주 6153만달러 순유출…3주 연속 순유입 마감",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1mNmoxb1RYbHNxc3R0VDlEcmw0ZHRIRDBlSVB6eC01RFlmYzBzNE1XcHlGa3lsY011Rm9yZDJJdDdqcXNFTGtFR0xjcVd5c3Jw?oc=5",
+      "date": "Mon, 03 Aug 2026 05:39:26 GMT",
+      "source": "블루밍비트",
       "score": 0
     },
     {
@@ -82,13 +89,6 @@
       "date": "Mon, 03 Aug 2026 00:11:18 GMT",
       "source": "디지털투데이",
       "score": 0
-    },
-    {
-      "title": "XRP ETF에만 돈 몰렸다....비트코인·솔라나 제치고 자금 유입 '독주'",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Vd0ZaUXkwekM3OFRyZXkzVHVBd3RseHlia09tdFM0Z3pseUpQZ0lMSWpOajJfWWFrZDY4amRaaTJ2T2RVY05NcDNhbk5rMG5lWWFvZTZkUFdpVkdreFBWM1NwaUFZZ1kxTm1QckhUTF9xQWs?oc=5",
-      "date": "Sun, 02 Aug 2026 23:43:35 GMT",
-      "source": "디지털투데이",
-      "score": 0
     }
   ],
   "general_news": [
@@ -96,7 +96,7 @@
       "title": "리플(XRP) 현물 ETF 주간 1,500만달러 순유입…솔라나 펀드는 1,700만달러 이탈",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QWk9aOGNKX0hDSjVnLUVjREZncXhhYVA3OWdiRjJJeTdwcEVWRjg2REZvTUhPSklkS0R2TzdMV2dHQlhCMV9BcTVleG9FVE1mbk5lZTVqRlVSUHl6TUlqSFZfdGUxbG5q?oc=5",
       "date": "Mon, 03 Aug 2026 08:10:45 GMT",
-      "source": "CBC뉴스",
+      "source": "cbci.co.kr",
       "score": 4
     },
     {
