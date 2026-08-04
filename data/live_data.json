@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-04T13:51:54",
+  "generated_at": "2026-08-04T16:08:23",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.074,
-    "price_krw": 1530.75,
-    "price_change_24h": 0.36885,
-    "price_change_7d": 1.9226,
-    "price_change_30d": -5.41073,
-    "market_cap_usd": 67115524721,
+    "price_usd": 1.075,
+    "price_krw": 1534.91,
+    "price_change_24h": -0.62245,
+    "price_change_7d": 1.02738,
+    "price_change_30d": -5.38488,
+    "market_cap_usd": 67230231262,
     "market_cap_rank": 6,
-    "volume_24h": 976102590,
+    "volume_24h": 913330821,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 71.83,
-    "sentiment_votes_down": 28.17,
+    "sentiment_votes_up": 75.76,
+    "sentiment_votes_down": 24.24,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 22.36,
-    "recent_tps": 22.36,
-    "recent_tx_count": 2012,
+    "tps_24h_avg": 21.98,
+    "recent_tps": 21.98,
+    "recent_tx_count": 1978,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106066506,
+    "ledger_seq": 106068617,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-04 13:51:48 KST",
+    "updated_at": "2026-08-04 16:08:09 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,6 +92,13 @@
   ],
   "general_news": [
     {
+      "title": "엑스알피(리플) 시세 약세...\"대규모 상승 직전 재현\"",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9uSzRmOGZEY2ZZdFlQdlVqdmo4M0p2R05weFJkOGV3Umg1Q185QzNyU01kU1hHVi1HN3NqSnRKZ0dVdEJmVUR5cjcwSVFxdEc3U1AzZ2xtbVoxS05fSF95VVBaNzhVWjBRcF9uWU9R?oc=5",
+      "date": "Tue, 04 Aug 2026 15:00:00 GMT",
+      "source": "gukjenews.com",
+      "score": 2
+    },
+    {
       "title": "리플의 XRP, 최신 기술 업그레이드와 규제 촉매로 관심 집중",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBILXhRSy1WSEdVdGtvRTZMdlR0SFROVTF0emVzUFJLVHZyQmFlOG43NTRIRi1abThiVk1Ua2Y3VjFfbi01Qmp6dXU4WHhZeUtJNnJsMTY2RDNFams1eW9HUtIBZkFVX3lxTE1oeGNRak9OZHlHSlVjWjhtTzJRbzRWUFk0OHE5Q215TXpCdF9Yb1JlWmtkVjVKMExaaEljRkUtWXlOcWlrbjZ1Vnp0cEo3TW8wXzV5TmNGenhhYV9VV2RMNldIa2Rwdw?oc=5",
       "date": "Tue, 04 Aug 2026 08:38:03 GMT",
@@ -102,7 +109,7 @@
       "title": "日 SBI 임원 \"XRP 가격 부진은 美 클래리티 법안 향방 때문\"",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxON01vY1N6azE5VlI4akpjUEw0LUhPRlRDNnJXT09KY3RYVHNSZ3pzNDc0R2luZXVsMFFzUFd0N2FmMDVpd19DV0RIdmRNb1ZhZFBhVnN5VFRvSGNyNnFxX2tkUXJ0V3lfVnZHTkFGYU5Fdl9XZUszdlhVTktadEIxNXpyOUs2Y2c?oc=5",
       "date": "Tue, 04 Aug 2026 06:01:37 GMT",
-      "source": "글로벌이코노믹",
+      "source": "g-enews.com",
       "score": 2
     },
     {
@@ -151,14 +158,7 @@
       "title": "\"1000만 개서 1억 개로\"… 리플 레저 결제량 하루 새 90% 폭락",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYXFueHZCelNYbWlLT0FraU5yTkN3Zm52NmtVLTRScTVhenBYWllxc09xeEZxQjZCeVJURGExU1YyeGJUTzY4T1lhdjBlMjFuMW55OUdUbElRNmJCSEt0Q21Ha2hrQ01tY3I0N3hLc3kzNmtmbktHTG85NDZnV0pXQ1hkVFpUMXBF?oc=5",
       "date": "Mon, 03 Aug 2026 20:55:04 GMT",
-      "source": "글로벌이코노믹",
-      "score": 2
-    },
-    {
-      "title": "XRP 보유자들은 이제 2억 8천만 달러 규모의 대출 풀을 통해 이더리움에서 RLUSD를 대출받을 수 있습니다",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZkRxUEt6LVF1VXZMTmEzMi0zR2xFVm9jOTJUMWdOcGd2QWlzS2JSWlg2eTB4Z1lURVdTTnRrcGZmbzdXNEJTaVA3VE13RTNBd2JXUXcteGRpSTJIbGEwMmxKZF9tXzVYUnlmaS1wOENXaXBwd1BKZHd0bWVvYnlpamR3VGl4Q0JKeGNiSXowMXlORVlxSWdmS25WR0V4eWlyMU5zenBYbTJlLTJ5Wlk4cUc0MHhZemhZbXZ1ZQ?oc=5",
-      "date": "Mon, 03 Aug 2026 14:12:00 GMT",
-      "source": "coindesk.com",
+      "source": "g-enews.com",
       "score": 2
     }
   ]
