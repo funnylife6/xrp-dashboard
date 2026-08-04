@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-04T09:18:43",
+  "generated_at": "2026-08-04T11:37:46",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.072,
-    "price_krw": 1537.02,
-    "price_change_24h": 0.52725,
-    "price_change_7d": 1.62109,
-    "price_change_30d": -5.78253,
-    "market_cap_usd": 67057608111,
+    "price_usd": 1.073,
+    "price_krw": 1532.94,
+    "price_change_24h": 0.69435,
+    "price_change_7d": 1.85778,
+    "price_change_30d": -4.89207,
+    "market_cap_usd": 67110115712,
     "market_cap_rank": 6,
-    "volume_24h": 966746432,
+    "volume_24h": 967721160,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 63.51,
-    "sentiment_votes_down": 36.49,
+    "sentiment_votes_up": 65.28,
+    "sentiment_votes_down": 34.72,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 41.33,
-    "recent_tps": 41.33,
-    "recent_tx_count": 3720,
+    "tps_24h_avg": 44.86,
+    "recent_tps": 44.86,
+    "recent_tx_count": 4037,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106062274,
+    "ledger_seq": 106064429,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-04 09:18:36 KST",
+    "updated_at": "2026-08-04 11:37:32 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -99,13 +99,6 @@
       "score": 2
     },
     {
-      "title": "리플(XRP)·스텔라(XLM), 하락 압력 약해졌다…반등 위해 넘어야 할 가격은",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9nb0lVUkF1TVEzcDFub1h3b1JxU19WN05scm44M2gtS2NXbmpQaEkyWHdKcVhBWFV5c2ppQnRHN3I1bjU3eWwzTl9B?oc=5",
-      "date": "Tue, 04 Aug 2026 05:08:00 GMT",
-      "source": "코인리더스",
-      "score": 2
-    },
-    {
       "title": "XRP 팔지 않고 RLUSD 빌린다…FXRP, 이더리움 대출 담보 진입",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE11THhEUkREaGRPem5QemlCNjl3ZG5KQTk0UGZhbzJzRnZzY0NmYzFob01tcG5hVUU3OFdzU3ZHMzJqdkh4R0NSSHhaWVZDRWFOOXZvWm9Mdlp2ZTI3b3Z2QXBQNnhvQ1IwWVhNNm1BZUlxcGs?oc=5",
       "date": "Tue, 04 Aug 2026 02:11:00 GMT",
@@ -159,6 +152,13 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZkRxUEt6LVF1VXZMTmEzMi0zR2xFVm9jOTJUMWdOcGd2QWlzS2JSWlg2eTB4Z1lURVdTTnRrcGZmbzdXNEJTaVA3VE13RTNBd2JXUXcteGRpSTJIbGEwMmxKZF9tXzVYUnlmaS1wOENXaXBwd1BKZHd0bWVvYnlpamR3VGl4Q0JKeGNiSXowMXlORVlxSWdmS25WR0V4eWlyMU5zenBYbTJlLTJ5Wlk4cUc0MHhZemhZbXZ1ZQ?oc=5",
       "date": "Mon, 03 Aug 2026 14:12:00 GMT",
       "source": "CoinDesk",
+      "score": 2
+    },
+    {
+      "title": "리플 RLUSD, 한국·일본 동시 공략...시총 16억달러 도달",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB0dVRoNFVWSmpremRfZGdON3pUaUt4YTNvLUY5RzNJT19WaE9tWVhBMU4wTlRaazBsQ3k4RHE1UGVWZ2lNTEh3a2Fn?oc=5",
+      "date": "Mon, 03 Aug 2026 01:55:00 GMT",
+      "source": "코인리더스",
       "score": 2
     }
   ]
