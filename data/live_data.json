@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-05T10:57:27",
+  "generated_at": "2026-08-05T12:50:11",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.061,
-    "price_krw": 1513.19,
-    "price_change_24h": -1.26212,
-    "price_change_7d": -2.43798,
-    "price_change_30d": -6.52501,
-    "market_cap_usd": 66362432976,
+    "price_usd": 1.065,
+    "price_krw": 1516.09,
+    "price_change_24h": -1.0139,
+    "price_change_7d": -1.61729,
+    "price_change_30d": -6.16692,
+    "market_cap_usd": 66598253136,
     "market_cap_rank": 6,
-    "volume_24h": 933604457,
+    "volume_24h": 958494241,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 73.91,
-    "sentiment_votes_down": 26.09,
+    "sentiment_votes_up": 75.0,
+    "sentiment_votes_down": 25.0,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 45.31,
-    "recent_tps": 45.31,
-    "recent_tx_count": 4078,
+    "tps_24h_avg": 22.43,
+    "recent_tps": 22.43,
+    "recent_tx_count": 2019,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106086106,
+    "ledger_seq": 106087853,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-05 10:57:17 KST",
+    "updated_at": "2026-08-05 12:50:04 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -48,6 +48,13 @@
   },
   "etf_news": [
     {
+      "title": "엑스알피(XRP) 현물 ETF, 4일째 유출 '제로'",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0zMThKNEtCSjk3ZENqWVJORmlSNmY4bk13NXhlSTlHcEdVYTNfaFhfVjJsck5FSVFCQVQtOTRmaVNCekpEcGZ0dG5B?oc=5",
+      "date": "Wed, 05 Aug 2026 12:20:00 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
+    {
       "title": "XRP ETF보다 뜨거운 토큰화 시장… 리플 생태계 43억 달러 규모 성장 주목을",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1xNWREZkZHLVRGblNLdGpwbGpSaEluSkdGSkw2LWVadmwxNFFSZ0pFbmE4cGRJcXJvUzlxRjdyeFp2VDdNdXEzWUp5SFZ0LWs0LVFwRTNiYnVtMHNRNGNFWmkycEVWeDVFRlNKLWtwekNlRDlDUHZz0gF3QVVfeXFMTXE1ZERmRkctVEZuU0t0anBsalJoSW5KR0ZKTDYtZVp2bDE0UVJnSkVuYThwZElxcm9TOXFGN3J4WnZUN011cTNZSnlIVnQtazQtUXBFM2JidW0wc1E0Y0VaaTJwRVZ4NUVGU0ota3B6Q2VEOUNQdnM?oc=5",
       "date": "Tue, 04 Aug 2026 23:36:08 GMT",
@@ -58,14 +65,14 @@
       "title": "15억 달러 쏟아진 XRP ETF… 시세 폭락에 자산 반토막",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWElKc0M2MWdFMUROdHIxZjZ6ak1nX1hpVDNrWW5nMkpYVG54d1VCcXRvYW1lbUNrSmpCWmhkbTdWOHRydlh4ekVzNHk1eElYNFdIdkZ2Q05NdU1NS3JZanFvb3NpcnBzdlJseFpnYU9lTDdjSHVMV2t4VGg1a3VNRTFfWkRTd3du?oc=5",
       "date": "Tue, 04 Aug 2026 22:31:49 GMT",
-      "source": "g-enews.com",
+      "source": "글로벌이코노믹",
       "score": 0
     },
     {
       "title": "리플(XRP) 현물 ETF에 15억1,000만 달러 몰렸는데 왜 자산은 줄었나?",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5MQWJtYUdFUkRwc2FYM1Iyd2VyQ3d1SzR4LVQ5cEFSSVZBTTVEUzIyeGI5OUxwUzMtLWdDTDloVlE2UXpkVWllTUhn?oc=5",
       "date": "Tue, 04 Aug 2026 22:12:00 GMT",
-      "source": "coinreaders.com",
+      "source": "코인리더스",
       "score": 0
     },
     {
@@ -79,14 +86,7 @@
       "title": "리플, XRP 현물 ETF·CME 파생상품 개척...기관 자금 더 끌어모을까?",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAyQ3lOYlREcjd5QS01UXNBQkhOVi1LRWVmd3hXUzJKR0MxVHdEQy1yWVpIZTBKam9VQ1U3aTl3czVuQzhmUE9MV1Fn?oc=5",
       "date": "Tue, 04 Aug 2026 19:00:00 GMT",
-      "source": "coinreaders.com",
-      "score": 0
-    },
-    {
-      "title": "리플 XRP 1달러대 정체, ETF 10억달러에도 가격 못 오른 이유…수요보다 ‘유입의 지속성’이 관건",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1EamhldDdoUU1UcVN1ampyOU5ONW5qcjdUU1hXUW1sYXBSLWI3MHBSUE03SmswaW16YjRBMFQ3QVpoaGV1eWRIMEUyY3pSWlBXTHIyYWN1bTJxX0NXYldDaF81NXlVdzFw?oc=5",
-      "date": "Tue, 04 Aug 2026 00:34:39 GMT",
-      "source": "CBC뉴스",
+      "source": "코인리더스",
       "score": 0
     }
   ],
@@ -95,7 +95,7 @@
       "title": "리플 XRP, ECS Fin 통합으로 스위프트·연준 결제망 접근성 확보",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUXlHcGlNd194M1R1bXBmZU0zSDNULWx4VC1nZDFITDlGYnlkUTF6UFlKMDJ0c2tPc2ZoSWl1RzNRVS1OMGhDRFpIVTFUdVhsaTVaWXJhVjEtakxJUllXd0VCcktnM0RxclIxSzNoaF9fUDlDa2djdERVTlB4ems3ZlhhMXM3MndN?oc=5",
       "date": "Wed, 05 Aug 2026 05:14:09 GMT",
-      "source": "g-enews.com",
+      "source": "글로벌이코노믹",
       "score": 2
     },
     {
@@ -116,7 +116,7 @@
       "title": "리플(XRP) 현물 ETF에 15억1,000만 달러 몰렸는데 왜 자산은 줄었나?",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5MQWJtYUdFUkRwc2FYM1Iyd2VyQ3d1SzR4LVQ5cEFSSVZBTTVEUzIyeGI5OUxwUzMtLWdDTDloVlE2UXpkVWllTUhn?oc=5",
       "date": "Tue, 04 Aug 2026 22:12:00 GMT",
-      "source": "coinreaders.com",
+      "source": "코인리더스",
       "score": 4
     },
     {
@@ -130,7 +130,7 @@
       "title": "리플, XRP 현물 ETF·CME 파생상품 개척...기관 자금 더 끌어모을까?",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAyQ3lOYlREcjd5QS01UXNBQkhOVi1LRWVmd3hXUzJKR0MxVHdEQy1yWVpIZTBKam9VQ1U3aTl3czVuQzhmUE9MV1Fn?oc=5",
       "date": "Tue, 04 Aug 2026 19:00:00 GMT",
-      "source": "coinreaders.com",
+      "source": "코인리더스",
       "score": 5
     },
     {
@@ -151,15 +151,15 @@
       "title": "XRP 담보로 RLUSD 빌린다, 이더리움 대출풀 첫 편입됐다",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2cEJiTmtjMXFkeF9QaFZqSW5GbENfVENUdHhmT0hqbkxfdTBPTGd2aGFnWUpNWHlLa0poQjJ6elpkcDRNaEtxSEYwWjlyVGlmNzRJMXJR?oc=5",
       "date": "Tue, 04 Aug 2026 13:58:00 GMT",
-      "source": "위키트리",
+      "source": "wikitree.co.kr",
       "score": 2
     },
     {
-      "title": "리플 XRP 1달러대 정체, ETF 10억달러에도 가격 못 오른 이유…수요보다 ‘유입의 지속성’이 관건",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1EamhldDdoUU1UcVN1ampyOU5ONW5qcjdUU1hXUW1sYXBSLWI3MHBSUE03SmswaW16YjRBMFQ3QVpoaGV1eWRIMEUyY3pSWlBXTHIyYWN1bTJxX0NXYldDaF81NXlVdzFw?oc=5",
-      "date": "Tue, 04 Aug 2026 00:34:39 GMT",
-      "source": "CBC뉴스",
-      "score": 3
+      "title": "XRP 팔지 않고 RLUSD 빌린다…FXRP, 이더리움 대출 담보 진입",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE11THhEUkREaGRPem5QemlCNjl3ZG5KQTk0UGZhbzJzRnZzY0NmYzFob01tcG5hVUU3OFdzU3ZHMzJqdkh4R0NSSHhaWVZDRWFOOXZvWm9Mdlp2ZTI3b3Z2QXBQNnhvQ1IwWVhNNm1BZUlxcGs?oc=5",
+      "date": "Tue, 04 Aug 2026 02:11:00 GMT",
+      "source": "디지털투데이",
+      "score": 2
     }
   ]
 }
