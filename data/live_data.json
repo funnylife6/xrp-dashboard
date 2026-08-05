@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-04T23:57:10",
+  "generated_at": "2026-08-05T02:08:04",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.073,
-    "price_krw": 1534.12,
-    "price_change_24h": -0.07905,
-    "price_change_7d": 1.1119,
-    "price_change_30d": -7.2013,
-    "market_cap_usd": 67115821529,
+    "price_usd": 1.074,
+    "price_krw": 1530.87,
+    "price_change_24h": -0.18271,
+    "price_change_7d": 0.32168,
+    "price_change_30d": -6.72574,
+    "market_cap_usd": 67188846408,
     "market_cap_rank": 6,
-    "volume_24h": 920054633,
+    "volume_24h": 919511602,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 77.36,
-    "sentiment_votes_down": 22.64,
+    "sentiment_votes_up": 74.19,
+    "sentiment_votes_down": 25.81,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 34.8,
-    "recent_tps": 34.8,
-    "recent_tx_count": 2854,
+    "tps_24h_avg": 18.02,
+    "recent_tps": 18.02,
+    "recent_tx_count": 1622,
     "recent_ledger_count": 24,
-    "recent_window_sec": 82,
-    "ledger_seq": 106075893,
+    "recent_window_sec": 90,
+    "ledger_seq": 106077918,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-04 23:57:00 KST",
+    "updated_at": "2026-08-05 02:07:57 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -48,10 +48,17 @@
   },
   "etf_news": [
     {
+      "title": "XRP ETF보다 뜨거운 토큰화 시장… 리플 생태계 43억 달러 규모 성장 주목을",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1id0VaYnhoUjlEYmV1ZjNrcUE3bDRScHhUdWdORndoZXY2MVBtT082azZLcUp5V1FFX3lzaW9DeGhlSjdNbk56QTJ6MURuRGF0ZWxGYk1peU5WaUFmVnN5WVRJSkRfem0tc1JUYWdrc2VkVlHSAXdBVV95cUxNcTVkRGZGRy1URm5TS3RqcGxqUmhJbkpHRkpMNi1lWnZsMTRRUmdKRW5hOHBkSXFyb1M5cUY3cnhadlQ3TXVxM1lKeUhWdC1rNC1RcEUzYmJ1bTBzUTRjRVppMnBFVng1RUZTSi1rcHpDZUQ5Q1B2cw?oc=5",
+      "date": "Tue, 04 Aug 2026 23:23:15 GMT",
+      "source": "핀포인트뉴스",
+      "score": 0
+    },
+    {
       "title": "15억 달러 쏟아진 XRP ETF… 시세 폭락에 자산 반토막",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWElKc0M2MWdFMUROdHIxZjZ6ak1nX1hpVDNrWW5nMkpYVG54d1VCcXRvYW1lbUNrSmpCWmhkbTdWOHRydlh4ekVzNHk1eElYNFdIdkZ2Q05NdU1NS3JZanFvb3NpcnBzdlJseFpnYU9lTDdjSHVMV2t4VGg1a3VNRTFfWkRTd3du?oc=5",
       "date": "Tue, 04 Aug 2026 22:31:49 GMT",
-      "source": "g-enews.com",
+      "source": "글로벌이코노믹",
       "score": 0
     },
     {
@@ -81,16 +88,16 @@
       "date": "Tue, 04 Aug 2026 00:34:39 GMT",
       "source": "CBC뉴스",
       "score": 0
-    },
-    {
-      "title": "美 비트코인 현물 ETF, 지난주 6153만달러 순유출…3주 연속 순유입 마감",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1mNmoxb1RYbHNxc3R0VDlEcmw0ZHRIRDBlSVB6eC01RFlmYzBzNE1XcHlGa3lsY011Rm9yZDJJdDdqcXNFTGtFR0xjcVd5c3Jw?oc=5",
-      "date": "Mon, 03 Aug 2026 05:39:26 GMT",
-      "source": "bloomingbit.io",
-      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "XRP ETF보다 뜨거운 토큰화 시장… 리플 생태계 43억 달러 규모 성장 주목을",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1id0VaYnhoUjlEYmV1ZjNrcUE3bDRScHhUdWdORndoZXY2MVBtT082azZLcUp5V1FFX3lzaW9DeGhlSjdNbk56QTJ6MURuRGF0ZWxGYk1peU5WaUFmVnN5WVRJSkRfem0tc1JUYWdrc2VkVlHSAXdBVV95cUxNcTVkRGZGRy1URm5TS3RqcGxqUmhJbkpHRkpMNi1lWnZsMTRRUmdKRW5hOHBkSXFyb1M5cUY3cnhadlQ3TXVxM1lKeUhWdC1rNC1RcEUzYmJ1bTBzUTRjRVppMnBFVng1RUZTSi1rcHpDZUQ5Q1B2cw?oc=5",
+      "date": "Tue, 04 Aug 2026 23:23:15 GMT",
+      "source": "핀포인트뉴스",
+      "score": 3
+    },
     {
       "title": "리플(XRP) 현물 ETF에 15억1,000만 달러 몰렸는데 왜 자산은 줄었나?",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5MQWJtYUdFUkRwc2FYM1Iyd2VyQ3d1SzR4LVQ5cEFSSVZBTTVEUzIyeGI5OUxwUzMtLWdDTDloVlE2UXpkVWllTUhn?oc=5",
@@ -137,14 +144,7 @@
       "title": "日 SBI 임원 \"XRP 가격 부진은 美 클래리티 법안 향방 때문\"",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxON01vY1N6azE5VlI4akpjUEw0LUhPRlRDNnJXT09KY3RYVHNSZ3pzNDc0R2luZXVsMFFzUFd0N2FmMDVpd19DV0RIdmRNb1ZhZFBhVnN5VFRvSGNyNnFxX2tkUXJ0V3lfVnZHTkFGYU5Fdl9XZUszdlhVTktadEIxNXpyOUs2Y2c?oc=5",
       "date": "Tue, 04 Aug 2026 06:01:37 GMT",
-      "source": "g-enews.com",
-      "score": 2
-    },
-    {
-      "title": "XRP 팔지 않고 RLUSD 빌린다…FXRP, 이더리움 대출 담보 진입",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE11THhEUkREaGRPem5QemlCNjl3ZG5KQTk0UGZhbzJzRnZzY0NmYzFob01tcG5hVUU3OFdzU3ZHMzJqdkh4R0NSSHhaWVZDRWFOOXZvWm9Mdlp2ZTI3b3Z2QXBQNnhvQ1IwWVhNNm1BZUlxcGs?oc=5",
-      "date": "Tue, 04 Aug 2026 02:11:00 GMT",
-      "source": "디지털투데이",
+      "source": "글로벌이코노믹",
       "score": 2
     },
     {
