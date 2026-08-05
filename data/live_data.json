@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-05T12:50:11",
+  "generated_at": "2026-08-05T15:09:25",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.065,
-    "price_krw": 1516.09,
-    "price_change_24h": -1.0139,
-    "price_change_7d": -1.61729,
-    "price_change_30d": -6.16692,
-    "market_cap_usd": 66598253136,
+    "price_krw": 1514.73,
+    "price_change_24h": -1.00658,
+    "price_change_7d": -0.66878,
+    "price_change_30d": -5.15404,
+    "market_cap_usd": 66566333317,
     "market_cap_rank": 6,
-    "volume_24h": 958494241,
+    "volume_24h": 980566718,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 75.0,
-    "sentiment_votes_down": 25.0,
+    "sentiment_votes_up": 71.67,
+    "sentiment_votes_down": 28.33,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 22.43,
-    "recent_tps": 22.43,
-    "recent_tx_count": 2019,
+    "tps_24h_avg": 25.27,
+    "recent_tps": 25.27,
+    "recent_tx_count": 2274,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106087853,
+    "ledger_seq": 106090004,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-05 12:50:04 KST",
+    "updated_at": "2026-08-05 15:09:11 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -49,7 +49,7 @@
   "etf_news": [
     {
       "title": "엑스알피(XRP) 현물 ETF, 4일째 유출 '제로'",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0zMThKNEtCSjk3ZENqWVJORmlSNmY4bk13NXhlSTlHcEdVYTNfaFhfVjJsck5FSVFCQVQtOTRmaVNCekpEcGZ0dG5B?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1HVzRkT2pMZ1BDakdBSDgyVmdYSXpBWUNhNTMzakdlbmpHSnJscGlaQlNKbjZBNVFZcU1vUTEyY2FvcWlacmtvdA?oc=5",
       "date": "Wed, 05 Aug 2026 12:20:00 GMT",
       "source": "코인리더스",
       "score": 0
@@ -134,6 +134,13 @@
       "score": 5
     },
     {
+      "title": "속보 | 2020년 이후 BTC보다 더 오른 암호화폐는 4.1% 뿐",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ZWnFxYnRSdG81MURWeVVlV0lqa19COGFiU3c2MWRJOVJyNUxDTGp5VjNhYmllOEo1VUpDWkQwMEt6ZDFXM29qVmVTNGVFeVVV?oc=5",
+      "date": "Tue, 04 Aug 2026 16:59:00 GMT",
+      "source": "CoinNess",
+      "score": 8
+    },
+    {
       "title": "\"XRP 신고가 찍으면 비트코인 맥시멀리스트도 갈아탄다\"",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zVjNhMmk3ZXZwVmZrX1hYRWEwd3htX3pqZFFCQXpmSm10Ukh4ZmVrRjduSFpOd1FRb0tQcDN0Nk9PZXRIX0dMS0JvY2JQMGlmTGllTF9WNF80dkZfQlZRQktzVFdJeHV2a3pfRGtldHBieGc?oc=5",
       "date": "Tue, 04 Aug 2026 15:15:00 GMT",
@@ -151,14 +158,7 @@
       "title": "XRP 담보로 RLUSD 빌린다, 이더리움 대출풀 첫 편입됐다",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2cEJiTmtjMXFkeF9QaFZqSW5GbENfVENUdHhmT0hqbkxfdTBPTGd2aGFnWUpNWHlLa0poQjJ6elpkcDRNaEtxSEYwWjlyVGlmNzRJMXJR?oc=5",
       "date": "Tue, 04 Aug 2026 13:58:00 GMT",
-      "source": "wikitree.co.kr",
-      "score": 2
-    },
-    {
-      "title": "XRP 팔지 않고 RLUSD 빌린다…FXRP, 이더리움 대출 담보 진입",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE11THhEUkREaGRPem5QemlCNjl3ZG5KQTk0UGZhbzJzRnZzY0NmYzFob01tcG5hVUU3OFdzU3ZHMzJqdkh4R0NSSHhaWVZDRWFOOXZvWm9Mdlp2ZTI3b3Z2QXBQNnhvQ1IwWVhNNm1BZUlxcGs?oc=5",
-      "date": "Tue, 04 Aug 2026 02:11:00 GMT",
-      "source": "디지털투데이",
+      "source": "위키트리",
       "score": 2
     }
   ]
