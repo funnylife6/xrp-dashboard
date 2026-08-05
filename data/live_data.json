@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-05T21:42:11",
+  "generated_at": "2026-08-05T22:50:46",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.064,
-    "price_krw": 1513.51,
-    "price_change_24h": -1.12843,
-    "price_change_7d": -0.01663,
-    "price_change_30d": -6.9503,
-    "market_cap_usd": 66542702823,
+    "price_usd": 1.063,
+    "price_krw": 1512.15,
+    "price_change_24h": -1.09295,
+    "price_change_7d": -0.98244,
+    "price_change_30d": -7.78131,
+    "market_cap_usd": 66457986875,
     "market_cap_rank": 6,
-    "volume_24h": 1007906651,
+    "volume_24h": 1010324449,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 70.0,
-    "sentiment_votes_down": 30.0,
+    "sentiment_votes_up": 68.0,
+    "sentiment_votes_down": 32.0,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 32.06,
-    "recent_tps": 32.06,
-    "recent_tx_count": 2885,
+    "tps_24h_avg": 29.87,
+    "recent_tps": 29.87,
+    "recent_tx_count": 2688,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106096078,
+    "ledger_seq": 106097138,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-05 21:42:04 KST",
+    "updated_at": "2026-08-05 22:50:37 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -48,6 +48,20 @@
   },
   "etf_news": [
     {
+      "title": "시커 급등·비트코인 보합·리플XRP 하락…ETF 유입에도 관망",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4tRDFkcTdZNl9hZEM3S1A1T2g0UGtDSk14a0R3MHExMjdWeWpIazAweHpPZDRZWGNkQ3ZFYzVad2kxTjItYnoxenlBM1JoT1lDenBUbTlsdE9fUXUzYlJTM0FKV2VPN1Y4Z1d2WXpuTGk1QQ?oc=5",
+      "date": "Wed, 05 Aug 2026 22:06:13 GMT",
+      "source": "topstarnews.net",
+      "score": 0
+    },
+    {
+      "title": "10주간 1억9,200만 개 샀는데…엑스알피(리플) 현물 ETF는 왜 손실일까?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ITXBMUnl1Y3hkRWlfRlgwMjNtOXc5SkRpUm1fTXNfV0JDM0dLNFN0VzJZSjZTQlRpeXVqTE9Ma1lKX2dHUXlIbnhB?oc=5",
+      "date": "Wed, 05 Aug 2026 22:05:00 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
+    {
       "title": "엑스알피(XRP) 현물 ETF, 4일째 유출 '제로'",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0zMThKNEtCSjk3ZENqWVJORmlSNmY4bk13NXhlSTlHcEdVYTNfaFhfVjJsck5FSVFCQVQtOTRmaVNCekpEcGZ0dG5B?oc=5",
       "date": "Wed, 05 Aug 2026 12:20:00 GMT",
@@ -58,7 +72,7 @@
       "title": "XRP ETF보다 뜨거운 토큰화 시장… 리플 생태계 43억 달러 규모 성장 주목을",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1xNWREZkZHLVRGblNLdGpwbGpSaEluSkdGSkw2LWVadmwxNFFSZ0pFbmE4cGRJcXJvUzlxRjdyeFp2VDdNdXEzWUp5SFZ0LWs0LVFwRTNiYnVtMHNRNGNFWmkycEVWeDVFRlNKLWtwekNlRDlDUHZz0gF3QVVfeXFMTXE1ZERmRkctVEZuU0t0anBsalJoSW5KR0ZKTDYtZVp2bDE0UVJnSkVuYThwZElxcm9TOXFGN3J4WnZUN011cTNZSnlIVnQtazQtUXBFM2JidW0wc1E0Y0VaaTJwRVZ4NUVGU0ota3B6Q2VEOUNQdnM?oc=5",
       "date": "Tue, 04 Aug 2026 23:36:08 GMT",
-      "source": "pinpointnews.co.kr",
+      "source": "핀포인트뉴스",
       "score": 0
     },
     {
@@ -74,23 +88,23 @@
       "date": "Tue, 04 Aug 2026 22:12:00 GMT",
       "source": "코인리더스",
       "score": 0
-    },
-    {
-      "title": "그레이스케일 리플 ETF, 2분기 순자산 5741만 달러로 급감…XRP 가격 하락 여파",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1CQXdieG13NEYwNHJrRmlYTmJScDBYa19aVTVkdFk0bDlpbmg2cHdOYkh4LTE1LUFqNEZRd0cwMjdIZWs0RWhwQkxCcWtPRDFURzRrMVQ5YV9ZMUNhNmQyeERQTl9rcDBMVmQ1QTRlb0hRbWs?oc=5",
-      "date": "Tue, 04 Aug 2026 21:44:55 GMT",
-      "source": "데이터투자",
-      "score": 0
-    },
-    {
-      "title": "리플, XRP 현물 ETF·CME 파생상품 개척...기관 자금 더 끌어모을까?",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAyQ3lOYlREcjd5QS01UXNBQkhOVi1LRWVmd3hXUzJKR0MxVHdEQy1yWVpIZTBKam9VQ1U3aTl3czVuQzhmUE9MV1Fn?oc=5",
-      "date": "Tue, 04 Aug 2026 19:00:00 GMT",
-      "source": "코인리더스",
-      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "시커 급등·비트코인 보합·리플XRP 하락…ETF 유입에도 관망",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4tRDFkcTdZNl9hZEM3S1A1T2g0UGtDSk14a0R3MHExMjdWeWpIazAweHpPZDRZWGNkQ3ZFYzVad2kxTjItYnoxenlBM1JoT1lDenBUbTlsdE9fUXUzYlJTM0FKV2VPN1Y4Z1d2WXpuTGk1QQ?oc=5",
+      "date": "Wed, 05 Aug 2026 22:06:13 GMT",
+      "source": "topstarnews.net",
+      "score": 3
+    },
+    {
+      "title": "10주간 1억9,200만 개 샀는데…엑스알피(리플) 현물 ETF는 왜 손실일까?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ITXBMUnl1Y3hkRWlfRlgwMjNtOXc5SkRpUm1fTXNfV0JDM0dLNFN0VzJZSjZTQlRpeXVqTE9Ma1lKX2dHUXlIbnhB?oc=5",
+      "date": "Wed, 05 Aug 2026 22:05:00 GMT",
+      "source": "코인리더스",
+      "score": 4
+    },
     {
       "title": "리플 소송의 주역 제이 클레이튼, 미 정보기관 수장으로 복귀",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9YVHV1ZURWRGZCRlJEcVR4TVU4eUFqOVBBaFhNNlk3T1NaSGJlMTlwX2ZrZDdVdXkyTkZETzRZdTRMY3k0S0pGbi1pZnk4REpkVnNaUWZfenJja0o5Sk43WUdFcHlXa09PakJPTlh5bjE2d0E?oc=5",
@@ -116,15 +130,8 @@
       "title": "XRP ETF보다 뜨거운 토큰화 시장… 리플 생태계 43억 달러 규모 성장 주목을",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1xNWREZkZHLVRGblNLdGpwbGpSaEluSkdGSkw2LWVadmwxNFFSZ0pFbmE4cGRJcXJvUzlxRjdyeFp2VDdNdXEzWUp5SFZ0LWs0LVFwRTNiYnVtMHNRNGNFWmkycEVWeDVFRlNKLWtwekNlRDlDUHZz0gF3QVVfeXFMTXE1ZERmRkctVEZuU0t0anBsalJoSW5KR0ZKTDYtZVp2bDE0UVJnSkVuYThwZElxcm9TOXFGN3J4WnZUN011cTNZSnlIVnQtazQtUXBFM2JidW0wc1E0Y0VaaTJwRVZ4NUVGU0ota3B6Q2VEOUNQdnM?oc=5",
       "date": "Tue, 04 Aug 2026 23:36:08 GMT",
-      "source": "pinpointnews.co.kr",
+      "source": "핀포인트뉴스",
       "score": 3
-    },
-    {
-      "title": "리플(XRP) 현물 ETF에 15억1,000만 달러 몰렸는데 왜 자산은 줄었나?",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5MQWJtYUdFUkRwc2FYM1Iyd2VyQ3d1SzR4LVQ5cEFSSVZBTTVEUzIyeGI5OUxwUzMtLWdDTDloVlE2UXpkVWllTUhn?oc=5",
-      "date": "Tue, 04 Aug 2026 22:12:00 GMT",
-      "source": "코인리더스",
-      "score": 4
     },
     {
       "title": "그레이스케일 리플 ETF, 2분기 순자산 5741만 달러로 급감…XRP 가격 하락 여파",
@@ -139,13 +146,6 @@
       "date": "Tue, 04 Aug 2026 19:00:00 GMT",
       "source": "코인리더스",
       "score": 5
-    },
-    {
-      "title": "\"XRP 신고가 찍으면 비트코인 맥시멀리스트도 갈아탄다\"",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zVjNhMmk3ZXZwVmZrX1hYRWEwd3htX3pqZFFCQXpmSm10Ukh4ZmVrRjduSFpOd1FRb0tQcDN0Nk9PZXRIX0dMS0JvY2JQMGlmTGllTF9WNF80dkZfQlZRQktzVFdJeHV2a3pfRGtldHBieGc?oc=5",
-      "date": "Tue, 04 Aug 2026 15:15:00 GMT",
-      "source": "디지털투데이",
-      "score": 2
     },
     {
       "title": "엑스알피(리플) 시세 약세...\"대규모 상승 직전 재현\"",
