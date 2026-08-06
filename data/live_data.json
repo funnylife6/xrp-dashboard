@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-06T04:59:13",
+  "generated_at": "2026-08-06T07:41:31",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.046,
-    "price_krw": 1484.65,
-    "price_change_24h": -1.90867,
-    "price_change_7d": -2.65579,
-    "price_change_30d": -7.313,
-    "market_cap_usd": 65397262549,
+    "price_usd": 1.048,
+    "price_krw": 1496.94,
+    "price_change_24h": -1.52966,
+    "price_change_7d": -2.40608,
+    "price_change_30d": -7.35407,
+    "market_cap_usd": 65563395038,
     "market_cap_rank": 6,
-    "volume_24h": 1156365983,
+    "volume_24h": 1216771215,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 75.36,
-    "sentiment_votes_down": 24.64,
+    "sentiment_votes_up": 74.24,
+    "sentiment_votes_down": 25.76,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 33.09,
-    "recent_tps": 33.09,
-    "recent_tx_count": 2978,
+    "tps_24h_avg": 63.31,
+    "recent_tps": 63.31,
+    "recent_tx_count": 5698,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106102825,
+    "ledger_seq": 106105331,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-06 04:59:07 KST",
+    "updated_at": "2026-08-06 07:41:18 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 3580000,
     "total_net_inflow_usd": 3580000,
     "total_value_traded_usd": 3580000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/06 04:59",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/06 07:41",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -52,7 +52,7 @@
       "title": "XRP 현물 ETF보다 커진 토큰화 시장…XRPL RWA 40억달러↑",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53Wml0VlRzRWlJeVdIWEpDSUZzZmg4WE1GbTl6YkFmbmEweU1QUzJWWDlCV2w5NkRDYzJzUnZvS3luV2NvWGhuNk5oRlNfbzkydWwzNUk4LWFLSGdzWWo3bmlRY0NrekxwQUVkc3JIekZ2Y1E?oc=5",
       "date": "Thu, 06 Aug 2026 02:08:45 GMT",
-      "source": "digitaltoday.co.kr",
+      "source": "디지털투데이",
       "score": 0
     },
     {
@@ -93,9 +93,9 @@
   ],
   "general_news": [
     {
-      "title": "XRP(리플), 레버리지 6개월 바닥...'조용한 리셋' 시작",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0yWnJMeFE3NElyVVU0WEYtalBqN0Rockp2NUVYVnI3MzZ2R2FyaFAxeTB2SzlZNk1Oa1p4bGh4VERaandQWDJqRg?oc=5",
-      "date": "Thu, 06 Aug 2026 04:32:00 GMT",
+      "title": "리플 1달러 붕괴 위기…카르다노·솔라나도 추가 하락 경고",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAzbUdJbkk1QlJwRDNvYmZnWHZrU09NQUhTZXNYRlhvM0lWNjhPR19hLVVGQXo1ZGNSd2k3VUdzMU1GUEdMZko5dzBB?oc=5",
+      "date": "Thu, 06 Aug 2026 06:48:00 GMT",
       "source": "coinreaders.com",
       "score": 2
     },
@@ -103,7 +103,7 @@
       "title": "XRP 현물 ETF보다 커진 토큰화 시장…XRPL RWA 40억달러↑",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53Wml0VlRzRWlJeVdIWEpDSUZzZmg4WE1GbTl6YkFmbmEweU1QUzJWWDlCV2w5NkRDYzJzUnZvS3luV2NvWGhuNk5oRlNfbzkydWwzNUk4LWFLSGdzWWo3bmlRY0NrekxwQUVkc3JIekZ2Y1E?oc=5",
       "date": "Thu, 06 Aug 2026 02:08:45 GMT",
-      "source": "digitaltoday.co.kr",
+      "source": "디지털투데이",
       "score": 3
     },
     {
@@ -135,17 +135,10 @@
       "score": 3
     },
     {
-      "title": "리플 XRP, ECS Fin 통합으로 스위프트·연준 결제망 접근성 확보",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUXlHcGlNd194M1R1bXBmZU0zSDNULWx4VC1nZDFITDlGYnlkUTF6UFlKMDJ0c2tPc2ZoSWl1RzNRVS1OMGhDRFpIVTFUdVhsaTVaWXJhVjEtakxJUllXd0VCcktnM0RxclIxSzNoaF9fUDlDa2djdERVTlB4ems3ZlhhMXM3MndN?oc=5",
-      "date": "Wed, 05 Aug 2026 05:14:09 GMT",
-      "source": "글로벌이코노믹",
-      "score": 2
-    },
-    {
       "title": "속보 | 크립토퀀트 \"BTC·ETH·XRP 고래들, 매집 중... 약세장 막바지 진입\"",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ITlBVWUdmMy1DVFU3dERjelVPZU1nYURHemNtN3Y2XzFteXg2OUJ2QzJrSmROd3J4em9jX0gwa21yaW95ZmoxVjRTdjE5N3Vn?oc=5",
       "date": "Wed, 05 Aug 2026 03:12:00 GMT",
-      "source": "CoinNess",
+      "source": "coinness.com",
       "score": 8
     },
     {
@@ -161,6 +154,13 @@
       "date": "Tue, 04 Aug 2026 22:12:00 GMT",
       "source": "coinreaders.com",
       "score": 4
+    },
+    {
+      "title": "그레이스케일 리플 ETF, 2분기 순자산 5741만 달러로 급감…XRP 가격 하락 여파",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1CQXdieG13NEYwNHJrRmlYTmJScDBYa19aVTVkdFk0bDlpbmg2cHdOYkh4LTE1LUFqNEZRd0cwMjdIZWs0RWhwQkxCcWtPRDFURzRrMVQ5YV9ZMUNhNmQyeERQTl9rcDBMVmQ1QTRlb0hRbWs?oc=5",
+      "date": "Tue, 04 Aug 2026 21:44:55 GMT",
+      "source": "데이터투자",
+      "score": 3
     }
   ]
 }
