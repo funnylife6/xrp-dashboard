@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-06T12:52:21",
+  "generated_at": "2026-08-06T15:12:10",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.047,
-    "price_krw": 1490.02,
-    "price_change_24h": -1.67953,
-    "price_change_7d": -3.40315,
-    "price_change_30d": -6.88638,
-    "market_cap_usd": 65478146163,
+    "price_usd": 1.048,
+    "price_krw": 1491.13,
+    "price_change_24h": -1.65494,
+    "price_change_7d": -3.5118,
+    "price_change_30d": -6.75942,
+    "market_cap_usd": 65543386695,
     "market_cap_rank": 6,
-    "volume_24h": 1274906279,
+    "volume_24h": 1272757032,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 74.6,
-    "sentiment_votes_down": 25.4,
+    "sentiment_votes_up": 71.01,
+    "sentiment_votes_down": 28.99,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 35.16,
-    "recent_tps": 35.16,
-    "recent_tx_count": 3164,
+    "tps_24h_avg": 34.29,
+    "recent_tps": 34.29,
+    "recent_tx_count": 3086,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106110137,
+    "ledger_seq": 106112297,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-06 12:52:10 KST",
+    "updated_at": "2026-08-06 15:11:57 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 3580000,
     "total_net_inflow_usd": 3580000,
     "total_value_traded_usd": 3580000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/06 12:52",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/06 15:12",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -59,7 +59,7 @@
       "title": "시커 급등·비트코인 보합·리플XRP 하락…ETF 유입에도 관망",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4tRDFkcTdZNl9hZEM3S1A1T2g0UGtDSk14a0R3MHExMjdWeWpIazAweHpPZDRZWGNkQ3ZFYzVad2kxTjItYnoxenlBM1JoT1lDenBUbTlsdE9fUXUzYlJTM0FKV2VPN1Y4Z1d2WXpuTGk1QQ?oc=5",
       "date": "Wed, 05 Aug 2026 22:06:13 GMT",
-      "source": "톱스타뉴스",
+      "source": "topstarnews.net",
       "score": 0
     },
     {
@@ -124,7 +124,7 @@
       "title": "시커 급등·비트코인 보합·리플XRP 하락…ETF 유입에도 관망",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4tRDFkcTdZNl9hZEM3S1A1T2g0UGtDSk14a0R3MHExMjdWeWpIazAweHpPZDRZWGNkQ3ZFYzVad2kxTjItYnoxenlBM1JoT1lDenBUbTlsdE9fUXUzYlJTM0FKV2VPN1Y4Z1d2WXpuTGk1QQ?oc=5",
       "date": "Wed, 05 Aug 2026 22:06:13 GMT",
-      "source": "톱스타뉴스",
+      "source": "topstarnews.net",
       "score": 3
     },
     {
@@ -142,6 +142,13 @@
       "score": 3
     },
     {
+      "title": "\"몰수한 '코인'도 국가자산으로\"… 정부, 76년만에 국유재산법 전면 개편",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5BRTY3SnpRMHVKeTN2Y1RUdzJ5bjZ4NG1mWWgzTXY1Z0xack50ckotc2J1Q2xrZkEzZS1Ic0h5X0J2RU1QM1B1aXB5WWxUUHRQ?oc=5",
+      "date": "Wed, 05 Aug 2026 08:08:00 GMT",
+      "source": "CoinNess",
+      "score": 8
+    },
+    {
       "title": "리플 XRP, ECS Fin 통합으로 스위프트·연준 결제망 접근성 확보",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUXlHcGlNd194M1R1bXBmZU0zSDNULWx4VC1nZDFITDlGYnlkUTF6UFlKMDJ0c2tPc2ZoSWl1RzNRVS1OMGhDRFpIVTFUdVhsaTVaWXJhVjEtakxJUllXd0VCcktnM0RxclIxSzNoaF9fUDlDa2djdERVTlB4ems3ZlhhMXM3MndN?oc=5",
       "date": "Wed, 05 Aug 2026 05:14:09 GMT",
@@ -154,13 +161,6 @@
       "date": "Wed, 05 Aug 2026 03:12:00 GMT",
       "source": "CoinNess",
       "score": 8
-    },
-    {
-      "title": "XRP ETF보다 뜨거운 토큰화 시장… 리플 생태계 43억 달러 규모 성장 주목을",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1xNWREZkZHLVRGblNLdGpwbGpSaEluSkdGSkw2LWVadmwxNFFSZ0pFbmE4cGRJcXJvUzlxRjdyeFp2VDdNdXEzWUp5SFZ0LWs0LVFwRTNiYnVtMHNRNGNFWmkycEVWeDVFRlNKLWtwekNlRDlDUHZz0gF3QVVfeXFMTXE1ZERmRkctVEZuU0t0anBsalJoSW5KR0ZKTDYtZVp2bDE0UVJnSkVuYThwZElxcm9TOXFGN3J4WnZUN011cTNZSnlIVnQtazQtUXBFM2JidW0wc1E0Y0VaaTJwRVZ4NUVGU0ota3B6Q2VEOUNQdnM?oc=5",
-      "date": "Tue, 04 Aug 2026 23:36:08 GMT",
-      "source": "핀포인트뉴스",
-      "score": 3
     }
   ]
 }
