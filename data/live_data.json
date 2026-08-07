@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-07T03:44:04",
+  "generated_at": "2026-08-07T05:28:18",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.026,
-    "price_krw": 1458.19,
-    "price_change_24h": -1.66963,
-    "price_change_7d": -4.91518,
-    "price_change_30d": -6.67386,
-    "market_cap_usd": 64188136094,
+    "price_usd": 1.016,
+    "price_krw": 1442.16,
+    "price_change_24h": -3.29474,
+    "price_change_7d": -6.13227,
+    "price_change_30d": -7.17297,
+    "market_cap_usd": 63494888587,
     "market_cap_rank": 6,
-    "volume_24h": 1350760946,
+    "volume_24h": 1403079429,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 62.07,
-    "sentiment_votes_down": 37.93,
+    "sentiment_votes_up": 58.0,
+    "sentiment_votes_down": 42.0,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 29.84,
-    "recent_tps": 29.84,
-    "recent_tx_count": 2686,
+    "tps_24h_avg": 25.87,
+    "recent_tps": 25.87,
+    "recent_tx_count": 2328,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106123905,
+    "ledger_seq": 106125519,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-07 03:43:55 KST",
+    "updated_at": "2026-08-07 05:28:11 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 2890000,
     "total_net_inflow_usd": 2890000,
     "total_value_traded_usd": 2890000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/07 03:44",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/07 05:28",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -66,7 +66,7 @@
       "title": "블랙록 주도 비트코인·이더리움 ETF, 3억500만달러 순유입…XRP만 이탈",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BU2NMR2ZPYS1yRDVnOVBoamRSLXBJS1laLWdpTFNtVkE3bnNDRXpCdHVUUUVobjM4enJxOEM1eXRqTDZZRUZaWFZJckZoTHdfV3BhMGx3?oc=5",
       "date": "Thu, 06 Aug 2026 19:46:00 GMT",
-      "source": "wikitree.co.kr",
+      "source": "위키트리",
       "score": 0
     },
     {
@@ -92,6 +92,20 @@
     }
   ],
   "general_news": [
+    {
+      "title": "RLUSD, XRP 안 팔아도 빌린다...이더리움 디파이 영토 대확장",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5OdkNYbEFaMWVaN1pPa1YtUGxuV0VWZUtXZExNS2wzU0VQMWJiRnl3YXRyRVQySWphSU43bDlSVFF2T1JRLS1XX2dB?oc=5",
+      "date": "Fri, 07 Aug 2026 03:55:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
+      "title": "리플 고소했던 인물이 美 정보국장...XRP 옥죄는 5년 법적 공방 잔혹사",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdUFKb25fR0lyU3NkTFlBYjltWFZDYmVlQTdQSXlyLVZCaHVIMFpNZ0xiS2I1VlNlSjRHX1gzYlpacjZXUFJKaHMyN1FIXzJlQzE1YTg5TG1FRlRCbG85SEE4ZTNfS01tc0VQb0VJVG92RHBRc04tRExZREVvY012cTBMdThuZUo4?oc=5",
+      "date": "Fri, 07 Aug 2026 02:09:39 GMT",
+      "source": "글로벌이코노믹",
+      "score": 3
+    },
     {
       "title": "리플(XRP), $1.04선 공방…미 정책 불확실성 및 ETF 자금 유출 이중고",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZemdEcW5QYXN4Smt0VG9qQXRybU9vVUJONmRJN3RDWkNwOUhsdHJHMmZuaXBXcGVPY0hCcGFYaWs2R3hYVFptbDIzMGlmclNVNENHUUlDVURCYzNsQTJ1SdIBZkFVX3lxTE1uN0o5SHkxZUh3NGQtcnZfeHlDUGowLThyWGxWSHZ1dlFHQnZsT194YmEwV3poaUhYUEIwVjhZcDdtMm9nQUROcWliODY1blAtSFYydXJMOENJbzFzcTJJRFg3dW5CZw?oc=5",
@@ -121,13 +135,6 @@
       "score": 2
     },
     {
-      "title": "속보 | 美 상원, 클래리티법 표결 9월로 연기",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBPakF1Ym9FUU44OHVIWUJzVXNSVURwLW1GZUZkd05OR3ZBT1dWV1plS19BMmlHNFdIWk1GMXRBaU1HYjc5YnJCRXRzNmt1dFBG?oc=5",
-      "date": "Thu, 06 Aug 2026 09:54:00 GMT",
-      "source": "CoinNess",
-      "score": 8
-    },
-    {
       "title": "XRP 현물 ETF보다 커진 토큰화 시장…XRPL RWA 40억달러↑",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53Wml0VlRzRWlJeVdIWEpDSUZzZmg4WE1GbTl6YkFmbmEweU1QUzJWWDlCV2w5NkRDYzJzUnZvS3luV2NvWGhuNk5oRlNfbzkydWwzNUk4LWFLSGdzWWo3bmlRY0NrekxwQUVkc3JIekZ2Y1E?oc=5",
       "date": "Thu, 06 Aug 2026 02:08:45 GMT",
@@ -147,13 +154,6 @@
       "date": "Wed, 05 Aug 2026 22:06:13 GMT",
       "source": "톱스타뉴스",
       "score": 3
-    },
-    {
-      "title": "속보 | 美 클래리티 법안, 미국 상원 일정에서 제외",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5JSklWQi1WTTRhTE5YMjV0Q3ZEQ21OS2NZMzA1Rmo0Y0JlamVXTHo1VGRfc0JYbEZmU0tySWJWeWx3S1JYbFpFd095eXd4Y0JW?oc=5",
-      "date": "Wed, 05 Aug 2026 21:27:00 GMT",
-      "source": "CoinNess",
-      "score": 8
     },
     {
       "title": "속보 | 비트코인 상승 베팅 투자자 거의 전멸",
