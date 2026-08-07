@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-07T00:36:41",
+  "generated_at": "2026-08-07T03:44:04",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.034,
-    "price_krw": 1470.51,
-    "price_change_24h": -2.65332,
-    "price_change_7d": -4.54888,
-    "price_change_30d": -7.02436,
-    "market_cap_usd": 64610764067,
+    "price_usd": 1.026,
+    "price_krw": 1458.19,
+    "price_change_24h": -1.66963,
+    "price_change_7d": -4.91518,
+    "price_change_30d": -6.67386,
+    "market_cap_usd": 64188136094,
     "market_cap_rank": 6,
-    "volume_24h": 1445271757,
+    "volume_24h": 1350760946,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 64.44,
-    "sentiment_votes_down": 35.56,
+    "sentiment_votes_up": 62.07,
+    "sentiment_votes_down": 37.93,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 40.81,
-    "recent_tps": 40.81,
-    "recent_tx_count": 3673,
+    "tps_24h_avg": 29.84,
+    "recent_tps": 29.84,
+    "recent_tx_count": 2686,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106121008,
+    "ledger_seq": 106123905,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-07 00:36:31 KST",
+    "updated_at": "2026-08-07 03:43:55 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,11 +43,18 @@
     "aum_usd": 2890000,
     "total_net_inflow_usd": 2890000,
     "total_value_traded_usd": 2890000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/07 00:36",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/07 03:44",
     "data_source": "sosovalue",
     "partial": true
   },
   "etf_news": [
+    {
+      "title": "XRP 현물 ETF만 돈 빠졌다…비트코인·이더리움엔 자금 유입",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8yWGtweERXcmxSZEVEMHFtbHVJLU9nVEVSMWNydGNTdjRCWVNMSWpaMll5dU41VzRSQWl0aVpaZWVfbGdNMUhrS1I5dVpDcWp4S1VKUDBuVHByUG9peDdiLXpMM3d1bzBKRFVNTVlrUGtSckU?oc=5",
+      "date": "Fri, 07 Aug 2026 01:41:00 GMT",
+      "source": "디지털투데이",
+      "score": 0
+    },
     {
       "title": "9억 9천만 개 물량 잠긴 리플(XRP), 5억 달러 손실 딛고 반격할까?",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5pdHhZekNmQURuel80YjJHT25mdDZjQUx2cGE2alY2S0NPTlVrTy03Ym9zTHNwb2V6b0FsUlJrTDl1a0psNVZzQUNB?oc=5",
@@ -59,7 +66,7 @@
       "title": "블랙록 주도 비트코인·이더리움 ETF, 3억500만달러 순유입…XRP만 이탈",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BU2NMR2ZPYS1yRDVnOVBoamRSLXBJS1laLWdpTFNtVkE3bnNDRXpCdHVUUUVobjM4enJxOEM1eXRqTDZZRUZaWFZJckZoTHdfV3BhMGx3?oc=5",
       "date": "Thu, 06 Aug 2026 19:46:00 GMT",
-      "source": "위키트리",
+      "source": "wikitree.co.kr",
       "score": 0
     },
     {
@@ -82,16 +89,16 @@
       "date": "Wed, 05 Aug 2026 22:05:00 GMT",
       "source": "코인리더스",
       "score": 0
-    },
-    {
-      "title": "엑스알피(XRP) 현물 ETF, 4일째 유출 '제로'",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0zMThKNEtCSjk3ZENqWVJORmlSNmY4bk13NXhlSTlHcEdVYTNfaFhfVjJsck5FSVFCQVQtOTRmaVNCekpEcGZ0dG5B?oc=5",
-      "date": "Wed, 05 Aug 2026 12:20:00 GMT",
-      "source": "코인리더스",
-      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "리플(XRP), $1.04선 공방…미 정책 불확실성 및 ETF 자금 유출 이중고",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZemdEcW5QYXN4Smt0VG9qQXRybU9vVUJONmRJN3RDWkNwOUhsdHJHMmZuaXBXcGVPY0hCcGFYaWs2R3hYVFptbDIzMGlmclNVNENHUUlDVURCYzNsQTJ1SdIBZkFVX3lxTE1uN0o5SHkxZUh3NGQtcnZfeHlDUGowLThyWGxWSHZ1dlFHQnZsT194YmEwV3poaUhYUEIwVjhZcDdtMm9nQUROcWliODY1blAtSFYydXJMOENJbzFzcTJJRFg3dW5CZw?oc=5",
+      "date": "Fri, 07 Aug 2026 01:20:09 GMT",
+      "source": "tokenpost.kr",
+      "score": 3
+    },
     {
       "title": "9억 9천만 개 물량 잠긴 리플(XRP), 5억 달러 손실 딛고 반격할까?",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5pdHhZekNmQURuel80YjJHT25mdDZjQUx2cGE2alY2S0NPTlVrTy03Ym9zTHNwb2V6b0FsUlJrTDl1a0psNVZzQUNB?oc=5",
@@ -114,11 +121,11 @@
       "score": 2
     },
     {
-      "title": "XRP 가격 등락 속 유럽 규제 완성과 크로스체인 확장 주목",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fTXl0U3B6N1Fwc0pDMjFXb3E4b0NsQ3plcHdDSTJBR0VLc1plMlFRWGhfSUNraGFSLURiNmhNU2hSMkhlLTNQeU1jYWhHQmpzX2xiMFM3OWkyai01b1JYVtIBZkFVX3lxTFAxbjNHVERnUnVUem1ldnVuOTFIUU1fRGFIYWV1TTN1SHZXVE5zVVRmMERzN1c1NTJaWjhyZ0F3d2c5a3dRcXFMWk5pb3d4TmVaTW1UdnBJMHlKSnhrTnltU3d1aVVCdw?oc=5",
-      "date": "Thu, 06 Aug 2026 09:20:43 GMT",
-      "source": "tokenpost.kr",
-      "score": 2
+      "title": "속보 | 美 상원, 클래리티법 표결 9월로 연기",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBPakF1Ym9FUU44OHVIWUJzVXNSVURwLW1GZUZkd05OR3ZBT1dWV1plS19BMmlHNFdIWk1GMXRBaU1HYjc5YnJCRXRzNmt1dFBG?oc=5",
+      "date": "Thu, 06 Aug 2026 09:54:00 GMT",
+      "source": "CoinNess",
+      "score": 8
     },
     {
       "title": "XRP 현물 ETF보다 커진 토큰화 시장…XRPL RWA 40억달러↑",
@@ -142,23 +149,16 @@
       "score": 3
     },
     {
-      "title": "속보 | 비트코인 상승 베팅 투자자 거의 전멸",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE91dkI1YUxDQWFMZUVfLU5KQTI1RFdEeXdSTUxYVTdldmRjR3ZJZVk0clVOSW1jQ3pBd19lT0swX0xIenNTS3cybkRpUk5RUWt0?oc=5",
-      "date": "Wed, 05 Aug 2026 20:12:00 GMT",
+      "title": "속보 | 美 클래리티 법안, 미국 상원 일정에서 제외",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5JSklWQi1WTTRhTE5YMjV0Q3ZEQ21OS2NZMzA1Rmo0Y0JlamVXTHo1VGRfc0JYbEZmU0tySWJWeWx3S1JYbFpFd095eXd4Y0JW?oc=5",
+      "date": "Wed, 05 Aug 2026 21:27:00 GMT",
       "source": "CoinNess",
       "score": 8
     },
     {
-      "title": "리플 소송의 주역 제이 클레이튼, 미 정보기관 수장으로 복귀",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9YVHV1ZURWRGZCRlJEcVR4TVU4eUFqOVBBaFhNNlk3T1NaSGJlMTlwX2ZrZDdVdXkyTkZETzRZdTRMY3k0S0pGbi1pZnk4REpkVnNaUWZfenJja0o5Sk43WUdFcHlXa09PakJPTlh5bjE2d0E?oc=5",
-      "date": "Wed, 05 Aug 2026 09:18:00 GMT",
-      "source": "Investing.com 한국어",
-      "score": 3
-    },
-    {
-      "title": "\"몰수한 '코인'도 국가자산으로\"… 정부, 76년만에 국유재산법 전면 개편",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5BRTY3SnpRMHVKeTN2Y1RUdzJ5bjZ4NG1mWWgzTXY1Z0xack50ckotc2J1Q2xrZkEzZS1Ic0h5X0J2RU1QM1B1aXB5WWxUUHRQ?oc=5",
-      "date": "Wed, 05 Aug 2026 08:08:00 GMT",
+      "title": "속보 | 비트코인 상승 베팅 투자자 거의 전멸",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE91dkI1YUxDQWFMZUVfLU5KQTI1RFdEeXdSTUxYVTdldmRjR3ZJZVk0clVOSW1jQ3pBd19lT0swX0xIenNTS3cybkRpUk5RUWt0?oc=5",
+      "date": "Wed, 05 Aug 2026 20:12:00 GMT",
       "source": "CoinNess",
       "score": 8
     }
