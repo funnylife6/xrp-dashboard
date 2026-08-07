@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-07T18:43:06",
+  "generated_at": "2026-08-07T19:45:50",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.017,
-    "price_krw": 1432.7,
-    "price_change_24h": -1.85628,
-    "price_change_7d": -4.83539,
-    "price_change_30d": -6.32702,
-    "market_cap_usd": 63591509108,
+    "price_usd": 1.024,
+    "price_krw": 1441.29,
+    "price_change_24h": -1.03056,
+    "price_change_7d": -3.74566,
+    "price_change_30d": -5.77844,
+    "market_cap_usd": 64045461857,
     "market_cap_rank": 6,
-    "volume_24h": 1623231944,
+    "volume_24h": 1616167472,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 62.22,
-    "sentiment_votes_down": 37.78,
+    "sentiment_votes_up": 63.87,
+    "sentiment_votes_down": 36.13,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 48.29,
-    "recent_tps": 48.29,
-    "recent_tx_count": 4346,
+    "tps_24h_avg": 38.25,
+    "recent_tps": 38.25,
+    "recent_tx_count": 3404,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 106137812,
+    "recent_window_sec": 89,
+    "ledger_seq": 106138780,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-07 18:43:00 KST",
+    "updated_at": "2026-08-07 19:45:37 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 2890000,
     "total_net_inflow_usd": 2890000,
     "total_value_traded_usd": 2890000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/07 18:43",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/07 19:45",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -53,13 +53,6 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQX0JoMmFLV0QwamxXNVEzOXJ0V0N3Vjc2aDlDcXRsd3Y5WjVDUXdOSk14RWE4eTVyMVpOem1ZYjdqUkE5LWxEUVV5WGR4Ty1aWm9nYkdTckx2SkszckJSY1BYeFJkdWR3Zl9QWWo0QnJuWlhpRE9PY205Tk9LR1NnXzBR?oc=5",
       "date": "Fri, 07 Aug 2026 11:33:22 GMT",
       "source": "BeInCrypto",
-      "score": 0
-    },
-    {
-      "title": "XRP ETF 순유입 15억弗, 운용자산은 10억弗 그쳐",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfbENIajVTR2tKQ0ZIMVA1X3RXS2ZYODVTSldpRGpfZzlBZS1odmoxemZpSThfeHNqeUhYWi11d3hoT1U2ejRqSUpLMkp3RnNYNzVnWGZhc2J5bEZzT01QTWd3RHlWUEdHTXFLaVdkem85dw?oc=5",
-      "date": "Fri, 07 Aug 2026 08:06:41 GMT",
-      "source": "FinanceFeeds",
       "score": 0
     },
     {
@@ -73,7 +66,7 @@
       "title": "XRP 현물 ETF만 돈 빠졌다…비트코인·이더리움엔 자금 유입",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8yWGtweERXcmxSZEVEMHFtbHVJLU9nVEVSMWNydGNTdjRCWVNMSWpaMll5dU41VzRSQWl0aVpaZWVfbGdNMUhrS1I5dVpDcWp4S1VKUDBuVHByUG9peDdiLXpMM3d1bzBKRFVNTVlrUGtSckU?oc=5",
       "date": "Fri, 07 Aug 2026 01:41:00 GMT",
-      "source": "디지털투데이",
+      "source": "digitaltoday.co.kr",
       "score": 0
     },
     {
@@ -88,6 +81,13 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BU2NMR2ZPYS1yRDVnOVBoamRSLXBJS1laLWdpTFNtVkE3bnNDRXpCdHVUUUVobjM4enJxOEM1eXRqTDZZRUZaWFZJckZoTHdfV3BhMGx3?oc=5",
       "date": "Thu, 06 Aug 2026 19:46:00 GMT",
       "source": "위키트리",
+      "score": 0
+    },
+    {
+      "title": "XRP 현물 ETF보다 커진 토큰화 시장…XRPL RWA 40억달러↑",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53Wml0VlRzRWlJeVdIWEpDSUZzZmg4WE1GbTl6YkFmbmEweU1QUzJWWDlCV2w5NkRDYzJzUnZvS3luV2NvWGhuNk5oRlNfbzkydWwzNUk4LWFLSGdzWWo3bmlRY0NrekxwQUVkc3JIekZ2Y1E?oc=5",
+      "date": "Thu, 06 Aug 2026 02:08:45 GMT",
+      "source": "digitaltoday.co.kr",
       "score": 0
     }
   ],
