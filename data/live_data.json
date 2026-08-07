@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-07T22:26:44",
+  "generated_at": "2026-08-07T23:04:02",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.02,
-    "price_krw": 1436.65,
-    "price_change_24h": -1.37628,
-    "price_change_7d": -3.67042,
-    "price_change_30d": -6.40988,
-    "market_cap_usd": 63808964220,
+    "price_krw": 1436.62,
+    "price_change_24h": -1.49666,
+    "price_change_7d": -3.85109,
+    "price_change_30d": -6.56957,
+    "market_cap_usd": 63809669177,
     "market_cap_rank": 6,
-    "volume_24h": 1581581426,
+    "volume_24h": 1582017462,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 60.94,
-    "sentiment_votes_down": 39.06,
+    "sentiment_votes_up": 61.42,
+    "sentiment_votes_down": 38.58,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 27.07,
-    "recent_tps": 27.07,
-    "recent_tx_count": 2436,
+    "tps_24h_avg": 32.37,
+    "recent_tps": 32.37,
+    "recent_tx_count": 2881,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 106141269,
+    "recent_window_sec": 89,
+    "ledger_seq": 106141846,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-07 22:26:38 KST",
+    "updated_at": "2026-08-07 23:03:51 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -72,14 +72,14 @@
       "title": "XRP 현물 ETF만 돈 빠졌다…비트코인·이더리움엔 자금 유입",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8yWGtweERXcmxSZEVEMHFtbHVJLU9nVEVSMWNydGNTdjRCWVNMSWpaMll5dU41VzRSQWl0aVpaZWVfbGdNMUhrS1I5dVpDcWp4S1VKUDBuVHByUG9peDdiLXpMM3d1bzBKRFVNTVlrUGtSckU?oc=5",
       "date": "Fri, 07 Aug 2026 01:41:00 GMT",
-      "source": "디지털투데이",
+      "source": "digitaltoday.co.kr",
       "score": 0
     },
     {
       "title": "9억 9천만 개 물량 잠긴 리플(XRP), 5억 달러 손실 딛고 반격할까?",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5pdHhZekNmQURuel80YjJHT25mdDZjQUx2cGE2alY2S0NPTlVrTy03Ym9zTHNwb2V6b0FsUlJrTDl1a0psNVZzQUNB?oc=5",
       "date": "Thu, 06 Aug 2026 22:18:00 GMT",
-      "source": "coinreaders.com",
+      "source": "코인리더스",
       "score": 0
     },
     {
@@ -92,6 +92,13 @@
   ],
   "general_news": [
     {
+      "title": "리플XRP·비트코인·제로베이스 엇갈려…금리인상 기대 후퇴",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iWmo5aXpkb0hrWHpWa09tMm1iRUwzeHBFRlAtZ3lYY1JZMDRqRFo3VWVnVFc3UmdrNjJ2bFVWVmR5Rm5HR3c1QUtpQnJJY0s5RDlBMjY1SFItXzl2R3F0WGtqYWdtUVZ3TEZ0NlZJbWJpZw?oc=5",
+      "date": "Fri, 07 Aug 2026 22:45:15 GMT",
+      "source": "톱스타뉴스",
+      "score": 2
+    },
+    {
       "title": "리플(XRP), 규제 불확실성 속 1달러 지지선 위협받아",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00WGxhaHlQcGljQmRWNEk0NzJGSVpHbEdmSkVjSWt4dTdBN0RzejZDanB0RS1yb2R6aEY4SmpaLWd4YmM3NWUyUXVxSEFKM0NPMWxoQk9rY2pBekdQbGd4cNIBZkFVX3lxTE1WeVBTLVNVS0V1X2F4OTU1MzFqVEpwLUs3cmk4YlVxdTRvS2hnakJoSm1ZUGpZU09QenFlbENCbE53c2xBcm5vdVUxaENrUm5maUR4TC04M09ISzJjQnZ1dTM0UzM2QQ?oc=5",
       "date": "Fri, 07 Aug 2026 17:20:09 GMT",
@@ -102,7 +109,7 @@
       "title": "엑스알피 안 팔고 리플USD 빌린다…플레어 대출한도 900만 달러로 확대",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5HRzBMZGlLNGxkMkozNXlaTWVQQVlmMkd6cGdpX1NNM25OZXF0eml6Rl9uQVBHVlQtZ1dCeXlzYXJoVWcxX3A5ZHlR?oc=5",
       "date": "Fri, 07 Aug 2026 11:47:00 GMT",
-      "source": "coinreaders.com",
+      "source": "코인리더스",
       "score": 2
     },
     {
@@ -116,7 +123,7 @@
       "title": "[넥스블록][인기 검색 코인 톱15] XRP 거래량 14억달러…ETHGas 급등·Bless 급락…고변동 알트 부각",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5tWjFKQThlbGlmMUVoOXl4ZDNKX01VVVZDOWNETkE1UUcxOHdKcDg4YnlHZktsdkZtYW90WWRJUGNOVXBuczkzLWNRYWcxUW9BbHFNdQ?oc=5",
       "date": "Fri, 07 Aug 2026 07:52:00 GMT",
-      "source": "etoday.co.kr",
+      "source": "이투데이",
       "score": 2
     },
     {
@@ -130,7 +137,7 @@
       "title": "RLUSD, XRP 안 팔아도 빌린다...이더리움 디파이 영토 대확장",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5OdkNYbEFaMWVaN1pPa1YtUGxuV0VWZUtXZExNS2wzU0VQMWJiRnl3YXRyRVQySWphSU43bDlSVFF2T1JRLS1XX2dB?oc=5",
       "date": "Fri, 07 Aug 2026 03:55:00 GMT",
-      "source": "coinreaders.com",
+      "source": "코인리더스",
       "score": 2
     },
     {
@@ -144,15 +151,8 @@
       "title": "9억 9천만 개 물량 잠긴 리플(XRP), 5억 달러 손실 딛고 반격할까?",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5pdHhZekNmQURuel80YjJHT25mdDZjQUx2cGE2alY2S0NPTlVrTy03Ym9zTHNwb2V6b0FsUlJrTDl1a0psNVZzQUNB?oc=5",
       "date": "Thu, 06 Aug 2026 22:18:00 GMT",
-      "source": "coinreaders.com",
+      "source": "코인리더스",
       "score": 3
-    },
-    {
-      "title": "제로베이스 급등·리플XRP 약세·비트코인 보합…유가 충격",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4dHdoQVd6ZV9IMnpkRFBhcDg0VUZVZ09URmloT2pxc0d6b3hBdUFrYm5Oa3h1THcyNmdkQWJIODd0S0E0ZUJzdVNzMTcwRkVZX0RqUmFwdTZ0dWtySDBCVzRwaGVLbWpjRFVXbXBSWEdQdw?oc=5",
-      "date": "Thu, 06 Aug 2026 22:11:35 GMT",
-      "source": "톱스타뉴스",
-      "score": 2
     },
     {
       "title": "속보 | 분석 \"XRP 고래 집단, 가격 43% 하락에도 $12.8억 XRP 매수\"",
