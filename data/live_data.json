@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-07T09:29:58",
+  "generated_at": "2026-08-07T10:27:14",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.034,
-    "price_krw": 1465.62,
-    "price_change_24h": -1.23761,
-    "price_change_7d": -3.92618,
-    "price_change_30d": -4.16664,
-    "market_cap_usd": 64675829234,
+    "price_usd": 1.035,
+    "price_krw": 1465.36,
+    "price_change_24h": -0.8931,
+    "price_change_7d": -3.29894,
+    "price_change_30d": -4.02689,
+    "market_cap_usd": 64715756693,
     "market_cap_rank": 6,
-    "volume_24h": 1438472945,
+    "volume_24h": 1441997604,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 58.41,
-    "sentiment_votes_down": 41.59,
+    "sentiment_votes_up": 58.97,
+    "sentiment_votes_down": 41.03,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 30.39,
-    "recent_tps": 30.39,
-    "recent_tx_count": 2735,
+    "tps_24h_avg": 53.24,
+    "recent_tps": 53.24,
+    "recent_tx_count": 4792,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106129258,
+    "ledger_seq": 106130144,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-07 09:29:52 KST",
+    "updated_at": "2026-08-07 10:27:08 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 2890000,
     "total_net_inflow_usd": 2890000,
     "total_value_traded_usd": 2890000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/07 09:29",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/07 10:27",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -52,14 +52,14 @@
       "title": "리플 고소했던 인물이 美 정보국장...XRP 옥죄는 5년 법적 공방 잔혹사",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdUFKb25fR0lyU3NkTFlBYjltWFZDYmVlQTdQSXlyLVZCaHVIMFpNZ0xiS2I1VlNlSjRHX1gzYlpacjZXUFJKaHMyN1FIXzJlQzE1YTg5TG1FRlRCbG85SEE4ZTNfS01tc0VQb0VJVG92RHBRc04tRExZREVvY012cTBMdThuZUo4?oc=5",
       "date": "Fri, 07 Aug 2026 02:09:39 GMT",
-      "source": "글로벌이코노믹",
+      "source": "g-enews.com",
       "score": 0
     },
     {
       "title": "XRP 현물 ETF만 돈 빠졌다…비트코인·이더리움엔 자금 유입",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8yWGtweERXcmxSZEVEMHFtbHVJLU9nVEVSMWNydGNTdjRCWVNMSWpaMll5dU41VzRSQWl0aVpaZWVfbGdNMUhrS1I5dVpDcWp4S1VKUDBuVHByUG9peDdiLXpMM3d1bzBKRFVNTVlrUGtSckU?oc=5",
       "date": "Fri, 07 Aug 2026 01:41:00 GMT",
-      "source": "디지털투데이",
+      "source": "digitaltoday.co.kr",
       "score": 0
     },
     {
@@ -80,7 +80,7 @@
       "title": "XRP 현물 ETF보다 커진 토큰화 시장…XRPL RWA 40억달러↑",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53Wml0VlRzRWlJeVdIWEpDSUZzZmg4WE1GbTl6YkFmbmEweU1QUzJWWDlCV2w5NkRDYzJzUnZvS3luV2NvWGhuNk5oRlNfbzkydWwzNUk4LWFLSGdzWWo3bmlRY0NrekxwQUVkc3JIekZ2Y1E?oc=5",
       "date": "Thu, 06 Aug 2026 02:08:45 GMT",
-      "source": "디지털투데이",
+      "source": "digitaltoday.co.kr",
       "score": 0
     },
     {
@@ -110,7 +110,7 @@
       "title": "리플 고소했던 인물이 美 정보국장...XRP 옥죄는 5년 법적 공방 잔혹사",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdUFKb25fR0lyU3NkTFlBYjltWFZDYmVlQTdQSXlyLVZCaHVIMFpNZ0xiS2I1VlNlSjRHX1gzYlpacjZXUFJKaHMyN1FIXzJlQzE1YTg5TG1FRlRCbG85SEE4ZTNfS01tc0VQb0VJVG92RHBRc04tRExZREVvY012cTBMdThuZUo4?oc=5",
       "date": "Fri, 07 Aug 2026 02:09:39 GMT",
-      "source": "글로벌이코노믹",
+      "source": "g-enews.com",
       "score": 3
     },
     {
@@ -159,7 +159,7 @@
       "title": "XRP 현물 ETF보다 커진 토큰화 시장…XRPL RWA 40억달러↑",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53Wml0VlRzRWlJeVdIWEpDSUZzZmg4WE1GbTl6YkFmbmEweU1QUzJWWDlCV2w5NkRDYzJzUnZvS3luV2NvWGhuNk5oRlNfbzkydWwzNUk4LWFLSGdzWWo3bmlRY0NrekxwQUVkc3JIekZ2Y1E?oc=5",
       "date": "Thu, 06 Aug 2026 02:08:45 GMT",
-      "source": "디지털투데이",
+      "source": "digitaltoday.co.kr",
       "score": 3
     }
   ]
