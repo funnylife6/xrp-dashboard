@@ -1,51 +1,50 @@
 {
-  "generated_at": "2026-08-07T21:31:14",
+  "generated_at": "2026-08-07T22:26:44",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.025,
-    "price_krw": 1443.04,
-    "price_change_24h": -1.03053,
-    "price_change_7d": -3.31508,
-    "price_change_30d": -5.81719,
-    "market_cap_usd": 64084372194,
+    "price_usd": 1.02,
+    "price_krw": 1436.65,
+    "price_change_24h": -1.37628,
+    "price_change_7d": -3.67042,
+    "price_change_30d": -6.40988,
+    "market_cap_usd": 63808964220,
     "market_cap_rank": 6,
-    "volume_24h": 1589803333,
+    "volume_24h": 1581581426,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 61.42,
-    "sentiment_votes_down": 38.58,
+    "sentiment_votes_up": 60.94,
+    "sentiment_votes_down": 39.06,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 32.9,
-    "recent_tps": 32.9,
-    "recent_tx_count": 2961,
+    "tps_24h_avg": 27.07,
+    "recent_tps": 27.07,
+    "recent_tx_count": 2436,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106140411,
+    "ledger_seq": 106141269,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-07 21:31:05 KST",
+    "updated_at": "2026-08-07 22:26:38 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
   },
   "etf_flow": {
-    "approved_count": 4,
+    "approved_count": 0,
     "daily_inflow_usd": 0,
     "weekly_inflow_usd": 0,
-    "aum_usd": 2890000,
-    "total_net_inflow_usd": 2890000,
-    "total_value_traded_usd": 2890000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/07 21:31",
-    "data_source": "sosovalue",
-    "partial": true
+    "aum_usd": 0,
+    "total_net_inflow_usd": 0,
+    "total_value_traded_usd": 0,
+    "updated_at": "뉴스 자동 파싱 대기",
+    "data_source": "news_parse"
   },
   "etf_news": [
     {
@@ -80,7 +79,7 @@
       "title": "9억 9천만 개 물량 잠긴 리플(XRP), 5억 달러 손실 딛고 반격할까?",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5pdHhZekNmQURuel80YjJHT25mdDZjQUx2cGE2alY2S0NPTlVrTy03Ym9zTHNwb2V6b0FsUlJrTDl1a0psNVZzQUNB?oc=5",
       "date": "Thu, 06 Aug 2026 22:18:00 GMT",
-      "source": "코인리더스",
+      "source": "coinreaders.com",
       "score": 0
     },
     {
@@ -103,7 +102,7 @@
       "title": "엑스알피 안 팔고 리플USD 빌린다…플레어 대출한도 900만 달러로 확대",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5HRzBMZGlLNGxkMkozNXlaTWVQQVlmMkd6cGdpX1NNM25OZXF0eml6Rl9uQVBHVlQtZ1dCeXlzYXJoVWcxX3A5ZHlR?oc=5",
       "date": "Fri, 07 Aug 2026 11:47:00 GMT",
-      "source": "코인리더스",
+      "source": "coinreaders.com",
       "score": 2
     },
     {
@@ -117,7 +116,7 @@
       "title": "[넥스블록][인기 검색 코인 톱15] XRP 거래량 14억달러…ETHGas 급등·Bless 급락…고변동 알트 부각",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5tWjFKQThlbGlmMUVoOXl4ZDNKX01VVVZDOWNETkE1UUcxOHdKcDg4YnlHZktsdkZtYW90WWRJUGNOVXBuczkzLWNRYWcxUW9BbHFNdQ?oc=5",
       "date": "Fri, 07 Aug 2026 07:52:00 GMT",
-      "source": "이투데이",
+      "source": "etoday.co.kr",
       "score": 2
     },
     {
@@ -131,7 +130,7 @@
       "title": "RLUSD, XRP 안 팔아도 빌린다...이더리움 디파이 영토 대확장",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5OdkNYbEFaMWVaN1pPa1YtUGxuV0VWZUtXZExNS2wzU0VQMWJiRnl3YXRyRVQySWphSU43bDlSVFF2T1JRLS1XX2dB?oc=5",
       "date": "Fri, 07 Aug 2026 03:55:00 GMT",
-      "source": "코인리더스",
+      "source": "coinreaders.com",
       "score": 2
     },
     {
@@ -145,7 +144,7 @@
       "title": "9억 9천만 개 물량 잠긴 리플(XRP), 5억 달러 손실 딛고 반격할까?",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5pdHhZekNmQURuel80YjJHT25mdDZjQUx2cGE2alY2S0NPTlVrTy03Ym9zTHNwb2V6b0FsUlJrTDl1a0psNVZzQUNB?oc=5",
       "date": "Thu, 06 Aug 2026 22:18:00 GMT",
-      "source": "코인리더스",
+      "source": "coinreaders.com",
       "score": 3
     },
     {
