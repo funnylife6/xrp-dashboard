@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-07T12:06:22",
+  "generated_at": "2026-08-07T13:46:36",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.034,
-    "price_krw": 1464.29,
-    "price_change_24h": -1.32259,
-    "price_change_7d": -3.40022,
-    "price_change_30d": -4.75657,
-    "market_cap_usd": 64665328327,
+    "price_usd": 1.04,
+    "price_krw": 1464.06,
+    "price_change_24h": -0.53393,
+    "price_change_7d": -3.00347,
+    "price_change_30d": -3.85051,
+    "market_cap_usd": 64991417541,
     "market_cap_rank": 6,
-    "volume_24h": 1475614946,
+    "volume_24h": 1575748220,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 57.98,
-    "sentiment_votes_down": 42.02,
+    "sentiment_votes_up": 57.72,
+    "sentiment_votes_down": 42.28,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 56.06,
-    "recent_tps": 56.06,
-    "recent_tx_count": 5045,
+    "tps_24h_avg": 42.87,
+    "recent_tps": 42.87,
+    "recent_tx_count": 3858,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106131678,
+    "ledger_seq": 106133227,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-07 12:06:12 KST",
+    "updated_at": "2026-08-07 13:46:24 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 2890000,
     "total_net_inflow_usd": 2890000,
     "total_value_traded_usd": 2890000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/07 12:06",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/07 13:46",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -53,6 +53,13 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQX0JoMmFLV0QwamxXNVEzOXJ0V0N3Vjc2aDlDcXRsd3Y5WjVDUXdOSk14RWE4eTVyMVpOem1ZYjdqUkE5LWxEUVV5WGR4Ty1aWm9nYkdTckx2SkszckJSY1BYeFJkdWR3Zl9QWWo0QnJuWlhpRE9PY205Tk9LR1NnXzBR?oc=5",
       "date": "Fri, 07 Aug 2026 11:33:22 GMT",
       "source": "BeInCrypto",
+      "score": 0
+    },
+    {
+      "title": "XRP ETF 순유입 15억弗, 운용자산은 10억弗 그쳐",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfbENIajVTR2tKQ0ZIMVA1X3RXS2ZYODVTSldpRGpfZzlBZS1odmoxemZpSThfeHNqeUhYWi11d3hoT1U2ejRqSUpLMkp3RnNYNzVnWGZhc2J5bEZzT01QTWd3RHlWUEdHTXFLaVdkem85dw?oc=5",
+      "date": "Fri, 07 Aug 2026 08:06:41 GMT",
+      "source": "FinanceFeeds",
       "score": 0
     },
     {
@@ -71,7 +78,7 @@
     },
     {
       "title": "9억 9천만 개 물량 잠긴 리플(XRP), 5억 달러 손실 딛고 반격할까?",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBKT0cwZTN4S1gzM1hkZ2V6M0xRb3prRjg2VEdOX2dvOWRyc3FmLW5lUXJVQkhjSDliUE51anRSNFZpcGlCZnFjLQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5pdHhZekNmQURuel80YjJHT25mdDZjQUx2cGE2alY2S0NPTlVrTy03Ym9zTHNwb2V6b0FsUlJrTDl1a0psNVZzQUNB?oc=5",
       "date": "Thu, 06 Aug 2026 22:18:00 GMT",
       "source": "코인리더스",
       "score": 0
@@ -82,13 +89,6 @@
       "date": "Thu, 06 Aug 2026 19:46:00 GMT",
       "source": "위키트리",
       "score": 0
-    },
-    {
-      "title": "XRP 현물 ETF보다 커진 토큰화 시장…XRPL RWA 40억달러↑",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53Wml0VlRzRWlJeVdIWEpDSUZzZmg4WE1GbTl6YkFmbmEweU1QUzJWWDlCV2w5NkRDYzJzUnZvS3luV2NvWGhuNk5oRlNfbzkydWwzNUk4LWFLSGdzWWo3bmlRY0NrekxwQUVkc3JIekZ2Y1E?oc=5",
-      "date": "Thu, 06 Aug 2026 02:08:45 GMT",
-      "source": "디지털투데이",
-      "score": 0
     }
   ],
   "general_news": [
@@ -98,6 +98,13 @@
       "date": "Fri, 07 Aug 2026 11:47:00 GMT",
       "source": "코인리더스",
       "score": 2
+    },
+    {
+      "title": "XRP 기관 자금 93% 감소…고래 매집 포착",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQX0JoMmFLV0QwamxXNVEzOXJ0V0N3Vjc2aDlDcXRsd3Y5WjVDUXdOSk14RWE4eTVyMVpOem1ZYjdqUkE5LWxEUVV5WGR4Ty1aWm9nYkdTckx2SkszckJSY1BYeFJkdWR3Zl9QWWo0QnJuWlhpRE9PY205Tk9LR1NnXzBR?oc=5",
+      "date": "Fri, 07 Aug 2026 11:33:22 GMT",
+      "source": "BeInCrypto",
+      "score": 3
     },
     {
       "title": "리플 XRP, CLARITY 법안 지연에 약세…1달러 지지선 분기점",
@@ -129,7 +136,7 @@
     },
     {
       "title": "9억 9천만 개 물량 잠긴 리플(XRP), 5억 달러 손실 딛고 반격할까?",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBKT0cwZTN4S1gzM1hkZ2V6M0xRb3prRjg2VEdOX2dvOWRyc3FmLW5lUXJVQkhjSDliUE51anRSNFZpcGlCZnFjLQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5pdHhZekNmQURuel80YjJHT25mdDZjQUx2cGE2alY2S0NPTlVrTy03Ym9zTHNwb2V6b0FsUlJrTDl1a0psNVZzQUNB?oc=5",
       "date": "Thu, 06 Aug 2026 22:18:00 GMT",
       "source": "코인리더스",
       "score": 3
@@ -142,25 +149,18 @@
       "score": 2
     },
     {
-      "title": "비트코인(BTC) 65,000달러 돌파할까…리플(XRP) 1.00달러 지킬 수 있나",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1fY3o4dUlHdVA1N1NNV181VVRYUk5BQ1E1TUdfejFWMjVLS0F1R0NleWJxbkM3OFZLLWtkcUFfOXlZQ2c5VWY2Z01R?oc=5",
-      "date": "Thu, 06 Aug 2026 12:16:00 GMT",
-      "source": "코인리더스",
-      "score": 2
+      "title": "XRP 현물 ETF보다 커진 토큰화 시장…XRPL RWA 40억달러↑",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53Wml0VlRzRWlJeVdIWEpDSUZzZmg4WE1GbTl6YkFmbmEweU1QUzJWWDlCV2w5NkRDYzJzUnZvS3luV2NvWGhuNk5oRlNfbzkydWwzNUk4LWFLSGdzWWo3bmlRY0NrekxwQUVkc3JIekZ2Y1E?oc=5",
+      "date": "Thu, 06 Aug 2026 02:08:45 GMT",
+      "source": "디지털투데이",
+      "score": 3
     },
     {
-      "title": "리플코인 XRP, EU CASP 최종 승인 확정",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQk9pdU52XzZpdHkzMjlHbGlKR3o2NVhFRHJwSURvSkRLVzVxRllvanRScmxKY24tSkRUNS05NmZwSlRvMDdaRnRRaFh3dV9mTjA0NHNhbG5KVjdiX1NKbFE1V01aUUlEUjd4V1pyb3FLX0U0Q3E5OENZanZUZUtybmttNHhpb25ZaVNZRA?oc=5",
-      "date": "Thu, 06 Aug 2026 11:21:00 GMT",
-      "source": "contents.premium.naver.com",
+      "title": "\"비트코인·이더리움·XRP 고래 매집 확대…약세장 막바지\"",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQM3M1ZUVib0NsdnBWUFZ4dDV2aVdXUzcwZUxrelltS1ZsZEQwejRTRWNCVzNISWU3QWlWYm80dDNvazhtX0N0ZzFQMlc3d1RTc1pBS0NSbE5ldmVjNVJxSGZOWm1YeXY0THlUXzZ2QnVwM3lRdjhJMnFsbl9LOENUNQ?oc=5",
+      "date": "Wed, 05 Aug 2026 22:54:26 GMT",
+      "source": "edaily.co.kr",
       "score": 2
-    },
-    {
-      "title": "속보 | 코인베이스 CEO \"클래리티법 협상 충분...이제 표결할 때\"",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1JQ0pGS0lxbmFnX0g1eExWR2dUWURoZ2hGQUxJbVJTby1VcnVKek9KendqalpTVW1xRHdFSV9QQTNCRWszcHpPeFl4VjFHVVZr?oc=5",
-      "date": "Thu, 06 Aug 2026 08:04:00 GMT",
-      "source": "CoinNess",
-      "score": 8
     }
   ]
 }
