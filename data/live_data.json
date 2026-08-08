@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-08T07:42:05",
+  "generated_at": "2026-08-08T08:30:30",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.033,
-    "price_krw": 1455.01,
-    "price_change_24h": 0.69502,
-    "price_change_7d": -2.77521,
-    "price_change_30d": -5.98047,
-    "market_cap_usd": 64641511065,
+    "price_usd": 1.034,
+    "price_krw": 1455.99,
+    "price_change_24h": 0.62941,
+    "price_change_7d": -2.51555,
+    "price_change_30d": -5.73475,
+    "market_cap_usd": 64666809796,
     "market_cap_rank": 6,
-    "volume_24h": 1331760356,
+    "volume_24h": 1321834081,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 65.42,
-    "sentiment_votes_down": 34.58,
+    "sentiment_votes_up": 65.38,
+    "sentiment_votes_down": 34.62,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 24.89,
-    "recent_tps": 24.89,
-    "recent_tx_count": 2041,
+    "tps_24h_avg": 9.17,
+    "recent_tps": 9.17,
+    "recent_tx_count": 816,
     "recent_ledger_count": 24,
-    "recent_window_sec": 82,
-    "ledger_seq": 106149950,
+    "recent_window_sec": 89,
+    "ledger_seq": 106150716,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-08 07:41:49 KST",
+    "updated_at": "2026-08-08 08:30:15 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -69,7 +69,7 @@
       "score": 0
     },
     {
-      "title": "XRP ETF, 자산 규모는 10억 달러에 불과하지만 누적 유입액은 15억 1000만 달러 달성",
+      "title": "XRP ETF 순유입 15억弗, 운용자산은 10억弗 그쳐",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfbENIajVTR2tKQ0ZIMVA1X3RXS2ZYODVTSldpRGpfZzlBZS1odmoxemZpSThfeHNqeUhYWi11d3hoT1U2ejRqSUpLMkp3RnNYNzVnWGZhc2J5bEZzT01QTWd3RHlWUEdHTXFLaVdkem85dw?oc=5",
       "date": "Fri, 07 Aug 2026 08:06:41 GMT",
       "source": "FinanceFeeds",
@@ -130,7 +130,7 @@
       "title": "[넥스블록][인기 검색 코인 톱15] XRP 거래량 14억달러…ETHGas 급등·Bless 급락…고변동 알트 부각",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5tWjFKQThlbGlmMUVoOXl4ZDNKX01VVVZDOWNETkE1UUcxOHdKcDg4YnlHZktsdkZtYW90WWRJUGNOVXBuczkzLWNRYWcxUW9BbHFNdQ?oc=5",
       "date": "Fri, 07 Aug 2026 07:52:00 GMT",
-      "source": "이투데이",
+      "source": "etoday.co.kr",
       "score": 2
     },
     {
@@ -141,25 +141,25 @@
       "score": 3
     },
     {
-      "title": "9억 9천만 개 물량 잠긴 리플(XRP), 5억 달러 손실 딛고 반격할까?",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5pdHhZekNmQURuel80YjJHT25mdDZjQUx2cGE2alY2S0NPTlVrTy03Ym9zTHNwb2V6b0FsUlJrTDl1a0psNVZzQUNB?oc=5",
-      "date": "Thu, 06 Aug 2026 22:18:00 GMT",
-      "source": "코인리더스",
-      "score": 2
-    },
-    {
-      "title": "속보 | 분석 \"XRP 고래 집단, 가격 43% 하락에도 $12.8억 XRP 매수\"",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBzN29TYjRzMFBZa1ZuU0pOT1gwNHRzbjBZeU05LTlGcEdrbGhrRGgzallLS1pJa3ZBVDNQbGZkdndFRDVRWXRsa1pnbWFqQTh6?oc=5",
-      "date": "Thu, 06 Aug 2026 22:00:00 GMT",
-      "source": "CoinNess",
-      "score": 8
-    },
-    {
       "title": "속보 | 美 상원, 클래리티법 표결 9월로 연기",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBPakF1Ym9FUU44OHVIWUJzVXNSVURwLW1GZUZkd05OR3ZBT1dWV1plS19BMmlHNFdIWk1GMXRBaU1HYjc5YnJCRXRzNmt1dFBG?oc=5",
       "date": "Thu, 06 Aug 2026 09:54:00 GMT",
       "source": "CoinNess",
       "score": 8
+    },
+    {
+      "title": "속보 | 코인베이스 CEO \"클래리티법 협상 충분...이제 표결할 때\"",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1JQ0pGS0lxbmFnX0g1eExWR2dUWURoZ2hGQUxJbVJTby1VcnVKek9KendqalpTVW1xRHdFSV9QQTNCRWszcHpPeFl4VjFHVVZr?oc=5",
+      "date": "Thu, 06 Aug 2026 08:04:00 GMT",
+      "source": "CoinNess",
+      "score": 8
+    },
+    {
+      "title": "XRP 현물 ETF보다 커진 토큰화 시장…XRPL RWA 40억달러↑",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53Wml0VlRzRWlJeVdIWEpDSUZzZmg4WE1GbTl6YkFmbmEweU1QUzJWWDlCV2w5NkRDYzJzUnZvS3luV2NvWGhuNk5oRlNfbzkydWwzNUk4LWFLSGdzWWo3bmlRY0NrekxwQUVkc3JIekZ2Y1E?oc=5",
+      "date": "Thu, 06 Aug 2026 02:08:45 GMT",
+      "source": "디지털투데이",
+      "score": 3
     }
   ]
 }
