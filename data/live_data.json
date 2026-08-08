@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-08T01:06:04",
+  "generated_at": "2026-08-08T03:05:39",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.026,
-    "price_krw": 1443.82,
-    "price_change_24h": -1.133,
-    "price_change_7d": -3.53266,
-    "price_change_30d": -5.6751,
-    "market_cap_usd": 64129289477,
+    "price_usd": 1.031,
+    "price_krw": 1451.94,
+    "price_change_24h": 0.27515,
+    "price_change_7d": -3.14292,
+    "price_change_30d": -4.84707,
+    "market_cap_usd": 64467907683,
     "market_cap_rank": 6,
-    "volume_24h": 1550611601,
+    "volume_24h": 1544071976,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 61.9,
-    "sentiment_votes_down": 38.1,
+    "sentiment_votes_up": 62.9,
+    "sentiment_votes_down": 37.1,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 33.22,
-    "recent_tps": 33.22,
-    "recent_tx_count": 2957,
+    "tps_24h_avg": 27.23,
+    "recent_tps": 27.23,
+    "recent_tx_count": 2233,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 106143731,
+    "recent_window_sec": 82,
+    "ledger_seq": 106145583,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-08 01:05:55 KST",
+    "updated_at": "2026-08-08 03:05:29 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -49,7 +49,7 @@
   "etf_news": [
     {
       "title": "5억 달러 증발한 리플(XRP) 현물 ETF, 단 2개 펀드만 살아남은 이유는?",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBaNk5lXzBfQnZVM0Z0YXJ2RlljcnI3ODZkR1hSWGFmY21uQmFNZ3RZUlVicWlFdEJpenI1Ukh3V3NMOVVWb1UybWNB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9PbEo5RUN4aS1YSDdUaDROVlJhSW8zSVdGMzcyVG9VaDlfOUNmRFJyWnlNQ283VWkxWGlHeVFsT01ReVRSM29hdQ?oc=5",
       "date": "Fri, 07 Aug 2026 23:17:00 GMT",
       "source": "코인리더스",
       "score": 0
@@ -65,11 +65,11 @@
       "title": "XRP 기관 자금 93% 감소…고래 매집 포착",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQX0JoMmFLV0QwamxXNVEzOXJ0V0N3Vjc2aDlDcXRsd3Y5WjVDUXdOSk14RWE4eTVyMVpOem1ZYjdqUkE5LWxEUVV5WGR4Ty1aWm9nYkdTckx2SkszckJSY1BYeFJkdWR3Zl9QWWo0QnJuWlhpRE9PY205Tk9LR1NnXzBR?oc=5",
       "date": "Fri, 07 Aug 2026 11:33:22 GMT",
-      "source": "BeInCrypto",
+      "source": "kr.beincrypto.com",
       "score": 0
     },
     {
-      "title": "XRP ETF 순유입 15억弗, 운용자산은 10억弗 그쳐",
+      "title": "XRP ETF, 자산 규모는 10억 달러에 불과하지만 누적 유입액은 15억 1000만 달러 달성",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfbENIajVTR2tKQ0ZIMVA1X3RXS2ZYODVTSldpRGpfZzlBZS1odmoxemZpSThfeHNqeUhYWi11d3hoT1U2ejRqSUpLMkp3RnNYNzVnWGZhc2J5bEZzT01QTWd3RHlWUEdHTXFLaVdkem85dw?oc=5",
       "date": "Fri, 07 Aug 2026 08:06:41 GMT",
       "source": "FinanceFeeds",
@@ -83,17 +83,17 @@
       "score": 0
     },
     {
-      "title": "XRP 현물 ETF만 돈 빠졌다…비트코인·이더리움엔 자금 유입",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8yWGtweERXcmxSZEVEMHFtbHVJLU9nVEVSMWNydGNTdjRCWVNMSWpaMll5dU41VzRSQWl0aVpaZWVfbGdNMUhrS1I5dVpDcWp4S1VKUDBuVHByUG9peDdiLXpMM3d1bzBKRFVNTVlrUGtSckU?oc=5",
-      "date": "Fri, 07 Aug 2026 01:41:00 GMT",
-      "source": "디지털투데이",
+      "title": "블랙록 주도 비트코인·이더리움 ETF, 3억500만달러 순유입…XRP만 이탈",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BU2NMR2ZPYS1yRDVnOVBoamRSLXBJS1laLWdpTFNtVkE3bnNDRXpCdHVUUUVobjM4enJxOEM1eXRqTDZZRUZaWFZJckZoTHdfV3BhMGx3?oc=5",
+      "date": "Thu, 06 Aug 2026 19:46:00 GMT",
+      "source": "위키트리",
       "score": 0
     }
   ],
   "general_news": [
     {
       "title": "5억 달러 증발한 리플(XRP) 현물 ETF, 단 2개 펀드만 살아남은 이유는?",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBaNk5lXzBfQnZVM0Z0YXJ2RlljcnI3ODZkR1hSWGFmY21uQmFNZ3RZUlVicWlFdEJpenI1Ukh3V3NMOVVWb1UybWNB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9PbEo5RUN4aS1YSDdUaDROVlJhSW8zSVdGMzcyVG9VaDlfOUNmRFJyWnlNQ283VWkxWGlHeVFsT01ReVRSM29hdQ?oc=5",
       "date": "Fri, 07 Aug 2026 23:17:00 GMT",
       "source": "코인리더스",
       "score": 4
@@ -123,7 +123,7 @@
       "title": "XRP 기관 자금 93% 감소…고래 매집 포착",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQX0JoMmFLV0QwamxXNVEzOXJ0V0N3Vjc2aDlDcXRsd3Y5WjVDUXdOSk14RWE4eTVyMVpOem1ZYjdqUkE5LWxEUVV5WGR4Ty1aWm9nYkdTckx2SkszckJSY1BYeFJkdWR3Zl9QWWo0QnJuWlhpRE9PY205Tk9LR1NnXzBR?oc=5",
       "date": "Fri, 07 Aug 2026 11:33:22 GMT",
-      "source": "BeInCrypto",
+      "source": "kr.beincrypto.com",
       "score": 3
     },
     {
@@ -144,7 +144,7 @@
       "title": "암호화폐(코인) 리플, 극심한 항복 구간 진입... 결국 1달러 밑으로 추락하나",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40QmYtZGZLa3ZhU041ZkpOWUpHS2xOSjBLM1hkcU9Qc3lZZmc1Mi1ER1N1T0NyWUMtZVZpaEU5bUR6TW9lV3pXZ0RkWkZPSVROYmtWeVdB?oc=5",
       "date": "Fri, 07 Aug 2026 06:37:00 GMT",
-      "source": "wikitree.co.kr",
+      "source": "위키트리",
       "score": 2
     },
     {
