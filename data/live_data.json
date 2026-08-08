@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-08T23:20:28",
+  "generated_at": "2026-08-08T23:52:33",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.037,
-    "price_krw": 1460.3,
-    "price_change_24h": 1.49646,
-    "price_change_7d": -2.21797,
-    "price_change_30d": -5.3184,
-    "market_cap_usd": 64862361987,
+    "price_usd": 1.039,
+    "price_krw": 1462.13,
+    "price_change_24h": 1.63826,
+    "price_change_7d": -2.09527,
+    "price_change_30d": -5.19959,
+    "market_cap_usd": 64935901903,
     "market_cap_rank": 6,
-    "volume_24h": 741257416,
+    "volume_24h": 739768439,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 70.83,
-    "sentiment_votes_down": 29.17,
+    "sentiment_votes_up": 66.67,
+    "sentiment_votes_down": 33.33,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 19.37,
-    "recent_tps": 19.37,
-    "recent_tx_count": 1743,
+    "tps_24h_avg": 13.42,
+    "recent_tps": 13.42,
+    "recent_tx_count": 1194,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 106164702,
+    "recent_window_sec": 89,
+    "ledger_seq": 106165204,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-08 23:20:17 KST",
+    "updated_at": "2026-08-08 23:52:22 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -52,13 +52,6 @@
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9hTVNSVmFydTB4WU5LZzRwOW11a2hsdW9mXzRwOUw0MjlBTzRTUFBPS2k2dndZTTFxWWZqQmRZMmNWb1YtTXNzdHZB?oc=5",
       "date": "Sat, 08 Aug 2026 13:39:00 GMT",
       "source": "코인리더스",
-      "score": 0
-    },
-    {
-      "title": "\"ETF 승인보다 더 무서운 호재\" 고래들이 숨겨둔 리플(XRP)의 진짜 무기 Nate Diaz (qs7T4Eo9fM)",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44azBqVkVER1hJRlNuN1RWUHYtU2dEMm9rLUpBZXdyWWhqX1YtZ1V3enp2MmZMYktFbXdZVW10eGNsck5oTTNveGFTLUxyTnhIX1FYS2I4ei1lSlU?oc=5",
-      "date": "Sat, 08 Aug 2026 12:24:03 GMT",
-      "source": "Mshale",
       "score": 0
     },
     {
@@ -88,16 +81,16 @@
       "date": "Fri, 07 Aug 2026 02:09:39 GMT",
       "source": "글로벌이코노믹",
       "score": 0
+    },
+    {
+      "title": "XRP 현물 ETF만 돈 빠졌다…비트코인·이더리움엔 자금 유입",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8yWGtweERXcmxSZEVEMHFtbHVJLU9nVEVSMWNydGNTdjRCWVNMSWpaMll5dU41VzRSQWl0aVpaZWVfbGdNMUhrS1I5dVpDcWp4S1VKUDBuVHByUG9peDdiLXpMM3d1bzBKRFVNTVlrUGtSckU?oc=5",
+      "date": "Fri, 07 Aug 2026 01:41:00 GMT",
+      "source": "digitaltoday.co.kr",
+      "score": 0
     }
   ],
   "general_news": [
-    {
-      "title": "클래리티 법안 9월 표결 연기에 XRP 홀더들 반발…\"리플CEO 직접 입 열라\"",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYVN3UVEtTm5RWTRBOG5lYkZjOG9uczExclM4UWZTNXF1T29jN3JULTJEcVZIaHlFa0ozMkkzbjN1MElVaVgyV25YNUNER2RzbGpzb2JwMm9GeEtPQnlDY3k2MHI0X3NPeTltSGRTM2NwYVpmYlhZOW5HZ1dvVy04UTVWbGtnUmdn?oc=5",
-      "date": "Sat, 08 Aug 2026 23:13:30 GMT",
-      "source": "글로벌이코노믹",
-      "score": 2
-    },
     {
       "title": "리플(XRP), 2027년 사상 최고의 해 맞을까?…주목할 3대 촉매",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBjVTViQ0o4MUFiMy16MFFBS3FNeUNCSFc0VHhJVF9KTlpFdDFMNGZpNUJxXzVGdlh2MUFybUVaNmUxdjY0aVBfN2d3?oc=5",
@@ -111,13 +104,6 @@
       "date": "Sat, 08 Aug 2026 15:12:00 GMT",
       "source": "위키트리",
       "score": 2
-    },
-    {
-      "title": "\"ETF 승인보다 더 무서운 호재\" 고래들이 숨겨둔 리플(XRP)의 진짜 무기 Nate Diaz (qs7T4Eo9fM)",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44azBqVkVER1hJRlNuN1RWUHYtU2dEMm9rLUpBZXdyWWhqX1YtZ1V3enp2MmZMYktFbXdZVW10eGNsck5oTTNveGFTLUxyTnhIX1FYS2I4ei1lSlU?oc=5",
-      "date": "Sat, 08 Aug 2026 12:24:03 GMT",
-      "source": "Mshale",
-      "score": 3
     },
     {
       "title": "리플 XRP, 美 입법 지연에 1달러 지지선 시험대",
@@ -160,6 +146,20 @@
       "date": "Fri, 07 Aug 2026 11:47:00 GMT",
       "source": "코인리더스",
       "score": 2
+    },
+    {
+      "title": "[넥스블록][인기 검색 코인 톱15] XRP 거래량 14억달러…ETHGas 급등·Bless 급락…고변동 알트 부각",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5tWjFKQThlbGlmMUVoOXl4ZDNKX01VVVZDOWNETkE1UUcxOHdKcDg4YnlHZktsdkZtYW90WWRJUGNOVXBuczkzLWNRYWcxUW9BbHFNdQ?oc=5",
+      "date": "Fri, 07 Aug 2026 07:52:00 GMT",
+      "source": "이투데이",
+      "score": 2
+    },
+    {
+      "title": "속보 | 미 공화당 상원 원내대표 \"클래리티법 심의 착수 위한 토론 종결 신청 가능성 有\"",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9rcFlkSE1ldHZiV1NDYnR6NlVxZnFqWTdiSUl3dWh6c3lLNXE0VnBVWnVSWFo4elJna1h3TF9xVHp1dUtiQW9FamhVZ210X21I?oc=5",
+      "date": "Fri, 07 Aug 2026 03:20:00 GMT",
+      "source": "CoinNess",
+      "score": 8
     }
   ]
 }
