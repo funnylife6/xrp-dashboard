@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-08T22:19:56",
+  "generated_at": "2026-08-08T22:54:59",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.041,
-    "price_krw": 1465.91,
-    "price_change_24h": 1.79726,
-    "price_change_7d": -1.70114,
-    "price_change_30d": -5.09547,
-    "market_cap_usd": 65116280963,
+    "price_usd": 1.039,
+    "price_krw": 1462.64,
+    "price_change_24h": 1.81816,
+    "price_change_7d": -1.9209,
+    "price_change_30d": -5.30764,
+    "market_cap_usd": 64961623597,
     "market_cap_rank": 6,
-    "volume_24h": 749664900,
+    "volume_24h": 745044551,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 69.44,
-    "sentiment_votes_down": 30.56,
+    "sentiment_votes_up": 68.49,
+    "sentiment_votes_down": 31.51,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 12.42,
-    "recent_tps": 12.42,
-    "recent_tx_count": 1118,
+    "tps_24h_avg": 14.53,
+    "recent_tps": 14.53,
+    "recent_tx_count": 1293,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 106163757,
+    "recent_window_sec": 89,
+    "ledger_seq": 106164305,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-08 22:19:43 KST",
+    "updated_at": "2026-08-08 22:54:47 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,6 +92,13 @@
   ],
   "general_news": [
     {
+      "title": "리플(XRP), 2027년 사상 최고의 해 맞을까?…주목할 3대 촉매",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBjVTViQ0o4MUFiMy16MFFBS3FNeUNCSFc0VHhJVF9KTlpFdDFMNGZpNUJxXzVGdlh2MUFybUVaNmUxdjY0aVBfN2d3?oc=5",
+      "date": "Sat, 08 Aug 2026 22:35:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
       "title": "카르다노 100일선 뚫고 7% 급등, 리플 규제지연에 추락",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxTkp4R2t5M2E0RU9aSjBvWHJPOWFLWG5TX3BDWVZRX2ZWT29ybC1jQ0VNenVuZVJHWk5KYU1admZCbExJMEFHUkhEMDhUVFoyY3RGeEVR?oc=5",
       "date": "Sat, 08 Aug 2026 15:12:00 GMT",
@@ -137,7 +144,7 @@
       "title": "리플XRP·비트코인·제로베이스 엇갈려…금리인상 기대 후퇴",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iWmo5aXpkb0hrWHpWa09tMm1iRUwzeHBFRlAtZ3lYY1JZMDRqRFo3VWVnVFc3UmdrNjJ2bFVWVmR5Rm5HR3c1QUtpQnJJY0s5RDlBMjY1SFItXzl2R3F0WGtqYWdtUVZ3TEZ0NlZJbWJpZw?oc=5",
       "date": "Fri, 07 Aug 2026 22:45:15 GMT",
-      "source": "톱스타뉴스",
+      "source": "topstarnews.net",
       "score": 2
     },
     {
@@ -146,13 +153,6 @@
       "date": "Fri, 07 Aug 2026 11:47:00 GMT",
       "source": "코인리더스",
       "score": 2
-    },
-    {
-      "title": "XRP 기관 자금 93% 감소…고래 매집 포착",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQX0JoMmFLV0QwamxXNVEzOXJ0V0N3Vjc2aDlDcXRsd3Y5WjVDUXdOSk14RWE4eTVyMVpOem1ZYjdqUkE5LWxEUVV5WGR4Ty1aWm9nYkdTckx2SkszckJSY1BYeFJkdWR3Zl9QWWo0QnJuWlhpRE9PY205Tk9LR1NnXzBR?oc=5",
-      "date": "Fri, 07 Aug 2026 11:33:22 GMT",
-      "source": "BeInCrypto",
-      "score": 3
     },
     {
       "title": "[넥스블록][인기 검색 코인 톱15] XRP 거래량 14억달러…ETHGas 급등·Bless 급락…고변동 알트 부각",
