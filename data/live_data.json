@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-07T23:56:13",
+  "generated_at": "2026-08-08T01:06:04",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.021,
-    "price_krw": 1437.97,
-    "price_change_24h": -1.1556,
-    "price_change_7d": -3.76103,
-    "price_change_30d": -6.48205,
-    "market_cap_usd": 63868733262,
+    "price_usd": 1.026,
+    "price_krw": 1443.82,
+    "price_change_24h": -1.133,
+    "price_change_7d": -3.53266,
+    "price_change_30d": -5.6751,
+    "market_cap_usd": 64129289477,
     "market_cap_rank": 6,
-    "volume_24h": 1567026786,
+    "volume_24h": 1550611601,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 62.4,
-    "sentiment_votes_down": 37.6,
+    "sentiment_votes_up": 61.9,
+    "sentiment_votes_down": 38.1,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 31.79,
-    "recent_tps": 31.79,
-    "recent_tx_count": 2861,
+    "tps_24h_avg": 33.22,
+    "recent_tps": 33.22,
+    "recent_tx_count": 2957,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 106142651,
+    "recent_window_sec": 89,
+    "ledger_seq": 106143731,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-07 23:55:58 KST",
+    "updated_at": "2026-08-08 01:05:55 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -72,7 +72,7 @@
       "title": "XRP ETF 순유입 15억弗, 운용자산은 10억弗 그쳐",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfbENIajVTR2tKQ0ZIMVA1X3RXS2ZYODVTSldpRGpfZzlBZS1odmoxemZpSThfeHNqeUhYWi11d3hoT1U2ejRqSUpLMkp3RnNYNzVnWGZhc2J5bEZzT01QTWd3RHlWUEdHTXFLaVdkem85dw?oc=5",
       "date": "Fri, 07 Aug 2026 08:06:41 GMT",
-      "source": "financefeeds.com",
+      "source": "FinanceFeeds",
       "score": 0
     },
     {
@@ -127,10 +127,10 @@
       "score": 3
     },
     {
-      "title": "리플 XRP, CLARITY 법안 지연에 약세…1달러 지지선 분기점",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zcjZMMW50RFFVQTFFZzhNQzlVWGdDNlFEc0hjaE95ZlVPLWNfWk1PUGtLWm5nX2hNT3NpNmt0VU5SSk1VUXJBeUxtbVpNdnNkbkZIY1FUcDBvQ0txbXhQOdIBZkFVX3lxTE1vN3BjZk93aHRZQ3dKbl92WlBnWnlIWFIwTkthNlZwLUpDWWozYlZ2OURPaTdpZlEyRzRFV0lCanViSEhncHdmb0tycEotX0lycDJuY2R2OUxhN0lhMmJOMk9oQjRwUQ?oc=5",
-      "date": "Fri, 07 Aug 2026 10:11:07 GMT",
-      "source": "tokenpost.kr",
+      "title": "\"메모리 10~15% 절감\"...XRP 레저, v3.3.0 업데이트 승부수",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE90cmQydXNhQlNaZXlwMXlCMFVGR2FFUVl6b1VrSkN4RkVNamJOamtwOG5aWk45akVnX21HNWNwc2ZsMDVqa3pKQ2ln?oc=5",
+      "date": "Fri, 07 Aug 2026 09:25:00 GMT",
+      "source": "코인리더스",
       "score": 2
     },
     {
@@ -144,7 +144,7 @@
       "title": "암호화폐(코인) 리플, 극심한 항복 구간 진입... 결국 1달러 밑으로 추락하나",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40QmYtZGZLa3ZhU041ZkpOWUpHS2xOSjBLM1hkcU9Qc3lZZmc1Mi1ER1N1T0NyWUMtZVZpaEU5bUR6TW9lV3pXZ0RkWkZPSVROYmtWeVdB?oc=5",
       "date": "Fri, 07 Aug 2026 06:37:00 GMT",
-      "source": "위키트리",
+      "source": "wikitree.co.kr",
       "score": 2
     },
     {
@@ -152,7 +152,7 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdUFKb25fR0lyU3NkTFlBYjltWFZDYmVlQTdQSXlyLVZCaHVIMFpNZ0xiS2I1VlNlSjRHX1gzYlpacjZXUFJKaHMyN1FIXzJlQzE1YTg5TG1FRlRCbG85SEE4ZTNfS01tc0VQb0VJVG92RHBRc04tRExZREVvY012cTBMdThuZUo4?oc=5",
       "date": "Fri, 07 Aug 2026 02:09:39 GMT",
       "source": "글로벌이코노믹",
-      "score": 2
+      "score": 3
     },
     {
       "title": "속보 | 분석 \"XRP 고래 집단, 가격 43% 하락에도 $12.8억 XRP 매수\"",
