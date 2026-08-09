@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-09T14:59:54",
+  "generated_at": "2026-08-09T15:35:35",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.04,
-    "price_krw": 1464.42,
-    "price_change_24h": -0.41493,
-    "price_change_7d": -3.63275,
-    "price_change_30d": -6.27323,
-    "market_cap_usd": 65045354029,
+    "price_usd": 1.042,
+    "price_krw": 1466.81,
+    "price_change_24h": -0.06225,
+    "price_change_7d": -3.55557,
+    "price_change_30d": -5.33272,
+    "market_cap_usd": 65150057337,
     "market_cap_rank": 6,
-    "volume_24h": 579676018,
+    "volume_24h": 573375668,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
@@ -22,16 +22,16 @@
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 14.82,
-    "recent_tps": 14.82,
-    "recent_tx_count": 1319,
+    "tps_24h_avg": 16.67,
+    "recent_tps": 16.67,
+    "recent_tx_count": 1500,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 106179339,
+    "recent_window_sec": 90,
+    "ledger_seq": 106179894,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-09 14:59:47 KST",
+    "updated_at": "2026-08-09 15:35:26 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,6 +92,13 @@
   ],
   "general_news": [
     {
+      "title": "\"호재보다 반응이 먼저다\"…리플(XRP) 투자자들에게 던진 질문",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FUElFQW5Scm9DQTJzd2FKa3F4SmRaUEVaNnh2MUhqMFRVcEdURjZTY3U4RVY3cnByUmNPM1k4R0FPMTA3MFB5RU5IeXJ1Zm03dEgw?oc=5",
+      "date": "Sun, 09 Aug 2026 15:01:00 GMT",
+      "source": "네이트",
+      "score": 2
+    },
+    {
       "title": "XRP 결제량 이틀 새 90% 급감…“위기 아닌 정상화”",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05YkdXcWRoWURtc3BZZGx0NHpHVXU2ZWd2aF9OQWRELXhjZDF0UkR3a25KV0pIOGxxX244QUVwaXpsenBoOTFDSnJNQ181aWg0Zm5RRVpB?oc=5",
       "date": "Sun, 09 Aug 2026 14:06:00 GMT",
@@ -104,13 +111,6 @@
       "date": "Sun, 09 Aug 2026 06:56:00 GMT",
       "source": "코인리더스",
       "score": 3
-    },
-    {
-      "title": "리플(XRP) 방향성 주목…노동시장 변수",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwVExVc2x6TlpCa3VjNV9BVlFjelBDZnJEbVVXRkNXdFpldXpGZTlXaVRuaTNLZ1k3SnJ4MGdaaXNPX3FHb0Jac2NRUWc1SVhuOXBr?oc=5",
-      "date": "Sun, 09 Aug 2026 05:05:00 GMT",
-      "source": "네이트",
-      "score": 2
     },
     {
       "title": "리플은 성장하는데 XRP는 왜 0.60달러로 떨어질까?",
