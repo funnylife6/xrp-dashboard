@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-09T17:56:17",
+  "generated_at": "2026-08-09T18:31:03",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.041,
-    "price_krw": 1465.44,
-    "price_change_24h": -0.45864,
-    "price_change_7d": -3.58616,
-    "price_change_30d": -5.75142,
-    "market_cap_usd": 65087846226,
+    "price_usd": 1.04,
+    "price_krw": 1464.61,
+    "price_change_24h": -0.10899,
+    "price_change_7d": -3.80708,
+    "price_change_30d": -5.45843,
+    "market_cap_usd": 65053528882,
     "market_cap_rank": 6,
-    "volume_24h": 550410970,
+    "volume_24h": 545794103,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 64.38,
-    "sentiment_votes_down": 35.62,
+    "sentiment_votes_up": 62.32,
+    "sentiment_votes_down": 37.68,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 29.46,
-    "recent_tps": 29.46,
-    "recent_tx_count": 2416,
+    "tps_24h_avg": 15.04,
+    "recent_tps": 15.04,
+    "recent_tx_count": 1339,
     "recent_ledger_count": 24,
-    "recent_window_sec": 82,
-    "ledger_seq": 106182087,
+    "recent_window_sec": 89,
+    "ledger_seq": 106182628,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-09 17:56:10 KST",
+    "updated_at": "2026-08-09 18:30:48 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -106,13 +106,6 @@
       "score": 2
     },
     {
-      "title": "XRP, CLARITY Act 표결 연기로 약세... $1 지지선 공방",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85RVFVWlVkemZsRlZlUnNHeGxQNVNNMHFxbVNXeGJRUDAzMXVTbU5OWEZIRDUwaFlnZ0dCOXhXVkhxOTY0YTRCR21LMGwyakpWU2sxY2tGdTAyc2xLYXU1X9IBZkFVX3lxTE1rbW56NVU3QWg3azFiLVhrbUktWXRFbk1ZT2ZDNkRSNlJqaGJ4M2JGMzY5ODVBS3N2emhCVXRPQURQSFFqSzJJUFRESXVDcXJRYzBxZE1pcnpqX1d4azg5UVBhY2hSdw?oc=5",
-      "date": "Sun, 09 Aug 2026 09:19:43 GMT",
-      "source": "tokenpost.kr",
-      "score": 2
-    },
-    {
       "title": "1년 새 63% 급락…리플(XRP) '대박 신화' 멀어졌다!",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9TX0JMUjU1MXowc0c2Z2xTaDhMNGZnbUh3V2thWC1rR0ZkWWVhLXJsdndMekhOUHZ6LUVETlg3QUZZeXBnRU1QQUhB?oc=5",
       "date": "Sun, 09 Aug 2026 06:56:00 GMT",
@@ -160,6 +153,13 @@
       "date": "Sat, 08 Aug 2026 11:41:10 GMT",
       "source": "tokenpost.kr",
       "score": 2
+    },
+    {
+      "title": "리플, XRPL 3.3.0 기관 자산 토큰화 업그레이드 추진…XRP 가격 1.03달러 지지",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9xaG5LV0l3WnV1eE5fUFRZN2VoYWJLY0wyaWROb29WN2xxc1VvSHlrRGc0OTdrVFdUR3FxdHR5Nml2aF90X29qTk9FdF9OT0RhVlhQa3dHSWVJN0JXa08yaNIBZkFVX3lxTE9CdlNvUjFyajdiV1AzMkVTYURUY0lHNW43NGJRS2ZBYlhfREtVTHd1YmJjTWJhYm5lVWFPY0dXWVBtMlFUZHR1V0QzeDgxYjJ2YlY2eE1kQzJUMUtZVnFZaGtuc3BLQQ?oc=5",
+      "date": "Sat, 08 Aug 2026 09:19:42 GMT",
+      "source": "tokenpost.kr",
+      "score": 3
     }
   ]
 }
