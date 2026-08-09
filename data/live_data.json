@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-09T01:05:21",
+  "generated_at": "2026-08-09T03:12:37",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.04,
-    "price_krw": 1463.51,
-    "price_change_24h": 1.36922,
-    "price_change_7d": -2.12923,
-    "price_change_30d": -4.75328,
-    "market_cap_usd": 65006145476,
+    "price_usd": 1.034,
+    "price_krw": 1455.65,
+    "price_change_24h": 0.19083,
+    "price_change_7d": -3.81191,
+    "price_change_30d": -6.59869,
+    "market_cap_usd": 64650839220,
     "market_cap_rank": 6,
-    "volume_24h": 734258832,
+    "volume_24h": 671802029,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 68.42,
-    "sentiment_votes_down": 31.58,
+    "sentiment_votes_up": 66.67,
+    "sentiment_votes_down": 33.33,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 13.08,
-    "recent_tps": 13.08,
-    "recent_tx_count": 1177,
+    "tps_24h_avg": 19.15,
+    "recent_tps": 19.15,
+    "recent_tx_count": 1704,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 106166344,
+    "recent_window_sec": 89,
+    "ledger_seq": 106168335,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-09 01:05:12 KST",
+    "updated_at": "2026-08-09 03:12:26 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -48,17 +48,17 @@
   },
   "etf_news": [
     {
+      "title": "리플(XRP), 고래 움직임 심상찮다?…ETF 자금 유입 속 1.14달러 가능성 주목",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMajRkR2VMTGFvVXU5ckdCcFgyOU9vZlZ4T2IydGE2Qmt0QUdEZ3M1aUxJX3B2aG5tVlZ5MnlQdnQwT1ZDVkNZcUNYTWhUWERMdWJrMUlxcC0tSERMWDVKODR3YlhwN0Ns?oc=5",
+      "date": "Sun, 09 Aug 2026 02:00:44 GMT",
+      "source": "CBC뉴스",
+      "score": 0
+    },
+    {
       "title": "클래러티법·현물 ETF가 밀어 올린다…엑스알피(리플) 1달러 바닥론 힘 받나",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9hTVNSVmFydTB4WU5LZzRwOW11a2hsdW9mXzRwOUw0MjlBTzRTUFBPS2k2dndZTTFxWWZqQmRZMmNWb1YtTXNzdHZB?oc=5",
       "date": "Sat, 08 Aug 2026 13:39:00 GMT",
       "source": "코인리더스",
-      "score": 0
-    },
-    {
-      "title": "\"ETF 승인보다 더 무서운 호재\" 고래들이 숨겨둔 리플(XRP)의 진짜 무기 Nate Diaz (qs7T4Eo9fM)",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44azBqVkVER1hJRlNuN1RWUHYtU2dEMm9rLUpBZXdyWWhqX1YtZ1V3enp2MmZMYktFbXdZVW10eGNsck5oTTNveGFTLUxyTnhIX1FYS2I4ei1lSlU?oc=5",
-      "date": "Sat, 08 Aug 2026 12:24:03 GMT",
-      "source": "Mshale",
       "score": 0
     },
     {
@@ -92,6 +92,13 @@
   ],
   "general_news": [
     {
+      "title": "리플(XRP), 고래 움직임 심상찮다?…ETF 자금 유입 속 1.14달러 가능성 주목",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMajRkR2VMTGFvVXU5ckdCcFgyOU9vZlZ4T2IydGE2Qmt0QUdEZ3M1aUxJX3B2aG5tVlZ5MnlQdnQwT1ZDVkNZcUNYTWhUWERMdWJrMUlxcC0tSERMWDVKODR3YlhwN0Ns?oc=5",
+      "date": "Sun, 09 Aug 2026 02:00:44 GMT",
+      "source": "CBC뉴스",
+      "score": 3
+    },
+    {
       "title": "리플XRP 보합·제로베이스 상승·비트코인 보합…미국 금리 4.658%·거래액 급감",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtOHdsYWtPWFk1bnQ4Wk9IQUNLNW9tV25oZUd5RzJ3bGpTQzUyS3dDd2JaWVh0aU16WmJaNy16eExVSnphWlZzSWhCTEJPTVpNeEx3dGVvUXpjQVBWOExaWWVLbWhlQ3daclZ4Wmg1WnN5dw?oc=5",
       "date": "Sun, 09 Aug 2026 00:30:05 GMT",
@@ -113,18 +120,11 @@
       "score": 2
     },
     {
-      "title": "\"ETF 승인보다 더 무서운 호재\" 고래들이 숨겨둔 리플(XRP)의 진짜 무기 Nate Diaz (qs7T4Eo9fM)",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44azBqVkVER1hJRlNuN1RWUHYtU2dEMm9rLUpBZXdyWWhqX1YtZ1V3enp2MmZMYktFbXdZVW10eGNsck5oTTNveGFTLUxyTnhIX1FYS2I4ei1lSlU?oc=5",
-      "date": "Sat, 08 Aug 2026 12:24:03 GMT",
-      "source": "Mshale",
-      "score": 3
-    },
-    {
-      "title": "리플 XRP, 美 입법 지연에 1달러 지지선 시험대",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1bWZjRDlYQ2lTNzR2LUU1RnBLYXJzRUtrY0lPVEdkVGE5cWFxVzVKX2JVM1FOd0g0RGRyR1FrMTZBM1hyQWxBVzd5Tk1XX05Sc3F3QnNrc19fNDVXaWl4NNIBZkFVX3lxTFBOSk1PTmxxTjdIcTlDS2pudFNRUHRqNldFblFxRGJpN2dyanhMbXVOd0t3STczaGc1bTdjb1p5QXh4a19qNmdCdEw0T250TkFJb2FJZV9wMk9nQVRHNi0ydFExRElGdw?oc=5",
-      "date": "Sat, 08 Aug 2026 11:41:10 GMT",
-      "source": "tokenpost.kr",
-      "score": 2
+      "title": "클래러티법·현물 ETF가 밀어 올린다…엑스알피(리플) 1달러 바닥론 힘 받나",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9hTVNSVmFydTB4WU5LZzRwOW11a2hsdW9mXzRwOUw0MjlBTzRTUFBPS2k2dndZTTFxWWZqQmRZMmNWb1YtTXNzdHZB?oc=5",
+      "date": "Sat, 08 Aug 2026 13:39:00 GMT",
+      "source": "코인리더스",
+      "score": 4
     },
     {
       "title": "리플, XRPL 3.3.0 기관 자산 토큰화 업그레이드 추진…XRP 가격 1.03달러 지지",
@@ -155,11 +155,11 @@
       "score": 2
     },
     {
-      "title": "[넥스블록][인기 검색 코인 톱15] XRP 거래량 14억달러…ETHGas 급등·Bless 급락…고변동 알트 부각",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5tWjFKQThlbGlmMUVoOXl4ZDNKX01VVVZDOWNETkE1UUcxOHdKcDg4YnlHZktsdkZtYW90WWRJUGNOVXBuczkzLWNRYWcxUW9BbHFNdQ?oc=5",
-      "date": "Fri, 07 Aug 2026 07:52:00 GMT",
-      "source": "이투데이",
-      "score": 2
+      "title": "XRP 기관 자금 93% 감소…고래 매집 포착",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQX0JoMmFLV0QwamxXNVEzOXJ0V0N3Vjc2aDlDcXRsd3Y5WjVDUXdOSk14RWE4eTVyMVpOem1ZYjdqUkE5LWxEUVV5WGR4Ty1aWm9nYkdTckx2SkszckJSY1BYeFJkdWR3Zl9QWWo0QnJuWlhpRE9PY205Tk9LR1NnXzBR?oc=5",
+      "date": "Fri, 07 Aug 2026 11:33:22 GMT",
+      "source": "BeInCrypto",
+      "score": 3
     }
   ]
 }
