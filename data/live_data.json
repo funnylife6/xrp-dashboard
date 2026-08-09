@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-09T18:31:03",
+  "generated_at": "2026-08-09T19:26:14",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.04,
-    "price_krw": 1464.61,
-    "price_change_24h": -0.10899,
-    "price_change_7d": -3.80708,
-    "price_change_30d": -5.45843,
-    "market_cap_usd": 65053528882,
+    "price_krw": 1464.72,
+    "price_change_24h": -0.02844,
+    "price_change_7d": -3.67689,
+    "price_change_30d": -5.30506,
+    "market_cap_usd": 65058902121,
     "market_cap_rank": 6,
-    "volume_24h": 545794103,
+    "volume_24h": 540920259,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 62.32,
-    "sentiment_votes_down": 37.68,
+    "sentiment_votes_up": 64.71,
+    "sentiment_votes_down": 35.29,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 15.04,
-    "recent_tps": 15.04,
-    "recent_tx_count": 1339,
+    "tps_24h_avg": 37.07,
+    "recent_tps": 37.07,
+    "recent_tx_count": 3336,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 106182628,
+    "recent_window_sec": 90,
+    "ledger_seq": 106183491,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-09 18:30:48 KST",
+    "updated_at": "2026-08-09 19:26:07 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -113,6 +113,13 @@
       "score": 3
     },
     {
+      "title": "리플(XRP) 방향성 주목…노동시장 변수",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwVExVc2x6TlpCa3VjNV9BVlFjelBDZnJEbVVXRkNXdFpldXpGZTlXaVRuaTNLZ1k3SnJ4MGdaaXNPX3FHb0Jac2NRUWc1SVhuOXBr?oc=5",
+      "date": "Sun, 09 Aug 2026 05:05:00 GMT",
+      "source": "네이트",
+      "score": 2
+    },
+    {
       "title": "리플은 성장하는데 XRP는 왜 0.60달러로 떨어질까?",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ka3JlLTdvc3VNTW9Bd2hGaXJLT2ltT3Z5SnA4c3F0TDZLUks4TWdXWWJpWkZRcWFpaHQwQUhrMXdYT1E0T1lRRUZB?oc=5",
       "date": "Sun, 09 Aug 2026 04:16:00 GMT",
@@ -139,13 +146,6 @@
       "date": "Sat, 08 Aug 2026 23:13:30 GMT",
       "source": "글로벌이코노믹",
       "score": 2
-    },
-    {
-      "title": "속보 | 비트코인 발목 잡는 1순위는 '거시 환경'… 응답 24.8%",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE02UUQtUGtrdUd0RVJnQVloRzN6NXdRN2prRVVlVjBFamtjLUY3dVNDMm9OVVpvZzFlaGtDcUFpT2lWUkh0SEVMclBMVWZJNTM4?oc=5",
-      "date": "Sat, 08 Aug 2026 15:00:00 GMT",
-      "source": "CoinNess",
-      "score": 8
     },
     {
       "title": "리플 XRP, 美 입법 지연에 1달러 지지선 시험대",
