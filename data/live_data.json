@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-09T06:41:19",
+  "generated_at": "2026-08-09T07:46:49",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.039,
-    "price_krw": 1462.69,
-    "price_change_24h": 0.45912,
-    "price_change_7d": -3.99948,
-    "price_change_30d": -6.31584,
-    "market_cap_usd": 64967101987,
+    "price_usd": 1.036,
+    "price_krw": 1458.81,
+    "price_change_24h": 0.30713,
+    "price_change_7d": -4.15278,
+    "price_change_30d": -6.21746,
+    "market_cap_usd": 64796345651,
     "market_cap_rank": 6,
-    "volume_24h": 628765109,
+    "volume_24h": 641696845,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 67.12,
-    "sentiment_votes_down": 32.88,
+    "sentiment_votes_up": 63.89,
+    "sentiment_votes_down": 36.11,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 26.13,
-    "recent_tps": 26.13,
-    "recent_tx_count": 2326,
+    "tps_24h_avg": 34.87,
+    "recent_tps": 34.87,
+    "recent_tx_count": 3138,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 106171567,
+    "recent_window_sec": 90,
+    "ledger_seq": 106172576,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-09 06:41:12 KST",
+    "updated_at": "2026-08-09 07:46:42 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -48,6 +48,13 @@
   },
   "etf_news": [
     {
+      "title": "1년 새 63% 급락…리플(XRP) '대박 신화' 멀어졌다!",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9TX0JMUjU1MXowc0c2Z2xTaDhMNGZnbUh3V2thWC1rR0ZkWWVhLXJsdndMekhOUHZ6LUVETlg3QUZZeXBnRU1QQUhB?oc=5",
+      "date": "Sun, 09 Aug 2026 06:56:00 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
+    {
       "title": "리플(XRP), 고래 움직임 심상찮다?…ETF 자금 유입 속 1.14달러 가능성 주목",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMajRkR2VMTGFvVXU5ckdCcFgyOU9vZlZ4T2IydGE2Qmt0QUdEZ3M1aUxJX3B2aG5tVlZ5MnlQdnQwT1ZDVkNZcUNYTWhUWERMdWJrMUlxcC0tSERMWDVKODR3YlhwN0Ns?oc=5",
       "date": "Sun, 09 Aug 2026 02:00:44 GMT",
@@ -59,13 +66,6 @@
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9hTVNSVmFydTB4WU5LZzRwOW11a2hsdW9mXzRwOUw0MjlBTzRTUFBPS2k2dndZTTFxWWZqQmRZMmNWb1YtTXNzdHZB?oc=5",
       "date": "Sat, 08 Aug 2026 13:39:00 GMT",
       "source": "코인리더스",
-      "score": 0
-    },
-    {
-      "title": "\"ETF 승인보다 더 무서운 호재\" 고래들이 숨겨둔 리플(XRP)의 진짜 무기 Nate Diaz (qs7T4Eo9fM)",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44azBqVkVER1hJRlNuN1RWUHYtU2dEMm9rLUpBZXdyWWhqX1YtZ1V3enp2MmZMYktFbXdZVW10eGNsck5oTTNveGFTLUxyTnhIX1FYS2I4ei1lSlU?oc=5",
-      "date": "Sat, 08 Aug 2026 12:24:03 GMT",
-      "source": "Mshale",
       "score": 0
     },
     {
@@ -92,11 +92,18 @@
   ],
   "general_news": [
     {
+      "title": "1년 새 63% 급락…리플(XRP) '대박 신화' 멀어졌다!",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9TX0JMUjU1MXowc0c2Z2xTaDhMNGZnbUh3V2thWC1rR0ZkWWVhLXJsdndMekhOUHZ6LUVETlg3QUZZeXBnRU1QQUhB?oc=5",
+      "date": "Sun, 09 Aug 2026 06:56:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
       "title": "리플은 성장하는데 XRP는 왜 0.60달러로 떨어질까?",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ka3JlLTdvc3VNTW9Bd2hGaXJLT2ltT3Z5SnA4c3F0TDZLUks4TWdXWWJpWkZRcWFpaHQwQUhrMXdYT1E0T1lRRUZB?oc=5",
       "date": "Sun, 09 Aug 2026 04:16:00 GMT",
       "source": "코인리더스",
-      "score": 2
+      "score": 3
     },
     {
       "title": "리플(XRP), 고래 움직임 심상찮다?…ETF 자금 유입 속 1.14달러 가능성 주목",
@@ -125,13 +132,6 @@
       "date": "Sat, 08 Aug 2026 20:03:00 GMT",
       "source": "위키트리",
       "score": 2
-    },
-    {
-      "title": "\"ETF 승인보다 더 무서운 호재\" 고래들이 숨겨둔 리플(XRP)의 진짜 무기 Nate Diaz (qs7T4Eo9fM)",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44azBqVkVER1hJRlNuN1RWUHYtU2dEMm9rLUpBZXdyWWhqX1YtZ1V3enp2MmZMYktFbXdZVW10eGNsck5oTTNveGFTLUxyTnhIX1FYS2I4ei1lSlU?oc=5",
-      "date": "Sat, 08 Aug 2026 12:24:03 GMT",
-      "source": "Mshale",
-      "score": 3
     },
     {
       "title": "리플 XRP, 美 입법 지연에 1달러 지지선 시험대",
