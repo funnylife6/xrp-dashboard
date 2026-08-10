@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-10T09:55:15",
+  "generated_at": "2026-08-10T11:00:31",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.03,
-    "price_krw": 1460.08,
-    "price_change_24h": -0.41515,
-    "price_change_7d": -3.37603,
-    "price_change_30d": -7.02028,
-    "market_cap_usd": 64409732426,
+    "price_usd": 1.032,
+    "price_krw": 1462.37,
+    "price_change_24h": -0.39154,
+    "price_change_7d": -3.587,
+    "price_change_30d": -6.69126,
+    "market_cap_usd": 64519168283,
     "market_cap_rank": 6,
-    "volume_24h": 694499230,
+    "volume_24h": 711348954,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 64.94,
-    "sentiment_votes_down": 35.06,
+    "sentiment_votes_up": 63.29,
+    "sentiment_votes_down": 36.71,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 27.39,
-    "recent_tps": 27.39,
-    "recent_tx_count": 2465,
+    "tps_24h_avg": 26.77,
+    "recent_tps": 26.77,
+    "recent_tx_count": 2409,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106196957,
+    "ledger_seq": 106197966,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-10 09:55:04 KST",
+    "updated_at": "2026-08-10 11:00:25 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -49,9 +49,16 @@
   "etf_news": [
     {
       "title": "리플(XRP) 1453원 거래…장중 1445원까지 밀린 뒤 낙폭 만회",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5XWC1ra1pWYS0wLWFOTUNMeWZEWUh6Q2tBUFc5dXpBajNVNzM4RzFoWUV5NXlvTy1uRUdLcm9MR1FYV2k5dXlhYTYyVlE4NE9TUGt2eGFYS05oVUdNaGNSNG84UlZBODBkb1lmeG8xa09XUdIBckFVX3lxTE5XWC1ra1pWYS0wLWFOTUNMeWZEWUh6Q2tBUFc5dXpBajNVNzM4RzFoWUV5NXlvTy1uRUdLcm9MR1FYV2k5dXlhYTYyVlE4NE9TUGt2eGFYS05oVUdNaGNSNG84UlZBODBkb1lmeG8xa09XUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15dGFXMnNHNU1iVnBGTlRuTXA0d3B6TWFNWUFTVG13bmp2emZiLWN6b3d2SThRcFhfNTFWWU1LeDFtRTZjMVk0M0VUWm81Zk9rbHNPR2huSXNUR0R0Sjk2TGFiVExOdnc1MmZGQ1J30gFyQVVfeXFMTldYLWtrWlZhLTAtYU5NQ0x5ZkRZSHpDa0FQVzl1ekFqM1U3MzhHMWhZRXk1eW9PLW5FR0tyb0xHUVhXaTl1eWFhNjJWUTg0T1NQa3Z4YVhLTmhVR01oY1I0bzhSVkE4MGRvWWZ4bzFrT1dR?oc=5",
       "date": "Mon, 10 Aug 2026 05:37:04 GMT",
       "source": "잡포스트",
+      "score": 0
+    },
+    {
+      "title": "XRP(리플), 50달러 가려면 '시총 3조' 넘어야 해...\"비트코인도 제처야 가능\"",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1PdWw0dXVTc1A2SnR3ZG9nUzFZV1ZTb0UwM0xxalB0V3NUWU9PeENocTNGOVhtcC1KR0N6THYxbnRtakNkUGc4amlR?oc=5",
+      "date": "Mon, 10 Aug 2026 03:30:00 GMT",
+      "source": "코인리더스",
       "score": 0
     },
     {
@@ -72,7 +79,7 @@
       "title": "기관만 웃고 개미는 피눈물… 리플 랠리 잔치 끝, 대형 하락 신호 포착",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5rNXJhQUtOTGJEbzNJTXRSdnNNbzd1Q2tTdW03cXQ5dktjeDd5M0lLeDJOTHRqS1VBQ3RWWTN0Tjd2d0pDWEppLTBwU2JpdEV1bDFxMTlCcy1rWER3dTJQRzMwdHNDNTNBNDNWWlRuNVZ2bFXSAXdBVV95cUxPYnVZNElmZXpNYzNfVVFLZ29naEU1QzhGR2ZaUVRLT1daY1h5MUNiYjdTUkJsLUJxb3NuZWZvVWl6VEhXLW5DVzhQVXlFUlpVYXZvRHlYWS1hcVlXc1FkZ3VyTmV6YVowY0Z2UnNNV1dFYWpsd21Sbw?oc=5",
       "date": "Sun, 09 Aug 2026 22:08:38 GMT",
-      "source": "핀포인트뉴스",
+      "source": "pinpointnews.co.kr",
       "score": 0
     },
     {
@@ -80,13 +87,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMajRkR2VMTGFvVXU5ckdCcFgyOU9vZlZ4T2IydGE2Qmt0QUdEZ3M1aUxJX3B2aG5tVlZ5MnlQdnQwT1ZDVkNZcUNYTWhUWERMdWJrMUlxcC0tSERMWDVKODR3YlhwN0Ns?oc=5",
       "date": "Sun, 09 Aug 2026 02:00:44 GMT",
       "source": "CBC뉴스",
-      "score": 0
-    },
-    {
-      "title": "XRP 기관 자금 93% 감소…고래 매집 포착",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQX0JoMmFLV0QwamxXNVEzOXJ0V0N3Vjc2aDlDcXRsd3Y5WjVDUXdOSk14RWE4eTVyMVpOem1ZYjdqUkE5LWxEUVV5WGR4Ty1aWm9nYkdTckx2SkszckJSY1BYeFJkdWR3Zl9QWWo0QnJuWlhpRE9PY205Tk9LR1NnXzBR?oc=5",
-      "date": "Fri, 07 Aug 2026 11:33:22 GMT",
-      "source": "BeInCrypto",
       "score": 0
     }
   ],
@@ -100,9 +100,16 @@
     },
     {
       "title": "리플(XRP) 1453원 거래…장중 1445원까지 밀린 뒤 낙폭 만회",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5XWC1ra1pWYS0wLWFOTUNMeWZEWUh6Q2tBUFc5dXpBajNVNzM4RzFoWUV5NXlvTy1uRUdLcm9MR1FYV2k5dXlhYTYyVlE4NE9TUGt2eGFYS05oVUdNaGNSNG84UlZBODBkb1lmeG8xa09XUdIBckFVX3lxTE5XWC1ra1pWYS0wLWFOTUNMeWZEWUh6Q2tBUFc5dXpBajNVNzM4RzFoWUV5NXlvTy1uRUdLcm9MR1FYV2k5dXlhYTYyVlE4NE9TUGt2eGFYS05oVUdNaGNSNG84UlZBODBkb1lmeG8xa09XUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15dGFXMnNHNU1iVnBGTlRuTXA0d3B6TWFNWUFTVG13bmp2emZiLWN6b3d2SThRcFhfNTFWWU1LeDFtRTZjMVk0M0VUWm81Zk9rbHNPR2huSXNUR0R0Sjk2TGFiVExOdnc1MmZGQ1J30gFyQVVfeXFMTldYLWtrWlZhLTAtYU5NQ0x5ZkRZSHpDa0FQVzl1ekFqM1U3MzhHMWhZRXk1eW9PLW5FR0tyb0xHUVhXaTl1eWFhNjJWUTg0T1NQa3Z4YVhLTmhVR01oY1I0bzhSVkE4MGRvWWZ4bzFrT1dR?oc=5",
       "date": "Mon, 10 Aug 2026 05:37:04 GMT",
       "source": "잡포스트",
+      "score": 3
+    },
+    {
+      "title": "XRP(리플), 50달러 가려면 '시총 3조' 넘어야 해...\"비트코인도 제처야 가능\"",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1PdWw0dXVTc1A2SnR3ZG9nUzFZV1ZTb0UwM0xxalB0V3NUWU9PeENocTNGOVhtcC1KR0N6THYxbnRtakNkUGc4amlR?oc=5",
+      "date": "Mon, 10 Aug 2026 03:30:00 GMT",
+      "source": "코인리더스",
       "score": 3
     },
     {
@@ -120,13 +127,6 @@
       "score": 2
     },
     {
-      "title": "리플(XRP), 9월 15일 운명의 날…1.18달러 돌파냐 0.95달러 추락이냐",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1iY2FWNFlWdks1UHFwNlhxb1VuZm9UXy1wR0VmOHJSck5WVDBRQmVTam1uT1AxRUd6TUpJVUFzWHRXS3J2UWhaYW9R?oc=5",
-      "date": "Sun, 09 Aug 2026 22:36:00 GMT",
-      "source": "코인리더스",
-      "score": 2
-    },
-    {
       "title": "XRP(리플), ETF 순유입에도 열기 급속 냉각...1달러 방어 비상",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB1RlFuYzhNUUVTcFZxUFluQWVPSTJtcXJhVndjRHRnV2QzSGJOTU9XdGtFWGw4bmZYbElSQXMwUm4tTlFOclJUdTBB?oc=5",
       "date": "Sun, 09 Aug 2026 22:20:00 GMT",
@@ -137,7 +137,7 @@
       "title": "기관만 웃고 개미는 피눈물… 리플 랠리 잔치 끝, 대형 하락 신호 포착",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5rNXJhQUtOTGJEbzNJTXRSdnNNbzd1Q2tTdW03cXQ5dktjeDd5M0lLeDJOTHRqS1VBQ3RWWTN0Tjd2d0pDWEppLTBwU2JpdEV1bDFxMTlCcy1rWER3dTJQRzMwdHNDNTNBNDNWWlRuNVZ2bFXSAXdBVV95cUxPYnVZNElmZXpNYzNfVVFLZ29naEU1QzhGR2ZaUVRLT1daY1h5MUNiYjdTUkJsLUJxb3NuZWZvVWl6VEhXLW5DVzhQVXlFUlpVYXZvRHlYWS1hcVlXc1FkZ3VyTmV6YVowY0Z2UnNNV1dFYWpsd21Sbw?oc=5",
       "date": "Sun, 09 Aug 2026 22:08:38 GMT",
-      "source": "핀포인트뉴스",
+      "source": "pinpointnews.co.kr",
       "score": 4
     },
     {
