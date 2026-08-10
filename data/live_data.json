@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-10T14:15:38",
+  "generated_at": "2026-08-10T15:29:37",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.028,
-    "price_krw": 1457.57,
-    "price_change_24h": -1.05361,
-    "price_change_7d": -4.23081,
-    "price_change_30d": -7.23158,
-    "market_cap_usd": 64282877511,
+    "price_usd": 1.021,
+    "price_krw": 1446.82,
+    "price_change_24h": -2.03568,
+    "price_change_7d": -5.46615,
+    "price_change_30d": -8.30805,
+    "market_cap_usd": 63834454295,
     "market_cap_rank": 6,
-    "volume_24h": 842926573,
+    "volume_24h": 879188950,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 61.54,
-    "sentiment_votes_down": 38.46,
+    "sentiment_votes_up": 60.0,
+    "sentiment_votes_down": 40.0,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 29.36,
-    "recent_tps": 29.36,
-    "recent_tx_count": 2642,
+    "tps_24h_avg": 32.63,
+    "recent_tps": 32.63,
+    "recent_tx_count": 2937,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106200975,
+    "ledger_seq": 106202111,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-10 14:15:27 KST",
+    "updated_at": "2026-08-10 15:29:24 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -141,6 +141,13 @@
       "score": 4
     },
     {
+      "title": "속보 | 스트래티지, 1690 BTC 매도",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwNW5FWUZKaVBlUlc5QnlEOURjY3hua1N4OUhRQ3R5ZzhrMmRBWXVHLXp1WFNhc2tXTDZwZGVrR2J0aVdKWVZla1ZCUVJBVFds?oc=5",
+      "date": "Sun, 09 Aug 2026 20:02:00 GMT",
+      "source": "CoinNess",
+      "score": 8
+    },
+    {
       "title": "리플(XRP), 가격 횡보 중 장기 성장 가능성 모색",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3a1lNZXd4MFV0eEs3bWxmSllsd0JqM0NRT0Vobi1jVkFIZXdzeHo0ZUxtenMyamlTV3oxZGQ4SERoU3JRdnU1Wk9KLUZ3ZkJsbGZYbU11eVBSeExMUWV5UtIBZkFVX3lxTE5RZks4aVg2TUxJOEVnNEhXLUVWbGNyVG1OdjBVc3dsVVBFbVp2SmJHT0FkVGdfY1pGS2JxZlNBUGhteWhBSTVldGIwZmVMaW1iUnBmVFI4TUYtcEF6aVJraXQ2OVlmQQ?oc=5",
       "date": "Sun, 09 Aug 2026 17:20:10 GMT",
@@ -152,13 +159,6 @@
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ka3JlLTdvc3VNTW9Bd2hGaXJLT2ltT3Z5SnA4c3F0TDZLUks4TWdXWWJpWkZRcWFpaHQwQUhrMXdYT1E0T1lRRUZB?oc=5",
       "date": "Sun, 09 Aug 2026 04:16:00 GMT",
       "source": "코인리더스",
-      "score": 3
-    },
-    {
-      "title": "리플(XRP), 고래 움직임 심상찮다?…ETF 자금 유입 속 1.14달러 가능성 주목",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMajRkR2VMTGFvVXU5ckdCcFgyOU9vZlZ4T2IydGE2Qmt0QUdEZ3M1aUxJX3B2aG5tVlZ5MnlQdnQwT1ZDVkNZcUNYTWhUWERMdWJrMUlxcC0tSERMWDVKODR3YlhwN0Ns?oc=5",
-      "date": "Sun, 09 Aug 2026 02:00:44 GMT",
-      "source": "CBC뉴스",
       "score": 3
     }
   ]
