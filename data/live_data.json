@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-10T21:09:57",
+  "generated_at": "2026-08-10T22:05:20",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.019,
-    "price_krw": 1444.93,
-    "price_change_24h": -2.11434,
-    "price_change_7d": -5.8941,
-    "price_change_30d": -8.53569,
-    "market_cap_usd": 63721030676,
+    "price_usd": 1.016,
+    "price_krw": 1440.86,
+    "price_change_24h": -2.44698,
+    "price_change_7d": -5.73683,
+    "price_change_30d": -8.81957,
+    "market_cap_usd": 63543835303,
     "market_cap_rank": 6,
-    "volume_24h": 1025052210,
+    "volume_24h": 994021448,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 56.63,
-    "sentiment_votes_down": 43.37,
+    "sentiment_votes_up": 55.29,
+    "sentiment_votes_down": 44.71,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 41.68,
-    "recent_tps": 41.68,
-    "recent_tx_count": 3751,
+    "tps_24h_avg": 38.7,
+    "recent_tps": 38.7,
+    "recent_tx_count": 3483,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106207360,
+    "ledger_seq": 106208211,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-10 21:09:50 KST",
+    "updated_at": "2026-08-10 22:05:04 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -58,7 +58,7 @@
       "title": "리플(XRP) 1453원 거래…장중 1445원까지 밀린 뒤 낙폭 만회",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15dGFXMnNHNU1iVnBGTlRuTXA0d3B6TWFNWUFTVG13bmp2emZiLWN6b3d2SThRcFhfNTFWWU1LeDFtRTZjMVk0M0VUWm81Zk9rbHNPR2huSXNUR0R0Sjk2TGFiVExOdnc1MmZGQ1J30gFyQVVfeXFMTldYLWtrWlZhLTAtYU5NQ0x5ZkRZSHpDa0FQVzl1ekFqM1U3MzhHMWhZRXk1eW9PLW5FR0tyb0xHUVhXaTl1eWFhNjJWUTg0T1NQa3Z4YVhLTmhVR01oY1I0bzhSVkE4MGRvWWZ4bzFrT1dR?oc=5",
       "date": "Mon, 10 Aug 2026 05:37:04 GMT",
-      "source": "job-post.co.kr",
+      "source": "잡포스트",
       "score": 0
     },
     {
@@ -86,11 +86,25 @@
       "title": "리플(XRP), 고래 움직임 심상찮다?…ETF 자금 유입 속 1.14달러 가능성 주목",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMajRkR2VMTGFvVXU5ckdCcFgyOU9vZlZ4T2IydGE2Qmt0QUdEZ3M1aUxJX3B2aG5tVlZ5MnlQdnQwT1ZDVkNZcUNYTWhUWERMdWJrMUlxcC0tSERMWDVKODR3YlhwN0Ns?oc=5",
       "date": "Sun, 09 Aug 2026 02:00:44 GMT",
-      "source": "cbci.co.kr",
+      "source": "CBC뉴스",
       "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "캐너리 XRP ETF, 8160만달러 증발…XRP는 32% 더 사들였는데",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93UVlya3RvRnY1WVR2SWVWTE91bF9nY3oyQkc3NGpxZV9qUkViLU5waG1fQkJLVHQ3d0d3NFhDNXZyZEV6S25zQXZWLU5oejRTdENjMThn?oc=5",
+      "date": "Mon, 10 Aug 2026 21:52:00 GMT",
+      "source": "위키트리",
+      "score": 3
+    },
+    {
+      "title": "리플(XRP) 약세 흐름…1.01달러선서 방향성 탐색",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SQXBydkstSmU5VFljNXR5eVpfbmVtcjRJRTdWZVh4Z044TnJPMnBPSEtuMmM4SldPR2ZPRjFpbmNxTHYtWXBJc0d3NGNkNWZDSDlMSUVIbEZsa2IyYWx2emhDemhmSlJ4eVJpYzFhaXluckxNUlFpRQ?oc=5",
+      "date": "Mon, 10 Aug 2026 21:11:00 GMT",
+      "source": "네이트",
+      "score": 2
+    },
     {
       "title": "리플, RLUSD 1,000만 개 발행...고래들 3.8억 개 폭풍 매집",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1nbVpiVjhISjRQRE5Nd3pfUjhUWkk3YURLV1FTdm1aaVp1bWVYbkFrLUtaejdxZjFHeFdaUm16N2FrRWlsYUNKYWF3?oc=5",
@@ -109,14 +123,14 @@
       "title": "XRP 탈중앙화에 경고등… 전 리플 임원 \"신규 업그레이드 위험천만\"",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ycW4xeGttTl9KY3Q4OUFUbElzQkpLaVIyczE1ckhOWllwSWg2dThLOGhZaV9DVmFjN2JsQWpJcFphcFdSLUtONklwNmtHTEVTU0FreFJ3RkRqbnJxa0JxZ0dmSDU2TzRVSDdQVzVVcVdDbDg?oc=5",
       "date": "Mon, 10 Aug 2026 08:46:00 GMT",
-      "source": "Investing.com 한국어",
+      "source": "kr.investing.com",
       "score": 2
     },
     {
       "title": "리플(XRP) 1453원 거래…장중 1445원까지 밀린 뒤 낙폭 만회",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15dGFXMnNHNU1iVnBGTlRuTXA0d3B6TWFNWUFTVG13bmp2emZiLWN6b3d2SThRcFhfNTFWWU1LeDFtRTZjMVk0M0VUWm81Zk9rbHNPR2huSXNUR0R0Sjk2TGFiVExOdnc1MmZGQ1J30gFyQVVfeXFMTldYLWtrWlZhLTAtYU5NQ0x5ZkRZSHpDa0FQVzl1ekFqM1U3MzhHMWhZRXk1eW9PLW5FR0tyb0xHUVhXaTl1eWFhNjJWUTg0T1NQa3Z4YVhLTmhVR01oY1I0bzhSVkE4MGRvWWZ4bzFrT1dR?oc=5",
       "date": "Mon, 10 Aug 2026 05:37:04 GMT",
-      "source": "job-post.co.kr",
+      "source": "잡포스트",
       "score": 3
     },
     {
@@ -125,13 +139,6 @@
       "date": "Mon, 10 Aug 2026 03:02:00 GMT",
       "source": "CoinNess",
       "score": 8
-    },
-    {
-      "title": "XRP/BTC 5일 약세 끊겼다…추세 전환은 아직",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xbUhnek1GS3FWTXMtY1YzQnlOZ3ZKamZUaXJmQjVNbFB6bmd2dkFrTVZmRy1GR0xVYXRZZTVZQlg1dVdtS0hHdFNYSjdIelg2aENV?oc=5",
-      "date": "Mon, 10 Aug 2026 01:42:00 GMT",
-      "source": "네이트",
-      "score": 2
     },
     {
       "title": "암호화폐 고래들, 일주일간 3.8억 XRP '싹쓸이'...1달러 바닥 굳히나",
@@ -144,7 +151,7 @@
       "title": "모멘텀·에스프레소·리플XRP 혼조…미 고용 부진에 금리 부담 완화",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA1VGlwbzExSjFGT1hyZnRLb1NUUU9FZkNyakFpY3ZFWXphNFJlMzhzQThTNXktdlpXaXVEblp0bWRaTDZ5emNGS1JPemdZd0xhVTZqRFFUb3JPOTJsNTZtM25ZNHVHeGEzck02c1dNNFFYZw?oc=5",
       "date": "Sun, 09 Aug 2026 22:47:31 GMT",
-      "source": "톱스타뉴스",
+      "source": "topstarnews.net",
       "score": 2
     },
     {
@@ -153,13 +160,6 @@
       "date": "Sun, 09 Aug 2026 22:20:00 GMT",
       "source": "코인리더스",
       "score": 3
-    },
-    {
-      "title": "기관만 웃고 개미는 피눈물… 리플 랠리 잔치 끝, 대형 하락 신호 포착",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5rNXJhQUtOTGJEbzNJTXRSdnNNbzd1Q2tTdW03cXQ5dktjeDd5M0lLeDJOTHRqS1VBQ3RWWTN0Tjd2d0pDWEppLTBwU2JpdEV1bDFxMTlCcy1rWER3dTJQRzMwdHNDNTNBNDNWWlRuNVZ2bFXSAXdBVV95cUxPYnVZNElmZXpNYzNfVVFLZ29naEU1QzhGR2ZaUVRLT1daY1h5MUNiYjdTUkJsLUJxb3NuZWZvVWl6VEhXLW5DVzhQVXlFUlpVYXZvRHlYWS1hcVlXc1FkZ3VyTmV6YVowY0Z2UnNNV1dFYWpsd21Sbw?oc=5",
-      "date": "Sun, 09 Aug 2026 22:08:38 GMT",
-      "source": "핀포인트뉴스",
-      "score": 4
     }
   ]
 }
