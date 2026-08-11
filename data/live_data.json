@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-10T23:58:28",
+  "generated_at": "2026-08-11T01:42:52",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.011,
-    "price_krw": 1433.92,
-    "price_change_24h": -1.71054,
-    "price_change_7d": -5.85706,
-    "price_change_30d": -8.80601,
-    "market_cap_usd": 63232790899,
+    "price_usd": 1.013,
+    "price_krw": 1431.33,
+    "price_change_24h": -1.71277,
+    "price_change_7d": -5.41412,
+    "price_change_30d": -7.31088,
+    "market_cap_usd": 63327670052,
     "market_cap_rank": 6,
-    "volume_24h": 1016321243,
+    "volume_24h": 1026996147,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 54.84,
-    "sentiment_votes_down": 45.16,
+    "sentiment_votes_up": 56.38,
+    "sentiment_votes_down": 43.62,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 32.72,
-    "recent_tps": 32.72,
-    "recent_tx_count": 2945,
+    "tps_24h_avg": 26.9,
+    "recent_tps": 26.9,
+    "recent_tx_count": 2421,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106209957,
+    "ledger_seq": 106211570,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-10 23:58:14 KST",
+    "updated_at": "2026-08-11 01:42:44 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -120,6 +120,13 @@
       "score": 2
     },
     {
+      "title": "캐너리 XRP ETF, 8160만달러 증발…XRP는 32% 더 사들였는데",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93UVlya3RvRnY1WVR2SWVWTE91bF9nY3oyQkc3NGpxZV9qUkViLU5waG1fQkJLVHQ3d0d3NFhDNXZyZEV6S25zQXZWLU5oejRTdENjMThn?oc=5",
+      "date": "Mon, 10 Aug 2026 21:52:00 GMT",
+      "source": "위키트리",
+      "score": 3
+    },
+    {
       "title": "리플, RLUSD 1,000만 개 발행...고래들 3.8억 개 폭풍 매집",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1nbVpiVjhISjRQRE5Nd3pfUjhUWkk3YURLV1FTdm1aaVp1bWVYbkFrLUtaejdxZjFHeFdaUm16N2FrRWlsYUNKYWF3?oc=5",
       "date": "Mon, 10 Aug 2026 20:00:00 GMT",
@@ -146,13 +153,6 @@
       "date": "Mon, 10 Aug 2026 05:37:04 GMT",
       "source": "잡포스트",
       "score": 3
-    },
-    {
-      "title": "속보 | 스트래티지, 1690 BTC 매도",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwNW5FWUZKaVBlUlc5QnlEOURjY3hua1N4OUhRQ3R5ZzhrMmRBWXVHLXp1WFNhc2tXTDZwZGVrR2J0aVdKWVZla1ZCUVJBVFds?oc=5",
-      "date": "Mon, 10 Aug 2026 03:02:00 GMT",
-      "source": "CoinNess",
-      "score": 8
     },
     {
       "title": "XRP/BTC 5일 약세 끊겼다…추세 전환은 아직",
