@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-11T04:48:37",
+  "generated_at": "2026-08-11T05:49:01",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.013,
-    "price_krw": 1432.69,
-    "price_change_24h": -1.82857,
-    "price_change_7d": -5.91044,
-    "price_change_30d": -7.84416,
-    "market_cap_usd": 63332542939,
+    "price_krw": 1432.52,
+    "price_change_24h": -2.02679,
+    "price_change_7d": -6.01188,
+    "price_change_30d": -7.50261,
+    "market_cap_usd": 63325862436,
     "market_cap_rank": 6,
-    "volume_24h": 988135276,
+    "volume_24h": 989684241,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 57.14,
-    "sentiment_votes_down": 42.86,
+    "sentiment_votes_up": 55.67,
+    "sentiment_votes_down": 44.33,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 27.88,
-    "recent_tps": 27.88,
-    "recent_tx_count": 2509,
+    "tps_24h_avg": 28.46,
+    "recent_tps": 28.46,
+    "recent_tx_count": 2561,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106214433,
+    "ledger_seq": 106215363,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-11 04:48:29 KST",
+    "updated_at": "2026-08-11 05:48:48 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,6 +92,20 @@
   ],
   "general_news": [
     {
+      "title": "20개월 만에 최저치 찍은 리플(XRP)…1달러 마지노선 무너지나?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9wbnlnSUg2X2R1WUxaSE13NzNDZ1JjVDRvU1JRdWtfNXNKZlJvOTNZYnFZNkZpa2RsSWhYdTVLU3BKR2gtSEFUY0ZR?oc=5",
+      "date": "Tue, 11 Aug 2026 05:20:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
+      "title": "RLUSD 등장에도 XRP 필요한 이유…전문가 \"쓰임새 자체가 다르다\"",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9rdXpEUUxUWEIxQ0NqU2VtS2t5eGdBNXQ1X2Z0NFlYVUNuZ2dxdkxBYlgxcjNsOFp5WFFoVXFEV3BVUXNRdl9kM2hxVUhldFB6REZvbjVqX0VRSFhTbmx5UzVDUzlYb2JHZWVuRXlRWXhLczg?oc=5",
+      "date": "Tue, 11 Aug 2026 04:50:00 GMT",
+      "source": "디지털투데이",
+      "score": 2
+    },
+    {
       "title": "80억 달러 장담했던 리플(XRP) 현물 ETF... 10개월 차 실제 성적표는 '15억 달러'",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4tUEJLWXd2NWJMSVhyWWZEcDBkcGxQTEpCUXJHVnVZY2FSMm1Rb3A5aFFpMVB4REozb1hLMmhtcHY5SzVjeTZ5RVZR?oc=5",
       "date": "Mon, 10 Aug 2026 22:27:00 GMT",
@@ -146,20 +160,6 @@
       "date": "Mon, 10 Aug 2026 12:19:00 GMT",
       "source": "코인리더스",
       "score": 3
-    },
-    {
-      "title": "XRP 탈중앙화에 경고등… 전 리플 임원 \"신규 업그레이드 위험천만\"",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ycW4xeGttTl9KY3Q4OUFUbElzQkpLaVIyczE1ckhOWllwSWg2dThLOGhZaV9DVmFjN2JsQWpJcFphcFdSLUtONklwNmtHTEVTU0FreFJ3RkRqbnJxa0JxZ0dmSDU2TzRVSDdQVzVVcVdDbDg?oc=5",
-      "date": "Mon, 10 Aug 2026 08:46:00 GMT",
-      "source": "Investing.com 한국어",
-      "score": 2
-    },
-    {
-      "title": "XRP/BTC 5일 약세 끊겼다…추세 전환은 아직",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lV0pUSzdNNlRYcXJBblBlNC1IWV9faThER1NqOUdmUU52b1NFMjhkOVc2NWN5ZkxlUEt0UXE3YTNHWlNpYXk0Q3RQYmVBTk54VEdZNEVYdk5fZmJzV3R0TVpFSlVBaFNWNGJVZk5EdUFjUVU?oc=5",
-      "date": "Mon, 10 Aug 2026 01:41:35 GMT",
-      "source": "디지털투데이",
-      "score": 2
     }
   ]
 }
