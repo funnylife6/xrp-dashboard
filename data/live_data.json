@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-11T05:49:01",
+  "generated_at": "2026-08-11T06:52:48",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.013,
-    "price_krw": 1432.52,
-    "price_change_24h": -2.02679,
-    "price_change_7d": -6.01188,
-    "price_change_30d": -7.50261,
-    "market_cap_usd": 63325862436,
+    "price_usd": 1.004,
+    "price_krw": 1424.23,
+    "price_change_24h": -3.11101,
+    "price_change_7d": -6.56026,
+    "price_change_30d": -8.21095,
+    "market_cap_usd": 62799649184,
     "market_cap_rank": 6,
-    "volume_24h": 989684241,
+    "volume_24h": 1036056169,
     "circulating_supply": 62533271955.0,
     "total_supply": 99985635707.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 55.67,
-    "sentiment_votes_down": 44.33,
+    "sentiment_votes_up": 54.9,
+    "sentiment_votes_down": 45.1,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 28.46,
-    "recent_tps": 28.46,
-    "recent_tx_count": 2561,
+    "tps_24h_avg": 27.73,
+    "recent_tps": 27.73,
+    "recent_tx_count": 2496,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106215363,
+    "ledger_seq": 106216347,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-11 05:48:48 KST",
+    "updated_at": "2026-08-11 06:52:38 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,13 +92,6 @@
   ],
   "general_news": [
     {
-      "title": "20개월 만에 최저치 찍은 리플(XRP)…1달러 마지노선 무너지나?",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9wbnlnSUg2X2R1WUxaSE13NzNDZ1JjVDRvU1JRdWtfNXNKZlJvOTNZYnFZNkZpa2RsSWhYdTVLU3BKR2gtSEFUY0ZR?oc=5",
-      "date": "Tue, 11 Aug 2026 05:20:00 GMT",
-      "source": "코인리더스",
-      "score": 2
-    },
-    {
       "title": "RLUSD 등장에도 XRP 필요한 이유…전문가 \"쓰임새 자체가 다르다\"",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9rdXpEUUxUWEIxQ0NqU2VtS2t5eGdBNXQ1X2Z0NFlYVUNuZ2dxdkxBYlgxcjNsOFp5WFFoVXFEV3BVUXNRdl9kM2hxVUhldFB6REZvbjVqX0VRSFhTbmx5UzVDUzlYb2JHZWVuRXlRWXhLczg?oc=5",
       "date": "Tue, 11 Aug 2026 04:50:00 GMT",
@@ -117,7 +110,7 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWndyLVdWNzJZanJpM2c1RkRNdjhHbXhaUEF1SVpSR1cxaE5lUUF1MGZfR2c1Vlk3NmtGb0tXM04zVlZiMXJpS3V0RHZaWHktR1FkQjV2WElHQ0NkUG5ta2ZPTlpJVXBHUVJjdFhXejhxaDgtNmJidm40WHFSU0lleU1wV29FNUJB?oc=5",
       "date": "Mon, 10 Aug 2026 22:11:21 GMT",
       "source": "글로벌이코노믹",
-      "score": 2
+      "score": 3
     },
     {
       "title": "\"XRP 에스크로 물량, 2032~2036년 전량 소진\"…완전 유통 시대 온다",
@@ -141,13 +134,6 @@
       "score": 3
     },
     {
-      "title": "리플(XRP) 약세 흐름…1.01달러선서 방향성 탐색",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SQXBydkstSmU5VFljNXR5eVpfbmVtcjRJRTdWZVh4Z044TnJPMnBPSEtuMmM4SldPR2ZPRjFpbmNxTHYtWXBJc0d3NGNkNWZDSDlMSUVIbEZsa2IyYWx2emhDemhmSlJ4eVJpYzFhaXluckxNUlFpRQ?oc=5",
-      "date": "Mon, 10 Aug 2026 21:11:00 GMT",
-      "source": "네이트",
-      "score": 2
-    },
-    {
       "title": "리플, RLUSD 1,000만 개 발행...고래들 3.8억 개 폭풍 매집",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1nbVpiVjhISjRQRE5Nd3pfUjhUWkk3YURLV1FTdm1aaVp1bWVYbkFrLUtaejdxZjFHeFdaUm16N2FrRWlsYUNKYWF3?oc=5",
       "date": "Mon, 10 Aug 2026 20:00:00 GMT",
@@ -160,6 +146,20 @@
       "date": "Mon, 10 Aug 2026 12:19:00 GMT",
       "source": "코인리더스",
       "score": 3
+    },
+    {
+      "title": "XRP 탈중앙화에 경고등… 전 리플 임원 \"신규 업그레이드 위험천만\"",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ycW4xeGttTl9KY3Q4OUFUbElzQkpLaVIyczE1ckhOWllwSWg2dThLOGhZaV9DVmFjN2JsQWpJcFphcFdSLUtONklwNmtHTEVTU0FreFJ3RkRqbnJxa0JxZ0dmSDU2TzRVSDdQVzVVcVdDbDg?oc=5",
+      "date": "Mon, 10 Aug 2026 08:46:00 GMT",
+      "source": "Investing.com 한국어",
+      "score": 2
+    },
+    {
+      "title": "기관만 웃고 개미는 피눈물… 리플 랠리 잔치 끝, 대형 하락 신호 포착",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5rNXJhQUtOTGJEbzNJTXRSdnNNbzd1Q2tTdW03cXQ5dktjeDd5M0lLeDJOTHRqS1VBQ3RWWTN0Tjd2d0pDWEppLTBwU2JpdEV1bDFxMTlCcy1rWER3dTJQRzMwdHNDNTNBNDNWWlRuNVZ2bFXSAXdBVV95cUxPYnVZNElmZXpNYzNfVVFLZ29naEU1QzhGR2ZaUVRLT1daY1h5MUNiYjdTUkJsLUJxb3NuZWZvVWl6VEhXLW5DVzhQVXlFUlpVYXZvRHlYWS1hcVlXc1FkZ3VyTmV6YVowY0Z2UnNNV1dFYWpsd21Sbw?oc=5",
+      "date": "Sun, 09 Aug 2026 22:08:38 GMT",
+      "source": "핀포인트뉴스",
+      "score": 4
     }
   ]
 }
