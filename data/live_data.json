@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-12T14:16:10",
+  "generated_at": "2026-08-12T15:27:23",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.014,
-    "price_krw": 1436.01,
-    "price_change_24h": 0.58916,
-    "price_change_7d": -4.33143,
-    "price_change_30d": -5.03574,
-    "market_cap_usd": 63590468691,
+    "price_usd": 1.011,
+    "price_krw": 1431.62,
+    "price_change_24h": 0.80095,
+    "price_change_7d": -5.09719,
+    "price_change_30d": -6.15084,
+    "market_cap_usd": 63347706438,
     "market_cap_rank": 6,
-    "volume_24h": 1299153577,
+    "volume_24h": 1157710138,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 66.34,
-    "sentiment_votes_down": 33.66,
+    "sentiment_votes_up": 67.39,
+    "sentiment_votes_down": 32.61,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 32.64,
-    "recent_tps": 32.64,
-    "recent_tx_count": 2938,
+    "tps_24h_avg": 32.19,
+    "recent_tps": 32.19,
+    "recent_tx_count": 2897,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106245393,
+    "ledger_seq": 106246492,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-12 14:15:52 KST",
+    "updated_at": "2026-08-12 15:27:15 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -47,6 +47,13 @@
     "data_source": "news_parse"
   },
   "etf_news": [
+    {
+      "title": "XRP ETF 계속 자금 유입…가격 40% 하락 왜?",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hdnZwV203dVNkN0ExZnlZVlJaVHN2YzFFa0lGQ240NHJIbFY5RVNDSVphTTlzZUlHUVRpcExRYkNqTngyQ2pHRjV2SV8zR3F6VU82c09oMU5waGQ2a2U3V2tCYXJJMFd0YmtN?oc=5",
+      "date": "Wed, 12 Aug 2026 13:47:08 GMT",
+      "source": "BeInCrypto",
+      "score": 0
+    },
     {
       "title": "ETF 유입액 93% 급감! 기관마저 외면한 리플(XRP)의 충격적 현주소!",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5CS3hYZmNPcVFmU051a0JJbHdYU0RRZC1ONXliZ2t2NE5YZUdFMDFFblZwamN0dm1KMHpwMTZxaTNQNjRySlFvbmh3?oc=5",
@@ -81,13 +88,6 @@
       "date": "Mon, 10 Aug 2026 01:41:00 GMT",
       "source": "디지털투데이",
       "score": 0
-    },
-    {
-      "title": "XRP(리플), ETF 순유입에도 열기 급속 냉각...1달러 방어 비상",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB1RlFuYzhNUUVTcFZxUFluQWVPSTJtcXJhVndjRHRnV2QzSGJOTU9XdGtFWGw4bmZYbElSQXMwUm4tTlFOclJUdTBB?oc=5",
-      "date": "Sun, 09 Aug 2026 22:20:00 GMT",
-      "source": "코인리더스",
-      "score": 0
     }
   ],
   "general_news": [
@@ -102,7 +102,7 @@
       "title": "리플X 책임자 \"X머니에 RLUSD 지원해 달라\"…XRP 탑재 가능성도 거론",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zYzBPMkNES19VTEVFVkJNWWFxNmVYUjB2R195R3J4UjJEcTNneTBOeldfamVHbGhtSnktQ3RZQ1dqQnBBZWk4TlhPY0hpbDVxVzBv?oc=5",
       "date": "Wed, 12 Aug 2026 01:17:00 GMT",
-      "source": "news.nate.com",
+      "source": "네이트",
       "score": 3
     },
     {
@@ -110,6 +110,13 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE02eG15Ulp5M3dwbFIyMUJ5Y0JNWVFZck1iUUpPRWVrNWZHWnJwSVpSWGtzUjhpN1VfUWc3V2xSZUxLdUtyS2o1anhNMVNHLUYwTW5hd2lQTThKdkZNeFpLeW9LR3pMOTdyMExTemtDNzVxZU0?oc=5",
       "date": "Tue, 11 Aug 2026 23:47:36 GMT",
       "source": "디지털투데이",
+      "score": 2
+    },
+    {
+      "title": "리플 1달러 붕괴 위기 속 선물 자금 조달 비율 211% 폭등",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQjNYSUVDS0F4Y21PeTJGMmgtLUlod1NNbDBZeF9DdFEzYmQ0Y0VIN0FXX0xycFhHZmItOWE5a1p0Z3A3ZWV4MEFhZE9nSGdmSjNOWnF6b0VyazBvZDI0clp2ejJ4bWc1UjMyQ0dXMldubEszbUVaNXhtZlNVN3lMZmtXRXcyT3B0?oc=5",
+      "date": "Tue, 11 Aug 2026 23:13:00 GMT",
+      "source": "글로벌이코노믹",
       "score": 2
     },
     {
@@ -153,13 +160,6 @@
       "date": "Tue, 11 Aug 2026 04:50:00 GMT",
       "source": "디지털투데이",
       "score": 2
-    },
-    {
-      "title": "80억 달러 장담했던 리플(XRP) 현물 ETF... 10개월 차 실제 성적표는 '15억 달러'",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4tUEJLWXd2NWJMSVhyWWZEcDBkcGxQTEpCUXJHVnVZY2FSMm1Rb3A5aFFpMVB4REozb1hLMmhtcHY5SzVjeTZ5RVZR?oc=5",
-      "date": "Mon, 10 Aug 2026 22:27:00 GMT",
-      "source": "코인리더스",
-      "score": 4
     }
   ]
 }
