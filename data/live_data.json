@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-12T12:49:51",
+  "generated_at": "2026-08-12T14:16:10",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.017,
-    "price_krw": 1439.65,
-    "price_change_24h": 1.09908,
-    "price_change_7d": -4.09506,
-    "price_change_30d": -5.55507,
-    "market_cap_usd": 63739783539,
+    "price_usd": 1.014,
+    "price_krw": 1436.01,
+    "price_change_24h": 0.58916,
+    "price_change_7d": -4.33143,
+    "price_change_30d": -5.03574,
+    "market_cap_usd": 63590468691,
     "market_cap_rank": 6,
-    "volume_24h": 1291944705,
+    "volume_24h": 1299153577,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 67.92,
-    "sentiment_votes_down": 32.08,
+    "sentiment_votes_up": 66.34,
+    "sentiment_votes_down": 33.66,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 39.14,
-    "recent_tps": 39.14,
-    "recent_tx_count": 3523,
+    "tps_24h_avg": 32.64,
+    "recent_tps": 32.64,
+    "recent_tx_count": 2938,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106244064,
+    "ledger_seq": 106245393,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-12 12:49:45 KST",
+    "updated_at": "2026-08-12 14:15:52 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,10 +92,17 @@
   ],
   "general_news": [
     {
+      "title": "리플(XRP) 1달러 지킬까…바이낸스 보유량 증가에 매도 우려",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBvOUlTbE5qbFctZUs2SDA3Y0cyQ0J3cnBYamZaVEZMeEtUTFFaODR2M1JiWnd1eHpMZ2Q4MWJzTEJTOEhMOGZzdDVR?oc=5",
+      "date": "Wed, 12 Aug 2026 13:07:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
       "title": "리플X 책임자 \"X머니에 RLUSD 지원해 달라\"…XRP 탑재 가능성도 거론",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zYzBPMkNES19VTEVFVkJNWWFxNmVYUjB2R195R3J4UjJEcTNneTBOeldfamVHbGhtSnktQ3RZQ1dqQnBBZWk4TlhPY0hpbDVxVzBv?oc=5",
       "date": "Wed, 12 Aug 2026 01:17:00 GMT",
-      "source": "네이트",
+      "source": "news.nate.com",
       "score": 3
     },
     {
@@ -106,17 +113,10 @@
       "score": 2
     },
     {
-      "title": "리플 1달러 붕괴 위기 속 선물 자금 조달 비율 211% 폭등",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQjNYSUVDS0F4Y21PeTJGMmgtLUlod1NNbDBZeF9DdFEzYmQ0Y0VIN0FXX0xycFhHZmItOWE5a1p0Z3A3ZWV4MEFhZE9nSGdmSjNOWnF6b0VyazBvZDI0clp2ejJ4bWc1UjMyQ0dXMldubEszbUVaNXhtZlNVN3lMZmtXRXcyT3B0?oc=5",
-      "date": "Tue, 11 Aug 2026 23:13:00 GMT",
-      "source": "g-enews.com",
-      "score": 2
-    },
-    {
       "title": "일본, XRP 생태계 핵심 허브로 부상…금융 인프라 결합 가속도",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUkhiekVYbi1YajlHY0l3QkFEV1RnMDIwQVpWRDJ2MlM0bWJUbXpHUDFYQk1PWkU3QjI3MzJLLTdLdGlLUnE5aWxVOVRseE9UQkhXZllYOVljaDdxUXFMeGdaSHFpMVRnZDhUWjFvU0FlMHVzcXZSNjM4SVV0VVMxMlBnYnBCcDNR?oc=5",
       "date": "Tue, 11 Aug 2026 22:03:00 GMT",
-      "source": "g-enews.com",
+      "source": "글로벌이코노믹",
       "score": 2
     },
     {
