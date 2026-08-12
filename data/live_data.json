@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-12T20:35:04",
+  "generated_at": "2026-08-12T21:37:02",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.009,
-    "price_krw": 1430.65,
-    "price_change_24h": -0.81914,
-    "price_change_7d": -5.58125,
-    "price_change_30d": -5.4509,
-    "market_cap_usd": 63220740657,
+    "price_usd": 1.005,
+    "price_krw": 1423.51,
+    "price_change_24h": -1.30194,
+    "price_change_7d": -5.86319,
+    "price_change_30d": -5.36641,
+    "market_cap_usd": 62958074504,
     "market_cap_rank": 6,
-    "volume_24h": 934308634,
+    "volume_24h": 929133216,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 61.39,
-    "sentiment_votes_down": 38.61,
+    "sentiment_votes_up": 62.89,
+    "sentiment_votes_down": 37.11,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 31.94,
-    "recent_tps": 31.94,
-    "recent_tx_count": 2875,
+    "tps_24h_avg": 28.13,
+    "recent_tps": 28.13,
+    "recent_tx_count": 2307,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 106251233,
+    "recent_window_sec": 82,
+    "ledger_seq": 106252190,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-12 20:34:50 KST",
+    "updated_at": "2026-08-12 21:36:48 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -64,8 +64,8 @@
     {
       "title": "캐나다 국립은행, XRP ETF·비트코인 펀드 소액 보유 사실 첫 공개",
       "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxPUXRpV2NURDY3SzNZVmNkTnZRU0JSTjRqNnA1NHZRTl9wRWZYSTd5dkVlWEt0UlpoM2lxU19EckY1eHJwNjdGclBjZUU4bndxcTJWMjhkZkREYjRWc1RXaEVGUFV3NFhhc0hOb2xKTVZ3OERPakFUb2d6NXZNUHI0RldUc21PSWF0WWxJMlJicVIxQW4tVkpCaFUtdDBGelpVY3lxWWE3NV9lWnljS2Q3NVVWYlpHbERpN2xzS1ZNM3ZkRkhIOGdXRE9nMFNqZUlhQVFLUHFpanplS0tBT1ZGeDk1amxzMEw5WVV5LUpwcjNTWDRNVDQtbldkRUlXaExyTHptbkVKQ1dmS1JYZ3JFc2ZjZUgyejdoU004YlFoem1TVTVCZm01SlFUUXJwUHgtdmhYM0J4ZHJJSHVEZU5JRGJLekxqVHlvOG9VeDRQOUI0OTF5Y0hLeU9hdWFGQ2gxYlJFTUNpQWxGYk9ZX3BhR2FUOWVvM2IwSUE?oc=5",
-      "date": "Tue, 11 Aug 2026 12:09:51 GMT",
-      "source": "Yellow.com",
+      "date": "Tue, 11 Aug 2026 02:21:00 GMT",
+      "source": "yellow.com",
       "score": 0
     },
     {
@@ -109,7 +109,7 @@
       "title": "리플X 책임자 \"X머니에 RLUSD 지원해 달라\"…XRP 탑재 가능성도 거론",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zYzBPMkNES19VTEVFVkJNWWFxNmVYUjB2R195R3J4UjJEcTNneTBOeldfamVHbGhtSnktQ3RZQ1dqQnBBZWk4TlhPY0hpbDVxVzBv?oc=5",
       "date": "Wed, 12 Aug 2026 01:17:00 GMT",
-      "source": "네이트",
+      "source": "news.nate.com",
       "score": 3
     },
     {
@@ -141,13 +141,6 @@
       "score": 8
     },
     {
-      "title": "캐나다 국립은행, XRP ETF·비트코인 펀드 소액 보유 사실 첫 공개",
-      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxPUXRpV2NURDY3SzNZVmNkTnZRU0JSTjRqNnA1NHZRTl9wRWZYSTd5dkVlWEt0UlpoM2lxU19EckY1eHJwNjdGclBjZUU4bndxcTJWMjhkZkREYjRWc1RXaEVGUFV3NFhhc0hOb2xKTVZ3OERPakFUb2d6NXZNUHI0RldUc21PSWF0WWxJMlJicVIxQW4tVkpCaFUtdDBGelpVY3lxWWE3NV9lWnljS2Q3NVVWYlpHbERpN2xzS1ZNM3ZkRkhIOGdXRE9nMFNqZUlhQVFLUHFpanplS0tBT1ZGeDk1amxzMEw5WVV5LUpwcjNTWDRNVDQtbldkRUlXaExyTHptbkVKQ1dmS1JYZ3JFc2ZjZUgyejdoU004YlFoem1TVTVCZm01SlFUUXJwUHgtdmhYM0J4ZHJJSHVEZU5JRGJLekxqVHlvOG9VeDRQOUI0OTF5Y0hLeU9hdWFGQ2gxYlJFTUNpQWxGYk9ZX3BhR2FUOWVvM2IwSUE?oc=5",
-      "date": "Tue, 11 Aug 2026 12:09:51 GMT",
-      "source": "Yellow.com",
-      "score": 3
-    },
-    {
       "title": "20개월 만에 최저치 찍은 암호화폐(코인) 리플, 곧 1달러 밑으로 폭락할까",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01aS1BVzBtX0xhYzQ4RmJDMmhrVzBDRTQ5cTV2UHZLY1Awc0VPRy10eXgyWWVnME43RVM3c0JBVWtrWDRrYzNIemFjUHBKcnppMGFHT3d3?oc=5",
       "date": "Tue, 11 Aug 2026 06:30:00 GMT",
@@ -160,6 +153,13 @@
       "date": "Tue, 11 Aug 2026 04:50:00 GMT",
       "source": "디지털투데이",
       "score": 2
+    },
+    {
+      "title": "캐나다 국립은행, XRP ETF·비트코인 펀드 소액 보유 사실 첫 공개",
+      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxPUXRpV2NURDY3SzNZVmNkTnZRU0JSTjRqNnA1NHZRTl9wRWZYSTd5dkVlWEt0UlpoM2lxU19EckY1eHJwNjdGclBjZUU4bndxcTJWMjhkZkREYjRWc1RXaEVGUFV3NFhhc0hOb2xKTVZ3OERPakFUb2d6NXZNUHI0RldUc21PSWF0WWxJMlJicVIxQW4tVkpCaFUtdDBGelpVY3lxWWE3NV9lWnljS2Q3NVVWYlpHbERpN2xzS1ZNM3ZkRkhIOGdXRE9nMFNqZUlhQVFLUHFpanplS0tBT1ZGeDk1amxzMEw5WVV5LUpwcjNTWDRNVDQtbldkRUlXaExyTHptbkVKQ1dmS1JYZ3JFc2ZjZUgyejdoU004YlFoem1TVTVCZm01SlFUUXJwUHgtdmhYM0J4ZHJJSHVEZU5JRGJLekxqVHlvOG9VeDRQOUI0OTF5Y0hLeU9hdWFGQ2gxYlJFTUNpQWxGYk9ZX3BhR2FUOWVvM2IwSUE?oc=5",
+      "date": "Tue, 11 Aug 2026 02:21:00 GMT",
+      "source": "yellow.com",
+      "score": 3
     }
   ]
 }
