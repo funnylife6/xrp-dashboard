@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-12T21:37:02",
+  "generated_at": "2026-08-12T22:32:19",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.005,
-    "price_krw": 1423.51,
-    "price_change_24h": -1.30194,
-    "price_change_7d": -5.86319,
-    "price_change_30d": -5.36641,
-    "market_cap_usd": 62958074504,
+    "price_usd": 1.007,
+    "price_krw": 1426.32,
+    "price_change_24h": -1.3021,
+    "price_change_7d": -5.29736,
+    "price_change_30d": -4.93185,
+    "market_cap_usd": 63092562635,
     "market_cap_rank": 6,
-    "volume_24h": 929133216,
+    "volume_24h": 906795768,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 62.89,
-    "sentiment_votes_down": 37.11,
+    "sentiment_votes_up": 62.14,
+    "sentiment_votes_down": 37.86,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 28.13,
-    "recent_tps": 28.13,
-    "recent_tx_count": 2307,
+    "tps_24h_avg": 31.85,
+    "recent_tps": 31.85,
+    "recent_tx_count": 2612,
     "recent_ledger_count": 24,
     "recent_window_sec": 82,
-    "ledger_seq": 106252190,
+    "ledger_seq": 106253048,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-12 21:36:48 KST",
+    "updated_at": "2026-08-12 22:32:09 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -65,7 +65,7 @@
       "title": "캐나다 국립은행, XRP ETF·비트코인 펀드 소액 보유 사실 첫 공개",
       "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxPUXRpV2NURDY3SzNZVmNkTnZRU0JSTjRqNnA1NHZRTl9wRWZYSTd5dkVlWEt0UlpoM2lxU19EckY1eHJwNjdGclBjZUU4bndxcTJWMjhkZkREYjRWc1RXaEVGUFV3NFhhc0hOb2xKTVZ3OERPakFUb2d6NXZNUHI0RldUc21PSWF0WWxJMlJicVIxQW4tVkpCaFUtdDBGelpVY3lxWWE3NV9lWnljS2Q3NVVWYlpHbERpN2xzS1ZNM3ZkRkhIOGdXRE9nMFNqZUlhQVFLUHFpanplS0tBT1ZGeDk1amxzMEw5WVV5LUpwcjNTWDRNVDQtbldkRUlXaExyTHptbkVKQ1dmS1JYZ3JFc2ZjZUgyejdoU004YlFoem1TVTVCZm01SlFUUXJwUHgtdmhYM0J4ZHJJSHVEZU5JRGJLekxqVHlvOG9VeDRQOUI0OTF5Y0hLeU9hdWFGQ2gxYlJFTUNpQWxGYk9ZX3BhR2FUOWVvM2IwSUE?oc=5",
       "date": "Tue, 11 Aug 2026 02:21:00 GMT",
-      "source": "yellow.com",
+      "source": "Yellow.com",
       "score": 0
     },
     {
@@ -92,6 +92,20 @@
   ],
   "general_news": [
     {
+      "title": "클래러티법 9월 연기된 리플(XRP), 1달러선 무너지면 추가 폭락 나오나",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE92dmt6emN2MmRJbENnQ1VSeFZROVV6VEZTLTktQ01aWWk0eU9pejNkTldkdGNCb01aOFF3aDNyd2FmTmlBV3N1dndn?oc=5",
+      "date": "Wed, 12 Aug 2026 22:16:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
+      "title": "프롬·스토리지·리플XRP 엇갈려…CPI에도 거래 위축",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3ampVcWZEODJRSEhzc05vT1VNN3R4enVycFhfa0lKbU1KYmpMT1VlenlWMGtLN0RaaHNwejFxbUZEVlJ2Wnoza0wyV0prN3Q5R0xZaGFZa0lkdUo2WlZRUHJmUXlfUEFSVkpoN29jRVBQUQ?oc=5",
+      "date": "Wed, 12 Aug 2026 22:12:13 GMT",
+      "source": "topstarnews.net",
+      "score": 2
+    },
+    {
       "title": "\"거래는 사상 최대인데\"… 리플, 주가는 역주행",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUkZxSFRhSDQ1TjVEQ1Q0ekhxTUxLdzVtSVRLMUMzWDg2cHJRR1kzZG5abDcyRUczMEdzdUVTeXFMTjFHV0ZhTlEtZFp6RXA0RmVNaGpqZDFEQ1BWTVF2UmRieUdzOElQcVJKTWxpajlERC1ZbmpLVXIyUDZ0N21DSC0xMUNsMExR?oc=5",
       "date": "Wed, 12 Aug 2026 19:39:58 GMT",
@@ -99,17 +113,10 @@
       "score": 2
     },
     {
-      "title": "100만달러 넘긴 리플·뉴욕대 아부다비 연구 협력",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxeFk1cWRwUjdPdlQyRHNlSEpxRWMtNnN5dXRfTW9PVFVmaFpZZTA3U3lVSHdjRGJwUFNQejV5M01TbFhXS3ZTOGJsc0N3emJqSE9tV2FwQTV6TEZFcmNMMdIBZkFVX3lxTFBlUEQ2NWlLZmFwRHhFOFgtZEU2Z0E5aW0yUy1mSWxfZ0F5SVBJMHJFNEdMVFBMUDI3cmFEODVUVVFxdmwzcHpROU9aR1JtRnd0YkNzZnFheS1zLWdIREpoU3czS1ZvUQ?oc=5",
-      "date": "Wed, 12 Aug 2026 06:09:37 GMT",
-      "source": "tokenpost.kr",
-      "score": 2
-    },
-    {
       "title": "리플X 책임자 \"X머니에 RLUSD 지원해 달라\"…XRP 탑재 가능성도 거론",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zYzBPMkNES19VTEVFVkJNWWFxNmVYUjB2R195R3J4UjJEcTNneTBOeldfamVHbGhtSnktQ3RZQ1dqQnBBZWk4TlhPY0hpbDVxVzBv?oc=5",
       "date": "Wed, 12 Aug 2026 01:17:00 GMT",
-      "source": "news.nate.com",
+      "source": "네이트",
       "score": 3
     },
     {
@@ -120,10 +127,10 @@
       "score": 2
     },
     {
-      "title": "댑오에스 급락·캡 급등·리플XRP 보합…호르무즈 불확실성",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBBUUpjN3lSM2NLYTFkYXg5aFlFS3dPOG5CbHZHeG5TQlhSVUlfcFZsYnF2Uzl4YldvWFNZNzlmZ1ZaekJNUVFrLV9IdW5IOGoyNndhWnUtUGlsZC1ITHVXR0hGN0N3Z2R6SEh6Um9jWFFyZw?oc=5",
-      "date": "Tue, 11 Aug 2026 22:05:31 GMT",
-      "source": "톱스타뉴스",
+      "title": "일본, XRP 생태계 핵심 허브로 부상…금융 인프라 결합 가속도",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUkhiekVYbi1YajlHY0l3QkFEV1RnMDIwQVpWRDJ2MlM0bWJUbXpHUDFYQk1PWkU3QjI3MzJLLTdLdGlLUnE5aWxVOVRseE9UQkhXZllYOVljaDdxUXFMeGdaSHFpMVRnZDhUWjFvU0FlMHVzcXZSNjM4SVV0VVMxMlBnYnBCcDNR?oc=5",
+      "date": "Tue, 11 Aug 2026 22:03:00 GMT",
+      "source": "글로벌이코노믹",
       "score": 2
     },
     {
@@ -132,6 +139,13 @@
       "date": "Tue, 11 Aug 2026 22:01:00 GMT",
       "source": "코인리더스",
       "score": 4
+    },
+    {
+      "title": "속보 | 피델리티, ETH 현물 ETF에 스테이킹 도입…분기마다 현금 지급",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9EaDdxWjJnX05UMFJVQ3FlM1JrdUtjbDJWRlRwbWRPQ1BjX3FBLVVIWEZXSjNKOTREXzBnNGFpTDZEbDliNldfMzkxZE5fU28z?oc=5",
+      "date": "Tue, 11 Aug 2026 17:38:00 GMT",
+      "source": "CoinNess",
+      "score": 10
     },
     {
       "title": "속보 | XRP, 1 달러선 반납 - 코인니스",
@@ -146,20 +160,6 @@
       "date": "Tue, 11 Aug 2026 06:30:00 GMT",
       "source": "위키트리",
       "score": 2
-    },
-    {
-      "title": "RLUSD 등장에도 XRP 필요한 이유…전문가 \"쓰임새 자체가 다르다\"",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9rdXpEUUxUWEIxQ0NqU2VtS2t5eGdBNXQ1X2Z0NFlYVUNuZ2dxdkxBYlgxcjNsOFp5WFFoVXFEV3BVUXNRdl9kM2hxVUhldFB6REZvbjVqX0VRSFhTbmx5UzVDUzlYb2JHZWVuRXlRWXhLczg?oc=5",
-      "date": "Tue, 11 Aug 2026 04:50:00 GMT",
-      "source": "디지털투데이",
-      "score": 2
-    },
-    {
-      "title": "캐나다 국립은행, XRP ETF·비트코인 펀드 소액 보유 사실 첫 공개",
-      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxPUXRpV2NURDY3SzNZVmNkTnZRU0JSTjRqNnA1NHZRTl9wRWZYSTd5dkVlWEt0UlpoM2lxU19EckY1eHJwNjdGclBjZUU4bndxcTJWMjhkZkREYjRWc1RXaEVGUFV3NFhhc0hOb2xKTVZ3OERPakFUb2d6NXZNUHI0RldUc21PSWF0WWxJMlJicVIxQW4tVkpCaFUtdDBGelpVY3lxWWE3NV9lWnljS2Q3NVVWYlpHbERpN2xzS1ZNM3ZkRkhIOGdXRE9nMFNqZUlhQVFLUHFpanplS0tBT1ZGeDk1amxzMEw5WVV5LUpwcjNTWDRNVDQtbldkRUlXaExyTHptbkVKQ1dmS1JYZ3JFc2ZjZUgyejdoU004YlFoem1TVTVCZm01SlFUUXJwUHgtdmhYM0J4ZHJJSHVEZU5JRGJLekxqVHlvOG9VeDRQOUI0OTF5Y0hLeU9hdWFGQ2gxYlJFTUNpQWxGYk9ZX3BhR2FUOWVvM2IwSUE?oc=5",
-      "date": "Tue, 11 Aug 2026 02:21:00 GMT",
-      "source": "yellow.com",
-      "score": 3
     }
   ]
 }
