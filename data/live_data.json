@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-12T19:34:35",
+  "generated_at": "2026-08-12T20:35:04",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.007,
-    "price_krw": 1428.47,
-    "price_change_24h": -0.38776,
-    "price_change_7d": -5.66567,
-    "price_change_30d": -5.01364,
-    "market_cap_usd": 63128665493,
+    "price_usd": 1.009,
+    "price_krw": 1430.65,
+    "price_change_24h": -0.81914,
+    "price_change_7d": -5.58125,
+    "price_change_30d": -5.4509,
+    "market_cap_usd": 63220740657,
     "market_cap_rank": 6,
-    "volume_24h": 983774406,
+    "volume_24h": 934308634,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 62.86,
-    "sentiment_votes_down": 37.14,
+    "sentiment_votes_up": 61.39,
+    "sentiment_votes_down": 38.61,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 28.18,
-    "recent_tps": 28.18,
-    "recent_tx_count": 2762,
+    "tps_24h_avg": 31.94,
+    "recent_tps": 31.94,
+    "recent_tx_count": 2875,
     "recent_ledger_count": 24,
-    "recent_window_sec": 98,
-    "ledger_seq": 106250302,
+    "recent_window_sec": 90,
+    "ledger_seq": 106251233,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-12 19:34:28 KST",
+    "updated_at": "2026-08-12 20:34:50 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,6 +92,20 @@
   ],
   "general_news": [
     {
+      "title": "\"거래는 사상 최대인데\"… 리플, 주가는 역주행",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUkZxSFRhSDQ1TjVEQ1Q0ekhxTUxLdzVtSVRLMUMzWDg2cHJRR1kzZG5abDcyRUczMEdzdUVTeXFMTjFHV0ZhTlEtZFp6RXA0RmVNaGpqZDFEQ1BWTVF2UmRieUdzOElQcVJKTWxpajlERC1ZbmpLVXIyUDZ0N21DSC0xMUNsMExR?oc=5",
+      "date": "Wed, 12 Aug 2026 19:39:58 GMT",
+      "source": "글로벌이코노믹",
+      "score": 2
+    },
+    {
+      "title": "100만달러 넘긴 리플·뉴욕대 아부다비 연구 협력",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxeFk1cWRwUjdPdlQyRHNlSEpxRWMtNnN5dXRfTW9PVFVmaFpZZTA3U3lVSHdjRGJwUFNQejV5M01TbFhXS3ZTOGJsc0N3emJqSE9tV2FwQTV6TEZFcmNMMdIBZkFVX3lxTFBlUEQ2NWlLZmFwRHhFOFgtZEU2Z0E5aW0yUy1mSWxfZ0F5SVBJMHJFNEdMVFBMUDI3cmFEODVUVVFxdmwzcHpROU9aR1JtRnd0YkNzZnFheS1zLWdIREpoU3czS1ZvUQ?oc=5",
+      "date": "Wed, 12 Aug 2026 06:09:37 GMT",
+      "source": "tokenpost.kr",
+      "score": 2
+    },
+    {
       "title": "리플X 책임자 \"X머니에 RLUSD 지원해 달라\"…XRP 탑재 가능성도 거론",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zYzBPMkNES19VTEVFVkJNWWFxNmVYUjB2R195R3J4UjJEcTNneTBOeldfamVHbGhtSnktQ3RZQ1dqQnBBZWk4TlhPY0hpbDVxVzBv?oc=5",
       "date": "Wed, 12 Aug 2026 01:17:00 GMT",
@@ -103,13 +117,6 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE02eG15Ulp5M3dwbFIyMUJ5Y0JNWVFZck1iUUpPRWVrNWZHWnJwSVpSWGtzUjhpN1VfUWc3V2xSZUxLdUtyS2o1anhNMVNHLUYwTW5hd2lQTThKdkZNeFpLeW9LR3pMOTdyMExTemtDNzVxZU0?oc=5",
       "date": "Tue, 11 Aug 2026 23:47:36 GMT",
       "source": "디지털투데이",
-      "score": 2
-    },
-    {
-      "title": "리플 1달러 붕괴 위기 속 선물 자금 조달 비율 211% 폭등",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQjNYSUVDS0F4Y21PeTJGMmgtLUlod1NNbDBZeF9DdFEzYmQ0Y0VIN0FXX0xycFhHZmItOWE5a1p0Z3A3ZWV4MEFhZE9nSGdmSjNOWnF6b0VyazBvZDI0clp2ejJ4bWc1UjMyQ0dXMldubEszbUVaNXhtZlNVN3lMZmtXRXcyT3B0?oc=5",
-      "date": "Tue, 11 Aug 2026 23:13:00 GMT",
-      "source": "글로벌이코노믹",
       "score": 2
     },
     {
@@ -127,10 +134,10 @@
       "score": 4
     },
     {
-      "title": "속보 | XRP, 1 달러선 반납",
+      "title": "속보 | XRP, 1 달러선 반납 - 코인니스",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1mTnM4emswT2RrVTRkTzh6Y1JnbDUyalNvZ1NSQjBuM1RkdERSYkJmY2taSmktTEVBdUY0T1g3Z3FuS3M5OXZNOTV2WHRTTTBv?oc=5",
       "date": "Tue, 11 Aug 2026 15:12:05 GMT",
-      "source": "coinness.com",
+      "source": "CoinNess",
       "score": 8
     },
     {
@@ -153,13 +160,6 @@
       "date": "Tue, 11 Aug 2026 04:50:00 GMT",
       "source": "디지털투데이",
       "score": 2
-    },
-    {
-      "title": "80억 달러 장담했던 리플(XRP) 현물 ETF... 10개월 차 실제 성적표는 '15억 달러'",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4tUEJLWXd2NWJMSVhyWWZEcDBkcGxQTEpCUXJHVnVZY2FSMm1Rb3A5aFFpMVB4REozb1hLMmhtcHY5SzVjeTZ5RVZR?oc=5",
-      "date": "Mon, 10 Aug 2026 22:27:00 GMT",
-      "source": "코인리더스",
-      "score": 4
     }
   ]
 }
