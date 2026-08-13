@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-13T09:38:24",
+  "generated_at": "2026-08-13T10:55:24",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.011,
-    "price_krw": 1436.76,
-    "price_change_24h": -1.19281,
-    "price_change_7d": -4.15039,
-    "price_change_30d": -5.24286,
-    "market_cap_usd": 63351916691,
+    "price_usd": 1.007,
+    "price_krw": 1432.16,
+    "price_change_24h": -1.28558,
+    "price_change_7d": -3.4734,
+    "price_change_30d": -5.61268,
+    "market_cap_usd": 63140927198,
     "market_cap_rank": 6,
-    "volume_24h": 865678013,
+    "volume_24h": 860055762,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 56.48,
-    "sentiment_votes_down": 43.52,
+    "sentiment_votes_up": 55.86,
+    "sentiment_votes_down": 44.14,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 36.07,
-    "recent_tps": 36.07,
-    "recent_tx_count": 3246,
+    "tps_24h_avg": 27.7,
+    "recent_tps": 27.7,
+    "recent_tx_count": 2493,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106263325,
+    "ledger_seq": 106264513,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-13 09:38:16 KST",
+    "updated_at": "2026-08-13 10:55:09 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -79,7 +79,7 @@
       "title": "XRP 현물 ETF 순유입 복귀…비트와이즈·프랭클린에 345만달러",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9iVzZfS2tPUm03UGdxZW1WTXA0Y3pBLXFwWW5Ramx1dmltQWQwOUk4Z2RTMkZCRmlWcXN2M0V3Tk5ma1hqbk9VeWd3ZWpjYTZkbVlGekNuZ3VJc1hCalNWZUZ6TmdUWFVsWF9BYVlQVDBTWTA?oc=5",
       "date": "Mon, 10 Aug 2026 01:41:00 GMT",
-      "source": "디지털투데이",
+      "source": "digitaltoday.co.kr",
       "score": 0
     },
     {
@@ -91,6 +91,13 @@
     }
   ],
   "general_news": [
+    {
+      "title": "XRP 탈취 사건: 20만 2,000달러 증발 – 해킹도, 키 유출도 없었다",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBfbkJ1ejR6V1FnOVBJdjd4aE1JbFhacVQwRzlGYk5jb0Z6VzcwRHM5eTI0ZnFXZlhET0JzR1RrMGtvRHp5WmZub255dHZ4SnozQkVtaGIzZjJVX29td3kxOEI0M052SElMaGM0cVVDcU15RW8?oc=5",
+      "date": "Thu, 13 Aug 2026 08:28:00 GMT",
+      "source": "Investing.com 한국어",
+      "score": 2
+    },
     {
       "title": "XRP 약세 속 이상 신호…대형 지갑 2000개 돌파, 활성 주소 68% 급증",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nMlVmUTdodFVLcjB3dmhRZ0lXN0xLRjZDeDB2T0tkbmFna3RRZHRyN1gwSGZvbWJmS09CS3VNVE56OE8zRG9BUE1Hem5wQlpPejQ0R1lTejVYbWhyYTVUVF9vdHpSNFVETFhvakJaczI?oc=5",
@@ -106,18 +113,18 @@
       "score": 2
     },
     {
+      "title": "클래러티법 9월 연기된 리플(XRP), 1달러선 무너지면 추가 폭락 나오나",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE92dmt6emN2MmRJbENnQ1VSeFZROVV6VEZTLTktQ01aWWk0eU9pejNkTldkdGNCb01aOFF3aDNyd2FmTmlBV3N1dndn?oc=5",
+      "date": "Wed, 12 Aug 2026 22:16:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
       "title": "프롬·스토리지·리플XRP 엇갈려…CPI에도 거래 위축",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3ampVcWZEODJRSEhzc05vT1VNN3R4enVycFhfa0lKbU1KYmpMT1VlenlWMGtLN0RaaHNwejFxbUZEVlJ2Wnoza0wyV0prN3Q5R0xZaGFZa0lkdUo2WlZRUHJmUXlfUEFSVkpoN29jRVBQUQ?oc=5",
       "date": "Wed, 12 Aug 2026 22:12:13 GMT",
       "source": "톱스타뉴스",
       "score": 2
-    },
-    {
-      "title": "기관은 떠나고 고래는 샀다…리플(XRP) 1달러 사수에도 남은 ‘3가지 경고’",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5feWQwV2FNRnJfazJmNEx6M2NPXzRPdEhOa2lsLUtjTGhhekJiTXJfNWx0UnRDeFdBeGlpNjIxSWdoWUxCcUx3Mlh3?oc=5",
-      "date": "Wed, 12 Aug 2026 21:59:00 GMT",
-      "source": "코인리더스",
-      "score": 3
     },
     {
       "title": "\"거래는 사상 최대인데\"… 리플, 주가는 역주행",
@@ -130,21 +137,14 @@
       "title": "리플X 책임자 \"X머니에 RLUSD 지원해 달라\"…XRP 탑재 가능성도 거론",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1fbFU3N01JNzF3TDVtTXVEV2hhVkdHY0JPbkp6SFZFSDlDSTBEMHRqWmxadi10anBRcTRqY1RHU1VIc3BpSGNYUzVhTGF0eThkd1ZSdllReThVcUhsWDB4M2dGUGlDUEE3Q1NncUJ5eFQxRU0?oc=5",
       "date": "Wed, 12 Aug 2026 01:16:45 GMT",
-      "source": "디지털투데이",
+      "source": "digitaltoday.co.kr",
       "score": 3
-    },
-    {
-      "title": "속보 | 나스닥, 온체인 주식 토큰 설계 표준 담당 프로토콜 엔지니어 채용",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xV195a3R2S1BTRkxKeXRUTFBOMTczTlZnMHMyUTVTWlY1Q0pSRDFzWnVneE1qWXlWWVhaMFFKRWMwdHNSZlpFSnVneFB0dkE5?oc=5",
-      "date": "Tue, 11 Aug 2026 23:13:00 GMT",
-      "source": "CoinNess",
-      "score": 8
     },
     {
       "title": "비트코인, CPI 앞두고 관망세…알트코인은 XRP·BNB 중심 강세",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95ek9ObE92X2R4MURudUtDb19HZF9GLTNFU3lqQldBSHdRRnd0NW1ab3p4d2cybzlZME0zY0pfeFVXV1AzYTNfMzNSc3ZJQ2JKSDk2N29BOWxTb294XzUwbHE4U1d4NHdqQTBva1RmYUozYlU?oc=5",
       "date": "Tue, 11 Aug 2026 23:01:00 GMT",
-      "source": "디지털투데이",
+      "source": "digitaltoday.co.kr",
       "score": 2
     },
     {
