@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-13T10:55:24",
+  "generated_at": "2026-08-13T11:41:03",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.007,
-    "price_krw": 1432.16,
-    "price_change_24h": -1.28558,
-    "price_change_7d": -3.4734,
-    "price_change_30d": -5.61268,
-    "market_cap_usd": 63140927198,
+    "price_usd": 1.003,
+    "price_krw": 1425.21,
+    "price_change_24h": -1.63418,
+    "price_change_7d": -4.05639,
+    "price_change_30d": -6.23663,
+    "market_cap_usd": 62885960610,
     "market_cap_rank": 6,
-    "volume_24h": 860055762,
+    "volume_24h": 912373149,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 55.86,
-    "sentiment_votes_down": 44.14,
+    "sentiment_votes_up": 53.33,
+    "sentiment_votes_down": 46.67,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 27.7,
-    "recent_tps": 27.7,
-    "recent_tx_count": 2493,
+    "tps_24h_avg": 42.69,
+    "recent_tps": 42.69,
+    "recent_tx_count": 3842,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106264513,
+    "ledger_seq": 106265219,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-13 10:55:09 KST",
+    "updated_at": "2026-08-13 11:40:52 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -79,18 +79,25 @@
       "title": "XRP 현물 ETF 순유입 복귀…비트와이즈·프랭클린에 345만달러",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9iVzZfS2tPUm03UGdxZW1WTXA0Y3pBLXFwWW5Ramx1dmltQWQwOUk4Z2RTMkZCRmlWcXN2M0V3Tk5ma1hqbk9VeWd3ZWpjYTZkbVlGekNuZ3VJc1hCalNWZUZ6TmdUWFVsWF9BYVlQVDBTWTA?oc=5",
       "date": "Mon, 10 Aug 2026 01:41:00 GMT",
-      "source": "digitaltoday.co.kr",
+      "source": "디지털투데이",
       "score": 0
     },
     {
-      "title": "기관만 웃고 개미는 피눈물… 리플 랠리 잔치 끝, 대형 하락 신호 포착",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5rNXJhQUtOTGJEbzNJTXRSdnNNbzd1Q2tTdW03cXQ5dktjeDd5M0lLeDJOTHRqS1VBQ3RWWTN0Tjd2d0pDWEppLTBwU2JpdEV1bDFxMTlCcy1rWER3dTJQRzMwdHNDNTNBNDNWWlRuNVZ2bFXSAXdBVV95cUxPYnVZNElmZXpNYzNfVVFLZ29naEU1QzhGR2ZaUVRLT1daY1h5MUNiYjdTUkJsLUJxb3NuZWZvVWl6VEhXLW5DVzhQVXlFUlpVYXZvRHlYWS1hcVlXc1FkZ3VyTmV6YVowY0Z2UnNNV1dFYWpsd21Sbw?oc=5",
-      "date": "Sun, 09 Aug 2026 22:08:38 GMT",
-      "source": "핀포인트뉴스",
+      "title": "XRP(리플), ETF 순유입에도 열기 급속 냉각...1달러 방어 비상",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB1RlFuYzhNUUVTcFZxUFluQWVPSTJtcXJhVndjRHRnV2QzSGJOTU9XdGtFWGw4bmZYbElSQXMwUm4tTlFOclJUdTBB?oc=5",
+      "date": "Sun, 09 Aug 2026 22:20:00 GMT",
+      "source": "코인리더스",
       "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "JP모건 2분기 13F, 14일 리플 보유 판가름",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9xcXhQWjJpa2x4WDFiYnJTVk9TRjU3VXpGMFpLWi1lQkNDazNOZGpGSUp1R21yQnNNQzU0aFJDMHZ5cm1MOV9WenJHcHg1blhjOFg2MUFSNDJhNzcyNFpac9IBZkFVX3lxTFBWMXFGSXdiODFlQTZ2VlZ4bThTZHJqWlNnY1I5cnRPLWRXVmRMWTcyNlliMWotazg2d0JucmpiMWg1enhvaXVRUlFleHpHVlFLZ1d3SXpYUUc1VXp3am9PNHRRdEJwdw?oc=5",
+      "date": "Thu, 13 Aug 2026 11:32:04 GMT",
+      "source": "tokenpost.kr",
+      "score": 2
+    },
     {
       "title": "XRP 탈취 사건: 20만 2,000달러 증발 – 해킹도, 키 유출도 없었다",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBfbkJ1ejR6V1FnOVBJdjd4aE1JbFhacVQwRzlGYk5jb0Z6VzcwRHM5eTI0ZnFXZlhET0JzR1RrMGtvRHp5WmZub255dHZ4SnozQkVtaGIzZjJVX29td3kxOEI0M052SElMaGM0cVVDcU15RW8?oc=5",
@@ -137,29 +144,22 @@
       "title": "리플X 책임자 \"X머니에 RLUSD 지원해 달라\"…XRP 탑재 가능성도 거론",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1fbFU3N01JNzF3TDVtTXVEV2hhVkdHY0JPbkp6SFZFSDlDSTBEMHRqWmxadi10anBRcTRqY1RHU1VIc3BpSGNYUzVhTGF0eThkd1ZSdllReThVcUhsWDB4M2dGUGlDUEE3Q1NncUJ5eFQxRU0?oc=5",
       "date": "Wed, 12 Aug 2026 01:16:45 GMT",
-      "source": "digitaltoday.co.kr",
+      "source": "디지털투데이",
       "score": 3
     },
     {
       "title": "비트코인, CPI 앞두고 관망세…알트코인은 XRP·BNB 중심 강세",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95ek9ObE92X2R4MURudUtDb19HZF9GLTNFU3lqQldBSHdRRnd0NW1ab3p4d2cybzlZME0zY0pfeFVXV1AzYTNfMzNSc3ZJQ2JKSDk2N29BOWxTb294XzUwbHE4U1d4NHdqQTBva1RmYUozYlU?oc=5",
       "date": "Tue, 11 Aug 2026 23:01:00 GMT",
-      "source": "digitaltoday.co.kr",
+      "source": "디지털투데이",
       "score": 2
     },
     {
-      "title": "ETF 유입액 93% 급감! 기관마저 외면한 리플(XRP)의 충격적 현주소!",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5CS3hYZmNPcVFmU051a0JJbHdYU0RRZC1ONXliZ2t2NE5YZUdFMDFFblZwamN0dm1KMHpwMTZxaTNQNjRySlFvbmh3?oc=5",
-      "date": "Tue, 11 Aug 2026 22:01:00 GMT",
-      "source": "코인리더스",
-      "score": 4
-    },
-    {
-      "title": "속보 | 피델리티, ETH 현물 ETF에 스테이킹 도입…분기마다 현금 지급",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9EaDdxWjJnX05UMFJVQ3FlM1JrdUtjbDJWRlRwbWRPQ1BjX3FBLVVIWEZXSjNKOTREXzBnNGFpTDZEbDliNldfMzkxZE5fU28z?oc=5",
-      "date": "Tue, 11 Aug 2026 17:38:00 GMT",
+      "title": "속보 | XRP, 1 달러선 반납 - 코인니스",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1mTnM4emswT2RrVTRkTzh6Y1JnbDUyalNvZ1NSQjBuM1RkdERSYkJmY2taSmktTEVBdUY0T1g3Z3FuS3M5OXZNOTV2WHRTTTBv?oc=5",
+      "date": "Tue, 11 Aug 2026 15:12:05 GMT",
       "source": "CoinNess",
-      "score": 10
+      "score": 8
     }
   ]
 }
