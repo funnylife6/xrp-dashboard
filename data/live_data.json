@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-13T22:33:05",
+  "generated_at": "2026-08-13T23:33:02",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.011,
-    "price_krw": 1433.84,
-    "price_change_24h": 0.44003,
-    "price_change_7d": -2.34499,
-    "price_change_30d": -8.73284,
-    "market_cap_usd": 63353121788,
+    "price_usd": 1.007,
+    "price_krw": 1428.8,
+    "price_change_24h": 0.55532,
+    "price_change_7d": -2.75154,
+    "price_change_30d": -9.20767,
+    "market_cap_usd": 63141200842,
     "market_cap_rank": 6,
-    "volume_24h": 862848302,
+    "volume_24h": 840888798,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 62.64,
-    "sentiment_votes_down": 37.36,
+    "sentiment_votes_up": 61.11,
+    "sentiment_votes_down": 38.89,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 27.62,
-    "recent_tps": 27.62,
-    "recent_tx_count": 2486,
+    "tps_24h_avg": 32.9,
+    "recent_tps": 32.9,
+    "recent_tx_count": 2961,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106275267,
+    "ledger_seq": 106276195,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-13 22:32:53 KST",
+    "updated_at": "2026-08-13 23:32:55 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -48,16 +48,16 @@
   },
   "etf_news": [
     {
-      "title": "월간 자금 유입 79% 급감! 벼랑 끝에 선 리플(XRP) 현물 ETF 시장!",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1EbDQ0VzFEeTJMUlZWc1otSkowTENBTmpILW5aWE5RRG5NU2RKTnlTbW5hbUVQalpvdGpQQU80VDBUXzd3X3d4M2l3?oc=5",
-      "date": "Thu, 13 Aug 2026 22:05:00 GMT",
+      "title": "XRP(리플), 1달러 지지선 '턱걸이'...ETF 자금 유입 끊기고 매도세 주도",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8zMGl4RGpsRkpyTEpVajNvWXpNSm5BcWtRTUVYNkVEUmc4TmcyaUFqV0NxNnBEdWVzeElVWjhMbmJTSFA2Xy14b3Rn?oc=5",
+      "date": "Thu, 13 Aug 2026 23:20:00 GMT",
       "source": "코인리더스",
       "score": 0
     },
     {
-      "title": "리플(XRP) 1달러 지지선, 3억 개 공급 부담 견딜 수 있을까?",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9XbFBWY0xTXzNHY2MzTEdpalhqRmYyVGl2eEwtWXVwSkV4bmRGYnd4am9zWXlIYzVPWVU3TWJGWF81WnU4VU9lNWNn?oc=5",
-      "date": "Thu, 13 Aug 2026 21:55:00 GMT",
+      "title": "월간 자금 유입 79% 급감! 벼랑 끝에 선 리플(XRP) 현물 ETF 시장!",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1EbDQ0VzFEeTJMUlZWc1otSkowTENBTmpILW5aWE5RRG5NU2RKTnlTbW5hbUVQalpvdGpQQU80VDBUXzd3X3d4M2l3?oc=5",
+      "date": "Thu, 13 Aug 2026 22:05:00 GMT",
       "source": "코인리더스",
       "score": 0
     },
@@ -108,7 +108,7 @@
     {
       "title": "XRP, CLARITY 법안 미통과 후 $1 방어…CFTC 개입",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GTFNiZnNGbzdxMHNIbDNRbHE5TGFjSDZ2d0E5MkE2RjNaUTFiaE5DWU44WkpVODFvR0g3TTJaN0NuU1dJelhVeF9JczdpTVJ4VXU1Z04yRUtxb1dxQXZyM2dwZmJOUmp1X0pwSGlwZjc?oc=5",
-      "date": "Thu, 13 Aug 2026 20:43:55 GMT",
+      "date": "Thu, 13 Aug 2026 20:54:24 GMT",
       "source": "BeInCrypto",
       "score": 2
     },
@@ -123,7 +123,7 @@
       "title": "XRP 탈취 사건: 20만 2,000달러 증발 – 해킹도, 키 유출도 없었다",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBfbkJ1ejR6V1FnOVBJdjd4aE1JbFhacVQwRzlGYk5jb0Z6VzcwRHM5eTI0ZnFXZlhET0JzR1RrMGtvRHp5WmZub255dHZ4SnozQkVtaGIzZjJVX29td3kxOEI0M052SElMaGM0cVVDcU15RW8?oc=5",
       "date": "Thu, 13 Aug 2026 08:28:00 GMT",
-      "source": "kr.investing.com",
+      "source": "Investing.com 한국어",
       "score": 2
     },
     {
