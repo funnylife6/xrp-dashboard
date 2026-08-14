@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-14T21:17:44",
+  "generated_at": "2026-08-14T21:47:23",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 0.997838,
-    "price_krw": 1413.41,
-    "price_change_24h": -0.97389,
-    "price_change_7d": -2.66466,
-    "price_change_30d": -10.17929,
-    "market_cap_usd": 62541317829,
+    "price_usd": 0.997154,
+    "price_krw": 1412.44,
+    "price_change_24h": -0.96076,
+    "price_change_7d": -2.73137,
+    "price_change_30d": -10.24085,
+    "market_cap_usd": 62498823657,
     "market_cap_rank": 6,
-    "volume_24h": 858952198,
+    "volume_24h": 867240791,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 58.97,
-    "sentiment_votes_down": 41.03,
+    "sentiment_votes_up": 60.26,
+    "sentiment_votes_down": 39.74,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 21.74,
-    "recent_tps": 21.74,
-    "recent_tx_count": 1935,
+    "tps_24h_avg": 19.41,
+    "recent_tps": 19.41,
+    "recent_tx_count": 1747,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 106296462,
+    "recent_window_sec": 90,
+    "ledger_seq": 106296922,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-14 21:17:37 KST",
+    "updated_at": "2026-08-14 21:47:12 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 2250000,
     "total_net_inflow_usd": 2250000,
     "total_value_traded_usd": 2250000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/14 21:17",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/14 21:47",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -114,6 +114,13 @@
       "score": 3
     },
     {
+      "title": "리플 ETF 순자산 9억4225만달러로 낮아졌다",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DLUxkMkh4MFYyWTM2NkdjdTNYSkF0MHRyekJfNlhZTjdYQkxYYVdsQTJOWkFhd1BPTUxrblFmT2QzaEZzMmtmbGtVQnE5M3lkWnhELWliR3hoMlUzZGVxQ9IBZkFVX3lxTE1tNlZkcTJweGtyWnlJd0NNQzlEeTkxRS1jXzlMNmhIdENUdy1xd1pndVVwWHFYYlVabDlkeUZzLWFkQmtqZllmZUFVeFhTa0puRDUzWW5DaERIZDhRTU4xeERtOUh6Zw?oc=5",
+      "date": "Fri, 14 Aug 2026 12:51:51 GMT",
+      "source": "tokenpost.kr",
+      "score": 3
+    },
+    {
       "title": "모건스탠리, XRP ETF 3종 폭풍 매집...SPAC 지분도 확보",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5tRnJyMEwyaEVIX0tjVnltNm1VYkxQc09TS1pVZEdFMmhJY2N5YnZYakcwNU5tS044Q2lEdUN3ZGVnMDdIUXdrRnFB?oc=5",
       "date": "Fri, 14 Aug 2026 10:40:00 GMT",
@@ -153,13 +160,6 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wMTVEZGVGSERfZ1Z0TldCbkVvNEs2REZnYXp3TS1JWm9oZEdBOThOcnJMdW1zclVnbkZVZ1hJZVBlMGtTUElHam9nb0dCMTM5Yk9B?oc=5",
       "date": "Fri, 14 Aug 2026 01:55:00 GMT",
       "source": "네이트",
-      "score": 2
-    },
-    {
-      "title": "리플XRP·비트코인 보합·댑오에스 급락, 금리 인상 우려 완화에도 거래 위축",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBBbjhtX210WlNhUmF2RVhLN2lZTzhBaGViejg1N0ZQM2JNb19sZTMzYWo5QzN6YmNLVUVxMC05NUJwMlk0eHpTeWdxWE5BQkd6bC1LR1hyd0dqMlRxbThsSlh1Qmp6TFo2S1FTUnI4eGpIUQ?oc=5",
-      "date": "Thu, 13 Aug 2026 21:41:05 GMT",
-      "source": "톱스타뉴스",
       "score": 2
     }
   ]
