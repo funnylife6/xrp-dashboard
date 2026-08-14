@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-14T03:34:45",
+  "generated_at": "2026-08-14T05:26:13",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.011,
-    "price_krw": 1427.29,
-    "price_change_24h": 0.10388,
-    "price_change_7d": -1.73364,
-    "price_change_30d": -8.04426,
-    "market_cap_usd": 63335698379,
+    "price_usd": 1.008,
+    "price_krw": 1425.58,
+    "price_change_24h": -0.28307,
+    "price_change_7d": -1.33012,
+    "price_change_30d": -8.6171,
+    "market_cap_usd": 63161323968,
     "market_cap_rank": 6,
-    "volume_24h": 789718708,
+    "volume_24h": 754304068,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 64.71,
-    "sentiment_votes_down": 35.29,
+    "sentiment_votes_up": 62.65,
+    "sentiment_votes_down": 37.35,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 33.84,
-    "recent_tps": 33.84,
-    "recent_tx_count": 3046,
+    "tps_24h_avg": 19.62,
+    "recent_tps": 19.62,
+    "recent_tx_count": 1766,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106279930,
+    "ledger_seq": 106281660,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-14 03:34:37 KST",
+    "updated_at": "2026-08-14 05:26:03 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 2250000,
     "total_net_inflow_usd": 2250000,
     "total_value_traded_usd": 2250000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/14 03:34",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/14 05:26",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -59,7 +59,7 @@
       "title": "XRP 현물 ETF 보유량 10억개 눈앞…급락장에도 기관 수요 견조",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5VV3lIcUdlNGNVRU1zX2cwaXJSU3Q0aHktQkVOSnVqZzJvQ2tmNFZQRG1FVUFGU0ktMmkyb09wbXdPcUdLTVplSUJsVzlnV0lyNnNMbXJPQ1ZxOHhvQjZQblhvMXpLbkY1NTQ2OS1YZW9rYUE?oc=5",
       "date": "Fri, 14 Aug 2026 01:58:00 GMT",
-      "source": "digitaltoday.co.kr",
+      "source": "디지털투데이",
       "score": 0
     },
     {
@@ -96,7 +96,7 @@
       "title": "XRP 현물 ETF 보유량 10억개 눈앞…급락장에도 기관 수요 견조",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5VV3lIcUdlNGNVRU1zX2cwaXJSU3Q0aHktQkVOSnVqZzJvQ2tmNFZQRG1FVUFGU0ktMmkyb09wbXdPcUdLTVplSUJsVzlnV0lyNnNMbXJPQ1ZxOHhvQjZQblhvMXpLbkY1NTQ2OS1YZW9rYUE?oc=5",
       "date": "Fri, 14 Aug 2026 01:58:00 GMT",
-      "source": "digitaltoday.co.kr",
+      "source": "디지털투데이",
       "score": 4
     },
     {
@@ -142,13 +142,6 @@
       "score": 2
     },
     {
-      "title": "속보 | 오늘 $13억 상당 BTC 옵션 만기",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00Rk8tRS1wZU9HQ3VHdDhmTFRVNWRES1pjZ1FNaGN3RXN6ajdzbHhFR1Bic1ZrcnZMNWI0Sml6ZDVobXdqS3M1UHJ6a0xLV2lB?oc=5",
-      "date": "Thu, 13 Aug 2026 08:07:00 GMT",
-      "source": "CoinNess",
-      "score": 8
-    },
-    {
       "title": "XRP 약세 속 이상 신호…대형 지갑 2000개 돌파, 활성 주소 68% 급증",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nMlVmUTdodFVLcjB3dmhRZ0lXN0xLRjZDeDB2T0tkbmFna3RRZHRyN1gwSGZvbWJmS09CS3VNVE56OE8zRG9BUE1Hem5wQlpPejQ0R1lTejVYbWhyYTVUVF9vdHpSNFVETFhvakJaczI?oc=5",
       "date": "Thu, 13 Aug 2026 01:56:39 GMT",
@@ -161,6 +154,13 @@
       "date": "Thu, 13 Aug 2026 01:44:00 GMT",
       "source": "CoinNess",
       "score": 8
+    },
+    {
+      "title": "\"거래는 사상 최대인데\"… 리플, 주가는 역주행",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUkZxSFRhSDQ1TjVEQ1Q0ekhxTUxLdzVtSVRLMUMzWDg2cHJRR1kzZG5abDcyRUczMEdzdUVTeXFMTjFHV0ZhTlEtZFp6RXA0RmVNaGpqZDFEQ1BWTVF2UmRieUdzOElQcVJKTWxpajlERC1ZbmpLVXIyUDZ0N21DSC0xMUNsMExR?oc=5",
+      "date": "Wed, 12 Aug 2026 19:39:58 GMT",
+      "source": "글로벌이코노믹",
+      "score": 2
     }
   ]
 }
