@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-14T14:10:35",
+  "generated_at": "2026-08-14T15:13:22",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.002,
-    "price_krw": 1413.76,
-    "price_change_24h": -0.24578,
-    "price_change_7d": -3.15079,
-    "price_change_30d": -10.67315,
-    "market_cap_usd": 62776914944,
+    "price_usd": 1.001,
+    "price_krw": 1414.56,
+    "price_change_24h": -0.82994,
+    "price_change_7d": -2.42212,
+    "price_change_30d": -10.96023,
+    "market_cap_usd": 62752433606,
     "market_cap_rank": 6,
-    "volume_24h": 793524750,
+    "volume_24h": 790620967,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 64.56,
-    "sentiment_votes_down": 35.44,
+    "sentiment_votes_up": 64.2,
+    "sentiment_votes_down": 35.8,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 24.12,
-    "recent_tps": 24.12,
-    "recent_tx_count": 2147,
+    "tps_24h_avg": 24.54,
+    "recent_tps": 24.54,
+    "recent_tx_count": 2209,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 106289830,
+    "recent_window_sec": 90,
+    "ledger_seq": 106290806,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-14 14:10:21 KST",
+    "updated_at": "2026-08-14 15:13:10 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,11 +43,18 @@
     "aum_usd": 2250000,
     "total_net_inflow_usd": 2250000,
     "total_value_traded_usd": 2250000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/14 14:10",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/14 15:13",
     "data_source": "sosovalue",
     "partial": true
   },
   "etf_news": [
+    {
+      "title": "리플XRP, 1달러 탐색…규제 명확성·ETF·실사용이 다시 부른 세 가지 변수",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYTy1reDllMndKTkIxTGRHSHMteGVOSWN1YUFWMWhoYzU5Q1k5aXIwYnFtWWFybS1aT2h3VXp6MHBiRGE4c0kzN2gwMjRyTHJXdDVjT2dwTXBrOHhCVjhzUENyc21MWHRz?oc=5",
+      "date": "Fri, 14 Aug 2026 15:00:00 GMT",
+      "source": "CBC뉴스",
+      "score": 0
+    },
     {
       "title": "리플(XRP) 1달러 지켰다…ETF 자금·고래 매집이 반등 불씨 살릴까",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBySlhxVHNmQ3h0VUZmT0NzTVVvT0xRRXFfV2ROWkdRT0x2SFpwQUxPOEtrQjYxMmh1aGN1OHJUTTJOSlBLRWplS1VR?oc=5",
@@ -82,16 +89,16 @@
       "date": "Thu, 13 Aug 2026 22:05:00 GMT",
       "source": "코인리더스",
       "score": 0
-    },
-    {
-      "title": "캐나다 국립은행, XRP ETF·비트코인 펀드 소액 보유 사실 첫 공개",
-      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxPUXRpV2NURDY3SzNZVmNkTnZRU0JSTjRqNnA1NHZRTl9wRWZYSTd5dkVlWEt0UlpoM2lxU19EckY1eHJwNjdGclBjZUU4bndxcTJWMjhkZkREYjRWc1RXaEVGUFV3NFhhc0hOb2xKTVZ3OERPakFUb2d6NXZNUHI0RldUc21PSWF0WWxJMlJicVIxQW4tVkpCaFUtdDBGelpVY3lxWWE3NV9lWnljS2Q3NVVWYlpHbERpN2xzS1ZNM3ZkRkhIOGdXRE9nMFNqZUlhQVFLUHFpanplS0tBT1ZGeDk1amxzMEw5WVV5LUpwcjNTWDRNVDQtbldkRUlXaExyTHptbkVKQ1dmS1JYZ3JFc2ZjZUgyejdoU004YlFoem1TVTVCZm01SlFUUXJwUHgtdmhYM0J4ZHJJSHVEZU5JRGJLekxqVHlvOG9VeDRQOUI0OTF5Y0hLeU9hdWFGQ2gxYlJFTUNpQWxGYk9ZX3BhR2FUOWVvM2IwSUE?oc=5",
-      "date": "Tue, 11 Aug 2026 02:21:00 GMT",
-      "source": "Yellow.com",
-      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "리플XRP, 1달러 탐색…규제 명확성·ETF·실사용이 다시 부른 세 가지 변수",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYTy1reDllMndKTkIxTGRHSHMteGVOSWN1YUFWMWhoYzU5Q1k5aXIwYnFtWWFybS1aT2h3VXp6MHBiRGE4c0kzN2gwMjRyTHJXdDVjT2dwTXBrOHhCVjhzUENyc21MWHRz?oc=5",
+      "date": "Fri, 14 Aug 2026 15:00:00 GMT",
+      "source": "CBC뉴스",
+      "score": 3
+    },
     {
       "title": "리플(XRP) 1달러 지켰다…ETF 자금·고래 매집이 반등 불씨 살릴까",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBySlhxVHNmQ3h0VUZmT0NzTVVvT0xRRXFfV2ROWkdRT0x2SFpwQUxPOEtrQjYxMmh1aGN1OHJUTTJOSlBLRWplS1VR?oc=5",
@@ -154,13 +161,6 @@
       "date": "Thu, 13 Aug 2026 08:28:00 GMT",
       "source": "Investing.com 한국어",
       "score": 2
-    },
-    {
-      "title": "속보 | 블룸버그 \"비트코인, 녹아내리는 얼음 같아..매크로 악재 직면\"",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VckJvUE0wZkc5NHUxZXN1QWpldkJZQ2d3Q2dHYk5QSTVDOTN3N0xCbjR4UmMxdmZ0NUtjN0JVd0VqbklpaW5Mc1M4dEcweDI2?oc=5",
-      "date": "Thu, 13 Aug 2026 01:44:00 GMT",
-      "source": "CoinNess",
-      "score": 8
     }
   ]
 }
