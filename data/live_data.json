@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-14T11:38:07",
+  "generated_at": "2026-08-14T12:45:41",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.001,
-    "price_krw": 1413.42,
-    "price_change_24h": -0.15605,
-    "price_change_7d": -3.15128,
-    "price_change_30d": -9.5847,
-    "market_cap_usd": 62765193200,
+    "price_usd": 1.0,
+    "price_krw": 1410.48,
+    "price_change_24h": -0.49554,
+    "price_change_7d": -3.28418,
+    "price_change_30d": -9.71324,
+    "market_cap_usd": 62678773696,
     "market_cap_rank": 6,
-    "volume_24h": 771638088,
+    "volume_24h": 777385324,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 62.03,
-    "sentiment_votes_down": 37.97,
+    "sentiment_votes_up": 65.28,
+    "sentiment_votes_down": 34.72,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 18.4,
-    "recent_tps": 18.4,
-    "recent_tx_count": 1638,
+    "tps_24h_avg": 19.81,
+    "recent_tps": 19.81,
+    "recent_tx_count": 1783,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 106287461,
+    "recent_window_sec": 90,
+    "ledger_seq": 106288512,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-14 11:37:54 KST",
+    "updated_at": "2026-08-14 12:45:30 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 2250000,
     "total_net_inflow_usd": 2250000,
     "total_value_traded_usd": 2250000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/14 11:38",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/14 12:45",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -124,7 +124,7 @@
       "title": "리플 연관 지갑서 5000만XRP 이동…일부는 바이낸스로",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wMTVEZGVGSERfZ1Z0TldCbkVvNEs2REZnYXp3TS1JWm9oZEdBOThOcnJMdW1zclVnbkZVZ1hJZVBlMGtTUElHam9nb0dCMTM5Yk9B?oc=5",
       "date": "Fri, 14 Aug 2026 01:55:00 GMT",
-      "source": "네이트",
+      "source": "news.nate.com",
       "score": 2
     },
     {
@@ -149,18 +149,18 @@
       "score": 2
     },
     {
+      "title": "속보 | \"XRP, 추가 하락 시 $0.77까지 밀릴 가능성\"",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5xOGFWWldWVUhDSkFsMEtYQmRsNV9MRzh4dERFei04cFJFQWZMMi16OU5iLThnWjZ3cG9qRnpJOF9NRzVjLV9pOFJPTFhESEFL?oc=5",
+      "date": "Thu, 13 Aug 2026 08:05:49 GMT",
+      "source": "CoinNess",
+      "score": 8
+    },
+    {
       "title": "속보 | 블룸버그 \"비트코인, 녹아내리는 얼음 같아..매크로 악재 직면\"",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VckJvUE0wZkc5NHUxZXN1QWpldkJZQ2d3Q2dHYk5QSTVDOTN3N0xCbjR4UmMxdmZ0NUtjN0JVd0VqbklpaW5Mc1M4dEcweDI2?oc=5",
       "date": "Thu, 13 Aug 2026 01:44:00 GMT",
       "source": "CoinNess",
       "score": 8
-    },
-    {
-      "title": "기관은 떠나고 고래는 샀다…리플(XRP) 1달러 사수에도 남은 ‘3가지 경고’",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5feWQwV2FNRnJfazJmNEx6M2NPXzRPdEhOa2lsLUtjTGhhekJiTXJfNWx0UnRDeFdBeGlpNjIxSWdoWUxCcUx3Mlh3?oc=5",
-      "date": "Wed, 12 Aug 2026 21:59:00 GMT",
-      "source": "코인리더스",
-      "score": 3
     }
   ]
 }
