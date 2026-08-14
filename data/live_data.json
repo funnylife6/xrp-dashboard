@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-14T09:33:25",
+  "generated_at": "2026-08-14T10:51:06",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.003,
-    "price_krw": 1417.3,
-    "price_change_24h": -0.74588,
-    "price_change_7d": -2.79262,
-    "price_change_30d": -9.38714,
-    "market_cap_usd": 62892727873,
+    "price_usd": 1.002,
+    "price_krw": 1414.9,
+    "price_change_24h": -0.57595,
+    "price_change_7d": -3.18957,
+    "price_change_30d": -9.6019,
+    "market_cap_usd": 62777036409,
     "market_cap_rank": 6,
-    "volume_24h": 773118667,
+    "volume_24h": 775229895,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 60.53,
-    "sentiment_votes_down": 39.47,
+    "sentiment_votes_up": 61.33,
+    "sentiment_votes_down": 38.67,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 25.1,
-    "recent_tps": 25.1,
-    "recent_tx_count": 2259,
+    "tps_24h_avg": 14.02,
+    "recent_tps": 14.02,
+    "recent_tx_count": 1262,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106285523,
+    "ledger_seq": 106286732,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-14 09:33:14 KST",
+    "updated_at": "2026-08-14 10:50:55 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,11 +43,18 @@
     "aum_usd": 2250000,
     "total_net_inflow_usd": 2250000,
     "total_value_traded_usd": 2250000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/14 09:33",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/14 10:51",
     "data_source": "sosovalue",
     "partial": true
   },
   "etf_news": [
+    {
+      "title": "모건스탠리, XRP ETF 3종 폭풍 매집...SPAC 지분도 확보",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5tRnJyMEwyaEVIX0tjVnltNm1VYkxQc09TS1pVZEdFMmhJY2N5YnZYakcwNU5tS044Q2lEdUN3ZGVnMDdIUXdrRnFB?oc=5",
+      "date": "Fri, 14 Aug 2026 10:40:00 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
     {
       "title": "XRP 현물 ETF, 하루 225만달러 순유입…비트와이즈 주도",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBQVVlVVkotLXRvR3F4TWJhdUR0VU5fbGkwa0FaTmpQWGFoSUNPbE02bld2cEF0NVF2T1o1ekVqMzI2dmRwWWxORXQtUG5EdkxkRDBjck1uQkg?oc=5",
@@ -63,23 +70,9 @@
       "score": 0
     },
     {
-      "title": "XRP(리플), 1달러 지지선 '턱걸이'...ETF 자금 유입 끊기고 매도세 주도",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8zMGl4RGpsRkpyTEpVajNvWXpNSm5BcWtRTUVYNkVEUmc4TmcyaUFqV0NxNnBEdWVzeElVWjhMbmJTSFA2Xy14b3Rn?oc=5",
-      "date": "Thu, 13 Aug 2026 23:20:00 GMT",
-      "source": "코인리더스",
-      "score": 0
-    },
-    {
       "title": "월간 자금 유입 79% 급감! 벼랑 끝에 선 리플(XRP) 현물 ETF 시장!",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1EbDQ0VzFEeTJMUlZWc1otSkowTENBTmpILW5aWE5RRG5NU2RKTnlTbW5hbUVQalpvdGpQQU80VDBUXzd3X3d4M2l3?oc=5",
       "date": "Thu, 13 Aug 2026 22:05:00 GMT",
-      "source": "코인리더스",
-      "score": 0
-    },
-    {
-      "title": "9.9억 XRP, 잠금 상태...리플 말고 'ETF'가 물량 싹쓸이",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9sR2tPX1Q5VG83NkpGVkUzdGQ2a21icFhnQWwtVjBWd3ZZN2p6eGJTUmQ0VGNWZDByY3NaRTV0V01iWFNYbWhWU2ZR?oc=5",
-      "date": "Thu, 13 Aug 2026 19:20:00 GMT",
       "source": "코인리더스",
       "score": 0
     },
@@ -89,9 +82,23 @@
       "date": "Tue, 11 Aug 2026 02:21:00 GMT",
       "source": "Yellow.com",
       "score": 0
+    },
+    {
+      "title": "80억 달러 장담했던 리플(XRP) 현물 ETF... 10개월 차 실제 성적표는 '15억 달러'",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4tUEJLWXd2NWJMSVhyWWZEcDBkcGxQTEpCUXJHVnVZY2FSMm1Rb3A5aFFpMVB4REozb1hLMmhtcHY5SzVjeTZ5RVZR?oc=5",
+      "date": "Mon, 10 Aug 2026 22:27:00 GMT",
+      "source": "코인리더스",
+      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "모건스탠리, XRP ETF 3종 폭풍 매집...SPAC 지분도 확보",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5tRnJyMEwyaEVIX0tjVnltNm1VYkxQc09TS1pVZEdFMmhJY2N5YnZYakcwNU5tS044Q2lEdUN3ZGVnMDdIUXdrRnFB?oc=5",
+      "date": "Fri, 14 Aug 2026 10:40:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
     {
       "title": "121억대 편취 ‘FXRP 리플 사기’ 핵심 피의자, 추가 기소",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KeXEyVVJrTlVkTDdyLXdObDI4VjdPanBJVWdYQVE0aGc0WHd2d0tYMlNWSjJpb1I5STRlY2lPQmUzRUJxMVMwR3BkMU9FSDA?oc=5",
@@ -117,7 +124,7 @@
       "title": "리플 연관 지갑서 5000만XRP 이동…일부는 바이낸스로",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wMTVEZGVGSERfZ1Z0TldCbkVvNEs2REZnYXp3TS1JWm9oZEdBOThOcnJMdW1zclVnbkZVZ1hJZVBlMGtTUElHam9nb0dCMTM5Yk9B?oc=5",
       "date": "Fri, 14 Aug 2026 01:55:00 GMT",
-      "source": "news.nate.com",
+      "source": "네이트",
       "score": 2
     },
     {
@@ -133,13 +140,6 @@
       "date": "Thu, 13 Aug 2026 21:41:05 GMT",
       "source": "톱스타뉴스",
       "score": 2
-    },
-    {
-      "title": "9.9억 XRP, 잠금 상태...리플 말고 'ETF'가 물량 싹쓸이",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9sR2tPX1Q5VG83NkpGVkUzdGQ2a21icFhnQWwtVjBWd3ZZN2p6eGJTUmQ0VGNWZDByY3NaRTV0V01iWFNYbWhWU2ZR?oc=5",
-      "date": "Thu, 13 Aug 2026 19:20:00 GMT",
-      "source": "코인리더스",
-      "score": 3
     },
     {
       "title": "XRP 탈취 사건: 20만 2,000달러 증발 – 해킹도, 키 유출도 없었다",
