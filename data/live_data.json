@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-14T10:51:06",
+  "generated_at": "2026-08-14T11:38:07",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.002,
-    "price_krw": 1414.9,
-    "price_change_24h": -0.57595,
-    "price_change_7d": -3.18957,
-    "price_change_30d": -9.6019,
-    "market_cap_usd": 62777036409,
+    "price_usd": 1.001,
+    "price_krw": 1413.42,
+    "price_change_24h": -0.15605,
+    "price_change_7d": -3.15128,
+    "price_change_30d": -9.5847,
+    "market_cap_usd": 62765193200,
     "market_cap_rank": 6,
-    "volume_24h": 775229895,
+    "volume_24h": 771638088,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 61.33,
-    "sentiment_votes_down": 38.67,
+    "sentiment_votes_up": 62.03,
+    "sentiment_votes_down": 37.97,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 14.02,
-    "recent_tps": 14.02,
-    "recent_tx_count": 1262,
+    "tps_24h_avg": 18.4,
+    "recent_tps": 18.4,
+    "recent_tx_count": 1638,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 106286732,
+    "recent_window_sec": 89,
+    "ledger_seq": 106287461,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-14 10:50:55 KST",
+    "updated_at": "2026-08-14 11:37:54 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 2250000,
     "total_net_inflow_usd": 2250000,
     "total_value_traded_usd": 2250000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/14 10:51",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/14 11:38",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -156,11 +156,11 @@
       "score": 8
     },
     {
-      "title": "\"거래는 사상 최대인데\"… 리플, 주가는 역주행",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUkZxSFRhSDQ1TjVEQ1Q0ekhxTUxLdzVtSVRLMUMzWDg2cHJRR1kzZG5abDcyRUczMEdzdUVTeXFMTjFHV0ZhTlEtZFp6RXA0RmVNaGpqZDFEQ1BWTVF2UmRieUdzOElQcVJKTWxpajlERC1ZbmpLVXIyUDZ0N21DSC0xMUNsMExR?oc=5",
-      "date": "Wed, 12 Aug 2026 19:39:58 GMT",
-      "source": "글로벌이코노믹",
-      "score": 2
+      "title": "기관은 떠나고 고래는 샀다…리플(XRP) 1달러 사수에도 남은 ‘3가지 경고’",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5feWQwV2FNRnJfazJmNEx6M2NPXzRPdEhOa2lsLUtjTGhhekJiTXJfNWx0UnRDeFdBeGlpNjIxSWdoWUxCcUx3Mlh3?oc=5",
+      "date": "Wed, 12 Aug 2026 21:59:00 GMT",
+      "source": "코인리더스",
+      "score": 3
     }
   ]
 }
