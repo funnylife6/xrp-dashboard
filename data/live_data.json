@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-14T08:08:02",
+  "generated_at": "2026-08-14T09:33:25",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.004,
-    "price_krw": 1419.85,
-    "price_change_24h": -0.79113,
-    "price_change_7d": -2.2929,
-    "price_change_30d": -9.00945,
-    "market_cap_usd": 62924365833,
+    "price_usd": 1.003,
+    "price_krw": 1417.3,
+    "price_change_24h": -0.74588,
+    "price_change_7d": -2.79262,
+    "price_change_30d": -9.38714,
+    "market_cap_usd": 62892727873,
     "market_cap_rank": 6,
-    "volume_24h": 752775474,
+    "volume_24h": 773118667,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 60.0,
-    "sentiment_votes_down": 40.0,
+    "sentiment_votes_up": 60.53,
+    "sentiment_votes_down": 39.47,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 25.62,
-    "recent_tps": 25.62,
-    "recent_tx_count": 2306,
+    "tps_24h_avg": 25.1,
+    "recent_tps": 25.1,
+    "recent_tx_count": 2259,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106284196,
+    "ledger_seq": 106285523,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-14 08:07:55 KST",
+    "updated_at": "2026-08-14 09:33:14 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 2250000,
     "total_net_inflow_usd": 2250000,
     "total_value_traded_usd": 2250000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/14 08:08",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/14 09:33",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -93,6 +93,13 @@
   ],
   "general_news": [
     {
+      "title": "121억대 편취 ‘FXRP 리플 사기’ 핵심 피의자, 추가 기소",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KeXEyVVJrTlVkTDdyLXdObDI4VjdPanBJVWdYQVE0aGc0WHd2d0tYMlNWSjJpb1I5STRlY2lPQmUzRUJxMVMwR3BkMU9FSDA?oc=5",
+      "date": "Fri, 14 Aug 2026 09:20:51 GMT",
+      "source": "v.daum.net",
+      "score": 2
+    },
+    {
       "title": "암호화폐(코인) 리플, 결국 1달러로 밑으로 추락... 대체 무슨 일이 일어나고 있을까",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YWHAzNXYydHAyQ1NuMXVuek85WGctUEdJcDZQeGctY0picl9icjRpSWtMVUtCMi1vcExUb2dHT21vZkgxbGZVOXZBOTNqZXVxWUZaZk5R?oc=5",
       "date": "Fri, 14 Aug 2026 06:16:00 GMT",
@@ -110,7 +117,7 @@
       "title": "리플 연관 지갑서 5000만XRP 이동…일부는 바이낸스로",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wMTVEZGVGSERfZ1Z0TldCbkVvNEs2REZnYXp3TS1JWm9oZEdBOThOcnJMdW1zclVnbkZVZ1hJZVBlMGtTUElHam9nb0dCMTM5Yk9B?oc=5",
       "date": "Fri, 14 Aug 2026 01:55:00 GMT",
-      "source": "네이트",
+      "source": "news.nate.com",
       "score": 2
     },
     {
@@ -147,13 +154,6 @@
       "date": "Thu, 13 Aug 2026 01:44:00 GMT",
       "source": "CoinNess",
       "score": 8
-    },
-    {
-      "title": "기관은 떠나고 고래는 샀다…리플(XRP) 1달러 사수에도 남은 ‘3가지 경고’",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5feWQwV2FNRnJfazJmNEx6M2NPXzRPdEhOa2lsLUtjTGhhekJiTXJfNWx0UnRDeFdBeGlpNjIxSWdoWUxCcUx3Mlh3?oc=5",
-      "date": "Wed, 12 Aug 2026 21:59:00 GMT",
-      "source": "코인리더스",
-      "score": 3
     },
     {
       "title": "\"거래는 사상 최대인데\"… 리플, 주가는 역주행",
