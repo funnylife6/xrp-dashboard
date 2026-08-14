@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-14T15:13:22",
+  "generated_at": "2026-08-14T16:12:41",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.001,
-    "price_krw": 1414.56,
-    "price_change_24h": -0.82994,
-    "price_change_7d": -2.42212,
-    "price_change_30d": -10.96023,
-    "market_cap_usd": 62752433606,
+    "price_usd": 1.005,
+    "price_krw": 1421.67,
+    "price_change_24h": 0.27092,
+    "price_change_7d": -2.16193,
+    "price_change_30d": -10.73135,
+    "market_cap_usd": 62961820961,
     "market_cap_rank": 6,
-    "volume_24h": 790620967,
+    "volume_24h": 800049505,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 64.2,
-    "sentiment_votes_down": 35.8,
+    "sentiment_votes_up": 63.29,
+    "sentiment_votes_down": 36.71,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 24.54,
-    "recent_tps": 24.54,
-    "recent_tx_count": 2209,
+    "tps_24h_avg": 20.35,
+    "recent_tps": 20.35,
+    "recent_tx_count": 1811,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 106290806,
+    "recent_window_sec": 89,
+    "ledger_seq": 106291728,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-14 15:13:10 KST",
+    "updated_at": "2026-08-14 16:12:35 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,29 +43,29 @@
     "aum_usd": 2250000,
     "total_net_inflow_usd": 2250000,
     "total_value_traded_usd": 2250000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/14 15:13",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/14 16:12",
     "data_source": "sosovalue",
     "partial": true
   },
   "etf_news": [
     {
+      "title": "리플 연관 지갑서 5000만 XRP 이동, 100만은 바이낸스로…ETF 유입 93% 급감",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54cUpmbEgwTFkxdTlZRWw1X0N1YmF1LTlnOFVfRVJNLUtqelBYQU0yaUpvcUx2ZmQ1bmF1YkZMQ05uRkJ2ZURnbng3V25rTUx0WmtLZ1BR?oc=5",
+      "date": "Fri, 14 Aug 2026 15:01:00 GMT",
+      "source": "위키트리",
+      "score": 0
+    },
+    {
       "title": "리플XRP, 1달러 탐색…규제 명확성·ETF·실사용이 다시 부른 세 가지 변수",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYTy1reDllMndKTkIxTGRHSHMteGVOSWN1YUFWMWhoYzU5Q1k5aXIwYnFtWWFybS1aT2h3VXp6MHBiRGE4c0kzN2gwMjRyTHJXdDVjT2dwTXBrOHhCVjhzUENyc21MWHRz?oc=5",
       "date": "Fri, 14 Aug 2026 15:00:00 GMT",
-      "source": "CBC뉴스",
+      "source": "cbci.co.kr",
       "score": 0
     },
     {
       "title": "리플(XRP) 1달러 지켰다…ETF 자금·고래 매집이 반등 불씨 살릴까",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBySlhxVHNmQ3h0VUZmT0NzTVVvT0xRRXFfV2ROWkdRT0x2SFpwQUxPOEtrQjYxMmh1aGN1OHJUTTJOSlBLRWplS1VR?oc=5",
       "date": "Fri, 14 Aug 2026 13:00:00 GMT",
-      "source": "코인리더스",
-      "score": 0
-    },
-    {
-      "title": "모건스탠리, XRP ETF 3종 폭풍 매집...SPAC 지분도 확보",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5tRnJyMEwyaEVIX0tjVnltNm1VYkxQc09TS1pVZEdFMmhJY2N5YnZYakcwNU5tS044Q2lEdUN3ZGVnMDdIUXdrRnFB?oc=5",
-      "date": "Fri, 14 Aug 2026 10:40:00 GMT",
       "source": "코인리더스",
       "score": 0
     },
@@ -93,10 +93,17 @@
   ],
   "general_news": [
     {
+      "title": "리플 연관 지갑서 5000만 XRP 이동, 100만은 바이낸스로…ETF 유입 93% 급감",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54cUpmbEgwTFkxdTlZRWw1X0N1YmF1LTlnOFVfRVJNLUtqelBYQU0yaUpvcUx2ZmQ1bmF1YkZMQ05uRkJ2ZURnbng3V25rTUx0WmtLZ1BR?oc=5",
+      "date": "Fri, 14 Aug 2026 15:01:00 GMT",
+      "source": "위키트리",
+      "score": 3
+    },
+    {
       "title": "리플XRP, 1달러 탐색…규제 명확성·ETF·실사용이 다시 부른 세 가지 변수",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYTy1reDllMndKTkIxTGRHSHMteGVOSWN1YUFWMWhoYzU5Q1k5aXIwYnFtWWFybS1aT2h3VXp6MHBiRGE4c0kzN2gwMjRyTHJXdDVjT2dwTXBrOHhCVjhzUENyc21MWHRz?oc=5",
       "date": "Fri, 14 Aug 2026 15:00:00 GMT",
-      "source": "CBC뉴스",
+      "source": "cbci.co.kr",
       "score": 3
     },
     {
@@ -131,7 +138,7 @@
       "title": "리플 연관 지갑서 5000만XRP 이동…일부는 바이낸스로",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wMTVEZGVGSERfZ1Z0TldCbkVvNEs2REZnYXp3TS1JWm9oZEdBOThOcnJMdW1zclVnbkZVZ1hJZVBlMGtTUElHam9nb0dCMTM5Yk9B?oc=5",
       "date": "Fri, 14 Aug 2026 01:55:00 GMT",
-      "source": "네이트",
+      "source": "news.nate.com",
       "score": 2
     },
     {
@@ -145,7 +152,7 @@
       "title": "리플XRP·비트코인 보합·댑오에스 급락, 금리 인상 우려 완화에도 거래 위축",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBBbjhtX210WlNhUmF2RVhLN2lZTzhBaGViejg1N0ZQM2JNb19sZTMzYWo5QzN6YmNLVUVxMC05NUJwMlk0eHpTeWdxWE5BQkd6bC1LR1hyd0dqMlRxbThsSlh1Qmp6TFo2S1FTUnI4eGpIUQ?oc=5",
       "date": "Thu, 13 Aug 2026 21:41:05 GMT",
-      "source": "톱스타뉴스",
+      "source": "topstarnews.net",
       "score": 2
     },
     {
@@ -154,13 +161,6 @@
       "date": "Thu, 13 Aug 2026 15:46:00 GMT",
       "source": "CoinNess",
       "score": 8
-    },
-    {
-      "title": "XRP 탈취 사건: 20만 2,000달러 증발 – 해킹도, 키 유출도 없었다",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBfbkJ1ejR6V1FnOVBJdjd4aE1JbFhacVQwRzlGYk5jb0Z6VzcwRHM5eTI0ZnFXZlhET0JzR1RrMGtvRHp5WmZub255dHZ4SnozQkVtaGIzZjJVX29td3kxOEI0M052SElMaGM0cVVDcU15RW8?oc=5",
-      "date": "Thu, 13 Aug 2026 08:28:00 GMT",
-      "source": "Investing.com 한국어",
-      "score": 2
     }
   ]
 }
