@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-15T21:13:42",
+  "generated_at": "2026-08-15T21:43:00",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.003,
-    "price_krw": 1420.59,
-    "price_change_24h": 0.54349,
-    "price_change_7d": -3.75759,
-    "price_change_30d": -8.57193,
-    "market_cap_usd": 62860136361,
+    "price_usd": 1.004,
+    "price_krw": 1422.35,
+    "price_change_24h": 0.64753,
+    "price_change_7d": -3.63849,
+    "price_change_30d": -8.45879,
+    "market_cap_usd": 62935462466,
     "market_cap_rank": 6,
-    "volume_24h": 567625293,
+    "volume_24h": 565343585,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 62.69,
-    "sentiment_votes_down": 37.31,
+    "sentiment_votes_up": 63.64,
+    "sentiment_votes_down": 36.36,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 17.69,
-    "recent_tps": 17.69,
-    "recent_tx_count": 1574,
+    "tps_24h_avg": 16.31,
+    "recent_tps": 16.31,
+    "recent_tx_count": 1468,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 106318836,
+    "recent_window_sec": 90,
+    "ledger_seq": 106319292,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-15 21:13:32 KST",
+    "updated_at": "2026-08-15 21:42:49 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,6 +92,20 @@
   ],
   "general_news": [
     {
+      "title": "모건스탠리, XRP ETF 3종 분산 투자…월가 기관 자금 유입 빨라지나",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWUdSNm1Lc1dhTnh4S0NBME9sWXFMYnhmMFNYQ1ppMmsxV3JPSlJTeWlsU056eVVVOVpNQ1NLclJabWlwRjctdjBON3V3cXBVaDdDSVlvOW92U0V4cldKazBUNTVubDlDN3lSdWR1TzFuRzVQR0RsZmhHUnZESjByX0p0MDRLZEV5?oc=5",
+      "date": "Sat, 15 Aug 2026 21:34:25 GMT",
+      "source": "글로벌이코노믹",
+      "score": 4
+    },
+    {
+      "title": "XRP 1달러선 근접, 52주 저점 부근 거래",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MOWpybzhOZFkzWE9ENnY2TVc5Nm5HOVVmaEVlSUFGd2xDWjdKT2ZwX0dSSDRXaUxweWUxV3FlRUdLeXJweEtUUE9zai1aTjV5c1BFSnN4VE5tdUJ1OHFvadIBZkFVX3lxTE9SVUNPcy0ya3hpQS1qRklFeXJIV2VPQ2szSWVxRWlhcDhhRVNTdHprOTVHNG1XWFdoLXFUeldqTDlERW5XVFd0M2FSc21HV1NZX2VIaGhlLUJrQUVISlBRUFNlX3pSdw?oc=5",
+      "date": "Sat, 15 Aug 2026 18:46:09 GMT",
+      "source": "tokenpost.kr",
+      "score": 2
+    },
+    {
       "title": "비트코인 vs XRP, 올 연말 엇갈리는 승부처…기관 수급과 규제 입법이 가른다",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa3dCdWhFTUhFRGh6UFpiMlJmOGNnRF9VSHZ5LU84X2tBS2NfaTVmRXRoY001Z3BlNi1LdHk5THJYN0dYeC1Pbm1KdjdiRkY1ZHdPOGsxWXZNMkJGRUpWWDluU2d6azJCVk92aTF2bmNvU2hkZXZUSDFydG5kWlFoSm5laTNsQ1Nl?oc=5",
       "date": "Sat, 15 Aug 2026 10:45:39 GMT",
@@ -111,13 +125,6 @@
       "date": "Fri, 14 Aug 2026 22:14:17 GMT",
       "source": "톱스타뉴스",
       "score": 3
-    },
-    {
-      "title": "엑스에이오 다오, XRP레저 거버넌스 개편 추진",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90OXlIbGxzTUg5UHZ2VXd5YmZCNWo0bkEtcjJDMXVaNlpyam9wdEZkT0FNUWtqcEJJdEJzS2ItLTlhM1Qyc1p1Z0FocG9faXdCNlhtM2Fodlg5VHPSAWBBVV95cUxOeTlnN3k5Z0djUGdBbnkyUzFCMkpfZFg4XzNzS1pkamYxTFgtWmtHUloxNGEtbndGN2szQ2RHR2FKRzY2aTBRY19iOHRBQ3RVNm5wbkF5RWc3aVVGLUFPUV8?oc=5",
-      "date": "Fri, 14 Aug 2026 21:48:08 GMT",
-      "source": "tokenpost.kr",
-      "score": 2
     },
     {
       "title": "캐나다 국립은행, XRP ETF·비트코인 펀드 소액 보유 사실 첫 공개",
@@ -145,13 +152,6 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVMV80Q1RyTHBwZ2QzUWx2REtZY3YyQ2ExekpVeGszNjV3RGdpcmVkLXp6X0FzWF9PekMxUWh0X2xwLUlYUFl0eWF0WElGZ3A1Q05kZ3hqeVpPRHc5ek9fTGxnZjNvMXZXUV9EQUFRMNIBc0FVX3lxTFA3eEd0N2JRNzlPUGRHZFMzRDdKM3RXdUd0a0g5NFQtVFMyUVMyZEllaDVXeVJFT090S1hjdGk2MjRzR2VtYkVLb0g0X0FhZU45eGstZGtsbzZRM01fb1lnSjE3d3phQ01mb3I0NXNTVXBpQzQ?oc=5",
       "date": "Fri, 14 Aug 2026 09:19:01 GMT",
       "source": "시사저널",
-      "score": 2
-    },
-    {
-      "title": "유력 검증인 \"XRP 레저 발행 토큰화 주식, 무작정 믿지 마라\"",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9sSkQ0aXVCbU1fVkFmQ0k5c0psdXhxS2tBN2dkWG8zYmFUaktXMjJWVU9vNEtnaWo5YUZPN1FwX0dpY0FhVGNBS1R3?oc=5",
-      "date": "Fri, 14 Aug 2026 07:30:00 GMT",
-      "source": "coinreaders.com",
       "score": 2
     },
     {
