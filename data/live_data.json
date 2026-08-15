@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-15T23:12:59",
+  "generated_at": "2026-08-15T23:41:58",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.003,
-    "price_krw": 1420.31,
-    "price_change_24h": 1.04066,
-    "price_change_7d": -3.38484,
-    "price_change_30d": -7.97709,
-    "market_cap_usd": 62855504741,
+    "price_usd": 1.001,
+    "price_krw": 1418.46,
+    "price_change_24h": 0.44987,
+    "price_change_7d": -3.51047,
+    "price_change_30d": -8.09675,
+    "market_cap_usd": 62759500513,
     "market_cap_rank": 6,
-    "volume_24h": 462533747,
+    "volume_24h": 461529899,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
@@ -22,16 +22,16 @@
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 38.48,
-    "recent_tps": 38.48,
-    "recent_tx_count": 3463,
+    "tps_24h_avg": 50.36,
+    "recent_tps": 50.36,
+    "recent_tx_count": 4532,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106320692,
+    "ledger_seq": 106321144,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-15 23:12:45 KST",
+    "updated_at": "2026-08-15 23:41:47 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -55,10 +55,17 @@
       "score": 0
     },
     {
+      "title": "[알트 현물 ETF] 관망 속 체인링크 단독 유입...XRP·SOL 등 9개 코인 보합",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE05RkN5SFB1R1h6QmNTY2FVRFd3cjVtM254Umd6bHdDWm5PQkM2dTdtQUNGTzBrbkxaZEZ5ZUI0Wkh6X3lIWUZma1ZIcF9EMm56Sm4xY3EyVTBkemVkT0NXUXp3bXFQd9IBZkFVX3lxTE05RkN5SFB1R1h6QmNTY2FVRFd3cjVtM254Umd6bHdDWm5PQkM2dTdtQUNGTzBrbkxaZEZ5ZUI0Wkh6X3lIWUZma1ZIcF9EMm56Sm4xY3EyVTBkemVkT0NXUXp3bXFQdw?oc=5",
+      "date": "Sat, 15 Aug 2026 03:30:45 GMT",
+      "source": "tokenpost.kr",
+      "score": 0
+    },
+    {
       "title": "리플(XRP) 현물 ETF의 역설…15억달러 유입에도 자산은 10억달러 아래",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4yYWM5Zm03SWZCc3doZEJlLWZWSDVfVG81U19RTHBGZThEejlUVzRYN0dKV1BHZWZhTDFpZjhxUTQtcl9BUC03TVdn?oc=5",
       "date": "Fri, 14 Aug 2026 22:56:00 GMT",
-      "source": "coinreaders.com",
+      "source": "코인리더스",
       "score": 0
     },
     {
@@ -81,16 +88,16 @@
       "date": "Fri, 14 Aug 2026 15:00:00 GMT",
       "source": "CBC뉴스",
       "score": 0
-    },
-    {
-      "title": "XRP 현물 ETF, 하루 225만달러 순유입…비트와이즈 주도",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBQVVlVVkotLXRvR3F4TWJhdUR0VU5fbGkwa0FaTmpQWGFoSUNPbE02bld2cEF0NVF2T1o1ekVqMzI2dmRwWWxORXQtUG5EdkxkRDBjck1uQkg?oc=5",
-      "date": "Fri, 14 Aug 2026 02:02:00 GMT",
-      "source": "블록미디어",
-      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "리플XRP 보합·카우프로토콜 급등·캡 하락…규제 지연에 혼조",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5yekstLUVmMlBQUzlLZmRGMlA4SUhBb0wxQjMtSzlwbjVKaXlaQ0szRG83QWdtb0ZpbVhhODFKcThNNnZlaDhucUFHalJxU2dBN2FvUzFZb3ZvelRveGpmeWswMmducE1XanZLQnNYZGJVdw?oc=5",
+      "date": "Sat, 15 Aug 2026 23:34:56 GMT",
+      "source": "톱스타뉴스",
+      "score": 2
+    },
     {
       "title": "모건스탠리, XRP ETF 3종 분산 투자…월가 기관 자금 유입 빨라지나",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWUdSNm1Lc1dhTnh4S0NBME9sWXFMYnhmMFNYQ1ppMmsxV3JPSlJTeWlsU056eVVVOVpNQ1NLclJabWlwRjctdjBON3V3cXBVaDdDSVlvOW92U0V4cldKazBUNTVubDlDN3lSdWR1TzFuRzVQR0RsZmhHUnZESjByX0p0MDRLZEV5?oc=5",
@@ -109,7 +116,7 @@
       "title": "리플(XRP) 현물 ETF의 역설…15억달러 유입에도 자산은 10억달러 아래",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4yYWM5Zm03SWZCc3doZEJlLWZWSDVfVG81U19RTHBGZThEejlUVzRYN0dKV1BHZWZhTDFpZjhxUTQtcl9BUC03TVdn?oc=5",
       "date": "Fri, 14 Aug 2026 22:56:00 GMT",
-      "source": "coinreaders.com",
+      "source": "코인리더스",
       "score": 4
     },
     {
@@ -153,13 +160,6 @@
       "date": "Fri, 14 Aug 2026 09:19:01 GMT",
       "source": "시사저널",
       "score": 2
-    },
-    {
-      "title": "속보 | 백악관 8/19 암호화폐 회의 준비... 리플·코베 등 참석",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9hYmdyaUtWRnlnNHdtWWdkbWFGZXBTMzdpX0NCS0wwU3QtTFJuM1hRWHpkenNCTTF1WjNxckxHUlBQMHduU2xyRkt4SWM3VnJ1?oc=5",
-      "date": "Fri, 14 Aug 2026 04:56:00 GMT",
-      "source": "CoinNess",
-      "score": 9
     }
   ]
 }
