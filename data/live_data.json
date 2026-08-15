@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-15T12:20:53",
+  "generated_at": "2026-08-15T13:06:08",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.002,
-    "price_krw": 1419.05,
-    "price_change_24h": 0.07866,
-    "price_change_7d": -3.3911,
-    "price_change_30d": -9.56567,
-    "market_cap_usd": 62784965961,
+    "price_usd": 1.001,
+    "price_krw": 1418.4,
+    "price_change_24h": 0.12614,
+    "price_change_7d": -3.85272,
+    "price_change_30d": -9.075,
+    "market_cap_usd": 62753973140,
     "market_cap_rank": 6,
-    "volume_24h": 884678598,
+    "volume_24h": 855533416,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 61.84,
-    "sentiment_votes_down": 38.16,
+    "sentiment_votes_up": 60.26,
+    "sentiment_votes_down": 39.74,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 26.42,
-    "recent_tps": 26.42,
-    "recent_tx_count": 2351,
+    "tps_24h_avg": 18.27,
+    "recent_tps": 18.27,
+    "recent_tx_count": 1644,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 106310532,
+    "recent_window_sec": 90,
+    "ledger_seq": 106311240,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-15 12:20:43 KST",
+    "updated_at": "2026-08-15 13:05:56 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -155,11 +155,11 @@
       "score": 2
     },
     {
-      "title": "속보 | 백악관 8/19 암호화폐 회의 준비... 리플·코베 등 참석",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9hYmdyaUtWRnlnNHdtWWdkbWFGZXBTMzdpX0NCS0wwU3QtTFJuM1hRWHpkenNCTTF1WjNxckxHUlBQMHduU2xyRkt4SWM3VnJ1?oc=5",
-      "date": "Fri, 14 Aug 2026 04:56:00 GMT",
-      "source": "CoinNess",
-      "score": 9
+      "title": "유력 검증인 \"XRP 레저 발행 토큰화 주식, 무작정 믿지 마라\"",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9sSkQ0aXVCbU1fVkFmQ0k5c0psdXhxS2tBN2dkWG8zYmFUaktXMjJWVU9vNEtnaWo5YUZPN1FwX0dpY0FhVGNBS1R3?oc=5",
+      "date": "Fri, 14 Aug 2026 07:30:00 GMT",
+      "source": "코인리더스",
+      "score": 2
     }
   ]
 }
