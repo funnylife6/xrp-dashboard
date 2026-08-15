@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-15T22:12:18",
+  "generated_at": "2026-08-15T22:44:46",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.004,
-    "price_krw": 1421.43,
-    "price_change_24h": 0.69774,
-    "price_change_7d": -3.73663,
-    "price_change_30d": -8.55696,
-    "market_cap_usd": 62896821808,
+    "price_krw": 1422.41,
+    "price_change_24h": 1.25561,
+    "price_change_7d": -3.67038,
+    "price_change_30d": -8.49403,
+    "market_cap_usd": 62939998480,
     "market_cap_rank": 6,
-    "volume_24h": 543997806,
+    "volume_24h": 478049132,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 66.67,
-    "sentiment_votes_down": 33.33,
+    "sentiment_votes_up": 66.13,
+    "sentiment_votes_down": 33.87,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 21.1,
-    "recent_tps": 21.1,
-    "recent_tx_count": 1730,
+    "tps_24h_avg": 16.84,
+    "recent_tps": 16.84,
+    "recent_tx_count": 1516,
     "recent_ledger_count": 24,
-    "recent_window_sec": 82,
-    "ledger_seq": 106319749,
+    "recent_window_sec": 90,
+    "ledger_seq": 106320255,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-15 22:12:09 KST",
+    "updated_at": "2026-08-15 22:44:40 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -86,7 +86,7 @@
       "title": "XRP 현물 ETF, 하루 225만달러 순유입…비트와이즈 주도",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBQVVlVVkotLXRvR3F4TWJhdUR0VU5fbGkwa0FaTmpQWGFoSUNPbE02bld2cEF0NVF2T1o1ekVqMzI2dmRwWWxORXQtUG5EdkxkRDBjck1uQkg?oc=5",
       "date": "Fri, 14 Aug 2026 02:02:00 GMT",
-      "source": "blockmedia.co.kr",
+      "source": "블록미디어",
       "score": 0
     }
   ],
@@ -97,6 +97,13 @@
       "date": "Sat, 15 Aug 2026 21:34:25 GMT",
       "source": "글로벌이코노믹",
       "score": 4
+    },
+    {
+      "title": "비트코인 vs XRP, 올 연말 엇갈리는 승부처…기관 수급과 규제 입법이 가른다",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa3dCdWhFTUhFRGh6UFpiMlJmOGNnRF9VSHZ5LU84X2tBS2NfaTVmRXRoY001Z3BlNi1LdHk5THJYN0dYeC1Pbm1KdjdiRkY1ZHdPOGsxWXZNMkJGRUpWWDluU2d6azJCVk92aTF2bmNvU2hkZXZUSDFydG5kWlFoSm5laTNsQ1Nl?oc=5",
+      "date": "Sat, 15 Aug 2026 10:45:39 GMT",
+      "source": "글로벌이코노믹",
+      "score": 3
     },
     {
       "title": "리플(XRP) 현물 ETF의 역설…15억달러 유입에도 자산은 10억달러 아래",
@@ -153,13 +160,6 @@
       "date": "Fri, 14 Aug 2026 07:30:00 GMT",
       "source": "코인리더스",
       "score": 2
-    },
-    {
-      "title": "속보 | 백악관 8/19 암호화폐 회의 준비... 리플·코베 등 참석",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9hYmdyaUtWRnlnNHdtWWdkbWFGZXBTMzdpX0NCS0wwU3QtTFJuM1hRWHpkenNCTTF1WjNxckxHUlBQMHduU2xyRkt4SWM3VnJ1?oc=5",
-      "date": "Fri, 14 Aug 2026 04:56:00 GMT",
-      "source": "CoinNess",
-      "score": 9
     }
   ]
 }
