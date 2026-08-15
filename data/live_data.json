@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-15T08:17:52",
+  "generated_at": "2026-08-15T08:52:12",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.002,
-    "price_krw": 1419.0,
-    "price_change_24h": -0.27302,
-    "price_change_7d": -3.15615,
-    "price_change_30d": -9.38115,
-    "market_cap_usd": 62769897764,
+    "price_usd": 1.001,
+    "price_krw": 1418.01,
+    "price_change_24h": -0.41257,
+    "price_change_7d": -3.21391,
+    "price_change_30d": -9.4352,
+    "market_cap_usd": 62749070716,
     "market_cap_rank": 6,
-    "volume_24h": 982229942,
+    "volume_24h": 972336728,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 59.46,
-    "sentiment_votes_down": 40.54,
+    "sentiment_votes_up": 60.53,
+    "sentiment_votes_down": 39.47,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 14.81,
-    "recent_tps": 14.81,
-    "recent_tx_count": 1333,
+    "tps_24h_avg": 20.57,
+    "recent_tps": 20.57,
+    "recent_tx_count": 1851,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106306744,
+    "ledger_seq": 106307280,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-15 08:17:41 KST",
+    "updated_at": "2026-08-15 08:52:06 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -47,6 +47,13 @@
     "data_source": "news_parse"
   },
   "etf_news": [
+    {
+      "title": "모건스탠리 ETF 편입에도… XRP, 일주일 새 10% 넘게 급락",
+      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOa2dvcjdvRjF5aGwwY2VLX2Z6YlY1VUF2NnJyMjNHME9DYmQzdkUwS2tRZjY2YkJ2a0xIUEs4dmlwVDVjMnhrV3g1SHFqRlFvRWpOdnJoQlV1a0hXZVJUWFlObHRlSWpuN1VDMzZkVVBrb002bWQzcXBEQXhJaGMxUEN6b19wZlYtU00xUER0NGJVMVFrX3NuMUlDTDlZSXZld29ZalF1c044UWgyRkx1eURqYnBuUDJrb29fNXdBd3c5LUlpU3ZSTkVGM2YxOTdSTWhMbkhERXhaSWFhQTVLSjFLaUh6OFpvc0NVaWhleDVlM1Rzb19IdFdleXhvLVhGVVJ1aTA4SUgxTFROYUJoNTF4WHp5RkZKemdXemx4a2UwUU1SanBvNHY3aWY3Zw?oc=5",
+      "date": "Sat, 15 Aug 2026 07:47:22 GMT",
+      "source": "Yellow.com",
+      "score": 0
+    },
     {
       "title": "리플(XRP) 현물 ETF의 역설…15억달러 유입에도 자산은 10억달러 아래",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4yYWM5Zm03SWZCc3doZEJlLWZWSDVfVG81U19RTHBGZThEejlUVzRYN0dKV1BHZWZhTDFpZjhxUTQtcl9BUC03TVdn?oc=5",
@@ -78,13 +85,6 @@
     {
       "title": "리플XRP, 1달러 탐색…규제 명확성·ETF·실사용이 다시 부른 세 가지 변수",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYTy1reDllMndKTkIxTGRHSHMteGVOSWN1YUFWMWhoYzU5Q1k5aXIwYnFtWWFybS1aT2h3VXp6MHBiRGE4c0kzN2gwMjRyTHJXdDVjT2dwTXBrOHhCVjhzUENyc21MWHRz?oc=5",
-      "date": "Fri, 14 Aug 2026 15:00:00 GMT",
-      "source": "CBC뉴스",
-      "score": 0
-    },
-    {
-      "title": "이더리움, 단순 코인 넘어 ‘블록체인 인프라’로…업그레이드·ETF 스테이킹이 가르는 다음 단계",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zUUpLZV9tRHpUTE83SW9GUG9ORGQwUkhoMFlJc1V5MW5VUVFDd3lmM296eS1WVGdxemlRVzQxVFVVZUl1NEtpanpaOGxQU1RCYndhRTlsS1RaVWk5STR0SmYzSlNOMHNi?oc=5",
       "date": "Fri, 14 Aug 2026 15:00:00 GMT",
       "source": "CBC뉴스",
       "score": 0
