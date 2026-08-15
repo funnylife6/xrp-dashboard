@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-15T07:50:30",
+  "generated_at": "2026-08-15T08:17:52",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.002,
-    "price_krw": 1420.05,
-    "price_change_24h": -0.10337,
-    "price_change_7d": -3.07184,
-    "price_change_30d": -9.99257,
-    "market_cap_usd": 62828842666,
+    "price_krw": 1419.0,
+    "price_change_24h": -0.27302,
+    "price_change_7d": -3.15615,
+    "price_change_30d": -9.38115,
+    "market_cap_usd": 62769897764,
     "market_cap_rank": 6,
-    "volume_24h": 984975252,
+    "volume_24h": 982229942,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
@@ -22,16 +22,16 @@
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 17.91,
-    "recent_tps": 17.91,
-    "recent_tx_count": 1612,
+    "tps_24h_avg": 14.81,
+    "recent_tps": 14.81,
+    "recent_tx_count": 1333,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106306316,
+    "ledger_seq": 106306744,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-15 07:50:21 KST",
+    "updated_at": "2026-08-15 08:17:41 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -148,18 +148,18 @@
       "score": 2
     },
     {
-      "title": "암호화폐(코인) 리플, 결국 1달러로 밑으로 추락... 대체 무슨 일이 일어나고 있을까",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YWHAzNXYydHAyQ1NuMXVuek85WGctUEdJcDZQeGctY0picl9icjRpSWtMVUtCMi1vcExUb2dHT21vZkgxbGZVOXZBOTNqZXVxWUZaZk5R?oc=5",
-      "date": "Fri, 14 Aug 2026 06:16:00 GMT",
-      "source": "위키트리",
-      "score": 2
-    },
-    {
       "title": "속보 | 백악관 8/19 암호화폐 회의 준비... 리플·코베 등 참석",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9hYmdyaUtWRnlnNHdtWWdkbWFGZXBTMzdpX0NCS0wwU3QtTFJuM1hRWHpkenNCTTF1WjNxckxHUlBQMHduU2xyRkt4SWM3VnJ1?oc=5",
       "date": "Fri, 14 Aug 2026 04:56:00 GMT",
       "source": "CoinNess",
       "score": 9
+    },
+    {
+      "title": "XRP 현물 ETF 보유량 10억개 눈앞…급락장에도 기관 수요 견조",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5VV3lIcUdlNGNVRU1zX2cwaXJSU3Q0aHktQkVOSnVqZzJvQ2tmNFZQRG1FVUFGU0ktMmkyb09wbXdPcUdLTVplSUJsVzlnV0lyNnNMbXJPQ1ZxOHhvQjZQblhvMXpLbkY1NTQ2OS1YZW9rYUE?oc=5",
+      "date": "Fri, 14 Aug 2026 01:58:00 GMT",
+      "source": "디지털투데이",
+      "score": 4
     }
   ]
 }
