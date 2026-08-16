@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-16T18:16:52",
+  "generated_at": "2026-08-16T18:53:17",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 0.998112,
-    "price_krw": 1413.94,
-    "price_change_24h": -0.32681,
-    "price_change_7d": -4.13732,
-    "price_change_30d": -8.52558,
-    "market_cap_usd": 62556286363,
+    "price_usd": 0.998521,
+    "price_krw": 1414.51,
+    "price_change_24h": -0.30354,
+    "price_change_7d": -4.09813,
+    "price_change_30d": -8.48818,
+    "market_cap_usd": 62591153331,
     "market_cap_rank": 6,
-    "volume_24h": 390535740,
+    "volume_24h": 402020792,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 62.82,
-    "sentiment_votes_down": 37.18,
+    "sentiment_votes_up": 63.75,
+    "sentiment_votes_down": 36.25,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 26.89,
-    "recent_tps": 26.89,
-    "recent_tx_count": 2420,
+    "tps_24h_avg": 18.35,
+    "recent_tps": 18.35,
+    "recent_tx_count": 1633,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 106338603,
+    "recent_window_sec": 89,
+    "ledger_seq": 106339169,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-16 18:16:46 KST",
+    "updated_at": "2026-08-16 18:53:08 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -120,13 +120,6 @@
       "score": 2
     },
     {
-      "title": "리플 CEO, 블록체인 심포지엄 출격…SEC 위원장과 한자리에",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Gc0RwX0E0T0lOaDlUZjJHcjRZLWxfbjg5WkF6YXFHZmR0UzktTnRtLXlhU0IzS0hYNGZkZ25Eem5vcS1ZeVlNQ3UyQnZDU3o1bXZBLVlCaEU?oc=5",
-      "date": "Sun, 16 Aug 2026 06:17:00 GMT",
-      "source": "블록미디어",
-      "score": 3
-    },
-    {
       "title": "'XRP서울 2026’, 10월3일 개최…모니카 롱 리플 사장 연설",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBoQm5memJfLXhSbnVvUHJnSmpUbDl4UTR4LXhIbXBudFlJYlBsY0Z4VTZ2QXgyWnJvZHZRUnlyQTM0a1lhM01hemVUY0RVNzVkTldXOFVOU1ZwOTlIRGJ5UHlWX3IzZ0ducE1YXzZUNWUwMDQ?oc=5",
       "date": "Sun, 16 Aug 2026 02:28:52 GMT",
@@ -160,6 +153,13 @@
       "date": "Fri, 14 Aug 2026 22:56:00 GMT",
       "source": "코인리더스",
       "score": 4
+    },
+    {
+      "title": "리플XRP·비트코인 보합, 캡 급등…SEC 지연에 혼조",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YcjNHMjZpY2xzZXp6dVYyOVhlN0J1MnZHRERCeHJfYVdTMUlVRlc0bFByVTFWSjB3OFpvZ0dnclJ5SlhiNXY2RlQ0N01hQVRnR2VtcHREaW9RRnJlWjFuWXp3VlFaU2VVc1IwVEJRUW1wQQ?oc=5",
+      "date": "Fri, 14 Aug 2026 22:14:17 GMT",
+      "source": "톱스타뉴스",
+      "score": 3
     }
   ]
 }
