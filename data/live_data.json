@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-16T21:12:39",
+  "generated_at": "2026-08-16T21:41:38",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 0.99876,
-    "price_krw": 1414.8,
-    "price_change_24h": -0.41125,
-    "price_change_7d": -4.06798,
-    "price_change_30d": -8.2137,
-    "market_cap_usd": 62601814797,
+    "price_usd": 0.995618,
+    "price_krw": 1410.35,
+    "price_change_24h": -0.84869,
+    "price_change_7d": -4.36974,
+    "price_change_30d": -8.50242,
+    "market_cap_usd": 62509060394,
     "market_cap_rank": 6,
-    "volume_24h": 428634156,
+    "volume_24h": 419874925,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 62.79,
-    "sentiment_votes_down": 37.21,
+    "sentiment_votes_up": 61.36,
+    "sentiment_votes_down": 38.64,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 25.51,
-    "recent_tps": 25.51,
-    "recent_tx_count": 2270,
+    "tps_24h_avg": 62.56,
+    "recent_tps": 62.56,
+    "recent_tx_count": 5630,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 106341334,
+    "recent_window_sec": 90,
+    "ledger_seq": 106341785,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-16 21:12:28 KST",
+    "updated_at": "2026-08-16 21:41:29 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,10 +92,10 @@
   ],
   "general_news": [
     {
-      "title": "리플 CEO, 8월18일 와이오밍서 15분 발언…신규 XRP 발표는 없다고 선 그어",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11YkNiTDNaOS0za25vQ1IzRkd0SWVCeDQycHJiR1ZuRWFyUTdIUGFueExqRHhTQmdNSTdZRWhSbjFkSHVna3ZPbXZ3S25nU3BvLVJMUEVn?oc=5",
-      "date": "Sun, 16 Aug 2026 16:21:00 GMT",
-      "source": "위키트리",
+      "title": "리플 CEO, 와이오밍 블록체인 심포지엄 '출격'…XRP 커뮤니티 촉각",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZGhILWhCYktXLTlkS1pSV1h5THRnbmlWVG1MX3BfalZCNkE0Ql9xRU1QM21fTERmVk90MHpkaTZzTHRzY3ppbWlVUmctOGRha0cwYUxKMHBrbS1IaDRrcnE2Y2hQMHVsdVcwaV9TRTNjblZoU0U4WEtsREtpd0tXc1YxcDdLSURs?oc=5",
+      "date": "Sun, 16 Aug 2026 21:35:14 GMT",
+      "source": "글로벌이코노믹",
       "score": 2
     },
     {
@@ -103,7 +103,7 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wcVNLenk5Sjd6S3dJMFk1eHZXcWJEaEs1empXalhwWXEtQ0IyUUREZG92Nzk1QTdTWUFRYlh1Sm8wenNWQmRYdG1hSHVvdlZUc3ZtdFl3?oc=5",
       "date": "Sun, 16 Aug 2026 14:10:00 GMT",
       "source": "위키트리",
-      "score": 2
+      "score": 3
     },
     {
       "title": "209만건 XRP 레저 AI 결제, 금액은 7400달러",
@@ -141,13 +141,6 @@
       "score": 2
     },
     {
-      "title": "비트코인 vs XRP, 올 연말 엇갈리는 승부처…기관 수급과 규제 입법이 가른다",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa3dCdWhFTUhFRGh6UFpiMlJmOGNnRF9VSHZ5LU84X2tBS2NfaTVmRXRoY001Z3BlNi1LdHk5THJYN0dYeC1Pbm1KdjdiRkY1ZHdPOGsxWXZNMkJGRUpWWDluU2d6azJCVk92aTF2bmNvU2hkZXZUSDFydG5kWlFoSm5laTNsQ1Nl?oc=5",
-      "date": "Sat, 15 Aug 2026 10:45:39 GMT",
-      "source": "글로벌이코노믹",
-      "score": 3
-    },
-    {
       "title": "리플(XRP) 현물 ETF의 역설…15억달러 유입에도 자산은 10억달러 아래",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4yYWM5Zm03SWZCc3doZEJlLWZWSDVfVG81U19RTHBGZThEejlUVzRYN0dKV1BHZWZhTDFpZjhxUTQtcl9BUC03TVdn?oc=5",
       "date": "Fri, 14 Aug 2026 22:56:00 GMT",
@@ -159,6 +152,13 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YcjNHMjZpY2xzZXp6dVYyOVhlN0J1MnZHRERCeHJfYVdTMUlVRlc0bFByVTFWSjB3OFpvZ0dnclJ5SlhiNXY2RlQ0N01hQVRnR2VtcHREaW9RRnJlWjFuWXp3VlFaU2VVc1IwVEJRUW1wQQ?oc=5",
       "date": "Fri, 14 Aug 2026 22:14:17 GMT",
       "source": "톱스타뉴스",
+      "score": 3
+    },
+    {
+      "title": "캐나다 국립은행, XRP ETF·비트코인 펀드 소액 보유 사실 첫 공개",
+      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxPUXRpV2NURDY3SzNZVmNkTnZRU0JSTjRqNnA1NHZRTl9wRWZYSTd5dkVlWEt0UlpoM2lxU19EckY1eHJwNjdGclBjZUU4bndxcTJWMjhkZkREYjRWc1RXaEVGUFV3NFhhc0hOb2xKTVZ3OERPakFUb2d6NXZNUHI0RldUc21PSWF0WWxJMlJicVIxQW4tVkpCaFUtdDBGelpVY3lxWWE3NV9lWnljS2Q3NVVWYlpHbERpN2xzS1ZNM3ZkRkhIOGdXRE9nMFNqZUlhQVFLUHFpanplS0tBT1ZGeDk1amxzMEw5WVV5LUpwcjNTWDRNVDQtbldkRUlXaExyTHptbkVKQ1dmS1JYZ3JFc2ZjZUgyejdoU004YlFoem1TVTVCZm01SlFUUXJwUHgtdmhYM0J4ZHJJSHVEZU5JRGJLekxqVHlvOG9VeDRQOUI0OTF5Y0hLeU9hdWFGQ2gxYlJFTUNpQWxGYk9ZX3BhR2FUOWVvM2IwSUE?oc=5",
+      "date": "Fri, 14 Aug 2026 20:54:00 GMT",
+      "source": "Yellow.com",
       "score": 3
     }
   ]
