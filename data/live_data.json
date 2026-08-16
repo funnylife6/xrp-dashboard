@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-15T23:41:58",
+  "generated_at": "2026-08-16T00:49:51",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.001,
-    "price_krw": 1418.46,
-    "price_change_24h": 0.44987,
-    "price_change_7d": -3.51047,
-    "price_change_30d": -8.09675,
-    "market_cap_usd": 62759500513,
+    "price_usd": 1.002,
+    "price_krw": 1418.95,
+    "price_change_24h": 0.18105,
+    "price_change_7d": -3.62179,
+    "price_change_30d": -7.78993,
+    "market_cap_usd": 62785582959,
     "market_cap_rank": 6,
-    "volume_24h": 461529899,
+    "volume_24h": 445383092,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 65.63,
-    "sentiment_votes_down": 34.38,
+    "sentiment_votes_up": 65.15,
+    "sentiment_votes_down": 34.85,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 50.36,
-    "recent_tps": 50.36,
-    "recent_tx_count": 4532,
+    "tps_24h_avg": 15.08,
+    "recent_tps": 15.08,
+    "recent_tx_count": 1357,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106321144,
+    "ledger_seq": 106322199,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-15 23:41:47 KST",
+    "updated_at": "2026-08-16 00:49:37 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -52,13 +52,6 @@
       "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOa2dvcjdvRjF5aGwwY2VLX2Z6YlY1VUF2NnJyMjNHME9DYmQzdkUwS2tRZjY2YkJ2a0xIUEs4dmlwVDVjMnhrV3g1SHFqRlFvRWpOdnJoQlV1a0hXZVJUWFlObHRlSWpuN1VDMzZkVVBrb002bWQzcXBEQXhJaGMxUEN6b19wZlYtU00xUER0NGJVMVFrX3NuMUlDTDlZSXZld29ZalF1c044UWgyRkx1eURqYnBuUDJrb29fNXdBd3c5LUlpU3ZSTkVGM2YxOTdSTWhMbkhERXhaSWFhQTVLSjFLaUh6OFpvc0NVaWhleDVlM1Rzb19IdFdleXhvLVhGVVJ1aTA4SUgxTFROYUJoNTF4WHp5RkZKemdXemx4a2UwUU1SanBvNHY3aWY3Zw?oc=5",
       "date": "Sat, 15 Aug 2026 07:47:22 GMT",
       "source": "Yellow.com",
-      "score": 0
-    },
-    {
-      "title": "[알트 현물 ETF] 관망 속 체인링크 단독 유입...XRP·SOL 등 9개 코인 보합",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE05RkN5SFB1R1h6QmNTY2FVRFd3cjVtM254Umd6bHdDWm5PQkM2dTdtQUNGTzBrbkxaZEZ5ZUI0Wkh6X3lIWUZma1ZIcF9EMm56Sm4xY3EyVTBkemVkT0NXUXp3bXFQd9IBZkFVX3lxTE05RkN5SFB1R1h6QmNTY2FVRFd3cjVtM254Umd6bHdDWm5PQkM2dTdtQUNGTzBrbkxaZEZ5ZUI0Wkh6X3lIWUZma1ZIcF9EMm56Sm4xY3EyVTBkemVkT0NXUXp3bXFQdw?oc=5",
-      "date": "Sat, 15 Aug 2026 03:30:45 GMT",
-      "source": "tokenpost.kr",
       "score": 0
     },
     {
@@ -87,6 +80,13 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYTy1reDllMndKTkIxTGRHSHMteGVOSWN1YUFWMWhoYzU5Q1k5aXIwYnFtWWFybS1aT2h3VXp6MHBiRGE4c0kzN2gwMjRyTHJXdDVjT2dwTXBrOHhCVjhzUENyc21MWHRz?oc=5",
       "date": "Fri, 14 Aug 2026 15:00:00 GMT",
       "source": "CBC뉴스",
+      "score": 0
+    },
+    {
+      "title": "XRP 현물 ETF, 하루 225만달러 순유입…비트와이즈 주도",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBQVVlVVkotLXRvR3F4TWJhdUR0VU5fbGkwa0FaTmpQWGFoSUNPbE02bld2cEF0NVF2T1o1ekVqMzI2dmRwWWxORXQtUG5EdkxkRDBjck1uQkg?oc=5",
+      "date": "Fri, 14 Aug 2026 02:02:00 GMT",
+      "source": "블록미디어",
       "score": 0
     }
   ],
