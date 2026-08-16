@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-16T18:53:17",
+  "generated_at": "2026-08-16T19:15:16",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 0.998521,
-    "price_krw": 1414.51,
-    "price_change_24h": -0.30354,
-    "price_change_7d": -4.09813,
-    "price_change_30d": -8.48818,
-    "market_cap_usd": 62591153331,
+    "price_usd": 0.999596,
+    "price_krw": 1416.04,
+    "price_change_24h": -0.23868,
+    "price_change_7d": -3.84932,
+    "price_change_30d": -8.44106,
+    "market_cap_usd": 62658512979,
     "market_cap_rank": 6,
-    "volume_24h": 402020792,
+    "volume_24h": 411357014,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
@@ -22,16 +22,16 @@
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 18.35,
-    "recent_tps": 18.35,
-    "recent_tx_count": 1633,
+    "tps_24h_avg": 38.52,
+    "recent_tps": 38.52,
+    "recent_tx_count": 3467,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 106339169,
+    "recent_window_sec": 90,
+    "ledger_seq": 106339510,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-16 18:53:08 KST",
+    "updated_at": "2026-08-16 19:15:05 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -123,7 +123,7 @@
       "title": "'XRP서울 2026’, 10월3일 개최…모니카 롱 리플 사장 연설",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBoQm5memJfLXhSbnVvUHJnSmpUbDl4UTR4LXhIbXBudFlJYlBsY0Z4VTZ2QXgyWnJvZHZRUnlyQTM0a1lhM01hemVUY0RVNzVkTldXOFVOU1ZwOTlIRGJ5UHlWX3IzZ0ducE1YXzZUNWUwMDQ?oc=5",
       "date": "Sun, 16 Aug 2026 02:28:52 GMT",
-      "source": "마켓인",
+      "source": "marketin.edaily.co.kr",
       "score": 2
     },
     {
@@ -132,13 +132,6 @@
       "date": "Sat, 15 Aug 2026 23:34:56 GMT",
       "source": "톱스타뉴스",
       "score": 2
-    },
-    {
-      "title": "\"코인에 누가 투자하나\"… 거래량 급감 원인 1위는 '적대적 정책'",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE41aUNhOFpCcXRIUEVmS0lKdjlUMnZjYVF1MHh3dGJfWFFpcHFDZVpfV3M0OGZzTEYtYXNlZmZWWF8xaFM0TFpmLWhQR01vcDV0?oc=5",
-      "date": "Sat, 15 Aug 2026 15:00:00 GMT",
-      "source": "CoinNess",
-      "score": 8
     },
     {
       "title": "비트코인 vs XRP, 올 연말 엇갈리는 승부처…기관 수급과 규제 입법이 가른다",
@@ -159,6 +152,13 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YcjNHMjZpY2xzZXp6dVYyOVhlN0J1MnZHRERCeHJfYVdTMUlVRlc0bFByVTFWSjB3OFpvZ0dnclJ5SlhiNXY2RlQ0N01hQVRnR2VtcHREaW9RRnJlWjFuWXp3VlFaU2VVc1IwVEJRUW1wQQ?oc=5",
       "date": "Fri, 14 Aug 2026 22:14:17 GMT",
       "source": "톱스타뉴스",
+      "score": 3
+    },
+    {
+      "title": "캐나다 국립은행, XRP ETF·비트코인 펀드 소액 보유 사실 첫 공개",
+      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxPUXRpV2NURDY3SzNZVmNkTnZRU0JSTjRqNnA1NHZRTl9wRWZYSTd5dkVlWEt0UlpoM2lxU19EckY1eHJwNjdGclBjZUU4bndxcTJWMjhkZkREYjRWc1RXaEVGUFV3NFhhc0hOb2xKTVZ3OERPakFUb2d6NXZNUHI0RldUc21PSWF0WWxJMlJicVIxQW4tVkpCaFUtdDBGelpVY3lxWWE3NV9lWnljS2Q3NVVWYlpHbERpN2xzS1ZNM3ZkRkhIOGdXRE9nMFNqZUlhQVFLUHFpanplS0tBT1ZGeDk1amxzMEw5WVV5LUpwcjNTWDRNVDQtbldkRUlXaExyTHptbkVKQ1dmS1JYZ3JFc2ZjZUgyejdoU004YlFoem1TVTVCZm01SlFUUXJwUHgtdmhYM0J4ZHJJSHVEZU5JRGJLekxqVHlvOG9VeDRQOUI0OTF5Y0hLeU9hdWFGQ2gxYlJFTUNpQWxGYk9ZX3BhR2FUOWVvM2IwSUE?oc=5",
+      "date": "Fri, 14 Aug 2026 20:54:00 GMT",
+      "source": "Yellow.com",
       "score": 3
     }
   ]
