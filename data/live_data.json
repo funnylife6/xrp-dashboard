@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-16T13:07:43",
+  "generated_at": "2026-08-16T13:50:44",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 0.999656,
-    "price_krw": 1415.98,
-    "price_change_24h": -0.20393,
-    "price_change_7d": -3.55001,
-    "price_change_30d": -7.22934,
-    "market_cap_usd": 62657951433,
+    "price_usd": 0.999503,
+    "price_krw": 1415.77,
+    "price_change_24h": -0.15283,
+    "price_change_7d": -3.56475,
+    "price_change_30d": -7.24352,
+    "market_cap_usd": 62650914258,
     "market_cap_rank": 6,
-    "volume_24h": 380885663,
+    "volume_24h": 380480987,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 67.09,
-    "sentiment_votes_down": 32.91,
+    "sentiment_votes_up": 67.5,
+    "sentiment_votes_down": 32.5,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 14.78,
-    "recent_tps": 14.78,
-    "recent_tx_count": 1315,
+    "tps_24h_avg": 14.04,
+    "recent_tps": 14.04,
+    "recent_tx_count": 1250,
     "recent_ledger_count": 24,
     "recent_window_sec": 89,
-    "ledger_seq": 106333769,
+    "ledger_seq": 106334443,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-16 13:07:37 KST",
+    "updated_at": "2026-08-16 13:50:34 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,18 +92,25 @@
   ],
   "general_news": [
     {
-      "title": "전 리플 개발자, 리플달러 결제 스타트업 예고",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uVlgyaklZWjc1TVoyc1NDNjQzcHVpYWE1RDhWNkk3b3RhNzNYSWhGU1hIV0FRckp0WlRGa1JZbUM5UnZkVUlqWnZ6MS1qVmpKb3g2WTduS09TbFBfNUQ1eNIBZkFVX3lxTE83RndKWF9xVkdxT0hmRGd4NWYzNWdHRjVIZTFyZXN1cFVMc0g4SWtuM1gtU1hrT3JUanEyN0JGNHo3cFN0UFgxYjdObGN0WGJKejZIa2lhSjI5RHo4bldvaVhlYnNwUQ?oc=5",
-      "date": "Sun, 16 Aug 2026 11:43:40 GMT",
-      "source": "tokenpost.kr",
-      "score": 2
-    },
-    {
       "title": "[코툰] \"바이낸스 리플(XRP) 고래 입금, 2021년 이후 최저 수준\"",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ZeTJadG0yQ2Q0SmdHSS1nZGlNNTU3VDVHaldiYm4tNUlfYmhWcWxvc0NxaXdBTEpiclJFbXlNNU5uY3h3N0Y4c01R?oc=5",
       "date": "Sun, 16 Aug 2026 07:31:00 GMT",
       "source": "코인리더스",
       "score": 2
+    },
+    {
+      "title": "브랜트, 50만 XRP 가정에 BTC 전환 언급",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBbm12N1V2NExTZVd1ZVM1ZXhfaTlvdU8zY0JLcHdreExfU0otWFRvVkV6SDlyQXFBalZteTAyVGtSOVFjN1BOMFMzbk5COTkwaWJwaHFFbmxFeGR2WUxoatIBZkFVX3lxTFBhOGl4cDliZU9hbTVrS0VFaTZnWUk2VHhwaDhsemZBd2pXR3RBLTZsTlNpVnJBcEJLcE1IeF9WV3FvVURTZ3EzbmV6dDRCQVZSbS1lbnZwN3FBVEFjVVdtNVF5S3k0QQ?oc=5",
+      "date": "Sun, 16 Aug 2026 06:33:24 GMT",
+      "source": "tokenpost.kr",
+      "score": 2
+    },
+    {
+      "title": "리플 CEO, 블록체인 심포지엄 출격…SEC 위원장과 한자리에",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Gc0RwX0E0T0lOaDlUZjJHcjRZLWxfbjg5WkF6YXFHZmR0UzktTnRtLXlhU0IzS0hYNGZkZ25Eem5vcS1ZeVlNQ3UyQnZDU3o1bXZBLVlCaEU?oc=5",
+      "date": "Sun, 16 Aug 2026 06:17:00 GMT",
+      "source": "블록미디어",
+      "score": 3
     },
     {
       "title": "'XRP서울 2026’, 10월3일 개최…모니카 롱 리플 사장 연설",
@@ -113,25 +120,11 @@
       "score": 2
     },
     {
-      "title": "리플 CEO가 SEC 위원장·카르다노 창립자도 가는 암호화폐(코인) 행사서 할 연설 눈길",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUWHM5UVJRdm5WS2picFRyQXRncjh1NVFSbUlTeG90azVWRjJ6bWpDR0JsRzZSeWN0cXdhYnlMSmNZTm5tRXZjOXVrc0VveTY3NXZBYmNn?oc=5",
-      "date": "Sun, 16 Aug 2026 01:27:00 GMT",
-      "source": "위키트리",
-      "score": 3
-    },
-    {
       "title": "리플XRP 보합·카우프로토콜 급등·캡 하락…규제 지연에 혼조",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5yekstLUVmMlBQUzlLZmRGMlA4SUhBb0wxQjMtSzlwbjVKaXlaQ0szRG83QWdtb0ZpbVhhODFKcThNNnZlaDhucUFHalJxU2dBN2FvUzFZb3ZvelRveGpmeWswMmducE1XanZLQnNYZGJVdw?oc=5",
       "date": "Sat, 15 Aug 2026 23:34:56 GMT",
       "source": "톱스타뉴스",
       "score": 2
-    },
-    {
-      "title": "\"코인에 누가 투자하나\"… 거래량 급감 원인 1위는 '적대적 정책'",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE41aUNhOFpCcXRIUEVmS0lKdjlUMnZjYVF1MHh3dGJfWFFpcHFDZVpfV3M0OGZzTEYtYXNlZmZWWF8xaFM0TFpmLWhQR01vcDV0?oc=5",
-      "date": "Sat, 15 Aug 2026 15:00:00 GMT",
-      "source": "CoinNess",
-      "score": 8
     },
     {
       "title": "비트코인 vs XRP, 올 연말 엇갈리는 승부처…기관 수급과 규제 입법이 가른다",
@@ -159,6 +152,13 @@
       "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxPUXRpV2NURDY3SzNZVmNkTnZRU0JSTjRqNnA1NHZRTl9wRWZYSTd5dkVlWEt0UlpoM2lxU19EckY1eHJwNjdGclBjZUU4bndxcTJWMjhkZkREYjRWc1RXaEVGUFV3NFhhc0hOb2xKTVZ3OERPakFUb2d6NXZNUHI0RldUc21PSWF0WWxJMlJicVIxQW4tVkpCaFUtdDBGelpVY3lxWWE3NV9lWnljS2Q3NVVWYlpHbERpN2xzS1ZNM3ZkRkhIOGdXRE9nMFNqZUlhQVFLUHFpanplS0tBT1ZGeDk1amxzMEw5WVV5LUpwcjNTWDRNVDQtbldkRUlXaExyTHptbkVKQ1dmS1JYZ3JFc2ZjZUgyejdoU004YlFoem1TVTVCZm01SlFUUXJwUHgtdmhYM0J4ZHJJSHVEZU5JRGJLekxqVHlvOG9VeDRQOUI0OTF5Y0hLeU9hdWFGQ2gxYlJFTUNpQWxGYk9ZX3BhR2FUOWVvM2IwSUE?oc=5",
       "date": "Fri, 14 Aug 2026 20:54:00 GMT",
       "source": "Yellow.com",
+      "score": 3
+    },
+    {
+      "title": "리플 연관 지갑서 5000만 XRP 이동, 100만은 바이낸스로…ETF 유입 93% 급감",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54cUpmbEgwTFkxdTlZRWw1X0N1YmF1LTlnOFVfRVJNLUtqelBYQU0yaUpvcUx2ZmQ1bmF1YkZMQ05uRkJ2ZURnbng3V25rTUx0WmtLZ1BR?oc=5",
+      "date": "Fri, 14 Aug 2026 15:01:00 GMT",
+      "source": "위키트리",
       "score": 3
     }
   ]
