@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-16T14:46:22",
+  "generated_at": "2026-08-16T15:13:35",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.0,
-    "price_krw": 1416.56,
-    "price_change_24h": -0.05174,
-    "price_change_7d": -3.61939,
-    "price_change_30d": -7.36501,
-    "market_cap_usd": 62680986384,
+    "price_usd": 1.001,
+    "price_krw": 1417.78,
+    "price_change_24h": -0.03513,
+    "price_change_7d": -3.86439,
+    "price_change_30d": -7.48669,
+    "market_cap_usd": 62725662428,
     "market_cap_rank": 6,
-    "volume_24h": 377688086,
+    "volume_24h": 370771891,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
@@ -22,16 +22,16 @@
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 12.93,
-    "recent_tps": 12.93,
-    "recent_tx_count": 1151,
+    "tps_24h_avg": 12.32,
+    "recent_tps": 12.32,
+    "recent_tx_count": 1010,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 106335316,
+    "recent_window_sec": 82,
+    "ledger_seq": 106335748,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-16 14:46:13 KST",
+    "updated_at": "2026-08-16 15:13:28 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -52,6 +52,13 @@
       "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOa2dvcjdvRjF5aGwwY2VLX2Z6YlY1VUF2NnJyMjNHME9DYmQzdkUwS2tRZjY2YkJ2a0xIUEs4dmlwVDVjMnhrV3g1SHFqRlFvRWpOdnJoQlV1a0hXZVJUWFlObHRlSWpuN1VDMzZkVVBrb002bWQzcXBEQXhJaGMxUEN6b19wZlYtU00xUER0NGJVMVFrX3NuMUlDTDlZSXZld29ZalF1c044UWgyRkx1eURqYnBuUDJrb29fNXdBd3c5LUlpU3ZSTkVGM2YxOTdSTWhMbkhERXhaSWFhQTVLSjFLaUh6OFpvc0NVaWhleDVlM1Rzb19IdFdleXhvLVhGVVJ1aTA4SUgxTFROYUJoNTF4WHp5RkZKemdXemx4a2UwUU1SanBvNHY3aWY3Zw?oc=5",
       "date": "Sat, 15 Aug 2026 07:47:22 GMT",
       "source": "Yellow.com",
+      "score": 0
+    },
+    {
+      "title": "[알트 현물 ETF] 관망 속 체인링크 단독 유입...XRP·SOL 등 9개 코인 보합",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE05RkN5SFB1R1h6QmNTY2FVRFd3cjVtM254Umd6bHdDWm5PQkM2dTdtQUNGTzBrbkxaZEZ5ZUI0Wkh6X3lIWUZma1ZIcF9EMm56Sm4xY3EyVTBkemVkT0NXUXp3bXFQd9IBZkFVX3lxTE05RkN5SFB1R1h6QmNTY2FVRFd3cjVtM254Umd6bHdDWm5PQkM2dTdtQUNGTzBrbkxaZEZ5ZUI0Wkh6X3lIWUZma1ZIcF9EMm56Sm4xY3EyVTBkemVkT0NXUXp3bXFQdw?oc=5",
+      "date": "Sat, 15 Aug 2026 03:30:45 GMT",
+      "source": "tokenpost.kr",
       "score": 0
     },
     {
@@ -81,13 +88,6 @@
       "date": "Fri, 14 Aug 2026 15:00:00 GMT",
       "source": "CBC뉴스",
       "score": 0
-    },
-    {
-      "title": "XRP 현물 ETF, 하루 225만달러 순유입…비트와이즈 주도",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBQVVlVVkotLXRvR3F4TWJhdUR0VU5fbGkwa0FaTmpQWGFoSUNPbE02bld2cEF0NVF2T1o1ekVqMzI2dmRwWWxORXQtUG5EdkxkRDBjck1uQkg?oc=5",
-      "date": "Fri, 14 Aug 2026 02:02:00 GMT",
-      "source": "블록미디어",
-      "score": 0
     }
   ],
   "general_news": [
@@ -113,13 +113,6 @@
       "score": 2
     },
     {
-      "title": "리플 CEO, 블록체인 심포지엄 출격…SEC 위원장과 한자리에",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Gc0RwX0E0T0lOaDlUZjJHcjRZLWxfbjg5WkF6YXFHZmR0UzktTnRtLXlhU0IzS0hYNGZkZ25Eem5vcS1ZeVlNQ3UyQnZDU3o1bXZBLVlCaEU?oc=5",
-      "date": "Sun, 16 Aug 2026 06:17:00 GMT",
-      "source": "블록미디어",
-      "score": 3
-    },
-    {
       "title": "'XRP서울 2026’, 10월3일 개최…모니카 롱 리플 사장 연설",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBoQm5memJfLXhSbnVvUHJnSmpUbDl4UTR4LXhIbXBudFlJYlBsY0Z4VTZ2QXgyWnJvZHZRUnlyQTM0a1lhM01hemVUY0RVNzVkTldXOFVOU1ZwOTlIRGJ5UHlWX3IzZ0ducE1YXzZUNWUwMDQ?oc=5",
       "date": "Sun, 16 Aug 2026 02:28:52 GMT",
@@ -130,7 +123,7 @@
       "title": "리플XRP 보합·카우프로토콜 급등·캡 하락…규제 지연에 혼조",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5yekstLUVmMlBQUzlLZmRGMlA4SUhBb0wxQjMtSzlwbjVKaXlaQ0szRG83QWdtb0ZpbVhhODFKcThNNnZlaDhucUFHalJxU2dBN2FvUzFZb3ZvelRveGpmeWswMmducE1XanZLQnNYZGJVdw?oc=5",
       "date": "Sat, 15 Aug 2026 23:34:56 GMT",
-      "source": "topstarnews.net",
+      "source": "톱스타뉴스",
       "score": 2
     },
     {
@@ -151,7 +144,7 @@
       "title": "리플XRP·비트코인 보합, 캡 급등…SEC 지연에 혼조",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YcjNHMjZpY2xzZXp6dVYyOVhlN0J1MnZHRERCeHJfYVdTMUlVRlc0bFByVTFWSjB3OFpvZ0dnclJ5SlhiNXY2RlQ0N01hQVRnR2VtcHREaW9RRnJlWjFuWXp3VlFaU2VVc1IwVEJRUW1wQQ?oc=5",
       "date": "Fri, 14 Aug 2026 22:14:17 GMT",
-      "source": "topstarnews.net",
+      "source": "톱스타뉴스",
       "score": 3
     },
     {
@@ -159,6 +152,13 @@
       "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxPUXRpV2NURDY3SzNZVmNkTnZRU0JSTjRqNnA1NHZRTl9wRWZYSTd5dkVlWEt0UlpoM2lxU19EckY1eHJwNjdGclBjZUU4bndxcTJWMjhkZkREYjRWc1RXaEVGUFV3NFhhc0hOb2xKTVZ3OERPakFUb2d6NXZNUHI0RldUc21PSWF0WWxJMlJicVIxQW4tVkpCaFUtdDBGelpVY3lxWWE3NV9lWnljS2Q3NVVWYlpHbERpN2xzS1ZNM3ZkRkhIOGdXRE9nMFNqZUlhQVFLUHFpanplS0tBT1ZGeDk1amxzMEw5WVV5LUpwcjNTWDRNVDQtbldkRUlXaExyTHptbkVKQ1dmS1JYZ3JFc2ZjZUgyejdoU004YlFoem1TVTVCZm01SlFUUXJwUHgtdmhYM0J4ZHJJSHVEZU5JRGJLekxqVHlvOG9VeDRQOUI0OTF5Y0hLeU9hdWFGQ2gxYlJFTUNpQWxGYk9ZX3BhR2FUOWVvM2IwSUE?oc=5",
       "date": "Fri, 14 Aug 2026 20:54:00 GMT",
       "source": "Yellow.com",
+      "score": 3
+    },
+    {
+      "title": "리플 연관 지갑서 5000만 XRP 이동, 100만은 바이낸스로…ETF 유입 93% 급감",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54cUpmbEgwTFkxdTlZRWw1X0N1YmF1LTlnOFVfRVJNLUtqelBYQU0yaUpvcUx2ZmQ1bmF1YkZMQ05uRkJ2ZURnbng3V25rTUx0WmtLZ1BR?oc=5",
+      "date": "Fri, 14 Aug 2026 15:01:00 GMT",
+      "source": "위키트리",
       "score": 3
     }
   ]
