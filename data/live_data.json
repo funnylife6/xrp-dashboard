@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-16T00:49:51",
+  "generated_at": "2026-08-16T02:17:15",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.002,
-    "price_krw": 1418.95,
-    "price_change_24h": 0.18105,
-    "price_change_7d": -3.62179,
-    "price_change_30d": -7.78993,
-    "market_cap_usd": 62785582959,
+    "price_usd": 0.999462,
+    "price_krw": 1415.85,
+    "price_change_24h": -0.43795,
+    "price_change_7d": -3.41055,
+    "price_change_30d": -8.05766,
+    "market_cap_usd": 62640440108,
     "market_cap_rank": 6,
-    "volume_24h": 445383092,
+    "volume_24h": 430224981,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 65.15,
-    "sentiment_votes_down": 34.85,
+    "sentiment_votes_up": 63.77,
+    "sentiment_votes_down": 36.23,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 15.08,
-    "recent_tps": 15.08,
-    "recent_tx_count": 1357,
+    "tps_24h_avg": 13.21,
+    "recent_tps": 13.21,
+    "recent_tx_count": 1189,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106322199,
+    "ledger_seq": 106323565,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-16 00:49:37 KST",
+    "updated_at": "2026-08-16 02:17:04 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -51,7 +51,7 @@
       "title": "모건스탠리 ETF 편입에도… XRP, 일주일 새 10% 넘게 급락",
       "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOa2dvcjdvRjF5aGwwY2VLX2Z6YlY1VUF2NnJyMjNHME9DYmQzdkUwS2tRZjY2YkJ2a0xIUEs4dmlwVDVjMnhrV3g1SHFqRlFvRWpOdnJoQlV1a0hXZVJUWFlObHRlSWpuN1VDMzZkVVBrb002bWQzcXBEQXhJaGMxUEN6b19wZlYtU00xUER0NGJVMVFrX3NuMUlDTDlZSXZld29ZalF1c044UWgyRkx1eURqYnBuUDJrb29fNXdBd3c5LUlpU3ZSTkVGM2YxOTdSTWhMbkhERXhaSWFhQTVLSjFLaUh6OFpvc0NVaWhleDVlM1Rzb19IdFdleXhvLVhGVVJ1aTA4SUgxTFROYUJoNTF4WHp5RkZKemdXemx4a2UwUU1SanBvNHY3aWY3Zw?oc=5",
       "date": "Sat, 15 Aug 2026 07:47:22 GMT",
-      "source": "Yellow.com",
+      "source": "yellow.com",
       "score": 0
     },
     {
@@ -65,7 +65,7 @@
       "title": "캐나다 국립은행, XRP ETF·비트코인 펀드 소액 보유 사실 첫 공개",
       "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxPUXRpV2NURDY3SzNZVmNkTnZRU0JSTjRqNnA1NHZRTl9wRWZYSTd5dkVlWEt0UlpoM2lxU19EckY1eHJwNjdGclBjZUU4bndxcTJWMjhkZkREYjRWc1RXaEVGUFV3NFhhc0hOb2xKTVZ3OERPakFUb2d6NXZNUHI0RldUc21PSWF0WWxJMlJicVIxQW4tVkpCaFUtdDBGelpVY3lxWWE3NV9lWnljS2Q3NVVWYlpHbERpN2xzS1ZNM3ZkRkhIOGdXRE9nMFNqZUlhQVFLUHFpanplS0tBT1ZGeDk1amxzMEw5WVV5LUpwcjNTWDRNVDQtbldkRUlXaExyTHptbkVKQ1dmS1JYZ3JFc2ZjZUgyejdoU004YlFoem1TVTVCZm01SlFUUXJwUHgtdmhYM0J4ZHJJSHVEZU5JRGJLekxqVHlvOG9VeDRQOUI0OTF5Y0hLeU9hdWFGQ2gxYlJFTUNpQWxGYk9ZX3BhR2FUOWVvM2IwSUE?oc=5",
       "date": "Fri, 14 Aug 2026 20:54:00 GMT",
-      "source": "Yellow.com",
+      "source": "yellow.com",
       "score": 0
     },
     {
@@ -92,18 +92,25 @@
   ],
   "general_news": [
     {
+      "title": "'XRP서울 2026’, 10월3일 개최…모니카 롱 리플 사장 연설",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUjhSbE11U1phQjRka3hFMk16V0JsSGp2ejdtZ3NXdlBPTDhVbzBCVVVnMy1kaXd6U1EtbFBDWl9RcTQ5cWNfdDR5Q1dENjRVN3V1cHV3UENkeUZWNXk0emtxVS11TlFhRFpEQ05rQWR0UEtUSW5aQnR5XzA0YW5kUQ?oc=5",
+      "date": "Sun, 16 Aug 2026 02:04:50 GMT",
+      "source": "edaily.co.kr",
+      "score": 2
+    },
+    {
+      "title": "리플 CEO가 SEC 위원장·카르다노 창립자도 가는 암호화폐(코인) 행사서 할 연설 눈길",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUWHM5UVJRdm5WS2picFRyQXRncjh1NVFSbUlTeG90azVWRjJ6bWpDR0JsRzZSeWN0cXdhYnlMSmNZTm5tRXZjOXVrc0VveTY3NXZBYmNn?oc=5",
+      "date": "Sun, 16 Aug 2026 01:27:00 GMT",
+      "source": "위키트리",
+      "score": 3
+    },
+    {
       "title": "리플XRP 보합·카우프로토콜 급등·캡 하락…규제 지연에 혼조",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5yekstLUVmMlBQUzlLZmRGMlA4SUhBb0wxQjMtSzlwbjVKaXlaQ0szRG83QWdtb0ZpbVhhODFKcThNNnZlaDhucUFHalJxU2dBN2FvUzFZb3ZvelRveGpmeWswMmducE1XanZLQnNYZGJVdw?oc=5",
       "date": "Sat, 15 Aug 2026 23:34:56 GMT",
       "source": "톱스타뉴스",
       "score": 2
-    },
-    {
-      "title": "모건스탠리, XRP ETF 3종 분산 투자…월가 기관 자금 유입 빨라지나",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWUdSNm1Lc1dhTnh4S0NBME9sWXFMYnhmMFNYQ1ppMmsxV3JPSlJTeWlsU056eVVVOVpNQ1NLclJabWlwRjctdjBON3V3cXBVaDdDSVlvOW92U0V4cldKazBUNTVubDlDN3lSdWR1TzFuRzVQR0RsZmhHUnZESjByX0p0MDRLZEV5?oc=5",
-      "date": "Sat, 15 Aug 2026 21:34:25 GMT",
-      "source": "글로벌이코노믹",
-      "score": 4
     },
     {
       "title": "비트코인 vs XRP, 올 연말 엇갈리는 승부처…기관 수급과 규제 입법이 가른다",
@@ -137,7 +144,7 @@
       "title": "캐나다 국립은행, XRP ETF·비트코인 펀드 소액 보유 사실 첫 공개",
       "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxPUXRpV2NURDY3SzNZVmNkTnZRU0JSTjRqNnA1NHZRTl9wRWZYSTd5dkVlWEt0UlpoM2lxU19EckY1eHJwNjdGclBjZUU4bndxcTJWMjhkZkREYjRWc1RXaEVGUFV3NFhhc0hOb2xKTVZ3OERPakFUb2d6NXZNUHI0RldUc21PSWF0WWxJMlJicVIxQW4tVkpCaFUtdDBGelpVY3lxWWE3NV9lWnljS2Q3NVVWYlpHbERpN2xzS1ZNM3ZkRkhIOGdXRE9nMFNqZUlhQVFLUHFpanplS0tBT1ZGeDk1amxzMEw5WVV5LUpwcjNTWDRNVDQtbldkRUlXaExyTHptbkVKQ1dmS1JYZ3JFc2ZjZUgyejdoU004YlFoem1TVTVCZm01SlFUUXJwUHgtdmhYM0J4ZHJJSHVEZU5JRGJLekxqVHlvOG9VeDRQOUI0OTF5Y0hLeU9hdWFGQ2gxYlJFTUNpQWxGYk9ZX3BhR2FUOWVvM2IwSUE?oc=5",
       "date": "Fri, 14 Aug 2026 20:54:00 GMT",
-      "source": "Yellow.com",
+      "source": "yellow.com",
       "score": 3
     },
     {
@@ -153,13 +160,6 @@
       "date": "Fri, 14 Aug 2026 15:00:00 GMT",
       "source": "CBC뉴스",
       "score": 3
-    },
-    {
-      "title": "121억대 편취 ‘FXRP 리플 사기’ 핵심 피의자, 추가 기소",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVMV80Q1RyTHBwZ2QzUWx2REtZY3YyQ2ExekpVeGszNjV3RGdpcmVkLXp6X0FzWF9PekMxUWh0X2xwLUlYUFl0eWF0WElGZ3A1Q05kZ3hqeVpPRHc5ek9fTGxnZjNvMXZXUV9EQUFRMNIBc0FVX3lxTFA3eEd0N2JRNzlPUGRHZFMzRDdKM3RXdUd0a0g5NFQtVFMyUVMyZEllaDVXeVJFT090S1hjdGk2MjRzR2VtYkVLb0g0X0FhZU45eGstZGtsbzZRM01fb1lnSjE3d3phQ01mb3I0NXNTVXBpQzQ?oc=5",
-      "date": "Fri, 14 Aug 2026 09:19:01 GMT",
-      "source": "시사저널",
-      "score": 2
     }
   ]
 }
