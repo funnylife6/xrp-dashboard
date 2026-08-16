@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-16T15:13:35",
+  "generated_at": "2026-08-16T15:43:26",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.001,
-    "price_krw": 1417.78,
-    "price_change_24h": -0.03513,
-    "price_change_7d": -3.86439,
-    "price_change_30d": -7.48669,
-    "market_cap_usd": 62725662428,
+    "price_krw": 1418.58,
+    "price_change_24h": -0.01744,
+    "price_change_7d": -3.81026,
+    "price_change_30d": -7.4346,
+    "market_cap_usd": 62760774488,
     "market_cap_rank": 6,
-    "volume_24h": 370771891,
+    "volume_24h": 372167545,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 67.09,
-    "sentiment_votes_down": 32.91,
+    "sentiment_votes_up": 64.1,
+    "sentiment_votes_down": 35.9,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 12.32,
-    "recent_tps": 12.32,
-    "recent_tx_count": 1010,
+    "tps_24h_avg": 14.84,
+    "recent_tps": 14.84,
+    "recent_tx_count": 1217,
     "recent_ledger_count": 24,
     "recent_window_sec": 82,
-    "ledger_seq": 106335748,
+    "ledger_seq": 106336216,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-16 15:13:28 KST",
+    "updated_at": "2026-08-16 15:43:17 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -52,13 +52,6 @@
       "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOa2dvcjdvRjF5aGwwY2VLX2Z6YlY1VUF2NnJyMjNHME9DYmQzdkUwS2tRZjY2YkJ2a0xIUEs4dmlwVDVjMnhrV3g1SHFqRlFvRWpOdnJoQlV1a0hXZVJUWFlObHRlSWpuN1VDMzZkVVBrb002bWQzcXBEQXhJaGMxUEN6b19wZlYtU00xUER0NGJVMVFrX3NuMUlDTDlZSXZld29ZalF1c044UWgyRkx1eURqYnBuUDJrb29fNXdBd3c5LUlpU3ZSTkVGM2YxOTdSTWhMbkhERXhaSWFhQTVLSjFLaUh6OFpvc0NVaWhleDVlM1Rzb19IdFdleXhvLVhGVVJ1aTA4SUgxTFROYUJoNTF4WHp5RkZKemdXemx4a2UwUU1SanBvNHY3aWY3Zw?oc=5",
       "date": "Sat, 15 Aug 2026 07:47:22 GMT",
       "source": "Yellow.com",
-      "score": 0
-    },
-    {
-      "title": "[알트 현물 ETF] 관망 속 체인링크 단독 유입...XRP·SOL 등 9개 코인 보합",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE05RkN5SFB1R1h6QmNTY2FVRFd3cjVtM254Umd6bHdDWm5PQkM2dTdtQUNGTzBrbkxaZEZ5ZUI0Wkh6X3lIWUZma1ZIcF9EMm56Sm4xY3EyVTBkemVkT0NXUXp3bXFQd9IBZkFVX3lxTE05RkN5SFB1R1h6QmNTY2FVRFd3cjVtM254Umd6bHdDWm5PQkM2dTdtQUNGTzBrbkxaZEZ5ZUI0Wkh6X3lIWUZma1ZIcF9EMm56Sm4xY3EyVTBkemVkT0NXUXp3bXFQdw?oc=5",
-      "date": "Sat, 15 Aug 2026 03:30:45 GMT",
-      "source": "tokenpost.kr",
       "score": 0
     },
     {
@@ -86,7 +79,14 @@
       "title": "리플XRP, 1달러 탐색…규제 명확성·ETF·실사용이 다시 부른 세 가지 변수",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYTy1reDllMndKTkIxTGRHSHMteGVOSWN1YUFWMWhoYzU5Q1k5aXIwYnFtWWFybS1aT2h3VXp6MHBiRGE4c0kzN2gwMjRyTHJXdDVjT2dwTXBrOHhCVjhzUENyc21MWHRz?oc=5",
       "date": "Fri, 14 Aug 2026 15:00:00 GMT",
-      "source": "CBC뉴스",
+      "source": "cbci.co.kr",
+      "score": 0
+    },
+    {
+      "title": "XRP 현물 ETF, 하루 225만달러 순유입…비트와이즈 주도",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBQVVlVVkotLXRvR3F4TWJhdUR0VU5fbGkwa0FaTmpQWGFoSUNPbE02bld2cEF0NVF2T1o1ekVqMzI2dmRwWWxORXQtUG5EdkxkRDBjck1uQkg?oc=5",
+      "date": "Fri, 14 Aug 2026 02:02:00 GMT",
+      "source": "블록미디어",
       "score": 0
     }
   ],
@@ -99,17 +99,17 @@
       "score": 3
     },
     {
+      "title": "전 리플 개발자, 리플달러 결제 스타트업 예고",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uVlgyaklZWjc1TVoyc1NDNjQzcHVpYWE1RDhWNkk3b3RhNzNYSWhGU1hIV0FRckp0WlRGa1JZbUM5UnZkVUlqWnZ6MS1qVmpKb3g2WTduS09TbFBfNUQ1eNIBZkFVX3lxTE83RndKWF9xVkdxT0hmRGd4NWYzNWdHRjVIZTFyZXN1cFVMc0g4SWtuM1gtU1hrT3JUanEyN0JGNHo3cFN0UFgxYjdObGN0WGJKejZIa2lhSjI5RHo4bldvaVhlYnNwUQ?oc=5",
+      "date": "Sun, 16 Aug 2026 11:43:40 GMT",
+      "source": "tokenpost.kr",
+      "score": 2
+    },
+    {
       "title": "[코툰] \"바이낸스 리플(XRP) 고래 입금, 2021년 이후 최저 수준\"",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ZeTJadG0yQ2Q0SmdHSS1nZGlNNTU3VDVHaldiYm4tNUlfYmhWcWxvc0NxaXdBTEpiclJFbXlNNU5uY3h3N0Y4c01R?oc=5",
       "date": "Sun, 16 Aug 2026 07:31:00 GMT",
       "source": "코인리더스",
-      "score": 2
-    },
-    {
-      "title": "브랜트, 50만 XRP 가정에 BTC 전환 언급",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBbm12N1V2NExTZVd1ZVM1ZXhfaTlvdU8zY0JLcHdreExfU0otWFRvVkV6SDlyQXFBalZteTAyVGtSOVFjN1BOMFMzbk5COTkwaWJwaHFFbmxFeGR2WUxoatIBZkFVX3lxTFBhOGl4cDliZU9hbTVrS0VFaTZnWUk2VHhwaDhsemZBd2pXR3RBLTZsTlNpVnJBcEJLcE1IeF9WV3FvVURTZ3EzbmV6dDRCQVZSbS1lbnZwN3FBVEFjVVdtNVF5S3k0QQ?oc=5",
-      "date": "Sun, 16 Aug 2026 06:33:24 GMT",
-      "source": "tokenpost.kr",
       "score": 2
     },
     {
