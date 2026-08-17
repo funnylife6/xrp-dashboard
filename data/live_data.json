@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-17T04:09:59",
+  "generated_at": "2026-08-17T05:05:39",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.003,
-    "price_krw": 1418.65,
-    "price_change_24h": 0.17364,
-    "price_change_7d": -2.67206,
-    "price_change_30d": -7.98046,
-    "market_cap_usd": 62832662525,
+    "price_usd": 1.002,
+    "price_krw": 1417.09,
+    "price_change_24h": 0.18413,
+    "price_change_7d": -2.84296,
+    "price_change_30d": -7.84618,
+    "market_cap_usd": 62809285663,
     "market_cap_rank": 6,
-    "volume_24h": 585872973,
+    "volume_24h": 599390700,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
@@ -22,16 +22,16 @@
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 19.39,
-    "recent_tps": 19.39,
-    "recent_tx_count": 1745,
+    "tps_24h_avg": 20.75,
+    "recent_tps": 20.75,
+    "recent_tx_count": 1847,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 106347832,
+    "recent_window_sec": 89,
+    "ledger_seq": 106348699,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-17 04:09:52 KST",
+    "updated_at": "2026-08-17 05:05:33 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -79,7 +79,7 @@
       "title": "리플 연관 지갑서 5000만 XRP 이동, 100만은 바이낸스로…ETF 유입 93% 급감",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54cUpmbEgwTFkxdTlZRWw1X0N1YmF1LTlnOFVfRVJNLUtqelBYQU0yaUpvcUx2ZmQ1bmF1YkZMQ05uRkJ2ZURnbng3V25rTUx0WmtLZ1BR?oc=5",
       "date": "Fri, 14 Aug 2026 15:01:00 GMT",
-      "source": "wikitree.co.kr",
+      "source": "위키트리",
       "score": 0
     },
     {
@@ -120,6 +120,13 @@
       "score": 2
     },
     {
+      "title": "리플 CEO, 와이오밍 블록체인 심포지엄 '출격'…XRP 커뮤니티 촉각",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZGhILWhCYktXLTlkS1pSV1h5THRnbmlWVG1MX3BfalZCNkE0Ql9xRU1QM21fTERmVk90MHpkaTZzTHRzY3ppbWlVUmctOGRha0cwYUxKMHBrbS1IaDRrcnE2Y2hQMHVsdVcwaV9TRTNjblZoU0U4WEtsREtpd0tXc1YxcDdLSURs?oc=5",
+      "date": "Sun, 16 Aug 2026 21:35:14 GMT",
+      "source": "글로벌이코노믹",
+      "score": 2
+    },
+    {
       "title": "비트코인·XRP, 8월 최대 분수령 4가지 이유",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qaFF0cU8wejBkaTc4ampPbVMwcVpxOElGbUxTUDZsNmthMGVLTlZ1UWtRNng4c2RNRFlMSjZHbWQ1b0JyN3Jza3pDTmU5Ul92bU9oOU5lSGxXaEFZdXV3SlNBeDNNQ3B0Um9lOA?oc=5",
       "date": "Sun, 16 Aug 2026 21:27:55 GMT",
@@ -127,18 +134,11 @@
       "score": 2
     },
     {
-      "title": "리플 CEO, 8월18일 와이오밍서 15분 발언…신규 XRP 발표는 없다고 선 그어",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11YkNiTDNaOS0za25vQ1IzRkd0SWVCeDQycHJiR1ZuRWFyUTdIUGFueExqRHhTQmdNSTdZRWhSbjFkSHVna3ZPbXZ3S25nU3BvLVJMUEVn?oc=5",
-      "date": "Sun, 16 Aug 2026 16:21:00 GMT",
-      "source": "wikitree.co.kr",
-      "score": 2
-    },
-    {
       "title": "바이낸스, RLUSD 보상 풀 100만 XRP로 확대…4주 연장에 APR 7.69% 기록",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wcVNLenk5Sjd6S3dJMFk1eHZXcWJEaEs1empXalhwWXEtQ0IyUUREZG92Nzk1QTdTWUFRYlh1Sm8wenNWQmRYdG1hSHVvdlZUc3ZtdFl3?oc=5",
       "date": "Sun, 16 Aug 2026 14:10:00 GMT",
-      "source": "wikitree.co.kr",
-      "score": 2
+      "source": "위키트리",
+      "score": 3
     },
     {
       "title": "209만건 XRP 레저 AI 결제, 금액은 7400달러",
@@ -155,10 +155,10 @@
       "score": 2
     },
     {
-      "title": "비트코인 vs XRP, 올 연말 엇갈리는 승부처…기관 수급과 규제 입법이 가른다",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa3dCdWhFTUhFRGh6UFpiMlJmOGNnRF9VSHZ5LU84X2tBS2NfaTVmRXRoY001Z3BlNi1LdHk5THJYN0dYeC1Pbm1KdjdiRkY1ZHdPOGsxWXZNMkJGRUpWWDluU2d6azJCVk92aTF2bmNvU2hkZXZUSDFydG5kWlFoSm5laTNsQ1Nl?oc=5",
-      "date": "Sat, 15 Aug 2026 10:45:39 GMT",
-      "source": "글로벌이코노믹",
+      "title": "리플XRP·비트코인 보합, 캡 급등…SEC 지연에 혼조",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YcjNHMjZpY2xzZXp6dVYyOVhlN0J1MnZHRERCeHJfYVdTMUlVRlc0bFByVTFWSjB3OFpvZ0dnclJ5SlhiNXY2RlQ0N01hQVRnR2VtcHREaW9RRnJlWjFuWXp3VlFaU2VVc1IwVEJRUW1wQQ?oc=5",
+      "date": "Fri, 14 Aug 2026 22:14:17 GMT",
+      "source": "톱스타뉴스",
       "score": 3
     }
   ]
