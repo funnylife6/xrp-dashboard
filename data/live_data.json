@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-17T13:14:35",
+  "generated_at": "2026-08-17T13:59:12",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 0.998117,
-    "price_krw": 1409.57,
-    "price_change_24h": -0.17027,
-    "price_change_7d": -2.89611,
-    "price_change_30d": -8.32194,
-    "market_cap_usd": 62550100453,
+    "price_usd": 0.999706,
+    "price_krw": 1412.53,
+    "price_change_24h": 0.02235,
+    "price_change_7d": -2.74151,
+    "price_change_30d": -8.17598,
+    "market_cap_usd": 62662852792,
     "market_cap_rank": 6,
-    "volume_24h": 730142570,
+    "volume_24h": 756303957,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 62.35,
-    "sentiment_votes_down": 37.65,
+    "sentiment_votes_up": 61.9,
+    "sentiment_votes_down": 38.1,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 21.31,
-    "recent_tps": 21.31,
-    "recent_tx_count": 1897,
+    "tps_24h_avg": 20.8,
+    "recent_tps": 20.8,
+    "recent_tx_count": 1851,
     "recent_ledger_count": 24,
     "recent_window_sec": 89,
-    "ledger_seq": 106356329,
+    "ledger_seq": 106357024,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-17 13:14:23 KST",
+    "updated_at": "2026-08-17 13:59:04 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,6 +92,13 @@
   ],
   "general_news": [
     {
+      "title": "XRP, $1 지지 못하는 이유…바이낸스 데이터 답 있다",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HaEZiaVdjT0hNSl9oRldzNDFtV1d4X2VaRHFJam5xS1VBdC1QUXdxRXpiUTVWX2JkNW5QUnJDYWZXaTh3dmdYMTNkWEZnRHpGdHg3TnRhdXdIMUZvLXgyUnBodEpJNHZHTFo3cjZUZw?oc=5",
+      "date": "Mon, 17 Aug 2026 13:09:30 GMT",
+      "source": "BeInCrypto",
+      "score": 2
+    },
+    {
       "title": "매도 피로감에 ETF 5주 연속 순유입까지! 리플(XRP) 1달러 사수 총력전!",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1iWk82ZWJGSVlMSGFmSjRrR3VKMWxkbWh1eVpMTGFmWTRlOFRZdG9VV0dlWXNCNFNQTHZCX1lZTjZ1UkpscVlOR01n?oc=5",
       "date": "Mon, 17 Aug 2026 12:37:00 GMT",
@@ -99,17 +106,10 @@
       "score": 3
     },
     {
-      "title": "80만달러 XRP 보상, 바이낸스 조건은 까다로웠다",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jcVNrcXhfRnM5MzBad1pvR1ZjVjE1NXpwZmNhcjVUaDZ5NDVVWm1ZRndiRWQ5Wm14SmN0MkwzTzhGY3ljMDJDc0phbjNaSVZ5U2FkX0FEdmJ1b2V0am1oZtIBZkFVX3lxTE84dkF4Y3doX29KRlV5dTJnY0d3OTZHZXpJbHh4VGdNdXFBeFp4eFBlaUEyN0ZqeWREd09jMFh1OF93a3Rxek1LMHYyRjlweFZ5bnBIVUZmUmh1V0NqYWdSS3hVWDJ1Zw?oc=5",
-      "date": "Mon, 17 Aug 2026 10:53:28 GMT",
+      "title": "리플, 리플달러 1000만개 추가 발행했다",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPNkVmdWlCS2YyQUpsZzl3aFBfRlVZZkpheDEwMnRpWUhTWkotZFFMMFJhTk0zVTNoaC0yeWstaS05S0ZORkE5R21SWnFwdVcycVpyVlU2TTZfbzFUSV9ZSNIBZkFVX3lxTE95LXIzTnVLcnl3ajJlOVBxYnpsU2w1ekN2dmlIbFd4UWlpdklGOFZPZFJvc0U0NzJibFBaaDdOVU5FZUx2ekUxQWppMlZZS0lDVVk0RE5qcEF3Ni10Um4wRzRsTTZPUQ?oc=5",
+      "date": "Mon, 17 Aug 2026 06:40:12 GMT",
       "source": "tokenpost.kr",
-      "score": 2
-    },
-    {
-      "title": "비트코인·XRP '운명의 한 주'…'4대 이벤트' 집중 분석",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTmJqS0Y5MzRoTUtzQThnek5aVklnTlVnZ3gyM0U5V044c2FFUnphcUw0M3VfRW5fdVlXN2RvWTRlVXBRVVprMlJaenFjcnVYaUFRX21Qc3lMdHVEZ3R5OWNwUUNua3N2TzhnM1RWNGpnQV9FYzRucHVDZlZIazJfVDJqc042TDdw?oc=5",
-      "date": "Mon, 17 Aug 2026 05:15:29 GMT",
-      "source": "글로벌이코노믹",
       "score": 2
     },
     {
@@ -117,6 +117,13 @@
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1lRlRmLXlDNXlEMFV1d2dIaEdrSEpWeDJUM1NWaVNHUVBLRzBzYW5OQWkyVEFpMHVQVlNXaWdwWk9NR196MlNsaQ?oc=5",
       "date": "Mon, 17 Aug 2026 03:30:00 GMT",
       "source": "코인리더스",
+      "score": 2
+    },
+    {
+      "title": "폭락 중인 암호화폐 비트코인·리플 이번 주 가격 결정지을 4가지 핵심 이벤트",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OVGZLcGtYbUNaTXp3T1J3NWI0OFdRNFBoa1dVR1lSUTVBblBCRkFkY3JDNHp3eE9SaUdNNEstaTFudkRPRmhJMWUtaWpoRU9xbHZ6V0RR?oc=5",
+      "date": "Mon, 17 Aug 2026 00:51:00 GMT",
+      "source": "위키트리",
       "score": 2
     },
     {
@@ -134,10 +141,10 @@
       "score": 2
     },
     {
-      "title": "리플 CEO, 8월18일 와이오밍서 15분 발언…신규 XRP 발표는 없다고 선 그어",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11YkNiTDNaOS0za25vQ1IzRkd0SWVCeDQycHJiR1ZuRWFyUTdIUGFueExqRHhTQmdNSTdZRWhSbjFkSHVna3ZPbXZ3S25nU3BvLVJMUEVn?oc=5",
-      "date": "Sun, 16 Aug 2026 16:21:00 GMT",
-      "source": "위키트리",
+      "title": "리플 CEO, 와이오밍 블록체인 심포지엄 '출격'…XRP 커뮤니티 촉각",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZGhILWhCYktXLTlkS1pSV1h5THRnbmlWVG1MX3BfalZCNkE0Ql9xRU1QM21fTERmVk90MHpkaTZzTHRzY3ppbWlVUmctOGRha0cwYUxKMHBrbS1IaDRrcnE2Y2hQMHVsdVcwaV9TRTNjblZoU0U4WEtsREtpd0tXc1YxcDdLSURs?oc=5",
+      "date": "Sun, 16 Aug 2026 21:35:14 GMT",
+      "source": "g-enews.com",
       "score": 2
     },
     {
@@ -148,18 +155,11 @@
       "score": 2
     },
     {
-      "title": "속보 | 마이클 세일러 \"BTC, 모두가 이길 수 있는 유일한 카지노\"",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1QMWdSYnRQRVBrbkVlVFFubWg4aDNfS1VxczVidUxpU29BS2xyM3lJZGFaSkhUOGgzMXBvbU0wd1REMG50YTlBT1VvdUlnU094?oc=5",
-      "date": "Sun, 16 Aug 2026 09:16:00 GMT",
-      "source": "CoinNess",
-      "score": 8
-    },
-    {
-      "title": "[코툰] \"바이낸스 리플(XRP) 고래 입금, 2021년 이후 최저 수준\"",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ZeTJadG0yQ2Q0SmdHSS1nZGlNNTU3VDVHaldiYm4tNUlfYmhWcWxvc0NxaXdBTEpiclJFbXlNNU5uY3h3N0Y4c01R?oc=5",
-      "date": "Sun, 16 Aug 2026 07:31:00 GMT",
-      "source": "코인리더스",
-      "score": 2
+      "title": "리플 CEO, 블록체인 심포지엄 출격…SEC 위원장과 한자리에",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Gc0RwX0E0T0lOaDlUZjJHcjRZLWxfbjg5WkF6YXFHZmR0UzktTnRtLXlhU0IzS0hYNGZkZ25Eem5vcS1ZeVlNQ3UyQnZDU3o1bXZBLVlCaEU?oc=5",
+      "date": "Sun, 16 Aug 2026 06:17:00 GMT",
+      "source": "블록미디어",
+      "score": 3
     }
   ]
 }
