@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-17T21:18:24",
+  "generated_at": "2026-08-17T21:47:52",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.002,
-    "price_krw": 1418.66,
-    "price_change_24h": 0.29306,
-    "price_change_7d": -1.60056,
-    "price_change_30d": -8.3307,
-    "market_cap_usd": 62798778544,
+    "price_krw": 1418.29,
+    "price_change_24h": 0.78178,
+    "price_change_7d": -1.60739,
+    "price_change_30d": -8.33707,
+    "market_cap_usd": 62797799887,
     "market_cap_rank": 6,
-    "volume_24h": 883136843,
+    "volume_24h": 861985897,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 64.13,
-    "sentiment_votes_down": 35.87,
+    "sentiment_votes_up": 65.17,
+    "sentiment_votes_down": 34.83,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 12.75,
-    "recent_tps": 12.75,
-    "recent_tx_count": 1135,
+    "tps_24h_avg": 22.83,
+    "recent_tps": 22.83,
+    "recent_tx_count": 2055,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 106363871,
+    "recent_window_sec": 90,
+    "ledger_seq": 106364330,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-17 21:18:11 KST",
+    "updated_at": "2026-08-17 21:47:42 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -55,13 +55,6 @@
       "score": 0
     },
     {
-      "title": "XRP(리플) ETF는 흑자인데…자금은 왜 멈췄나?",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFByM3FZSXNTS2NxSDRQdlR1TzdGWXcyZnU5US1rQ09rVVI0aWZvTDdUS0U4eFloS19SeDN1NEd0Rmt2UmJ2R1N3VTVR?oc=5",
-      "date": "Sun, 16 Aug 2026 22:30:00 GMT",
-      "source": "코인리더스",
-      "score": 0
-    },
-    {
       "title": "XRP 현물 ETF 지난주 순유입 225 만 달러",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wb3ZxYlppUlE1dzlzV3NIa0Y5djVyWDNyVGdPdHFFS2tlWWZYTGtPQllnMXBCNG5CSk1HRmtsVmd0anFjYnU4RXkxSU1YdFNkVzJ2U1ZR?oc=5",
       "date": "Sun, 16 Aug 2026 11:47:00 GMT",
@@ -79,7 +72,7 @@
       "title": "리플 연관 지갑서 5000만 XRP 이동, 100만은 바이낸스로…ETF 유입 93% 급감",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54cUpmbEgwTFkxdTlZRWw1X0N1YmF1LTlnOFVfRVJNLUtqelBYQU0yaUpvcUx2ZmQ1bmF1YkZMQ05uRkJ2ZURnbng3V25rTUx0WmtLZ1BR?oc=5",
       "date": "Fri, 14 Aug 2026 15:01:00 GMT",
-      "source": "위키트리",
+      "source": "wikitree.co.kr",
       "score": 0
     },
     {
@@ -87,6 +80,13 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYTy1reDllMndKTkIxTGRHSHMteGVOSWN1YUFWMWhoYzU5Q1k5aXIwYnFtWWFybS1aT2h3VXp6MHBiRGE4c0kzN2gwMjRyTHJXdDVjT2dwTXBrOHhCVjhzUENyc21MWHRz?oc=5",
       "date": "Fri, 14 Aug 2026 15:00:00 GMT",
       "source": "CBC뉴스",
+      "score": 0
+    },
+    {
+      "title": "XRP 현물 ETF, 하루 225만달러 순유입…비트와이즈 주도",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBQVVlVVkotLXRvR3F4TWJhdUR0VU5fbGkwa0FaTmpQWGFoSUNPbE02bld2cEF0NVF2T1o1ekVqMzI2dmRwWWxORXQtUG5EdkxkRDBjck1uQkg?oc=5",
+      "date": "Fri, 14 Aug 2026 02:02:00 GMT",
+      "source": "블록미디어",
       "score": 0
     }
   ],
@@ -141,13 +141,6 @@
       "score": 2
     },
     {
-      "title": "XRP(리플) ETF는 흑자인데…자금은 왜 멈췄나?",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFByM3FZSXNTS2NxSDRQdlR1TzdGWXcyZnU5US1rQ09rVVI0aWZvTDdUS0U4eFloS19SeDN1NEd0Rmt2UmJ2R1N3VTVR?oc=5",
-      "date": "Sun, 16 Aug 2026 22:30:00 GMT",
-      "source": "코인리더스",
-      "score": 3
-    },
-    {
       "title": "카우프로토콜 급락·디라이브 급등·리플XRP 보합…비트코인 저항에 관망",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Lc1Noc1VqSWJ2MmppYmRHWkhBTEk4UUhtbWlpaGJnSkVFd2Z0akdRdFZzMktibjdXRElSLTVnMGRmVFdZNVlMalRrdGF0b2IwUFJhRjhVWnZLMTVHZ2huQkhFMGJvSGppVjJ5Qm43UWNudw?oc=5",
       "date": "Sun, 16 Aug 2026 22:21:16 GMT",
@@ -158,7 +151,14 @@
       "title": "리플 CEO, 8월18일 와이오밍서 15분 발언…신규 XRP 발표는 없다고 선 그어",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11YkNiTDNaOS0za25vQ1IzRkd0SWVCeDQycHJiR1ZuRWFyUTdIUGFueExqRHhTQmdNSTdZRWhSbjFkSHVna3ZPbXZ3S25nU3BvLVJMUEVn?oc=5",
       "date": "Sun, 16 Aug 2026 16:21:00 GMT",
-      "source": "위키트리",
+      "source": "wikitree.co.kr",
+      "score": 2
+    },
+    {
+      "title": "바이낸스, RLUSD 보상 풀 100만 XRP로 확대…4주 연장에 APR 7.69% 기록",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wcVNLenk5Sjd6S3dJMFk1eHZXcWJEaEs1empXalhwWXEtQ0IyUUREZG92Nzk1QTdTWUFRYlh1Sm8wenNWQmRYdG1hSHVvdlZUc3ZtdFl3?oc=5",
+      "date": "Sun, 16 Aug 2026 14:10:00 GMT",
+      "source": "wikitree.co.kr",
       "score": 2
     }
   ]
