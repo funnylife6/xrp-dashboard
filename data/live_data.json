@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-17T20:17:16",
+  "generated_at": "2026-08-17T20:51:18",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 0.99971,
-    "price_krw": 1415.54,
-    "price_change_24h": -0.07937,
-    "price_change_7d": -1.94437,
-    "price_change_30d": -8.53185,
-    "market_cap_usd": 62665566298,
+    "price_usd": 1.003,
+    "price_krw": 1421.51,
+    "price_change_24h": 0.37806,
+    "price_change_7d": -1.61977,
+    "price_change_30d": -8.22906,
+    "market_cap_usd": 62868216784,
     "market_cap_rank": 6,
-    "volume_24h": 871114604,
+    "volume_24h": 879735581,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 61.7,
-    "sentiment_votes_down": 38.3,
+    "sentiment_votes_up": 62.77,
+    "sentiment_votes_down": 37.23,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 21.57,
-    "recent_tps": 21.57,
-    "recent_tx_count": 1941,
+    "tps_24h_avg": 18.33,
+    "recent_tps": 18.33,
+    "recent_tx_count": 1650,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106362918,
+    "ledger_seq": 106363448,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-17 20:17:01 KST",
+    "updated_at": "2026-08-17 20:50:59 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,6 +92,13 @@
   ],
   "general_news": [
     {
+      "title": "리플, 또 1,000만 RLUSD 추가 발행...기관 수요 얼마나 커졌나",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB6WC1oaURqbFI1UGRiTXB1ZkdFU080SFNtMW1OeENKRGJOVlFKeFVDR0UySnpvcDY0ZXp4ZEpUSG5yM3dMQ2NuaXRn?oc=5",
+      "date": "Mon, 17 Aug 2026 20:20:00 GMT",
+      "source": "코인리더스",
+      "score": 3
+    },
+    {
       "title": "XRP(리플), SEC 사법 리스크 털기 완료...'1.04달러' 회복하면 강세 전환",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9vdUt0eWpOTkptZU1ibmtaWEkxNU9lVDFGdUVyQlBFa083VnVZdjdjQ0EwaEhxVENiOVNiWWRDbVRsYlJrZGotMA?oc=5",
       "date": "Mon, 17 Aug 2026 16:00:00 GMT",
@@ -128,7 +135,7 @@
     },
     {
       "title": "前 리플 엔지니어, 스타트업 출범 예고...\"RLUSD 다시 위대하게 만들 것\"",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBhYXJYc1VfazZJR2RLZGE2OG5WSklJd1FybUFtTWVpNXBmb2ItbTFwNkZreEFGYUdOc1JYTXJ6cktULVV0RWhfR0Jn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1lRlRmLXlDNXlEMFV1d2dIaEdrSEpWeDJUM1NWaVNHUVBLRzBzYW5OQWkyVEFpMHVQVlNXaWdwWk9NR196MlNsaQ?oc=5",
       "date": "Mon, 17 Aug 2026 03:30:00 GMT",
       "source": "코인리더스",
       "score": 2
@@ -151,13 +158,6 @@
       "title": "리플 CEO, 8월18일 와이오밍서 15분 발언…신규 XRP 발표는 없다고 선 그어",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11YkNiTDNaOS0za25vQ1IzRkd0SWVCeDQycHJiR1ZuRWFyUTdIUGFueExqRHhTQmdNSTdZRWhSbjFkSHVna3ZPbXZ3S25nU3BvLVJMUEVn?oc=5",
       "date": "Sun, 16 Aug 2026 16:21:00 GMT",
-      "source": "위키트리",
-      "score": 2
-    },
-    {
-      "title": "바이낸스, RLUSD 보상 풀 100만 XRP로 확대…4주 연장에 APR 7.69% 기록",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wcVNLenk5Sjd6S3dJMFk1eHZXcWJEaEs1empXalhwWXEtQ0IyUUREZG92Nzk1QTdTWUFRYlh1Sm8wenNWQmRYdG1hSHVvdlZUc3ZtdFl3?oc=5",
-      "date": "Sun, 16 Aug 2026 14:10:00 GMT",
       "source": "위키트리",
       "score": 2
     }
