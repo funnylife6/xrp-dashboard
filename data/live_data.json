@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-17T22:47:45",
+  "generated_at": "2026-08-17T23:15:21",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 0.999908,
-    "price_krw": 1417.17,
-    "price_change_24h": 0.74264,
-    "price_change_7d": -1.61596,
-    "price_change_30d": -8.56023,
-    "market_cap_usd": 62671194512,
+    "price_usd": 1.001,
+    "price_krw": 1415.64,
+    "price_change_24h": 0.84459,
+    "price_change_7d": -0.92148,
+    "price_change_30d": -8.40877,
+    "market_cap_usd": 62726262076,
     "market_cap_rank": 6,
-    "volume_24h": 839093369,
+    "volume_24h": 835702839,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 62.92,
-    "sentiment_votes_down": 37.08,
+    "sentiment_votes_up": 63.53,
+    "sentiment_votes_down": 36.47,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 18.06,
-    "recent_tps": 18.06,
-    "recent_tx_count": 1625,
+    "tps_24h_avg": 26.72,
+    "recent_tps": 26.72,
+    "recent_tx_count": 2191,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 106365265,
+    "recent_window_sec": 82,
+    "ledger_seq": 106365697,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-17 22:47:29 KST",
+    "updated_at": "2026-08-17 23:15:10 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,6 +92,13 @@
   ],
   "general_news": [
     {
+      "title": "리플, RLUSD 1000만개 추가 발행…시장 전반의 방향성",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OX2R5dGx2WU92UEdnM1FSb1JlR0pQdzhYcTEwVVNZZnlXcjRTZVV3TmZ4dU9HdjhNT2RXdm9oUkJvMEFyM3ZvUGdfZW1vT3hhckI4WVRIeDZGR3JtU3pyMTNaYzVFelB1?oc=5",
+      "date": "Mon, 17 Aug 2026 23:05:00 GMT",
+      "source": "CBC뉴스",
+      "score": 2
+    },
+    {
       "title": "리플XRP 보합·비트코인 1.78%↑·스테이터스네트워크토큰 상승…ETF 유출 속 거래 위축",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAyY2R3Mkxnc2tuTXRZZTYweTExZHpKQUVtYWhReFF5c0wwbFkwMUs4M2gyVUg2YjR2SmFNcDRYUVhRUTZaQlN1OHVpLXdjUE9GOERqc0VRVy1DR3dMa0R2UGFKWWZQU25ZUHpLbUV0bFpPZw?oc=5",
       "date": "Mon, 17 Aug 2026 22:08:02 GMT",
@@ -145,13 +152,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPNkVmdWlCS2YyQUpsZzl3aFBfRlVZZkpheDEwMnRpWUhTWkotZFFMMFJhTk0zVTNoaC0yeWstaS05S0ZORkE5R21SWnFwdVcycVpyVlU2TTZfbzFUSV9ZSNIBZkFVX3lxTE95LXIzTnVLcnl3ajJlOVBxYnpsU2w1ekN2dmlIbFd4UWlpdklGOFZPZFJvc0U0NzJibFBaaDdOVU5FZUx2ekUxQWppMlZZS0lDVVk0RE5qcEF3Ni10Um4wRzRsTTZPUQ?oc=5",
       "date": "Mon, 17 Aug 2026 06:40:12 GMT",
       "source": "tokenpost.kr",
-      "score": 2
-    },
-    {
-      "title": "前 리플 엔지니어, 스타트업 출범 예고...\"RLUSD 다시 위대하게 만들 것\"",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1lRlRmLXlDNXlEMFV1d2dIaEdrSEpWeDJUM1NWaVNHUVBLRzBzYW5OQWkyVEFpMHVQVlNXaWdwWk9NR196MlNsaQ?oc=5",
-      "date": "Mon, 17 Aug 2026 03:30:00 GMT",
-      "source": "코인리더스",
       "score": 2
     },
     {
