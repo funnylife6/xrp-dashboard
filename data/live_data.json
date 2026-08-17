@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-17T22:16:00",
+  "generated_at": "2026-08-17T22:47:45",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.001,
-    "price_krw": 1418.37,
-    "price_change_24h": 0.54902,
-    "price_change_7d": -1.52955,
-    "price_change_30d": -8.47993,
-    "market_cap_usd": 62724475834,
+    "price_usd": 0.999908,
+    "price_krw": 1417.17,
+    "price_change_24h": 0.74264,
+    "price_change_7d": -1.61596,
+    "price_change_30d": -8.56023,
+    "market_cap_usd": 62671194512,
     "market_cap_rank": 6,
-    "volume_24h": 843855397,
+    "volume_24h": 839093369,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 63.22,
-    "sentiment_votes_down": 36.78,
+    "sentiment_votes_up": 62.92,
+    "sentiment_votes_down": 37.08,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 60.0,
-    "recent_tps": 60.0,
-    "recent_tx_count": 5400,
+    "tps_24h_avg": 18.06,
+    "recent_tps": 18.06,
+    "recent_tx_count": 1625,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106364768,
+    "ledger_seq": 106365265,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-17 22:15:49 KST",
+    "updated_at": "2026-08-17 22:47:29 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -48,16 +48,16 @@
   },
   "etf_news": [
     {
-      "title": "평균 단가 1.478달러에 갇혔다! 리플(XRP) 현물 ETF, 9월 클래러티법 통과에 사활!",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE03RmQ4cnZyUmR1ZEZkTlBhaFppUlVLTWw0UkpBQ182NkdJZEZ4V0dYamZQa3FHcFU2YTFBNEluVmk4UHVlbGZaMHhB?oc=5",
-      "date": "Mon, 17 Aug 2026 22:08:00 GMT",
-      "source": "코인리더스",
+      "title": "리플XRP 보합·비트코인 1.78%↑·스테이터스네트워크토큰 상승…ETF 유출 속 거래 위축",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAyY2R3Mkxnc2tuTXRZZTYweTExZHpKQUVtYWhReFF5c0wwbFkwMUs4M2gyVUg2YjR2SmFNcDRYUVhRUTZaQlN1OHVpLXdjUE9GOERqc0VRVy1DR3dMa0R2UGFKWWZQU25ZUHpLbUV0bFpPZw?oc=5",
+      "date": "Mon, 17 Aug 2026 22:08:02 GMT",
+      "source": "톱스타뉴스",
       "score": 0
     },
     {
-      "title": "거래소 물량 반토막에도 엑스알피(리플) 왜 1달러에 갇혔나?",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBLYXgwYUpmZXRSWkF5NDVOTmdwc2cySlFyWW5TRHlWendWdVZNOExyZFhGc1VLeGV6SDVfQ1NqNUo4aUFESTRFLVpB?oc=5",
-      "date": "Mon, 17 Aug 2026 21:58:00 GMT",
+      "title": "평균 단가 1.478달러에 갇혔다! 리플(XRP) 현물 ETF, 9월 클래러티법 통과에 사활!",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE03RmQ4cnZyUmR1ZEZkTlBhaFppUlVLTWw0UkpBQ182NkdJZEZ4V0dYamZQa3FHcFU2YTFBNEluVmk4UHVlbGZaMHhB?oc=5",
+      "date": "Mon, 17 Aug 2026 22:08:00 GMT",
       "source": "코인리더스",
       "score": 0
     },
@@ -91,6 +91,13 @@
     }
   ],
   "general_news": [
+    {
+      "title": "리플XRP 보합·비트코인 1.78%↑·스테이터스네트워크토큰 상승…ETF 유출 속 거래 위축",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAyY2R3Mkxnc2tuTXRZZTYweTExZHpKQUVtYWhReFF5c0wwbFkwMUs4M2gyVUg2YjR2SmFNcDRYUVhRUTZaQlN1OHVpLXdjUE9GOERqc0VRVy1DR3dMa0R2UGFKWWZQU25ZUHpLbUV0bFpPZw?oc=5",
+      "date": "Mon, 17 Aug 2026 22:08:02 GMT",
+      "source": "톱스타뉴스",
+      "score": 3
+    },
     {
       "title": "평균 단가 1.478달러에 갇혔다! 리플(XRP) 현물 ETF, 9월 클래러티법 통과에 사활!",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE03RmQ4cnZyUmR1ZEZkTlBhaFppUlVLTWw0UkpBQ182NkdJZEZ4V0dYamZQa3FHcFU2YTFBNEluVmk4UHVlbGZaMHhB?oc=5",
@@ -142,23 +149,16 @@
     },
     {
       "title": "前 리플 엔지니어, 스타트업 출범 예고...\"RLUSD 다시 위대하게 만들 것\"",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBhYXJYc1VfazZJR2RLZGE2OG5WSklJd1FybUFtTWVpNXBmb2ItbTFwNkZreEFGYUdOc1JYTXJ6cktULVV0RWhfR0Jn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1lRlRmLXlDNXlEMFV1d2dIaEdrSEpWeDJUM1NWaVNHUVBLRzBzYW5OQWkyVEFpMHVQVlNXaWdwWk9NR196MlNsaQ?oc=5",
       "date": "Mon, 17 Aug 2026 03:30:00 GMT",
       "source": "코인리더스",
-      "score": 2
-    },
-    {
-      "title": "카우프로토콜 급락·디라이브 급등·리플XRP 보합…비트코인 저항에 관망",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Lc1Noc1VqSWJ2MmppYmRHWkhBTEk4UUhtbWlpaGJnSkVFd2Z0akdRdFZzMktibjdXRElSLTVnMGRmVFdZNVlMalRrdGF0b2IwUFJhRjhVWnZLMTVHZ2huQkhFMGJvSGppVjJ5Qm43UWNudw?oc=5",
-      "date": "Sun, 16 Aug 2026 22:21:16 GMT",
-      "source": "톱스타뉴스",
       "score": 2
     },
     {
       "title": "리플 CEO, 8월18일 와이오밍서 15분 발언…신규 XRP 발표는 없다고 선 그어",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11YkNiTDNaOS0za25vQ1IzRkd0SWVCeDQycHJiR1ZuRWFyUTdIUGFueExqRHhTQmdNSTdZRWhSbjFkSHVna3ZPbXZ3S25nU3BvLVJMUEVn?oc=5",
       "date": "Sun, 16 Aug 2026 16:21:00 GMT",
-      "source": "wikitree.co.kr",
+      "source": "위키트리",
       "score": 2
     }
   ]
