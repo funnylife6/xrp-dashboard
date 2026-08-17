@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-17T07:44:46",
+  "generated_at": "2026-08-17T08:33:55",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.004,
-    "price_krw": 1417.69,
-    "price_change_24h": 0.26761,
-    "price_change_7d": -3.19669,
-    "price_change_30d": -7.78402,
-    "market_cap_usd": 62923312283,
+    "price_usd": 1.0,
+    "price_krw": 1411.21,
+    "price_change_24h": -0.1042,
+    "price_change_7d": -3.60345,
+    "price_change_30d": -8.11804,
+    "market_cap_usd": 62669785377,
     "market_cap_rank": 6,
-    "volume_24h": 650373327,
+    "volume_24h": 664026071,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 68.13,
-    "sentiment_votes_down": 31.87,
+    "sentiment_votes_up": 66.3,
+    "sentiment_votes_down": 33.7,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 17.93,
-    "recent_tps": 17.93,
-    "recent_tx_count": 1614,
+    "tps_24h_avg": 14.71,
+    "recent_tps": 14.71,
+    "recent_tx_count": 1309,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 106351185,
+    "recent_window_sec": 89,
+    "ledger_seq": 106351954,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-17 07:44:36 KST",
+    "updated_at": "2026-08-17 08:33:48 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -72,7 +72,7 @@
       "title": "캐나다 국립은행, XRP ETF·비트코인 펀드 소액 보유 사실 첫 공개",
       "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxPUXRpV2NURDY3SzNZVmNkTnZRU0JSTjRqNnA1NHZRTl9wRWZYSTd5dkVlWEt0UlpoM2lxU19EckY1eHJwNjdGclBjZUU4bndxcTJWMjhkZkREYjRWc1RXaEVGUFV3NFhhc0hOb2xKTVZ3OERPakFUb2d6NXZNUHI0RldUc21PSWF0WWxJMlJicVIxQW4tVkpCaFUtdDBGelpVY3lxWWE3NV9lWnljS2Q3NVVWYlpHbERpN2xzS1ZNM3ZkRkhIOGdXRE9nMFNqZUlhQVFLUHFpanplS0tBT1ZGeDk1amxzMEw5WVV5LUpwcjNTWDRNVDQtbldkRUlXaExyTHptbkVKQ1dmS1JYZ3JFc2ZjZUgyejdoU004YlFoem1TVTVCZm01SlFUUXJwUHgtdmhYM0J4ZHJJSHVEZU5JRGJLekxqVHlvOG9VeDRQOUI0OTF5Y0hLeU9hdWFGQ2gxYlJFTUNpQWxGYk9ZX3BhR2FUOWVvM2IwSUE?oc=5",
       "date": "Fri, 14 Aug 2026 20:54:00 GMT",
-      "source": "yellow.com",
+      "source": "Yellow.com",
       "score": 0
     },
     {
@@ -86,11 +86,18 @@
       "title": "리플XRP, 1달러 탐색…규제 명확성·ETF·실사용이 다시 부른 세 가지 변수",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYTy1reDllMndKTkIxTGRHSHMteGVOSWN1YUFWMWhoYzU5Q1k5aXIwYnFtWWFybS1aT2h3VXp6MHBiRGE4c0kzN2gwMjRyTHJXdDVjT2dwTXBrOHhCVjhzUENyc21MWHRz?oc=5",
       "date": "Fri, 14 Aug 2026 15:00:00 GMT",
-      "source": "CBC뉴스",
+      "source": "cbci.co.kr",
       "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "리플, 리플달러 1000만개 추가 발행했다",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPNkVmdWlCS2YyQUpsZzl3aFBfRlVZZkpheDEwMnRpWUhTWkotZFFMMFJhTk0zVTNoaC0yeWstaS05S0ZORkE5R21SWnFwdVcycVpyVlU2TTZfbzFUSV9ZSNIBZkFVX3lxTE95LXIzTnVLcnl3ajJlOVBxYnpsU2w1ekN2dmlIbFd4UWlpdklGOFZPZFJvc0U0NzJibFBaaDdOVU5FZUx2ekUxQWppMlZZS0lDVVk0RE5qcEF3Ni10Um4wRzRsTTZPUQ?oc=5",
+      "date": "Mon, 17 Aug 2026 06:40:12 GMT",
+      "source": "tokenpost.kr",
+      "score": 2
+    },
     {
       "title": "비트코인·XRP '운명의 한 주'…'4대 이벤트' 집중 분석",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTmJqS0Y5MzRoTUtzQThnek5aVklnTlVnZ3gyM0U5V044c2FFUnphcUw0M3VfRW5fdVlXN2RvWTRlVXBRVVprMlJaenFjcnVYaUFRX21Qc3lMdHVEZ3R5OWNwUUNua3N2TzhnM1RWNGpnQV9FYzRucHVDZlZIazJfVDJqc042TDdw?oc=5",
@@ -148,17 +155,10 @@
       "score": 2
     },
     {
-      "title": "209만건 XRP 레저 AI 결제, 금액은 7400달러",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzU1MtRUFDakdmWDZPd0xpQmJNVUhKNkkxUkJIQnpPcEV1QjNxVXJpQ000S0NsVkhJbU5TMlRvQzhuekVHNXF4UmhPTVQzYVhBSHNwNGU2Z2lVWXPSAWBBVV95cUxNQnljMDJlXzhubXo3YjRtOUd2a3lITXgxRDlTcWFhbzhTMmxiY3hDRUVaWkowenAtR250LTc0aEpSTzZLQVpNX3VMYVBkaXFWTE8xSHAtdGtPRHdDamFwNXI?oc=5",
-      "date": "Sun, 16 Aug 2026 13:39:46 GMT",
-      "source": "tokenpost.kr",
-      "score": 2
-    },
-    {
       "title": "'XRP서울 2026’, 10월3일 개최…모니카 롱 리플 사장 연설",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBoQm5memJfLXhSbnVvUHJnSmpUbDl4UTR4LXhIbXBudFlJYlBsY0Z4VTZ2QXgyWnJvZHZRUnlyQTM0a1lhM01hemVUY0RVNzVkTldXOFVOU1ZwOTlIRGJ5UHlWX3IzZ0ducE1YXzZUNWUwMDQ?oc=5",
       "date": "Sun, 16 Aug 2026 02:28:52 GMT",
-      "source": "marketin.edaily.co.kr",
+      "source": "마켓인",
       "score": 2
     }
   ]
