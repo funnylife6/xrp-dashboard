@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-17T12:26:23",
+  "generated_at": "2026-08-17T13:14:35",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.0,
-    "price_krw": 1411.88,
-    "price_change_24h": 0.01561,
-    "price_change_7d": -3.25152,
-    "price_change_30d": -8.07315,
-    "market_cap_usd": 62685801551,
+    "price_usd": 0.998117,
+    "price_krw": 1409.57,
+    "price_change_24h": -0.17027,
+    "price_change_7d": -2.89611,
+    "price_change_30d": -8.32194,
+    "market_cap_usd": 62550100453,
     "market_cap_rank": 6,
-    "volume_24h": 716125984,
+    "volume_24h": 730142570,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 63.86,
-    "sentiment_votes_down": 36.14,
+    "sentiment_votes_up": 62.35,
+    "sentiment_votes_down": 37.65,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 22.93,
-    "recent_tps": 22.93,
-    "recent_tx_count": 2041,
+    "tps_24h_avg": 21.31,
+    "recent_tps": 21.31,
+    "recent_tx_count": 1897,
     "recent_ledger_count": 24,
     "recent_window_sec": 89,
-    "ledger_seq": 106355581,
+    "ledger_seq": 106356329,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-17 12:26:16 KST",
+    "updated_at": "2026-08-17 13:14:23 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -48,6 +48,13 @@
   },
   "etf_news": [
     {
+      "title": "매도 피로감에 ETF 5주 연속 순유입까지! 리플(XRP) 1달러 사수 총력전!",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1iWk82ZWJGSVlMSGFmSjRrR3VKMWxkbWh1eVpMTGFmWTRlOFRZdG9VV0dlWXNCNFNQTHZCX1lZTjZ1UkpscVlOR01n?oc=5",
+      "date": "Mon, 17 Aug 2026 12:37:00 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
+    {
       "title": "XRP(리플) ETF는 흑자인데…자금은 왜 멈췄나?",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFByM3FZSXNTS2NxSDRQdlR1TzdGWXcyZnU5US1rQ09rVVI0aWZvTDdUS0U4eFloS19SeDN1NEd0Rmt2UmJ2R1N3VTVR?oc=5",
       "date": "Sun, 16 Aug 2026 22:30:00 GMT",
@@ -59,13 +66,6 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wb3ZxYlppUlE1dzlzV3NIa0Y5djVyWDNyVGdPdHFFS2tlWWZYTGtPQllnMXBCNG5CSk1HRmtsVmd0anFjYnU4RXkxSU1YdFNkVzJ2U1ZR?oc=5",
       "date": "Sun, 16 Aug 2026 11:47:00 GMT",
       "source": "odaily.news",
-      "score": 0
-    },
-    {
-      "title": "리플(XRP) 현물 ETF의 역설…15억달러 유입에도 자산은 10억달러 아래",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4yYWM5Zm03SWZCc3doZEJlLWZWSDVfVG81U19RTHBGZThEejlUVzRYN0dKV1BHZWZhTDFpZjhxUTQtcl9BUC03TVdn?oc=5",
-      "date": "Fri, 14 Aug 2026 22:56:00 GMT",
-      "source": "코인리더스",
       "score": 0
     },
     {
@@ -92,6 +92,13 @@
   ],
   "general_news": [
     {
+      "title": "매도 피로감에 ETF 5주 연속 순유입까지! 리플(XRP) 1달러 사수 총력전!",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1iWk82ZWJGSVlMSGFmSjRrR3VKMWxkbWh1eVpMTGFmWTRlOFRZdG9VV0dlWXNCNFNQTHZCX1lZTjZ1UkpscVlOR01n?oc=5",
+      "date": "Mon, 17 Aug 2026 12:37:00 GMT",
+      "source": "코인리더스",
+      "score": 3
+    },
+    {
       "title": "80만달러 XRP 보상, 바이낸스 조건은 까다로웠다",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jcVNrcXhfRnM5MzBad1pvR1ZjVjE1NXpwZmNhcjVUaDZ5NDVVWm1ZRndiRWQ5Wm14SmN0MkwzTzhGY3ljMDJDc0phbjNaSVZ5U2FkX0FEdmJ1b2V0am1oZtIBZkFVX3lxTE84dkF4Y3doX29KRlV5dTJnY0d3OTZHZXpJbHh4VGdNdXFBeFp4eFBlaUEyN0ZqeWREd09jMFh1OF93a3Rxek1LMHYyRjlweFZ5bnBIVUZmUmh1V0NqYWdSS3hVWDJ1Zw?oc=5",
       "date": "Mon, 17 Aug 2026 10:53:28 GMT",
@@ -99,16 +106,16 @@
       "score": 2
     },
     {
-      "title": "前 리플 엔지니어, 스타트업 출범 예고...\"RLUSD 다시 위대하게 만들 것\"",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBhYXJYc1VfazZJR2RLZGE2OG5WSklJd1FybUFtTWVpNXBmb2ItbTFwNkZreEFGYUdOc1JYTXJ6cktULVV0RWhfR0Jn?oc=5",
-      "date": "Mon, 17 Aug 2026 03:30:00 GMT",
-      "source": "코인리더스",
+      "title": "비트코인·XRP '운명의 한 주'…'4대 이벤트' 집중 분석",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTmJqS0Y5MzRoTUtzQThnek5aVklnTlVnZ3gyM0U5V044c2FFUnphcUw0M3VfRW5fdVlXN2RvWTRlVXBRVVprMlJaenFjcnVYaUFRX21Qc3lMdHVEZ3R5OWNwUUNua3N2TzhnM1RWNGpnQV9FYzRucHVDZlZIazJfVDJqc042TDdw?oc=5",
+      "date": "Mon, 17 Aug 2026 05:15:29 GMT",
+      "source": "글로벌이코노믹",
       "score": 2
     },
     {
-      "title": "리플(XRP) 0.99달러 위태…뚜렷한 악재 없는데 왜 떨어졌나?",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBpRTQ4Tk1hNkJKSHhIbDRDYzdjZmxyNVZyQ0duN3hocjN0b3V1VmJESGhaMW9yRUhfVktyLXRBVWtROGwxdnVvei13?oc=5",
-      "date": "Mon, 17 Aug 2026 00:54:00 GMT",
+      "title": "前 리플 엔지니어, 스타트업 출범 예고...\"RLUSD 다시 위대하게 만들 것\"",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1lRlRmLXlDNXlEMFV1d2dIaEdrSEpWeDJUM1NWaVNHUVBLRzBzYW5OQWkyVEFpMHVQVlNXaWdwWk9NR196MlNsaQ?oc=5",
+      "date": "Mon, 17 Aug 2026 03:30:00 GMT",
       "source": "코인리더스",
       "score": 2
     },
@@ -124,13 +131,6 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Lc1Noc1VqSWJ2MmppYmRHWkhBTEk4UUhtbWlpaGJnSkVFd2Z0akdRdFZzMktibjdXRElSLTVnMGRmVFdZNVlMalRrdGF0b2IwUFJhRjhVWnZLMTVHZ2huQkhFMGJvSGppVjJ5Qm43UWNudw?oc=5",
       "date": "Sun, 16 Aug 2026 22:21:16 GMT",
       "source": "톱스타뉴스",
-      "score": 2
-    },
-    {
-      "title": "비트코인·XRP, 8월 최대 분수령 4가지 이유",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qaFF0cU8wejBkaTc4ampPbVMwcVpxOElGbUxTUDZsNmthMGVLTlZ1UWtRNng4c2RNRFlMSjZHbWQ1b0JyN3Jza3pDTmU5Ul92bU9oOU5lSGxXaEFZdXV3SlNBeDNNQ3B0Um9lOA?oc=5",
-      "date": "Sun, 16 Aug 2026 21:27:55 GMT",
-      "source": "BeInCrypto",
       "score": 2
     },
     {
@@ -155,10 +155,10 @@
       "score": 8
     },
     {
-      "title": "'XRP서울 2026’, 10월3일 개최…모니카 롱 리플 사장 연설",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUjhSbE11U1phQjRka3hFMk16V0JsSGp2ejdtZ3NXdlBPTDhVbzBCVVVnMy1kaXd6U1EtbFBDWl9RcTQ5cWNfdDR5Q1dENjRVN3V1cHV3UENkeUZWNXk0emtxVS11TlFhRFpEQ05rQWR0UEtUSW5aQnR5XzA0YW5kUQ?oc=5",
-      "date": "Sun, 16 Aug 2026 02:04:50 GMT",
-      "source": "edaily.co.kr",
+      "title": "[코툰] \"바이낸스 리플(XRP) 고래 입금, 2021년 이후 최저 수준\"",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ZeTJadG0yQ2Q0SmdHSS1nZGlNNTU3VDVHaldiYm4tNUlfYmhWcWxvc0NxaXdBTEpiclJFbXlNNU5uY3h3N0Y4c01R?oc=5",
+      "date": "Sun, 16 Aug 2026 07:31:00 GMT",
+      "source": "코인리더스",
       "score": 2
     }
   ]
