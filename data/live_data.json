@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-18T10:21:41",
+  "generated_at": "2026-08-18T10:53:42",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 0.99475,
-    "price_krw": 1402.19,
-    "price_change_24h": -0.14678,
-    "price_change_7d": -1.09623,
-    "price_change_30d": -9.14476,
-    "market_cap_usd": 62348910370,
+    "price_usd": 0.995171,
+    "price_krw": 1403.16,
+    "price_change_24h": -0.58443,
+    "price_change_7d": -1.05434,
+    "price_change_30d": -9.10629,
+    "market_cap_usd": 62373575493,
     "market_cap_rank": 6,
-    "volume_24h": 857330506,
+    "volume_24h": 851861552,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 57.14,
-    "sentiment_votes_down": 42.86,
+    "sentiment_votes_up": 57.32,
+    "sentiment_votes_down": 42.68,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 15.72,
-    "recent_tps": 15.72,
-    "recent_tx_count": 1415,
+    "tps_24h_avg": 14.18,
+    "recent_tps": 14.18,
+    "recent_tx_count": 1262,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 106376082,
+    "recent_window_sec": 89,
+    "ledger_seq": 106376582,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-18 10:21:30 KST",
+    "updated_at": "2026-08-18 10:53:35 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,6 +92,13 @@
   ],
   "general_news": [
     {
+      "title": "리플의 호황과 XRP의 부재 – 리플은 과연 자체 토큰이 필요한가",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhUk5RM2hsT0lEQ0ZfcWMyMXRzZkFWY3ZRZVh0eG96YzlwQTNTUVdJYldoTzVPWFgwQ01tSmdMd1c3QTZFTzlPcEFGTjVMcDhOZzhVRWNzTTJYZGFzYVUwTVFucU9qTm9KQmQ1ejg3R29iYkk?oc=5",
+      "date": "Tue, 18 Aug 2026 10:21:00 GMT",
+      "source": "Investing.com 한국어",
+      "score": 2
+    },
+    {
       "title": "XRP는 1달러 밑으로, 리플은 한국 금융권 확장…전북은행과 맞손",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSc25Gakp2NkItdGV6azNDM1h1bmFIU1VyeWdZY0RxRFlPVGkyTkszbngycHF5MThEZDVHNmZzaFdQNlhyY3NHWi1tTWNKSzA?oc=5",
       "date": "Tue, 18 Aug 2026 08:04:05 GMT",
@@ -102,7 +109,7 @@
       "title": "[D-BIZ 암호화폐 뉴스] 리플-전북은행 파트너십에도 XRP 하락…\"실제 사용 자산은 RLUSD일 수도\"",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85RnJYeUtqV3BTdUlJUkFLRW5jQzdtWldPN0FZWmI1WEdBLWhPcmZQZ05BRHVrLWZzamJHamtrZHZmV0V0ZUVYMXlzWTNEVmNSMzBSWWhNRjBKVjdpVVYzVzNLUE40MDBjOXpTVw?oc=5",
       "date": "Tue, 18 Aug 2026 06:22:57 GMT",
-      "source": "데일리비즈온",
+      "source": "dailybizon.com",
       "score": 4
     },
     {
@@ -152,13 +159,6 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoLXd2MGo5NG1CdjI1d2NkYkFIeHpvTVpGQUpidS0xY0FLTGhXOGhoZ1BVUERtZDkySmFNMUdFWXVpMjdPWmpvOFF2QVJjRWNPWGY1MTFPUTFzamR5dWtIRVB6dGtiYzZwZFB2TTZiRGY?oc=5",
       "date": "Mon, 17 Aug 2026 23:50:29 GMT",
       "source": "블록체인투데이",
-      "score": 2
-    },
-    {
-      "title": "1.00달러 턱걸이 방어한 리플(XRP), 개인 매수세 타고 추세 반전 성공할까?",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1JNnRPUHg2VVV2Q3BDVmY1RDk3eGtlcjVPMFl5M19KMGVwZ0U3MldVSWhZUDM1bndBUG1URFhZT3lwR1ZuZG10RkZR?oc=5",
-      "date": "Mon, 17 Aug 2026 23:42:00 GMT",
-      "source": "코인리더스",
       "score": 2
     }
   ]
