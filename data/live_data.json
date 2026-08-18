@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-18T18:25:19",
+  "generated_at": "2026-08-18T19:05:55",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.001,
-    "price_krw": 1414.72,
-    "price_change_24h": -0.04504,
-    "price_change_7d": -1.44921,
-    "price_change_30d": -8.44424,
-    "market_cap_usd": 62768217864,
+    "price_usd": 1.0,
+    "price_krw": 1413.71,
+    "price_change_24h": 0.01118,
+    "price_change_7d": -1.13187,
+    "price_change_30d": -8.36849,
+    "market_cap_usd": 62702516957,
     "market_cap_rank": 6,
-    "volume_24h": 830586358,
+    "volume_24h": 818586876,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 56.7,
-    "sentiment_votes_down": 43.3,
+    "sentiment_votes_up": 56.25,
+    "sentiment_votes_down": 43.75,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 21.72,
-    "recent_tps": 21.72,
-    "recent_tx_count": 1955,
+    "tps_24h_avg": 34.02,
+    "recent_tps": 34.02,
+    "recent_tx_count": 2790,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 106383609,
+    "recent_window_sec": 82,
+    "ledger_seq": 106384238,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-18 18:25:11 KST",
+    "updated_at": "2026-08-18 19:05:41 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -51,7 +51,7 @@
       "title": "월가 큰손 제인 스트리트, 비트와이즈 XRP ETF 지분 60배 급증…120만주 보유",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB1UThFUWxGQTBua3BuUmhBSTVxSGM5T3JPSWZaajh4cGVKdEZWbjZwZXVuQjBoS3lLdl8wX2taS3ZoSGpZMUZwYk0wUDFBcldEajhiRGMyZXY0UVlUTklDMUFMaVdtc0JpRnQtRmRfSU1HdXc?oc=5",
       "date": "Tue, 18 Aug 2026 02:41:52 GMT",
-      "source": "디지털투데이",
+      "source": "digitaltoday.co.kr",
       "score": 0
     },
     {
@@ -92,13 +92,6 @@
   ],
   "general_news": [
     {
-      "title": "속보 | 리플 명예 CTO \"한때 2600만 XRP 보유했지만, 지금은 200만개\"",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1YNmljVFh6bUk1SVNGWmFTRzE0d1ZyODlLYV85M3dEWW12enFDTmZZSTRrODdlV0M2aEJDYXZadFN3Z3lMV1ljd3dLRU5iVndP?oc=5",
-      "date": "Tue, 18 Aug 2026 12:45:39 GMT",
-      "source": "CoinNess",
-      "score": 9
-    },
-    {
       "title": "리플의 호황과 XRP의 부재 – 리플은 과연 자체 토큰이 필요한가",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhUk5RM2hsT0lEQ0ZfcWMyMXRzZkFWY3ZRZVh0eG96YzlwQTNTUVdJYldoTzVPWFgwQ01tSmdMd1c3QTZFTzlPcEFGTjVMcDhOZzhVRWNzTTJYZGFzYVUwTVFucU9qTm9KQmQ1ejg3R29iYkk?oc=5",
       "date": "Tue, 18 Aug 2026 10:21:00 GMT",
@@ -109,7 +102,7 @@
       "title": "XRP, 한국 은행의 리플 페이먼트 도입에도 불구하고 2024년 이후 처음으로 1달러 아래로 하락",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcUxVbHFhLWU2OUFCRmJwdXVRQTNDYWFUSExUbE1HWXE5TWl5SjgyUDdMbjdHVm5ZSXhkU3dDZDlNbWEweXdCSlg5S0Z1WUdnR2NmZGNnYzEtRTg5ejAyc25TS3lEci01LW93aW1WNGM4SERtbDdjTTdiMGVVemx5T3RlNUlQdjhsalVvOS1GREJiSVo2VHdGdEJrQTM3NE9ZZlhlNXVucnFCeWgteGE1My1qNG83RTY3ejlZ?oc=5",
       "date": "Tue, 18 Aug 2026 08:40:31 GMT",
-      "source": "coindesk.com",
+      "source": "CoinDesk",
       "score": 4
     },
     {
@@ -137,29 +130,36 @@
       "title": "전 리플 엔지니어 '수수께끼 스타트업' 예고…RLUSD 전면에",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtS2RoT3U2VDRuRXJyV0FrNE9Zdnh3ODBKMFkzSmtjdmI2QlEyRm10eTZ4MmtTYW82UmNrM2JFYWN4akVYMjBaRDNnNlVibC10ZVdVYTNZOUFDblNydEtfYlhrQ1pkdDJ6c0NmVl91WlhzSVE?oc=5",
       "date": "Tue, 18 Aug 2026 04:15:06 GMT",
-      "source": "디지털투데이",
+      "source": "digitaltoday.co.kr",
       "score": 2
     },
     {
       "title": "리플 성장하는데 XRP는…토큰 수요 왜 안 따라오나",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5XWE9GWVptQU5IbWhOcXFXUk44anJrMzFFdWV1aTg5RDBNZnJfTDRPWXZxUWF6a0hyaGRJVk5xUV80RDNKXzRwZzR2bFFSa2U4VXhDUUtXc1BnOGJPTjNZX0wzV3JkVktjVWVqeGlvMGRjalU?oc=5",
       "date": "Tue, 18 Aug 2026 01:45:51 GMT",
-      "source": "디지털투데이",
+      "source": "digitaltoday.co.kr",
       "score": 2
     },
     {
       "title": "\"실용성이 전부는 아니다\"… 리플 XRP, '가치 포착' 한계 직면",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EQVY3a1FNSVpSN3RKd3RiekxPanNZWHBPaVZibk9ldnMyVXlTbUtldXB3bDhnbWVzXzJEU3g3YzJoQlhJN3hmSTFqZUd5eGZMM0VPYWl3NkU0bjMyWHB5YXZYM0pqMUg1SG5OMTBCTUQ?oc=5",
       "date": "Tue, 18 Aug 2026 00:42:41 GMT",
-      "source": "블록체인투데이",
+      "source": "blockchaintoday.co.kr",
       "score": 2
     },
     {
       "title": "리플, 기관 수요 커지자 움직였다…RLUSD 1000만개 추가 발행",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yZVh0by00SlZRVVFZaTFBMVFraEJCZmthb1dRRlgxMEN4MnYwOFZ0bFk1dUNvbmw0dHBmVW1Jd3ljZWlaTTdzV0hrVklTTFpyN3pJ?oc=5",
       "date": "Tue, 18 Aug 2026 00:20:00 GMT",
-      "source": "네이트",
+      "source": "news.nate.com",
       "score": 4
+    },
+    {
+      "title": "RLUSD 1000만 달러 추가 발행… XRP 가격은 1달러 횡보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoLXd2MGo5NG1CdjI1d2NkYkFIeHpvTVpGQUpidS0xY0FLTGhXOGhoZ1BVUERtZDkySmFNMUdFWXVpMjdPWmpvOFF2QVJjRWNPWGY1MTFPUTFzamR5dWtIRVB6dGtiYzZwZFB2TTZiRGY?oc=5",
+      "date": "Mon, 17 Aug 2026 23:50:29 GMT",
+      "source": "blockchaintoday.co.kr",
+      "score": 2
     }
   ]
 }
