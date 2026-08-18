@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-18T16:21:29",
+  "generated_at": "2026-08-18T16:55:57",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.001,
-    "price_krw": 1412.21,
-    "price_change_24h": -0.21053,
-    "price_change_7d": -0.21413,
-    "price_change_30d": -8.80227,
-    "market_cap_usd": 62713541665,
+    "price_usd": 1.002,
+    "price_krw": 1414.18,
+    "price_change_24h": -0.03981,
+    "price_change_7d": -0.09405,
+    "price_change_30d": -8.69252,
+    "market_cap_usd": 62790059677,
     "market_cap_rank": 6,
-    "volume_24h": 848966821,
+    "volume_24h": 849142000,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 56.38,
-    "sentiment_votes_down": 43.62,
+    "sentiment_votes_up": 55.32,
+    "sentiment_votes_down": 44.68,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 22.49,
-    "recent_tps": 22.49,
-    "recent_tx_count": 2024,
+    "tps_24h_avg": 14.45,
+    "recent_tps": 14.45,
+    "recent_tx_count": 1286,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 106381680,
+    "recent_window_sec": 89,
+    "ledger_seq": 106382219,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-18 16:21:21 KST",
+    "updated_at": "2026-08-18 16:55:47 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -52,13 +52,6 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB1UThFUWxGQTBua3BuUmhBSTVxSGM5T3JPSWZaajh4cGVKdEZWbjZwZXVuQjBoS3lLdl8wX2taS3ZoSGpZMUZwYk0wUDFBcldEajhiRGMyZXY0UVlUTklDMUFMaVdtc0JpRnQtRmRfSU1HdXc?oc=5",
       "date": "Tue, 18 Aug 2026 02:41:52 GMT",
       "source": "디지털투데이",
-      "score": 0
-    },
-    {
-      "title": "XRP(리플), 현물 98% '증발'...1달러 사수전 비상",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1FSUc0VDdFWENSRmUzcWc5SEdhdGVsNHJidVlZZlhrZlpWMVRmQURQT2gzMm52TGUwb3BOakJ3RV9ibVRFRy0taVpn?oc=5",
-      "date": "Mon, 17 Aug 2026 23:45:00 GMT",
-      "source": "코인리더스",
       "score": 0
     },
     {
@@ -87,6 +80,13 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUEs5a0I4QzFDZ3dJUXVZb05CaVBiMW1NTFVBV05xVHlGd1NHZUgzTHJfQl9CRjZ5dDlEZm1TM2hHUElQZ08zUkNVMXFCTXJGN0xOengydFVtUUhvMFExVHNqYmxydlNfdUNNUEI0S3haR2pHR3FjVkVWUlNPeWwyMEV2T3NWNUwz?oc=5",
       "date": "Mon, 17 Aug 2026 21:57:42 GMT",
       "source": "글로벌이코노믹",
+      "score": 0
+    },
+    {
+      "title": "매도 피로감에 ETF 5주 연속 순유입까지! 리플(XRP) 1달러 사수 총력전!",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1iWk82ZWJGSVlMSGFmSjRrR3VKMWxkbWh1eVpMTGFmWTRlOFRZdG9VV0dlWXNCNFNQTHZCX1lZTjZ1UkpscVlOR01n?oc=5",
+      "date": "Mon, 17 Aug 2026 12:37:00 GMT",
+      "source": "코인리더스",
       "score": 0
     }
   ],
@@ -123,7 +123,7 @@
       "title": "바이낸스, XRP 100만 개 에어드랍… ‘RLUSD 보상 확대’ 속 리플 생태계 주목",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpODdEdjEwSXlZdlVjNE5kbFNxSHdLeXRrNDFqSkVMLWlIRXBYdWJuZDNaT0d0cG5SazZvMWUyQTBGbzRzX2RwaDl5QmZ4a2RBVWxrd0U2Q0ZZUkhhZGVkVU5EaWx5VGvSAWtBVV95cUxQclhvNDd5ejE3Y2VCVnBDTVZGamRvWklOc2twYUZxXzgxVmtsX3JfVEtqX01fX3cyNjF4VkhGaUc1NVBROGtrUFBzanlJb0lKNHNzdHZLRDk0THZ1UWxzTG44OWl5blZUT2hFRQ?oc=5",
       "date": "Tue, 18 Aug 2026 06:09:51 GMT",
-      "source": "bonmedia.kr",
+      "source": "비온미디어",
       "score": 3
     },
     {
