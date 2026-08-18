@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-18T22:14:14",
+  "generated_at": "2026-08-18T22:47:45",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.001,
-    "price_krw": 1413.55,
-    "price_change_24h": -0.00575,
-    "price_change_7d": -2.2997,
-    "price_change_30d": -8.37461,
-    "market_cap_usd": 62719137370,
+    "price_usd": 1.0,
+    "price_krw": 1412.78,
+    "price_change_24h": 0.0252,
+    "price_change_7d": -2.34898,
+    "price_change_30d": -8.42082,
+    "market_cap_usd": 62690986186,
     "market_cap_rank": 6,
-    "volume_24h": 811601345,
+    "volume_24h": 822004529,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 58.24,
-    "sentiment_votes_down": 41.76,
+    "sentiment_votes_up": 57.78,
+    "sentiment_votes_down": 42.22,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 18.44,
-    "recent_tps": 18.44,
-    "recent_tx_count": 1660,
+    "tps_24h_avg": 26.63,
+    "recent_tps": 26.63,
+    "recent_tx_count": 2184,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 106387170,
+    "recent_window_sec": 82,
+    "ledger_seq": 106387692,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-18 22:14:02 KST",
+    "updated_at": "2026-08-18 22:47:38 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -106,10 +106,10 @@
       "score": 3
     },
     {
-      "title": "리플 CTO 명예직, XRP 보유량 200만개 공개",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sYXZncnUzUXJTVzhaeEJaZkRrSWFYMFpjVjVxaDlNRDF6OTctR2lKeUtERDM2UzRndnozUzQxcWh3VEpKN1p2UXJ6bHhweTVmMGJIejBjYmZNSlRRaEVFctIBZkFVX3lxTE9pQS1SQk1uc1lvWEZLbzdiSzhxeTZweEFsN19tc21kNWJsSDZCN1MzS1JSRnV0bVdSRWZIZFA5WUstcFVlR1NOYWgtWG5GdWxvaW5wUXZSZ1gxcWJ5RnBzMWlJcGxaUQ?oc=5",
-      "date": "Tue, 18 Aug 2026 12:43:23 GMT",
-      "source": "tokenpost.kr",
+      "title": "리플 4파 조정 끝내고 5파 반등 시동… 대장주 추월할까",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc3BNNXVnODJ4Z2NvazZULUZKU0hSTnlGUkV3OW1yb1hIUnExUDg0TmFuNm0tUHBEMV9BdzFYcVN6T1lDTVQzWWpKVnVKdWxEemUyRmZ5N1R2RmVpcjBzRE1iMmY5VUF5eHJOS09LbmdsWHVjR3pKOUZTbGdobXpjaTg2SGlzcnk5?oc=5",
+      "date": "Tue, 18 Aug 2026 20:24:57 GMT",
+      "source": "글로벌이코노믹",
       "score": 2
     },
     {
@@ -155,10 +155,10 @@
       "score": 2
     },
     {
-      "title": "리플 성장하는데 XRP는…토큰 수요 왜 안 따라오나",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5XWE9GWVptQU5IbWhOcXFXUk44anJrMzFFdWV1aTg5RDBNZnJfTDRPWXZxUWF6a0hyaGRJVk5xUV80RDNKXzRwZzR2bFFSa2U4VXhDUUtXc1BnOGJPTjNZX0wzV3JkVktjVWVqeGlvMGRjalU?oc=5",
-      "date": "Tue, 18 Aug 2026 01:45:51 GMT",
-      "source": "디지털투데이",
+      "title": "\"실용성이 전부는 아니다\"… 리플 XRP, '가치 포착' 한계 직면",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EQVY3a1FNSVpSN3RKd3RiekxPanNZWHBPaVZibk9ldnMyVXlTbUtldXB3bDhnbWVzXzJEU3g3YzJoQlhJN3hmSTFqZUd5eGZMM0VPYWl3NkU0bjMyWHB5YXZYM0pqMUg1SG5OMTBCTUQ?oc=5",
+      "date": "Tue, 18 Aug 2026 00:42:41 GMT",
+      "source": "블록체인투데이",
       "score": 2
     }
   ]
