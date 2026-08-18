@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-18T05:52:46",
+  "generated_at": "2026-08-18T06:29:09",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 0.994358,
-    "price_krw": 1402.36,
-    "price_change_24h": -0.71769,
-    "price_change_7d": -1.72772,
-    "price_change_30d": -9.27052,
-    "market_cap_usd": 62346380983,
+    "price_usd": 0.997892,
+    "price_krw": 1408.82,
+    "price_change_24h": -0.5111,
+    "price_change_7d": -1.0738,
+    "price_change_30d": -8.95141,
+    "market_cap_usd": 62544825807,
     "market_cap_rank": 6,
-    "volume_24h": 890794672,
+    "volume_24h": 886253666,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 61.36,
-    "sentiment_votes_down": 38.64,
+    "sentiment_votes_up": 61.11,
+    "sentiment_votes_down": 38.89,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 26.13,
-    "recent_tps": 26.13,
-    "recent_tx_count": 2352,
+    "tps_24h_avg": 15.67,
+    "recent_tps": 15.67,
+    "recent_tx_count": 1285,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 106371889,
+    "recent_window_sec": 82,
+    "ledger_seq": 106372458,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-18 05:52:35 KST",
+    "updated_at": "2026-08-18 06:28:59 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,10 +92,17 @@
   ],
   "general_news": [
     {
+      "title": "[D-BIZ 암호화폐 뉴스] 리플-전북은행 파트너십에도 XRP 하락…\"실제 사용 자산은 RLUSD일 수도\"",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85RnJYeUtqV3BTdUlJUkFLRW5jQzdtWldPN0FZWmI1WEdBLWhPcmZQZ05BRHVrLWZzamJHamtrZHZmV0V0ZUVYMXlzWTNEVmNSMzBSWWhNRjBKVjdpVVYzVzNLUE40MDBjOXpTVw?oc=5",
+      "date": "Tue, 18 Aug 2026 06:22:57 GMT",
+      "source": "데일리비즈온",
+      "score": 4
+    },
+    {
       "title": "리플, 올해 세 번째 한국 은행 파트너십 체결에도 불구하고 XRP 1달러 밑으로 하락",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcUxVbHFhLWU2OUFCRmJwdXVRQTNDYWFUSExUbE1HWXE5TWl5SjgyUDdMbjdHVm5ZSXhkU3dDZDlNbWEweXdCSlg5S0Z1WUdnR2NmZGNnYzEtRTg5ejAyc25TS3lEci01LW93aW1WNGM4SERtbDdjTTdiMGVVemx5T3RlNUlQdjhsalVvOS1GREJiSVo2VHdGdEJrQTM3NE9ZZlhlNXVucnFCeWgteGE1My1qNG83RTY3ejlZ?oc=5",
       "date": "Tue, 18 Aug 2026 05:36:52 GMT",
-      "source": "CoinDesk",
+      "source": "coindesk.com",
       "score": 4
     },
     {
@@ -138,7 +145,7 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoLXd2MGo5NG1CdjI1d2NkYkFIeHpvTVpGQUpidS0xY0FLTGhXOGhoZ1BVUERtZDkySmFNMUdFWXVpMjdPWmpvOFF2QVJjRWNPWGY1MTFPUTFzamR5dWtIRVB6dGtiYzZwZFB2TTZiRGY?oc=5",
       "date": "Mon, 17 Aug 2026 23:50:29 GMT",
       "source": "블록체인투데이",
-      "score": 2
+      "score": 3
     },
     {
       "title": "리플, RLUSD 1000만개 추가 발행…시장 전반의 방향성",
@@ -153,13 +160,6 @@
       "date": "Mon, 17 Aug 2026 22:08:02 GMT",
       "source": "톱스타뉴스",
       "score": 3
-    },
-    {
-      "title": "평균 단가 1.478달러에 갇혔다! 리플(XRP) 현물 ETF, 9월 클래러티법 통과에 사활!",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE03RmQ4cnZyUmR1ZEZkTlBhaFppUlVLTWw0UkpBQ182NkdJZEZ4V0dYamZQa3FHcFU2YTFBNEluVmk4UHVlbGZaMHhB?oc=5",
-      "date": "Mon, 17 Aug 2026 22:08:00 GMT",
-      "source": "코인리더스",
-      "score": 4
     }
   ]
 }
