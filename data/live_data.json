@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-18T05:00:39",
+  "generated_at": "2026-08-18T05:52:46",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 0.994208,
-    "price_krw": 1404.54,
-    "price_change_24h": -0.71172,
-    "price_change_7d": -1.74255,
-    "price_change_30d": -9.28422,
-    "market_cap_usd": 62313943568,
+    "price_usd": 0.994358,
+    "price_krw": 1402.36,
+    "price_change_24h": -0.71769,
+    "price_change_7d": -1.72772,
+    "price_change_30d": -9.27052,
+    "market_cap_usd": 62346380983,
     "market_cap_rank": 6,
-    "volume_24h": 877862245,
+    "volume_24h": 890794672,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 63.44,
-    "sentiment_votes_down": 36.56,
+    "sentiment_votes_up": 61.36,
+    "sentiment_votes_down": 38.64,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 16.27,
-    "recent_tps": 16.27,
-    "recent_tx_count": 1464,
+    "tps_24h_avg": 26.13,
+    "recent_tps": 26.13,
+    "recent_tx_count": 2352,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106371078,
+    "ledger_seq": 106371889,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-18 05:00:31 KST",
+    "updated_at": "2026-08-18 05:52:35 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -79,7 +79,7 @@
       "title": "리플 1달러 벼랑 끝 방어전… 방향타 잃은 투자심리",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUEs5a0I4QzFDZ3dJUXVZb05CaVBiMW1NTFVBV05xVHlGd1NHZUgzTHJfQl9CRjZ5dDlEZm1TM2hHUElQZ08zUkNVMXFCTXJGN0xOengydFVtUUhvMFExVHNqYmxydlNfdUNNUEI0S3haR2pHR3FjVkVWUlNPeWwyMEV2T3NWNUwz?oc=5",
       "date": "Mon, 17 Aug 2026 21:57:42 GMT",
-      "source": "g-enews.com",
+      "source": "글로벌이코노믹",
       "score": 0
     },
     {
@@ -91,6 +91,13 @@
     }
   ],
   "general_news": [
+    {
+      "title": "리플, 올해 세 번째 한국 은행 파트너십 체결에도 불구하고 XRP 1달러 밑으로 하락",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcUxVbHFhLWU2OUFCRmJwdXVRQTNDYWFUSExUbE1HWXE5TWl5SjgyUDdMbjdHVm5ZSXhkU3dDZDlNbWEweXdCSlg5S0Z1WUdnR2NmZGNnYzEtRTg5ejAyc25TS3lEci01LW93aW1WNGM4SERtbDdjTTdiMGVVemx5T3RlNUlQdjhsalVvOS1GREJiSVo2VHdGdEJrQTM3NE9ZZlhlNXVucnFCeWgteGE1My1qNG83RTY3ejlZ?oc=5",
+      "date": "Tue, 18 Aug 2026 05:36:52 GMT",
+      "source": "CoinDesk",
+      "score": 4
+    },
     {
       "title": "전 리플 엔지니어 '수수께끼 스타트업' 예고…RLUSD 전면에",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtS2RoT3U2VDRuRXJyV0FrNE9Zdnh3ODBKMFkzSmtjdmI2QlEyRm10eTZ4MmtTYW82UmNrM2JFYWN4akVYMjBaRDNnNlVibC10ZVdVYTNZOUFDblNydEtfYlhrQ1pkdDJ6c0NmVl91WlhzSVE?oc=5",
@@ -153,13 +160,6 @@
       "date": "Mon, 17 Aug 2026 22:08:00 GMT",
       "source": "코인리더스",
       "score": 4
-    },
-    {
-      "title": "리플, 또 1,000만 RLUSD 추가 발행...기관 수요 얼마나 커졌나",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB6WC1oaURqbFI1UGRiTXB1ZkdFU080SFNtMW1OeENKRGJOVlFKeFVDR0UySnpvcDY0ZXp4ZEpUSG5yM3dMQ2NuaXRn?oc=5",
-      "date": "Mon, 17 Aug 2026 20:20:00 GMT",
-      "source": "코인리더스",
-      "score": 3
     }
   ]
 }
