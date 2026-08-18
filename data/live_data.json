@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-18T02:11:21",
+  "generated_at": "2026-08-18T03:14:35",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 0.996045,
-    "price_krw": 1405.39,
-    "price_change_24h": -0.13548,
-    "price_change_7d": -1.87513,
-    "price_change_30d": -8.90461,
-    "market_cap_usd": 62424306316,
+    "price_usd": 0.989764,
+    "price_krw": 1393.91,
+    "price_change_24h": -1.12382,
+    "price_change_7d": -2.29806,
+    "price_change_30d": -9.77388,
+    "market_cap_usd": 62035406307,
     "market_cap_rank": 6,
-    "volume_24h": 810533705,
+    "volume_24h": 850084732,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
@@ -22,16 +22,16 @@
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 18.22,
-    "recent_tps": 18.22,
-    "recent_tx_count": 1640,
+    "tps_24h_avg": 28.77,
+    "recent_tps": 28.77,
+    "recent_tx_count": 2589,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106368443,
+    "ledger_seq": 106369423,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-18 02:11:14 KST",
+    "updated_at": "2026-08-18 03:14:22 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -47,6 +47,13 @@
     "data_source": "news_parse"
   },
   "etf_news": [
+    {
+      "title": "월가 큰손 제인 스트리트, 비트와이즈 XRP ETF 지분 60배 급증…120만주 보유",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB1UThFUWxGQTBua3BuUmhBSTVxSGM5T3JPSWZaajh4cGVKdEZWbjZwZXVuQjBoS3lLdl8wX2taS3ZoSGpZMUZwYk0wUDFBcldEajhiRGMyZXY0UVlUTklDMUFMaVdtc0JpRnQtRmRfSU1HdXc?oc=5",
+      "date": "Tue, 18 Aug 2026 02:41:52 GMT",
+      "source": "디지털투데이",
+      "score": 0
+    },
     {
       "title": "SEC, 24시간 온체인 주식 거래 카드 '만지작'...XRP 1달러 넘어설까?",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE80eHRGWDg3WEY3czJQSVAzVmtUQ29pcVlMZUZwbHV3UHl3aE1wTWx6U3RJWk96THF2cnY1YWV5Y0NnMGRRUHV1UkFn?oc=5",
@@ -80,13 +87,6 @@
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1iWk82ZWJGSVlMSGFmSjRrR3VKMWxkbWh1eVpMTGFmWTRlOFRZdG9VV0dlWXNCNFNQTHZCX1lZTjZ1UkpscVlOR01n?oc=5",
       "date": "Mon, 17 Aug 2026 12:37:00 GMT",
       "source": "코인리더스",
-      "score": 0
-    },
-    {
-      "title": "XRP 현물 ETF 지난주 순유입 225 만 달러",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wb3ZxYlppUlE1dzlzV3NIa0Y5djVyWDNyVGdPdHFFS2tlWWZYTGtPQllnMXBCNG5CSk1HRmtsVmd0anFjYnU4RXkxSU1YdFNkVzJ2U1ZR?oc=5",
-      "date": "Sun, 16 Aug 2026 11:47:00 GMT",
-      "source": "odaily.news",
       "score": 0
     }
   ],
@@ -149,7 +149,7 @@
     },
     {
       "title": "리플, 또 1,000만 RLUSD 추가 발행...기관 수요 얼마나 커졌나",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB6WC1oaURqbFI1UGRiTXB1ZkdFU080SFNtMW1OeENKRGJOVlFKeFVDR0UySnpvcDY0ZXp4ZEpUSG5yM3dMQ2NuaXRn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5KV19tcEJwUDRFQ3NxZ1QyTXUtcGtjWk9zRWlvWEZRZ3JJQ1dlc3VJd2ZKcFRHWVRpWkdtU0tYWmRmTmpoXzlOOQ?oc=5",
       "date": "Mon, 17 Aug 2026 20:20:00 GMT",
       "source": "코인리더스",
       "score": 3
