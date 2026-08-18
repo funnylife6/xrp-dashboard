@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-18T21:45:07",
+  "generated_at": "2026-08-18T22:14:14",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 0.999988,
-    "price_krw": 1412.51,
-    "price_change_24h": -0.21627,
-    "price_change_7d": -1.64251,
-    "price_change_30d": -8.78792,
-    "market_cap_usd": 62678853551,
+    "price_usd": 1.001,
+    "price_krw": 1413.55,
+    "price_change_24h": -0.00575,
+    "price_change_7d": -2.2997,
+    "price_change_30d": -8.37461,
+    "market_cap_usd": 62719137370,
     "market_cap_rank": 6,
-    "volume_24h": 811781367,
+    "volume_24h": 811601345,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 57.14,
-    "sentiment_votes_down": 42.86,
+    "sentiment_votes_up": 58.24,
+    "sentiment_votes_down": 41.76,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 23.77,
-    "recent_tps": 23.77,
-    "recent_tx_count": 2139,
+    "tps_24h_avg": 18.44,
+    "recent_tps": 18.44,
+    "recent_tx_count": 1660,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106386717,
+    "ledger_seq": 106387170,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-18 21:44:51 KST",
+    "updated_at": "2026-08-18 22:14:02 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,11 +92,25 @@
   ],
   "general_news": [
     {
+      "title": "리플XRP·비트코인 보합권, 펄 상승…유가·채권 부담",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5jMV9aQmx1ckZldGN4UlhQSE9PcUxYclF6V1Z0SnJQaWo3V2FNejgwS29JTXo4eTc4WWVVWGxOZFVLandVZkNSRW5vWi1lQzlJMk9zYjdmb2lsTTkyMTU2dDlaMTRvdjRuSWRlSTRYYXd5QQ?oc=5",
+      "date": "Tue, 18 Aug 2026 21:41:06 GMT",
+      "source": "톱스타뉴스",
+      "score": 2
+    },
+    {
       "title": "SEC 암호화폐 규정…XRP 의문 재점화",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9OOGpPUUpGVHNIWTRKcFZYS1ptRHBxVEdSWW1weDlaNjRXY010eUZ5bUxUQzJ5QlpWc3lIcFRWWkZmbnVMMlFaR1d1TTF1QmFLR1FSTFdEZ0libnhzaVUzR0lfeEpqZw?oc=5",
       "date": "Tue, 18 Aug 2026 20:52:29 GMT",
       "source": "BeInCrypto",
       "score": 3
+    },
+    {
+      "title": "리플 CTO 명예직, XRP 보유량 200만개 공개",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sYXZncnUzUXJTVzhaeEJaZkRrSWFYMFpjVjVxaDlNRDF6OTctR2lKeUtERDM2UzRndnozUzQxcWh3VEpKN1p2UXJ6bHhweTVmMGJIejBjYmZNSlRRaEVFctIBZkFVX3lxTE9pQS1SQk1uc1lvWEZLbzdiSzhxeTZweEFsN19tc21kNWJsSDZCN1MzS1JSRnV0bVdSRWZIZFA5WUstcFVlR1NOYWgtWG5GdWxvaW5wUXZSZ1gxcWJ5RnBzMWlJcGxaUQ?oc=5",
+      "date": "Tue, 18 Aug 2026 12:43:23 GMT",
+      "source": "tokenpost.kr",
+      "score": 2
     },
     {
       "title": "리플의 호황과 XRP의 부재 – 리플은 과연 자체 토큰이 필요한가",
@@ -123,14 +137,14 @@
       "title": "[D-BIZ 암호화폐 뉴스] 리플-전북은행 파트너십에도 XRP 하락…\"실제 사용 자산은 RLUSD일 수도\"",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85RnJYeUtqV3BTdUlJUkFLRW5jQzdtWldPN0FZWmI1WEdBLWhPcmZQZ05BRHVrLWZzamJHamtrZHZmV0V0ZUVYMXlzWTNEVmNSMzBSWWhNRjBKVjdpVVYzVzNLUE40MDBjOXpTVw?oc=5",
       "date": "Tue, 18 Aug 2026 06:22:57 GMT",
-      "source": "dailybizon.com",
+      "source": "데일리비즈온",
       "score": 4
     },
     {
       "title": "바이낸스, XRP 100만 개 에어드랍… ‘RLUSD 보상 확대’ 속 리플 생태계 주목",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpODdEdjEwSXlZdlVjNE5kbFNxSHdLeXRrNDFqSkVMLWlIRXBYdWJuZDNaT0d0cG5SazZvMWUyQTBGbzRzX2RwaDl5QmZ4a2RBVWxrd0U2Q0ZZUkhhZGVkVU5EaWx5VGvSAWtBVV95cUxQclhvNDd5ejE3Y2VCVnBDTVZGamRvWklOc2twYUZxXzgxVmtsX3JfVEtqX01fX3cyNjF4VkhGaUc1NVBROGtrUFBzanlJb0lKNHNzdHZLRDk0THZ1UWxzTG44OWl5blZUT2hFRQ?oc=5",
       "date": "Tue, 18 Aug 2026 06:09:51 GMT",
-      "source": "bonmedia.kr",
+      "source": "비온미디어",
       "score": 3
     },
     {
@@ -146,20 +160,6 @@
       "date": "Tue, 18 Aug 2026 01:45:51 GMT",
       "source": "디지털투데이",
       "score": 2
-    },
-    {
-      "title": "\"실용성이 전부는 아니다\"… 리플 XRP, '가치 포착' 한계 직면",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EQVY3a1FNSVpSN3RKd3RiekxPanNZWHBPaVZibk9ldnMyVXlTbUtldXB3bDhnbWVzXzJEU3g3YzJoQlhJN3hmSTFqZUd5eGZMM0VPYWl3NkU0bjMyWHB5YXZYM0pqMUg1SG5OMTBCTUQ?oc=5",
-      "date": "Tue, 18 Aug 2026 00:42:41 GMT",
-      "source": "블록체인투데이",
-      "score": 2
-    },
-    {
-      "title": "리플, 기관 수요 커지자 움직였다…RLUSD 1000만개 추가 발행",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yZVh0by00SlZRVVFZaTFBMVFraEJCZmthb1dRRlgxMEN4MnYwOFZ0bFk1dUNvbmw0dHBmVW1Jd3ljZWlaTTdzV0hrVklTTFpyN3pJ?oc=5",
-      "date": "Tue, 18 Aug 2026 00:20:00 GMT",
-      "source": "news.nate.com",
-      "score": 4
     }
   ]
 }
