@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-18T21:15:41",
+  "generated_at": "2026-08-18T21:45:07",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.001,
-    "price_krw": 1414.55,
-    "price_change_24h": -0.05652,
-    "price_change_7d": -1.50164,
-    "price_change_30d": -8.65728,
-    "market_cap_usd": 62765977350,
+    "price_usd": 0.999988,
+    "price_krw": 1412.51,
+    "price_change_24h": -0.21627,
+    "price_change_7d": -1.64251,
+    "price_change_30d": -8.78792,
+    "market_cap_usd": 62678853551,
     "market_cap_rank": 6,
-    "volume_24h": 815521232,
+    "volume_24h": 811781367,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 57.61,
-    "sentiment_votes_down": 42.39,
+    "sentiment_votes_up": 57.14,
+    "sentiment_votes_down": 42.86,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 21.03,
-    "recent_tps": 21.03,
-    "recent_tx_count": 1872,
+    "tps_24h_avg": 23.77,
+    "recent_tps": 23.77,
+    "recent_tx_count": 2139,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 106386259,
+    "recent_window_sec": 90,
+    "ledger_seq": 106386717,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-18 21:15:34 KST",
+    "updated_at": "2026-08-18 21:44:51 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,6 +92,13 @@
   ],
   "general_news": [
     {
+      "title": "SEC 암호화폐 규정…XRP 의문 재점화",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9OOGpPUUpGVHNIWTRKcFZYS1ptRHBxVEdSWW1weDlaNjRXY010eUZ5bUxUQzJ5QlpWc3lIcFRWWkZmbnVMMlFaR1d1TTF1QmFLR1FSTFdEZ0libnhzaVUzR0lfeEpqZw?oc=5",
+      "date": "Tue, 18 Aug 2026 20:52:29 GMT",
+      "source": "BeInCrypto",
+      "score": 3
+    },
+    {
       "title": "리플의 호황과 XRP의 부재 – 리플은 과연 자체 토큰이 필요한가",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhUk5RM2hsT0lEQ0ZfcWMyMXRzZkFWY3ZRZVh0eG96YzlwQTNTUVdJYldoTzVPWFgwQ01tSmdMd1c3QTZFTzlPcEFGTjVMcDhOZzhVRWNzTTJYZGFzYVUwTVFucU9qTm9KQmQ1ejg3R29iYkk?oc=5",
       "date": "Tue, 18 Aug 2026 10:21:00 GMT",
@@ -116,22 +123,15 @@
       "title": "[D-BIZ 암호화폐 뉴스] 리플-전북은행 파트너십에도 XRP 하락…\"실제 사용 자산은 RLUSD일 수도\"",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85RnJYeUtqV3BTdUlJUkFLRW5jQzdtWldPN0FZWmI1WEdBLWhPcmZQZ05BRHVrLWZzamJHamtrZHZmV0V0ZUVYMXlzWTNEVmNSMzBSWWhNRjBKVjdpVVYzVzNLUE40MDBjOXpTVw?oc=5",
       "date": "Tue, 18 Aug 2026 06:22:57 GMT",
-      "source": "데일리비즈온",
+      "source": "dailybizon.com",
       "score": 4
     },
     {
       "title": "바이낸스, XRP 100만 개 에어드랍… ‘RLUSD 보상 확대’ 속 리플 생태계 주목",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpODdEdjEwSXlZdlVjNE5kbFNxSHdLeXRrNDFqSkVMLWlIRXBYdWJuZDNaT0d0cG5SazZvMWUyQTBGbzRzX2RwaDl5QmZ4a2RBVWxrd0U2Q0ZZUkhhZGVkVU5EaWx5VGvSAWtBVV95cUxQclhvNDd5ejE3Y2VCVnBDTVZGamRvWklOc2twYUZxXzgxVmtsX3JfVEtqX01fX3cyNjF4VkhGaUc1NVBROGtrUFBzanlJb0lKNHNzdHZLRDk0THZ1UWxzTG44OWl5blZUT2hFRQ?oc=5",
       "date": "Tue, 18 Aug 2026 06:09:51 GMT",
-      "source": "비온미디어",
+      "source": "bonmedia.kr",
       "score": 3
-    },
-    {
-      "title": "100만달러 XRP 고래 거래 하루 38건 넘었다",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xNUJ3bTl4bE5rWHpkbDNHcko3ZHNxTHVWQWlpaEVpQjllc213NnpBZU9hR2gtc2xoVzRGR2F3MW82VEZzRXFEQlBGLTlsMDhtb3N0NVFBek5aYkNhbmFJb9IBZkFVX3lxTFBmZ3V6X1ZpVTV3MHZsTXFvZGtmUE5Tc3FtSXlOakJfUU42YzhpOC10Vm9iU0twTUd5cEJIU2c3OUl4S21hSnc0cDNpNWxYcWNibmVUcUprSnFhdVlnc0lCRDFRNUh4dw?oc=5",
-      "date": "Tue, 18 Aug 2026 05:24:23 GMT",
-      "source": "tokenpost.kr",
-      "score": 2
     },
     {
       "title": "전 리플 엔지니어 '수수께끼 스타트업' 예고…RLUSD 전면에",
@@ -158,7 +158,7 @@
       "title": "리플, 기관 수요 커지자 움직였다…RLUSD 1000만개 추가 발행",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yZVh0by00SlZRVVFZaTFBMVFraEJCZmthb1dRRlgxMEN4MnYwOFZ0bFk1dUNvbmw0dHBmVW1Jd3ljZWlaTTdzV0hrVklTTFpyN3pJ?oc=5",
       "date": "Tue, 18 Aug 2026 00:20:00 GMT",
-      "source": "네이트",
+      "source": "news.nate.com",
       "score": 4
     }
   ]
