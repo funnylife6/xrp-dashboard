@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-18T23:14:48",
+  "generated_at": "2026-08-18T23:44:09",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.002,
-    "price_krw": 1415.07,
-    "price_change_24h": 0.08937,
-    "price_change_7d": -1.77878,
-    "price_change_30d": -8.634,
-    "market_cap_usd": 62782705025,
+    "price_krw": 1415.23,
+    "price_change_24h": -0.06074,
+    "price_change_7d": -1.77208,
+    "price_change_30d": -8.62777,
+    "market_cap_usd": 62800184829,
     "market_cap_rank": 6,
-    "volume_24h": 780230441,
+    "volume_24h": 780478417,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 58.43,
-    "sentiment_votes_down": 41.57,
+    "sentiment_votes_up": 57.95,
+    "sentiment_votes_down": 42.05,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 15.04,
-    "recent_tps": 15.04,
-    "recent_tx_count": 1354,
+    "tps_24h_avg": 16.83,
+    "recent_tps": 16.83,
+    "recent_tx_count": 1380,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 106388111,
+    "recent_window_sec": 82,
+    "ledger_seq": 106388568,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-18 23:14:36 KST",
+    "updated_at": "2026-08-18 23:44:01 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -120,6 +120,13 @@
       "score": 2
     },
     {
+      "title": "속보 | 리플 CLO \"애완견 키우는 미국인 보다 암호화폐 소유자 더 많아\"",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBpLWd4N1h3aU1rTzhIdVl2WmVYQm9sVnIyd2Y4ekR2YVRMUXRRUDVWaFlnYXRaOTQyVEFZX3FSNERQR0twemRBd3RpOW55dXVJ?oc=5",
+      "date": "Tue, 18 Aug 2026 14:50:03 GMT",
+      "source": "CoinNess",
+      "score": 9
+    },
+    {
       "title": "리플의 호황과 XRP의 부재 – 리플은 과연 자체 토큰이 필요한가",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhUk5RM2hsT0lEQ0ZfcWMyMXRzZkFWY3ZRZVh0eG96YzlwQTNTUVdJYldoTzVPWFgwQ01tSmdMd1c3QTZFTzlPcEFGTjVMcDhOZzhVRWNzTTJYZGFzYVUwTVFucU9qTm9KQmQ1ejg3R29iYkk?oc=5",
       "date": "Tue, 18 Aug 2026 10:21:00 GMT",
@@ -153,13 +160,6 @@
       "date": "Tue, 18 Aug 2026 06:09:51 GMT",
       "source": "비온미디어",
       "score": 3
-    },
-    {
-      "title": "전 리플 엔지니어 '수수께끼 스타트업' 예고…RLUSD 전면에",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtS2RoT3U2VDRuRXJyV0FrNE9Zdnh3ODBKMFkzSmtjdmI2QlEyRm10eTZ4MmtTYW82UmNrM2JFYWN4akVYMjBaRDNnNlVibC10ZVdVYTNZOUFDblNydEtfYlhrQ1pkdDJ6c0NmVl91WlhzSVE?oc=5",
-      "date": "Tue, 18 Aug 2026 04:15:06 GMT",
-      "source": "디지털투데이",
-      "score": 2
     }
   ]
 }
