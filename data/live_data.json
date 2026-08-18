@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-18T08:00:31",
+  "generated_at": "2026-08-18T08:43:02",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 0.995525,
-    "price_krw": 1406.21,
-    "price_change_24h": -0.67624,
-    "price_change_7d": -0.93691,
-    "price_change_30d": -9.06909,
-    "market_cap_usd": 62389180404,
+    "price_usd": 0.996777,
+    "price_krw": 1407.52,
+    "price_change_24h": -0.24603,
+    "price_change_7d": -0.81228,
+    "price_change_30d": -8.95469,
+    "market_cap_usd": 62487485975,
     "market_cap_rank": 6,
-    "volume_24h": 880005010,
+    "volume_24h": 883112364,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 56.67,
-    "sentiment_votes_down": 43.33,
+    "sentiment_votes_up": 57.95,
+    "sentiment_votes_down": 42.05,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 18.92,
-    "recent_tps": 18.92,
-    "recent_tx_count": 1703,
+    "tps_24h_avg": 27.59,
+    "recent_tps": 27.59,
+    "recent_tx_count": 2483,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106373883,
+    "ledger_seq": 106374544,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-18 08:00:23 KST",
+    "updated_at": "2026-08-18 08:42:51 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,6 +92,13 @@
   ],
   "general_news": [
     {
+      "title": "XRP는 1달러 밑으로, 리플은 한국 금융권 확장…전북은행과 맞손",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSc25Gakp2NkItdGV6azNDM1h1bmFIU1VyeWdZY0RxRFlPVGkyTkszbngycHF5MThEZDVHNmZzaFdQNlhyY3NHWi1tTWNKSzA?oc=5",
+      "date": "Tue, 18 Aug 2026 08:04:05 GMT",
+      "source": "v.daum.net",
+      "score": 3
+    },
+    {
       "title": "[D-BIZ 암호화폐 뉴스] 리플-전북은행 파트너십에도 XRP 하락…\"실제 사용 자산은 RLUSD일 수도\"",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85RnJYeUtqV3BTdUlJUkFLRW5jQzdtWldPN0FZWmI1WEdBLWhPcmZQZ05BRHVrLWZzamJHamtrZHZmV0V0ZUVYMXlzWTNEVmNSMzBSWWhNRjBKVjdpVVYzVzNLUE40MDBjOXpTVw?oc=5",
       "date": "Tue, 18 Aug 2026 06:22:57 GMT",
@@ -131,7 +138,7 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EQVY3a1FNSVpSN3RKd3RiekxPanNZWHBPaVZibk9ldnMyVXlTbUtldXB3bDhnbWVzXzJEU3g3YzJoQlhJN3hmSTFqZUd5eGZMM0VPYWl3NkU0bjMyWHB5YXZYM0pqMUg1SG5OMTBCTUQ?oc=5",
       "date": "Tue, 18 Aug 2026 00:42:41 GMT",
       "source": "블록체인투데이",
-      "score": 2
+      "score": 3
     },
     {
       "title": "리플, 기관 수요 커지자 움직였다…RLUSD 1000만개 추가 발행",
@@ -153,13 +160,6 @@
       "date": "Mon, 17 Aug 2026 23:05:00 GMT",
       "source": "CBC뉴스",
       "score": 2
-    },
-    {
-      "title": "리플XRP 보합·비트코인 1.78%↑·스테이터스네트워크토큰 상승…ETF 유출 속 거래 위축",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAyY2R3Mkxnc2tuTXRZZTYweTExZHpKQUVtYWhReFF5c0wwbFkwMUs4M2gyVUg2YjR2SmFNcDRYUVhRUTZaQlN1OHVpLXdjUE9GOERqc0VRVy1DR3dMa0R2UGFKWWZQU25ZUHpLbUV0bFpPZw?oc=5",
-      "date": "Mon, 17 Aug 2026 22:08:02 GMT",
-      "source": "톱스타뉴스",
-      "score": 3
     }
   ]
 }
