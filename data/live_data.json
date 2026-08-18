@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-18T04:04:43",
+  "generated_at": "2026-08-18T05:00:39",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 0.98945,
-    "price_krw": 1397.15,
-    "price_change_24h": -1.2605,
-    "price_change_7d": -2.42908,
-    "price_change_30d": -9.58286,
-    "market_cap_usd": 62036268275,
+    "price_usd": 0.994208,
+    "price_krw": 1404.54,
+    "price_change_24h": -0.71172,
+    "price_change_7d": -1.74255,
+    "price_change_30d": -9.28422,
+    "market_cap_usd": 62313943568,
     "market_cap_rank": 6,
-    "volume_24h": 861806324,
+    "volume_24h": 877862245,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 65.12,
-    "sentiment_votes_down": 34.88,
+    "sentiment_votes_up": 63.44,
+    "sentiment_votes_down": 36.56,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 20.68,
-    "recent_tps": 20.68,
-    "recent_tx_count": 1861,
+    "tps_24h_avg": 16.27,
+    "recent_tps": 16.27,
+    "recent_tx_count": 1464,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106370205,
+    "ledger_seq": 106371078,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-18 04:04:36 KST",
+    "updated_at": "2026-08-18 05:00:31 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,6 +92,20 @@
   ],
   "general_news": [
     {
+      "title": "전 리플 엔지니어 '수수께끼 스타트업' 예고…RLUSD 전면에",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtS2RoT3U2VDRuRXJyV0FrNE9Zdnh3ODBKMFkzSmtjdmI2QlEyRm10eTZ4MmtTYW82UmNrM2JFYWN4akVYMjBaRDNnNlVibC10ZVdVYTNZOUFDblNydEtfYlhrQ1pkdDJ6c0NmVl91WlhzSVE?oc=5",
+      "date": "Tue, 18 Aug 2026 04:15:06 GMT",
+      "source": "디지털투데이",
+      "score": 2
+    },
+    {
+      "title": "XRP 선물 미결제약정 급증…매도 우위 지속",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1RWFVZbWppUGhwajJad0Y2eU40OUlTS3NnYUhwSTMwb3pVTXBOX2cwWXI2S0haNkhDekpvbWJIWmhzSGFwaUNFbTlUZUkzRU5rcV9ZVE1QVkRkM3h4TWpxWEpCU3dGZlZSMVlwRHY0SGttS2M?oc=5",
+      "date": "Tue, 18 Aug 2026 02:42:02 GMT",
+      "source": "디지털투데이",
+      "score": 2
+    },
+    {
       "title": "리플 성장하는데 XRP는…토큰 수요 왜 안 따라오나",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vc29YMnBJakc0MmlZejFOLXpOLTZ4NmJKLXIzcUk5VE9VS2gxUzFsNnNXRjhCbGp5WHVhOFY1c2IxNkxMOGlPX1AzNlZNWjVIdF84?oc=5",
       "date": "Tue, 18 Aug 2026 01:46:00 GMT",
@@ -103,7 +117,7 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EQVY3a1FNSVpSN3RKd3RiekxPanNZWHBPaVZibk9ldnMyVXlTbUtldXB3bDhnbWVzXzJEU3g3YzJoQlhJN3hmSTFqZUd5eGZMM0VPYWl3NkU0bjMyWHB5YXZYM0pqMUg1SG5OMTBCTUQ?oc=5",
       "date": "Tue, 18 Aug 2026 00:42:41 GMT",
       "source": "블록체인투데이",
-      "score": 2
+      "score": 3
     },
     {
       "title": "리플, 기관 수요 커지자 움직였다…RLUSD 1000만개 추가 발행",
@@ -117,13 +131,6 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoLXd2MGo5NG1CdjI1d2NkYkFIeHpvTVpGQUpidS0xY0FLTGhXOGhoZ1BVUERtZDkySmFNMUdFWXVpMjdPWmpvOFF2QVJjRWNPWGY1MTFPUTFzamR5dWtIRVB6dGtiYzZwZFB2TTZiRGY?oc=5",
       "date": "Mon, 17 Aug 2026 23:50:29 GMT",
       "source": "블록체인투데이",
-      "score": 2
-    },
-    {
-      "title": "1.00달러 턱걸이 방어한 리플(XRP), 개인 매수세 타고 추세 반전 성공할까?",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1JNnRPUHg2VVV2Q3BDVmY1RDk3eGtlcjVPMFl5M19KMGVwZ0U3MldVSWhZUDM1bndBUG1URFhZT3lwR1ZuZG10RkZR?oc=5",
-      "date": "Mon, 17 Aug 2026 23:42:00 GMT",
-      "source": "코인리더스",
       "score": 2
     },
     {
@@ -151,13 +158,6 @@
       "title": "리플, 또 1,000만 RLUSD 추가 발행...기관 수요 얼마나 커졌나",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB6WC1oaURqbFI1UGRiTXB1ZkdFU080SFNtMW1OeENKRGJOVlFKeFVDR0UySnpvcDY0ZXp4ZEpUSG5yM3dMQ2NuaXRn?oc=5",
       "date": "Mon, 17 Aug 2026 20:20:00 GMT",
-      "source": "코인리더스",
-      "score": 3
-    },
-    {
-      "title": "XRP(리플), SEC 사법 리스크 털기 완료...'1.04달러' 회복하면 강세 전환",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9vdUt0eWpOTkptZU1ibmtaWEkxNU9lVDFGdUVyQlBFa083VnVZdjdjQ0EwaEhxVENiOVNiWWRDbVRsYlJrZGotMA?oc=5",
-      "date": "Mon, 17 Aug 2026 16:00:00 GMT",
       "source": "코인리더스",
       "score": 3
     }
