@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-18T22:47:45",
+  "generated_at": "2026-08-18T23:14:48",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.0,
-    "price_krw": 1412.78,
-    "price_change_24h": 0.0252,
-    "price_change_7d": -2.34898,
-    "price_change_30d": -8.42082,
-    "market_cap_usd": 62690986186,
+    "price_usd": 1.002,
+    "price_krw": 1415.07,
+    "price_change_24h": 0.08937,
+    "price_change_7d": -1.77878,
+    "price_change_30d": -8.634,
+    "market_cap_usd": 62782705025,
     "market_cap_rank": 6,
-    "volume_24h": 822004529,
+    "volume_24h": 780230441,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 57.78,
-    "sentiment_votes_down": 42.22,
+    "sentiment_votes_up": 58.43,
+    "sentiment_votes_down": 41.57,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 26.63,
-    "recent_tps": 26.63,
-    "recent_tx_count": 2184,
+    "tps_24h_avg": 15.04,
+    "recent_tps": 15.04,
+    "recent_tx_count": 1354,
     "recent_ledger_count": 24,
-    "recent_window_sec": 82,
-    "ledger_seq": 106387692,
+    "recent_window_sec": 90,
+    "ledger_seq": 106388111,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-18 22:47:38 KST",
+    "updated_at": "2026-08-18 23:14:36 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -47,6 +47,20 @@
     "data_source": "news_parse"
   },
   "etf_news": [
+    {
+      "title": "5억 달러 증발한 리플(XRP) 현물 ETF, 클래러티법 통과로 반전 이뤄낼까?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE96aHo5UUNxakI4QVBaQjRjX2VzT09GMG90T3pfcWxISFhLRnRFZHd3blhPQkZuQTJTZkRaNjNrOWw4alRTTVhPNVdB?oc=5",
+      "date": "Tue, 18 Aug 2026 22:57:00 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
+    {
+      "title": "엑스알피(리플) 1달러 붕괴 위기…ETF 수요보다 최대 3.7배 많은 물량 풀린다",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4wT3d6STY0Q1pWZ3B1M0tCVHBhbFE0bGlBWTNXenlXOExiQXk3SDFDSE9HRmY3QkU2Y2t6ODAwd0pWSFcwN01OSDBR?oc=5",
+      "date": "Tue, 18 Aug 2026 22:46:00 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
     {
       "title": "월가 큰손 제인 스트리트, 비트와이즈 XRP ETF 지분 60배 급증…120만주 보유",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB1UThFUWxGQTBua3BuUmhBSTVxSGM5T3JPSWZaajh4cGVKdEZWbjZwZXVuQjBoS3lLdl8wX2taS3ZoSGpZMUZwYk0wUDFBcldEajhiRGMyZXY0UVlUTklDMUFMaVdtc0JpRnQtRmRfSU1HdXc?oc=5",
@@ -74,23 +88,16 @@
       "date": "Mon, 17 Aug 2026 22:08:00 GMT",
       "source": "코인리더스",
       "score": 0
-    },
-    {
-      "title": "리플 1달러 벼랑 끝 방어전… 방향타 잃은 투자심리",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUEs5a0I4QzFDZ3dJUXVZb05CaVBiMW1NTFVBV05xVHlGd1NHZUgzTHJfQl9CRjZ5dDlEZm1TM2hHUElQZ08zUkNVMXFCTXJGN0xOengydFVtUUhvMFExVHNqYmxydlNfdUNNUEI0S3haR2pHR3FjVkVWUlNPeWwyMEV2T3NWNUwz?oc=5",
-      "date": "Mon, 17 Aug 2026 21:57:42 GMT",
-      "source": "글로벌이코노믹",
-      "score": 0
-    },
-    {
-      "title": "매도 피로감에 ETF 5주 연속 순유입까지! 리플(XRP) 1달러 사수 총력전!",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1iWk82ZWJGSVlMSGFmSjRrR3VKMWxkbWh1eVpMTGFmWTRlOFRZdG9VV0dlWXNCNFNQTHZCX1lZTjZ1UkpscVlOR01n?oc=5",
-      "date": "Mon, 17 Aug 2026 12:37:00 GMT",
-      "source": "코인리더스",
-      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "5억 달러 증발한 리플(XRP) 현물 ETF, 클래러티법 통과로 반전 이뤄낼까?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE96aHo5UUNxakI4QVBaQjRjX2VzT09GMG90T3pfcWxISFhLRnRFZHd3blhPQkZuQTJTZkRaNjNrOWw4alRTTVhPNVdB?oc=5",
+      "date": "Tue, 18 Aug 2026 22:57:00 GMT",
+      "source": "코인리더스",
+      "score": 4
+    },
     {
       "title": "리플XRP·비트코인 보합권, 펄 상승…유가·채권 부담",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5jMV9aQmx1ckZldGN4UlhQSE9PcUxYclF6V1Z0SnJQaWo3V2FNejgwS29JTXo4eTc4WWVVWGxOZFVLandVZkNSRW5vWi1lQzlJMk9zYjdmb2lsTTkyMTU2dDlaMTRvdjRuSWRlSTRYYXd5QQ?oc=5",
@@ -152,13 +159,6 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtS2RoT3U2VDRuRXJyV0FrNE9Zdnh3ODBKMFkzSmtjdmI2QlEyRm10eTZ4MmtTYW82UmNrM2JFYWN4akVYMjBaRDNnNlVibC10ZVdVYTNZOUFDblNydEtfYlhrQ1pkdDJ6c0NmVl91WlhzSVE?oc=5",
       "date": "Tue, 18 Aug 2026 04:15:06 GMT",
       "source": "디지털투데이",
-      "score": 2
-    },
-    {
-      "title": "\"실용성이 전부는 아니다\"… 리플 XRP, '가치 포착' 한계 직면",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EQVY3a1FNSVpSN3RKd3RiekxPanNZWHBPaVZibk9ldnMyVXlTbUtldXB3bDhnbWVzXzJEU3g3YzJoQlhJN3hmSTFqZUd5eGZMM0VPYWl3NkU0bjMyWHB5YXZYM0pqMUg1SG5OMTBCTUQ?oc=5",
-      "date": "Tue, 18 Aug 2026 00:42:41 GMT",
-      "source": "블록체인투데이",
       "score": 2
     }
   ]
