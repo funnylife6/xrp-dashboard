@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-18T09:56:23",
+  "generated_at": "2026-08-18T10:21:41",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 0.994714,
-    "price_krw": 1402.08,
-    "price_change_24h": -0.19224,
-    "price_change_7d": -0.99389,
-    "price_change_30d": -9.38317,
-    "market_cap_usd": 62333798228,
+    "price_usd": 0.99475,
+    "price_krw": 1402.19,
+    "price_change_24h": -0.14678,
+    "price_change_7d": -1.09623,
+    "price_change_30d": -9.14476,
+    "market_cap_usd": 62348910370,
     "market_cap_rank": 6,
-    "volume_24h": 862374922,
+    "volume_24h": 857330506,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 58.33,
-    "sentiment_votes_down": 41.67,
+    "sentiment_votes_up": 57.14,
+    "sentiment_votes_down": 42.86,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 14.78,
-    "recent_tps": 14.78,
-    "recent_tx_count": 1330,
+    "tps_24h_avg": 15.72,
+    "recent_tps": 15.72,
+    "recent_tx_count": 1415,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106375688,
+    "ledger_seq": 106376082,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-18 09:56:12 KST",
+    "updated_at": "2026-08-18 10:21:30 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -137,7 +137,7 @@
       "title": "리플 성장하는데 XRP는…토큰 수요 왜 안 따라오나",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vc29YMnBJakc0MmlZejFOLXpOLTZ4NmJKLXIzcUk5VE9VS2gxUzFsNnNXRjhCbGp5WHVhOFY1c2IxNkxMOGlPX1AzNlZNWjVIdF84?oc=5",
       "date": "Tue, 18 Aug 2026 01:46:00 GMT",
-      "source": "news.nate.com",
+      "source": "네이트",
       "score": 2
     },
     {
@@ -155,10 +155,10 @@
       "score": 2
     },
     {
-      "title": "리플, RLUSD 1000만개 추가 발행…시장 전반의 방향성",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OX2R5dGx2WU92UEdnM1FSb1JlR0pQdzhYcTEwVVNZZnlXcjRTZVV3TmZ4dU9HdjhNT2RXdm9oUkJvMEFyM3ZvUGdfZW1vT3hhckI4WVRIeDZGR3JtU3pyMTNaYzVFelB1?oc=5",
-      "date": "Mon, 17 Aug 2026 23:05:00 GMT",
-      "source": "CBC뉴스",
+      "title": "1.00달러 턱걸이 방어한 리플(XRP), 개인 매수세 타고 추세 반전 성공할까?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1JNnRPUHg2VVV2Q3BDVmY1RDk3eGtlcjVPMFl5M19KMGVwZ0U3MldVSWhZUDM1bndBUG1URFhZT3lwR1ZuZG10RkZR?oc=5",
+      "date": "Mon, 17 Aug 2026 23:42:00 GMT",
+      "source": "코인리더스",
       "score": 2
     }
   ]
