@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-19T18:22:01",
+  "generated_at": "2026-08-19T19:00:58",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.061,
-    "price_krw": 1473.0,
-    "price_change_24h": 5.9385,
-    "price_change_7d": 5.12816,
-    "price_change_30d": -4.79468,
-    "market_cap_usd": 66468282956,
+    "price_usd": 1.069,
+    "price_krw": 1483.89,
+    "price_change_24h": 6.84377,
+    "price_change_7d": 5.91219,
+    "price_change_30d": -4.08465,
+    "market_cap_usd": 67004081283,
     "market_cap_rank": 6,
-    "volume_24h": 1653541405,
+    "volume_24h": 1688535801,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 76.04,
-    "sentiment_votes_down": 23.96,
+    "sentiment_votes_up": 75.25,
+    "sentiment_votes_down": 24.75,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 18.49,
-    "recent_tps": 18.49,
-    "recent_tx_count": 1664,
+    "tps_24h_avg": 34.48,
+    "recent_tps": 34.48,
+    "recent_tx_count": 3103,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106405954,
+    "ledger_seq": 106406560,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-19 18:21:51 KST",
+    "updated_at": "2026-08-19 19:00:51 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 2240000,
     "total_net_inflow_usd": 2240000,
     "total_value_traded_usd": 2240000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/19 18:21",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/19 19:00",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -70,6 +70,13 @@
       "score": 0
     },
     {
+      "title": "리플 ETF 하루 580만달러 순유입됐다",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mUkdaRGE2eEMwQ2pGUGJyMVhISGo0VDZuYjFfTmUybHdRNXFCall6aDQyb004aWlseHdRS1duc3pzRmNIa0ItR0JXNVFCYm95dGtFUHdkYm5FaGhGT3dZT3FFLWV6UdIBZkFVX3lxTE9mUkdaRGE2eEMwQ2pGUGJyMVhISGo0VDZuYjFfTmUybHdRNXFCall6aDQyb004aWlseHdRS1duc3pzRmNIa0ItR0JXNVFCYm95dGtFUHdkYm5FaGhGT3dZT3FFLWV6UQ?oc=5",
+      "date": "Wed, 19 Aug 2026 00:44:43 GMT",
+      "source": "tokenpost.kr",
+      "score": 0
+    },
+    {
       "title": "5억 달러 증발한 리플(XRP) 현물 ETF, 클래러티법 통과로 반전 이뤄낼까?",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE96aHo5UUNxakI4QVBaQjRjX2VzT09GMG90T3pfcWxISFhLRnRFZHd3blhPQkZuQTJTZkRaNjNrOWw4alRTTVhPNVdB?oc=5",
       "date": "Tue, 18 Aug 2026 22:57:00 GMT",
@@ -81,13 +88,6 @@
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE80eHRGWDg3WEY3czJQSVAzVmtUQ29pcVlMZUZwbHV3UHl3aE1wTWx6U3RJWk96THF2cnY1YWV5Y0NnMGRRUHV1UkFn?oc=5",
       "date": "Mon, 17 Aug 2026 23:20:00 GMT",
       "source": "코인리더스",
-      "score": 0
-    },
-    {
-      "title": "리플XRP 보합·비트코인 1.78%↑·스테이터스네트워크토큰 상승…ETF 유출 속 거래 위축",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAyY2R3Mkxnc2tuTXRZZTYweTExZHpKQUVtYWhReFF5c0wwbFkwMUs4M2gyVUg2YjR2SmFNcDRYUVhRUTZaQlN1OHVpLXdjUE9GOERqc0VRVy1DR3dMa0R2UGFKWWZQU25ZUHpLbUV0bFpPZw?oc=5",
-      "date": "Mon, 17 Aug 2026 22:08:02 GMT",
-      "source": "톱스타뉴스",
       "score": 0
     }
   ],
