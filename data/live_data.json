@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-19T15:00:30",
+  "generated_at": "2026-08-19T15:36:27",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.032,
-    "price_krw": 1430.12,
-    "price_change_24h": 3.1157,
-    "price_change_7d": 1.73111,
-    "price_change_30d": -5.37639,
-    "market_cap_usd": 64645509874,
+    "price_usd": 1.061,
+    "price_krw": 1474.63,
+    "price_change_24h": 5.69616,
+    "price_change_7d": 5.20182,
+    "price_change_30d": -2.89539,
+    "market_cap_usd": 66521420986,
     "market_cap_rank": 6,
-    "volume_24h": 954835687,
+    "volume_24h": 1220679582,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 73.81,
-    "sentiment_votes_down": 26.19,
+    "sentiment_votes_up": 72.29,
+    "sentiment_votes_down": 27.71,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 29.61,
-    "recent_tps": 29.61,
-    "recent_tx_count": 2428,
+    "tps_24h_avg": 43.64,
+    "recent_tps": 43.64,
+    "recent_tx_count": 3928,
     "recent_ledger_count": 24,
-    "recent_window_sec": 82,
-    "ledger_seq": 106402836,
+    "recent_window_sec": 90,
+    "ledger_seq": 106403391,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-19 15:00:19 KST",
+    "updated_at": "2026-08-19 15:36:13 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 2240000,
     "total_net_inflow_usd": 2240000,
     "total_value_traded_usd": 2240000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/19 15:00",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/19 15:36",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -59,7 +59,7 @@
       "title": "백악관 회동 앞둔 XRP 1달러 공방… 기관 자금 순유입 속 촉각",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GLU00eElwOEJUZm9qOE9qdlh0U0kzYlhzNGFrZkJVT05neWl5SVcxNnhRbDF1SWk4Y1V1Um5WRHZCMFNWdWlNREN0SVJyQXM2bTBPVEY1OF9BeGdHZnVZVE1vNzVzcGVCS3Jtc0pObGI?oc=5",
       "date": "Wed, 19 Aug 2026 06:34:29 GMT",
-      "source": "blockchaintoday.co.kr",
+      "source": "블록체인투데이",
       "score": 0
     },
     {
@@ -93,6 +93,13 @@
   ],
   "general_news": [
     {
+      "title": "RLUSD, 리플의 새 승부수…송금망 위에 ‘디지털 달러’ 얹는다",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zdTd2NUtKUlo4RUQzY2o3NjlBcTM1dFhKZktuT3NaSlVnUnY2MHZCVk1nYnhlQzdoWm9td09IXzVDWkUxc1hCVkJPUzVpUHVhczBkX2FKNVFTeTlCQzFXSmVpSmJFMHFh?oc=5",
+      "date": "Wed, 19 Aug 2026 15:00:00 GMT",
+      "source": "CBC뉴스",
+      "score": 3
+    },
+    {
       "title": "바이비트, RLUSD 홀드 & Earn 운용 자산 5,000만 달러 돌파… 리플과 함께 XRP-RLUSD 보상 확대 2단계 개시",
       "url": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxNYVVrb1ZPZUV4WWZlQ211MzFmRXFCYjJaZ3RkbnFTTHo0X09xUjFPM25GWWdBSVZ6cm9GZFlIblBFd2FxekxxWkhHM242MXppNTIxVlBQeDRCbnJFSzN6YXlvQ3NBUnBCdWlVVl9oNUFDdFJ6XzItclhkajZQbWFzclNjblF5ZFV0UmFrQnJtU0NBV09uRjM5OXpjVjlISXQ1bWdkOWNDa3lZQjFrX2psVEJReXNPSk9aeGFwVDJoRUY4ZHJERzJnYkJJQlZBY2ZpWDlXbzZveHctYmt6TGhsNlBDcEJubjRnU2g4T2Vyd3p0SXpVdlhGZ0pZSWpMSFd5V3NmMmtTRnc5eDQ3VUNPaUZDS3JCOFpjdHJRZmxOTUs3ekROTGlRcTNUVENyMXQtMEZDZ2hpcGQxSXZraTItMk5ISXRkck5hVTJfX000Xy16N3kxUEY0UjdrVlA1QzlDbS00M0FtX0pmNFhXeW9GSDJKYXE0aUd2TWtoSVBtXzJaMTM3aXdreXBTQ3l0bDlWbGJoWC1FSmpzdzBIT29pVFdvLURtNW1KZkswQVVfbkx6N3ZOdXZ0bGZEeUc2S1NSVXg5N0lxdWVNWERUU2xyRXdqZ2NwZVBmRUxjTw?oc=5",
       "date": "Wed, 19 Aug 2026 12:58:55 GMT",
@@ -117,7 +124,7 @@
       "title": "백악관 회동 앞둔 XRP 1달러 공방… 기관 자금 순유입 속 촉각",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GLU00eElwOEJUZm9qOE9qdlh0U0kzYlhzNGFrZkJVT05neWl5SVcxNnhRbDF1SWk4Y1V1Um5WRHZCMFNWdWlNREN0SVJyQXM2bTBPVEY1OF9BeGdHZnVZVE1vNzVzcGVCS3Jtc0pObGI?oc=5",
       "date": "Wed, 19 Aug 2026 06:34:29 GMT",
-      "source": "blockchaintoday.co.kr",
+      "source": "블록체인투데이",
       "score": 3
     },
     {
@@ -154,13 +161,6 @@
       "date": "Tue, 18 Aug 2026 20:52:29 GMT",
       "source": "kr.beincrypto.com",
       "score": 3
-    },
-    {
-      "title": "속보 | 리플 CLO \"애완견 키우는 미국인 보다 암호화폐 소유자 더 많아\"",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBpLWd4N1h3aU1rTzhIdVl2WmVYQm9sVnIyd2Y4ekR2YVRMUXRRUDVWaFlnYXRaOTQyVEFZX3FSNERQR0twemRBd3RpOW55dXVJ?oc=5",
-      "date": "Tue, 18 Aug 2026 14:50:03 GMT",
-      "source": "CoinNess",
-      "score": 9
     }
   ]
 }
