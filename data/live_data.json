@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-19T22:16:17",
+  "generated_at": "2026-08-19T22:48:34",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.12,
-    "price_krw": 1559.79,
-    "price_change_24h": 12.30985,
-    "price_change_7d": 12.01197,
-    "price_change_30d": 0.91783,
-    "market_cap_usd": 70474200682,
+    "price_usd": 1.11,
+    "price_krw": 1538.76,
+    "price_change_24h": 10.87858,
+    "price_change_7d": 10.3833,
+    "price_change_30d": -0.54953,
+    "market_cap_usd": 69456350959,
     "market_cap_rank": 6,
-    "volume_24h": 2573950295,
+    "volume_24h": 2700619184,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 75.57,
-    "sentiment_votes_down": 24.43,
+    "sentiment_votes_up": 76.12,
+    "sentiment_votes_down": 23.88,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 36.45,
-    "recent_tps": 36.45,
-    "recent_tx_count": 2989,
+    "tps_24h_avg": 30.47,
+    "recent_tps": 30.47,
+    "recent_tx_count": 2742,
     "recent_ledger_count": 24,
-    "recent_window_sec": 82,
-    "ledger_seq": 106409578,
+    "recent_window_sec": 90,
+    "ledger_seq": 106410074,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-19 22:16:10 KST",
+    "updated_at": "2026-08-19 22:48:26 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -155,11 +155,11 @@
       "score": 3
     },
     {
-      "title": "5억 달러 증발한 리플(XRP) 현물 ETF, 클래러티법 통과로 반전 이뤄낼까?",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE96aHo5UUNxakI4QVBaQjRjX2VzT09GMG90T3pfcWxISFhLRnRFZHd3blhPQkZuQTJTZkRaNjNrOWw4alRTTVhPNVdB?oc=5",
-      "date": "Tue, 18 Aug 2026 22:57:00 GMT",
-      "source": "코인리더스",
-      "score": 4
+      "title": "리플XRP·비트코인 보합권, 펄 상승…유가·채권 부담",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5jMV9aQmx1ckZldGN4UlhQSE9PcUxYclF6V1Z0SnJQaWo3V2FNejgwS29JTXo4eTc4WWVVWGxOZFVLandVZkNSRW5vWi1lQzlJMk9zYjdmb2lsTTkyMTU2dDlaMTRvdjRuSWRlSTRYYXd5QQ?oc=5",
+      "date": "Tue, 18 Aug 2026 21:41:06 GMT",
+      "source": "톱스타뉴스",
+      "score": 2
     }
   ]
 }
