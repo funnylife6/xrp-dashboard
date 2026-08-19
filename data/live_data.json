@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-19T10:53:24",
+  "generated_at": "2026-08-19T11:17:59",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.005,
-    "price_krw": 1395.83,
-    "price_change_24h": 0.93889,
-    "price_change_7d": -1.81408,
-    "price_change_30d": -7.79318,
-    "market_cap_usd": 62958863710,
+    "price_usd": 1.006,
+    "price_krw": 1399.26,
+    "price_change_24h": 0.87392,
+    "price_change_7d": -1.44811,
+    "price_change_30d": -7.91116,
+    "market_cap_usd": 63033062116,
     "market_cap_rank": 6,
-    "volume_24h": 799728961,
+    "volume_24h": 797093970,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 67.05,
-    "sentiment_votes_down": 32.95,
+    "sentiment_votes_up": 66.67,
+    "sentiment_votes_down": 33.33,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 15.57,
-    "recent_tps": 15.57,
-    "recent_tx_count": 1401,
+    "tps_24h_avg": 22.8,
+    "recent_tps": 22.8,
+    "recent_tx_count": 2052,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106398999,
+    "ledger_seq": 106399384,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-19 10:53:14 KST",
+    "updated_at": "2026-08-19 11:17:53 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,11 +43,18 @@
     "aum_usd": 2240000,
     "total_net_inflow_usd": 2240000,
     "total_value_traded_usd": 2240000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/19 10:53",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/19 11:17",
     "data_source": "sosovalue",
     "partial": true
   },
   "etf_news": [
+    {
+      "title": "리플(XRP) 73% 폭락에도 보유해야 할 2가지 이유",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1JdGt2SVIyQktnQnlCYnZ5T1RsV3FhV0JuLU5pYXctYmZEZXdGWVpxdFl2Y1FxOWJpWDlqX3BFVTRhQ0VYWFdmbmZB?oc=5",
+      "date": "Wed, 19 Aug 2026 11:05:00 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
     {
       "title": "백악관 회동 앞둔 XRP 1달러 공방… 기관 자금 순유입 속 촉각",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GLU00eElwOEJUZm9qOE9qdlh0U0kzYlhzNGFrZkJVT05neWl5SVcxNnhRbDF1SWk4Y1V1Um5WRHZCMFNWdWlNREN0SVJyQXM2bTBPVEY1OF9BeGdHZnVZVE1vNzVzcGVCS3Jtc0pObGI?oc=5",
@@ -60,13 +67,6 @@
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE96aHo5UUNxakI4QVBaQjRjX2VzT09GMG90T3pfcWxISFhLRnRFZHd3blhPQkZuQTJTZkRaNjNrOWw4alRTTVhPNVdB?oc=5",
       "date": "Tue, 18 Aug 2026 22:57:00 GMT",
       "source": "코인리더스",
-      "score": 0
-    },
-    {
-      "title": "월가 큰손 제인 스트리트, 비트와이즈 XRP ETF 지분 60배 급증…120만주 보유",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB1UThFUWxGQTBua3BuUmhBSTVxSGM5T3JPSWZaajh4cGVKdEZWbjZwZXVuQjBoS3lLdl8wX2taS3ZoSGpZMUZwYk0wUDFBcldEajhiRGMyZXY0UVlUTklDMUFMaVdtc0JpRnQtRmRfSU1HdXc?oc=5",
-      "date": "Tue, 18 Aug 2026 02:41:52 GMT",
-      "source": "디지털투데이",
       "score": 0
     },
     {
@@ -93,6 +93,13 @@
   ],
   "general_news": [
     {
+      "title": "리플(XRP) 73% 폭락에도 보유해야 할 2가지 이유",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1JdGt2SVIyQktnQnlCYnZ5T1RsV3FhV0JuLU5pYXctYmZEZXdGWVpxdFl2Y1FxOWJpWDlqX3BFVTRhQ0VYWFdmbmZB?oc=5",
+      "date": "Wed, 19 Aug 2026 11:05:00 GMT",
+      "source": "코인리더스",
+      "score": 3
+    },
+    {
       "title": "리플, 상장보다 기관 금융 인프라 전략 앞세웠다",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HaDRZSDhQTXJXUEZvUWpuRFhic0dfWjBhTW4wM3MtRGhYdXBiOHpDal9ENkhidFB4UjhucUc2N25tN19LeXExRnlmajlYRFFpQUdyN29oRWFDTTdITzFENdIBZkFVX3lxTE4wd1lucGNWUUx5SlU4RHVVZDhacGxFeEt6a25zczdxOTVlN1NWU2Ixbmluam9xWERsWTk2eDFPN2YyZGgzMklVQV94UmU1ZXl5YUN4ajE5TzJiU1RzbGlRWVVvU2VGZw?oc=5",
       "date": "Wed, 19 Aug 2026 07:36:48 GMT",
@@ -112,13 +119,6 @@
       "date": "Wed, 19 Aug 2026 03:49:00 GMT",
       "source": "디지털투데이",
       "score": 3
-    },
-    {
-      "title": "바이낸스, XRP·RLUSD 레버리지 5배→10배 상향…기존 포지션 점검해야",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wQ1huRENZQllYLVEzNjYwNnBSMHVobnV6S1kzM0E2Y1lqWUFlNjVSU3RiU3h6UmFDUF9INnNIT2tHR0N3dkY4QXRiZjF1R0tfZFJDV0wzeWJDNFRzdHZOTDRYNG54elE5RXNfMk1RZzZscEE?oc=5",
-      "date": "Wed, 19 Aug 2026 00:12:37 GMT",
-      "source": "디지털투데이",
-      "score": 2
     },
     {
       "title": "5억 달러 증발한 리플(XRP) 현물 ETF, 클래러티법 통과로 반전 이뤄낼까?",
