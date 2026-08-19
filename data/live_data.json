@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-19T16:24:15",
+  "generated_at": "2026-08-19T16:54:31",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.067,
-    "price_krw": 1481.09,
-    "price_change_24h": 6.5827,
-    "price_change_7d": 5.44747,
-    "price_change_30d": -4.06647,
-    "market_cap_usd": 66867682899,
+    "price_usd": 1.065,
+    "price_krw": 1479.13,
+    "price_change_24h": 6.35448,
+    "price_change_7d": 5.32295,
+    "price_change_30d": -4.17975,
+    "market_cap_usd": 66785970597,
     "market_cap_rank": 6,
-    "volume_24h": 1427659236,
+    "volume_24h": 1496433311,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 74.42,
-    "sentiment_votes_down": 25.58,
+    "sentiment_votes_up": 76.74,
+    "sentiment_votes_down": 23.26,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 23.97,
-    "recent_tps": 23.97,
-    "recent_tx_count": 2157,
+    "tps_24h_avg": 27.02,
+    "recent_tps": 27.02,
+    "recent_tx_count": 2432,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106404130,
+    "ledger_seq": 106404599,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-19 16:24:07 KST",
+    "updated_at": "2026-08-19 16:54:21 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,10 +43,124 @@
     "aum_usd": 2240000,
     "total_net_inflow_usd": 2240000,
     "total_value_traded_usd": 2240000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/19 16:24",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/19 16:54",
     "data_source": "sosovalue",
     "partial": true
   },
-  "etf_news": [],
-  "general_news": []
+  "etf_news": [
+    {
+      "title": "리플(XRP) 73% 폭락에도 보유해야 할 2가지 이유",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1JdGt2SVIyQktnQnlCYnZ5T1RsV3FhV0JuLU5pYXctYmZEZXdGWVpxdFl2Y1FxOWJpWDlqX3BFVTRhQ0VYWFdmbmZB?oc=5",
+      "date": "Wed, 19 Aug 2026 11:05:00 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
+    {
+      "title": "백악관 회동 앞둔 XRP 1달러 공방… 기관 자금 순유입 속 촉각",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GLU00eElwOEJUZm9qOE9qdlh0U0kzYlhzNGFrZkJVT05neWl5SVcxNnhRbDF1SWk4Y1V1Um5WRHZCMFNWdWlNREN0SVJyQXM2bTBPVEY1OF9BeGdHZnVZVE1vNzVzcGVCS3Jtc0pObGI?oc=5",
+      "date": "Wed, 19 Aug 2026 06:34:29 GMT",
+      "source": "블록체인투데이",
+      "score": 0
+    },
+    {
+      "title": "리플 1400원선 아래로…XRP 단기 지지선 시험대",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYSVBkZEZXY0ZDQTdpaTdLNnp5dm5MM1ZtbWJEUHFRZnFqQkw2akNvMTN4VzhvMUVxd3MwN0EwUnE0SVRmRUVyeEo4MC1CZ1ZadFJRODd3a1Z1RmJmNEJkYVZYNVo1N215WG1YZkZ30gFyQVVfeXFMT2FfQks3bEwySXg2T3RhYkhLTkFJVHdHaG83NlJva19WREJzWUFGS1R6Y0hqTE11WUxSSHFnYXRlcUYwbHhYeWNuNTAxVnlJWXlKSlowbWtwclE2WmNXcE0wamYwdGhaVy0wUjdOWmVrRzJ3?oc=5",
+      "date": "Wed, 19 Aug 2026 05:47:45 GMT",
+      "source": "잡포스트",
+      "score": 0
+    },
+    {
+      "title": "5억 달러 증발한 리플(XRP) 현물 ETF, 클래러티법 통과로 반전 이뤄낼까?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE96aHo5UUNxakI4QVBaQjRjX2VzT09GMG90T3pfcWxISFhLRnRFZHd3blhPQkZuQTJTZkRaNjNrOWw4alRTTVhPNVdB?oc=5",
+      "date": "Tue, 18 Aug 2026 22:57:00 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
+    {
+      "title": "SEC, 24시간 온체인 주식 거래 카드 '만지작'...XRP 1달러 넘어설까?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE80eHRGWDg3WEY3czJQSVAzVmtUQ29pcVlMZUZwbHV3UHl3aE1wTWx6U3RJWk96THF2cnY1YWV5Y0NnMGRRUHV1UkFn?oc=5",
+      "date": "Mon, 17 Aug 2026 23:20:00 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
+    {
+      "title": "리플XRP 보합·비트코인 1.78%↑·스테이터스네트워크토큰 상승…ETF 유출 속 거래 위축",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAyY2R3Mkxnc2tuTXRZZTYweTExZHpKQUVtYWhReFF5c0wwbFkwMUs4M2gyVUg2YjR2SmFNcDRYUVhRUTZaQlN1OHVpLXdjUE9GOERqc0VRVy1DR3dMa0R2UGFKWWZQU25ZUHpLbUV0bFpPZw?oc=5",
+      "date": "Mon, 17 Aug 2026 22:08:02 GMT",
+      "source": "톱스타뉴스",
+      "score": 0
+    }
+  ],
+  "general_news": [
+    {
+      "title": "RLUSD, 리플의 새 승부수…송금망 위에 ‘디지털 달러’ 얹는다",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zdTd2NUtKUlo4RUQzY2o3NjlBcTM1dFhKZktuT3NaSlVnUnY2MHZCVk1nYnhlQzdoWm9td09IXzVDWkUxc1hCVkJPUzVpUHVhczBkX2FKNVFTeTlCQzFXSmVpSmJFMHFh?oc=5",
+      "date": "Wed, 19 Aug 2026 15:00:00 GMT",
+      "source": "CBC뉴스",
+      "score": 3
+    },
+    {
+      "title": "바이비트, RLUSD 홀드 & Earn 운용 자산 5,000만 달러 돌파… 리플과 함께 XRP-RLUSD 보상 확대 2단계 개시",
+      "url": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxNYVVrb1ZPZUV4WWZlQ211MzFmRXFCYjJaZ3RkbnFTTHo0X09xUjFPM25GWWdBSVZ6cm9GZFlIblBFd2FxekxxWkhHM242MXppNTIxVlBQeDRCbnJFSzN6YXlvQ3NBUnBCdWlVVl9oNUFDdFJ6XzItclhkajZQbWFzclNjblF5ZFV0UmFrQnJtU0NBV09uRjM5OXpjVjlISXQ1bWdkOWNDa3lZQjFrX2psVEJReXNPSk9aeGFwVDJoRUY4ZHJERzJnYkJJQlZBY2ZpWDlXbzZveHctYmt6TGhsNlBDcEJubjRnU2g4T2Vyd3p0SXpVdlhGZ0pZSWpMSFd5V3NmMmtTRnc5eDQ3VUNPaUZDS3JCOFpjdHJRZmxOTUs3ekROTGlRcTNUVENyMXQtMEZDZ2hpcGQxSXZraTItMk5ISXRkck5hVTJfX000Xy16N3kxUEY0UjdrVlA1QzlDbS00M0FtX0pmNFhXeW9GSDJKYXE0aUd2TWtoSVBtXzJaMTM3aXdreXBTQ3l0bDlWbGJoWC1FSmpzdzBIT29pVFdvLURtNW1KZkswQVVfbkx6N3ZOdXZ0bGZEeUc2S1NSVXg5N0lxdWVNWERUU2xyRXdqZ2NwZVBmRUxjTw?oc=5",
+      "date": "Wed, 19 Aug 2026 12:58:55 GMT",
+      "source": "Yellow.com",
+      "score": 3
+    },
+    {
+      "title": "리플(XRP) 73% 폭락에도 보유해야 할 2가지 이유",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1JdGt2SVIyQktnQnlCYnZ5T1RsV3FhV0JuLU5pYXctYmZEZXdGWVpxdFl2Y1FxOWJpWDlqX3BFVTRhQ0VYWFdmbmZB?oc=5",
+      "date": "Wed, 19 Aug 2026 11:05:00 GMT",
+      "source": "코인리더스",
+      "score": 3
+    },
+    {
+      "title": "리플, 상장보다 기관 금융 인프라 전략 앞세웠다",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HaDRZSDhQTXJXUEZvUWpuRFhic0dfWjBhTW4wM3MtRGhYdXBiOHpDal9ENkhidFB4UjhucUc2N25tN19LeXExRnlmajlYRFFpQUdyN29oRWFDTTdITzFENdIBZkFVX3lxTE4wd1lucGNWUUx5SlU4RHVVZDhacGxFeEt6a25zczdxOTVlN1NWU2Ixbmluam9xWERsWTk2eDFPN2YyZGgzMklVQV94UmU1ZXl5YUN4ajE5TzJiU1RzbGlRWVVvU2VGZw?oc=5",
+      "date": "Wed, 19 Aug 2026 07:36:48 GMT",
+      "source": "tokenpost.kr",
+      "score": 3
+    },
+    {
+      "title": "백악관 회동 앞둔 XRP 1달러 공방… 기관 자금 순유입 속 촉각",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GLU00eElwOEJUZm9qOE9qdlh0U0kzYlhzNGFrZkJVT05neWl5SVcxNnhRbDF1SWk4Y1V1Um5WRHZCMFNWdWlNREN0SVJyQXM2bTBPVEY1OF9BeGdHZnVZVE1vNzVzcGVCS3Jtc0pObGI?oc=5",
+      "date": "Wed, 19 Aug 2026 06:34:29 GMT",
+      "source": "블록체인투데이",
+      "score": 3
+    },
+    {
+      "title": "리플 1400원선 아래로…XRP 단기 지지선 시험대",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYSVBkZEZXY0ZDQTdpaTdLNnp5dm5MM1ZtbWJEUHFRZnFqQkw2akNvMTN4VzhvMUVxd3MwN0EwUnE0SVRmRUVyeEo4MC1CZ1ZadFJRODd3a1Z1RmJmNEJkYVZYNVo1N215WG1YZkZ30gFyQVVfeXFMT2FfQks3bEwySXg2T3RhYkhLTkFJVHdHaG83NlJva19WREJzWUFGS1R6Y0hqTE11WUxSSHFnYXRlcUYwbHhYeWNuNTAxVnlJWXlKSlowbWtwclE2WmNXcE0wamYwdGhaVy0wUjdOWmVrRzJ3?oc=5",
+      "date": "Wed, 19 Aug 2026 05:47:45 GMT",
+      "source": "잡포스트",
+      "score": 3
+    },
+    {
+      "title": "리플, XRPL서 RLUSD 발행 확대…이더리움선 잇단 소각",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Lc1FPbHlHdlJLOW9tYjNNWmF4eVVRWXlwUzExWnZwc0tINmdKWG0tX3hfM0tRUWFLZ2c5c2Q5R1JMZmVFQjVtanhyb25fdFhFT01JbkVxamtzdGd2Q0gzVEVOYkVTS0xWVnFnOVR0WWlQWFU?oc=5",
+      "date": "Wed, 19 Aug 2026 03:49:00 GMT",
+      "source": "디지털투데이",
+      "score": 3
+    },
+    {
+      "title": "5억 달러 증발한 리플(XRP) 현물 ETF, 클래러티법 통과로 반전 이뤄낼까?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE96aHo5UUNxakI4QVBaQjRjX2VzT09GMG90T3pfcWxISFhLRnRFZHd3blhPQkZuQTJTZkRaNjNrOWw4alRTTVhPNVdB?oc=5",
+      "date": "Tue, 18 Aug 2026 22:57:00 GMT",
+      "source": "코인리더스",
+      "score": 4
+    },
+    {
+      "title": "리플XRP·비트코인 보합권, 펄 상승…유가·채권 부담",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5jMV9aQmx1ckZldGN4UlhQSE9PcUxYclF6V1Z0SnJQaWo3V2FNejgwS29JTXo4eTc4WWVVWGxOZFVLandVZkNSRW5vWi1lQzlJMk9zYjdmb2lsTTkyMTU2dDlaMTRvdjRuSWRlSTRYYXd5QQ?oc=5",
+      "date": "Tue, 18 Aug 2026 21:41:06 GMT",
+      "source": "톱스타뉴스",
+      "score": 2
+    },
+    {
+      "title": "속보 | 피델리티 \"BTC 변동성 역대 최저 수준...조만간 큰 움직임 가능성\"",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5sQmp2TjBVYTBTQ0RvY0Y5Uk9uSklHLWhkc2VQUmdPbHpQUWVybHAwZXdkVmxJdktFbWdfQy1zTUdaTENweGktQ1hGc1Bab3Rt?oc=5",
+      "date": "Tue, 18 Aug 2026 21:06:00 GMT",
+      "source": "CoinNess",
+      "score": 8
+    }
+  ]
 }
