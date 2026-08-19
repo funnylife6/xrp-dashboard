@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-19T08:00:23",
+  "generated_at": "2026-08-19T08:43:09",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.003,
-    "price_krw": 1400.66,
-    "price_change_24h": 0.75684,
-    "price_change_7d": -1.55402,
-    "price_change_30d": -7.55683,
-    "market_cap_usd": 62858612122,
+    "price_usd": 1.007,
+    "price_krw": 1404.73,
+    "price_change_24h": 1.03797,
+    "price_change_7d": -1.18301,
+    "price_change_30d": -7.53959,
+    "market_cap_usd": 63136046694,
     "market_cap_rank": 6,
-    "volume_24h": 768962369,
+    "volume_24h": 775533968,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 63.86,
-    "sentiment_votes_down": 36.14,
+    "sentiment_votes_up": 63.95,
+    "sentiment_votes_down": 36.05,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 21.49,
-    "recent_tps": 21.49,
-    "recent_tx_count": 1913,
+    "tps_24h_avg": 14.9,
+    "recent_tps": 14.9,
+    "recent_tx_count": 1222,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 106396299,
+    "recent_window_sec": 82,
+    "ledger_seq": 106396966,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-19 08:00:17 KST",
+    "updated_at": "2026-08-19 08:43:00 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 2240000,
     "total_net_inflow_usd": 2240000,
     "total_value_traded_usd": 2240000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/19 08:00",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/19 08:43",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -93,18 +93,18 @@
   ],
   "general_news": [
     {
+      "title": "리플, 상장보다 기관 금융 인프라 전략 앞세웠다",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HaDRZSDhQTXJXUEZvUWpuRFhic0dfWjBhTW4wM3MtRGhYdXBiOHpDal9ENkhidFB4UjhucUc2N25tN19LeXExRnlmajlYRFFpQUdyN29oRWFDTTdITzFENdIBZkFVX3lxTE4wd1lucGNWUUx5SlU4RHVVZDhacGxFeEt6a25zczdxOTVlN1NWU2Ixbmluam9xWERsWTk2eDFPN2YyZGgzMklVQV94UmU1ZXl5YUN4ajE5TzJiU1RzbGlRWVVvU2VGZw?oc=5",
+      "date": "Wed, 19 Aug 2026 07:36:48 GMT",
+      "source": "tokenpost.kr",
+      "score": 3
+    },
+    {
       "title": "리플, XRPL서 RLUSD 발행 확대…이더리움선 잇단 소각",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Lc1FPbHlHdlJLOW9tYjNNWmF4eVVRWXlwUzExWnZwc0tINmdKWG0tX3hfM0tRUWFLZ2c5c2Q5R1JMZmVFQjVtanhyb25fdFhFT01JbkVxamtzdGd2Q0gzVEVOYkVTS0xWVnFnOVR0WWlQWFU?oc=5",
       "date": "Wed, 19 Aug 2026 03:49:00 GMT",
       "source": "디지털투데이",
       "score": 3
-    },
-    {
-      "title": "바이낸스, XRP·RLUSD 레버리지 5배→10배 상향…기존 포지션 점검해야",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wQ1huRENZQllYLVEzNjYwNnBSMHVobnV6S1kzM0E2Y1lqWUFlNjVSU3RiU3h6UmFDUF9INnNIT2tHR0N3dkY4QXRiZjF1R0tfZFJDV0wzeWJDNFRzdHZOTDRYNG54elE5RXNfMk1RZzZscEE?oc=5",
-      "date": "Wed, 19 Aug 2026 00:12:37 GMT",
-      "source": "디지털투데이",
-      "score": 2
     },
     {
       "title": "5억 달러 증발한 리플(XRP) 현물 ETF, 클래러티법 통과로 반전 이뤄낼까?",
