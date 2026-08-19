@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-19T21:48:17",
+  "generated_at": "2026-08-19T22:16:17",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.12,
-    "price_krw": 1557.13,
-    "price_change_24h": 12.2198,
-    "price_change_7d": 11.2833,
-    "price_change_30d": 0.71532,
-    "market_cap_usd": 70268806904,
+    "price_krw": 1559.79,
+    "price_change_24h": 12.30985,
+    "price_change_7d": 12.01197,
+    "price_change_30d": 0.91783,
+    "market_cap_usd": 70474200682,
     "market_cap_rank": 6,
-    "volume_24h": 2373649286,
+    "volume_24h": 2573950295,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
@@ -22,30 +22,29 @@
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 32.81,
-    "recent_tps": 32.81,
-    "recent_tx_count": 2953,
+    "tps_24h_avg": 36.45,
+    "recent_tps": 36.45,
+    "recent_tx_count": 2989,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 106409145,
+    "recent_window_sec": 82,
+    "ledger_seq": 106409578,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-19 21:48:03 KST",
+    "updated_at": "2026-08-19 22:16:10 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
   },
   "etf_flow": {
-    "approved_count": 4,
+    "approved_count": 0,
     "daily_inflow_usd": 0,
     "weekly_inflow_usd": 0,
-    "aum_usd": 2240000,
-    "total_net_inflow_usd": 2240000,
-    "total_value_traded_usd": 2240000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/19 21:48",
-    "data_source": "sosovalue",
-    "partial": true
+    "aum_usd": 0,
+    "total_net_inflow_usd": 0,
+    "total_value_traded_usd": 0,
+    "updated_at": "뉴스 자동 파싱 대기",
+    "data_source": "news_parse"
   },
   "etf_news": [
     {
@@ -59,12 +58,12 @@
       "title": "백악관 회동 앞둔 XRP 1달러 공방… 기관 자금 순유입 속 촉각",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GLU00eElwOEJUZm9qOE9qdlh0U0kzYlhzNGFrZkJVT05neWl5SVcxNnhRbDF1SWk4Y1V1Um5WRHZCMFNWdWlNREN0SVJyQXM2bTBPVEY1OF9BeGdHZnVZVE1vNzVzcGVCS3Jtc0pObGI?oc=5",
       "date": "Wed, 19 Aug 2026 06:34:29 GMT",
-      "source": "blockchaintoday.co.kr",
+      "source": "블록체인투데이",
       "score": 0
     },
     {
       "title": "리플 1400원선 아래로…XRP 단기 지지선 시험대",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9hX0JLN2xMMkl4Nk90YWJIS05BSVR3R2hvNzZSb2tfVkRCc1lBRktUemNIakxNdVlMUkhxZ2F0ZXFGMGx4WHljbjUwMVZ5SVl5SkpaMG1rcHJRNlpjV3BNMGpmMHRoWlctMFI3Tlpla0cyd9IBckFVX3lxTE9hX0JLN2xMMkl4Nk90YWJIS05BSVR3R2hvNzZSb2tfVkRCc1lBRktUemNIakxNdVlMUkhxZ2F0ZXFGMGx4WHljbjUwMVZ5SVl5SkpaMG1rcHJRNlpjV3BNMGpmMHRoWlctMFI3Tlpla0cydw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYSVBkZEZXY0ZDQTdpaTdLNnp5dm5MM1ZtbWJEUHFRZnFqQkw2akNvMTN4VzhvMUVxd3MwN0EwUnE0SVRmRUVyeEo4MC1CZ1ZadFJRODd3a1Z1RmJmNEJkYVZYNVo1N215WG1YZkZ30gFyQVVfeXFMT2FfQks3bEwySXg2T3RhYkhLTkFJVHdHaG83NlJva19WREJzWUFGS1R6Y0hqTE11WUxSSHFnYXRlcUYwbHhYeWNuNTAxVnlJWXlKSlowbWtwclE2WmNXcE0wamYwdGhaVy0wUjdOWmVrRzJ3?oc=5",
       "date": "Wed, 19 Aug 2026 05:47:45 GMT",
       "source": "잡포스트",
       "score": 0
@@ -92,6 +91,20 @@
     }
   ],
   "general_news": [
+    {
+      "title": "이더리움 급등·비트코인·리플XRP 상승…트럼프 발언·금리 하락",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GMzQySGpoYzlHMkpmUmxzNFo5STJCMnplLW5zLUJ5ME5hbG1LakcxWG1LcDJiTFc0VUJFODJzZlFjU01TTGQ1VmR4ZlRUVnlvdEg0MTJES0xTT3lrWVBvdm1OQzJ1cGJ2TkJTZUVPSVcyQQ?oc=5",
+      "date": "Wed, 19 Aug 2026 21:49:01 GMT",
+      "source": "톱스타뉴스",
+      "score": 2
+    },
+    {
+      "title": "리플·XRP, 비상장 고집은 이제 그만...갈링하우스 \"IPO에 중립적\"",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4tRE1EMkdmbTdDa2JZTUtJOWtoOVBvWTZyeVpaUS1wTk84YjJuSDVzM1UzellBSEd3MklyS3hmUld2bm5TSmQ1b2xn?oc=5",
+      "date": "Wed, 19 Aug 2026 16:00:00 GMT",
+      "source": "코인리더스",
+      "score": 3
+    },
     {
       "title": "RLUSD, 리플의 새 승부수…송금망 위에 ‘디지털 달러’ 얹는다",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zdTd2NUtKUlo4RUQzY2o3NjlBcTM1dFhKZktuT3NaSlVnUnY2MHZCVk1nYnhlQzdoWm9td09IXzVDWkUxc1hCVkJPUzVpUHVhczBkX2FKNVFTeTlCQzFXSmVpSmJFMHFh?oc=5",
@@ -124,12 +137,12 @@
       "title": "백악관 회동 앞둔 XRP 1달러 공방… 기관 자금 순유입 속 촉각",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GLU00eElwOEJUZm9qOE9qdlh0U0kzYlhzNGFrZkJVT05neWl5SVcxNnhRbDF1SWk4Y1V1Um5WRHZCMFNWdWlNREN0SVJyQXM2bTBPVEY1OF9BeGdHZnVZVE1vNzVzcGVCS3Jtc0pObGI?oc=5",
       "date": "Wed, 19 Aug 2026 06:34:29 GMT",
-      "source": "blockchaintoday.co.kr",
+      "source": "블록체인투데이",
       "score": 3
     },
     {
       "title": "리플 1400원선 아래로…XRP 단기 지지선 시험대",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9hX0JLN2xMMkl4Nk90YWJIS05BSVR3R2hvNzZSb2tfVkRCc1lBRktUemNIakxNdVlMUkhxZ2F0ZXFGMGx4WHljbjUwMVZ5SVl5SkpaMG1rcHJRNlpjV3BNMGpmMHRoWlctMFI3Tlpla0cyd9IBckFVX3lxTE9hX0JLN2xMMkl4Nk90YWJIS05BSVR3R2hvNzZSb2tfVkRCc1lBRktUemNIakxNdVlMUkhxZ2F0ZXFGMGx4WHljbjUwMVZ5SVl5SkpaMG1rcHJRNlpjV3BNMGpmMHRoWlctMFI3Tlpla0cydw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYSVBkZEZXY0ZDQTdpaTdLNnp5dm5MM1ZtbWJEUHFRZnFqQkw2akNvMTN4VzhvMUVxd3MwN0EwUnE0SVRmRUVyeEo4MC1CZ1ZadFJRODd3a1Z1RmJmNEJkYVZYNVo1N215WG1YZkZ30gFyQVVfeXFMT2FfQks3bEwySXg2T3RhYkhLTkFJVHdHaG83NlJva19WREJzWUFGS1R6Y0hqTE11WUxSSHFnYXRlcUYwbHhYeWNuNTAxVnlJWXlKSlowbWtwclE2WmNXcE0wamYwdGhaVy0wUjdOWmVrRzJ3?oc=5",
       "date": "Wed, 19 Aug 2026 05:47:45 GMT",
       "source": "잡포스트",
       "score": 3
@@ -147,20 +160,6 @@
       "date": "Tue, 18 Aug 2026 22:57:00 GMT",
       "source": "코인리더스",
       "score": 4
-    },
-    {
-      "title": "리플XRP·비트코인 보합권, 펄 상승…유가·채권 부담",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5jMV9aQmx1ckZldGN4UlhQSE9PcUxYclF6V1Z0SnJQaWo3V2FNejgwS29JTXo4eTc4WWVVWGxOZFVLandVZkNSRW5vWi1lQzlJMk9zYjdmb2lsTTkyMTU2dDlaMTRvdjRuSWRlSTRYYXd5QQ?oc=5",
-      "date": "Tue, 18 Aug 2026 21:41:06 GMT",
-      "source": "톱스타뉴스",
-      "score": 2
-    },
-    {
-      "title": "SEC 암호화폐 규정…XRP 의문 재점화",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9OOGpPUUpGVHNIWTRKcFZYS1ptRHBxVEdSWW1weDlaNjRXY010eUZ5bUxUQzJ5QlpWc3lIcFRWWkZmbnVMMlFaR1d1TTF1QmFLR1FSTFdEZ0libnhzaVUzR0lfeEpqZw?oc=5",
-      "date": "Tue, 18 Aug 2026 20:52:29 GMT",
-      "source": "BeInCrypto",
-      "score": 3
     }
   ]
 }
