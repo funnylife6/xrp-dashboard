@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-19T10:22:12",
+  "generated_at": "2026-08-19T10:53:24",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.003,
-    "price_krw": 1394.24,
-    "price_change_24h": 0.85758,
-    "price_change_7d": -1.95391,
-    "price_change_30d": -7.92448,
-    "market_cap_usd": 62872211534,
+    "price_usd": 1.005,
+    "price_krw": 1395.83,
+    "price_change_24h": 0.93889,
+    "price_change_7d": -1.81408,
+    "price_change_30d": -7.79318,
+    "market_cap_usd": 62958863710,
     "market_cap_rank": 6,
-    "volume_24h": 794232217,
+    "volume_24h": 799728961,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
@@ -22,16 +22,16 @@
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 18.2,
-    "recent_tps": 18.2,
-    "recent_tx_count": 1620,
+    "tps_24h_avg": 15.57,
+    "recent_tps": 15.57,
+    "recent_tx_count": 1401,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 106398512,
+    "recent_window_sec": 90,
+    "ledger_seq": 106398999,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-19 10:22:04 KST",
+    "updated_at": "2026-08-19 10:53:14 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 2240000,
     "total_net_inflow_usd": 2240000,
     "total_value_traded_usd": 2240000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/19 10:22",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/19 10:53",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -114,6 +114,13 @@
       "score": 3
     },
     {
+      "title": "바이낸스, XRP·RLUSD 레버리지 5배→10배 상향…기존 포지션 점검해야",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wQ1huRENZQllYLVEzNjYwNnBSMHVobnV6S1kzM0E2Y1lqWUFlNjVSU3RiU3h6UmFDUF9INnNIT2tHR0N3dkY4QXRiZjF1R0tfZFJDV0wzeWJDNFRzdHZOTDRYNG54elE5RXNfMk1RZzZscEE?oc=5",
+      "date": "Wed, 19 Aug 2026 00:12:37 GMT",
+      "source": "디지털투데이",
+      "score": 2
+    },
+    {
       "title": "5억 달러 증발한 리플(XRP) 현물 ETF, 클래러티법 통과로 반전 이뤄낼까?",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE96aHo5UUNxakI4QVBaQjRjX2VzT09GMG90T3pfcWxISFhLRnRFZHd3blhPQkZuQTJTZkRaNjNrOWw4alRTTVhPNVdB?oc=5",
       "date": "Tue, 18 Aug 2026 22:57:00 GMT",
@@ -154,13 +161,6 @@
       "date": "Tue, 18 Aug 2026 10:21:00 GMT",
       "source": "Investing.com 한국어",
       "score": 2
-    },
-    {
-      "title": "XRP, 한국 은행의 리플 페이먼트 도입에도 불구하고 2024년 이후 처음으로 1달러 아래로 하락",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcUxVbHFhLWU2OUFCRmJwdXVRQTNDYWFUSExUbE1HWXE5TWl5SjgyUDdMbjdHVm5ZSXhkU3dDZDlNbWEweXdCSlg5S0Z1WUdnR2NmZGNnYzEtRTg5ejAyc25TS3lEci01LW93aW1WNGM4SERtbDdjTTdiMGVVemx5T3RlNUlQdjhsalVvOS1GREJiSVo2VHdGdEJrQTM3NE9ZZlhlNXVucnFCeWgteGE1My1qNG83RTY3ejlZ?oc=5",
-      "date": "Tue, 18 Aug 2026 08:40:31 GMT",
-      "source": "CoinDesk",
-      "score": 4
     }
   ]
 }
