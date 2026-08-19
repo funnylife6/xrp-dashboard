@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-19T20:17:51",
+  "generated_at": "2026-08-19T20:51:56",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.074,
-    "price_krw": 1491.63,
-    "price_change_24h": 7.3108,
-    "price_change_7d": 6.73824,
-    "price_change_30d": -3.73162,
-    "market_cap_usd": 67315794052,
+    "price_usd": 1.088,
+    "price_krw": 1510.08,
+    "price_change_24h": 8.8821,
+    "price_change_7d": 8.05385,
+    "price_change_30d": -2.54505,
+    "market_cap_usd": 68058843869,
     "market_cap_rank": 6,
-    "volume_24h": 1902605200,
+    "volume_24h": 2048395021,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 72.5,
-    "sentiment_votes_down": 27.5,
+    "sentiment_votes_up": 73.55,
+    "sentiment_votes_down": 26.45,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 32.12,
-    "recent_tps": 32.12,
-    "recent_tx_count": 2891,
+    "tps_24h_avg": 45.96,
+    "recent_tps": 45.96,
+    "recent_tx_count": 4136,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106407755,
+    "ledger_seq": 106408281,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-19 20:17:43 KST",
+    "updated_at": "2026-08-19 20:51:43 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 2240000,
     "total_net_inflow_usd": 2240000,
     "total_value_traded_usd": 2240000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/19 20:17",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/19 20:51",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -138,8 +138,15 @@
       "title": "리플, XRPL서 RLUSD 발행 확대…이더리움선 잇단 소각",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Lc1FPbHlHdlJLOW9tYjNNWmF4eVVRWXlwUzExWnZwc0tINmdKWG0tX3hfM0tRUWFLZ2c5c2Q5R1JMZmVFQjVtanhyb25fdFhFT01JbkVxamtzdGd2Q0gzVEVOYkVTS0xWVnFnOVR0WWlQWFU?oc=5",
       "date": "Wed, 19 Aug 2026 03:49:00 GMT",
-      "source": "디지털투데이",
+      "source": "digitaltoday.co.kr",
       "score": 3
+    },
+    {
+      "title": "바이낸스, XRP·RLUSD 레버리지 5배→10배 상향…기존 포지션 점검해야",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wQ1huRENZQllYLVEzNjYwNnBSMHVobnV6S1kzM0E2Y1lqWUFlNjVSU3RiU3h6UmFDUF9INnNIT2tHR0N3dkY4QXRiZjF1R0tfZFJDV0wzeWJDNFRzdHZOTDRYNG54elE5RXNfMk1RZzZscEE?oc=5",
+      "date": "Wed, 19 Aug 2026 00:12:37 GMT",
+      "source": "digitaltoday.co.kr",
+      "score": 2
     },
     {
       "title": "5억 달러 증발한 리플(XRP) 현물 ETF, 클래러티법 통과로 반전 이뤄낼까?",
@@ -154,13 +161,6 @@
       "date": "Tue, 18 Aug 2026 21:41:06 GMT",
       "source": "톱스타뉴스",
       "score": 2
-    },
-    {
-      "title": "SEC 암호화폐 규정…XRP 의문 재점화",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9OOGpPUUpGVHNIWTRKcFZYS1ptRHBxVEdSWW1weDlaNjRXY010eUZ5bUxUQzJ5QlpWc3lIcFRWWkZmbnVMMlFaR1d1TTF1QmFLR1FSTFdEZ0libnhzaVUzR0lfeEpqZw?oc=5",
-      "date": "Tue, 18 Aug 2026 20:52:29 GMT",
-      "source": "BeInCrypto",
-      "score": 3
     }
   ]
 }
