@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-20T14:27:41",
+  "generated_at": "2026-08-20T15:04:26",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.24,
-    "price_krw": 1728.77,
-    "price_change_24h": 21.91115,
-    "price_change_7d": 23.31051,
-    "price_change_30d": 8.75504,
-    "market_cap_usd": 77721566674,
+    "price_usd": 1.23,
+    "price_krw": 1711.41,
+    "price_change_24h": 19.07757,
+    "price_change_7d": 21.67586,
+    "price_change_30d": 7.02298,
+    "market_cap_usd": 76970285206,
     "market_cap_rank": 5,
-    "volume_24h": 5109953861,
+    "volume_24h": 5214928781,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 80.44,
-    "sentiment_votes_down": 19.56,
+    "sentiment_votes_up": 80.87,
+    "sentiment_votes_down": 19.13,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 38.58,
-    "recent_tps": 38.58,
-    "recent_tx_count": 3434,
+    "tps_24h_avg": 44.44,
+    "recent_tps": 44.44,
+    "recent_tx_count": 4000,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 106424649,
+    "recent_window_sec": 90,
+    "ledger_seq": 106425216,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-20 14:27:35 KST",
+    "updated_at": "2026-08-20 15:04:19 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 1190000,
     "total_net_inflow_usd": 1190000,
     "total_value_traded_usd": 1190000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/20 14:27",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/20 15:04",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -93,6 +93,13 @@
   ],
   "general_news": [
     {
+      "title": "리플·클리어풀, XRP레저 대출 플랫폼 협력",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50cGk3QmR0RjdpUk9HODJZN2dfQVZxYVduMEozQkpSbEYwSDkyemtuUGxyUFA2Q2htUDY2bkV6cXBWSnRVbEpWNENEMUttUWh6Zmh6SnQ5WndZV0HSAWBBVV95cUxOc2poZENUX3h5VVgzV0ppN1V5WTA5bGVlRlpyNXlDX3lzZnFRYkhZS1pIRFhGMjYxMHVRblRkcEkxY3o3ZDE4b3o2Y21tU3JUVFB3OGZhaFR4ZTJBSFR3THo?oc=5",
+      "date": "Thu, 20 Aug 2026 13:59:27 GMT",
+      "source": "tokenpost.kr",
+      "score": 2
+    },
+    {
       "title": "SEC와 맞섰던 리플, 새 가상자산 태스크포스 합류…XRP 두 자릿수 급등",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5JR3ByVVpiTlg4WHdVQ1RrWjhBMXdUOUMyVDdNU0h0RXRFTXVKLXdUSVBmcGQ3b2xMY2lUaTBURWplQ1E0YlV4ajNRRVUxTVJZWmlVaXZIdFUzSF9RaVY5Zk1KdGkyYmdaNWs3d1I3LTdlTDA?oc=5",
       "date": "Thu, 20 Aug 2026 12:27:00 GMT",
@@ -107,9 +114,9 @@
       "score": 3
     },
     {
-      "title": "속보 | 한화·리플 전격 제휴...코인 최강자와 동맹",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBLeHd1bDFJVGpScGVpdHp0NkZuU2ZwemcwQzROZmdBVVpwaTdJaGNfTkcyeGwta3J4aFl2SHktYjhBTGJPUVVNSkpNMHhRcENo?oc=5",
-      "date": "Thu, 20 Aug 2026 09:20:10 GMT",
+      "title": "어어어어어 리플뭐냐",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TWHJMVHN1NEVDSE8wWHM1ZXNKR1hESGMxdG9iRTBJRW9ob1NTNTN5bm9TcWVxTDJzSTVsNndMaGtFMWF2cXY4ZXBNTFVfTjBvMlFsODZsMVE?oc=5",
+      "date": "Thu, 20 Aug 2026 08:28:30 GMT",
       "source": "CoinNess",
       "score": 9
     },
@@ -128,6 +135,13 @@
       "score": 3
     },
     {
+      "title": "속보 | 클리어풀, 리플과 XRP레저 기반 기관용 대출 플랫폼 구축 추진",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1SUHIxeWY3SHowSXpjaEpYcXFMaDNPTV9Vc2lPVElvckJrXzVZYm1UMW1sLWk0WU1tY016OTNJTHpSR0w4VHUwNjNyTHNWcE0y?oc=5",
+      "date": "Wed, 19 Aug 2026 22:06:00 GMT",
+      "source": "CoinNess",
+      "score": 11
+    },
+    {
       "title": "이더리움 급등·비트코인·리플XRP 상승…트럼프 발언·금리 하락",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GMzQySGpoYzlHMkpmUmxzNFo5STJCMnplLW5zLUJ5ME5hbG1LakcxWG1LcDJiTFc0VUJFODJzZlFjU01TTGQ1VmR4ZlRUVnlvdEg0MTJES0xTT3lrWVBvdm1OQzJ1cGJ2TkJTZUVPSVcyQQ?oc=5",
       "date": "Wed, 19 Aug 2026 21:49:01 GMT",
@@ -142,25 +156,11 @@
       "score": 2
     },
     {
-      "title": "리플·XRP, 비상장 고집은 이제 그만...갈링하우스 \"IPO에 중립적\"",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4tRE1EMkdmbTdDa2JZTUtJOWtoOVBvWTZyeVpaUS1wTk84YjJuSDVzM1UzellBSEd3MklyS3hmUld2bm5TSmQ1b2xn?oc=5",
-      "date": "Wed, 19 Aug 2026 16:00:00 GMT",
-      "source": "코인리더스",
-      "score": 3
-    },
-    {
-      "title": "바이비트, RLUSD 홀드 & Earn 운용 자산 5,000만 달러 돌파… 리플과 함께 XRP-RLUSD 보상 확대 2단계 개시",
-      "url": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxNYVVrb1ZPZUV4WWZlQ211MzFmRXFCYjJaZ3RkbnFTTHo0X09xUjFPM25GWWdBSVZ6cm9GZFlIblBFd2FxekxxWkhHM242MXppNTIxVlBQeDRCbnJFSzN6YXlvQ3NBUnBCdWlVVl9oNUFDdFJ6XzItclhkajZQbWFzclNjblF5ZFV0UmFrQnJtU0NBV09uRjM5OXpjVjlISXQ1bWdkOWNDa3lZQjFrX2psVEJReXNPSk9aeGFwVDJoRUY4ZHJERzJnYkJJQlZBY2ZpWDlXbzZveHctYmt6TGhsNlBDcEJubjRnU2g4T2Vyd3p0SXpVdlhGZ0pZSWpMSFd5V3NmMmtTRnc5eDQ3VUNPaUZDS3JCOFpjdHJRZmxOTUs3ekROTGlRcTNUVENyMXQtMEZDZ2hpcGQxSXZraTItMk5ISXRkck5hVTJfX000Xy16N3kxUEY0UjdrVlA1QzlDbS00M0FtX0pmNFhXeW9GSDJKYXE0aUd2TWtoSVBtXzJaMTM3aXdreXBTQ3l0bDlWbGJoWC1FSmpzdzBIT29pVFdvLURtNW1KZkswQVVfbkx6N3ZOdXZ0bGZEeUc2S1NSVXg5N0lxdWVNWERUU2xyRXdqZ2NwZVBmRUxjTw?oc=5",
-      "date": "Wed, 19 Aug 2026 12:58:55 GMT",
-      "source": "Yellow.com",
-      "score": 3
-    },
-    {
-      "title": "속보 | 금감원, 경주마·가두리 잡는다...가상자산 AI 감시 체계 구축",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1XTWoyUGFya05KbUVqRFZPc01OcWx3N3d6UkVRSUJnc3hETEdoTmluSU5BenFfNjFWeVR5XzBkUFAxaTFMWjBLMjY4QU5IeDl2?oc=5",
-      "date": "Wed, 19 Aug 2026 12:33:00 GMT",
+      "title": "속보 | 한화운용·리플·카나리캐피털, 디지털자산 제휴",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5oeTNwb0Z5eGNXZmxQWERmNjVreUNUb1pNcGNzR2lESUR4MHJ5Wnk1YUtfaUNvdmRPbjNhcXFfMXJFYnVsU0l6MA?oc=5",
+      "date": "Wed, 19 Aug 2026 17:13:00 GMT",
       "source": "CoinNess",
-      "score": 8
+      "score": 9
     }
   ]
 }
