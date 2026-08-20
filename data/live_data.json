@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-19T23:44:26",
+  "generated_at": "2026-08-20T00:45:06",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.1,
-    "price_krw": 1531.35,
-    "price_change_24h": 10.10755,
-    "price_change_7d": 9.95822,
-    "price_change_30d": -0.51676,
-    "market_cap_usd": 69154579708,
+    "price_usd": 1.11,
+    "price_krw": 1539.68,
+    "price_change_24h": 11.27182,
+    "price_change_7d": 10.39638,
+    "price_change_30d": -0.2038,
+    "market_cap_usd": 69518718334,
     "market_cap_rank": 6,
-    "volume_24h": 2840365327,
+    "volume_24h": 2937031096,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 76.6,
-    "sentiment_votes_down": 23.4,
+    "sentiment_votes_up": 77.4,
+    "sentiment_votes_down": 22.6,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 21.56,
-    "recent_tps": 21.56,
-    "recent_tx_count": 1940,
+    "tps_24h_avg": 19.79,
+    "recent_tps": 19.79,
+    "recent_tx_count": 1781,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106410939,
+    "ledger_seq": 106411881,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-19 23:44:16 KST",
+    "updated_at": "2026-08-20 00:44:57 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -47,6 +47,13 @@
     "data_source": "news_parse"
   },
   "etf_news": [
+    {
+      "title": "XRP 고래들, 1달러선서 6억개 쓸어담았다…美 SEC발 규제 완화 기대감",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9IeEtySlpPbEltcVN3SFQtTDZ4Y0dDV0dDVHhENFd2dS1xZndyWGJKSjhtem82QVEyWXgyR29GNnEtMFNlWVNqMFAtZTdZWVNYTV9aMlNCVXpZNWVWR3U2aUVma3p6eW5PMm9pZzlMQ2U5TE0?oc=5",
+      "date": "Wed, 19 Aug 2026 23:59:58 GMT",
+      "source": "디지털투데이",
+      "score": 0
+    },
     {
       "title": "리플(XRP) 73% 폭락에도 보유해야 할 2가지 이유",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1JdGt2SVIyQktnQnlCYnZ5T1RsV3FhV0JuLU5pYXctYmZEZXdGWVpxdFl2Y1FxOWJpWDlqX3BFVTRhQ0VYWFdmbmZB?oc=5",
@@ -81,16 +88,16 @@
       "date": "Mon, 17 Aug 2026 23:20:00 GMT",
       "source": "코인리더스",
       "score": 0
-    },
-    {
-      "title": "리플XRP 보합·비트코인 1.78%↑·스테이터스네트워크토큰 상승…ETF 유출 속 거래 위축",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAyY2R3Mkxnc2tuTXRZZTYweTExZHpKQUVtYWhReFF5c0wwbFkwMUs4M2gyVUg2YjR2SmFNcDRYUVhRUTZaQlN1OHVpLXdjUE9GOERqc0VRVy1DR3dMa0R2UGFKWWZQU25ZUHpLbUV0bFpPZw?oc=5",
-      "date": "Mon, 17 Aug 2026 22:08:02 GMT",
-      "source": "톱스타뉴스",
-      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "기관 자금 2.5억 달러 유입에도… XRP, 활성도 둔화에 가격 '제자리'",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtaEx0aWg4eG1IcUhNSkV1elB6U01GUndEa2R2T0hlSWotRUxqdWZyWnB6UUZCdnR5RzJ6V3BzXzNWQ00wUkpJdW9nYk92QVlrdS1DVkJDVUxTQ29YZkt4ODlEbVl3SWZLNmtDaVNNZEM?oc=5",
+      "date": "Wed, 19 Aug 2026 23:59:47 GMT",
+      "source": "블록체인투데이",
+      "score": 3
+    },
     {
       "title": "이더리움 급등·비트코인·리플XRP 상승…트럼프 발언·금리 하락",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GMzQySGpoYzlHMkpmUmxzNFo5STJCMnplLW5zLUJ5ME5hbG1LakcxWG1LcDJiTFc0VUJFODJzZlFjU01TTGQ1VmR4ZlRUVnlvdEg0MTJES0xTT3lrWVBvdm1OQzJ1cGJ2TkJTZUVPSVcyQQ?oc=5",
@@ -116,7 +123,7 @@
       "title": "바이비트, RLUSD 홀드 & Earn 운용 자산 5,000만 달러 돌파… 리플과 함께 XRP-RLUSD 보상 확대 2단계 개시",
       "url": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxNYVVrb1ZPZUV4WWZlQ211MzFmRXFCYjJaZ3RkbnFTTHo0X09xUjFPM25GWWdBSVZ6cm9GZFlIblBFd2FxekxxWkhHM242MXppNTIxVlBQeDRCbnJFSzN6YXlvQ3NBUnBCdWlVVl9oNUFDdFJ6XzItclhkajZQbWFzclNjblF5ZFV0UmFrQnJtU0NBV09uRjM5OXpjVjlISXQ1bWdkOWNDa3lZQjFrX2psVEJReXNPSk9aeGFwVDJoRUY4ZHJERzJnYkJJQlZBY2ZpWDlXbzZveHctYmt6TGhsNlBDcEJubjRnU2g4T2Vyd3p0SXpVdlhGZ0pZSWpMSFd5V3NmMmtTRnc5eDQ3VUNPaUZDS3JCOFpjdHJRZmxOTUs3ekROTGlRcTNUVENyMXQtMEZDZ2hpcGQxSXZraTItMk5ISXRkck5hVTJfX000Xy16N3kxUEY0UjdrVlA1QzlDbS00M0FtX0pmNFhXeW9GSDJKYXE0aUd2TWtoSVBtXzJaMTM3aXdreXBTQ3l0bDlWbGJoWC1FSmpzdzBIT29pVFdvLURtNW1KZkswQVVfbkx6N3ZOdXZ0bGZEeUc2S1NSVXg5N0lxdWVNWERUU2xyRXdqZ2NwZVBmRUxjTw?oc=5",
       "date": "Wed, 19 Aug 2026 12:58:55 GMT",
-      "source": "yellow.com",
+      "source": "Yellow.com",
       "score": 3
     },
     {
@@ -131,13 +138,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HaDRZSDhQTXJXUEZvUWpuRFhic0dfWjBhTW4wM3MtRGhYdXBiOHpDal9ENkhidFB4UjhucUc2N25tN19LeXExRnlmajlYRFFpQUdyN29oRWFDTTdITzFENdIBZkFVX3lxTE4wd1lucGNWUUx5SlU4RHVVZDhacGxFeEt6a25zczdxOTVlN1NWU2Ixbmluam9xWERsWTk2eDFPN2YyZGgzMklVQV94UmU1ZXl5YUN4ajE5TzJiU1RzbGlRWVVvU2VGZw?oc=5",
       "date": "Wed, 19 Aug 2026 07:36:48 GMT",
       "source": "tokenpost.kr",
-      "score": 3
-    },
-    {
-      "title": "백악관 회동 앞둔 XRP 1달러 공방… 기관 자금 순유입 속 촉각",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GLU00eElwOEJUZm9qOE9qdlh0U0kzYlhzNGFrZkJVT05neWl5SVcxNnhRbDF1SWk4Y1V1Um5WRHZCMFNWdWlNREN0SVJyQXM2bTBPVEY1OF9BeGdHZnVZVE1vNzVzcGVCS3Jtc0pObGI?oc=5",
-      "date": "Wed, 19 Aug 2026 06:34:29 GMT",
-      "source": "블록체인투데이",
       "score": 3
     },
     {
@@ -158,7 +158,7 @@
       "title": "속보 | 트럼프 \"BTC 및 암호화폐, 상당량 매입 방안 검토 중\"",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBPaVpLcmtXWFpwcDA0VnVpZXcyeTVIenVXcF9wdWwtMEJMRzYxLTZtbXJvSmJCX0h6d21CMjl6RlpaNThCanJLUVM5U0ZOQjFC?oc=5",
       "date": "Wed, 19 Aug 2026 03:41:00 GMT",
-      "source": "coinness.com",
+      "source": "CoinNess",
       "score": 8
     }
   ]
