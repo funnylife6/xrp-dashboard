@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-20T09:58:05",
+  "generated_at": "2026-08-20T10:28:38",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.15,
-    "price_krw": 1601.34,
-    "price_change_24h": 14.47412,
-    "price_change_7d": 13.49444,
-    "price_change_30d": 1.41701,
-    "market_cap_usd": 71997529073,
-    "market_cap_rank": 6,
-    "volume_24h": 3974566051,
+    "price_usd": 1.16,
+    "price_krw": 1613.93,
+    "price_change_24h": 15.46258,
+    "price_change_7d": 14.72262,
+    "price_change_30d": 2.0668,
+    "market_cap_usd": 72585451893,
+    "market_cap_rank": 5,
+    "volume_24h": 4086732329,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 77.05,
-    "sentiment_votes_down": 22.95,
+    "sentiment_votes_up": 77.01,
+    "sentiment_votes_down": 22.99,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 16.79,
-    "recent_tps": 16.79,
-    "recent_tx_count": 1528,
+    "tps_24h_avg": 27.76,
+    "recent_tps": 27.76,
+    "recent_tx_count": 2276,
     "recent_ledger_count": 24,
-    "recent_window_sec": 91,
-    "ledger_seq": 106420485,
+    "recent_window_sec": 82,
+    "ledger_seq": 106420958,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-20 09:57:55 KST",
+    "updated_at": "2026-08-20 10:28:31 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 1190000,
     "total_net_inflow_usd": 1190000,
     "total_value_traded_usd": 1190000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/20 09:58",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/20 10:28",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -92,6 +92,13 @@
     }
   ],
   "general_news": [
+    {
+      "title": "리플 지분 3억원 공시, XRP 매수와 달랐다",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JRUJibHhWY19QaUFfLWkwVnotQXpDM21QUlNLS2tHa1ZrbVVsZVJRSUZ1cEw1bzRJSDhJRy1GNmdfcE5lbkwxSTlPcDZ0Tkh6cGd6RW1nOVhoMWxkOUZnadIBZkFVX3lxTFBKdmpmUi12d1Rzek0xZnprM0oxS1pxMXdmVmx6RVkxbmFOQzByTThDanhvUFIwMHhGdHRzdWZaRmxyUGZpZEFteEtFME9tSUpEWXBESTNjNjN6TWFkMExYR2pzbU40Zw?oc=5",
+      "date": "Thu, 20 Aug 2026 09:29:29 GMT",
+      "source": "tokenpost.kr",
+      "score": 2
+    },
     {
       "title": "리플(XRP)·스텔라(XLM) 동반 급등…美 국채 바이백이 촉발한 숏 스퀴즈",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5tNHF2ZTllMXhUa2o2TTRkbnIwMy1OT3VYWkNXTDdWLUs3ZFM5b1pRVWR3eDdpTlVWM3FDamtSMkNFaEYyMjNpWjdR?oc=5",
@@ -154,13 +161,6 @@
       "date": "Wed, 19 Aug 2026 03:41:00 GMT",
       "source": "CoinNess",
       "score": 8
-    },
-    {
-      "title": "5억 달러 증발한 리플(XRP) 현물 ETF, 클래러티법 통과로 반전 이뤄낼까?",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE96aHo5UUNxakI4QVBaQjRjX2VzT09GMG90T3pfcWxISFhLRnRFZHd3blhPQkZuQTJTZkRaNjNrOWw4alRTTVhPNVdB?oc=5",
-      "date": "Tue, 18 Aug 2026 22:57:00 GMT",
-      "source": "코인리더스",
-      "score": 4
     }
   ]
 }
