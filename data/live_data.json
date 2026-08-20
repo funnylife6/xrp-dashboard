@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-20T02:12:34",
+  "generated_at": "2026-08-20T03:23:10",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.11,
-    "price_krw": 1548.93,
-    "price_change_24h": 11.30203,
-    "price_change_7d": 10.65101,
-    "price_change_30d": -0.2105,
-    "market_cap_usd": 69638305287,
+    "price_usd": 1.094,
+    "price_krw": 1524.6,
+    "price_change_24h": 9.34247,
+    "price_change_7d": 8.65607,
+    "price_change_30d": -2.22349,
+    "market_cap_usd": 68522000230,
     "market_cap_rank": 6,
-    "volume_24h": 3007636336,
+    "volume_24h": 3040437184,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 77.78,
-    "sentiment_votes_down": 22.22,
+    "sentiment_votes_up": 78.98,
+    "sentiment_votes_down": 21.02,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 20.3,
-    "recent_tps": 20.3,
-    "recent_tx_count": 1827,
+    "tps_24h_avg": 17.16,
+    "recent_tps": 17.16,
+    "recent_tx_count": 1544,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106413241,
+    "ledger_seq": 106414337,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-20 02:12:24 KST",
+    "updated_at": "2026-08-20 03:23:02 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 1190000,
     "total_net_inflow_usd": 1190000,
     "total_value_traded_usd": 1190000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/20 02:12",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/20 03:23",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -66,7 +66,7 @@
       "title": "백악관 회동 앞둔 XRP 1달러 공방… 기관 자금 순유입 속 촉각",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GLU00eElwOEJUZm9qOE9qdlh0U0kzYlhzNGFrZkJVT05neWl5SVcxNnhRbDF1SWk4Y1V1Um5WRHZCMFNWdWlNREN0SVJyQXM2bTBPVEY1OF9BeGdHZnVZVE1vNzVzcGVCS3Jtc0pObGI?oc=5",
       "date": "Wed, 19 Aug 2026 06:34:29 GMT",
-      "source": "blockchaintoday.co.kr",
+      "source": "블록체인투데이",
       "score": 0
     },
     {
@@ -103,7 +103,7 @@
       "title": "기관 자금 2.5억 달러 유입에도… XRP, 활성도 둔화에 가격 '제자리'",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtaEx0aWg4eG1IcUhNSkV1elB6U01GUndEa2R2T0hlSWotRUxqdWZyWnB6UUZCdnR5RzJ6V3BzXzNWQ00wUkpJdW9nYk92QVlrdS1DVkJDVUxTQ29YZkt4ODlEbVl3SWZLNmtDaVNNZEM?oc=5",
       "date": "Wed, 19 Aug 2026 23:59:47 GMT",
-      "source": "blockchaintoday.co.kr",
+      "source": "블록체인투데이",
       "score": 3
     },
     {
@@ -128,6 +128,13 @@
       "score": 3
     },
     {
+      "title": "리플 IPO 가능성 커졌다…기업가치 500억달러 주목",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9MaFdIazBLdnpOVHdLYXkzaG9YUzF5c19HMmkyMF9ldkFIZllTVEhfUDVBdERwZnpDb1QtOFFUckpwOXhNZDUydjJB?oc=5",
+      "date": "Wed, 19 Aug 2026 13:18:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
       "title": "바이비트, RLUSD 홀드 & Earn 운용 자산 5,000만 달러 돌파… 리플과 함께 XRP-RLUSD 보상 확대 2단계 개시",
       "url": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxNYVVrb1ZPZUV4WWZlQ211MzFmRXFCYjJaZ3RkbnFTTHo0X09xUjFPM25GWWdBSVZ6cm9GZFlIblBFd2FxekxxWkhHM242MXppNTIxVlBQeDRCbnJFSzN6YXlvQ3NBUnBCdWlVVl9oNUFDdFJ6XzItclhkajZQbWFzclNjblF5ZFV0UmFrQnJtU0NBV09uRjM5OXpjVjlISXQ1bWdkOWNDa3lZQjFrX2psVEJReXNPSk9aeGFwVDJoRUY4ZHJERzJnYkJJQlZBY2ZpWDlXbzZveHctYmt6TGhsNlBDcEJubjRnU2g4T2Vyd3p0SXpVdlhGZ0pZSWpMSFd5V3NmMmtTRnc5eDQ3VUNPaUZDS3JCOFpjdHJRZmxOTUs3ekROTGlRcTNUVENyMXQtMEZDZ2hpcGQxSXZraTItMk5ISXRkck5hVTJfX000Xy16N3kxUEY0UjdrVlA1QzlDbS00M0FtX0pmNFhXeW9GSDJKYXE0aUd2TWtoSVBtXzJaMTM3aXdreXBTQ3l0bDlWbGJoWC1FSmpzdzBIT29pVFdvLURtNW1KZkswQVVfbkx6N3ZOdXZ0bGZEeUc2S1NSVXg5N0lxdWVNWERUU2xyRXdqZ2NwZVBmRUxjTw?oc=5",
       "date": "Wed, 19 Aug 2026 12:58:55 GMT",
@@ -135,11 +142,11 @@
       "score": 3
     },
     {
-      "title": "리플, 상장보다 기관 금융 인프라 전략 앞세웠다",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HaDRZSDhQTXJXUEZvUWpuRFhic0dfWjBhTW4wM3MtRGhYdXBiOHpDal9ENkhidFB4UjhucUc2N25tN19LeXExRnlmajlYRFFpQUdyN29oRWFDTTdITzFENdIBZkFVX3lxTE4wd1lucGNWUUx5SlU4RHVVZDhacGxFeEt6a25zczdxOTVlN1NWU2Ixbmluam9xWERsWTk2eDFPN2YyZGgzMklVQV94UmU1ZXl5YUN4ajE5TzJiU1RzbGlRWVVvU2VGZw?oc=5",
-      "date": "Wed, 19 Aug 2026 07:36:48 GMT",
-      "source": "tokenpost.kr",
-      "score": 3
+      "title": "속보 | 코인베이스 CEO \"클래리티법 초당적 투표 후 상승장 올 것\"",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9PTkhXeGh4dmRnYVhCQ1E4WHp6QWFpRGpKLW94M0xMclRxaU5mWUtkZ3hhSG43SERlZ01WTFhPdDNaMHFFeWl0d2RaNUVTeVZ0?oc=5",
+      "date": "Wed, 19 Aug 2026 07:03:00 GMT",
+      "source": "CoinNess",
+      "score": 8
     },
     {
       "title": "리플 1400원선 아래로…XRP 단기 지지선 시험대",
@@ -154,13 +161,6 @@
       "date": "Wed, 19 Aug 2026 03:49:00 GMT",
       "source": "디지털투데이",
       "score": 3
-    },
-    {
-      "title": "5억 달러 증발한 리플(XRP) 현물 ETF, 클래러티법 통과로 반전 이뤄낼까?",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE96aHo5UUNxakI4QVBaQjRjX2VzT09GMG90T3pfcWxISFhLRnRFZHd3blhPQkZuQTJTZkRaNjNrOWw4alRTTVhPNVdB?oc=5",
-      "date": "Tue, 18 Aug 2026 22:57:00 GMT",
-      "source": "코인리더스",
-      "score": 4
     }
   ]
 }
