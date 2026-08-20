@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-20T10:57:23",
+  "generated_at": "2026-08-20T11:23:21",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.16,
-    "price_krw": 1615.94,
-    "price_change_24h": 15.31257,
-    "price_change_7d": 14.76822,
-    "price_change_30d": 2.10737,
-    "market_cap_usd": 72608449619,
+    "price_krw": 1620.15,
+    "price_change_24h": 15.45871,
+    "price_change_7d": 15.23459,
+    "price_change_30d": 2.66127,
+    "market_cap_usd": 72740494299,
     "market_cap_rank": 5,
-    "volume_24h": 3878627051,
+    "volume_24h": 3925111441,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 77.49,
-    "sentiment_votes_down": 22.51,
+    "sentiment_votes_up": 78.28,
+    "sentiment_votes_down": 21.72,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 19.76,
-    "recent_tps": 19.76,
-    "recent_tx_count": 1778,
+    "tps_24h_avg": 21.31,
+    "recent_tps": 21.31,
+    "recent_tx_count": 1918,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106421404,
+    "ledger_seq": 106421806,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-20 10:57:10 KST",
+    "updated_at": "2026-08-20 11:23:08 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 1190000,
     "total_net_inflow_usd": 1190000,
     "total_value_traded_usd": 1190000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/20 10:57",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/20 11:23",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -100,20 +100,6 @@
       "score": 2
     },
     {
-      "title": "속보 | 한화·리플 전격 제휴...코인 최강자와 동맹",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBLeHd1bDFJVGpScGVpdHp0NkZuU2ZwemcwQzROZmdBVVpwaTdJaGNfTkcyeGwta3J4aFl2SHktYjhBTGJPUVVNSkpNMHhRcENo?oc=5",
-      "date": "Thu, 20 Aug 2026 09:20:10 GMT",
-      "source": "CoinNess",
-      "score": 9
-    },
-    {
-      "title": "리플(XRP)·스텔라(XLM) 동반 급등…美 국채 바이백이 촉발한 숏 스퀴즈",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5tNHF2ZTllMXhUa2o2TTRkbnIwMy1OT3VYWkNXTDdWLUs3ZFM5b1pRVWR3eDdpTlVWM3FDamtSMkNFaEYyMjNpWjdR?oc=5",
-      "date": "Thu, 20 Aug 2026 06:18:00 GMT",
-      "source": "코인리더스",
-      "score": 2
-    },
-    {
       "title": "XRP 고래들, 1달러선서 6억개 쓸어담았다…美 SEC발 규제 완화 기대감",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9IeEtySlpPbEltcVN3SFQtTDZ4Y0dDV0dDVHhENFd2dS1xZndyWGJKSjhtem82QVEyWXgyR29GNnEtMFNlWVNqMFAtZTdZWVNYTV9aMlNCVXpZNWVWR3U2aUVma3p6eW5PMm9pZzlMQ2U5TE0?oc=5",
       "date": "Wed, 19 Aug 2026 23:59:58 GMT",
@@ -156,11 +142,25 @@
       "score": 3
     },
     {
+      "title": "속보 | 금감원, 경주마·가두리 잡는다...가상자산 AI 감시 체계 구축",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1XTWoyUGFya05KbUVqRFZPc01OcWx3N3d6UkVRSUJnc3hETEdoTmluSU5BenFfNjFWeVR5XzBkUFAxaTFMWjBLMjY4QU5IeDl2?oc=5",
+      "date": "Wed, 19 Aug 2026 12:33:00 GMT",
+      "source": "CoinNess",
+      "score": 8
+    },
+    {
       "title": "리플 1400원선 아래로…XRP 단기 지지선 시험대",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9hX0JLN2xMMkl4Nk90YWJIS05BSVR3R2hvNzZSb2tfVkRCc1lBRktUemNIakxNdVlMUkhxZ2F0ZXFGMGx4WHljbjUwMVZ5SVl5SkpaMG1rcHJRNlpjV3BNMGpmMHRoWlctMFI3Tlpla0cyd9IBckFVX3lxTE9hX0JLN2xMMkl4Nk90YWJIS05BSVR3R2hvNzZSb2tfVkRCc1lBRktUemNIakxNdVlMUkhxZ2F0ZXFGMGx4WHljbjUwMVZ5SVl5SkpaMG1rcHJRNlpjV3BNMGpmMHRoWlctMFI3Tlpla0cydw?oc=5",
       "date": "Wed, 19 Aug 2026 05:47:45 GMT",
       "source": "잡포스트",
       "score": 3
+    },
+    {
+      "title": "속보 | 트럼프 \"BTC 및 암호화폐, 상당량 매입 방안 검토 중\"",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBPaVpLcmtXWFpwcDA0VnVpZXcyeTVIenVXcF9wdWwtMEJMRzYxLTZtbXJvSmJCX0h6d21CMjl6RlpaNThCanJLUVM5U0ZOQjFC?oc=5",
+      "date": "Wed, 19 Aug 2026 03:41:00 GMT",
+      "source": "CoinNess",
+      "score": 8
     }
   ]
 }
