@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-20T23:18:26",
+  "generated_at": "2026-08-20T23:48:01",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.26,
-    "price_krw": 1762.06,
-    "price_change_24h": 15.10099,
-    "price_change_7d": 25.42756,
-    "price_change_30d": 10.74478,
-    "market_cap_usd": 79257283114,
+    "price_usd": 1.27,
+    "price_krw": 1766.74,
+    "price_change_24h": 14.91043,
+    "price_change_7d": 25.74588,
+    "price_change_30d": 11.02583,
+    "market_cap_usd": 79472923132,
     "market_cap_rank": 5,
-    "volume_24h": 6328114238,
+    "volume_24h": 6391840786,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 82.73,
-    "sentiment_votes_down": 17.27,
+    "sentiment_votes_up": 82.97,
+    "sentiment_votes_down": 17.03,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 28.0,
-    "recent_tps": 28.0,
-    "recent_tx_count": 2520,
+    "tps_24h_avg": 26.08,
+    "recent_tps": 26.08,
+    "recent_tx_count": 2347,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106432824,
+    "ledger_seq": 106433278,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-20 23:18:19 KST",
+    "updated_at": "2026-08-20 23:47:46 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -47,6 +47,13 @@
     "data_source": "news_parse"
   },
   "etf_news": [
+    {
+      "title": "리플XRP·비트코인 상승, 온톨로지가스 급등…미 규제 기대 확산",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE02YmVjSXR2VjBTYTB2UG96ekVNSDBqOW5QdXZoTThaTVZWMElCTkg2NXRNNHdGQVdXdU9sTGVXRnhLTk0tVFU2aFBSNU4zTjlrczlyXzZHSjRaTE9GREZJYUlMNlNTTGRwM29FYTE1cVlzdw?oc=5",
+      "date": "Thu, 20 Aug 2026 23:16:28 GMT",
+      "source": "톱스타뉴스",
+      "score": 0
+    },
     {
       "title": "10억 개 묶고도 5억 달러 날린 리플(XRP) 현물 ETF, 9월 클래러티법으로 부활할까",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5kNDRWLVBJSmlOSjVyTEFuSWlwVzJTTEFxaEtjUHFMbmhpQkxSX0tmZkY3enE5YjBVS3dZSHlrRGM4RUdWUTRNODR3?oc=5",
@@ -81,16 +88,16 @@
       "date": "Wed, 19 Aug 2026 12:23:00 GMT",
       "source": "코인리더스",
       "score": 0
-    },
-    {
-      "title": "백악관 회동 앞둔 XRP 1달러 공방… 기관 자금 순유입 속 촉각",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GLU00eElwOEJUZm9qOE9qdlh0U0kzYlhzNGFrZkJVT05neWl5SVcxNnhRbDF1SWk4Y1V1Um5WRHZCMFNWdWlNREN0SVJyQXM2bTBPVEY1OF9BeGdHZnVZVE1vNzVzcGVCS3Jtc0pObGI?oc=5",
-      "date": "Wed, 19 Aug 2026 06:34:29 GMT",
-      "source": "블록체인투데이",
-      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "리플XRP·비트코인 상승, 온톨로지가스 급등…미 규제 기대 확산",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE02YmVjSXR2VjBTYTB2UG96ekVNSDBqOW5QdXZoTThaTVZWMElCTkg2NXRNNHdGQVdXdU9sTGVXRnhLTk0tVFU2aFBSNU4zTjlrczlyXzZHSjRaTE9GREZJYUlMNlNTTGRwM29FYTE1cVlzdw?oc=5",
+      "date": "Thu, 20 Aug 2026 23:16:28 GMT",
+      "source": "톱스타뉴스",
+      "score": 2
+    },
     {
       "title": "10억 개 묶고도 5억 달러 날린 리플(XRP) 현물 ETF, 9월 클래러티법으로 부활할까",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5kNDRWLVBJSmlOSjVyTEFuSWlwVzJTTEFxaEtjUHFMbmhpQkxSX0tmZkY3enE5YjBVS3dZSHlrRGM4RUdWUTRNODR3?oc=5",
@@ -141,25 +148,18 @@
       "score": 3
     },
     {
-      "title": "기관 자금 2.5억 달러 유입에도… XRP, 활성도 둔화에 가격 '제자리'",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtaEx0aWg4eG1IcUhNSkV1elB6U01GUndEa2R2T0hlSWotRUxqdWZyWnB6UUZCdnR5RzJ6V3BzXzNWQ00wUkpJdW9nYk92QVlrdS1DVkJDVUxTQ29YZkt4ODlEbVl3SWZLNmtDaVNNZEM?oc=5",
-      "date": "Wed, 19 Aug 2026 23:59:47 GMT",
-      "source": "블록체인투데이",
-      "score": 3
-    },
-    {
-      "title": "이더리움 급등·비트코인·리플XRP 상승…트럼프 발언·금리 하락",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GMzQySGpoYzlHMkpmUmxzNFo5STJCMnplLW5zLUJ5ME5hbG1LakcxWG1LcDJiTFc0VUJFODJzZlFjU01TTGQ1VmR4ZlRUVnlvdEg0MTJES0xTT3lrWVBvdm1OQzJ1cGJ2TkJTZUVPSVcyQQ?oc=5",
-      "date": "Wed, 19 Aug 2026 21:49:01 GMT",
-      "source": "톱스타뉴스",
-      "score": 2
-    },
-    {
       "title": "속보 | X, 크리에이터 보상에 USDC 등 스테이블코인 지급 검토",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5rY0c2MVdiNXZidWJ6WXY4RlM0N3dOSEVKQkRTVjYzSEdybXpuOVVDTm1QbFpyU295SzllQVItbEdXZGt4QTY2aldYSlZ2YnBE?oc=5",
       "date": "Wed, 19 Aug 2026 17:54:00 GMT",
       "source": "CoinNess",
       "score": 8
+    },
+    {
+      "title": "속보 | 한화·리플 전격 제휴...코인 최강자와 동맹",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBLeHd1bDFJVGpScGVpdHp0NkZuU2ZwemcwQzROZmdBVVpwaTdJaGNfTkcyeGwta3J4aFl2SHktYjhBTGJPUVVNSkpNMHhRcENo?oc=5",
+      "date": "Wed, 19 Aug 2026 17:13:00 GMT",
+      "source": "CoinNess",
+      "score": 9
     }
   ]
 }
