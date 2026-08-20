@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-20T06:31:13",
+  "generated_at": "2026-08-20T07:34:11",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.11,
-    "price_krw": 1539.69,
-    "price_change_24h": 10.39375,
-    "price_change_7d": 9.19322,
-    "price_change_30d": -2.22074,
-    "market_cap_usd": 69298257016,
+    "price_krw": 1546.69,
+    "price_change_24h": 10.4118,
+    "price_change_7d": 9.34477,
+    "price_change_30d": -2.19293,
+    "market_cap_usd": 69496872635,
     "market_cap_rank": 6,
-    "volume_24h": 3174318210,
+    "volume_24h": 3231055499,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 76.24,
-    "sentiment_votes_down": 23.76,
+    "sentiment_votes_up": 77.05,
+    "sentiment_votes_down": 22.95,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 16.93,
-    "recent_tps": 16.93,
-    "recent_tx_count": 1507,
+    "tps_24h_avg": 16.22,
+    "recent_tps": 16.22,
+    "recent_tx_count": 1460,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 106417275,
+    "recent_window_sec": 90,
+    "ledger_seq": 106418257,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-20 06:31:06 KST",
+    "updated_at": "2026-08-20 07:34:05 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 1190000,
     "total_net_inflow_usd": 1190000,
     "total_value_traded_usd": 1190000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/20 06:31",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/20 07:34",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -53,13 +53,6 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9IeEtySlpPbEltcVN3SFQtTDZ4Y0dDV0dDVHhENFd2dS1xZndyWGJKSjhtem82QVEyWXgyR29GNnEtMFNlWVNqMFAtZTdZWVNYTV9aMlNCVXpZNWVWR3U2aUVma3p6eW5PMm9pZzlMQ2U5TE0?oc=5",
       "date": "Wed, 19 Aug 2026 23:59:58 GMT",
       "source": "디지털투데이",
-      "score": 0
-    },
-    {
-      "title": "리플(XRP) 73% 폭락에도 보유해야 할 2가지 이유",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1JdGt2SVIyQktnQnlCYnZ5T1RsV3FhV0JuLU5pYXctYmZEZXdGWVpxdFl2Y1FxOWJpWDlqX3BFVTRhQ0VYWFdmbmZB?oc=5",
-      "date": "Wed, 19 Aug 2026 11:05:00 GMT",
-      "source": "코인리더스",
       "score": 0
     },
     {
@@ -88,6 +81,13 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAyY2R3Mkxnc2tuTXRZZTYweTExZHpKQUVtYWhReFF5c0wwbFkwMUs4M2gyVUg2YjR2SmFNcDRYUVhRUTZaQlN1OHVpLXdjUE9GOERqc0VRVy1DR3dMa0R2UGFKWWZQU25ZUHpLbUV0bFpPZw?oc=5",
       "date": "Mon, 17 Aug 2026 22:08:02 GMT",
       "source": "톱스타뉴스",
+      "score": 0
+    },
+    {
+      "title": "평균 단가 1.478달러에 갇혔다! 리플(XRP) 현물 ETF, 9월 클래러티법 통과에 사활!",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE03RmQ4cnZyUmR1ZEZkTlBhaFppUlVLTWw0UkpBQ182NkdJZEZ4V0dYamZQa3FHcFU2YTFBNEluVmk4UHVlbGZaMHhB?oc=5",
+      "date": "Mon, 17 Aug 2026 22:08:00 GMT",
+      "source": "코인리더스",
       "score": 0
     }
   ],
@@ -149,18 +149,18 @@
       "score": 3
     },
     {
-      "title": "리플(XRP) 73% 폭락에도 보유해야 할 2가지 이유",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1JdGt2SVIyQktnQnlCYnZ5T1RsV3FhV0JuLU5pYXctYmZEZXdGWVpxdFl2Y1FxOWJpWDlqX3BFVTRhQ0VYWFdmbmZB?oc=5",
-      "date": "Wed, 19 Aug 2026 11:05:00 GMT",
-      "source": "코인리더스",
-      "score": 3
-    },
-    {
       "title": "5억 달러 증발한 리플(XRP) 현물 ETF, 클래러티법 통과로 반전 이뤄낼까?",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE96aHo5UUNxakI4QVBaQjRjX2VzT09GMG90T3pfcWxISFhLRnRFZHd3blhPQkZuQTJTZkRaNjNrOWw4alRTTVhPNVdB?oc=5",
       "date": "Tue, 18 Aug 2026 22:57:00 GMT",
       "source": "코인리더스",
       "score": 4
+    },
+    {
+      "title": "리플XRP·비트코인 보합권, 펄 상승…유가·채권 부담",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5jMV9aQmx1ckZldGN4UlhQSE9PcUxYclF6V1Z0SnJQaWo3V2FNejgwS29JTXo4eTc4WWVVWGxOZFVLandVZkNSRW5vWi1lQzlJMk9zYjdmb2lsTTkyMTU2dDlaMTRvdjRuSWRlSTRYYXd5QQ?oc=5",
+      "date": "Tue, 18 Aug 2026 21:41:06 GMT",
+      "source": "톱스타뉴스",
+      "score": 2
     }
   ]
 }
