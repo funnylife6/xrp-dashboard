@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-20T19:09:55",
+  "generated_at": "2026-08-20T19:53:50",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.24,
-    "price_krw": 1725.19,
-    "price_change_24h": 15.63583,
-    "price_change_7d": 22.62006,
-    "price_change_30d": 6.80617,
-    "market_cap_usd": 77477222663,
+    "price_usd": 1.23,
+    "price_krw": 1714.89,
+    "price_change_24h": 15.28922,
+    "price_change_7d": 21.95606,
+    "price_change_30d": 6.22781,
+    "market_cap_usd": 77130734392,
     "market_cap_rank": 5,
-    "volume_24h": 6534461260,
+    "volume_24h": 6684391315,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 83.21,
-    "sentiment_votes_down": 16.79,
+    "sentiment_votes_up": 83.96,
+    "sentiment_votes_down": 16.04,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 30.93,
-    "recent_tps": 30.93,
-    "recent_tx_count": 2753,
+    "tps_24h_avg": 46.09,
+    "recent_tps": 46.09,
+    "recent_tx_count": 4194,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 106428992,
+    "recent_window_sec": 91,
+    "ledger_seq": 106429666,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-20 19:09:46 KST",
+    "updated_at": "2026-08-20 19:53:38 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 1190000,
     "total_net_inflow_usd": 1190000,
     "total_value_traded_usd": 1190000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/20 19:09",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/20 19:53",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -114,6 +114,13 @@
       "score": 3
     },
     {
+      "title": "\"미 재무부 국채 바이백 확대, BTC $18만 이상 상승 견인할 것\"",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB4dkpDcGNwMURzbnFEaEQ4SXIyUVplRnZXR3lHcXVYdzc2djZfTVZOSTlueFdqT2tfc3F0aHVmMEJ4bTJuWnY2T3FBR21HQVN3?oc=5",
+      "date": "Thu, 20 Aug 2026 00:23:00 GMT",
+      "source": "CoinNess",
+      "score": 8
+    },
+    {
       "title": "XRP 고래들, 1달러선서 6억개 쓸어담았다…美 SEC발 규제 완화 기대감",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9IeEtySlpPbEltcVN3SFQtTDZ4Y0dDV0dDVHhENFd2dS1xZndyWGJKSjhtem82QVEyWXgyR29GNnEtMFNlWVNqMFAtZTdZWVNYTV9aMlNCVXpZNWVWR3U2aUVma3p6eW5PMm9pZzlMQ2U5TE0?oc=5",
       "date": "Wed, 19 Aug 2026 23:59:58 GMT",
@@ -154,13 +161,6 @@
       "date": "Wed, 19 Aug 2026 12:58:55 GMT",
       "source": "Yellow.com",
       "score": 3
-    },
-    {
-      "title": "속보 | 금감원, 경주마·가두리 잡는다...가상자산 AI 감시 체계 구축",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1XTWoyUGFya05KbUVqRFZPc01OcWx3N3d6UkVRSUJnc3hETEdoTmluSU5BenFfNjFWeVR5XzBkUFAxaTFMWjBLMjY4QU5IeDl2?oc=5",
-      "date": "Wed, 19 Aug 2026 12:33:00 GMT",
-      "source": "CoinNess",
-      "score": 8
     }
   ]
 }
