@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-21T05:02:06",
+  "generated_at": "2026-08-21T05:55:52",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.31,
-    "price_krw": 1814.84,
-    "price_change_24h": 19.50964,
-    "price_change_7d": 30.32078,
-    "price_change_30d": 15.14884,
-    "market_cap_usd": 82373953037,
+    "price_krw": 1808.65,
+    "price_change_24h": 18.61763,
+    "price_change_7d": 29.7115,
+    "price_change_30d": 14.61049,
+    "market_cap_usd": 81990633049,
     "market_cap_rank": 5,
-    "volume_24h": 7976265171,
+    "volume_24h": 8003568919,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 85.86,
-    "sentiment_votes_down": 14.14,
+    "sentiment_votes_up": 86.29,
+    "sentiment_votes_down": 13.71,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 23.54,
-    "recent_tps": 23.54,
-    "recent_tx_count": 2119,
-    "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 106438130,
+    "tps_24h_avg": 16.58,
+    "recent_tps": 16.58,
+    "recent_tx_count": 1343,
+    "recent_ledger_count": 18,
+    "recent_window_sec": 81,
+    "ledger_seq": 106438964,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-21 05:01:56 KST",
+    "updated_at": "2026-08-21 05:55:40 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 9900000,
     "total_net_inflow_usd": 9900000,
     "total_value_traded_usd": 9900000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/21 05:02",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/21 05:55",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -92,6 +92,13 @@
     }
   ],
   "general_news": [
+    {
+      "title": "리플 CEO \"XRP '혁신 쓰나미' 몰려온다…美 정부도 못 막아\"",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZjlBdm82SDk3emFLT05jZXowNnV0bVpOMFhyeUZ1Q0FWRXZlbmlFS012OUdXWERhc282ZmNXU0lHYVB1SkVXSXM2ZnZVQmU2U0RsbU15amtXVkdiaHZQYWVuMXR6a1NoeHdCejY1VmFYakJ3UjdHVVpmUS0tOEJIZDl5UURUSElQ?oc=5",
+      "date": "Fri, 21 Aug 2026 05:46:19 GMT",
+      "source": "글로벌이코노믹",
+      "score": 2
+    },
     {
       "title": "리플, RLUSD 대규모 발행·소각 속도전...XRP는 20% 가까이 '질주'",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1OUlF1TURvTm9NaWc1OUhaS1U3RDFEMnAtTWhmQm56Yk45Mjdld0pXQjdfbm5nVTJjMGxLM3ZITmg0YkVxYnFDS3VR?oc=5",
@@ -147,13 +154,6 @@
       "date": "Thu, 20 Aug 2026 22:08:00 GMT",
       "source": "이투데이",
       "score": 2
-    },
-    {
-      "title": "XRP, 2027년까지 전고점 탈환할까…‘클래리티'·ETF 유입’이 열쇠",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeUFfdWZSZ2x0ODJFb1Y0TDVFR2FEa3U3TEFNcGxNdTRoY1RTdUxRTjFuRkJRX0h1aGxwMmhDWGtNendrb3kwZ0RkSDYtdUtSVlNwUkVEUVRabFpQZVpwQWJJS2xsNTJObThBa2lEcm1fV1pHdndwUmxKZEZPUzRsNDhoek1ORXgx?oc=5",
-      "date": "Thu, 20 Aug 2026 21:40:40 GMT",
-      "source": "글로벌이코노믹",
-      "score": 3
     },
     {
       "title": "SEC와 맞섰던 리플, 새 가상자산 태스크포스 합류…XRP 두 자릿수 급등",
