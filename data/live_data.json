@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-21T17:31:37",
+  "generated_at": "2026-08-21T18:24:47",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.39,
-    "price_krw": 1926.58,
-    "price_change_24h": 5.25614,
-    "price_change_7d": 38.84563,
-    "price_change_30d": 20.62153,
-    "market_cap_usd": 87181303965,
+    "price_krw": 1927.66,
+    "price_change_24h": 9.08241,
+    "price_change_7d": 39.15119,
+    "price_change_30d": 21.28694,
+    "market_cap_usd": 87195109540,
     "market_cap_rank": 5,
-    "volume_24h": 8451020434,
+    "volume_24h": 8050986732,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 88.6,
-    "sentiment_votes_down": 11.4,
+    "sentiment_votes_up": 89.2,
+    "sentiment_votes_down": 10.8,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 19.61,
-    "recent_tps": 19.61,
-    "recent_tx_count": 1765,
+    "tps_24h_avg": 33.79,
+    "recent_tps": 33.79,
+    "recent_tx_count": 3041,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106449687,
+    "ledger_seq": 106450507,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-21 17:31:25 KST",
+    "updated_at": "2026-08-21 18:24:37 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,11 +43,18 @@
     "aum_usd": 9900000,
     "total_net_inflow_usd": 9900000,
     "total_value_traded_usd": 9900000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/21 17:31",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/21 18:24",
     "data_source": "sosovalue",
     "partial": true
   },
   "etf_news": [
+    {
+      "title": "골드만삭스, XRP ETF 8650만달러 재매수…최대 기관으로",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9GaDZ6cjhMbG90ajA0RUZSZ3l0U0ZzWUptWTQySU50aFd5M3pBOHE3QlFoYXB5eGs3N216VkQ0cUJxYXd4RzNMdWxlZzduelFIdUNLRzB6YXk?oc=5",
+      "date": "Fri, 21 Aug 2026 17:29:00 GMT",
+      "source": "블록미디어",
+      "score": 0
+    },
     {
       "title": "엑스알피(리플) 주간 40% 폭등! 현물 ETF 자금까지 몰렸다",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1FMUFBZWhaUjJBRmpCZVFWclRxbFR6M19iUG9RYlM3dm5OaWVmTzBuM3NRR2IwT1JtQUV3bnNPSDU5TkJieUdyaDl3?oc=5",
@@ -80,13 +87,6 @@
       "title": "10억 개 묶고도 5억 달러 날린 리플(XRP) 현물 ETF, 9월 클래러티법으로 부활할까",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5kNDRWLVBJSmlOSjVyTEFuSWlwVzJTTEFxaEtjUHFMbmhpQkxSX0tmZkY3enE5YjBVS3dZSHlrRGM4RUdWUTRNODR3?oc=5",
       "date": "Thu, 20 Aug 2026 22:24:00 GMT",
-      "source": "코인리더스",
-      "score": 0
-    },
-    {
-      "title": "엑스알피(리플), SEC 규제 체계에 1.15달러 돌파…에스크로 공급은 ETF 흡수량의 4배",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1uMHlfV2daOFB1Y1BzaG5QTHN6dFE3SmtpWTRYQ0l4MW1UYUtOTTV2V3RsOF81WkZZYnhVT0dpRmhVZzJQNzRmQkRR?oc=5",
-      "date": "Thu, 20 Aug 2026 22:11:00 GMT",
       "source": "코인리더스",
       "score": 0
     }
