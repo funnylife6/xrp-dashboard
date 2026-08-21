@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-21T08:29:57",
+  "generated_at": "2026-08-21T09:08:52",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.35,
-    "price_krw": 1860.99,
-    "price_change_24h": 17.95279,
-    "price_change_7d": 34.03921,
-    "price_change_30d": 19.05114,
-    "market_cap_usd": 84364957672,
+    "price_krw": 1868.22,
+    "price_change_24h": 16.64997,
+    "price_change_7d": 34.47737,
+    "price_change_30d": 19.18036,
+    "market_cap_usd": 84957267199,
     "market_cap_rank": 5,
-    "volume_24h": 8624186432,
+    "volume_24h": 8912271114,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 87.11,
-    "sentiment_votes_down": 12.89,
+    "sentiment_votes_up": 87.58,
+    "sentiment_votes_down": 12.42,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 33.84,
-    "recent_tps": 33.84,
-    "recent_tx_count": 3046,
+    "tps_24h_avg": 48.61,
+    "recent_tps": 48.61,
+    "recent_tx_count": 4375,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106441344,
+    "ledger_seq": 106441942,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-21 08:29:52 KST",
+    "updated_at": "2026-08-21 09:08:44 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,11 +43,18 @@
     "aum_usd": 9900000,
     "total_net_inflow_usd": 9900000,
     "total_value_traded_usd": 9900000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/21 08:29",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/21 09:08",
     "data_source": "sosovalue",
     "partial": true
   },
   "etf_news": [
+    {
+      "title": "[알트 현물 ETF] XRP·SOL 등 5종 순유입...나머지는 보합",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HM3JiNHhHSm51SkhVX095RF9RZS1jaXk3ZFRSNV95bnBqbWVDdk15SklFbnRhd1F1YWRNaTM1bVRmcURsRzlwLUtSbnpxX044UzktRVktaVUyTWFsX05Fa2xUenlVZ9IBZkFVX3lxTE5HM3JiNHhHSm51SkhVX095RF9RZS1jaXk3ZFRSNV95bnBqbWVDdk15SklFbnRhd1F1YWRNaTM1bVRmcURsRzlwLUtSbnpxX044UzktRVktaVUyTWFsX05Fa2xUenlVZw?oc=5",
+      "date": "Fri, 21 Aug 2026 07:00:18 GMT",
+      "source": "tokenpost.kr",
+      "score": 0
+    },
     {
       "title": "Ripple XRP(XRPUSD) 종목이 8월21일에 변동성이 심화되었습니다. 무엇을 주의해야 할까요?",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbHNONjVFQlp0TzJ1U0lBYW91a0dwczQ4ck1aLTBLT1hpRURyZDFzM3JYM2tSU0liZmtRanhnalkzNEpLRXlJS05CWGUzZnFmSTNveUl2dDNZd0NRRU9vMl9HOXZqRU8zMTF3SGVaZ18yMEYxNFB0X2dQbnJ6QUhXVGRUZHR5MHBaSUYwLTRTdDFKZw?oc=5",
@@ -81,13 +88,6 @@
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1uMHlfV2daOFB1Y1BzaG5QTHN6dFE3SmtpWTRYQ0l4MW1UYUtOTTV2V3RsOF81WkZZYnhVT0dpRmhVZzJQNzRmQkRR?oc=5",
       "date": "Thu, 20 Aug 2026 22:11:00 GMT",
       "source": "코인리더스",
-      "score": 0
-    },
-    {
-      "title": "XRP, 2027년까지 전고점 탈환할까…‘클래리티'·ETF 유입’이 열쇠",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeUFfdWZSZ2x0ODJFb1Y0TDVFR2FEa3U3TEFNcGxNdTRoY1RTdUxRTjFuRkJRX0h1aGxwMmhDWGtNendrb3kwZ0RkSDYtdUtSVlNwUkVEUVRabFpQZVpwQWJJS2xsNTJObThBa2lEcm1fV1pHdndwUmxKZEZPUzRsNDhoek1ORXgx?oc=5",
-      "date": "Thu, 20 Aug 2026 21:40:40 GMT",
-      "source": "글로벌이코노믹",
       "score": 0
     }
   ],
