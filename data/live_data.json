@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-21T05:55:52",
+  "generated_at": "2026-08-21T06:33:10",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.31,
-    "price_krw": 1808.65,
-    "price_change_24h": 18.61763,
-    "price_change_7d": 29.7115,
-    "price_change_30d": 14.61049,
-    "market_cap_usd": 81990633049,
+    "price_usd": 1.3,
+    "price_krw": 1807.11,
+    "price_change_24h": 17.93659,
+    "price_change_7d": 29.27265,
+    "price_change_30d": 15.04663,
+    "market_cap_usd": 81692985232,
     "market_cap_rank": 5,
-    "volume_24h": 8003568919,
+    "volume_24h": 7989286960,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 86.29,
-    "sentiment_votes_down": 13.71,
+    "sentiment_votes_up": 86.64,
+    "sentiment_votes_down": 13.36,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 16.58,
-    "recent_tps": 16.58,
-    "recent_tx_count": 1343,
-    "recent_ledger_count": 18,
-    "recent_window_sec": 81,
-    "ledger_seq": 106438964,
+    "tps_24h_avg": 26.72,
+    "recent_tps": 26.72,
+    "recent_tx_count": 2405,
+    "recent_ledger_count": 24,
+    "recent_window_sec": 90,
+    "ledger_seq": 106439542,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-21 05:55:40 KST",
+    "updated_at": "2026-08-21 06:33:04 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 9900000,
     "total_net_inflow_usd": 9900000,
     "total_value_traded_usd": 9900000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/21 05:55",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/21 06:33",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -92,6 +92,13 @@
     }
   ],
   "general_news": [
+    {
+      "title": "리플, RLUSD 기반 기관 대출펀드 투자…XRP레저서 핀테크 기업 대출 추진",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HWHVtZHRSZG9ocy1sbkpXV1BZaGtIM0xwekI0cEZGX3J1ay1mM0piLVRiTmZlNnNUVXd6d0VwSzlORWVYWkdVeHdid0VjU2tB?oc=5",
+      "date": "Fri, 21 Aug 2026 05:56:00 GMT",
+      "source": "블루밍비트",
+      "score": 4
+    },
     {
       "title": "리플 CEO \"XRP '혁신 쓰나미' 몰려온다…美 정부도 못 막아\"",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZjlBdm82SDk3emFLT05jZXowNnV0bVpOMFhyeUZ1Q0FWRXZlbmlFS012OUdXWERhc282ZmNXU0lHYVB1SkVXSXM2ZnZVQmU2U0RsbU15amtXVkdiaHZQYWVuMXR6a1NoeHdCejY1VmFYakJ3UjdHVVpmUS0tOEJIZDl5UURUSElQ?oc=5",
@@ -154,13 +161,6 @@
       "date": "Thu, 20 Aug 2026 22:08:00 GMT",
       "source": "이투데이",
       "score": 2
-    },
-    {
-      "title": "SEC와 맞섰던 리플, 새 가상자산 태스크포스 합류…XRP 두 자릿수 급등",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5JR3ByVVpiTlg4WHdVQ1RrWjhBMXdUOUMyVDdNU0h0RXRFTXVKLXdUSVBmcGQ3b2xMY2lUaTBURWplQ1E0YlV4ajNRRVUxTVJZWmlVaXZIdFUzSF9RaVY5Zk1KdGkyYmdaNWs3d1I3LTdlTDA?oc=5",
-      "date": "Thu, 20 Aug 2026 12:27:00 GMT",
-      "source": "Investing.com 한국어",
-      "score": 3
     }
   ]
 }
