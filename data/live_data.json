@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-21T03:28:07",
+  "generated_at": "2026-08-21T04:09:00",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.3,
-    "price_krw": 1791.6,
-    "price_change_24h": 18.91794,
-    "price_change_7d": 28.38478,
-    "price_change_30d": 13.71855,
-    "market_cap_usd": 81319876067,
+    "price_usd": 1.32,
+    "price_krw": 1820.08,
+    "price_change_24h": 20.2509,
+    "price_change_7d": 30.41031,
+    "price_change_30d": 15.64134,
+    "market_cap_usd": 82581694473,
     "market_cap_rank": 5,
-    "volume_24h": 7502963354,
+    "volume_24h": 7839822513,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 82.99,
-    "sentiment_votes_down": 17.01,
+    "sentiment_votes_up": 83.78,
+    "sentiment_votes_down": 16.22,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 33.43,
-    "recent_tps": 33.43,
-    "recent_tx_count": 3009,
+    "tps_24h_avg": 34.7,
+    "recent_tps": 34.7,
+    "recent_tx_count": 3123,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106436679,
+    "ledger_seq": 106437311,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-21 03:27:55 KST",
+    "updated_at": "2026-08-21 04:08:55 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,11 +43,18 @@
     "aum_usd": 9900000,
     "total_net_inflow_usd": 9900000,
     "total_value_traded_usd": 9900000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/21 03:28",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/21 04:08",
     "data_source": "sosovalue",
     "partial": true
   },
   "etf_news": [
+    {
+      "title": "Ripple XRP(XRPUSD) 종목이 8월21일에 변동성이 심화되었습니다. 무엇을 주의해야 할까요?",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbHNONjVFQlp0TzJ1U0lBYW91a0dwczQ4ck1aLTBLT1hpRURyZDFzM3JYM2tSU0liZmtRanhnalkzNEpLRXlJS05CWGUzZnFmSTNveUl2dDNZd0NRRU9vMl9HOXZqRU8zMTF3SGVaZ18yMEYxNFB0X2dQbnJ6QUhXVGRUZHR5MHBaSUYwLTRTdDFKZw?oc=5",
+      "date": "Fri, 21 Aug 2026 04:00:51 GMT",
+      "source": "TradingKey",
+      "score": 0
+    },
     {
       "title": "비트코인 현물 ETF, 일간 5억2000만달러 순유입…주간 10억달러 돌파",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9PYTk5cUh2ajdBZGNzWEpyTGdoQUpHME9NQmdYQUQ2SHYzMGpXVHhYSE04S3JfWlp1U1VkWXd6ak5mV0ptWVAwTnFzVlNDR1VpX0pyZGZ5aDNNMmZhVXo3el9KdmNkcWJ5R3hlS1Nha2dqYnM?oc=5",
@@ -81,13 +88,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeUFfdWZSZ2x0ODJFb1Y0TDVFR2FEa3U3TEFNcGxNdTRoY1RTdUxRTjFuRkJRX0h1aGxwMmhDWGtNendrb3kwZ0RkSDYtdUtSVlNwUkVEUVRabFpQZVpwQWJJS2xsNTJObThBa2lEcm1fV1pHdndwUmxKZEZPUzRsNDhoek1ORXgx?oc=5",
       "date": "Thu, 20 Aug 2026 21:40:40 GMT",
       "source": "글로벌이코노믹",
-      "score": 0
-    },
-    {
-      "title": "XRP 고래들, 1달러선서 6억개 쓸어담았다…美 SEC발 규제 완화 기대감",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9IeEtySlpPbEltcVN3SFQtTDZ4Y0dDV0dDVHhENFd2dS1xZndyWGJKSjhtem82QVEyWXgyR29GNnEtMFNlWVNqMFAtZTdZWVNYTV9aMlNCVXpZNWVWR3U2aUVma3p6eW5PMm9pZzlMQ2U5TE0?oc=5",
-      "date": "Wed, 19 Aug 2026 23:59:58 GMT",
-      "source": "디지털투데이",
       "score": 0
     }
   ],
