@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-21T19:45:15",
+  "generated_at": "2026-08-21T20:16:37",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.38,
-    "price_krw": 1910.68,
-    "price_change_24h": 11.4954,
-    "price_change_7d": 38.0888,
-    "price_change_30d": 20.80511,
-    "market_cap_usd": 86439157332,
+    "price_usd": 1.37,
+    "price_krw": 1899.93,
+    "price_change_24h": 11.12549,
+    "price_change_7d": 37.48932,
+    "price_change_30d": 20.55192,
+    "market_cap_usd": 85920628810,
     "market_cap_rank": 5,
-    "volume_24h": 7618431689,
+    "volume_24h": 7505514774,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 90.73,
-    "sentiment_votes_down": 9.27,
+    "sentiment_votes_up": 90.94,
+    "sentiment_votes_down": 9.06,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 34.18,
-    "recent_tps": 34.18,
-    "recent_tx_count": 3076,
+    "tps_24h_avg": 23.42,
+    "recent_tps": 23.42,
+    "recent_tx_count": 2108,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106451750,
+    "ledger_seq": 106452233,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-21 19:45:09 KST",
+    "updated_at": "2026-08-21 20:16:27 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 9900000,
     "total_net_inflow_usd": 9900000,
     "total_value_traded_usd": 9900000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/21 19:45",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/21 20:16",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -114,13 +114,6 @@
       "score": 4
     },
     {
-      "title": "암호화폐(코인) 리플이 하루 만에 20% 가까이 급등한 4가지 이유... 가격 전망은?",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tRnMtT3Uway1pWUJFcEYxOXphczBxZ3hLMVllYUlmdWJ1NDZrc3JiQzdITFVlZXcwNTBxLU03b2x5c0R4YzVKb19ldzFMS1FRakFfRGx3?oc=5",
-      "date": "Fri, 21 Aug 2026 06:26:00 GMT",
-      "source": "위키트리",
-      "score": 2
-    },
-    {
       "title": "리플, RLUSD 기반 기관 대출펀드 투자…XRP레저서 핀테크 기업 대출 추진",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HWHVtZHRSZG9ocy1sbkpXV1BZaGtIM0xwekI0cEZGX3J1ay1mM0piLVRiTmZlNnNUVXd6d0VwSzlORWVYWkdVeHdid0VjU2tB?oc=5",
       "date": "Fri, 21 Aug 2026 05:56:00 GMT",
@@ -161,6 +154,13 @@
       "date": "Thu, 20 Aug 2026 23:57:06 GMT",
       "source": "네이트",
       "score": 3
+    },
+    {
+      "title": "리플XRP·비트코인 상승, 온톨로지가스 급등…미 규제 기대 확산",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE02YmVjSXR2VjBTYTB2UG96ekVNSDBqOW5QdXZoTThaTVZWMElCTkg2NXRNNHdGQVdXdU9sTGVXRnhLTk0tVFU2aFBSNU4zTjlrczlyXzZHSjRaTE9GREZJYUlMNlNTTGRwM29FYTE1cVlzdw?oc=5",
+      "date": "Thu, 20 Aug 2026 23:16:28 GMT",
+      "source": "톱스타뉴스",
+      "score": 2
     }
   ]
 }
