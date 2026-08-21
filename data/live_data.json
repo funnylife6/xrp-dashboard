@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-21T07:35:55",
+  "generated_at": "2026-08-21T08:29:57",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.31,
-    "price_krw": 1817.97,
-    "price_change_24h": 18.28326,
-    "price_change_7d": 30.78229,
-    "price_change_30d": 16.04542,
-    "market_cap_usd": 82292611705,
+    "price_usd": 1.35,
+    "price_krw": 1860.99,
+    "price_change_24h": 17.95279,
+    "price_change_7d": 34.03921,
+    "price_change_30d": 19.05114,
+    "market_cap_usd": 84364957672,
     "market_cap_rank": 5,
-    "volume_24h": 8303441842,
+    "volume_24h": 8624186432,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 87.03,
-    "sentiment_votes_down": 12.97,
+    "sentiment_votes_up": 87.11,
+    "sentiment_votes_down": 12.89,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 33.59,
-    "recent_tps": 33.59,
-    "recent_tx_count": 3023,
+    "tps_24h_avg": 33.84,
+    "recent_tps": 33.84,
+    "recent_tx_count": 3046,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106440512,
+    "ledger_seq": 106441344,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-21 07:35:49 KST",
+    "updated_at": "2026-08-21 08:29:52 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 9900000,
     "total_net_inflow_usd": 9900000,
     "total_value_traded_usd": 9900000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/21 07:35",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/21 08:29",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -100,6 +100,13 @@
       "score": 4
     },
     {
+      "title": "암호화폐(코인) 리플이 하루 만에 20% 가까이 급등한 4가지 이유... 가격 전망은?",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tRnMtT3Uway1pWUJFcEYxOXphczBxZ3hLMVllYUlmdWJ1NDZrc3JiQzdITFVlZXcwNTBxLU03b2x5c0R4YzVKb19ldzFMS1FRakFfRGx3?oc=5",
+      "date": "Fri, 21 Aug 2026 06:26:00 GMT",
+      "source": "위키트리",
+      "score": 2
+    },
+    {
       "title": "리플, RLUSD 기반 기관 대출펀드 투자…XRP레저서 핀테크 기업 대출 추진",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HWHVtZHRSZG9ocy1sbkpXV1BZaGtIM0xwekI0cEZGX3J1ay1mM0piLVRiTmZlNnNUVXd6d0VwSzlORWVYWkdVeHdid0VjU2tB?oc=5",
       "date": "Fri, 21 Aug 2026 05:56:00 GMT",
@@ -114,10 +121,10 @@
       "score": 2
     },
     {
-      "title": "리플, RLUSD 대규모 발행·소각 속도전...XRP는 20% 가까이 '질주'",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1OUlF1TURvTm9NaWc1OUhaS1U3RDFEMnAtTWhmQm56Yk45Mjdld0pXQjdfbm5nVTJjMGxLM3ZITmg0YkVxYnFDS3VR?oc=5",
-      "date": "Fri, 21 Aug 2026 02:10:00 GMT",
-      "source": "코인리더스",
+      "title": "XRP 가격 뉴스: 리플이 RLUSD 신용 펀드를 지원하며 주간 30% 상승",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRDhtdVNtT1kxNGJrN1lZSWV1bXBhbE5ZRDJ6Y21QUzVnU2M3YXo0bmotVlhpcjZjQUxTWkZMTVlINkRwc25wVVpfajFyZHIzcm5pNW5nYnAwdkhvQUd6V1FNdGR2VmY1Ri1sVDFCNkJ2M3J4NXBnSnRObWdxYmtpVEdNUk5PVEU3ZDQzVUNzS29YVjR2dnpuSW5raWlMSXNJSzRqeGJPVDQtN0hsa0ZlUw?oc=5",
+      "date": "Fri, 21 Aug 2026 05:29:48 GMT",
+      "source": "CoinDesk",
       "score": 3
     },
     {
@@ -125,7 +132,7 @@
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5Oa1pzQjhTQTRhUHRudTdWNEN5Q3RJRElsSEp5S1lITk0wOHcyRUN3RTliNmJGc1oxSjdyUnoyTDlmS19lTWtQXzVB?oc=5",
       "date": "Fri, 21 Aug 2026 01:35:00 GMT",
       "source": "코인리더스",
-      "score": 2
+      "score": 3
     },
     {
       "title": "트럼프 백악관서 리플 CEO 회동… XRP '역대급 랠리' 촉각",
@@ -152,13 +159,6 @@
       "title": "10억 개 묶고도 5억 달러 날린 리플(XRP) 현물 ETF, 9월 클래러티법으로 부활할까",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5kNDRWLVBJSmlOSjVyTEFuSWlwVzJTTEFxaEtjUHFMbmhpQkxSX0tmZkY3enE5YjBVS3dZSHlrRGM4RUdWUTRNODR3?oc=5",
       "date": "Thu, 20 Aug 2026 22:24:00 GMT",
-      "source": "코인리더스",
-      "score": 4
-    },
-    {
-      "title": "엑스알피(리플), SEC 규제 체계에 1.15달러 돌파…에스크로 공급은 ETF 흡수량의 4배",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1uMHlfV2daOFB1Y1BzaG5QTHN6dFE3SmtpWTRYQ0l4MW1UYUtOTTV2V3RsOF81WkZZYnhVT0dpRmhVZzJQNzRmQkRR?oc=5",
-      "date": "Thu, 20 Aug 2026 22:11:00 GMT",
       "source": "코인리더스",
       "score": 4
     }
