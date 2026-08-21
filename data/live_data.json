@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-21T14:05:32",
+  "generated_at": "2026-08-21T15:01:38",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.41,
-    "price_krw": 1947.71,
-    "price_change_24h": 15.28512,
-    "price_change_7d": 40.3407,
-    "price_change_30d": 23.06106,
-    "market_cap_usd": 88089049802,
+    "price_usd": 1.4,
+    "price_krw": 1942.31,
+    "price_change_24h": 14.54724,
+    "price_change_7d": 39.89668,
+    "price_change_30d": 22.6717,
+    "market_cap_usd": 87810335627,
     "market_cap_rank": 5,
-    "volume_24h": 10271817538,
+    "volume_24h": 9804761521,
     "circulating_supply": 62676938832.0,
     "total_supply": 99985629672.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 89.17,
-    "sentiment_votes_down": 10.83,
+    "sentiment_votes_up": 89.49,
+    "sentiment_votes_down": 10.51,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 31.84,
-    "recent_tps": 31.84,
-    "recent_tx_count": 2866,
+    "tps_24h_avg": 45.89,
+    "recent_tps": 45.89,
+    "recent_tx_count": 4130,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106446512,
+    "ledger_seq": 106447378,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-21 14:05:18 KST",
+    "updated_at": "2026-08-21 15:01:25 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 9900000,
     "total_net_inflow_usd": 9900000,
     "total_value_traded_usd": 9900000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/21 14:05",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/21 15:01",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -93,6 +93,13 @@
   ],
   "general_news": [
     {
+      "title": "리플달러 18억8800만개, 이더리움 공급 XRP레저 앞서",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYdHFLd0xuZ1ZYS1VLVWZjSnNYNlNMOE9oUnFxMWNuSERNaE9CQ2RmOGlidkFYVi01NEJOcXpjZEtJXzM0dUZEbzFyN1loUTJWNkZEWXE2WUVoeTJ1dkdVSdIBZkFVX3lxTE5veW0waDB2UkxZZWpNdkNtR2MxenMxRDA0VXF1dWVuWmIzUDBxNFdRMkVmZXNlTkRZSFF6UEc3bEx1YkFWbGRoRVhwOHA3UWpjWXdlZ0E5YTZEOEFHVkNIbTA5Ymw0QQ?oc=5",
+      "date": "Fri, 21 Aug 2026 14:22:23 GMT",
+      "source": "tokenpost.kr",
+      "score": 2
+    },
+    {
       "title": "엑스알피(리플) 주간 40% 폭등! 현물 ETF 자금까지 몰렸다",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1FMUFBZWhaUjJBRmpCZVFWclRxbFR6M19iUG9RYlM3dm5OaWVmTzBuM3NRR2IwT1JtQUV3bnNPSDU5TkJieUdyaDl3?oc=5",
       "date": "Fri, 21 Aug 2026 12:17:00 GMT",
@@ -105,6 +112,13 @@
       "date": "Fri, 21 Aug 2026 06:44:00 GMT",
       "source": "코인리더스",
       "score": 4
+    },
+    {
+      "title": "암호화폐(코인) 리플이 하루 만에 20% 가까이 급등한 4가지 이유... 가격 전망은?",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tRnMtT3Uway1pWUJFcEYxOXphczBxZ3hLMVllYUlmdWJ1NDZrc3JiQzdITFVlZXcwNTBxLU03b2x5c0R4YzVKb19ldzFMS1FRakFfRGx3?oc=5",
+      "date": "Fri, 21 Aug 2026 06:26:00 GMT",
+      "source": "위키트리",
+      "score": 2
     },
     {
       "title": "리플, RLUSD 기반 기관 대출펀드 투자…XRP레저서 핀테크 기업 대출 추진",
@@ -135,13 +149,6 @@
       "score": 3
     },
     {
-      "title": "트럼프 백악관서 리플 CEO 회동… XRP '역대급 랠리' 촉각",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yczJIVWU5elVaMjRyYlA3N2VpMGEwbnNlbXNzem5PY2I0YzlKSlFYaGpTTmRiV2d4UWhpa0dCU3hEdDNnR1JXcHlvYk43ZE1wTHY1Rzk4V1VDeWtGMnlXajJLR3BpSXdORWw3alJhUXA?oc=5",
-      "date": "Fri, 21 Aug 2026 00:30:17 GMT",
-      "source": "블록체인투데이",
-      "score": 2
-    },
-    {
       "title": "리플, 100억달러 규모 사모신용 시장 정조준…XRP·RLUSD 활용도 커질까",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5taVJIbjdoRzM3U3RuMUJHRDNyTWFZY0ZHbm9mTTlPU09YVC1vemx1YngxUG5kdzRZSF9wUHFoNU1xTzhrZDRnR3J4VUZJaW1EeW9B?oc=5",
       "date": "Thu, 20 Aug 2026 23:57:06 GMT",
@@ -154,13 +161,6 @@
       "date": "Thu, 20 Aug 2026 23:16:28 GMT",
       "source": "톱스타뉴스",
       "score": 2
-    },
-    {
-      "title": "10억 개 묶고도 5억 달러 날린 리플(XRP) 현물 ETF, 9월 클래러티법으로 부활할까",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5kNDRWLVBJSmlOSjVyTEFuSWlwVzJTTEFxaEtjUHFMbmhpQkxSX0tmZkY3enE5YjBVS3dZSHlrRGM4RUdWUTRNODR3?oc=5",
-      "date": "Thu, 20 Aug 2026 22:24:00 GMT",
-      "source": "코인리더스",
-      "score": 4
     }
   ]
 }
