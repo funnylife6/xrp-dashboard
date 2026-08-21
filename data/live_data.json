@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-21T23:15:51",
+  "generated_at": "2026-08-21T23:45:45",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.45,
-    "price_krw": 2008.9,
-    "price_change_24h": 14.60725,
-    "price_change_7d": 46.11374,
-    "price_change_30d": 26.94307,
-    "market_cap_usd": 90937822383,
+    "price_usd": 1.46,
+    "price_krw": 2020.16,
+    "price_change_24h": 15.02636,
+    "price_change_7d": 46.93258,
+    "price_change_30d": 27.65448,
+    "market_cap_usd": 91301569659,
     "market_cap_rank": 5,
-    "volume_24h": 8287005272,
+    "volume_24h": 9429188906,
     "circulating_supply": 62744504852.0,
     "total_supply": 99985627691.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 91.05,
-    "sentiment_votes_down": 8.95,
+    "sentiment_votes_up": 91.17,
+    "sentiment_votes_down": 8.83,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 36.46,
-    "recent_tps": 36.46,
-    "recent_tx_count": 3281,
+    "tps_24h_avg": 53.89,
+    "recent_tps": 53.89,
+    "recent_tx_count": 4850,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106454996,
+    "ledger_seq": 106455457,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-21 23:15:45 KST",
+    "updated_at": "2026-08-21 23:45:38 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,6 +92,20 @@
   ],
   "general_news": [
     {
+      "title": "리플XRP·비트코인·도지코인↑…증시 자금 코인으로 돌아오나",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKZzkxb0VOYjdockJFa3d5VmFzVDVQVFhEUkZBaGt1VjVYaHlUYzNWZHFBY3RHcnFmZHJ3TXBpMHdjRkc2N0dCdHlVRzlUbXhfNU4xLTZvdXpvb1J6VW8xRDJSaGY5RXlsRHdId1h5ZWJSdw?oc=5",
+      "date": "Fri, 21 Aug 2026 23:15:51 GMT",
+      "source": "톱스타뉴스",
+      "score": 2
+    },
+    {
+      "title": "3억달러대 리플달러, XRP 담보 대출에 붙었다",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uanJqWXFsUEh4MFpGWVhBTktUbmNIRUxlbXFpZnVmelRwLTB1RkdGZGN1dXBfTmVzTUJmZjBpbkl2aWd2WU5Vb1RZb3RJOUdWdkVyVDlQb1cxcWhEWnFKStIBZkFVX3lxTE9VNnNqOEt1MnhGTUlaOHkzT0JSYXBtM0xrOG5DSXB2N090elE2eVgyd2hrS2taX3htbVMyNF9lTlJhQk00azE4Yk1qVTM2aDctUTVSTk50MDNmQ1ZWcm9BVkVGenU5Zw?oc=5",
+      "date": "Fri, 21 Aug 2026 19:29:03 GMT",
+      "source": "tokenpost.kr",
+      "score": 2
+    },
+    {
       "title": "엑스알피(리플) 주간 40% 폭등! 현물 ETF 자금까지 몰렸다",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1FMUFBZWhaUjJBRmpCZVFWclRxbFR6M19iUG9RYlM3dm5OaWVmTzBuM3NRR2IwT1JtQUV3bnNPSDU5TkJieUdyaDl3?oc=5",
       "date": "Fri, 21 Aug 2026 12:17:00 GMT",
@@ -141,25 +155,11 @@
       "score": 3
     },
     {
-      "title": "\"XRP 매수 아니다\"...리플 투자, 알고보니 '비상장주' 직접 보유",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5Oa1pzQjhTQTRhUHRudTdWNEN5Q3RJRElsSEp5S1lITk0wOHcyRUN3RTliNmJGc1oxSjdyUnoyTDlmS19lTWtQXzVB?oc=5",
-      "date": "Fri, 21 Aug 2026 01:35:00 GMT",
-      "source": "코인리더스",
-      "score": 3
-    },
-    {
       "title": "트럼프 백악관서 리플 CEO 회동… XRP '역대급 랠리' 촉각",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yczJIVWU5elVaMjRyYlA3N2VpMGEwbnNlbXNzem5PY2I0YzlKSlFYaGpTTmRiV2d4UWhpa0dCU3hEdDNnR1JXcHlvYk43ZE1wTHY1Rzk4V1VDeWtGMnlXajJLR3BpSXdORWw3alJhUXA?oc=5",
       "date": "Fri, 21 Aug 2026 00:30:17 GMT",
       "source": "블록체인투데이",
       "score": 2
-    },
-    {
-      "title": "리플, 100억달러 규모 사모신용 시장 정조준…XRP·RLUSD 활용도 커질까",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5taVJIbjdoRzM3U3RuMUJHRDNyTWFZY0ZHbm9mTTlPU09YVC1vemx1YngxUG5kdzRZSF9wUHFoNU1xTzhrZDRnR3J4VUZJaW1EeW9B?oc=5",
-      "date": "Thu, 20 Aug 2026 23:57:06 GMT",
-      "source": "네이트",
-      "score": 3
     }
   ]
 }
