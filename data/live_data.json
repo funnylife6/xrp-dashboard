@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-22T19:43:39",
+  "generated_at": "2026-08-22T20:13:35",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.49,
-    "price_krw": 2071.14,
-    "price_change_24h": 8.5023,
-    "price_change_7d": 49.16103,
-    "price_change_30d": 35.23997,
-    "market_cap_usd": 93743090841,
+    "price_usd": 1.51,
+    "price_krw": 2091.99,
+    "price_change_24h": 10.08769,
+    "price_change_7d": 50.41767,
+    "price_change_30d": 36.67084,
+    "market_cap_usd": 94636223722,
     "market_cap_rank": 4,
-    "volume_24h": 12409837669,
+    "volume_24h": 12521321913,
     "circulating_supply": 62744504852.0,
     "total_supply": 99985627691.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 86.58,
-    "sentiment_votes_down": 13.42,
+    "sentiment_votes_up": 87.1,
+    "sentiment_votes_down": 12.9,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 57.23,
-    "recent_tps": 57.23,
-    "recent_tx_count": 5151,
+    "tps_24h_avg": 81.66,
+    "recent_tps": 81.66,
+    "recent_tx_count": 7349,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106473866,
+    "ledger_seq": 106474328,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-22 19:43:33 KST",
+    "updated_at": "2026-08-22 20:13:29 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 16890000,
     "total_net_inflow_usd": 16890000,
     "total_value_traded_usd": 16890000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/22 19:43",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/22 20:13",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -93,6 +93,13 @@
   ],
   "general_news": [
     {
+      "title": "리플, 단기 급등 뒤 저항대 진입…과매수 경계 속 조정 가능성 부상",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DZWszQ3BPWi1UdnRLdHUwYVVUSmo3dlJwaFZuN2pGWWNWVE9XaWxVQUhiV1dHZGRNS2dPaVBUQnpMYnpQbmVtaHg0RnY1dE5LU0xvdmktVTZvd1NMdFg4YTBXUEhiMDZS?oc=5",
+      "date": "Sat, 22 Aug 2026 15:00:00 GMT",
+      "source": "CBC뉴스",
+      "score": 2
+    },
+    {
       "title": "엑스알피(리플) 7일간 50% 넘게 급등…백악관발 호재에 2달러 기대 재점화",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE03MEdiWWFOdGZyUU1MNWxPVFYxdzJ1TndCMFVGRDFBYnQ0U1VCamE1Q3NLS3R1WF9VOWpoUGNYeXEzMWJHT3lmLThB?oc=5",
       "date": "Sat, 22 Aug 2026 12:58:00 GMT",
@@ -121,25 +128,11 @@
       "score": 4
     },
     {
-      "title": "리플XRP·비트코인·도지코인↑…증시 자금 코인으로 돌아오나",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKZzkxb0VOYjdockJFa3d5VmFzVDVQVFhEUkZBaGt1VjVYaHlUYzNWZHFBY3RHcnFmZHJ3TXBpMHdjRkc2N0dCdHlVRzlUbXhfNU4xLTZvdXpvb1J6VW8xRDJSaGY5RXlsRHdId1h5ZWJSdw?oc=5",
-      "date": "Fri, 21 Aug 2026 23:15:51 GMT",
-      "source": "톱스타뉴스",
-      "score": 2
-    },
-    {
       "title": "저점 대비 무려 44% 폭등! SEC 상품 분류에 불붙은 리플(XRP)의 화려한 부활!",
       "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5VS20yeFBOUGlndFVTcENkTkhjRzVIZjhoMm10WjF6R0Zza1YyZUFDUVpXVWEwQmI0T3BIWWphR1BTRTJ1?oc=5",
       "date": "Fri, 21 Aug 2026 22:51:00 GMT",
       "source": "코인리더스",
       "score": 3
-    },
-    {
-      "title": "속보 | 더 샌드박스 베이스 체인 SAND 컨트랙트 비정상 발행 의혹",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ybDhoY2c4a2ZJU2VONGo0dnJXeTBrTDRWYm0wcG1pZ1VPa0tDZjg0MmtPQThCWXluaXA5SVZ5SE9LMDhvcUhRQTNrekpEWjh0?oc=5",
-      "date": "Fri, 21 Aug 2026 10:16:00 GMT",
-      "source": "CoinNess",
-      "score": 8
     },
     {
       "title": "리플, RLUSD 기관 신용펀드 지원…XRP 레저 대출시장 열린다",
@@ -161,6 +154,13 @@
       "date": "Fri, 21 Aug 2026 05:46:19 GMT",
       "source": "글로벌이코노믹",
       "score": 2
+    },
+    {
+      "title": "XRP 가격 뉴스: 리플이 RLUSD 신용 펀드를 지원하며 주간 30% 상승",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRDhtdVNtT1kxNGJrN1lZSWV1bXBhbE5ZRDJ6Y21QUzVnU2M3YXo0bmotVlhpcjZjQUxTWkZMTVlINkRwc25wVVpfajFyZHIzcm5pNW5nYnAwdkhvQUd6V1FNdGR2VmY1Ri1sVDFCNkJ2M3J4NXBnSnRObWdxYmtpVEdNUk5PVEU3ZDQzVUNzS29YVjR2dnpuSW5raWlMSXNJSzRqeGJPVDQtN0hsa0ZlUw?oc=5",
+      "date": "Fri, 21 Aug 2026 05:29:48 GMT",
+      "source": "CoinDesk",
+      "score": 3
     }
   ]
 }
