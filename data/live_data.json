@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-22T08:19:14",
+  "generated_at": "2026-08-22T08:54:59",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.55,
-    "price_krw": 2146.35,
-    "price_change_24h": 14.47358,
-    "price_change_7d": 54.72181,
-    "price_change_30d": 36.64193,
-    "market_cap_usd": 97113328110,
+    "price_usd": 1.52,
+    "price_krw": 2113.12,
+    "price_change_24h": 9.61434,
+    "price_change_7d": 52.32629,
+    "price_change_30d": 34.52634,
+    "market_cap_usd": 95673153202,
     "market_cap_rank": 4,
-    "volume_24h": 14209012545,
+    "volume_24h": 13333397505,
     "circulating_supply": 62744504852.0,
     "total_supply": 99985627691.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 91.24,
-    "sentiment_votes_down": 8.76,
+    "sentiment_votes_up": 90.86,
+    "sentiment_votes_down": 9.14,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 39.23,
-    "recent_tps": 39.23,
-    "recent_tx_count": 3531,
+    "tps_24h_avg": 35.14,
+    "recent_tps": 35.14,
+    "recent_tx_count": 3163,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106463331,
+    "ledger_seq": 106463882,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-22 08:19:03 KST",
+    "updated_at": "2026-08-22 08:54:52 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,11 +43,18 @@
     "aum_usd": 16890000,
     "total_net_inflow_usd": 16890000,
     "total_value_traded_usd": 16890000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/22 08:19",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/22 08:54",
     "data_source": "sosovalue",
     "partial": true
   },
   "etf_news": [
+    {
+      "title": "美 디지털자산 ETF로 뭉칫돈 유입…BTC·ETH 등에 5억달러",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WaTl6RjdCcVpYZnR2V1NVSm1mV1BIVkw4VEpKbVFnU3Nsc0RIMzlwMktBeTdMN0x5ejBOUWVNYmN0Qnhzdk9aejkwcERGcUZ5OFYwNEpOeHI?oc=5",
+      "date": "Sat, 22 Aug 2026 08:17:00 GMT",
+      "source": "블록미디어",
+      "score": 0
+    },
     {
       "title": "Ripple XRP(XRPUSD) 종목이 8월22일에 13.81% 상승한 이유를 확인해 보세요",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOFkyNFR2WUNBM25CU3h1WElVLVhvUk1nNXBTWlROSS01LTdkczVvN1JsYWxTRWRoZ1RjTXc4Z1FaVU85MkJqVWdjS292RlFyU1hPLTVDRHlVb3hrSVVHdG92VE1xbDgxR0hzR2tOZC1ydDUtdkdaMmxkcUxBVEdtY19UUnlhcGcwZUk2bmo5NDRYdw?oc=5",
@@ -82,16 +89,16 @@
       "date": "Fri, 21 Aug 2026 12:17:00 GMT",
       "source": "코인리더스",
       "score": 0
-    },
-    {
-      "title": "Ripple XRP(XRPUSD) 종목이 8월21일에 변동성이 심화되었습니다. 무엇을 주의해야 할까요?",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbHNONjVFQlp0TzJ1U0lBYW91a0dwczQ4ck1aLTBLT1hpRURyZDFzM3JYM2tSU0liZmtRanhnalkzNEpLRXlJS05CWGUzZnFmSTNveUl2dDNZd0NRRU9vMl9HOXZqRU8zMTF3SGVaZ18yMEYxNFB0X2dQbnJ6QUhXVGRUZHR5MHBaSUYwLTRTdDFKZw?oc=5",
-      "date": "Fri, 21 Aug 2026 04:00:51 GMT",
-      "source": "TradingKey",
-      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "리플·트럼프코인 급등세… 숏스퀴즈 몰리며 가상자산 시장 전반 매수세 유입",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5TY19hZkYzUnhzWFdxY202Zlo4S3BnRzZwVUNGVkxIMzJDRDkxV3hVbnhmeDRYSU5RQzlRZkhqMUMzdXhGbEcwbW9VV1dfeFZBRFFpbGhVWFNqeXJVT1V3aWZpb0pkVlNNS2kzd29R?oc=5",
+      "date": "Sat, 22 Aug 2026 04:34:15 GMT",
+      "source": "gukjenews.com",
+      "score": 2
+    },
     {
       "title": "Ripple XRP(XRPUSD) 종목이 8월22일에 13.81% 상승한 이유를 확인해 보세요",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOFkyNFR2WUNBM25CU3h1WElVLVhvUk1nNXBTWlROSS01LTdkczVvN1JsYWxTRWRoZ1RjTXc4Z1FaVU85MkJqVWdjS292RlFyU1hPLTVDRHlVb3hrSVVHdG92VE1xbDgxR0hzR2tOZC1ydDUtdkdaMmxkcUxBVEdtY19UUnlhcGcwZUk2bmo5NDRYdw?oc=5",
@@ -121,25 +128,11 @@
       "score": 4
     },
     {
-      "title": "리플 보유 XRP 4000만개 지갑 이체 관측",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1VOFFoTUtSWlBNanZMNzNmYVNQSUhZaVVac0o2WTdKZzljbEs4cDZ3UHJMMEVuS2hRS3MtaGFVSnZ5UUlhamkxcktiV21NU2Rjb1NSVUpMMlXSAV5BVV95cUxQZ2RBU1JHVlNrN3I4ak5uSTI1ZWo3UWN2S0hxZ3JYZjlhcFRfUXdnNVJrVFBSLThkWHpsM0gyZHBRR2MxN1JycEt2b3JSS3RjTW5MZzk5eG14QVI1WlV3?oc=5",
-      "date": "Fri, 21 Aug 2026 21:53:08 GMT",
+      "title": "리플달러 18억8800만개, 이더리움 공급 XRP레저 앞서",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYdHFLd0xuZ1ZYS1VLVWZjSnNYNlNMOE9oUnFxMWNuSERNaE9CQ2RmOGlidkFYVi01NEJOcXpjZEtJXzM0dUZEbzFyN1loUTJWNkZEWXE2WUVoeTJ1dkdVSdIBZkFVX3lxTE5veW0waDB2UkxZZWpNdkNtR2MxenMxRDA0VXF1dWVuWmIzUDBxNFdRMkVmZXNlTkRZSFF6UEc3bEx1YkFWbGRoRVhwOHA3UWpjWXdlZ0E5YTZEOEFHVkNIbTA5Ymw0QQ?oc=5",
+      "date": "Fri, 21 Aug 2026 14:22:23 GMT",
       "source": "tokenpost.kr",
       "score": 2
-    },
-    {
-      "title": "XRP, 비트코인·이더리움 제치고 급등 – 랠리를 이끄는 진짜 원인은?",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBIR3JDMTZscHdYUVdnZWx5a0V5UnBhOFk1cVFVR2VvNU55WldwMm9uaVllYzdrWTJfZFZ0STkyZUF0ck9Rdk5rSUhKajJRX0tFZzB4eV80a1p6ZmVvQ2JlM2x4ZTdiQ2FEREVMajRRWlZFbFk?oc=5",
-      "date": "Fri, 21 Aug 2026 10:54:00 GMT",
-      "source": "Investing.com 한국어",
-      "score": 2
-    },
-    {
-      "title": "속보 | 더 샌드박스 베이스 체인 SAND 컨트랙트 비정상 발행 의혹",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ybDhoY2c4a2ZJU2VONGo0dnJXeTBrTDRWYm0wcG1pZ1VPa0tDZjg0MmtPQThCWXluaXA5SVZ5SE9LMDhvcUhRQTNrekpEWjh0?oc=5",
-      "date": "Fri, 21 Aug 2026 10:16:00 GMT",
-      "source": "CoinNess",
-      "score": 8
     },
     {
       "title": "리플, RLUSD 기관 신용펀드 지원…XRP 레저 대출시장 열린다",
@@ -161,6 +154,13 @@
       "date": "Fri, 21 Aug 2026 05:56:00 GMT",
       "source": "블루밍비트",
       "score": 4
+    },
+    {
+      "title": "리플 CEO \"XRP '혁신 쓰나미' 몰려온다…美 정부도 못 막아\"",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZjlBdm82SDk3emFLT05jZXowNnV0bVpOMFhyeUZ1Q0FWRXZlbmlFS012OUdXWERhc282ZmNXU0lHYVB1SkVXSXM2ZnZVQmU2U0RsbU15amtXVkdiaHZQYWVuMXR6a1NoeHdCejY1VmFYakJ3UjdHVVpmUS0tOEJIZDl5UURUSElQ?oc=5",
+      "date": "Fri, 21 Aug 2026 05:46:19 GMT",
+      "source": "글로벌이코노믹",
+      "score": 2
     }
   ]
 }
