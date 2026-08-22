@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-22T04:57:54",
+  "generated_at": "2026-08-22T05:25:03",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.66,
-    "price_krw": 2297.98,
-    "price_change_24h": 25.88597,
-    "price_change_7d": 65.09148,
-    "price_change_30d": 46.32178,
-    "market_cap_usd": 104030028099,
-    "market_cap_rank": 4,
-    "volume_24h": 12825275787,
+    "price_usd": 1.47,
+    "price_krw": 2031.4,
+    "price_change_24h": 12.02451,
+    "price_change_7d": 45.87387,
+    "price_change_30d": 29.09144,
+    "market_cap_usd": 92421897187,
+    "market_cap_rank": 5,
+    "volume_24h": 12711723961,
     "circulating_supply": 62744504852.0,
     "total_supply": 99985627691.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 91.33,
-    "sentiment_votes_down": 8.67,
+    "sentiment_votes_up": 91.46,
+    "sentiment_votes_down": 8.54,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 50.54,
-    "recent_tps": 50.54,
-    "recent_tx_count": 4599,
+    "tps_24h_avg": 57.63,
+    "recent_tps": 57.63,
+    "recent_tx_count": 5187,
     "recent_ledger_count": 24,
-    "recent_window_sec": 91,
-    "ledger_seq": 106460237,
+    "recent_window_sec": 90,
+    "ledger_seq": 106460650,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-22 04:57:40 KST",
+    "updated_at": "2026-08-22 05:24:51 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 16890000,
     "total_net_inflow_usd": 16890000,
     "total_value_traded_usd": 16890000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/22 04:57",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/22 05:25",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -100,6 +100,13 @@
       "score": 4
     },
     {
+      "title": "리플 AI 결제 100만건, 실물 소비는 온보딩 단계",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ONDdSc3NRV2xqUGNTVEJpenZPUFJWeFFVUjFVeFN5ZVp5X3lualhRbWJNUl9wRFhTZEJzZVVsUjUwcEFsbmhZeVA4a2lpNWl1TlBCVk4wTkpGc2QwX2llaw?oc=5",
+      "date": "Sat, 22 Aug 2026 00:43:07 GMT",
+      "source": "tokenpost.kr",
+      "score": 2
+    },
+    {
       "title": "리플XRP·비트코인·도지코인↑…증시 자금 코인으로 돌아오나",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKZzkxb0VOYjdockJFa3d5VmFzVDVQVFhEUkZBaGt1VjVYaHlUYzNWZHFBY3RHcnFmZHJ3TXBpMHdjRkc2N0dCdHlVRzlUbXhfNU4xLTZvdXpvb1J6VW8xRDJSaGY5RXlsRHdId1h5ZWJSdw?oc=5",
       "date": "Fri, 21 Aug 2026 23:15:51 GMT",
@@ -114,18 +121,18 @@
       "score": 4
     },
     {
-      "title": "리플달러 18억8800만개, 이더리움 공급 XRP레저 앞서",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYdHFLd0xuZ1ZYS1VLVWZjSnNYNlNMOE9oUnFxMWNuSERNaE9CQ2RmOGlidkFYVi01NEJOcXpjZEtJXzM0dUZEbzFyN1loUTJWNkZEWXE2WUVoeTJ1dkdVSdIBZkFVX3lxTE5veW0waDB2UkxZZWpNdkNtR2MxenMxRDA0VXF1dWVuWmIzUDBxNFdRMkVmZXNlTkRZSFF6UEc3bEx1YkFWbGRoRVhwOHA3UWpjWXdlZ0E5YTZEOEFHVkNIbTA5Ymw0QQ?oc=5",
-      "date": "Fri, 21 Aug 2026 14:22:23 GMT",
-      "source": "tokenpost.kr",
-      "score": 2
-    },
-    {
       "title": "XRP, 비트코인·이더리움 제치고 급등 – 랠리를 이끄는 진짜 원인은?",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBIR3JDMTZscHdYUVdnZWx5a0V5UnBhOFk1cVFVR2VvNU55WldwMm9uaVllYzdrWTJfZFZ0STkyZUF0ck9Rdk5rSUhKajJRX0tFZzB4eV80a1p6ZmVvQ2JlM2x4ZTdiQ2FEREVMajRRWlZFbFk?oc=5",
       "date": "Fri, 21 Aug 2026 10:54:00 GMT",
       "source": "Investing.com 한국어",
       "score": 2
+    },
+    {
+      "title": "속보 | 더 샌드박스 베이스 체인 SAND 컨트랙트 비정상 발행 의혹",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ybDhoY2c4a2ZJU2VONGo0dnJXeTBrTDRWYm0wcG1pZ1VPa0tDZjg0MmtPQThCWXluaXA5SVZ5SE9LMDhvcUhRQTNrekpEWjh0?oc=5",
+      "date": "Fri, 21 Aug 2026 10:16:00 GMT",
+      "source": "CoinNess",
+      "score": 8
     },
     {
       "title": "리플, RLUSD 기관 신용펀드 지원…XRP 레저 대출시장 열린다",
@@ -154,13 +161,6 @@
       "date": "Fri, 21 Aug 2026 05:46:19 GMT",
       "source": "글로벌이코노믹",
       "score": 2
-    },
-    {
-      "title": "XRP 가격 뉴스: 리플이 RLUSD 신용 펀드를 지원하며 주간 30% 상승",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRDhtdVNtT1kxNGJrN1lZSWV1bXBhbE5ZRDJ6Y21QUzVnU2M3YXo0bmotVlhpcjZjQUxTWkZMTVlINkRwc25wVVpfajFyZHIzcm5pNW5nYnAwdkhvQUd6V1FNdGR2VmY1Ri1sVDFCNkJ2M3J4NXBnSnRObWdxYmtpVEdNUk5PVEU3ZDQzVUNzS29YVjR2dnpuSW5raWlMSXNJSzRqeGJPVDQtN0hsa0ZlUw?oc=5",
-      "date": "Fri, 21 Aug 2026 05:29:48 GMT",
-      "source": "CoinDesk",
-      "score": 3
     }
   ]
 }
