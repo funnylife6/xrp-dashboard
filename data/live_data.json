@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-22T22:13:38",
+  "generated_at": "2026-08-22T22:45:24",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.46,
-    "price_krw": 2030.75,
-    "price_change_24h": 2.81262,
-    "price_change_7d": 45.92986,
-    "price_change_30d": 32.09815,
-    "market_cap_usd": 91943316496,
+    "price_usd": 1.47,
+    "price_krw": 2038.49,
+    "price_change_24h": 1.744,
+    "price_change_7d": 46.48635,
+    "price_change_30d": 32.6019,
+    "market_cap_usd": 92227567490,
     "market_cap_rank": 5,
-    "volume_24h": 12016692378,
+    "volume_24h": 11880751439,
     "circulating_supply": 62744504852.0,
     "total_supply": 99985627691.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 86.97,
-    "sentiment_votes_down": 13.03,
+    "sentiment_votes_up": 86.6,
+    "sentiment_votes_down": 13.4,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 43.82,
-    "recent_tps": 43.82,
-    "recent_tx_count": 3944,
+    "tps_24h_avg": 36.52,
+    "recent_tps": 36.52,
+    "recent_tx_count": 3287,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106476170,
+    "ledger_seq": 106476661,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-22 22:13:24 KST",
+    "updated_at": "2026-08-22 22:45:18 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 16890000,
     "total_net_inflow_usd": 16890000,
     "total_value_traded_usd": 16890000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/22 22:13",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/22 22:45",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -53,6 +53,13 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WaTl6RjdCcVpYZnR2V1NVSm1mV1BIVkw4VEpKbVFnU3Nsc0RIMzlwMktBeTdMN0x5ejBOUWVNYmN0Qnhzdk9aejkwcERGcUZ5OFYwNEpOeHI?oc=5",
       "date": "Sat, 22 Aug 2026 08:17:00 GMT",
       "source": "블록미디어",
+      "score": 0
+    },
+    {
+      "title": "골드만삭스, XRP ETF 다시 담았나…8650만달러 분산 투자설에 기관 수요 촉각",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDZlhkTDBFZmNBeUxVZlh5OGo4SWFWZDdaU1g1WkdRc1FNMGlTQTJwakFjYnhKWjBrWHdvd3d1NTRYV25uVkNiNDE3ZDBQS0U3TUhHNkZmRVQtUlBvWjM1LXF0dnRnUkJ5?oc=5",
+      "date": "Sat, 22 Aug 2026 05:00:00 GMT",
+      "source": "CBC뉴스",
       "score": 0
     },
     {
@@ -81,13 +88,6 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbHNONjVFQlp0TzJ1U0lBYW91a0dwczQ4ck1aLTBLT1hpRURyZDFzM3JYM2tSU0liZmtRanhnalkzNEpLRXlJS05CWGUzZnFmSTNveUl2dDNZd0NRRU9vMl9HOXZqRU8zMTF3SGVaZ18yMEYxNFB0X2dQbnJ6QUhXVGRUZHR5MHBaSUYwLTRTdDFKZw?oc=5",
       "date": "Fri, 21 Aug 2026 04:00:51 GMT",
       "source": "TradingKey",
-      "score": 0
-    },
-    {
-      "title": "10억 개 묶고도 5억 달러 날린 리플(XRP) 현물 ETF, 9월 클래러티법으로 부활할까",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5kNDRWLVBJSmlOSjVyTEFuSWlwVzJTTEFxaEtjUHFMbmhpQkxSX0tmZkY3enE5YjBVS3dZSHlrRGM4RUdWUTRNODR3?oc=5",
-      "date": "Thu, 20 Aug 2026 22:24:00 GMT",
-      "source": "코인리더스",
       "score": 0
     }
   ],
@@ -119,13 +119,6 @@
       "date": "Sat, 22 Aug 2026 01:42:22 GMT",
       "source": "gukjenews.com",
       "score": 4
-    },
-    {
-      "title": "리플XRP·비트코인·도지코인↑…증시 자금 코인으로 돌아오나",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKZzkxb0VOYjdockJFa3d5VmFzVDVQVFhEUkZBaGt1VjVYaHlUYzNWZHFBY3RHcnFmZHJ3TXBpMHdjRkc2N0dCdHlVRzlUbXhfNU4xLTZvdXpvb1J6VW8xRDJSaGY5RXlsRHdId1h5ZWJSdw?oc=5",
-      "date": "Fri, 21 Aug 2026 23:15:51 GMT",
-      "source": "톱스타뉴스",
-      "score": 2
     },
     {
       "title": "저점 대비 무려 44% 폭등! SEC 상품 분류에 불붙은 리플(XRP)의 화려한 부활!",
@@ -160,6 +153,13 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRDhtdVNtT1kxNGJrN1lZSWV1bXBhbE5ZRDJ6Y21QUzVnU2M3YXo0bmotVlhpcjZjQUxTWkZMTVlINkRwc25wVVpfajFyZHIzcm5pNW5nYnAwdkhvQUd6V1FNdGR2VmY1Ri1sVDFCNkJ2M3J4NXBnSnRObWdxYmtpVEdNUk5PVEU3ZDQzVUNzS29YVjR2dnpuSW5raWlMSXNJSzRqeGJPVDQtN0hsa0ZlUw?oc=5",
       "date": "Fri, 21 Aug 2026 05:29:48 GMT",
       "source": "CoinDesk",
+      "score": 3
+    },
+    {
+      "title": "리플, 100억달러 규모 사모신용 시장 정조준…XRP·RLUSD 활용도 커질까",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBvNngzY0Fpa196UWFnVmtoUXRQYmhVMEtmWmc3aG5pMkhlS29heFFySVZZdzgxRjlFdmVtell2NEhma2NTby0ybV9aMnhtcVpBQkk2b3c2YVRKLXBRUml6dk0wcDJTMTZWV3EwcHpHZ0dueEU?oc=5",
+      "date": "Thu, 20 Aug 2026 23:56:23 GMT",
+      "source": "디지털투데이",
       "score": 3
     }
   ]
