@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-23T13:08:51",
+  "generated_at": "2026-08-23T13:52:28",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.5,
-    "price_krw": 2074.3,
-    "price_change_24h": -0.44223,
-    "price_change_7d": 49.66519,
-    "price_change_30d": 36.16729,
-    "market_cap_usd": 93861279575,
+    "price_usd": 1.52,
+    "price_krw": 2105.55,
+    "price_change_24h": 0.99692,
+    "price_change_7d": 51.91949,
+    "price_change_30d": 38.21828,
+    "market_cap_usd": 95202879613,
     "market_cap_rank": 4,
-    "volume_24h": 5649075804,
+    "volume_24h": 5823983939,
     "circulating_supply": 62744504852.0,
     "total_supply": 99985627691.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 78.87,
-    "sentiment_votes_down": 21.13,
+    "sentiment_votes_up": 79.14,
+    "sentiment_votes_down": 20.86,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 46.49,
-    "recent_tps": 46.49,
-    "recent_tx_count": 4184,
+    "tps_24h_avg": 41.87,
+    "recent_tps": 41.87,
+    "recent_tx_count": 3768,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106489936,
+    "ledger_seq": 106490603,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-23 13:08:43 KST",
+    "updated_at": "2026-08-23 13:52:19 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 16890000,
     "total_net_inflow_usd": 16890000,
     "total_value_traded_usd": 16890000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/23 13:08",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/23 13:52",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -114,13 +114,6 @@
       "score": 2
     },
     {
-      "title": "리플, RLUSD 활용 기관 대출 확장 시동…XRP 레저 새 금융 인프라 시험대",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85bjhUSTVtdGVGMl9mQWZ1REVER3lLMHdjZnFVQnVaenpMdnVKNGRsOEdEcEN0NGVrdktpY2dSU2Z0VlBTbGZKVmxXb2FQZGI2S0JCNHNUNW8xRVpRMmN2UG1YLU80aHho?oc=5",
-      "date": "Sun, 23 Aug 2026 02:05:00 GMT",
-      "source": "CBC뉴스",
-      "score": 4
-    },
-    {
       "title": "리플(XRP), 스텔라루멘 제쳤다…RLUSD 급성장에 스테이블코인 공급 10억달러 돌파",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HV1U3Szh6UlQzbHVid2dkLWx5U0YtODh6MXc4YWRMT1k4X3hwVHdlOFZ1TVhMTFNPOTNjb2xlZGJDZFlSTHNudnkwZTBuQ050WHlaSTJIQlRRTl9KbmtONnZKMlN4M3JK?oc=5",
       "date": "Sun, 23 Aug 2026 00:50:43 GMT",
@@ -161,6 +154,13 @@
       "date": "Fri, 21 Aug 2026 10:54:00 GMT",
       "source": "Investing.com 한국어",
       "score": 2
+    },
+    {
+      "title": "가장 빠르고 정확한 코인 투자 뉴스, 커뮤니티",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBrb2U0bzdTalF4UUtQRC1jQXhNR2cySWc2MEROSEl5dTctaEpYcnVMMFRmbTZpbGVoem9SRlpqbU5VN1JPVXc?oc=5",
+      "date": "Fri, 21 Aug 2026 07:00:00 GMT",
+      "source": "CoinNess",
+      "score": 8
     }
   ]
 }
