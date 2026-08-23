@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-23T21:43:08",
+  "generated_at": "2026-08-23T22:13:34",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.52,
-    "price_krw": 2106.52,
-    "price_change_24h": 4.41571,
-    "price_change_7d": 52.08592,
-    "price_change_30d": 39.40054,
-    "market_cap_usd": 95336824778,
+    "price_krw": 2108.28,
+    "price_change_24h": 3.8629,
+    "price_change_7d": 53.11995,
+    "price_change_30d": 39.63706,
+    "market_cap_usd": 95434884572,
     "market_cap_rank": 4,
-    "volume_24h": 5197834275,
+    "volume_24h": 5204330960,
     "circulating_supply": 62744504852.0,
     "total_supply": 99985627691.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 81.68,
-    "sentiment_votes_down": 18.32,
+    "sentiment_votes_up": 81.38,
+    "sentiment_votes_down": 18.62,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 47.94,
-    "recent_tps": 47.94,
-    "recent_tx_count": 4315,
+    "tps_24h_avg": 36.81,
+    "recent_tps": 36.81,
+    "recent_tx_count": 3313,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106497822,
+    "ledger_seq": 106498290,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-23 21:42:55 KST",
+    "updated_at": "2026-08-23 22:13:21 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 16890000,
     "total_net_inflow_usd": 16890000,
     "total_value_traded_usd": 16890000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/23 21:43",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/23 22:13",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -93,6 +93,13 @@
   ],
   "general_news": [
     {
+      "title": "리플 CEO가 꼽은 XRP 가격 상승 가로막는 단 하나의 요인은?",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeXVVMHBpcGxrc25jbHV3N2NTQ1dQUEEwcTVnaVVDSHp6RDFOSE1BZWZhcktDQ1NXMU1aV0U2RWNCeVNZZkEwdjYwVUdpQmY0YjA0eWhwWV9RdUhQY1lPV2pZLTc1NmNjNmRaZjBSWWNwa0Q2NjlHaGlCVjF5Uy0zeHNfWnVPek03?oc=5",
+      "date": "Sun, 23 Aug 2026 21:44:13 GMT",
+      "source": "글로벌이코노믹",
+      "score": 2
+    },
+    {
       "title": "\"스텔라 밀어내고 10억달러 돌파\"...XRP 레저, RLUSD로 스테이블코인 판도 뒤집기",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9vTl8tZFRXXy1od1lyY0tQX2xuWUxvMVh0OVpySi11bU9FM1ItbE9YSXJjUnZObnlabHJtRHZQZjc3MU5IdHhrOWFR?oc=5",
       "date": "Sun, 23 Aug 2026 17:00:00 GMT",
@@ -118,13 +125,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05V1BqRWFyRm12VFBpZ0E1aGFpbjh4cFExdXdwektoWS1iU2Z4dHdhdjBSZ2J2SF9UR0VwYTZQUUJOVmZiclJGM0EwZzBUR1RKQmdOaFdqWGVfYmVPcmVXedIBZkFVX3lxTE9BeDFuc2Q1VmdqRUJfRXlBSHFaM0JnVm1yXzlVaFE2SjZkSTk1dDltYVVrUDVnY1BjV1NFSmhGd2hmZjlHTl9YY2gxVGZZb09NWEdjd1k5T0diX3ZCcUJuSHhKZXhEQQ?oc=5",
       "date": "Sun, 23 Aug 2026 10:18:18 GMT",
       "source": "tokenpost.kr",
-      "score": 2
-    },
-    {
-      "title": "美 연준 페드나우, XRP 도입 가시화…볼란테 연계로 금융 혁신 촉발",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSDBJMVFYWXItckNHU2dvcXBmQUlTUTRkRGlyZ0VBTklhbGwtWmlGMzNtTjBLajdxSnFHc1p4SzJZcHVpanFfTzlBdFZlVE40YkwzVkZwdW5qSVd1NjV3VGNLbXA4cVdnTEtkWUU2ZUVtUm9aMTh4S0ZMemhNSVpxeXllc2hMbG83?oc=5",
-      "date": "Sun, 23 Aug 2026 07:51:44 GMT",
-      "source": "글로벌이코노믹",
       "score": 2
     },
     {
