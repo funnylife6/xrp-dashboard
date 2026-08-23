@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-23T14:15:25",
+  "generated_at": "2026-08-23T14:47:14",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.53,
-    "price_krw": 2121.75,
-    "price_change_24h": 2.81329,
-    "price_change_7d": 53.07842,
-    "price_change_30d": 40.10931,
-    "market_cap_usd": 95930299541,
+    "price_usd": 1.49,
+    "price_krw": 2061.21,
+    "price_change_24h": 2.1938,
+    "price_change_7d": 48.71047,
+    "price_change_30d": 36.11142,
+    "market_cap_usd": 92675431084,
     "market_cap_rank": 4,
-    "volume_24h": 6516586486,
+    "volume_24h": 6173951117,
     "circulating_supply": 62744504852.0,
     "total_supply": 99985627691.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 79.58,
-    "sentiment_votes_down": 20.42,
+    "sentiment_votes_up": 79.9,
+    "sentiment_votes_down": 20.1,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 63.77,
-    "recent_tps": 63.77,
-    "recent_tx_count": 5739,
+    "tps_24h_avg": 55.67,
+    "recent_tps": 55.67,
+    "recent_tx_count": 5010,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106490954,
+    "ledger_seq": 106491440,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-23 14:15:14 KST",
+    "updated_at": "2026-08-23 14:47:02 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 16890000,
     "total_net_inflow_usd": 16890000,
     "total_value_traded_usd": 16890000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/23 14:15",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/23 14:47",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -100,6 +100,13 @@
       "score": 3
     },
     {
+      "title": "2억7500만달러 리플채, XRP 담보론과 선 긋기",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05V1BqRWFyRm12VFBpZ0E1aGFpbjh4cFExdXdwektoWS1iU2Z4dHdhdjBSZ2J2SF9UR0VwYTZQUUJOVmZiclJGM0EwZzBUR1RKQmdOaFdqWGVfYmVPcmVXedIBZkFVX3lxTE9BeDFuc2Q1VmdqRUJfRXlBSHFaM0JnVm1yXzlVaFE2SjZkSTk1dDltYVVrUDVnY1BjV1NFSmhGd2hmZjlHTl9YY2gxVGZZb09NWEdjd1k5T0diX3ZCcUJuSHhKZXhEQQ?oc=5",
+      "date": "Sun, 23 Aug 2026 10:18:18 GMT",
+      "source": "tokenpost.kr",
+      "score": 2
+    },
+    {
       "title": "美 연준 페드나우, XRP 도입 가시화…볼란테 연계로 금융 혁신 촉발",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSDBJMVFYWXItckNHU2dvcXBmQUlTUTRkRGlyZ0VBTklhbGwtWmlGMzNtTjBLajdxSnFHc1p4SzJZcHVpanFfTzlBdFZlVE40YkwzVkZwdW5qSVd1NjV3VGNLbXA4cVdnTEtkWUU2ZUVtUm9aMTh4S0ZMemhNSVpxeXllc2hMbG83?oc=5",
       "date": "Sun, 23 Aug 2026 07:51:44 GMT",
@@ -142,24 +149,17 @@
       "score": 4
     },
     {
+      "title": "저점 대비 무려 44% 폭등! SEC 상품 분류에 불붙은 리플(XRP)의 화려한 부활!",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5VS20yeFBOUGlndFVTcENkTkhjRzVIZjhoMm10WjF6R0Zza1YyZUFDUVpXVWEwQmI0T3BIWWphR1BTRTJ1?oc=5",
+      "date": "Fri, 21 Aug 2026 22:51:00 GMT",
+      "source": "코인리더스",
+      "score": 3
+    },
+    {
       "title": "XRP, 비트코인·이더리움 제치고 급등 – 랠리를 이끄는 진짜 원인은?",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBIR3JDMTZscHdYUVdnZWx5a0V5UnBhOFk1cVFVR2VvNU55WldwMm9uaVllYzdrWTJfZFZ0STkyZUF0ck9Rdk5rSUhKajJRX0tFZzB4eV80a1p6ZmVvQ2JlM2x4ZTdiQ2FEREVMajRRWlZFbFk?oc=5",
       "date": "Fri, 21 Aug 2026 10:54:00 GMT",
       "source": "Investing.com 한국어",
-      "score": 2
-    },
-    {
-      "title": "가장 빠르고 정확한 코인 투자 뉴스, 커뮤니티",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBrb2U0bzdTalF4UUtQRC1jQXhNR2cySWc2MEROSEl5dTctaEpYcnVMMFRmbTZpbGVoem9SRlpqbU5VN1JPVXc?oc=5",
-      "date": "Fri, 21 Aug 2026 07:00:00 GMT",
-      "source": "CoinNess",
-      "score": 8
-    },
-    {
-      "title": "1시간 $8.3억…XRP·TRUMP 신기록 견인",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9NdzJabXVyZlp2aG96ekVuSTZwS1hPbFhld2tFUGhPX0NxdUpHR2dpdHRDY3ZhUlZ3ckNpYjJtRTJMdFYwbEJpbHRxVHBuTFNFRGpJcC02MlRyTjFjb3FLUllDZHpudjMwYmlxZzFONEdGSGRqLVpKc2pmYw?oc=5",
-      "date": "Fri, 21 Aug 2026 07:00:00 GMT",
-      "source": "BeInCrypto",
       "score": 2
     }
   ]
