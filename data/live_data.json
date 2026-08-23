@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-23T11:14:00",
+  "generated_at": "2026-08-23T11:43:13",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.48,
-    "price_krw": 2051.91,
-    "price_change_24h": -0.50432,
-    "price_change_7d": 48.05967,
-    "price_change_30d": 33.77831,
-    "market_cap_usd": 92840721462,
+    "price_usd": 1.5,
+    "price_krw": 2077.47,
+    "price_change_24h": 0.78253,
+    "price_change_7d": 49.90364,
+    "price_change_30d": 35.44442,
+    "market_cap_usd": 94047184992,
     "market_cap_rank": 4,
-    "volume_24h": 5864888934,
+    "volume_24h": 6609668801,
     "circulating_supply": 62744504852.0,
     "total_supply": 99985627691.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 79.7,
-    "sentiment_votes_down": 20.3,
+    "sentiment_votes_up": 80.0,
+    "sentiment_votes_down": 20.0,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 35.58,
-    "recent_tps": 35.58,
-    "recent_tx_count": 3202,
+    "tps_24h_avg": 37.43,
+    "recent_tps": 37.43,
+    "recent_tx_count": 3369,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106488179,
+    "ledger_seq": 106488627,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-23 11:13:48 KST",
+    "updated_at": "2026-08-23 11:43:04 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 16890000,
     "total_net_inflow_usd": 16890000,
     "total_value_traded_usd": 16890000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/23 11:13",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/23 11:43",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -84,10 +84,10 @@
       "score": 0
     },
     {
-      "title": "Ripple XRP(XRPUSD) 종목이 8월21일에 변동성이 심화되었습니다. 무엇을 주의해야 할까요?",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbHNONjVFQlp0TzJ1U0lBYW91a0dwczQ4ck1aLTBLT1hpRURyZDFzM3JYM2tSU0liZmtRanhnalkzNEpLRXlJS05CWGUzZnFmSTNveUl2dDNZd0NRRU9vMl9HOXZqRU8zMTF3SGVaZ18yMEYxNFB0X2dQbnJ6QUhXVGRUZHR5MHBaSUYwLTRTdDFKZw?oc=5",
-      "date": "Fri, 21 Aug 2026 04:00:51 GMT",
-      "source": "TradingKey",
+      "title": "골드만삭스, XRP ETF 8650만달러 재매수…최대 기관으로",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9GaDZ6cjhMbG90ajA0RUZSZ3l0U0ZzWUptWTQySU50aFd5M3pBOHE3QlFoYXB5eGs3N216VkQ0cUJxYXd4RzNMdWxlZzduelFIdUNLRzB6YXk?oc=5",
+      "date": "Fri, 21 Aug 2026 17:29:00 GMT",
+      "source": "블록미디어",
       "score": 0
     }
   ],
@@ -97,6 +97,13 @@
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9UNDV3S0ZabVlWQlFScXlvWTQ4WGY4LUlJTWVDVEl5RUJoMTlmMlZXbmFTVUZvSWlKREVvQm5kNzRyQzBhaC1XbmlB?oc=5",
       "date": "Sun, 23 Aug 2026 11:08:00 GMT",
       "source": "코인리더스",
+      "score": 3
+    },
+    {
+      "title": "2억7500만달러 리플채, XRP 담보론과 선 긋기",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05V1BqRWFyRm12VFBpZ0E1aGFpbjh4cFExdXdwektoWS1iU2Z4dHdhdjBSZ2J2SF9UR0VwYTZQUUJOVmZiclJGM0EwZzBUR1RKQmdOaFdqWGVfYmVPcmVXedIBZkFVX3lxTE9BeDFuc2Q1VmdqRUJfRXlBSHFaM0JnVm1yXzlVaFE2SjZkSTk1dDltYVVrUDVnY1BjV1NFSmhGd2hmZjlHTl9YY2gxVGZZb09NWEdjd1k5T0diX3ZCcUJuSHhKZXhEQQ?oc=5",
+      "date": "Sun, 23 Aug 2026 10:18:18 GMT",
+      "source": "tokenpost.kr",
       "score": 2
     },
     {
@@ -154,13 +161,6 @@
       "date": "Fri, 21 Aug 2026 10:54:00 GMT",
       "source": "Investing.com 한국어",
       "score": 2
-    },
-    {
-      "title": "속보 | 더 샌드박스 베이스 체인 SAND 컨트랙트 비정상 발행 의혹",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ybDhoY2c4a2ZJU2VONGo0dnJXeTBrTDRWYm0wcG1pZ1VPa0tDZjg0MmtPQThCWXluaXA5SVZ5SE9LMDhvcUhRQTNrekpEWjh0?oc=5",
-      "date": "Fri, 21 Aug 2026 10:16:00 GMT",
-      "source": "CoinNess",
-      "score": 8
     }
   ]
 }
