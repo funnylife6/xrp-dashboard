@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-23T07:54:43",
+  "generated_at": "2026-08-23T08:20:22",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.46,
-    "price_krw": 2024.42,
-    "price_change_24h": -6.75697,
-    "price_change_7d": 46.05071,
-    "price_change_30d": 30.87134,
-    "market_cap_usd": 91471151139,
+    "price_usd": 1.47,
+    "price_krw": 2044.14,
+    "price_change_24h": -4.53835,
+    "price_change_7d": 47.21119,
+    "price_change_30d": 32.46361,
+    "market_cap_usd": 92479619460,
     "market_cap_rank": 4,
-    "volume_24h": 7915632433,
+    "volume_24h": 7752403332,
     "circulating_supply": 62744504852.0,
     "total_supply": 99985627691.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 81.11,
-    "sentiment_votes_down": 18.89,
+    "sentiment_votes_up": 81.02,
+    "sentiment_votes_down": 18.98,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 37.0,
-    "recent_tps": 37.0,
-    "recent_tx_count": 3330,
+    "tps_24h_avg": 44.79,
+    "recent_tps": 44.79,
+    "recent_tx_count": 4076,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 106485116,
+    "recent_window_sec": 91,
+    "ledger_seq": 106485510,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-23 07:54:34 KST",
+    "updated_at": "2026-08-23 08:20:10 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 16890000,
     "total_net_inflow_usd": 16890000,
     "total_value_traded_usd": 16890000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/23 07:54",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/23 08:20",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -92,6 +92,20 @@
     }
   ],
   "general_news": [
+    {
+      "title": "美 연준 페드나우, XRP 도입 가시화…볼란테 연계로 금융 혁신 촉발",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSDBJMVFYWXItckNHU2dvcXBmQUlTUTRkRGlyZ0VBTklhbGwtWmlGMzNtTjBLajdxSnFHc1p4SzJZcHVpanFfTzlBdFZlVE40YkwzVkZwdW5qSVd1NjV3VGNLbXA4cVdnTEtkWUU2ZUVtUm9aMTh4S0ZMemhNSVpxeXllc2hMbG83?oc=5",
+      "date": "Sun, 23 Aug 2026 07:51:44 GMT",
+      "source": "글로벌이코노믹",
+      "score": 2
+    },
+    {
+      "title": "\"물 들어올 때 노 젓자\"…XRP 이벤트에 업비트 거래대금 나흘만에 '12배'",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96aF94VzhZS01nWWZVRkQ3NWhsTmNGa1VydVBTMkFOS0xGVktCYjh2UTJJZzBLSk04TnlvbEtFdHl5T0U2eS1rOTJMNTl1MzhZUkRBOUxqakVkR3FuTmJmZUc1d05md9IBa0FVX3lxTE1ENjZYc1EwbHhxeUZyazZxaFJpWFFJU213RGMtWVpKQjFRVndhdmN2dkFFTWVKOU1qOEtmVnc2VFVVaFRSQ1pZamYxTFN0QW5Ia1djS0g5WWxPOGJvcUwxMjF3eFlmRzNaZnRF?oc=5",
+      "date": "Sun, 23 Aug 2026 06:57:04 GMT",
+      "source": "뉴스1",
+      "score": 10
+    },
     {
       "title": "리플, RLUSD 활용 기관 대출 확장 시동…XRP 레저 새 금융 인프라 시험대",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85bjhUSTVtdGVGMl9mQWZ1REVER3lLMHdjZnFVQnVaenpMdnVKNGRsOEdEcEN0NGVrdktpY2dSU2Z0VlBTbGZKVmxXb2FQZGI2S0JCNHNUNW8xRVpRMmN2UG1YLU80aHho?oc=5",
@@ -147,20 +161,6 @@
       "date": "Fri, 21 Aug 2026 06:44:00 GMT",
       "source": "코인리더스",
       "score": 4
-    },
-    {
-      "title": "리플, RLUSD 기반 기관 대출펀드 투자…XRP레저서 핀테크 기업 대출 추진",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yXzQ4UmtvNnZRclZIWkg4bjhRbmNzUlB1YjJBTnllWVBPODJqbGVMWHVDdTZBNWozSVhwSzJ2eUtFWWtDeTN2QzA3U0hJTFdCSFgwVVRXWHR6UVZUUkhmTWZrbXNzd1Z2cEtVcA?oc=5",
-      "date": "Fri, 21 Aug 2026 05:56:00 GMT",
-      "source": "TradingView",
-      "score": 4
-    },
-    {
-      "title": "리플 CEO \"XRP '혁신 쓰나미' 몰려온다…美 정부도 못 막아\"",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZjlBdm82SDk3emFLT05jZXowNnV0bVpOMFhyeUZ1Q0FWRXZlbmlFS012OUdXWERhc282ZmNXU0lHYVB1SkVXSXM2ZnZVQmU2U0RsbU15amtXVkdiaHZQYWVuMXR6a1NoeHdCejY1VmFYakJ3UjdHVVpmUS0tOEJIZDl5UURUSElQ?oc=5",
-      "date": "Fri, 21 Aug 2026 05:46:19 GMT",
-      "source": "글로벌이코노믹",
-      "score": 2
     }
   ]
 }
