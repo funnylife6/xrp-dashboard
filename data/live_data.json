@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-23T14:47:14",
+  "generated_at": "2026-08-23T15:14:43",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.49,
-    "price_krw": 2061.21,
-    "price_change_24h": 2.1938,
-    "price_change_7d": 48.71047,
-    "price_change_30d": 36.11142,
-    "market_cap_usd": 92675431084,
+    "price_usd": 1.5,
+    "price_krw": 2083.1,
+    "price_change_24h": 4.56897,
+    "price_change_7d": 50.17965,
+    "price_change_30d": 37.77378,
+    "market_cap_usd": 94331963792,
     "market_cap_rank": 4,
-    "volume_24h": 6173951117,
+    "volume_24h": 5740140979,
     "circulating_supply": 62744504852.0,
     "total_supply": 99985627691.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 79.9,
-    "sentiment_votes_down": 20.1,
+    "sentiment_votes_up": 80.1,
+    "sentiment_votes_down": 19.9,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 55.67,
-    "recent_tps": 55.67,
-    "recent_tx_count": 5010,
+    "tps_24h_avg": 61.94,
+    "recent_tps": 61.94,
+    "recent_tx_count": 5575,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106491440,
+    "ledger_seq": 106491861,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-23 14:47:02 KST",
+    "updated_at": "2026-08-23 15:14:33 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 16890000,
     "total_net_inflow_usd": 16890000,
     "total_value_traded_usd": 16890000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/23 14:47",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/23 15:14",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -63,31 +63,31 @@
       "score": 0
     },
     {
+      "title": "XRP ETF, 주간 3978만달러 순유입",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE04dE9TazNEUGFESy1vdWVDUlphanVQZThzZG53Y2N4WWs1NVQ5UUZsZ2hibVhkMGt2V2w3LVROMVZlMHRIV3dnWFBqNENhQ2ZNaWhJTjI2QkjSAV5BVV95cUxOb0FmVG5uNExFWVl3YmhTbVQzWkk5WWRTYmd1Rk5DdzlOZlgzTUR1eENEZEd6UHBkMVZ6MmREY19IWDFRY2tlS2tYenMyNjJSSGJFQ19GODhfUUIwblV3?oc=5",
+      "date": "Sat, 22 Aug 2026 22:14:27 GMT",
+      "source": "tokenpost.kr",
+      "score": 0
+    },
+    {
+      "title": "美 디지털자산 ETF로 뭉칫돈 유입…BTC·ETH 등에 5억달러",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WaTl6RjdCcVpYZnR2V1NVSm1mV1BIVkw4VEpKbVFnU3Nsc0RIMzlwMktBeTdMN0x5ejBOUWVNYmN0Qnhzdk9aejkwcERGcUZ5OFYwNEpOeHI?oc=5",
+      "date": "Sat, 22 Aug 2026 08:17:00 GMT",
+      "source": "블록미디어",
+      "score": 0
+    },
+    {
+      "title": "[알트 현물 ETF] XRP·SOL 등 4종 순유입...BNB는 순유출",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEYlVIZnQ0bHlucmp2V1FrTFo5WUtzX3pyeUNWUXFkTjJDejVwbFdzeEVncGVBbW9FQkJqbTd1RHE1WmF1U29ZVk5venpscWZkQ2M1RHJCUjV6T0F1REd5RdIBZkFVX3lxTE4zYkhDU0ZYWjVxckUtVUJEMFhMUk9MQ2Jyb2ZwcG1veDVmUDZxUzNmLVVLVkNBcmJ6NXByVHJsbHgyVXdsUWRsZkVpS3FKbGNBUFZOVnQzcTlRVTVjelZlWXQ0NlYzUQ?oc=5",
+      "date": "Sat, 22 Aug 2026 05:53:06 GMT",
+      "source": "tokenpost.kr",
+      "score": 0
+    },
+    {
       "title": "Ripple XRP(XRPUSD) 종목이 8월22일에 13.81% 상승한 이유를 확인해 보세요",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOFkyNFR2WUNBM25CU3h1WElVLVhvUk1nNXBTWlROSS01LTdkczVvN1JsYWxTRWRoZ1RjTXc4Z1FaVU85MkJqVWdjS292RlFyU1hPLTVDRHlVb3hrSVVHdG92VE1xbDgxR0hzR2tOZC1ydDUtdkdaMmxkcUxBVEdtY19UUnlhcGcwZUk2bmo5NDRYdw?oc=5",
       "date": "Sat, 22 Aug 2026 04:01:50 GMT",
       "source": "TradingKey",
-      "score": 0
-    },
-    {
-      "title": "미 리플 현물 ETF, 하루 만에 256억 원 순유입… 비트와이즈 주도",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE50UWNxMlBDSEhKdzhLZHBDUXdVUUJCV1prVG51a19oMGRTT0xiTmxaOGN0Umk1V1ZMNWVabkt2V1JrRjVVdmdEQmg1M1BHamt4WWhyOHNQcURLTUhwckI3LXdBR05sSHJlLVFVdm1n?oc=5",
-      "date": "Sat, 22 Aug 2026 01:42:22 GMT",
-      "source": "gukjenews.com",
-      "score": 0
-    },
-    {
-      "title": "저점 대비 무려 44% 폭등! SEC 상품 분류에 불붙은 리플(XRP)의 화려한 부활!",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5VS20yeFBOUGlndFVTcENkTkhjRzVIZjhoMm10WjF6R0Zza1YyZUFDUVpXVWEwQmI0T3BIWWphR1BTRTJ1?oc=5",
-      "date": "Fri, 21 Aug 2026 22:51:00 GMT",
-      "source": "코인리더스",
-      "score": 0
-    },
-    {
-      "title": "골드만삭스, XRP ETF 8650만달러 재매수…최대 기관으로",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9GaDZ6cjhMbG90ajA0RUZSZ3l0U0ZzWUptWTQySU50aFd5M3pBOHE3QlFoYXB5eGs3N216VkQ0cUJxYXd4RzNMdWxlZzduelFIdUNLRzB6YXk?oc=5",
-      "date": "Fri, 21 Aug 2026 17:29:00 GMT",
-      "source": "블록미디어",
       "score": 0
     }
   ],
