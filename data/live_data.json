@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-23T16:15:48",
+  "generated_at": "2026-08-23T16:48:47",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.5,
-    "price_krw": 2079.58,
-    "price_change_24h": 3.8271,
-    "price_change_7d": 49.82101,
-    "price_change_30d": 37.64856,
-    "market_cap_usd": 94134957652,
+    "price_krw": 2085.92,
+    "price_change_24h": 1.14122,
+    "price_change_7d": 50.27784,
+    "price_change_30d": 38.06828,
+    "market_cap_usd": 94387769618,
     "market_cap_rank": 4,
-    "volume_24h": 5514083258,
+    "volume_24h": 5439969806,
     "circulating_supply": 62744504852.0,
     "total_supply": 99985627691.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 78.97,
-    "sentiment_votes_down": 21.03,
+    "sentiment_votes_up": 79.08,
+    "sentiment_votes_down": 20.92,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 58.63,
-    "recent_tps": 58.63,
-    "recent_tx_count": 5277,
+    "tps_24h_avg": 45.73,
+    "recent_tps": 45.73,
+    "recent_tx_count": 4116,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106492796,
+    "ledger_seq": 106493304,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-23 16:15:35 KST",
+    "updated_at": "2026-08-23 16:48:40 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 16890000,
     "total_net_inflow_usd": 16890000,
     "total_value_traded_usd": 16890000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/23 16:15",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/23 16:48",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -156,11 +156,11 @@
       "score": 2
     },
     {
-      "title": "가장 빠르고 정확한 코인 투자 뉴스, 커뮤니티",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBrb2U0bzdTalF4UUtQRC1jQXhNR2cySWc2MEROSEl5dTctaEpYcnVMMFRmbTZpbGVoem9SRlpqbU5VN1JPVXc?oc=5",
+      "title": "1시간 $8.3억…XRP·TRUMP 신기록 견인",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9NdzJabXVyZlp2aG96ekVuSTZwS1hPbFhld2tFUGhPX0NxdUpHR2dpdHRDY3ZhUlZ3ckNpYjJtRTJMdFYwbEJpbHRxVHBuTFNFRGpJcC02MlRyTjFjb3FLUllDZHpudjMwYmlxZzFONEdGSGRqLVpKc2pmYw?oc=5",
       "date": "Fri, 21 Aug 2026 07:00:00 GMT",
-      "source": "CoinNess",
-      "score": 8
+      "source": "BeInCrypto",
+      "score": 2
     }
   ]
 }
