@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-23T10:47:57",
+  "generated_at": "2026-08-23T11:14:00",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.48,
-    "price_krw": 2054.03,
-    "price_change_24h": -0.62442,
-    "price_change_7d": 48.23262,
-    "price_change_30d": 33.74623,
-    "market_cap_usd": 93065879762,
+    "price_krw": 2051.91,
+    "price_change_24h": -0.50432,
+    "price_change_7d": 48.05967,
+    "price_change_30d": 33.77831,
+    "market_cap_usd": 92840721462,
     "market_cap_rank": 4,
-    "volume_24h": 6003330329,
+    "volume_24h": 5864888934,
     "circulating_supply": 62744504852.0,
     "total_supply": 99985627691.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 80.1,
-    "sentiment_votes_down": 19.9,
+    "sentiment_votes_up": 79.7,
+    "sentiment_votes_down": 20.3,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 38.44,
-    "recent_tps": 38.44,
-    "recent_tx_count": 3460,
+    "tps_24h_avg": 35.58,
+    "recent_tps": 35.58,
+    "recent_tx_count": 3202,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106487783,
+    "ledger_seq": 106488179,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-23 10:47:46 KST",
+    "updated_at": "2026-08-23 11:13:48 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,11 +43,18 @@
     "aum_usd": 16890000,
     "total_net_inflow_usd": 16890000,
     "total_value_traded_usd": 16890000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/23 10:47",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/23 11:13",
     "data_source": "sosovalue",
     "partial": true
   },
   "etf_news": [
+    {
+      "title": "리플(XRP) 3달러 확률 22%·0.75달러 추락 확률 17%…1.61달러가 분수령",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9UNDV3S0ZabVlWQlFScXlvWTQ4WGY4LUlJTWVDVEl5RUJoMTlmMlZXbmFTVUZvSWlKREVvQm5kNzRyQzBhaC1XbmlB?oc=5",
+      "date": "Sun, 23 Aug 2026 11:08:00 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
     {
       "title": "엑스알피 ETF 4일 연속 유입…가격 상승 가속화",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16UWRHc3VuQzF2Tmt0d2NwbzlNbGlUbFVrWEVNNHR3VldNSGE2bG1tNXFGRDRDTTl5Ui1UVkFvSWZRNzI1SXU4OFVURExIb3J6XzltS212Tl8?oc=5",
@@ -77,13 +84,6 @@
       "score": 0
     },
     {
-      "title": "골드만삭스, XRP ETF 8650만달러 재매수…최대 기관으로",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9GaDZ6cjhMbG90ajA0RUZSZ3l0U0ZzWUptWTQySU50aFd5M3pBOHE3QlFoYXB5eGs3N216VkQ0cUJxYXd4RzNMdWxlZzduelFIdUNLRzB6YXk?oc=5",
-      "date": "Fri, 21 Aug 2026 17:29:00 GMT",
-      "source": "블록미디어",
-      "score": 0
-    },
-    {
       "title": "Ripple XRP(XRPUSD) 종목이 8월21일에 변동성이 심화되었습니다. 무엇을 주의해야 할까요?",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbHNONjVFQlp0TzJ1U0lBYW91a0dwczQ4ck1aLTBLT1hpRURyZDFzM3JYM2tSU0liZmtRanhnalkzNEpLRXlJS05CWGUzZnFmSTNveUl2dDNZd0NRRU9vMl9HOXZqRU8zMTF3SGVaZ18yMEYxNFB0X2dQbnJ6QUhXVGRUZHR5MHBaSUYwLTRTdDFKZw?oc=5",
       "date": "Fri, 21 Aug 2026 04:00:51 GMT",
@@ -92,6 +92,13 @@
     }
   ],
   "general_news": [
+    {
+      "title": "리플(XRP) 3달러 확률 22%·0.75달러 추락 확률 17%…1.61달러가 분수령",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9UNDV3S0ZabVlWQlFScXlvWTQ4WGY4LUlJTWVDVEl5RUJoMTlmMlZXbmFTVUZvSWlKREVvQm5kNzRyQzBhaC1XbmlB?oc=5",
+      "date": "Sun, 23 Aug 2026 11:08:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
     {
       "title": "美 연준 페드나우, XRP 도입 가시화…볼란테 연계로 금융 혁신 촉발",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSDBJMVFYWXItckNHU2dvcXBmQUlTUTRkRGlyZ0VBTklhbGwtWmlGMzNtTjBLajdxSnFHc1p4SzJZcHVpanFfTzlBdFZlVE40YkwzVkZwdW5qSVd1NjV3VGNLbXA4cVdnTEtkWUU2ZUVtUm9aMTh4S0ZMemhNSVpxeXllc2hMbG83?oc=5",
@@ -112,13 +119,6 @@
       "date": "Sun, 23 Aug 2026 00:50:43 GMT",
       "source": "CBC뉴스",
       "score": 3
-    },
-    {
-      "title": "비트코인 꺾여도 나홀로 질주…리플(XRP), 왜 지금 폭풍 매수세 몰리나?",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE44eTgxNW94UjhVNnhEbGlMOC1qYVZGazVBSHN5cWkwRDdEMkRsbzhfbjlETFJXN1ZHSEIyanlFS3RBUk9JN2Q1RG1R?oc=5",
-      "date": "Sat, 22 Aug 2026 23:09:00 GMT",
-      "source": "코인리더스",
-      "score": 2
     },
     {
       "title": "리플XRP·오피셜트럼프·이더리움 엇갈려…국채 매입 뒤 거래 63%↑",
@@ -149,18 +149,18 @@
       "score": 3
     },
     {
+      "title": "XRP, 비트코인·이더리움 제치고 급등 – 랠리를 이끄는 진짜 원인은?",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBIR3JDMTZscHdYUVdnZWx5a0V5UnBhOFk1cVFVR2VvNU55WldwMm9uaVllYzdrWTJfZFZ0STkyZUF0ck9Rdk5rSUhKajJRX0tFZzB4eV80a1p6ZmVvQ2JlM2x4ZTdiQ2FEREVMajRRWlZFbFk?oc=5",
+      "date": "Fri, 21 Aug 2026 10:54:00 GMT",
+      "source": "Investing.com 한국어",
+      "score": 2
+    },
+    {
       "title": "속보 | 더 샌드박스 베이스 체인 SAND 컨트랙트 비정상 발행 의혹",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ybDhoY2c4a2ZJU2VONGo0dnJXeTBrTDRWYm0wcG1pZ1VPa0tDZjg0MmtPQThCWXluaXA5SVZ5SE9LMDhvcUhRQTNrekpEWjh0?oc=5",
       "date": "Fri, 21 Aug 2026 10:16:00 GMT",
       "source": "CoinNess",
       "score": 8
-    },
-    {
-      "title": "리플, RLUSD 기관 신용펀드 지원…XRP 레저 대출시장 열린다",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9ibmZaZVNuaFlSVmdIRUpUOTBtRUdNMi1ZWXcwREliQURaYmJRY0ZObU1oQ2c5ZERudHZhV1ZDc3g1b0Y2SHVMWnp3?oc=5",
-      "date": "Fri, 21 Aug 2026 06:44:00 GMT",
-      "source": "코인리더스",
-      "score": 4
     }
   ]
 }
