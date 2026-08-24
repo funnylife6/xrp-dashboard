@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-24T22:17:31",
+  "generated_at": "2026-08-24T22:51:13",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.48,
-    "price_krw": 2047.53,
-    "price_change_24h": -2.27596,
-    "price_change_7d": 48.18449,
-    "price_change_30d": 34.82053,
-    "market_cap_usd": 92933088487,
+    "price_krw": 2044.85,
+    "price_change_24h": -2.6282,
+    "price_change_7d": 47.99421,
+    "price_change_30d": 34.64742,
+    "market_cap_usd": 92832761306,
     "market_cap_rank": 5,
-    "volume_24h": 5725679182,
+    "volume_24h": 5889110315,
     "circulating_supply": 62744504852.0,
     "total_supply": 99985627691.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 79.88,
-    "sentiment_votes_down": 20.12,
+    "sentiment_votes_up": 80.98,
+    "sentiment_votes_down": 19.02,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 42.51,
-    "recent_tps": 42.51,
-    "recent_tx_count": 3826,
+    "tps_24h_avg": 34.56,
+    "recent_tps": 34.56,
+    "recent_tx_count": 3110,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106520463,
+    "ledger_seq": 106520985,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-24 22:17:16 KST",
+    "updated_at": "2026-08-24 22:51:02 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -47,6 +47,13 @@
     "data_source": "news_parse"
   },
   "etf_news": [
+    {
+      "title": "리플(XRP) 72% 폭등 뒤 13% 급락…1.35달러 지지선 시험대",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9uVnZTVDhHZFo0TUdPdENDUWttdk1NMVVXSDlKSk9hUWs0ai1jaTRTT3VYTlZCLW92c1Q5dDFyR29WYjNYN09OSjVB?oc=5",
+      "date": "Mon, 24 Aug 2026 22:17:00 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
     {
       "title": "리플(XRP) 현물 ETF 10억개 매집하고도 본전…9월 15일 표결에 운명 갈린다",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9PRktrd1B6cHVYakl4dTZEeEpqR1FLYUp3OFZMSDZtSWlkd1I0X1BDYzBlaC1BTDJWanNROWgyb0hyN1VPbXpNZ0ln?oc=5",
@@ -81,16 +88,16 @@
       "date": "Mon, 24 Aug 2026 04:54:51 GMT",
       "source": "PANews",
       "score": 0
-    },
-    {
-      "title": "美 비트코인 현물 ETF, 지난주 19억달러 순유입…이더리움도 7억달러 육박",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CYTQ5aS1XSUlrZXFPbC1KNHB3YTliTVJVUUJ3aXlvT1ZMNkQtOWtPMnNRRm43N0h0SllQWW5aNnRRbUJwNncxYjFfOVQ0SDJ1?oc=5",
-      "date": "Mon, 24 Aug 2026 03:54:25 GMT",
-      "source": "블루밍비트",
-      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "프롬 급등·리플XRP 2.16%↓·비트코인 1.74%↑…미 국채금리 4.7%",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zQkdlTGQwU2x5UWZkX1JSblZVbzByRW4yNEZJTU05REl4TU4ydEFPWUsxcDdRR1pIMVZEWG1QT3JSRUdWZXdwa21iMERYcWxiVmRQeEp4SEZlRGlsSHlNNHQtd29ZYUd5VHNwOEpGdGltQQ?oc=5",
+      "date": "Mon, 24 Aug 2026 22:08:16 GMT",
+      "source": "톱스타뉴스",
+      "score": 2
+    },
     {
       "title": "리플(XRP) 현물 ETF 10억개 매집하고도 본전…9월 15일 표결에 운명 갈린다",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9PRktrd1B6cHVYakl4dTZEeEpqR1FLYUp3OFZMSDZtSWlkd1I0X1BDYzBlaC1BTDJWanNROWgyb0hyN1VPbXpNZ0ln?oc=5",
@@ -153,13 +160,6 @@
       "date": "Mon, 24 Aug 2026 00:46:00 GMT",
       "source": "코인리더스",
       "score": 3
-    },
-    {
-      "title": "리플 5% 뛰었다…비트코인 등 코인 동반 상승",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQM3A0bE5tMzBkMlFTbmlOT2FJcGpnOFQ3U240R1hHNFNaSTVnWVREM1AwRHpjS0VuY1FSUTNLY3NrdGQtazUtNnJNY3JoS2IzQlk0cA?oc=5",
-      "date": "Sun, 23 Aug 2026 22:25:00 GMT",
-      "source": "이투데이",
-      "score": 2
     }
   ]
 }
