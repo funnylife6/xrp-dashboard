@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-24T12:31:48",
+  "generated_at": "2026-08-24T13:43:33",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.5,
-    "price_krw": 2074.45,
-    "price_change_24h": 0.80451,
-    "price_change_7d": 50.04646,
-    "price_change_30d": 37.74363,
-    "market_cap_usd": 94151392934,
+    "price_krw": 2068.75,
+    "price_change_24h": -1.30553,
+    "price_change_7d": 49.97493,
+    "price_change_30d": 37.03907,
+    "market_cap_usd": 93956584851,
     "market_cap_rank": 4,
-    "volume_24h": 5603561616,
+    "volume_24h": 5778858949,
     "circulating_supply": 62744504852.0,
     "total_supply": 99985627691.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 84.7,
-    "sentiment_votes_down": 15.3,
+    "sentiment_votes_up": 85.33,
+    "sentiment_votes_down": 14.67,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 50.71,
-    "recent_tps": 50.71,
-    "recent_tx_count": 4564,
+    "tps_24h_avg": 41.63,
+    "recent_tps": 41.63,
+    "recent_tx_count": 4121,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 106511471,
+    "recent_window_sec": 99,
+    "ledger_seq": 106512569,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-24 12:31:42 KST",
+    "updated_at": "2026-08-24 13:43:20 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 16890000,
     "total_net_inflow_usd": 16890000,
     "total_value_traded_usd": 16890000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/24 12:31",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/24 13:43",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -92,6 +92,13 @@
     }
   ],
   "general_news": [
+    {
+      "title": "리플 사장 모니카 롱 방한… XRP Seoul 2026, 10월 3일 용산서 개최",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkVjhVTnBIZmdhVGRtQnRJQzRMb2dUdmFqbXQ1QlFPZ3VicWt0UDNab3Fxc2pjcVBpNEltY0w0NEZpdVZReHd1anBKSFBxd3ItZnFCbGYyUHJneWN1Sm43MUF5RnNLSERBdmRUNnFWR3Q?oc=5",
+      "date": "Mon, 24 Aug 2026 08:38:51 GMT",
+      "source": "블록체인투데이",
+      "score": 2
+    },
     {
       "title": "주식 팔고 코인? 리플, 일주일 새 47%↑…가상자산 거래량 10배 늘어",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42NzJ4Rks5ckYyNk9jajg1XzdfSkM2Yk8yTGRQbnZvSVNLR3cweFA3LVUtaDdYcWc3WnVHVEk1Rm9HY2xKY2VNb0U5SzZmbG9OOXI0OWNYNTliRUk3NzIyVVQxWUNMS0k?oc=5",
@@ -146,13 +153,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeXVVMHBpcGxrc25jbHV3N2NTQ1dQUEEwcTVnaVVDSHp6RDFOSE1BZWZhcktDQ1NXMU1aV0U2RWNCeVNZZkEwdjYwVUdpQmY0YjA0eWhwWV9RdUhQY1lPV2pZLTc1NmNjNmRaZjBSWWNwa0Q2NjlHaGlCVjF5Uy0zeHNfWnVPek03?oc=5",
       "date": "Sun, 23 Aug 2026 21:44:13 GMT",
       "source": "글로벌이코노믹",
-      "score": 2
-    },
-    {
-      "title": "\"스텔라 밀어내고 10억달러 돌파\"...XRP 레저, RLUSD로 스테이블코인 판도 뒤집기",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9vTl8tZFRXXy1od1lyY0tQX2xuWUxvMVh0OVpySi11bU9FM1ItbE9YSXJjUnZObnlabHJtRHZQZjc3MU5IdHhrOWFR?oc=5",
-      "date": "Sun, 23 Aug 2026 17:00:00 GMT",
-      "source": "코인리더스",
       "score": 2
     },
     {
