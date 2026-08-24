@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-24T09:38:19",
+  "generated_at": "2026-08-24T10:29:57",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.48,
-    "price_krw": 2043.31,
-    "price_change_24h": 0.73861,
-    "price_change_7d": 48.33663,
-    "price_change_30d": 36.21782,
-    "market_cap_usd": 92828596576,
+    "price_usd": 1.49,
+    "price_krw": 2055.79,
+    "price_change_24h": -0.37673,
+    "price_change_7d": 49.22925,
+    "price_change_30d": 36.6051,
+    "market_cap_usd": 93286994007,
     "market_cap_rank": 5,
-    "volume_24h": 5520533086,
+    "volume_24h": 4950203918,
     "circulating_supply": 62744504852.0,
     "total_supply": 99985627691.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 81.52,
-    "sentiment_votes_down": 18.48,
+    "sentiment_votes_up": 82.35,
+    "sentiment_votes_down": 17.65,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 38.8,
-    "recent_tps": 38.8,
-    "recent_tx_count": 3453,
+    "tps_24h_avg": 52.86,
+    "recent_tps": 52.86,
+    "recent_tx_count": 4757,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 106508809,
+    "recent_window_sec": 90,
+    "ledger_seq": 106509603,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-24 09:38:12 KST",
+    "updated_at": "2026-08-24 10:29:45 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 16890000,
     "total_net_inflow_usd": 16890000,
     "total_value_traded_usd": 16890000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/24 09:38",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/24 10:29",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -100,6 +100,13 @@
       "score": 2
     },
     {
+      "title": "일주일 새 47% 상승한 암호화폐(코인) 리플, 장기 조정 끝?... 곧 2달러 돌파할까",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yQ29mTExzRjA0dUVzUWhsV0JXQmpvVjMtNm1RVmFLdHAwX2gwX1VuVzlVY0hNQ1pSRWJwLWdJUF9BODdCa1RxbENQSVdNazVGTUFpeVdB?oc=5",
+      "date": "Mon, 24 Aug 2026 06:06:00 GMT",
+      "source": "위키트리",
+      "score": 2
+    },
+    {
       "title": "비트코인 7만7000달러 뛰자, 국내 코인시장도 '들썩'…XRP에 거래 몰렸다",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5fZnRQWDE5bXJ0bjhtTU4xMWNWZ1RZT0JHY1JPSzdLc2xSWkhJVGZhVmpqQWNfV0pyVkVFOHF6S0hTdVdDSjVHbk5PR0w1T2M?oc=5",
       "date": "Mon, 24 Aug 2026 05:52:05 GMT",
@@ -135,10 +142,10 @@
       "score": 3
     },
     {
-      "title": "리플 5% 뛰었다…비트코인 등 코인 동반 상승",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQM3A0bE5tMzBkMlFTbmlOT2FJcGpnOFQ3U240R1hHNFNaSTVnWVREM1AwRHpjS0VuY1FSUTNLY3NrdGQtazUtNnJNY3JoS2IzQlk0cA?oc=5",
-      "date": "Sun, 23 Aug 2026 22:25:00 GMT",
-      "source": "이투데이",
+      "title": "리플 1.7달러 돌파 베팅 가열… 예측시장 칼시 자금 유입",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTVRBUkNlVGRrRjVGX3VUZHQtb2MxdmFwaGU0cnhXY0RyWFdmYjh6UVFQYlFTaENtN19LTnhJejYtY3h5bXQyRTBkYkkwUld4YmJkZy12bmZGVWZEZFhpTEh0dTdiSTg1eW1ybzIwTFBsWk9UbzZ3eU14UTJzYmlZWFNVQ2gyaTl0?oc=5",
+      "date": "Sun, 23 Aug 2026 22:04:07 GMT",
+      "source": "글로벌이코노믹",
       "score": 2
     },
     {
@@ -146,13 +153,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeXVVMHBpcGxrc25jbHV3N2NTQ1dQUEEwcTVnaVVDSHp6RDFOSE1BZWZhcktDQ1NXMU1aV0U2RWNCeVNZZkEwdjYwVUdpQmY0YjA0eWhwWV9RdUhQY1lPV2pZLTc1NmNjNmRaZjBSWWNwa0Q2NjlHaGlCVjF5Uy0zeHNfWnVPek03?oc=5",
       "date": "Sun, 23 Aug 2026 21:44:13 GMT",
       "source": "글로벌이코노믹",
-      "score": 2
-    },
-    {
-      "title": "인터폴드 급등·오피셜트럼프 상승·리플XRP 상승…달러 약세에도 거래액↓",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qMGdUeDlkd3BWTzBOblcxaWczZl96ak4wRGFtZDc1QkZuVjJjZnZKTzJVWDJpTkFJbmJUbnJSak41WW5CQW5fbVhVUWVHYjU0aDNya0FJZHFLNEUwSXVITkN4elpTa1VLRFFrbVpGb3NMUQ?oc=5",
-      "date": "Sun, 23 Aug 2026 21:44:07 GMT",
-      "source": "톱스타뉴스",
       "score": 2
     },
     {
