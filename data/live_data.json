@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-24T10:29:57",
+  "generated_at": "2026-08-24T11:02:58",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.49,
-    "price_krw": 2055.79,
-    "price_change_24h": -0.37673,
-    "price_change_7d": 49.22925,
-    "price_change_30d": 36.6051,
-    "market_cap_usd": 93286994007,
+    "price_usd": 1.48,
+    "price_krw": 2053.17,
+    "price_change_24h": 0.31177,
+    "price_change_7d": 48.11321,
+    "price_change_30d": 36.00063,
+    "market_cap_usd": 93007535268,
     "market_cap_rank": 5,
-    "volume_24h": 4950203918,
+    "volume_24h": 4932555933,
     "circulating_supply": 62744504852.0,
     "total_supply": 99985627691.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 82.35,
-    "sentiment_votes_down": 17.65,
+    "sentiment_votes_up": 83.06,
+    "sentiment_votes_down": 16.94,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 52.86,
-    "recent_tps": 52.86,
-    "recent_tx_count": 4757,
+    "tps_24h_avg": 59.64,
+    "recent_tps": 59.64,
+    "recent_tx_count": 5368,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106509603,
+    "ledger_seq": 106510109,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-24 10:29:45 KST",
+    "updated_at": "2026-08-24 11:02:45 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 16890000,
     "total_net_inflow_usd": 16890000,
     "total_value_traded_usd": 16890000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/24 10:29",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/24 11:02",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -93,17 +93,17 @@
   ],
   "general_news": [
     {
+      "title": "리플 사장 모니카 롱 방한… XRP Seoul 2026, 10월 3일 용산서 개최",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkVjhVTnBIZmdhVGRtQnRJQzRMb2dUdmFqbXQ1QlFPZ3VicWt0UDNab3Fxc2pjcVBpNEltY0w0NEZpdVZReHd1anBKSFBxd3ItZnFCbGYyUHJneWN1Sm43MUF5RnNLSERBdmRUNnFWR3Q?oc=5",
+      "date": "Mon, 24 Aug 2026 08:38:51 GMT",
+      "source": "블록체인투데이",
+      "score": 2
+    },
+    {
       "title": "주식 팔고 코인? 리플, 일주일 새 47%↑…가상자산 거래량 10배 늘어",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42NzJ4Rks5ckYyNk9jajg1XzdfSkM2Yk8yTGRQbnZvSVNLR3cweFA3LVUtaDdYcWc3WnVHVEk1Rm9HY2xKY2VNb0U5SzZmbG9OOXI0OWNYNTliRUk3NzIyVVQxWUNMS0k?oc=5",
       "date": "Mon, 24 Aug 2026 06:10:00 GMT",
       "source": "한겨레",
-      "score": 2
-    },
-    {
-      "title": "일주일 새 47% 상승한 암호화폐(코인) 리플, 장기 조정 끝?... 곧 2달러 돌파할까",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yQ29mTExzRjA0dUVzUWhsV0JXQmpvVjMtNm1RVmFLdHAwX2gwX1VuVzlVY0hNQ1pSRWJwLWdJUF9BODdCa1RxbENQSVdNazVGTUFpeVdB?oc=5",
-      "date": "Mon, 24 Aug 2026 06:06:00 GMT",
-      "source": "위키트리",
       "score": 2
     },
     {
@@ -142,10 +142,10 @@
       "score": 3
     },
     {
-      "title": "리플 1.7달러 돌파 베팅 가열… 예측시장 칼시 자금 유입",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTVRBUkNlVGRrRjVGX3VUZHQtb2MxdmFwaGU0cnhXY0RyWFdmYjh6UVFQYlFTaENtN19LTnhJejYtY3h5bXQyRTBkYkkwUld4YmJkZy12bmZGVWZEZFhpTEh0dTdiSTg1eW1ybzIwTFBsWk9UbzZ3eU14UTJzYmlZWFNVQ2gyaTl0?oc=5",
-      "date": "Sun, 23 Aug 2026 22:04:07 GMT",
-      "source": "글로벌이코노믹",
+      "title": "리플 5% 뛰었다…비트코인 등 코인 동반 상승",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQM3A0bE5tMzBkMlFTbmlOT2FJcGpnOFQ3U240R1hHNFNaSTVnWVREM1AwRHpjS0VuY1FSUTNLY3NrdGQtazUtNnJNY3JoS2IzQlk0cA?oc=5",
+      "date": "Sun, 23 Aug 2026 22:25:00 GMT",
+      "source": "이투데이",
       "score": 2
     },
     {
