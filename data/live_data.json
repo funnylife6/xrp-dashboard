@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-24T04:21:34",
+  "generated_at": "2026-08-24T05:09:12",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.48,
-    "price_krw": 2040.51,
-    "price_change_24h": 0.59574,
-    "price_change_7d": 47.31,
-    "price_change_30d": 35.24128,
-    "market_cap_usd": 92636360371,
+    "price_usd": 1.47,
+    "price_krw": 2027.29,
+    "price_change_24h": 0.46518,
+    "price_change_7d": 46.7054,
+    "price_change_30d": 34.48127,
+    "market_cap_usd": 92280995504,
     "market_cap_rank": 5,
-    "volume_24h": 5619133225,
+    "volume_24h": 5437357555,
     "circulating_supply": 62744504852.0,
     "total_supply": 99985627691.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 82.56,
-    "sentiment_votes_down": 17.44,
+    "sentiment_votes_up": 82.76,
+    "sentiment_votes_down": 17.24,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 39.6,
-    "recent_tps": 39.6,
-    "recent_tx_count": 3564,
+    "tps_24h_avg": 52.36,
+    "recent_tps": 52.36,
+    "recent_tx_count": 4712,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106503950,
+    "ledger_seq": 106504682,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-24 04:21:21 KST",
+    "updated_at": "2026-08-24 05:09:07 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 16890000,
     "total_net_inflow_usd": 16890000,
     "total_value_traded_usd": 16890000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/24 04:21",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/24 05:09",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -93,13 +93,6 @@
   ],
   "general_news": [
     {
-      "title": "'불장' 돌아오나…비트코인 급등에 원화 거래소 활기",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tSjRRM0RYWFJCUHJQSVB0NEl0SzhNajIzd043NnRvWkloOHVzczZNRWJWM2hQVXRfYWFZcFlFSkxIU2Fqa0JsZnFUZXRFMEZ0enh0VWJ6bkR0U1XSAWBBVV95cUxNdUFLTjVMSklrZVB6YmZTdTZpUzVabVV1RHBMQVhQaHVsZThIUnNFMkE0MURhMHVxZ0lzSjBKZG1WSFlUNFhVQTVuYk1pSUN0MWJzS3FmQmw3MUFtYnhrSVU?oc=5",
-      "date": "Mon, 24 Aug 2026 02:43:42 GMT",
-      "source": "연합뉴스",
-      "score": 9
-    },
-    {
       "title": "리플 프라임 2억7500만달러 조달 성공…XRP 준비금이 신용도 변수",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1OR0UtNklfMzYzcVMwRXktZm5MNFd3eFBvejVBNTVKUDl0MmVUeUZ0YjNQMVJZYVRNSE45ZU5OUlNYbTkyM0NqMkZDU25oVnYwOUxJ?oc=5",
       "date": "Mon, 24 Aug 2026 02:42:06 GMT",
@@ -111,6 +104,13 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9KU3VzUG15cVlyWXJiRFFmV2ZaSFNveFY1Z0RFVDh3a1Z6TVctTGtxYlBEZFZReW5jRzlrUlBybXZMa1VmeVVRNjZFYUE5U1JIcEdYT2xDd1ZXQzg4X01vZ2tMZDgwQkkyQ2FnZzZaUlhCR3M?oc=5",
       "date": "Mon, 24 Aug 2026 02:00:59 GMT",
       "source": "디지털투데이",
+      "score": 2
+    },
+    {
+      "title": "수익 81.6% 줄어든 XRP 레저, 공급은 5.5% 늘었다",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSWjY2M3o1QXdjdnNYajlVSmZrMWlpNVhtZTZQcGtTZ0JlaVE2b0JPQTFJaTNFUnFjU2NsM3hvSzBwMFJ4ZnNOZDNaLVBCOXlkeWFuMU1MRHk4by13QzdYSNIBZkFVX3lxTFBmeEU3RlFwaXRSWHQ4UFhOZDVaMG9EVFF0R3VEdGNpdC1jbmdtT2F6MTJCZkQxS0lWTTAwNmJUZnNCcVFDc1NzeXRnVVZtNGRJRWs0dTBOUHpJOW14XzFDZlBDczZYUQ?oc=5",
+      "date": "Mon, 24 Aug 2026 01:48:28 GMT",
+      "source": "tokenpost.kr",
       "score": 2
     },
     {
@@ -135,6 +135,13 @@
       "score": 2
     },
     {
+      "title": "리플 CEO가 꼽은 XRP 가격 상승 가로막는 단 하나의 요인은?",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeXVVMHBpcGxrc25jbHV3N2NTQ1dQUEEwcTVnaVVDSHp6RDFOSE1BZWZhcktDQ1NXMU1aV0U2RWNCeVNZZkEwdjYwVUdpQmY0YjA0eWhwWV9RdUhQY1lPV2pZLTc1NmNjNmRaZjBSWWNwa0Q2NjlHaGlCVjF5Uy0zeHNfWnVPek03?oc=5",
+      "date": "Sun, 23 Aug 2026 21:44:13 GMT",
+      "source": "글로벌이코노믹",
+      "score": 2
+    },
+    {
       "title": "인터폴드 급등·오피셜트럼프 상승·리플XRP 상승…달러 약세에도 거래액↓",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qMGdUeDlkd3BWTzBOblcxaWczZl96ak4wRGFtZDc1QkZuVjJjZnZKTzJVWDJpTkFJbmJUbnJSak41WW5CQW5fbVhVUWVHYjU0aDNya0FJZHFLNEUwSXVITkN4elpTa1VLRFFrbVpGb3NMUQ?oc=5",
       "date": "Sun, 23 Aug 2026 21:44:07 GMT",
@@ -154,13 +161,6 @@
       "date": "Sun, 23 Aug 2026 11:13:46 GMT",
       "source": "CBC뉴스",
       "score": 2
-    },
-    {
-      "title": "리플(XRP) 3달러 확률 22%·0.75달러 추락 확률 17%…1.61달러가 분수령",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9UNDV3S0ZabVlWQlFScXlvWTQ4WGY4LUlJTWVDVEl5RUJoMTlmMlZXbmFTVUZvSWlKREVvQm5kNzRyQzBhaC1XbmlB?oc=5",
-      "date": "Sun, 23 Aug 2026 11:08:00 GMT",
-      "source": "코인리더스",
-      "score": 3
     }
   ]
 }
