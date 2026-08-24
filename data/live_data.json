@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-24T03:29:45",
+  "generated_at": "2026-08-24T04:21:34",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.48,
-    "price_krw": 2038.78,
-    "price_change_24h": -0.07482,
-    "price_change_7d": 47.50921,
-    "price_change_30d": 35.23274,
-    "market_cap_usd": 92700530930,
+    "price_krw": 2040.51,
+    "price_change_24h": 0.59574,
+    "price_change_7d": 47.31,
+    "price_change_30d": 35.24128,
+    "market_cap_usd": 92636360371,
     "market_cap_rank": 5,
-    "volume_24h": 5438763151,
+    "volume_24h": 5619133225,
     "circulating_supply": 62744504852.0,
     "total_supply": 99985627691.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 81.92,
-    "sentiment_votes_down": 18.08,
+    "sentiment_votes_up": 82.56,
+    "sentiment_votes_down": 17.44,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 42.59,
-    "recent_tps": 42.59,
-    "recent_tx_count": 3833,
+    "tps_24h_avg": 39.6,
+    "recent_tps": 39.6,
+    "recent_tx_count": 3564,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106503150,
+    "ledger_seq": 106503950,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-24 03:29:29 KST",
+    "updated_at": "2026-08-24 04:21:21 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 16890000,
     "total_net_inflow_usd": 16890000,
     "total_value_traded_usd": 16890000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/24 03:29",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/24 04:21",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -60,6 +60,13 @@
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAyU3VONXFTYzhGUF8waEdYNC00dXd2Zzd2YzYySGFzVkFhY0xpMkN5MkdHZ1JEV0VmVnFtMnp3NEJTaDV5X0xsTGln?oc=5",
       "date": "Mon, 24 Aug 2026 00:50:00 GMT",
       "source": "코인리더스",
+      "score": 0
+    },
+    {
+      "title": "XRP 현물 ETF 지난주 순유입 3978 만 800 달러",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EVEtoUkR1V0xMNUFjb3hudjFHbFdOd1duWVU3VmozTjZheWxYWEMtV3JHSlQ2bkdlZno4SzB1MXB4UWV1aWdSSzRubExvZVNyWEsyckN3?oc=5",
+      "date": "Sun, 23 Aug 2026 11:18:00 GMT",
+      "source": "odaily.news",
       "score": 0
     },
     {
@@ -81,13 +88,6 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOFkyNFR2WUNBM25CU3h1WElVLVhvUk1nNXBTWlROSS01LTdkczVvN1JsYWxTRWRoZ1RjTXc4Z1FaVU85MkJqVWdjS292RlFyU1hPLTVDRHlVb3hrSVVHdG92VE1xbDgxR0hzR2tOZC1ydDUtdkdaMmxkcUxBVEdtY19UUnlhcGcwZUk2bmo5NDRYdw?oc=5",
       "date": "Sat, 22 Aug 2026 04:01:50 GMT",
       "source": "TradingKey",
-      "score": 0
-    },
-    {
-      "title": "미 리플 현물 ETF, 하루 만에 256억 원 순유입… 비트와이즈 주도",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE50UWNxMlBDSEhKdzhLZHBDUXdVUUJCV1prVG51a19oMGRTT0xiTmxaOGN0Umk1V1ZMNWVabkt2V1JrRjVVdmdEQmg1M1BHamt4WWhyOHNQcURLTUhwckI3LXdBR05sSHJlLVFVdm1n?oc=5",
-      "date": "Sat, 22 Aug 2026 01:42:22 GMT",
-      "source": "gukjenews.com",
       "score": 0
     }
   ],
@@ -135,10 +135,10 @@
       "score": 2
     },
     {
-      "title": "리플 CEO가 꼽은 XRP 가격 상승 가로막는 단 하나의 요인은?",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeXVVMHBpcGxrc25jbHV3N2NTQ1dQUEEwcTVnaVVDSHp6RDFOSE1BZWZhcktDQ1NXMU1aV0U2RWNCeVNZZkEwdjYwVUdpQmY0YjA0eWhwWV9RdUhQY1lPV2pZLTc1NmNjNmRaZjBSWWNwa0Q2NjlHaGlCVjF5Uy0zeHNfWnVPek03?oc=5",
-      "date": "Sun, 23 Aug 2026 21:44:13 GMT",
-      "source": "글로벌이코노믹",
+      "title": "인터폴드 급등·오피셜트럼프 상승·리플XRP 상승…달러 약세에도 거래액↓",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qMGdUeDlkd3BWTzBOblcxaWczZl96ak4wRGFtZDc1QkZuVjJjZnZKTzJVWDJpTkFJbmJUbnJSak41WW5CQW5fbVhVUWVHYjU0aDNya0FJZHFLNEUwSXVITkN4elpTa1VLRFFrbVpGb3NMUQ?oc=5",
+      "date": "Sun, 23 Aug 2026 21:44:07 GMT",
+      "source": "톱스타뉴스",
       "score": 2
     },
     {
