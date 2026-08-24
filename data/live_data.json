@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-24T20:20:51",
+  "generated_at": "2026-08-24T20:56:29",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.47,
-    "price_krw": 2033.72,
-    "price_change_24h": -2.00057,
-    "price_change_7d": 47.11024,
-    "price_change_30d": 33.78366,
-    "market_cap_usd": 92338629696,
+    "price_krw": 2039.55,
+    "price_change_24h": -1.62829,
+    "price_change_7d": 47.50928,
+    "price_change_30d": 34.14655,
+    "market_cap_usd": 92535723238,
     "market_cap_rank": 5,
-    "volume_24h": 5558509952,
+    "volume_24h": 6158372905,
     "circulating_supply": 62744504852.0,
     "total_supply": 99985627691.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 82.04,
-    "sentiment_votes_down": 17.96,
+    "sentiment_votes_up": 80.72,
+    "sentiment_votes_down": 19.28,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 42.36,
-    "recent_tps": 42.36,
-    "recent_tx_count": 3812,
+    "tps_24h_avg": 38.76,
+    "recent_tps": 38.76,
+    "recent_tx_count": 3488,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106518667,
+    "ledger_seq": 106519218,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-24 20:20:42 KST",
+    "updated_at": "2026-08-24 20:56:23 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,14 +43,14 @@
     "aum_usd": 16890000,
     "total_net_inflow_usd": 16890000,
     "total_value_traded_usd": 16890000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/24 20:20",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/24 20:56",
     "data_source": "sosovalue",
     "partial": true
   },
   "etf_news": [
     {
       "title": "리플(XRP), 일주일 새 50% 뛰었다…ETF 자금 유입에 상승세 이어질까",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVc2tHSlRNLWtvRkViVDlJREE0X1FSYk84NWVObjZpMmJ3VDlTMkhaYTVnWFpYbmZNMjR1a3dSVUdhZzdjaFNBRjZFTm55X21fZ1NJZlIxREFYbWc3dGVkSFBURVdNY0Ft?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5HUUlURl9vS3Z5WDlLYU9pYU5pVUpYZ2x6d0lnQVhnWmpQWmdHWFp3OWRiQ3JpMDBiMEVtbGNMSy1qWDZNQTU0aXJNenJFd3dnbDYxV18zYXdESDc3SFpiZFc2SWRlT0E?oc=5",
       "date": "Mon, 24 Aug 2026 16:15:00 GMT",
       "source": "CBC뉴스",
       "score": 0
@@ -93,15 +93,8 @@
   ],
   "general_news": [
     {
-      "title": "73% 폭락 딛고 40% 반등… 리플, 1.7달러 돌파 가능성에 '촉각'",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQU9JSGFvNEtNb19CMGRSeWhFemRaOUtwamhZb1h6aVZ6U2pkdE1RbTRHNlNWTV81dzZLemY4RmtzamRMdGphOEF5eHBIU0dxZmZjM2NoRFZYYXduVXAwZXMyWnF3NGhNTEdyQTlDRmkxZHNPWHQ0QVlLUFNFOUZwcTZqYmdNUXJy?oc=5",
-      "date": "Mon, 24 Aug 2026 18:28:02 GMT",
-      "source": "글로벌이코노믹",
-      "score": 2
-    },
-    {
       "title": "리플(XRP), 일주일 새 50% 뛰었다…ETF 자금 유입에 상승세 이어질까",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVc2tHSlRNLWtvRkViVDlJREE0X1FSYk84NWVObjZpMmJ3VDlTMkhaYTVnWFpYbmZNMjR1a3dSVUdhZzdjaFNBRjZFTm55X21fZ1NJZlIxREFYbWc3dGVkSFBURVdNY0Ft?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5HUUlURl9vS3Z5WDlLYU9pYU5pVUpYZ2x6d0lnQVhnWmpQWmdHWFp3OWRiQ3JpMDBiMEVtbGNMSy1qWDZNQTU0aXJNenJFd3dnbDYxV18zYXdESDc3SFpiZFc2SWRlT0E?oc=5",
       "date": "Mon, 24 Aug 2026 16:15:00 GMT",
       "source": "CBC뉴스",
       "score": 3
@@ -160,6 +153,13 @@
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQM3A0bE5tMzBkMlFTbmlOT2FJcGpnOFQ3U240R1hHNFNaSTVnWVREM1AwRHpjS0VuY1FSUTNLY3NrdGQtazUtNnJNY3JoS2IzQlk0cA?oc=5",
       "date": "Sun, 23 Aug 2026 22:25:00 GMT",
       "source": "이투데이",
+      "score": 2
+    },
+    {
+      "title": "리플 CEO가 꼽은 XRP 가격 상승 가로막는 단 하나의 요인은?",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeXVVMHBpcGxrc25jbHV3N2NTQ1dQUEEwcTVnaVVDSHp6RDFOSE1BZWZhcktDQ1NXMU1aV0U2RWNCeVNZZkEwdjYwVUdpQmY0YjA0eWhwWV9RdUhQY1lPV2pZLTc1NmNjNmRaZjBSWWNwa0Q2NjlHaGlCVjF5Uy0zeHNfWnVPek03?oc=5",
+      "date": "Sun, 23 Aug 2026 21:44:13 GMT",
+      "source": "글로벌이코노믹",
       "score": 2
     }
   ]
