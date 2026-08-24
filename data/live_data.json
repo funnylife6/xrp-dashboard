@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-24T21:23:03",
+  "generated_at": "2026-08-24T21:51:51",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.48,
-    "price_krw": 2048.36,
-    "price_change_24h": -3.22785,
-    "price_change_7d": 47.90795,
-    "price_change_30d": 35.11149,
-    "market_cap_usd": 93057110612,
+    "price_krw": 2047.72,
+    "price_change_24h": -3.05407,
+    "price_change_7d": 47.73763,
+    "price_change_30d": 34.95591,
+    "market_cap_usd": 92941933427,
     "market_cap_rank": 5,
-    "volume_24h": 6138264571,
+    "volume_24h": 6024115985,
     "circulating_supply": 62744504852.0,
     "total_supply": 99985627691.0,
     "ath_usd": 3.65,
@@ -22,16 +22,16 @@
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 42.02,
-    "recent_tps": 42.02,
-    "recent_tx_count": 3782,
+    "tps_24h_avg": 37.3,
+    "recent_tps": 37.3,
+    "recent_tx_count": 3357,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106519628,
+    "ledger_seq": 106520069,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-24 21:22:57 KST",
+    "updated_at": "2026-08-24 21:51:39 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,14 +43,14 @@
     "aum_usd": 16890000,
     "total_net_inflow_usd": 16890000,
     "total_value_traded_usd": 16890000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/24 21:23",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/24 21:51",
     "data_source": "sosovalue",
     "partial": true
   },
   "etf_news": [
     {
       "title": "리플(XRP), 일주일 새 50% 뛰었다…ETF 자금 유입에 상승세 이어질까",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5HUUlURl9vS3Z5WDlLYU9pYU5pVUpYZ2x6d0lnQVhnWmpQWmdHWFp3OWRiQ3JpMDBiMEVtbGNMSy1qWDZNQTU0aXJNenJFd3dnbDYxV18zYXdESDc3SFpiZFc2SWRlT0E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVc2tHSlRNLWtvRkViVDlJREE0X1FSYk84NWVObjZpMmJ3VDlTMkhaYTVnWFpYbmZNMjR1a3dSVUdhZzdjaFNBRjZFTm55X21fZ1NJZlIxREFYbWc3dGVkSFBURVdNY0Ft?oc=5",
       "date": "Mon, 24 Aug 2026 16:15:00 GMT",
       "source": "CBC뉴스",
       "score": 0
@@ -94,7 +94,7 @@
   "general_news": [
     {
       "title": "리플(XRP), 일주일 새 50% 뛰었다…ETF 자금 유입에 상승세 이어질까",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5HUUlURl9vS3Z5WDlLYU9pYU5pVUpYZ2x6d0lnQVhnWmpQWmdHWFp3OWRiQ3JpMDBiMEVtbGNMSy1qWDZNQTU0aXJNenJFd3dnbDYxV18zYXdESDc3SFpiZFc2SWRlT0E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVc2tHSlRNLWtvRkViVDlJREE0X1FSYk84NWVObjZpMmJ3VDlTMkhaYTVnWFpYbmZNMjR1a3dSVUdhZzdjaFNBRjZFTm55X21fZ1NJZlIxREFYbWc3dGVkSFBURVdNY0Ft?oc=5",
       "date": "Mon, 24 Aug 2026 16:15:00 GMT",
       "source": "CBC뉴스",
       "score": 3
