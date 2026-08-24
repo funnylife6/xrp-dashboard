@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-23T23:43:00",
+  "generated_at": "2026-08-24T00:48:37",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.52,
-    "price_krw": 2104.63,
-    "price_change_24h": 3.86495,
-    "price_change_7d": 52.80975,
-    "price_change_30d": 39.10353,
-    "market_cap_usd": 95217721875,
-    "market_cap_rank": 4,
-    "volume_24h": 5317000403,
+    "price_usd": 1.49,
+    "price_krw": 2055.02,
+    "price_change_24h": 0.69627,
+    "price_change_7d": 49.73731,
+    "price_change_30d": 36.20286,
+    "market_cap_usd": 93324455588,
+    "market_cap_rank": 5,
+    "volume_24h": 5707462373,
     "circulating_supply": 62744504852.0,
     "total_supply": 99985627691.0,
     "ath_usd": 3.65,
@@ -22,16 +22,16 @@
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 33.02,
-    "recent_tps": 33.02,
-    "recent_tx_count": 2708,
-    "recent_ledger_count": 15,
-    "recent_window_sec": 82,
-    "ledger_seq": 106499667,
+    "tps_24h_avg": 42.79,
+    "recent_tps": 42.79,
+    "recent_tx_count": 3851,
+    "recent_ledger_count": 24,
+    "recent_window_sec": 90,
+    "ledger_seq": 106500676,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-23 23:42:51 KST",
+    "updated_at": "2026-08-24 00:48:24 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 16890000,
     "total_net_inflow_usd": 16890000,
     "total_value_traded_usd": 16890000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/23 23:42",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/24 00:48",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -84,21 +84,14 @@
       "score": 0
     },
     {
-      "title": "Ripple XRP(XRPUSD) 종목이 8월21일에 변동성이 심화되었습니다. 무엇을 주의해야 할까요?",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbHNONjVFQlp0TzJ1U0lBYW91a0dwczQ4ck1aLTBLT1hpRURyZDFzM3JYM2tSU0liZmtRanhnalkzNEpLRXlJS05CWGUzZnFmSTNveUl2dDNZd0NRRU9vMl9HOXZqRU8zMTF3SGVaZ18yMEYxNFB0X2dQbnJ6QUhXVGRUZHR5MHBaSUYwLTRTdDFKZw?oc=5",
-      "date": "Fri, 21 Aug 2026 04:00:51 GMT",
-      "source": "TradingKey",
+      "title": "골드만삭스, XRP ETF 8650만달러 재매수…최대 기관으로",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9GaDZ6cjhMbG90ajA0RUZSZ3l0U0ZzWUptWTQySU50aFd5M3pBOHE3QlFoYXB5eGs3N216VkQ0cUJxYXd4RzNMdWxlZzduelFIdUNLRzB6YXk?oc=5",
+      "date": "Fri, 21 Aug 2026 17:29:00 GMT",
+      "source": "블록미디어",
       "score": 0
     }
   ],
   "general_news": [
-    {
-      "title": "21개월 만의 최대 상승! 엑스알피(리플)에 무슨 일이 벌어졌나",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1sY2JDbTZTMUtxZFBVTTloeWF0UUN5WU1IOHNEWS1jcFN1RWRNT096b0VZNmNKOFAyLXV6R1J6ZS1LV2FSQVVNaVFR?oc=5",
-      "date": "Sun, 23 Aug 2026 22:55:00 GMT",
-      "source": "코인리더스",
-      "score": 2
-    },
     {
       "title": "리플 5% 뛰었다…비트코인 등 코인 동반 상승",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQM3A0bE5tMzBkMlFTbmlOT2FJcGpnOFQ3U240R1hHNFNaSTVnWVREM1AwRHpjS0VuY1FSUTNLY3NrdGQtazUtNnJNY3JoS2IzQlk0cA?oc=5",
@@ -159,6 +152,13 @@
       "title": "속보 | BTC $77,000 상회",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5xbU43TlJLa1ctMzBzaEhxOE80SDBOMVpPcGZDSE5rWFprdGdGWll6WUQ1ZHVYLXFwcmNkRExJQ2MtdmxiUUdJR0FfMll5X0hN?oc=5",
       "date": "Sat, 22 Aug 2026 19:20:00 GMT",
+      "source": "CoinNess",
+      "score": 8
+    },
+    {
+      "title": "속보 | 코인니스 커뮤니티 주간 인기글",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB3dzY3RHQ0dGFjeXJ1R1dyWHVSTzRaRnBiQVdodGVXTHY2WWY0M3pPZjJ0T0lvOHVJNUZJNGJyUkpYWjdwcVQ4VGtOM0U0cXQ0?oc=5",
+      "date": "Sat, 22 Aug 2026 19:00:00 GMT",
       "source": "CoinNess",
       "score": 8
     }
