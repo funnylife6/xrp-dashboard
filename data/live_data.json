@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-25T17:53:02",
+  "generated_at": "2026-08-25T18:27:21",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.47,
-    "price_krw": 2038.63,
-    "price_change_24h": -0.15048,
-    "price_change_7d": 47.37614,
-    "price_change_30d": 33.78644,
-    "market_cap_usd": 92495521431,
+    "price_usd": 1.48,
+    "price_krw": 2048.53,
+    "price_change_24h": -0.23841,
+    "price_change_7d": 48.13869,
+    "price_change_30d": 34.51235,
+    "market_cap_usd": 92951968007,
     "market_cap_rank": 5,
-    "volume_24h": 4583609446,
+    "volume_24h": 4523984196,
     "circulating_supply": 62744504852.0,
     "total_supply": 99985627691.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 81.82,
-    "sentiment_votes_down": 18.18,
+    "sentiment_votes_up": 81.46,
+    "sentiment_votes_down": 18.54,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 23.94,
-    "recent_tps": 23.94,
-    "recent_tx_count": 2155,
+    "tps_24h_avg": 21.43,
+    "recent_tps": 21.43,
+    "recent_tx_count": 1929,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106538557,
+    "ledger_seq": 106539087,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-25 17:52:46 KST",
+    "updated_at": "2026-08-25 18:27:07 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 8250000,
     "total_net_inflow_usd": 8250000,
     "total_value_traded_usd": 8250000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/25 17:52",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/25 18:27",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -78,7 +78,7 @@
     },
     {
       "title": "리플(XRP) 2083원, 2%대 상승…글로벌 1.5달러선 회복",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGZTNIcmcwNldXSXJEX2prQXlXRDNhWUphemFqN0c4V3VlcXFsaTZyOUNkUnlZbUVYN2E5bG55QVdqYnFvb2R0bGt3blFLNVY2NV9FTVlna21PRGtxclFBU2V3bXU5TWM2SlR3NkJZbmY3d9IBckFVX3lxTFBGZTNIcmcwNldXSXJEX2prQXlXRDNhWUphemFqN0c4V3VlcXFsaTZyOUNkUnlZbUVYN2E5bG55QVdqYnFvb2R0bGt3blFLNVY2NV9FTVlna21PRGtxclFBU2V3bXU5TWM2SlR3NkJZbmY3dw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fcUE0eGJUeDhxU2RjWWs5d3dkbld3ckUwaDRoMGtjZTVpYVBKSGpCMEplb3pkMWItR0puUlJoM3NmRVhyc3ZNbTNRUGlRX3hScG5UU2VodDRVTFZzQ296WGdCM1d3cldNR29PZGJB0gFyQVVfeXFMUEZlM0hyZzA2V1dJckRfamtBeVdEM2FZSmF6YWo3RzhXdWVxcWxpNnI5Q2RSeVltRVg3YTlsbnlBV2picW9vZHRsa3duUUs1VjY1X0VNWWdrbU9Ea3FyUUFTZXdtdTlNYzZKVHc2QlluZjd3?oc=5",
       "date": "Tue, 25 Aug 2026 04:53:43 GMT",
       "source": "잡포스트",
       "score": 0
@@ -92,6 +92,13 @@
     }
   ],
   "general_news": [
+    {
+      "title": "리플 XRP, 활성 주소 659% 폭증…1.5달러 지키며 온체인 수요 확대",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBiSlR3d01Sdm9XVXVlUzFXd05rYWNSYUs3dXROS0c5SU5HWTRwZmRYRXFYVk85UXo4MVNqRjV0NU1JbkgxazNuZGQwRzJuTHZKRVdJOE1KRVJscFFtQXZFTUEyTVlJU2tBNW1STzhzS19yQQ?oc=5",
+      "date": "Tue, 25 Aug 2026 13:14:29 GMT",
+      "source": "톱스타뉴스",
+      "score": 2
+    },
     {
       "title": "리플 50% 급등에 1.54달러 터치… 1.55달러 저항 돌파가 분수령",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vXy0tM1NfM2VsRmwtUWFWSEFPM3B0LUdmeENSdWwySWRpbFlyTFpvb0JMekJOalpvd1lkcWN2UnJVeGNETlFCNWY3b283TDIzXy1JTmdNa3Y2akNZN0VsSUpiSGtSUEZaLWROQS13MmI?oc=5",
@@ -118,13 +125,6 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1QWE5wMjdUaF8wWEVkNW5pREYwQUtlWlBQZHJTbGdJTVJmRlhldW9YZklpbllleUxTcXVkdnNoQmFReVRnUW9tQ0owMTliSXV0d0hJTXpReW1OVXVzSVY1Q0lXQWVDcnhLQ3YxZjBVUUtxQQ?oc=5",
       "date": "Tue, 25 Aug 2026 06:01:46 GMT",
       "source": "톱스타뉴스",
-      "score": 3
-    },
-    {
-      "title": "리플(XRP) 2083원, 2%대 상승…글로벌 1.5달러선 회복",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGZTNIcmcwNldXSXJEX2prQXlXRDNhWUphemFqN0c4V3VlcXFsaTZyOUNkUnlZbUVYN2E5bG55QVdqYnFvb2R0bGt3blFLNVY2NV9FTVlna21PRGtxclFBU2V3bXU5TWM2SlR3NkJZbmY3d9IBckFVX3lxTFBGZTNIcmcwNldXSXJEX2prQXlXRDNhWUphemFqN0c4V3VlcXFsaTZyOUNkUnlZbUVYN2E5bG55QVdqYnFvb2R0bGt3blFLNVY2NV9FTVlna21PRGtxclFBU2V3bXU5TWM2SlR3NkJZbmY3dw?oc=5",
-      "date": "Tue, 25 Aug 2026 04:53:43 GMT",
-      "source": "잡포스트",
       "score": 3
     },
     {
