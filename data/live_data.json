@@ -1,50 +1,51 @@
 {
-  "generated_at": "2026-08-24T23:43:45",
+  "generated_at": "2026-08-25T00:47:56",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.48,
-    "price_krw": 2046.92,
-    "price_change_24h": -2.47694,
-    "price_change_7d": 48.19788,
-    "price_change_30d": 34.66556,
-    "market_cap_usd": 92953711722,
-    "market_cap_rank": 5,
-    "volume_24h": 5818780805,
+    "price_usd": 1.51,
+    "price_krw": 2087.24,
+    "price_change_24h": 1.76332,
+    "price_change_7d": 50.68342,
+    "price_change_30d": 37.64236,
+    "market_cap_usd": 94563283759,
+    "market_cap_rank": 4,
+    "volume_24h": 5847432875,
     "circulating_supply": 62744504852.0,
     "total_supply": 99985627691.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 81.48,
-    "sentiment_votes_down": 18.52,
+    "sentiment_votes_up": 81.88,
+    "sentiment_votes_down": 18.13,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 29.87,
-    "recent_tps": 29.87,
-    "recent_tx_count": 2688,
+    "tps_24h_avg": 57.15,
+    "recent_tps": 57.15,
+    "recent_tx_count": 5201,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 106521794,
+    "recent_window_sec": 91,
+    "ledger_seq": 106522782,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-24 23:43:32 KST",
+    "updated_at": "2026-08-25 00:47:43 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
   },
   "etf_flow": {
-    "approved_count": 0,
+    "approved_count": 4,
     "daily_inflow_usd": 0,
     "weekly_inflow_usd": 0,
-    "aum_usd": 0,
-    "total_net_inflow_usd": 0,
-    "total_value_traded_usd": 0,
-    "updated_at": "뉴스 자동 파싱 대기",
-    "data_source": "news_parse"
+    "aum_usd": 8250000,
+    "total_net_inflow_usd": 8250000,
+    "total_value_traded_usd": 8250000,
+    "updated_at": "SoSoValue 순유입 부분 수집 08/25 00:47",
+    "data_source": "sosovalue",
+    "partial": true
   },
   "etf_news": [
     {
@@ -155,11 +156,11 @@
       "score": 2
     },
     {
-      "title": "RLUSD 발행·동결 권한 따로 맡기나…XRPL 개정안 표결 돌입",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9KU3VzUG15cVlyWXJiRFFmV2ZaSFNveFY1Z0RFVDh3a1Z6TVctTGtxYlBEZFZReW5jRzlrUlBybXZMa1VmeVVRNjZFYUE5U1JIcEdYT2xDd1ZXQzg4X01vZ2tMZDgwQkkyQ2FnZzZaUlhCR3M?oc=5",
-      "date": "Mon, 24 Aug 2026 02:00:59 GMT",
-      "source": "디지털투데이",
-      "score": 2
+      "title": "업비트 거래대금 210% 폭증…리플(XRP) 48% 급등에 ‘탐욕 장세’ 과열 경고",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5DRnpZTHZDaU9Wbm5BYXBBXzNKM2FIMlczT2pTV0xIQXFud0dfNE5vc3ZVQUNzdEpNYXJrNW5qNTlJTENmR0lYTE5n?oc=5",
+      "date": "Mon, 24 Aug 2026 00:46:00 GMT",
+      "source": "코인리더스",
+      "score": 3
     }
   ]
 }
