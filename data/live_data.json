@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-25T05:55:50",
+  "generated_at": "2026-08-25T06:33:17",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.52,
-    "price_krw": 2108.73,
-    "price_change_24h": 3.19616,
-    "price_change_7d": 53.20012,
-    "price_change_30d": 38.37744,
-    "market_cap_usd": 95604333650,
-    "market_cap_rank": 4,
-    "volume_24h": 5845700596,
+    "price_usd": 1.51,
+    "price_krw": 2098.65,
+    "price_change_24h": 2.30269,
+    "price_change_7d": 52.33427,
+    "price_change_30d": 37.82789,
+    "market_cap_usd": 94982501509,
+    "market_cap_rank": 5,
+    "volume_24h": 5371167538,
     "circulating_supply": 62744504852.0,
     "total_supply": 99985627691.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 81.07,
-    "sentiment_votes_down": 18.93,
+    "sentiment_votes_up": 80.12,
+    "sentiment_votes_down": 19.88,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 40.72,
-    "recent_tps": 40.72,
-    "recent_tx_count": 3665,
+    "tps_24h_avg": 44.5,
+    "recent_tps": 44.5,
+    "recent_tx_count": 4005,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106527523,
+    "ledger_seq": 106528099,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-25 05:55:41 KST",
+    "updated_at": "2026-08-25 06:33:09 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,11 +43,18 @@
     "aum_usd": 8250000,
     "total_net_inflow_usd": 8250000,
     "total_value_traded_usd": 8250000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/25 05:55",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/25 06:33",
     "data_source": "sosovalue",
     "partial": true
   },
   "etf_news": [
+    {
+      "title": "리플 XRP ETF 거래 폭발…비트와이즈 3일간 2억 달러 돌파",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1QWE5wMjdUaF8wWEVkNW5pREYwQUtlWlBQZHJTbGdJTVJmRlhldW9YZklpbllleUxTcXVkdnNoQmFReVRnUW9tQ0owMTliSXV0d0hJTXpReW1OVXVzSVY1Q0lXQWVDcnhLQ3YxZjBVUUtxQQ?oc=5",
+      "date": "Tue, 25 Aug 2026 06:01:46 GMT",
+      "source": "톱스타뉴스",
+      "score": 0
+    },
     {
       "title": "엑스알피(XRP), 5월 이후 ETF 최대 유입...70% 폭등 더 가나",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBFZHBCdGh4cFpVdFAyeHVuS29NZ1M2UzYwOXVDcGUtdTNQVmpkdnU2VVhsM1p5WjJLMVZwelBMVW95QVhuQ0hucm93?oc=5",
@@ -82,28 +89,21 @@
       "date": "Mon, 24 Aug 2026 09:18:41 GMT",
       "source": "BeInCrypto",
       "score": 0
-    },
-    {
-      "title": "XRP 현물 ETF 지난주 순유입 3978.08만 달러",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBQTZkaGJGcWRlNkRDNzlHVklDcEVNTDRCOWE1YnIzYnM2d2Q4VFU4MGpaZjdQZUVDa25QVHBQQjhRVnlDRjJZLWtEa09UQWJkVjBkVm1keUNZMUQ3YlhibG55S1NEdnZVeC02c1NCYXh5TGhUNWJYT19jbFRQOFk?oc=5",
-      "date": "Mon, 24 Aug 2026 04:54:51 GMT",
-      "source": "PANews",
-      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "리플 XRP ETF 거래 폭발…비트와이즈 3일간 2억 달러 돌파",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1QWE5wMjdUaF8wWEVkNW5pREYwQUtlWlBQZHJTbGdJTVJmRlhldW9YZklpbllleUxTcXVkdnNoQmFReVRnUW9tQ0owMTliSXV0d0hJTXpReW1OVXVzSVY1Q0lXQWVDcnhLQ3YxZjBVUUtxQQ?oc=5",
+      "date": "Tue, 25 Aug 2026 06:01:46 GMT",
+      "source": "톱스타뉴스",
+      "score": 3
+    },
     {
       "title": "XRP, SBI-리플 금융 레일 타고 일본·아시아 전역 영토 확장",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQTFOTUg5Vng1OGUycVN4WmFxd0JpYkI3bDVPbUtqMFdiWWN0YmNwUThkUC1MLXpDWDIxTVZBWEFfTlgxMHg4dkx4OVFKQjUtcDg4S0NESTR5SW9wOGRHTHVRSjQzNjRiTldzTWt4LVB4VlMxYjRwVEdDb0duLWVPa1ZKb0o1VGI0?oc=5",
       "date": "Tue, 25 Aug 2026 05:49:41 GMT",
       "source": "글로벌이코노믹",
-      "score": 2
-    },
-    {
-      "title": "프롬 급등·리플XRP 2.16%↓·비트코인 1.74%↑…미 국채금리 4.7%",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zQkdlTGQwU2x5UWZkX1JSblZVbzByRW4yNEZJTU05REl4TU4ydEFPWUsxcDdRR1pIMVZEWG1QT3JSRUdWZXdwa21iMERYcWxiVmRQeEp4SEZlRGlsSHlNNHQtd29ZYUd5VHNwOEpGdGltQQ?oc=5",
-      "date": "Mon, 24 Aug 2026 22:08:16 GMT",
-      "source": "톱스타뉴스",
       "score": 2
     },
     {
