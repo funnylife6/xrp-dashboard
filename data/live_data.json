@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-25T23:18:18",
+  "generated_at": "2026-08-25T23:46:46",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.45,
-    "price_krw": 1998.3,
-    "price_change_24h": -1.99017,
-    "price_change_7d": 44.41064,
-    "price_change_30d": 30.03666,
-    "market_cap_usd": 90704801206,
+    "price_usd": 1.43,
+    "price_krw": 1980.2,
+    "price_change_24h": -3.34466,
+    "price_change_7d": 43.1201,
+    "price_change_30d": 28.87458,
+    "market_cap_usd": 89897843026,
     "market_cap_rank": 5,
-    "volume_24h": 4109136296,
+    "volume_24h": 4347934823,
     "circulating_supply": 62744504852.0,
     "total_supply": 99985627691.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 79.59,
-    "sentiment_votes_down": 20.41,
+    "sentiment_votes_up": 79.73,
+    "sentiment_votes_down": 20.27,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 28.68,
-    "recent_tps": 28.68,
-    "recent_tx_count": 2581,
+    "tps_24h_avg": 27.29,
+    "recent_tps": 27.29,
+    "recent_tx_count": 2456,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106543547,
+    "ledger_seq": 106543984,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-25 23:18:11 KST",
+    "updated_at": "2026-08-25 23:46:34 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -99,6 +99,13 @@
       "score": 4
     },
     {
+      "title": "리플 CEO \"스위프트와 실질적 협력 방안 존재\"…대체 넘어 공존 모색",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYkh4Tnh1SS1Fb2ZxN3ZySGkwRElUQVlKZU8zM1Z1OGoza3lMTjRiYXRGTDF0ZU1ORTgxMENrX05sRUphM0tEVnVhS1JUTE14OW1XQ01zajNEVDZPeW1jbVBSbzlQRFhnVWtNR0tKVVdWZ1dwWHpCbEhkd3V4Z1d1SzBtaFJmcVpC?oc=5",
+      "date": "Tue, 25 Aug 2026 22:04:55 GMT",
+      "source": "글로벌이코노믹",
+      "score": 2
+    },
+    {
       "title": "[인터뷰] “AI가 XRP로 커피 사는 시대 온다” t54, 리플·마스터카드와 ‘에이전틱 결제’ 확장",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaSjNQcG15TWl4eGp3SWgtSlFZc0ZzcGZxY1ZkbFhTdDRHTGlmM2FYZENuSXFIUWxkaGNPbERsNHRZTlJyRzZIN0UtaWs2a3BFV1I4bg?oc=5",
       "date": "Tue, 25 Aug 2026 21:00:00 GMT",
@@ -106,18 +113,18 @@
       "score": 2
     },
     {
+      "title": "리플(XRP) 역사상 세 번째 골든크로스 임박…과거 500% 급등 재현될까",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE55SGZEeVI4NlBpZkc0VU9YTHk0R1ktMEhKOFVMTk1XN0p4UGV6NDBXcVRndXR4N1JuTmE5di1XLU9EZHFUR0hzQW9n?oc=5",
+      "date": "Tue, 25 Aug 2026 12:11:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
       "title": "리플 50% 급등에 1.54달러 터치… 1.55달러 저항 돌파가 분수령",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vXy0tM1NfM2VsRmwtUWFWSEFPM3B0LUdmeENSdWwySWRpbFlyTFpvb0JMekJOalpvd1lkcWN2UnJVeGNETlFCNWY3b283TDIzXy1JTmdNa3Y2akNZN0VsSUpiSGtSUEZaLWROQS13MmI?oc=5",
       "date": "Tue, 25 Aug 2026 08:49:20 GMT",
       "source": "블록체인투데이",
-      "score": 2
-    },
-    {
-      "title": "제미니, 싱가포르 XRP 입출금 지원 재공지",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VLXk0aTFKWGZkcGZjR3dBeGN4c3c2bVZFS25qRkVOdGpyYnFIRml2cEwxbVZHV3hMdWFmNkVVWUtDQnpHbG1wdGV5OGNIMUttWGJuVFotYkpMU2ZoZUpzb9IBZkFVX3lxTE9Ia3FXcnMzajRucGRFV2ZuWTBNTmw2WUR2S2x0UUgzSG9BRm1GUFB1cHpOb1EzQkdyaWp1M2RpQ2VQV0FHbl9yQUtxNUt5YUVobkt5QmZtUk10NURNSENQNGhNZHJkUQ?oc=5",
-      "date": "Tue, 25 Aug 2026 06:46:14 GMT",
-      "source": "tokenpost.kr",
-      "score": 2
+      "score": 3
     },
     {
       "title": "골드만삭스, 리플 XRP ETF 1,199억원 보유…1분기 청산 뒤 재진입",
@@ -153,13 +160,6 @@
       "date": "Mon, 24 Aug 2026 15:27:00 GMT",
       "source": "위키트리",
       "score": 2
-    },
-    {
-      "title": "속보 | 스트래티지, BTC $40억 수익 중",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9FV2hDRHRqbHlRS0dNSHNzRjVIT2pPWm0yWFFaNk5kRnV2aGk2VGhzRkRUUkVmLVJEM2hPREVfRWxialpsSjM0SktOTnJ4VlZi?oc=5",
-      "date": "Mon, 24 Aug 2026 11:08:00 GMT",
-      "source": "CoinNess",
-      "score": 8
     }
   ]
 }
