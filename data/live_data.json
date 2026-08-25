@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-25T20:19:29",
+  "generated_at": "2026-08-25T20:53:31",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.46,
-    "price_krw": 2017.63,
-    "price_change_24h": -0.74625,
-    "price_change_7d": 45.62359,
-    "price_change_30d": 32.5198,
-    "market_cap_usd": 91566280422,
+    "price_usd": 1.45,
+    "price_krw": 1999.82,
+    "price_change_24h": -1.88833,
+    "price_change_7d": 44.35134,
+    "price_change_30d": 31.36204,
+    "market_cap_usd": 90749360944,
     "market_cap_rank": 5,
-    "volume_24h": 4252780171,
+    "volume_24h": 3839316769,
     "circulating_supply": 62744504852.0,
     "total_supply": 99985627691.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 82.12,
-    "sentiment_votes_down": 17.88,
+    "sentiment_votes_up": 79.62,
+    "sentiment_votes_down": 20.38,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 24.28,
-    "recent_tps": 24.28,
-    "recent_tx_count": 2185,
+    "tps_24h_avg": 29.47,
+    "recent_tps": 29.47,
+    "recent_tx_count": 2682,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 106540808,
+    "recent_window_sec": 91,
+    "ledger_seq": 106541331,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-25 20:19:16 KST",
+    "updated_at": "2026-08-25 20:53:24 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 8250000,
     "total_net_inflow_usd": 8250000,
     "total_value_traded_usd": 8250000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/25 20:19",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/25 20:53",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -78,7 +78,7 @@
     },
     {
       "title": "리플(XRP) 2083원, 2%대 상승…글로벌 1.5달러선 회복",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGZTNIcmcwNldXSXJEX2prQXlXRDNhWUphemFqN0c4V3VlcXFsaTZyOUNkUnlZbUVYN2E5bG55QVdqYnFvb2R0bGt3blFLNVY2NV9FTVlna21PRGtxclFBU2V3bXU5TWM2SlR3NkJZbmY3d9IBckFVX3lxTFBGZTNIcmcwNldXSXJEX2prQXlXRDNhWUphemFqN0c4V3VlcXFsaTZyOUNkUnlZbUVYN2E5bG55QVdqYnFvb2R0bGt3blFLNVY2NV9FTVlna21PRGtxclFBU2V3bXU5TWM2SlR3NkJZbmY3dw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fcUE0eGJUeDhxU2RjWWs5d3dkbld3ckUwaDRoMGtjZTVpYVBKSGpCMEplb3pkMWItR0puUlJoM3NmRVhyc3ZNbTNRUGlRX3hScG5UU2VodDRVTFZzQ296WGdCM1d3cldNR29PZGJB0gFyQVVfeXFMUEZlM0hyZzA2V1dJckRfamtBeVdEM2FZSmF6YWo3RzhXdWVxcWxpNnI5Q2RSeVltRVg3YTlsbnlBV2picW9vZHRsa3duUUs1VjY1X0VNWWdrbU9Ea3FyUUFTZXdtdTlNYzZKVHc2QlluZjd3?oc=5",
       "date": "Tue, 25 Aug 2026 04:53:43 GMT",
       "source": "잡포스트",
       "score": 0
@@ -121,13 +121,6 @@
       "score": 3
     },
     {
-      "title": "리플(XRP) 2083원, 2%대 상승…글로벌 1.5달러선 회복",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGZTNIcmcwNldXSXJEX2prQXlXRDNhWUphemFqN0c4V3VlcXFsaTZyOUNkUnlZbUVYN2E5bG55QVdqYnFvb2R0bGt3blFLNVY2NV9FTVlna21PRGtxclFBU2V3bXU5TWM2SlR3NkJZbmY3d9IBckFVX3lxTFBGZTNIcmcwNldXSXJEX2prQXlXRDNhWUphemFqN0c4V3VlcXFsaTZyOUNkUnlZbUVYN2E5bG55QVdqYnFvb2R0bGt3blFLNVY2NV9FTVlna21PRGtxclFBU2V3bXU5TWM2SlR3NkJZbmY3dw?oc=5",
-      "date": "Tue, 25 Aug 2026 04:53:43 GMT",
-      "source": "잡포스트",
-      "score": 3
-    },
-    {
       "title": "리플(XRP) 현물 ETF 10억개 매집하고도 본전…9월 15일 표결에 운명 갈린다",
       "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9PYjNJNmZOQ2Q0Q21sRWZSaEZFQTNvMDIwZG9sbWVLYjRoRUFPZ2dva3hrRWMzcUZMdS1DN0tHb3l5THRy?oc=5",
       "date": "Mon, 24 Aug 2026 22:05:00 GMT",
@@ -160,6 +153,13 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkVjhVTnBIZmdhVGRtQnRJQzRMb2dUdmFqbXQ1QlFPZ3VicWt0UDNab3Fxc2pjcVBpNEltY0w0NEZpdVZReHd1anBKSFBxd3ItZnFCbGYyUHJneWN1Sm43MUF5RnNLSERBdmRUNnFWR3Q?oc=5",
       "date": "Mon, 24 Aug 2026 08:38:51 GMT",
       "source": "블록체인투데이",
+      "score": 2
+    },
+    {
+      "title": "주식 팔고 코인? 리플, 일주일 새 47%↑…가상자산 거래량 10배 늘어",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42NzJ4Rks5ckYyNk9jajg1XzdfSkM2Yk8yTGRQbnZvSVNLR3cweFA3LVUtaDdYcWc3WnVHVEk1Rm9HY2xKY2VNb0U5SzZmbG9OOXI0OWNYNTliRUk3NzIyVVQxWUNMS0k?oc=5",
+      "date": "Mon, 24 Aug 2026 06:10:00 GMT",
+      "source": "한겨레",
       "score": 2
     }
   ]
