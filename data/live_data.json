@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-25T06:33:17",
+  "generated_at": "2026-08-25T07:37:08",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.51,
-    "price_krw": 2098.65,
-    "price_change_24h": 2.30269,
-    "price_change_7d": 52.33427,
-    "price_change_30d": 37.82789,
-    "market_cap_usd": 94982501509,
+    "price_usd": 1.5,
+    "price_krw": 2082.52,
+    "price_change_24h": 1.36233,
+    "price_change_7d": 50.56435,
+    "price_change_30d": 36.63365,
+    "market_cap_usd": 94286648758,
     "market_cap_rank": 5,
-    "volume_24h": 5371167538,
+    "volume_24h": 5790348494,
     "circulating_supply": 62744504852.0,
     "total_supply": 99985627691.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 80.12,
-    "sentiment_votes_down": 19.88,
+    "sentiment_votes_up": 80.68,
+    "sentiment_votes_down": 19.32,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 44.5,
-    "recent_tps": 44.5,
-    "recent_tx_count": 4005,
+    "tps_24h_avg": 39.82,
+    "recent_tps": 39.82,
+    "recent_tx_count": 3584,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106528099,
+    "ledger_seq": 106529084,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-25 06:33:09 KST",
+    "updated_at": "2026-08-25 07:37:01 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,11 +43,18 @@
     "aum_usd": 8250000,
     "total_net_inflow_usd": 8250000,
     "total_value_traded_usd": 8250000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/25 06:33",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/25 07:37",
     "data_source": "sosovalue",
     "partial": true
   },
   "etf_news": [
+    {
+      "title": "골드만삭스, 리플 XRP ETF 1,199억원 보유…1분기 청산 뒤 재진입",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE44cVlCZUNTMGZyem9pRlZDVjRqQ1o0bTNsamV0X1VCUkRGU2VnNmMtZEN0UHdHTDI0ZFZvdEJuTlZ4QlRLOHFaZXF0RDNFVGtUT3ZlcWdNRjZXMDhfdUNta09JZ2xLeDVvQUtydlBKQXlxdw?oc=5",
+      "date": "Tue, 25 Aug 2026 06:39:54 GMT",
+      "source": "톱스타뉴스",
+      "score": 0
+    },
     {
       "title": "리플 XRP ETF 거래 폭발…비트와이즈 3일간 2억 달러 돌파",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1QWE5wMjdUaF8wWEVkNW5pREYwQUtlWlBQZHJTbGdJTVJmRlhldW9YZklpbllleUxTcXVkdnNoQmFReVRnUW9tQ0owMTliSXV0d0hJTXpReW1OVXVzSVY1Q0lXQWVDcnhLQ3YxZjBVUUtxQQ?oc=5",
@@ -82,16 +89,16 @@
       "date": "Mon, 24 Aug 2026 16:15:00 GMT",
       "source": "CBC뉴스",
       "score": 0
-    },
-    {
-      "title": "XRP ETF 유입, 15.5억 달러 기록…70% 급등",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YekIzU1lZRUFmTGVoZDN3MDJ4elI5c01kVWdEU25LWVpSLVZ6emNBb3pnSDN0X3dqT2VPUndWQ3lYdkd3SWhvb1JUcGdQZmFOeVpHLWhieGlJQjdNU0RxajRaY2lWNzNadEVYQW5iQQ?oc=5",
-      "date": "Mon, 24 Aug 2026 09:18:41 GMT",
-      "source": "BeInCrypto",
-      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "골드만삭스, 리플 XRP ETF 1,199억원 보유…1분기 청산 뒤 재진입",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE44cVlCZUNTMGZyem9pRlZDVjRqQ1o0bTNsamV0X1VCUkRGU2VnNmMtZEN0UHdHTDI0ZFZvdEJuTlZ4QlRLOHFaZXF0RDNFVGtUT3ZlcWdNRjZXMDhfdUNta09JZ2xLeDVvQUtydlBKQXlxdw?oc=5",
+      "date": "Tue, 25 Aug 2026 06:39:54 GMT",
+      "source": "톱스타뉴스",
+      "score": 3
+    },
     {
       "title": "리플 XRP ETF 거래 폭발…비트와이즈 3일간 2억 달러 돌파",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1QWE5wMjdUaF8wWEVkNW5pREYwQUtlWlBQZHJTbGdJTVJmRlhldW9YZklpbllleUxTcXVkdnNoQmFReVRnUW9tQ0owMTliSXV0d0hJTXpReW1OVXVzSVY1Q0lXQWVDcnhLQ3YxZjBVUUtxQQ?oc=5",
@@ -154,13 +161,6 @@
       "date": "Mon, 24 Aug 2026 05:39:03 GMT",
       "source": "비온미디어",
       "score": 3
-    },
-    {
-      "title": "리플 프라임 2억7500만달러 조달 성공…XRP 준비금이 신용도 변수",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1OR0UtNklfMzYzcVMwRXktZm5MNFd3eFBvejVBNTVKUDl0MmVUeUZ0YjNQMVJZYVRNSE45ZU5OUlNYbTkyM0NqMkZDU25oVnYwOUxJ?oc=5",
-      "date": "Mon, 24 Aug 2026 02:42:06 GMT",
-      "source": "네이트",
-      "score": 2
     }
   ]
 }
