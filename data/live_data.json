@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-25T20:53:31",
+  "generated_at": "2026-08-25T21:19:39",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.45,
-    "price_krw": 1999.82,
-    "price_change_24h": -1.88833,
-    "price_change_7d": 44.35134,
-    "price_change_30d": 31.36204,
-    "market_cap_usd": 90749360944,
+    "price_usd": 1.43,
+    "price_krw": 1975.62,
+    "price_change_24h": -3.4632,
+    "price_change_7d": 43.26517,
+    "price_change_30d": 30.27092,
+    "market_cap_usd": 89784386282,
     "market_cap_rank": 5,
-    "volume_24h": 3839316769,
+    "volume_24h": 3964817491,
     "circulating_supply": 62744504852.0,
     "total_supply": 99985627691.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 79.62,
-    "sentiment_votes_down": 20.38,
+    "sentiment_votes_up": 78.98,
+    "sentiment_votes_down": 21.02,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 29.47,
-    "recent_tps": 29.47,
-    "recent_tx_count": 2682,
+    "tps_24h_avg": 36.79,
+    "recent_tps": 36.79,
+    "recent_tx_count": 3311,
     "recent_ledger_count": 24,
-    "recent_window_sec": 91,
-    "ledger_seq": 106541331,
+    "recent_window_sec": 90,
+    "ledger_seq": 106541730,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-25 20:53:24 KST",
+    "updated_at": "2026-08-25 21:19:32 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 8250000,
     "total_net_inflow_usd": 8250000,
     "total_value_traded_usd": 8250000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/25 20:53",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/25 21:19",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -93,17 +93,17 @@
   ],
   "general_news": [
     {
+      "title": "[인터뷰] “AI가 XRP로 커피 사는 시대 온다” t54, 리플·마스터카드와 ‘에이전틱 결제’ 확장",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaSjNQcG15TWl4eGp3SWgtSlFZc0ZzcGZxY1ZkbFhTdDRHTGlmM2FYZENuSXFIUWxkaGNPbERsNHRZTlJyRzZIN0UtaWs2a3BFV1I4bg?oc=5",
+      "date": "Tue, 25 Aug 2026 21:00:00 GMT",
+      "source": "이투데이",
+      "score": 2
+    },
+    {
       "title": "리플 50% 급등에 1.54달러 터치… 1.55달러 저항 돌파가 분수령",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vXy0tM1NfM2VsRmwtUWFWSEFPM3B0LUdmeENSdWwySWRpbFlyTFpvb0JMekJOalpvd1lkcWN2UnJVeGNETlFCNWY3b283TDIzXy1JTmdNa3Y2akNZN0VsSUpiSGtSUEZaLWROQS13MmI?oc=5",
       "date": "Tue, 25 Aug 2026 08:49:20 GMT",
       "source": "블록체인투데이",
-      "score": 3
-    },
-    {
-      "title": "리플 47.8% 상승, 제미니 싱가포르 공지 재점검",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45UXRGY0FuTllITWpyOUVSZjdkMkt4S0U0U3ItcU5WSkk5V2ZyNzNldjFxdExTdWY2Q3dVVnNVZElyUWZZSEJVZnBNWVVwalpEUld3aEswV0hsM3FtLVN5VNIBZkFVX3lxTFBteVlVLUUxRGRoTmFycE9VeGUzUTdpbDI2RklRNWdPMjI5ZVlISDN0TE1KNUFHaXBHSTRWZXJpT0ZiTEVrWDFVaFoySnlldS0yQzBlR3puby1GX2dEOVhySHFla3oyQQ?oc=5",
-      "date": "Tue, 25 Aug 2026 07:09:46 GMT",
-      "source": "tokenpost.kr",
       "score": 2
     },
     {
@@ -149,17 +149,17 @@
       "score": 8
     },
     {
-      "title": "리플 사장 모니카 롱 방한… XRP Seoul 2026, 10월 3일 용산서 개최",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkVjhVTnBIZmdhVGRtQnRJQzRMb2dUdmFqbXQ1QlFPZ3VicWt0UDNab3Fxc2pjcVBpNEltY0w0NEZpdVZReHd1anBKSFBxd3ItZnFCbGYyUHJneWN1Sm43MUF5RnNLSERBdmRUNnFWR3Q?oc=5",
-      "date": "Mon, 24 Aug 2026 08:38:51 GMT",
-      "source": "블록체인투데이",
-      "score": 2
-    },
-    {
       "title": "주식 팔고 코인? 리플, 일주일 새 47%↑…가상자산 거래량 10배 늘어",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42NzJ4Rks5ckYyNk9jajg1XzdfSkM2Yk8yTGRQbnZvSVNLR3cweFA3LVUtaDdYcWc3WnVHVEk1Rm9HY2xKY2VNb0U5SzZmbG9OOXI0OWNYNTliRUk3NzIyVVQxWUNMS0k?oc=5",
       "date": "Mon, 24 Aug 2026 06:10:00 GMT",
       "source": "한겨레",
+      "score": 2
+    },
+    {
+      "title": "비트코인 7만7000달러 뛰자, 국내 코인시장도 '들썩'…XRP에 거래 몰렸다",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5fZnRQWDE5bXJ0bjhtTU4xMWNWZ1RZT0JHY1JPSzdLc2xSWkhJVGZhVmpqQWNfV0pyVkVFOHF6S0hTdVdDSjVHbk5PR0w1T2M?oc=5",
+      "date": "Mon, 24 Aug 2026 05:52:05 GMT",
+      "source": "v.daum.net",
       "score": 2
     }
   ]
