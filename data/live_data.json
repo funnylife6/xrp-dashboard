@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-25T09:29:27",
+  "generated_at": "2026-08-25T09:59:35",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.49,
-    "price_krw": 2068.1,
-    "price_change_24h": 1.53435,
-    "price_change_7d": 50.09047,
-    "price_change_30d": 35.94745,
-    "market_cap_usd": 93736052311,
-    "market_cap_rank": 4,
-    "volume_24h": 5615068696,
+    "price_usd": 1.48,
+    "price_krw": 2045.36,
+    "price_change_24h": 0.04203,
+    "price_change_7d": 48.46758,
+    "price_change_30d": 34.47748,
+    "market_cap_usd": 92820738515,
+    "market_cap_rank": 5,
+    "volume_24h": 5536225200,
     "circulating_supply": 62744504852.0,
     "total_supply": 99985627691.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 81.98,
-    "sentiment_votes_down": 18.02,
+    "sentiment_votes_up": 82.35,
+    "sentiment_votes_down": 17.65,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 35.06,
-    "recent_tps": 35.06,
-    "recent_tx_count": 3155,
+    "tps_24h_avg": 45.83,
+    "recent_tps": 45.83,
+    "recent_tx_count": 4125,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106530814,
+    "ledger_seq": 106531279,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-25 09:29:14 KST",
+    "updated_at": "2026-08-25 09:59:28 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,10 +43,124 @@
     "aum_usd": 8250000,
     "total_net_inflow_usd": 8250000,
     "total_value_traded_usd": 8250000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/25 09:29",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/25 09:59",
     "data_source": "sosovalue",
     "partial": true
   },
-  "etf_news": [],
-  "general_news": []
+  "etf_news": [
+    {
+      "title": "리플 50% 급등에 1.54달러 터치… 1.55달러 저항 돌파가 분수령",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vXy0tM1NfM2VsRmwtUWFWSEFPM3B0LUdmeENSdWwySWRpbFlyTFpvb0JMekJOalpvd1lkcWN2UnJVeGNETlFCNWY3b283TDIzXy1JTmdNa3Y2akNZN0VsSUpiSGtSUEZaLWROQS13MmI?oc=5",
+      "date": "Tue, 25 Aug 2026 08:49:20 GMT",
+      "source": "블록체인투데이",
+      "score": 0
+    },
+    {
+      "title": "‘50% 급등’ XRP, 1.55달러 뚫나… ETF·선물 시장이 당긴 ‘시그널’",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oaWVCNHAzYnlzbUE3UkJYRHZVUE1BdjBaeHdzLVZrTEw5emhVVnQ1OEgxZXlFdWRjMWYzYnFtMkZKdjZ6dFpGbG5vQm9TM2ItejlNZURxeVUxNWdDU2JVSEpSbmpOT0HSAWtBVV95cUxNczI4ZHpaZmRTNE5PSjA1TkpQVkpSNVVMZ3pyYkxwb1dEZm1XY09NUm1MVlNoSlFLZ19sOWxoc1RydzhpOVRhYjFrMTRacmQyRjE5QW5pT25wMHczTlJPcGdjT3JKS0puRllmVQ?oc=5",
+      "date": "Tue, 25 Aug 2026 07:25:10 GMT",
+      "source": "비온미디어",
+      "score": 0
+    },
+    {
+      "title": "골드만삭스, 리플 XRP ETF 1,199억원 보유…1분기 청산 뒤 재진입",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE44cVlCZUNTMGZyem9pRlZDVjRqQ1o0bTNsamV0X1VCUkRGU2VnNmMtZEN0UHdHTDI0ZFZvdEJuTlZ4QlRLOHFaZXF0RDNFVGtUT3ZlcWdNRjZXMDhfdUNta09JZ2xLeDVvQUtydlBKQXlxdw?oc=5",
+      "date": "Tue, 25 Aug 2026 06:39:54 GMT",
+      "source": "톱스타뉴스",
+      "score": 0
+    },
+    {
+      "title": "리플 XRP ETF 거래 폭발…비트와이즈 3일간 2억 달러 돌파",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1QWE5wMjdUaF8wWEVkNW5pREYwQUtlWlBQZHJTbGdJTVJmRlhldW9YZklpbllleUxTcXVkdnNoQmFReVRnUW9tQ0owMTliSXV0d0hJTXpReW1OVXVzSVY1Q0lXQWVDcnhLQ3YxZjBVUUtxQQ?oc=5",
+      "date": "Tue, 25 Aug 2026 06:01:46 GMT",
+      "source": "톱스타뉴스",
+      "score": 0
+    },
+    {
+      "title": "리플(XRP) 2083원, 2%대 상승…글로벌 1.5달러선 회복",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fcUE0eGJUeDhxU2RjWWs5d3dkbld3ckUwaDRoMGtjZTVpYVBKSGpCMEplb3pkMWItR0puUlJoM3NmRVhyc3ZNbTNRUGlRX3hScG5UU2VodDRVTFZzQ296WGdCM1d3cldNR29PZGJB0gFyQVVfeXFMUEZlM0hyZzA2V1dJckRfamtBeVdEM2FZSmF6YWo3RzhXdWVxcWxpNnI5Q2RSeVltRVg3YTlsbnlBV2picW9vZHRsa3duUUs1VjY1X0VNWWdrbU9Ea3FyUUFTZXdtdTlNYzZKVHc2QlluZjd3?oc=5",
+      "date": "Tue, 25 Aug 2026 04:53:43 GMT",
+      "source": "잡포스트",
+      "score": 0
+    },
+    {
+      "title": "엑스알피(XRP), 5월 이후 ETF 최대 유입...70% 폭등 더 가나",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBFZHBCdGh4cFpVdFAyeHVuS29NZ1M2UzYwOXVDcGUtdTNQVmpkdnU2VVhsM1p5WjJLMVZwelBMVW95QVhuQ0hucm93?oc=5",
+      "date": "Mon, 24 Aug 2026 23:25:00 GMT",
+      "source": "코인리더스",
+      "score": 0
+    }
+  ],
+  "general_news": [
+    {
+      "title": "리플(XRP), 미국 40조달러 빚 해법으로 거론…밴스는 선 그었지만 정책 관심 커져",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RUXFRNVFha0YzX21UcDJ3WjdjeEZoenpPZ3l4VnJwWGU4UWFYQ0YweWh6VWVLTjRMUDYzOTRGaEpfaXN4VW1sRlhhU2lzNmhfQi03NUdpNXRHRkxJdlItQmpmRm92U2FN?oc=5",
+      "date": "Tue, 25 Aug 2026 08:52:57 GMT",
+      "source": "CBC뉴스",
+      "score": 2
+    },
+    {
+      "title": "리플 50% 급등에 1.54달러 터치… 1.55달러 저항 돌파가 분수령",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vXy0tM1NfM2VsRmwtUWFWSEFPM3B0LUdmeENSdWwySWRpbFlyTFpvb0JMekJOalpvd1lkcWN2UnJVeGNETlFCNWY3b283TDIzXy1JTmdNa3Y2akNZN0VsSUpiSGtSUEZaLWROQS13MmI?oc=5",
+      "date": "Tue, 25 Aug 2026 08:49:20 GMT",
+      "source": "블록체인투데이",
+      "score": 3
+    },
+    {
+      "title": "골드만삭스, 리플 XRP ETF 1,199억원 보유…1분기 청산 뒤 재진입",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE44cVlCZUNTMGZyem9pRlZDVjRqQ1o0bTNsamV0X1VCUkRGU2VnNmMtZEN0UHdHTDI0ZFZvdEJuTlZ4QlRLOHFaZXF0RDNFVGtUT3ZlcWdNRjZXMDhfdUNta09JZ2xLeDVvQUtydlBKQXlxdw?oc=5",
+      "date": "Tue, 25 Aug 2026 06:39:54 GMT",
+      "source": "톱스타뉴스",
+      "score": 3
+    },
+    {
+      "title": "리플 XRP ETF 거래 폭발…비트와이즈 3일간 2억 달러 돌파",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1QWE5wMjdUaF8wWEVkNW5pREYwQUtlWlBQZHJTbGdJTVJmRlhldW9YZklpbllleUxTcXVkdnNoQmFReVRnUW9tQ0owMTliSXV0d0hJTXpReW1OVXVzSVY1Q0lXQWVDcnhLQ3YxZjBVUUtxQQ?oc=5",
+      "date": "Tue, 25 Aug 2026 06:01:46 GMT",
+      "source": "톱스타뉴스",
+      "score": 3
+    },
+    {
+      "title": "리플(XRP) 2083원, 2%대 상승…글로벌 1.5달러선 회복",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fcUE0eGJUeDhxU2RjWWs5d3dkbld3ckUwaDRoMGtjZTVpYVBKSGpCMEplb3pkMWItR0puUlJoM3NmRVhyc3ZNbTNRUGlRX3hScG5UU2VodDRVTFZzQ296WGdCM1d3cldNR29PZGJB0gFyQVVfeXFMUEZlM0hyZzA2V1dJckRfamtBeVdEM2FZSmF6YWo3RzhXdWVxcWxpNnI5Q2RSeVltRVg3YTlsbnlBV2picW9vZHRsa3duUUs1VjY1X0VNWWdrbU9Ea3FyUUFTZXdtdTlNYzZKVHc2QlluZjd3?oc=5",
+      "date": "Tue, 25 Aug 2026 04:53:43 GMT",
+      "source": "잡포스트",
+      "score": 3
+    },
+    {
+      "title": "리플(XRP) 현물 ETF 10억개 매집하고도 본전…9월 15일 표결에 운명 갈린다",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9PYjNJNmZOQ2Q0Q21sRWZSaEZFQTNvMDIwZG9sbWVLYjRoRUFPZ2dva3hrRWMzcUZMdS1DN0tHb3l5THRy?oc=5",
+      "date": "Mon, 24 Aug 2026 22:05:00 GMT",
+      "source": "코인리더스",
+      "score": 4
+    },
+    {
+      "title": "리플(XRP), 일주일 새 50% 뛰었다…ETF 자금 유입에 상승세 이어질까",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVc2tHSlRNLWtvRkViVDlJREE0X1FSYk84NWVObjZpMmJ3VDlTMkhaYTVnWFpYbmZNMjR1a3dSVUdhZzdjaFNBRjZFTm55X21fZ1NJZlIxREFYbWc3dGVkSFBURVdNY0Ft?oc=5",
+      "date": "Mon, 24 Aug 2026 16:15:00 GMT",
+      "source": "CBC뉴스",
+      "score": 3
+    },
+    {
+      "title": "볼란테, 페드나우·XRP 결제 한 플랫폼서 제공…연준 승인·연동 근거는 없다",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tWDVvVnpNZ3dFbE5FYThoek9NOWNqVmFPellmRm1WZU5KOVZuREctQnBEamNZLXVocm9hYXcwTy1QOVUxS1RaVURoRkU2UTVHSmpyWjJB?oc=5",
+      "date": "Mon, 24 Aug 2026 15:27:00 GMT",
+      "source": "위키트리",
+      "score": 2
+    },
+    {
+      "title": "주식 팔고 코인? 리플, 일주일 새 47%↑…가상자산 거래량 10배 늘어",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42NzJ4Rks5ckYyNk9jajg1XzdfSkM2Yk8yTGRQbnZvSVNLR3cweFA3LVUtaDdYcWc3WnVHVEk1Rm9HY2xKY2VNb0U5SzZmbG9OOXI0OWNYNTliRUk3NzIyVVQxWUNMS0k?oc=5",
+      "date": "Mon, 24 Aug 2026 06:10:00 GMT",
+      "source": "한겨레",
+      "score": 2
+    },
+    {
+      "title": "비트코인 7만7000달러 뛰자, 국내 코인시장도 '들썩'…XRP에 거래 몰렸다",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1MWDVzaWpnWktsYjJGS2NGMVh2OXlLR1JvdFR6OFVLMEkzM1NYdlgwSFB4ODNyMzRaQ0ZZU3p2NWZoQW90N2c?oc=5",
+      "date": "Mon, 24 Aug 2026 05:52:05 GMT",
+      "source": "v.daum.net",
+      "score": 2
+    }
+  ]
 }
