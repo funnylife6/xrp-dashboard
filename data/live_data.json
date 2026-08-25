@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-25T19:07:50",
+  "generated_at": "2026-08-25T19:53:39",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.47,
-    "price_krw": 2037.67,
-    "price_change_24h": 0.31693,
-    "price_change_7d": 47.28251,
-    "price_change_30d": 33.74506,
-    "market_cap_usd": 92416481263,
+    "price_krw": 2026.59,
+    "price_change_24h": -0.66256,
+    "price_change_7d": 46.50406,
+    "price_change_30d": 33.03816,
+    "market_cap_usd": 91975763240,
     "market_cap_rank": 5,
-    "volume_24h": 4386801134,
+    "volume_24h": 3865025820,
     "circulating_supply": 62744504852.0,
     "total_supply": 99985627691.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 83.33,
-    "sentiment_votes_down": 16.67,
+    "sentiment_votes_up": 81.82,
+    "sentiment_votes_down": 18.18,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 39.36,
-    "recent_tps": 39.36,
-    "recent_tx_count": 3542,
+    "tps_24h_avg": 23.18,
+    "recent_tps": 23.18,
+    "recent_tx_count": 2109,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 106539711,
+    "recent_window_sec": 91,
+    "ledger_seq": 106540413,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-25 19:07:45 KST",
+    "updated_at": "2026-08-25 19:53:30 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 8250000,
     "total_net_inflow_usd": 8250000,
     "total_value_traded_usd": 8250000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/25 19:07",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/25 19:53",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -93,13 +93,6 @@
   ],
   "general_news": [
     {
-      "title": "리플 XRP, 활성 주소 659% 폭증…1.5달러 지키며 온체인 수요 확대",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBiSlR3d01Sdm9XVXVlUzFXd05rYWNSYUs3dXROS0c5SU5HWTRwZmRYRXFYVk85UXo4MVNqRjV0NU1JbkgxazNuZGQwRzJuTHZKRVdJOE1KRVJscFFtQXZFTUEyTVlJU2tBNW1STzhzS19yQQ?oc=5",
-      "date": "Tue, 25 Aug 2026 13:14:29 GMT",
-      "source": "톱스타뉴스",
-      "score": 2
-    },
-    {
       "title": "리플 50% 급등에 1.54달러 터치… 1.55달러 저항 돌파가 분수령",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vXy0tM1NfM2VsRmwtUWFWSEFPM3B0LUdmeENSdWwySWRpbFlyTFpvb0JMekJOalpvd1lkcWN2UnJVeGNETlFCNWY3b283TDIzXy1JTmdNa3Y2akNZN0VsSUpiSGtSUEZaLWROQS13MmI?oc=5",
       "date": "Tue, 25 Aug 2026 08:49:20 GMT",
@@ -107,9 +100,9 @@
       "score": 3
     },
     {
-      "title": "제미니, 싱가포르 XRP 입출금 지원 재공지",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VLXk0aTFKWGZkcGZjR3dBeGN4c3c2bVZFS25qRkVOdGpyYnFIRml2cEwxbVZHV3hMdWFmNkVVWUtDQnpHbG1wdGV5OGNIMUttWGJuVFotYkpMU2ZoZUpzb9IBZkFVX3lxTE9Ia3FXcnMzajRucGRFV2ZuWTBNTmw2WUR2S2x0UUgzSG9BRm1GUFB1cHpOb1EzQkdyaWp1M2RpQ2VQV0FHbl9yQUtxNUt5YUVobkt5QmZtUk10NURNSENQNGhNZHJkUQ?oc=5",
-      "date": "Tue, 25 Aug 2026 06:46:14 GMT",
+      "title": "리플 47.8% 상승, 제미니 싱가포르 공지 재점검",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45UXRGY0FuTllITWpyOUVSZjdkMkt4S0U0U3ItcU5WSkk5V2ZyNzNldjFxdExTdWY2Q3dVVnNVZElyUWZZSEJVZnBNWVVwalpEUld3aEswV0hsM3FtLVN5VNIBZkFVX3lxTFBteVlVLUUxRGRoTmFycE9VeGUzUTdpbDI2RklRNWdPMjI5ZVlISDN0TE1KNUFHaXBHSTRWZXJpT0ZiTEVrWDFVaFoySnlldS0yQzBlR3puby1GX2dEOVhySHFla3oyQQ?oc=5",
+      "date": "Tue, 25 Aug 2026 07:09:46 GMT",
       "source": "tokenpost.kr",
       "score": 2
     },
@@ -161,6 +154,13 @@
       "date": "Mon, 24 Aug 2026 11:08:00 GMT",
       "source": "CoinNess",
       "score": 8
+    },
+    {
+      "title": "리플 사장 모니카 롱 방한… XRP Seoul 2026, 10월 3일 용산서 개최",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkVjhVTnBIZmdhVGRtQnRJQzRMb2dUdmFqbXQ1QlFPZ3VicWt0UDNab3Fxc2pjcVBpNEltY0w0NEZpdVZReHd1anBKSFBxd3ItZnFCbGYyUHJneWN1Sm43MUF5RnNLSERBdmRUNnFWR3Q?oc=5",
+      "date": "Mon, 24 Aug 2026 08:38:51 GMT",
+      "source": "블록체인투데이",
+      "score": 2
     }
   ]
 }
