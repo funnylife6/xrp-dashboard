@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-25T02:14:13",
+  "generated_at": "2026-08-25T03:24:35",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.51,
-    "price_krw": 2082.58,
-    "price_change_24h": 2.27212,
-    "price_change_7d": 51.38857,
-    "price_change_30d": 37.04239,
-    "market_cap_usd": 94579117498,
+    "price_usd": 1.53,
+    "price_krw": 2109.83,
+    "price_change_24h": 3.73991,
+    "price_change_7d": 54.03285,
+    "price_change_30d": 38.77251,
+    "market_cap_usd": 95715954531,
     "market_cap_rank": 4,
-    "volume_24h": 5776762620,
+    "volume_24h": 5804234903,
     "circulating_supply": 62744504852.0,
     "total_supply": 99985627691.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 82.17,
-    "sentiment_votes_down": 17.83,
+    "sentiment_votes_up": 82.61,
+    "sentiment_votes_down": 17.39,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 62.62,
-    "recent_tps": 62.62,
-    "recent_tx_count": 5636,
+    "tps_24h_avg": 31.01,
+    "recent_tps": 31.01,
+    "recent_tx_count": 2791,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106524109,
+    "ledger_seq": 106525193,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-25 02:14:01 KST",
+    "updated_at": "2026-08-25 03:24:26 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 8250000,
     "total_net_inflow_usd": 8250000,
     "total_value_traded_usd": 8250000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/25 02:14",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/25 03:24",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -92,6 +92,13 @@
     }
   ],
   "general_news": [
+    {
+      "title": "XRP, 일일 거래량 154억 달러 폭발…2026년 최고치 경신",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOFdBMjFDLWpZT1pGUHlJdWE5XzZiT256TURKQ3ljemJ5QkNqMjlyaVlqdm5vTTkwY0hXTUJYMGxLTUM2U3ZTYzhXVlVFRER6djZuWjkzazVGekd4aTg3Y3AyV3pRckJOVXJfTWMzSEVNMngteVZrbk9JMmQwZGlxT3FWZVZOek55?oc=5",
+      "date": "Tue, 25 Aug 2026 02:17:38 GMT",
+      "source": "글로벌이코노믹",
+      "score": 2
+    },
     {
       "title": "프롬 급등·리플XRP 2.16%↓·비트코인 1.74%↑…미 국채금리 4.7%",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zQkdlTGQwU2x5UWZkX1JSblZVbzByRW4yNEZJTU05REl4TU4ydEFPWUsxcDdRR1pIMVZEWG1QT3JSRUdWZXdwa21iMERYcWxiVmRQeEp4SEZlRGlsSHlNNHQtd29ZYUd5VHNwOEpGdGltQQ?oc=5",
@@ -150,17 +157,10 @@
     },
     {
       "title": "리플 프라임 2억7500만달러 조달 성공…XRP 준비금이 신용도 변수",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE83c1M1bmlKRk0xVmliNzUtTEpIRVk2OU9Fb1JOZFQ4RmVocVktTEJJTHVjWTlLVkxudHo5UE9iSkxxV3VQQmxpT0VCZUd0anRSdC1NNTRzbnlxUDZhNFJwUkVkVFd3SldUM2Nidi1vWkY3NGs?oc=5",
-      "date": "Mon, 24 Aug 2026 02:41:06 GMT",
-      "source": "디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1OR0UtNklfMzYzcVMwRXktZm5MNFd3eFBvejVBNTVKUDl0MmVUeUZ0YjNQMVJZYVRNSE45ZU5OUlNYbTkyM0NqMkZDU25oVnYwOUxJ?oc=5",
+      "date": "Mon, 24 Aug 2026 02:42:06 GMT",
+      "source": "네이트",
       "score": 2
-    },
-    {
-      "title": "업비트 거래대금 210% 폭증…리플(XRP) 48% 급등에 ‘탐욕 장세’ 과열 경고",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5DRnpZTHZDaU9Wbm5BYXBBXzNKM2FIMlczT2pTV0xIQXFud0dfNE5vc3ZVQUNzdEpNYXJrNW5qNTlJTENmR0lYTE5n?oc=5",
-      "date": "Mon, 24 Aug 2026 00:46:00 GMT",
-      "source": "코인리더스",
-      "score": 3
     }
   ]
 }
