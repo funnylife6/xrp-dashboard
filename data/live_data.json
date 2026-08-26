@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-26T13:47:05",
+  "generated_at": "2026-08-26T14:36:13",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.4,
-    "price_krw": 1932.71,
-    "price_change_24h": -4.10724,
-    "price_change_7d": 38.06081,
-    "price_change_30d": 26.35215,
-    "market_cap_usd": 87559599712,
+    "price_usd": 1.38,
+    "price_krw": 1912.99,
+    "price_change_24h": -6.50317,
+    "price_change_7d": 35.71701,
+    "price_change_30d": 24.65566,
+    "market_cap_usd": 86572024251,
     "market_cap_rank": 5,
-    "volume_24h": 3557398356,
+    "volume_24h": 3604389131,
     "circulating_supply": 62744504852.0,
     "total_supply": 99985627691.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 76.58,
-    "sentiment_votes_down": 23.42,
+    "sentiment_votes_up": 74.31,
+    "sentiment_votes_down": 25.69,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 52.04,
-    "recent_tps": 52.04,
-    "recent_tx_count": 4267,
+    "tps_24h_avg": 43.5,
+    "recent_tps": 43.5,
+    "recent_tx_count": 3915,
     "recent_ledger_count": 24,
-    "recent_window_sec": 82,
-    "ledger_seq": 106556882,
+    "recent_window_sec": 90,
+    "ledger_seq": 106557634,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-26 13:46:59 KST",
+    "updated_at": "2026-08-26 14:36:05 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 11020000,
     "total_net_inflow_usd": 11020000,
     "total_value_traded_usd": 11020000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/26 13:47",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/26 14:36",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -121,17 +121,17 @@
       "score": 2
     },
     {
+      "title": "제미니, XRP 레저 직통 입출금 개시...\"아시아 리플 커뮤니티에는 빅뉴스\"",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1IVXhXMGMxdjN2R2VlTGtvRjhwVk1tb1dtVEQ1QnhpUDJteThVNlZJeTB0NF9WN3JRWHptM0lrbXZYY0RuRWh3SldB?oc=5",
+      "date": "Tue, 25 Aug 2026 10:20:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
       "title": "리플 50% 급등에 1.54달러 터치… 1.55달러 저항 돌파가 분수령",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vXy0tM1NfM2VsRmwtUWFWSEFPM3B0LUdmeENSdWwySWRpbFlyTFpvb0JMekJOalpvd1lkcWN2UnJVeGNETlFCNWY3b283TDIzXy1JTmdNa3Y2akNZN0VsSUpiSGtSUEZaLWROQS13MmI?oc=5",
       "date": "Tue, 25 Aug 2026 08:49:20 GMT",
       "source": "블록체인투데이",
-      "score": 3
-    },
-    {
-      "title": "골드만삭스, 리플 XRP ETF 1,199억원 보유…1분기 청산 뒤 재진입",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE44cVlCZUNTMGZyem9pRlZDVjRqQ1o0bTNsamV0X1VCUkRGU2VnNmMtZEN0UHdHTDI0ZFZvdEJuTlZ4QlRLOHFaZXF0RDNFVGtUT3ZlcWdNRjZXMDhfdUNta09JZ2xLeDVvQUtydlBKQXlxdw?oc=5",
-      "date": "Tue, 25 Aug 2026 06:39:54 GMT",
-      "source": "톱스타뉴스",
       "score": 3
     },
     {
