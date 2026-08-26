@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-26T00:49:34",
+  "generated_at": "2026-08-26T02:20:38",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.43,
-    "price_krw": 1973.82,
-    "price_change_24h": -5.52616,
-    "price_change_7d": 42.59622,
-    "price_change_30d": 28.31189,
-    "market_cap_usd": 89484619583,
+    "price_usd": 1.45,
+    "price_krw": 1997.73,
+    "price_change_24h": -5.03973,
+    "price_change_7d": 44.931,
+    "price_change_30d": 30.65662,
+    "market_cap_usd": 90691370754,
     "market_cap_rank": 5,
-    "volume_24h": 4016430812,
+    "volume_24h": 4354650226,
     "circulating_supply": 62744504852.0,
     "total_supply": 99985627691.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 79.19,
-    "sentiment_votes_down": 20.81,
+    "sentiment_votes_up": 78.91,
+    "sentiment_votes_down": 21.09,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 31.17,
-    "recent_tps": 31.17,
-    "recent_tx_count": 2805,
+    "tps_24h_avg": 33.58,
+    "recent_tps": 33.58,
+    "recent_tx_count": 3022,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106544946,
+    "ledger_seq": 106546349,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-26 00:49:27 KST",
+    "updated_at": "2026-08-26 02:20:30 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 11020000,
     "total_net_inflow_usd": 11020000,
     "total_value_traded_usd": 11020000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/26 00:49",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/26 02:20",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -93,10 +93,10 @@
   ],
   "general_news": [
     {
-      "title": "리플의 RLUSD 시가총액 20억 달러 돌파, XRP 레저 기준 약 10억 달러",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQzBfaG5Td1hqVjltRGowYlFNNHJ3V3ZDX1Boc083Y01IVTBFb0U4N3kzZ3dhSXVScVM0SnhGOVpqMV9nUl95dTd3b3lUWXNRY3VPY3RtUjNXSWpScWFXTWM0MTFQQkg1VVlDazhWSkM2SjVpMWJCQXIycUFPNy1TbmtlRUFDT3V4N0szbEtIWUM0VE1HZ0tDTHY1YmN6UWZlMGs5cXd4cWx2TVdXOVZNZGZVNzQwSmFDZ2tPWHdB?oc=5",
-      "date": "Wed, 26 Aug 2026 00:04:25 GMT",
-      "source": "Bitcoin News",
+      "title": "카나리캐피털 CEO \"기관은 중앙화 원해…XRP, 금융 인프라 주도할 것\"",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYaTVJT0RSZUMyUmFucUZOVWdJRTZtOE9TOERvc3N3TmdnM1ZhRzJycThMMzFfSW1RSGd0YXZGWVAwMDNuSXhSMElxMlprOGI3eWt3?oc=5",
+      "date": "Wed, 26 Aug 2026 02:11:00 GMT",
+      "source": "네이트",
       "score": 3
     },
     {
@@ -149,18 +149,18 @@
       "score": 3
     },
     {
-      "title": "리플(XRP) 2083원, 2%대 상승…글로벌 1.5달러선 회복",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fcUE0eGJUeDhxU2RjWWs5d3dkbld3ckUwaDRoMGtjZTVpYVBKSGpCMEplb3pkMWItR0puUlJoM3NmRVhyc3ZNbTNRUGlRX3hScG5UU2VodDRVTFZzQ296WGdCM1d3cldNR29PZGJB0gFyQVVfeXFMUEZlM0hyZzA2V1dJckRfamtBeVdEM2FZSmF6YWo3RzhXdWVxcWxpNnI5Q2RSeVltRVg3YTlsbnlBV2picW9vZHRsa3duUUs1VjY1X0VNWWdrbU9Ea3FyUUFTZXdtdTlNYzZKVHc2QlluZjd3?oc=5",
-      "date": "Tue, 25 Aug 2026 04:53:43 GMT",
-      "source": "잡포스트",
-      "score": 3
-    },
-    {
       "title": "리플(XRP), 일주일 새 50% 뛰었다…ETF 자금 유입에 상승세 이어질까",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVc2tHSlRNLWtvRkViVDlJREE0X1FSYk84NWVObjZpMmJ3VDlTMkhaYTVnWFpYbmZNMjR1a3dSVUdhZzdjaFNBRjZFTm55X21fZ1NJZlIxREFYbWc3dGVkSFBURVdNY0Ft?oc=5",
       "date": "Mon, 24 Aug 2026 16:15:00 GMT",
       "source": "CBC뉴스",
       "score": 3
+    },
+    {
+      "title": "속보 | 스트래티지, BTC $40억 수익 중",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9FV2hDRHRqbHlRS0dNSHNzRjVIT2pPWm0yWFFaNk5kRnV2aGk2VGhzRkRUUkVmLVJEM2hPREVfRWxialpsSjM0SktOTnJ4VlZi?oc=5",
+      "date": "Mon, 24 Aug 2026 11:08:00 GMT",
+      "source": "CoinNess",
+      "score": 8
     }
   ]
 }
