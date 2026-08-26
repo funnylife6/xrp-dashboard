@@ -1,52 +1,60 @@
 {
-  "generated_at": "2026-08-25T23:46:46",
+  "generated_at": "2026-08-26T00:49:34",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.43,
-    "price_krw": 1980.2,
-    "price_change_24h": -3.34466,
-    "price_change_7d": 43.1201,
-    "price_change_30d": 28.87458,
-    "market_cap_usd": 89897843026,
+    "price_krw": 1973.82,
+    "price_change_24h": -5.52616,
+    "price_change_7d": 42.59622,
+    "price_change_30d": 28.31189,
+    "market_cap_usd": 89484619583,
     "market_cap_rank": 5,
-    "volume_24h": 4347934823,
+    "volume_24h": 4016430812,
     "circulating_supply": 62744504852.0,
     "total_supply": 99985627691.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 79.73,
-    "sentiment_votes_down": 20.27,
+    "sentiment_votes_up": 79.19,
+    "sentiment_votes_down": 20.81,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 27.29,
-    "recent_tps": 27.29,
-    "recent_tx_count": 2456,
+    "tps_24h_avg": 31.17,
+    "recent_tps": 31.17,
+    "recent_tx_count": 2805,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106543984,
+    "ledger_seq": 106544946,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-25 23:46:34 KST",
+    "updated_at": "2026-08-26 00:49:27 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
   },
   "etf_flow": {
-    "approved_count": 0,
+    "approved_count": 4,
     "daily_inflow_usd": 0,
     "weekly_inflow_usd": 0,
-    "aum_usd": 0,
-    "total_net_inflow_usd": 0,
-    "total_value_traded_usd": 0,
-    "updated_at": "뉴스 자동 파싱 대기",
-    "data_source": "news_parse"
+    "aum_usd": 11020000,
+    "total_net_inflow_usd": 11020000,
+    "total_value_traded_usd": 11020000,
+    "updated_at": "SoSoValue 순유입 부분 수집 08/26 00:49",
+    "data_source": "sosovalue",
+    "partial": true
   },
   "etf_news": [
+    {
+      "title": "솔라나, ETF 자금 유입서 XRP 추월…하루 3349만달러 순유입",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VNjFMWl8zeHFvemdyZ3NWRWhmZmJKR0FVeWk0UVNhUXQwQmNOSm1fWkZqbERBaFliVjNGRUllWTZhTHNud25WMEk5aVFMejd3NHJr?oc=5",
+      "date": "Tue, 25 Aug 2026 23:53:00 GMT",
+      "source": "네이트",
+      "score": 0
+    },
     {
       "title": "거래량 신기록 쓴 리플(XRP) 현물 ETF, 클래러티법 훈풍 타고 비트코인 따라잡을까",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5ON01NT01tb05KUjhRanhicnJ1QUFXYmhSUGNGTzlmOFU1MElYdWRPRkhSMVc0Q3BaRTB1ZnEwXzQwTk5hWlBQR3ln?oc=5",
@@ -81,16 +89,16 @@
       "date": "Tue, 25 Aug 2026 06:01:46 GMT",
       "source": "톱스타뉴스",
       "score": 0
-    },
-    {
-      "title": "리플(XRP) 2083원, 2%대 상승…글로벌 1.5달러선 회복",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fcUE0eGJUeDhxU2RjWWs5d3dkbld3ckUwaDRoMGtjZTVpYVBKSGpCMEplb3pkMWItR0puUlJoM3NmRVhyc3ZNbTNRUGlRX3hScG5UU2VodDRVTFZzQ296WGdCM1d3cldNR29PZGJB0gFyQVVfeXFMUEZlM0hyZzA2V1dJckRfamtBeVdEM2FZSmF6YWo3RzhXdWVxcWxpNnI5Q2RSeVltRVg3YTlsbnlBV2picW9vZHRsa3duUUs1VjY1X0VNWWdrbU9Ea3FyUUFTZXdtdTlNYzZKVHc2QlluZjd3?oc=5",
-      "date": "Tue, 25 Aug 2026 04:53:43 GMT",
-      "source": "잡포스트",
-      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "리플의 RLUSD 시가총액 20억 달러 돌파, XRP 레저 기준 약 10억 달러",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQzBfaG5Td1hqVjltRGowYlFNNHJ3V3ZDX1Boc083Y01IVTBFb0U4N3kzZ3dhSXVScVM0SnhGOVpqMV9nUl95dTd3b3lUWXNRY3VPY3RtUjNXSWpScWFXTWM0MTFQQkg1VVlDazhWSkM2SjVpMWJCQXIycUFPNy1TbmtlRUFDT3V4N0szbEtIWUM0VE1HZ0tDTHY1YmN6UWZlMGs5cXd4cWx2TVdXOVZNZGZVNzQwSmFDZ2tPWHdB?oc=5",
+      "date": "Wed, 26 Aug 2026 00:04:25 GMT",
+      "source": "Bitcoin News",
+      "score": 3
+    },
     {
       "title": "거래량 신기록 쓴 리플(XRP) 현물 ETF, 클래러티법 훈풍 타고 비트코인 따라잡을까",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5ON01NT01tb05KUjhRanhicnJ1QUFXYmhSUGNGTzlmOFU1MElYdWRPRkhSMVc0Q3BaRTB1ZnEwXzQwTk5hWlBQR3ln?oc=5",
@@ -99,10 +107,10 @@
       "score": 4
     },
     {
-      "title": "리플 CEO \"스위프트와 실질적 협력 방안 존재\"…대체 넘어 공존 모색",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYkh4Tnh1SS1Fb2ZxN3ZySGkwRElUQVlKZU8zM1Z1OGoza3lMTjRiYXRGTDF0ZU1ORTgxMENrX05sRUphM0tEVnVhS1JUTE14OW1XQ01zajNEVDZPeW1jbVBSbzlQRFhnVWtNR0tKVVdWZ1dwWHpCbEhkd3V4Z1d1SzBtaFJmcVpC?oc=5",
-      "date": "Tue, 25 Aug 2026 22:04:55 GMT",
-      "source": "글로벌이코노믹",
+      "title": "리플XRP 약세·비트코인 보합·프롬 급등, 달러 약세에 혼조",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE43bEpoWlJMWVlGb3ZXMm1yVU9ZLWhOcEZpOEhBY1JRckxTaVo4RmtQcGtSaWJOR0o4T3diSGRhN1E4cjJIZ2NZMXBrY2h2TjhCaGJLT3IzbkhhekFFUkJjRTl4WHZldmlmX3ZNaEcwZnk0Zw?oc=5",
+      "date": "Tue, 25 Aug 2026 22:17:13 GMT",
+      "source": "톱스타뉴스",
       "score": 2
     },
     {
@@ -153,13 +161,6 @@
       "date": "Mon, 24 Aug 2026 16:15:00 GMT",
       "source": "CBC뉴스",
       "score": 3
-    },
-    {
-      "title": "볼란테, 페드나우·XRP 결제 한 플랫폼서 제공…연준 승인·연동 근거는 없다",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tWDVvVnpNZ3dFbE5FYThoek9NOWNqVmFPellmRm1WZU5KOVZuREctQnBEamNZLXVocm9hYXcwTy1QOVUxS1RaVURoRkU2UTVHSmpyWjJB?oc=5",
-      "date": "Mon, 24 Aug 2026 15:27:00 GMT",
-      "source": "위키트리",
-      "score": 2
     }
   ]
 }
