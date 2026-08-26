@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-26T05:26:06",
+  "generated_at": "2026-08-26T05:58:19",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.43,
-    "price_krw": 1984.41,
-    "price_change_24h": -5.6778,
-    "price_change_7d": 43.39292,
-    "price_change_30d": 29.58252,
-    "market_cap_usd": 89863303667,
+    "price_usd": 1.44,
+    "price_krw": 1995.76,
+    "price_change_24h": -5.32297,
+    "price_change_7d": 44.21666,
+    "price_change_30d": 30.32692,
+    "market_cap_usd": 90426176732,
     "market_cap_rank": 5,
-    "volume_24h": 3866350954,
+    "volume_24h": 3518655881,
     "circulating_supply": 62744504852.0,
     "total_supply": 99985627691.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 77.37,
-    "sentiment_votes_down": 22.63,
+    "sentiment_votes_up": 76.64,
+    "sentiment_votes_down": 23.36,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 39.02,
-    "recent_tps": 39.02,
-    "recent_tx_count": 3512,
+    "tps_24h_avg": 27.7,
+    "recent_tps": 27.7,
+    "recent_tx_count": 2493,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106549192,
+    "ledger_seq": 106549685,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-26 05:25:56 KST",
+    "updated_at": "2026-08-26 05:58:04 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 11020000,
     "total_net_inflow_usd": 11020000,
     "total_value_traded_usd": 11020000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/26 05:26",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/26 05:58",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -121,6 +121,13 @@
       "score": 2
     },
     {
+      "title": "리플(XRP) 역사상 세 번째 골든크로스 임박…과거 500% 급등 재현될까",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE55SGZEeVI4NlBpZkc0VU9YTHk0R1ktMEhKOFVMTk1XN0p4UGV6NDBXcVRndXR4N1JuTmE5di1XLU9EZHFUR0hzQW9n?oc=5",
+      "date": "Tue, 25 Aug 2026 12:11:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
       "title": "리플 50% 급등에 1.54달러 터치… 1.55달러 저항 돌파가 분수령",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vXy0tM1NfM2VsRmwtUWFWSEFPM3B0LUdmeENSdWwySWRpbFlyTFpvb0JMekJOalpvd1lkcWN2UnJVeGNETlFCNWY3b283TDIzXy1JTmdNa3Y2akNZN0VsSUpiSGtSUEZaLWROQS13MmI?oc=5",
       "date": "Tue, 25 Aug 2026 08:49:20 GMT",
@@ -142,25 +149,18 @@
       "score": 3
     },
     {
+      "title": "리플(XRP) 2083원, 2%대 상승…글로벌 1.5달러선 회복",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGZTNIcmcwNldXSXJEX2prQXlXRDNhWUphemFqN0c4V3VlcXFsaTZyOUNkUnlZbUVYN2E5bG55QVdqYnFvb2R0bGt3blFLNVY2NV9FTVlna21PRGtxclFBU2V3bXU5TWM2SlR3NkJZbmY3d9IBckFVX3lxTFBGZTNIcmcwNldXSXJEX2prQXlXRDNhWUphemFqN0c4V3VlcXFsaTZyOUNkUnlZbUVYN2E5bG55QVdqYnFvb2R0bGt3blFLNVY2NV9FTVlna21PRGtxclFBU2V3bXU5TWM2SlR3NkJZbmY3dw?oc=5",
+      "date": "Tue, 25 Aug 2026 04:53:43 GMT",
+      "source": "잡포스트",
+      "score": 3
+    },
+    {
       "title": "리플(XRP), 일주일 새 50% 뛰었다…ETF 자금 유입에 상승세 이어질까",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVc2tHSlRNLWtvRkViVDlJREE0X1FSYk84NWVObjZpMmJ3VDlTMkhaYTVnWFpYbmZNMjR1a3dSVUdhZzdjaFNBRjZFTm55X21fZ1NJZlIxREFYbWc3dGVkSFBURVdNY0Ft?oc=5",
       "date": "Mon, 24 Aug 2026 16:15:00 GMT",
       "source": "CBC뉴스",
       "score": 3
-    },
-    {
-      "title": "속보 | 스트래티지, BTC $40억 수익 중",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9FV2hDRHRqbHlRS0dNSHNzRjVIT2pPWm0yWFFaNk5kRnV2aGk2VGhzRkRUUkVmLVJEM2hPREVfRWxialpsSjM0SktOTnJ4VlZi?oc=5",
-      "date": "Mon, 24 Aug 2026 11:08:00 GMT",
-      "source": "CoinNess",
-      "score": 8
-    },
-    {
-      "title": "주식 팔고 코인? 리플, 일주일 새 47%↑…가상자산 거래량 10배 늘어",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42NzJ4Rks5ckYyNk9jajg1XzdfSkM2Yk8yTGRQbnZvSVNLR3cweFA3LVUtaDdYcWc3WnVHVEk1Rm9HY2xKY2VNb0U5SzZmbG9OOXI0OWNYNTliRUk3NzIyVVQxWUNMS0k?oc=5",
-      "date": "Mon, 24 Aug 2026 06:10:00 GMT",
-      "source": "한겨레",
-      "score": 2
     }
   ]
 }
