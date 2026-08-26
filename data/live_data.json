@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-26T16:11:20",
+  "generated_at": "2026-08-26T18:11:02",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.38,
-    "price_krw": 1913.04,
-    "price_change_24h": -6.53291,
-    "price_change_7d": 29.22768,
-    "price_change_30d": 27.11214,
-    "market_cap_usd": 86563240298,
+    "price_krw": 1917.47,
+    "price_change_24h": -6.35412,
+    "price_change_7d": 30.35265,
+    "price_change_30d": 26.61239,
+    "market_cap_usd": 86827552642,
     "market_cap_rank": 5,
-    "volume_24h": 3877704062,
+    "volume_24h": 3739837155,
     "circulating_supply": 62744504852.0,
     "total_supply": 99985627691.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 74.11,
-    "sentiment_votes_down": 25.89,
+    "sentiment_votes_up": 72.81,
+    "sentiment_votes_down": 27.19,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 45.66,
-    "recent_tps": 45.66,
-    "recent_tx_count": 4109,
+    "tps_24h_avg": 54.93,
+    "recent_tps": 54.93,
+    "recent_tx_count": 4944,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106559086,
+    "ledger_seq": 106560915,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-26 16:11:11 KST",
+    "updated_at": "2026-08-26 18:10:53 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,15 +43,15 @@
     "aum_usd": 11020000,
     "total_net_inflow_usd": 11020000,
     "total_value_traded_usd": 11020000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/26 16:11",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/26 18:11",
     "data_source": "sosovalue",
     "partial": true
   },
   "etf_news": [
     {
-      "title": "리플 지원 XRP 재무사 에버노스, SEC 7차 정정으로 나스닥 상장 계획 진전",
-      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxNbTQ1aXhvRTM2WEVvWmJzd0R1ZHRPU2tueS0wSHBrQzU3dnFTZW9UeUUwRU1OMGFvTkF1UXY5bHo4QmpYNGFFenVLUFZzd2gzLWREakxXMlNzd0FTbEtKUDU1MW5ZMWU2cjdKODVKb2tqVGtKelRmV0JGdV9CcWhKMlhrLXJrYUJHOWd3QlZIa3lYcUpiQkxYNUVySDlEVUhkczBkRU9RUERfMi1oeTNfU21RNVlWZzIzeWhRMElHeXluTnVGblVuUmdaY1FjTjA3SE82QVlPaWdaOW4wMzJBX0JzeFFHSkRxUFpTYnNXT01NSG5sSGppb181YUVzZ0RIQnN5ZVdkakhrOThaWjc5QmZmNFdVRUUzVzM0N1Jsa0J4SUFfQkt3WFFhMURjUDliMGZlTkMwVmN3SVRubDM5dnN0cmJ1VTRKZ1VOY0RZa3BsY3EwZ2tXclozS0g4Y1M4dU5kUG9pVHl4cUNROEozUi1UTFFzaTdCM21fdXhBOXExdW1k?oc=5",
-      "date": "Wed, 26 Aug 2026 13:27:51 GMT",
+      "title": "XRP, 일주일 새 45% 급등·활성 지갑 650% 폭증…그러나 ‘10달러 서포트’는 아직",
+      "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNbFVRYlpySnZWeHFGMmh2dThCU1g4Ul9LY19zQzJ0bm5WeFVENzJhRC1vYlFKcEctbU1ieDFGbDNMSkozS054RE5KYzd2dXktUnh5VmJFWWJqNkM3WTVRcktZRFNpTEY0aGJjVHJIa2U0Um5pSGpIVlNkeXphaklNUFptbzBmelVEMm5vNGx3M0dIWXVueDRxOXg0cjZHMDlDRlVXWkNRMkZMZHA0UFh0T3F5T1J2RFBqeVdoT3h6X0tCVTdhTlJqTVNmb0VUSlNVVktxcU54SzJBakdzbkVhV2VIWE5sVDU4VDFITG1nZERObnFEZTRhR3hEY2RYV0ZMamJUQ0pwbWktMEFEZTRXTFkwVjBmeUdaMkZ4aWcxNjFXUzBmQVNCQmZTVHZlN2pNZDNSZG5UMjd4cWREUFg5QjYyNzdoRFJTNTRoWk9aMUpKOTJ3c2dMalZOUXlCRkIzUjVDSERtS1poOFBRRmNkUVM3V2NySzU1UVN0MXpXZDFLMjcyWHd3QVRsaHgyc2ZtbHl4bHp4dGhlM3c?oc=5",
+      "date": "Wed, 26 Aug 2026 17:10:19 GMT",
       "source": "Yellow.com",
       "score": 0
     },
@@ -93,18 +93,18 @@
   ],
   "general_news": [
     {
+      "title": "XRP, 일주일 새 45% 급등·활성 지갑 650% 폭증…그러나 ‘10달러 서포트’는 아직",
+      "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNbFVRYlpySnZWeHFGMmh2dThCU1g4Ul9LY19zQzJ0bm5WeFVENzJhRC1vYlFKcEctbU1ieDFGbDNMSkozS054RE5KYzd2dXktUnh5VmJFWWJqNkM3WTVRcktZRFNpTEY0aGJjVHJIa2U0Um5pSGpIVlNkeXphaklNUFptbzBmelVEMm5vNGx3M0dIWXVueDRxOXg0cjZHMDlDRlVXWkNRMkZMZHA0UFh0T3F5T1J2RFBqeVdoT3h6X0tCVTdhTlJqTVNmb0VUSlNVVktxcU54SzJBakdzbkVhV2VIWE5sVDU4VDFITG1nZERObnFEZTRhR3hEY2RYV0ZMamJUQ0pwbWktMEFEZTRXTFkwVjBmeUdaMkZ4aWcxNjFXUzBmQVNCQmZTVHZlN2pNZDNSZG5UMjd4cWREUFg5QjYyNzdoRFJTNTRoWk9aMUpKOTJ3c2dMalZOUXlCRkIzUjVDSERtS1poOFBRRmNkUVM3V2NySzU1UVN0MXpXZDFLMjcyWHd3QVRsaHgyc2ZtbHl4bHp4dGhlM3c?oc=5",
+      "date": "Wed, 26 Aug 2026 17:10:19 GMT",
+      "source": "Yellow.com",
+      "score": 2
+    },
+    {
       "title": "리플 지원 XRP 재무사 에버노스, SEC 7차 정정으로 나스닥 상장 계획 진전",
       "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxNbTQ1aXhvRTM2WEVvWmJzd0R1ZHRPU2tueS0wSHBrQzU3dnFTZW9UeUUwRU1OMGFvTkF1UXY5bHo4QmpYNGFFenVLUFZzd2gzLWREakxXMlNzd0FTbEtKUDU1MW5ZMWU2cjdKODVKb2tqVGtKelRmV0JGdV9CcWhKMlhrLXJrYUJHOWd3QlZIa3lYcUpiQkxYNUVySDlEVUhkczBkRU9RUERfMi1oeTNfU21RNVlWZzIzeWhRMElHeXluTnVGblVuUmdaY1FjTjA3SE82QVlPaWdaOW4wMzJBX0JzeFFHSkRxUFpTYnNXT01NSG5sSGppb181YUVzZ0RIQnN5ZVdkakhrOThaWjc5QmZmNFdVRUUzVzM0N1Jsa0J4SUFfQkt3WFFhMURjUDliMGZlTkMwVmN3SVRubDM5dnN0cmJ1VTRKZ1VOY0RZa3BsY3EwZ2tXclozS0g4Y1M4dU5kUG9pVHl4cUNROEozUi1UTFFzaTdCM21fdXhBOXExdW1k?oc=5",
       "date": "Wed, 26 Aug 2026 13:27:51 GMT",
       "source": "Yellow.com",
-      "score": 4
-    },
-    {
-      "title": "리플달러 발행량 20억달러, XRP레저 10억달러 근접",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5haktxY0hRenFPdklEeE8zZUNmRWR5RHVPdVRobEJycWtXVFQydkszYmxiOEVIclhlNFZZcjRyN3NhNE8xU2dCQmVPX0lvZGJxUTRoSFFuMm96Yl9ZR1Y0VdIBZkFVX3lxTFBxLW8temNnLXdrcHo3X1Z2SThqdUl3X1RIcmdTRGpGZzFpM1ltUVlZSGF6VzIwSEkyb2lhR0Ezc3hPMDFmTGxnQXdwYWxQWkJFOHIzNERZUFZVcnBwbVIwZ1BTMDdUQQ?oc=5",
-      "date": "Wed, 26 Aug 2026 12:45:55 GMT",
-      "source": "tokenpost.kr",
-      "score": 2
+      "score": 3
     },
     {
       "title": "카나리캐피털 CEO \"기관은 중앙화 원해…XRP, 금융 인프라 주도할 것\"",
@@ -112,6 +112,13 @@
       "date": "Wed, 26 Aug 2026 02:11:00 GMT",
       "source": "네이트",
       "score": 3
+    },
+    {
+      "title": "XRP, 1.50달러 저항선 직면…다음 방향은?",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE51MkIyV2NYTHBDN3JlenU3Q09mcDYtVzRscXFDRm8zYWgybFRFMkNoNWhiOU1hYmRhM3FOekRSRTVKWGVYYTl3a2RJMklIakY3VDk3SGNlX3c?oc=5",
+      "date": "Wed, 26 Aug 2026 01:35:00 GMT",
+      "source": "블록미디어",
+      "score": 2
     },
     {
       "title": "거래량 신기록 쓴 리플(XRP) 현물 ETF, 클래러티법 훈풍 타고 비트코인 따라잡을까",
@@ -128,6 +135,20 @@
       "score": 2
     },
     {
+      "title": "리플 XRP, 활성 주소 659% 폭증…1.5달러 지키며 온체인 수요 확대",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBiSlR3d01Sdm9XVXVlUzFXd05rYWNSYUs3dXROS0c5SU5HWTRwZmRYRXFYVk85UXo4MVNqRjV0NU1JbkgxazNuZGQwRzJuTHZKRVdJOE1KRVJscFFtQXZFTUEyTVlJU2tBNW1STzhzS19yQQ?oc=5",
+      "date": "Tue, 25 Aug 2026 13:14:29 GMT",
+      "source": "톱스타뉴스",
+      "score": 2
+    },
+    {
+      "title": "제미니, XRP 레저 직통 입출금 개시...\"아시아 리플 커뮤니티에는 빅뉴스\"",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1IVXhXMGMxdjN2R2VlTGtvRjhwVk1tb1dtVEQ1QnhpUDJteThVNlZJeTB0NF9WN3JRWHptM0lrbXZYY0RuRWh3SldB?oc=5",
+      "date": "Tue, 25 Aug 2026 10:20:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
       "title": "리플 50% 급등에 1.54달러 터치… 1.55달러 저항 돌파가 분수령",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vXy0tM1NfM2VsRmwtUWFWSEFPM3B0LUdmeENSdWwySWRpbFlyTFpvb0JMekJOalpvd1lkcWN2UnJVeGNETlFCNWY3b283TDIzXy1JTmdNa3Y2akNZN0VsSUpiSGtSUEZaLWROQS13MmI?oc=5",
       "date": "Tue, 25 Aug 2026 08:49:20 GMT",
@@ -140,27 +161,6 @@
       "date": "Tue, 25 Aug 2026 06:01:46 GMT",
       "source": "톱스타뉴스",
       "score": 3
-    },
-    {
-      "title": "리플(XRP), 일주일 새 50% 뛰었다…ETF 자금 유입에 상승세 이어질까",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVc2tHSlRNLWtvRkViVDlJREE0X1FSYk84NWVObjZpMmJ3VDlTMkhaYTVnWFpYbmZNMjR1a3dSVUdhZzdjaFNBRjZFTm55X21fZ1NJZlIxREFYbWc3dGVkSFBURVdNY0Ft?oc=5",
-      "date": "Mon, 24 Aug 2026 16:15:00 GMT",
-      "source": "CBC뉴스",
-      "score": 3
-    },
-    {
-      "title": "리플 사장 모니카 롱 방한… XRP Seoul 2026, 10월 3일 용산서 개최",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkVjhVTnBIZmdhVGRtQnRJQzRMb2dUdmFqbXQ1QlFPZ3VicWt0UDNab3Fxc2pjcVBpNEltY0w0NEZpdVZReHd1anBKSFBxd3ItZnFCbGYyUHJneWN1Sm43MUF5RnNLSERBdmRUNnFWR3Q?oc=5",
-      "date": "Mon, 24 Aug 2026 08:38:51 GMT",
-      "source": "블록체인투데이",
-      "score": 2
-    },
-    {
-      "title": "비트코인 7만7000달러 뛰자, 국내 코인시장도 '들썩'…XRP에 거래 몰렸다",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5fZnRQWDE5bXJ0bjhtTU4xMWNWZ1RZT0JHY1JPSzdLc2xSWkhJVGZhVmpqQWNfV0pyVkVFOHF6S0hTdVdDSjVHbk5PR0w1T2M?oc=5",
-      "date": "Mon, 24 Aug 2026 05:52:05 GMT",
-      "source": "v.daum.net",
-      "score": 2
     }
   ]
 }
