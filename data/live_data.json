@@ -1,51 +1,50 @@
 {
-  "generated_at": "2026-08-26T20:25:07",
+  "generated_at": "2026-08-26T23:54:05",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.37,
-    "price_krw": 1892.91,
-    "price_change_24h": -6.50165,
-    "price_change_7d": 28.04386,
-    "price_change_30d": 25.22511,
-    "market_cap_usd": 85830508737,
+    "price_usd": 1.42,
+    "price_krw": 1967.92,
+    "price_change_24h": -0.4789,
+    "price_change_7d": 29.04389,
+    "price_change_30d": 33.43974,
+    "market_cap_usd": 89249578127,
     "market_cap_rank": 5,
-    "volume_24h": 3970746309,
+    "volume_24h": 3918066278,
     "circulating_supply": 62744504852.0,
     "total_supply": 99985627691.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 71.93,
-    "sentiment_votes_down": 28.07,
+    "sentiment_votes_up": 71.79,
+    "sentiment_votes_down": 28.21,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 46.49,
-    "recent_tps": 46.49,
-    "recent_tx_count": 4649,
+    "tps_24h_avg": 58.96,
+    "recent_tps": 58.96,
+    "recent_tx_count": 4835,
     "recent_ledger_count": 24,
-    "recent_window_sec": 100,
-    "ledger_seq": 106562964,
+    "recent_window_sec": 82,
+    "ledger_seq": 106566160,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-26 20:24:54 KST",
+    "updated_at": "2026-08-26 23:53:51 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
   },
   "etf_flow": {
-    "approved_count": 4,
+    "approved_count": 0,
     "daily_inflow_usd": 0,
     "weekly_inflow_usd": 0,
-    "aum_usd": 11020000,
-    "total_net_inflow_usd": 11020000,
-    "total_value_traded_usd": 11020000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/26 20:25",
-    "data_source": "sosovalue",
-    "partial": true
+    "aum_usd": 0,
+    "total_net_inflow_usd": 0,
+    "total_value_traded_usd": 0,
+    "updated_at": "뉴스 자동 파싱 대기",
+    "data_source": "news_parse"
   },
   "etf_news": [
     {
@@ -57,9 +56,9 @@
     },
     {
       "title": "솔라나, ETF 자금 유입서 XRP 추월…하루 3349만달러 순유입",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA2Q0FmZjJhdVlqNUJOZjJRbzJNdEpLdUhIUWNCNDhEMFhkSGtsWTVYUXh2LUUwRVdmMTdHTzdPNmtsNGpoQXVRMFBmZWIxMW1tRmJUMTY5Ni1La05GV0F2TkUzclBmczVFYy1pRE90c1FGMkE?oc=5",
-      "date": "Tue, 25 Aug 2026 23:52:00 GMT",
-      "source": "디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VNjFMWl8zeHFvemdyZ3NWRWhmZmJKR0FVeWk0UVNhUXQwQmNOSm1fWkZqbERBaFliVjNGRUllWTZhTHNud25WMEk5aVFMejd3NHJr?oc=5",
+      "date": "Tue, 25 Aug 2026 23:53:07 GMT",
+      "source": "네이트",
       "score": 0
     },
     {
@@ -98,13 +97,6 @@
       "date": "Wed, 26 Aug 2026 19:21:57 GMT",
       "source": "Yellow.com",
       "score": 1
-    },
-    {
-      "title": "리플, 美 오전 거래서 3.5% '뚝'… 대형 코인 중 낙폭 1위",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbXlZT0xKdE42cG1wd2FpSTZKV3FfNzdlUXYtN0U5WnRhVURkWFlMRk40WXdvVHMzc05Ua21KZTBZZHdEWC1uN2JGeHlQZkhTTWdsVGFJVmZqSFFGMTZvbU9qNHJNUi1VS0JlZFg2djBFLXk1N1lLdkRFbkFRdzJra2txYmhBeFFf?oc=5",
-      "date": "Wed, 26 Aug 2026 17:50:45 GMT",
-      "source": "글로벌이코노믹",
-      "score": 2
     },
     {
       "title": "XRP, 일주일 새 45% 급등·활성 지갑 650% 폭증…그러나 ‘10달러 서포트’는 아직",
@@ -147,6 +139,13 @@
       "date": "Wed, 26 Aug 2026 01:35:00 GMT",
       "source": "블록미디어",
       "score": 2
+    },
+    {
+      "title": "속보 | 美 대형은행들, 스테이블코인 공동 발행 추진",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB6cU4xZmUzOFNBR3ZpVkZJSmNOUW1GVmI0NWctWjV1RTNtd3ZxTDVybURtb2lLQWYxal9PR09kbUJIZDF3eW9vYzFFMi1vUlAy?oc=5",
+      "date": "Tue, 25 Aug 2026 23:11:00 GMT",
+      "source": "CoinNess",
+      "score": 9
     },
     {
       "title": "거래량 신기록 쓴 리플(XRP) 현물 ETF, 클래러티법 훈풍 타고 비트코인 따라잡을까",
