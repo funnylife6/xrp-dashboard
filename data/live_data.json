@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-28T01:57:55",
+  "generated_at": "2026-08-28T13:47:21",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.45,
-    "price_krw": 2000.14,
-    "price_change_24h": 2.69476,
-    "price_change_7d": 14.92001,
-    "price_change_30d": 34.78575,
-    "market_cap_usd": 91132405396,
+    "price_usd": 1.42,
+    "price_krw": 1946.52,
+    "price_change_24h": -1.00116,
+    "price_change_7d": 2.64736,
+    "price_change_30d": 31.45282,
+    "market_cap_usd": 88849180333,
     "market_cap_rank": 5,
-    "volume_24h": 3597039206,
+    "volume_24h": 2848423706,
     "circulating_supply": 62744504852.0,
     "total_supply": 99985627691.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 77.44,
-    "sentiment_votes_down": 22.56,
+    "sentiment_votes_up": 75.2,
+    "sentiment_votes_down": 24.8,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 29.28,
-    "recent_tps": 29.28,
-    "recent_tx_count": 2606,
+    "tps_24h_avg": 35.72,
+    "recent_tps": 35.72,
+    "recent_tx_count": 3179,
     "recent_ledger_count": 24,
     "recent_window_sec": 89,
-    "ledger_seq": 106590299,
+    "ledger_seq": 106601260,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-28 01:57:44 KST",
+    "updated_at": "2026-08-28 13:47:15 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,11 +43,25 @@
     "aum_usd": 12160000,
     "total_net_inflow_usd": 12160000,
     "total_value_traded_usd": 12160000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/28 01:57",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/28 13:47",
     "data_source": "sosovalue",
     "partial": true
   },
   "etf_news": [
+    {
+      "title": "골드만삭스, XRP ETF 다시 담았다…8650만달러 분산 매수에 기관 수요 재점화",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GNDBqQVNLTnJJVHBjSm9Jb1JHenI1Y2dONmdoRG5kLXlabVM2Zk5OZC14cHUwaFh2QmUtOHc1Z2JwMWxSZlNnOWdsbDh4cGJlVHp3N2pCUnpKWG40SlFhMl96NlB2cllhS0JNalAwZWg?oc=5",
+      "date": "Fri, 28 Aug 2026 02:49:01 GMT",
+      "source": "블록체인투데이",
+      "score": 0
+    },
+    {
+      "title": "XRP 현물 ETF, 8월 순유입 1억달러 돌파…월간 최고 기록 넘보나",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9KNjRMem9FcS1kN050cnRFcWRDbEc4SDdfNnZ1WkhoV0VfRnNxT3A5MVhMSUNGLU01MUxxTFU1OHRiOFU1dTc2Y0RUa3VmZG5zSm9kN3A4MVRmRC1ack5aQkp1S1BqbVA3QTBHWEltcTdtc00?oc=5",
+      "date": "Fri, 28 Aug 2026 01:52:35 GMT",
+      "source": "디지털투데이",
+      "score": 0
+    },
     {
       "title": "블랙록, XRP 현물 ETF에 선 긋기?...전문가 \"위험한 선택\"",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9nSXRuWVZsNUhnZENPdUxRaklkYWpwNTVTc044Vzd1N1EtQkE2LWlVWWpFLUZGT3VqSUMyRG5hRUN2VFBOTGdaSlVR?oc=5",
@@ -70,28 +84,56 @@
       "score": 0
     },
     {
-      "title": "제라시 “블랙록도 결국 알트코인 ETF 낸다”…비트코인·이더리움에만 696억달러 묶여",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBISUtsazEwUzEtWnhaanA1Z0o4SFNwYVluN3NxOTZkbU0wT2ppOVVCeWp4VHJtdmFYeFhiYWZfX0lVeFVmWENxV2k5WHVNUWdZQlVrcWd3?oc=5",
-      "date": "Thu, 27 Aug 2026 13:04:00 GMT",
-      "source": "위키트리",
-      "score": 0
-    },
-    {
       "title": "XRP 에스크로 문구 담긴 SEC ETF 서류…“공급 확대” 아닌 유동성 활용 가능성 주목",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4yVWJXTzZKeDFQMHpRbTBqbTVZOG1kQ0ZWZVZTakphWnppampEWmFhQ1NfWk9UUXl1bi1seWk2SVRuMWJOTGxRR3ZVOVYxcjRMcjdGZFI2b3pWZ0pzY0h1Njhya190RXPSAWtBVV95cUxNTFlyQ19VZmVlNTdkZFc4WWc3OXVaT1AzeHhuZk0ta25HLWRWd0IwTTFra0cxbDlHLWNQQmpOR3lfby1WaWtPQ3NqMGgxQ0xMbTloRGJtT0kzMDluVGF0RTN4aHpjdGZ5VVZmbw?oc=5",
       "date": "Thu, 27 Aug 2026 05:56:34 GMT",
       "source": "비온미디어",
       "score": 0
-    },
-    {
-      "title": "\"다음은 리플이다\" 8일 연속 자금 폭풍 유입… 소액주주만 모르는 시그널?",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9UWFpCWE9aMUlvYWZSeGtfN05KeWpFNlo0d3MzWm91dGNtNEhlSnRLTl92dVpZaXI2dVJnWFROOHF4Y3dma21JQUE2V3VKeVRoVE9zbkFxb19ZRlhObW95RUpvblkzLVJ3OUM4TG9xRnRvVjQ?oc=5",
-      "date": "Wed, 26 Aug 2026 21:38:45 GMT",
-      "source": "핀포인트뉴스",
-      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "리플이 투자한 'XRP 트레저리' 에버노스, 나스닥 상장 초읽기",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBEZjZmU0NvVE0tWGNNdnhGNkpOeGY3R3JLbEk5TXhReWZ4ODNFbWotaG5UVmlnM1JQNW5JZmlhWlFkTjhlNDB2dWFoRFVBbFdZNWZVYTU4NlBSYjBmeXNjX0pjTldveUJvMVBxSHI0X1BqWEE?oc=5",
+      "date": "Fri, 28 Aug 2026 10:56:50 GMT",
+      "source": "마켓인",
+      "score": 2
+    },
+    {
+      "title": "고래, 바이낸스서 XRP 2.31억 인출…6개월 최대",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTTd4dHhXTlJRaXVTNXZtR1IxQkFERUxycnZERFVOREV6S3pNOTUtVUhNaWRQdENJWlBKVV9majhmU3dqQXhkWWJ4X3Y2TUVPd09IdHlUd2VWQnFXMTZ0R1g1cTl5RXpJVUZQaFV0YWZud25uRk8xbGNoSjExdHhtT19xYw?oc=5",
+      "date": "Fri, 28 Aug 2026 10:14:07 GMT",
+      "source": "BeInCrypto",
+      "score": 2
+    },
+    {
+      "title": "\"XRP, 나스닥 직행 열렸다\"…리플 지원 에버노스 美 SEC 승인 획득",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMUhtTW9wZXN4SFYwRnNYQ3BMZk8zSUJSVWpfdlpQdC05Q3JvLUN0VGM5N3BkcWluX2F1WnRTVHJGZklyR04xQVhXUDJWTGk3d083YVNRWlh0eWFteWN1RTlyalltUFl2UzJTYy13Y0UwQk9wUzRMV2FBeGRWQXBObFRzTFNuLTYy?oc=5",
+      "date": "Fri, 28 Aug 2026 05:59:47 GMT",
+      "source": "글로벌이코노믹",
+      "score": 3
+    },
+    {
+      "title": "[D-BIZ 암호화폐 뉴스] 리플 지원 XRP 재무 기업 ‘에버노스’, SEC 승인 획득… 나스닥 상장 주주 투표 임박",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZeFdVTmxkS2ZZRUthUTlCUFVTWmhKM0tIVGt0UU82V1Flem5EOHdWTVh5c0xvSGR6Xzd3ME1DTXZGRUxtek9zV0NOX0xaWTlYRE9LUWw4ZmRla2xkaVcwOUxDcDE2ZTZSZHR5bA?oc=5",
+      "date": "Fri, 28 Aug 2026 05:01:37 GMT",
+      "source": "데일리비즈온",
+      "score": 3
+    },
+    {
+      "title": "골드만삭스, XRP ETF 다시 담았다…8650만달러 분산 매수에 기관 수요 재점화",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GNDBqQVNLTnJJVHBjSm9Jb1JHenI1Y2dONmdoRG5kLXlabVM2Zk5OZC14cHUwaFh2QmUtOHc1Z2JwMWxSZlNnOWdsbDh4cGJlVHp3N2pCUnpKWG40SlFhMl96NlB2cllhS0JNalAwZWg?oc=5",
+      "date": "Fri, 28 Aug 2026 02:49:01 GMT",
+      "source": "블록체인투데이",
+      "score": 3
+    },
+    {
+      "title": "XRP 현물 ETF, 8월 순유입 1억달러 돌파…월간 최고 기록 넘보나",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nM2M4SDh3cnExbDhfVjZjQ3JXMjB0UjFhNEluaEJRSVU2OTEtUXNsN1A3OXNtS1hOcGNUTjNWUVFaam1teHVRQ0hXR3FubXE2YUxZ?oc=5",
+      "date": "Fri, 28 Aug 2026 01:53:00 GMT",
+      "source": "네이트",
+      "score": 4
+    },
     {
       "title": "리플(XRP), 상위 결제 코인 중 연간 희석률 5.5% ‘최저’… 공급 인플레이션 통제력 입증",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EeFhkM3VCTlN2Mk4tVVdGMTlpS0lPcEhpakpkVEVpcTJhR1ZfNVVJQ3Jlek5iNHlPeDFCc0tISlBfQXFHVlQ2ZGgwMGNIS1NqV0V3ZlYtakwxaExyeG5oalF1cnB6QkhyYV9INGZOSVc?oc=5",
@@ -100,31 +142,10 @@
       "score": 2
     },
     {
-      "title": "코인니스 - 가장 빠르고 정확한 코인 투자 뉴스, 커뮤니티",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBrb2U0bzdTalF4UUtQRC1jQXhNR2cySWc2MEROSEl5dTctaEpYcnVMMFRmbTZpbGVoem9SRlpqbU5VN1JPVXc?oc=5",
-      "date": "Thu, 27 Aug 2026 23:42:33 GMT",
-      "source": "CoinNess",
-      "score": 8
-    },
-    {
-      "title": "월가 대형 은행들, XRP ETF 대거 매집…기관 자금 유입 가속화",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOVMxWUFsNklncG95STJLbmQ3cFVFRm5XX3d1ajVqVDN6SmZXaHB5TzRRck1oRzFuMlg3UDJRSFpEd3ZQWE94eGJlemNaNk1VVkxzZUoyaGZsdzE5UGlZNExocVptNVdGY0VENlROQzRiUi1lNDczODhQRXRnTzBQYmpDT25qdjBj?oc=5",
-      "date": "Thu, 27 Aug 2026 22:47:20 GMT",
-      "source": "글로벌이코노믹",
-      "score": 5
-    },
-    {
       "title": "리플XRP·솔라나 오르고 온톨로지가스 급락…규제·금리 경계",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pSk9RZ094dm1TOGJCTV9kNGUtNGtkcTJ4bGswTUFNZTl6bkgtMTlQRXBRLWRwaC00Z0JqNlphVnZzbjVHcGdXSTlSNGx5dDc2Rjg4OGtEb2JzN19ZRlZ5VERpcGpxSFZhSUNUT000RmJaUQ?oc=5",
       "date": "Thu, 27 Aug 2026 22:23:58 GMT",
       "source": "톱스타뉴스",
-      "score": 2
-    },
-    {
-      "title": "리플, 엑스알피레저 브리지 개정안 철회 권고",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaa2VuMXlqXzV3bkkxNTc1T2hIX2lkZzRJRzVGb2VNdVdTSnFwUU9acVozWkpNS2dpLXpOZEF5TnVVbUM4Mm8tLWxMUXNtbXJ2b0IzQjNBZVBZX1nSAWBBVV95cUxPSHVJSFZlRzFDd2lFV25kYV9PRVZUQzlOQm5wMjBra3ZhbVRqWE1CaFZDMHVmcWhPdEpES25LMmNpc2U1UTBCVFkzSHNlU2JMUU1NM0w3QkZrZ2tyVnU0d0U?oc=5",
-      "date": "Thu, 27 Aug 2026 20:10:36 GMT",
-      "source": "tokenpost.kr",
       "score": 2
     },
     {
@@ -140,27 +161,6 @@
       "date": "Thu, 27 Aug 2026 15:42:00 GMT",
       "source": "블록미디어",
       "score": 4
-    },
-    {
-      "title": "리플 RLUSD 시가총액 20억달러 돌파…이더리움·XRP 레저가 절반씩 나눠 가졌다",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RRFpMdjRyRnczSlZoWHZqZ0pfSlVqejdtUHdkSXd1OGN1cmxrbl8tSE9XcUpJUjRWV0M4Mk5HR0RfT2d1Y1ZZLU53LWFWbGR0TU1tU0Zn?oc=5",
-      "date": "Thu, 27 Aug 2026 15:22:00 GMT",
-      "source": "위키트리",
-      "score": 3
-    },
-    {
-      "title": "리플, 골드만·JP모건 시장 진출…XRP 제외",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50aTloYWs0MFV4QVZmeFItQVM0WW1Sd2VuWWNRcHNfSmFDOXE3dlFqN19BMGxyWFdvVTR1ZkMwanJINktXOWI3VHVCZ1V5X0lMcGNJNkVSVDdITWxzTGdSSjJvWlJndGtDOWlDTQ?oc=5",
-      "date": "Thu, 27 Aug 2026 15:04:53 GMT",
-      "source": "BeInCrypto",
-      "score": 2
-    },
-    {
-      "title": "리플, XRP 공급 확대 준비?...\"美 암호화폐 법안·RLUSD가 핵심 변수\"",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAzUkJGMTF6eG1hT2tQR1NqcTExOEN0Nk9Qc2tyWXNHVG1QNGx5d0ZlZjdhMXJzQWNsOEV4dmVQMGFKSjdKMHkwT2tn?oc=5",
-      "date": "Thu, 27 Aug 2026 10:20:00 GMT",
-      "source": "코인리더스",
-      "score": 3
     }
   ]
 }
