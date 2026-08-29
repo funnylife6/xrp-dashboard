@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-29T19:02:30",
+  "generated_at": "2026-08-29T21:51:14",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.4,
-    "price_krw": 1921.72,
-    "price_change_24h": 1.58012,
-    "price_change_7d": -6.16198,
-    "price_change_30d": 28.64165,
-    "market_cap_usd": 87569823887,
+    "price_usd": 1.39,
+    "price_krw": 1920.64,
+    "price_change_24h": 1.61385,
+    "price_change_7d": -7.10746,
+    "price_change_30d": 28.59089,
+    "market_cap_usd": 87590350382,
     "market_cap_rank": 5,
-    "volume_24h": 1243580106,
+    "volume_24h": 1129468435,
     "circulating_supply": 62744504852.0,
     "total_supply": 99985627691.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 73.53,
-    "sentiment_votes_down": 26.47,
+    "sentiment_votes_up": 79.17,
+    "sentiment_votes_down": 20.83,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 45.96,
-    "recent_tps": 45.96,
-    "recent_tx_count": 4136,
+    "tps_24h_avg": 46.41,
+    "recent_tps": 46.41,
+    "recent_tx_count": 4177,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106628280,
+    "ledger_seq": 106630892,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-29 19:02:24 KST",
+    "updated_at": "2026-08-29 21:51:04 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 15400000,
     "total_net_inflow_usd": 15400000,
     "total_value_traded_usd": 15400000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/29 19:02",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/29 21:51",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -84,10 +84,10 @@
       "score": 0
     },
     {
-      "title": "크립텍스 ETF 서류에 등장한 리플 에스크로 추가 방출 문구, 출처는 안 밝혀져 논란",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uRXp0cTAzQ0RCdGZwWk1oZnpUTmJQRVhRRVE3UGNtVThJZU80YWozcGllNDg3bkxPcFZGWjZwUHlkMk1RZVU0aDd3LWhYN0ctcDVGazB3?oc=5",
-      "date": "Thu, 27 Aug 2026 16:22:00 GMT",
-      "source": "위키트리",
+      "title": "블랙록, XRP 현물 ETF에 선 긋기?...전문가 \"위험한 선택\"",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9nSXRuWVZsNUhnZENPdUxRaklkYWpwNTVTc044Vzd1N1EtQkE2LWlVWWpFLUZGT3VqSUMyRG5hRUN2VFBOTGdaSlVR?oc=5",
+      "date": "Thu, 27 Aug 2026 19:00:00 GMT",
+      "source": "코인리더스",
       "score": 0
     }
   ],
@@ -119,6 +119,13 @@
       "date": "Fri, 28 Aug 2026 23:27:27 GMT",
       "source": "톱스타뉴스",
       "score": 2
+    },
+    {
+      "title": "속보 | ETH 공급량, 최근 7일간 2만125개 이상 증가",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBfdkg2OFRSWHF3UVA3TDZLbXJZQ3dsdlFteVlVMld6T1A3Y3p0Nnh0cy02YUp3d0lyb0d0bkVheWxUMm1EQkxsTERmWlNpRHNf?oc=5",
+      "date": "Fri, 28 Aug 2026 16:39:00 GMT",
+      "source": "CoinNess",
+      "score": 8
     },
     {
       "title": "에버노스 XRP 트레저리, SEC 효력선언에도 나스닥 상장은 9월30일 표결이 좌우한다",
@@ -154,13 +161,6 @@
       "date": "Fri, 28 Aug 2026 02:49:01 GMT",
       "source": "블록체인투데이",
       "score": 3
-    },
-    {
-      "title": "리플(XRP), 상위 결제 코인 중 연간 희석률 5.5% ‘최저’… 공급 인플레이션 통제력 입증",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EeFhkM3VCTlN2Mk4tVVdGMTlpS0lPcEhpakpkVEVpcTJhR1ZfNVVJQ3Jlek5iNHlPeDFCc0tISlBfQXFHVlQ2ZGgwMGNIS1NqV0V3ZlYtakwxaExyeG5oalF1cnB6QkhyYV9INGZOSVc?oc=5",
-      "date": "Fri, 28 Aug 2026 01:20:36 GMT",
-      "source": "블록체인투데이",
-      "score": 2
     }
   ]
 }
