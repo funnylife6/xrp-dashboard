@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-29T23:45:51",
+  "generated_at": "2026-08-30T02:46:11",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.4,
-    "price_krw": 1922.46,
-    "price_change_24h": 0.91761,
-    "price_change_7d": -4.8931,
-    "price_change_30d": 28.64826,
-    "market_cap_usd": 87589799835,
+    "price_usd": 1.39,
+    "price_krw": 1920.94,
+    "price_change_24h": 0.91608,
+    "price_change_7d": -6.33315,
+    "price_change_30d": 29.16019,
+    "market_cap_usd": 87515699771,
     "market_cap_rank": 5,
-    "volume_24h": 1087121484,
+    "volume_24h": 1074205354,
     "circulating_supply": 62744504852.0,
     "total_supply": 99985627691.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 78.87,
-    "sentiment_votes_down": 21.13,
+    "sentiment_votes_up": 80.0,
+    "sentiment_votes_down": 20.0,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 46.88,
-    "recent_tps": 46.88,
-    "recent_tx_count": 4219,
+    "tps_24h_avg": 63.1,
+    "recent_tps": 63.1,
+    "recent_tx_count": 5679,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106632668,
+    "ledger_seq": 106635457,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-29 23:45:45 KST",
+    "updated_at": "2026-08-30 02:46:02 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,11 +43,32 @@
     "aum_usd": 15400000,
     "total_net_inflow_usd": 15400000,
     "total_value_traded_usd": 15400000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/29 23:45",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/30 02:46",
     "data_source": "sosovalue",
     "partial": true
   },
   "etf_news": [
+    {
+      "title": "리플(XRP), ETF 자금 몰리는데 가격은 하락…“1.37달러 지지선이 갈림길”",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HbVg2UE5ORHF2Ynl4c0k2S2NWRldCLXEzVUFGR0JNZk5FdnNodHVfUVVDTFdPU2pzbnV1bHRsWW11bHBOelVWb3hEWC1OeG11ZnhaTXFvN0l5YUVrb21EdkdiYlBLajBX?oc=5",
+      "date": "Sun, 30 Aug 2026 01:52:52 GMT",
+      "source": "CBC뉴스",
+      "score": 0
+    },
+    {
+      "title": "리플 XRP 200주 EMA 방어…ETF 유입 최고·에버노스 상장 임박",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hbDI5MDQ1cEt6Q0Z6RG8tRXNYNU1lRTlaMUlQbUVYVVJMLXpLa0p2YUJSUmJqQVF6UjlLUWdUOTE3VmJ2Tm1nMlF2R0NqLTNfNldIemplWFYtY3JPblpzV3Z2NlFsMjFSaEItM3FISW4xQQ?oc=5",
+      "date": "Sun, 30 Aug 2026 00:26:28 GMT",
+      "source": "톱스타뉴스",
+      "score": 0
+    },
+    {
+      "title": "리플 XRP ETF 9일간 1억 5,354만 달러 유입…가격은 8.5%↓",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9BYWZWYWw1aUhsblJkSzRGald6RjhDVnRsYzZuSkZ0eUQxS1E0SVRLd3NKcHlTNkwzYmI2czlVVjJHR21jc1lmMEkxTkNjQ2dsdjg4Smg3UFdETnM4aHR4c1VQVTBVZTFpRmp5dHB3QWM5dw?oc=5",
+      "date": "Sun, 30 Aug 2026 00:22:14 GMT",
+      "source": "톱스타뉴스",
+      "score": 0
+    },
     {
       "title": "엑스알피, 두 가지 호재…ETF 자금 유입 · 에버노스 상장 임박",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5md1BkZUVCcDg0TjY4MDhDaEVEb1NZNHRmek01ZG5vM3BWU05ocG5PQmtPeFptTG9HODRhOGR0M1JmVGljSEhMNl9DUE1YZnFPaC1ubWdBWGs?oc=5",
@@ -68,36 +89,29 @@
       "date": "Sat, 29 Aug 2026 04:17:00 GMT",
       "source": "블록미디어",
       "score": 0
-    },
-    {
-      "title": "HYPE ETF 하루 순유입, XRP 앞질러…고위험 자금 쏠림",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5pN3o3aE5tcnhJbmx5QjJSdnljQzRuM0RYaVJPQkszaHZ5VGpjU0g1SjVTMTNKWDJiSmxEckJJQ2VkSTBCeWFNMEpNWjVZTENsXzVHZE85Q1dnM1hOTjZQZ2c5SFJBdHFKX0t3ZHlPMXMwelE?oc=5",
-      "date": "Fri, 28 Aug 2026 22:19:00 GMT",
-      "source": "디지털투데이",
-      "score": 0
-    },
-    {
-      "title": "골드만삭스, XRP ETF 다시 담았다…8650만달러 분산 매수에 기관 수요 재점화",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GNDBqQVNLTnJJVHBjSm9Jb1JHenI1Y2dONmdoRG5kLXlabVM2Zk5OZC14cHUwaFh2QmUtOHc1Z2JwMWxSZlNnOWdsbDh4cGJlVHp3N2pCUnpKWG40SlFhMl96NlB2cllhS0JNalAwZWg?oc=5",
-      "date": "Fri, 28 Aug 2026 02:49:01 GMT",
-      "source": "블록체인투데이",
-      "score": 0
-    },
-    {
-      "title": "XRP 현물 ETF, 8월 순유입 1억달러 돌파…월간 최고 기록 넘보나",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9KNjRMem9FcS1kN050cnRFcWRDbEc4SDdfNnZ1WkhoV0VfRnNxT3A5MVhMSUNGLU01MUxxTFU1OHRiOFU1dTc2Y0RUa3VmZG5zSm9kN3A4MVRmRC1ack5aQkp1S1BqbVA3QTBHWEltcTdtc00?oc=5",
-      "date": "Fri, 28 Aug 2026 01:52:35 GMT",
-      "source": "디지털투데이",
-      "score": 0
     }
   ],
   "general_news": [
     {
-      "title": "리플XRP·비트코인 보합, 프롬 급등…거래 47.6% 급감",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfNnlvYUxKR2xQYXc0Sm43VExQWU5oYXAyekw0b3kwUURqUHhMZWpRZ2EzYWRBdUw4R3NHQ0hLX1Q0c0YyX2ZWMDlFVWtTQjQ2a1JpXzM4dTkxLWF5ajRFR2ZRbVRpS0xRNUFDZWJxaVFrdw?oc=5",
-      "date": "Sat, 29 Aug 2026 22:41:00 GMT",
+      "title": "리플(XRP), ETF 자금 몰리는데 가격은 하락…“1.37달러 지지선이 갈림길”",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HbVg2UE5ORHF2Ynl4c0k2S2NWRldCLXEzVUFGR0JNZk5FdnNodHVfUVVDTFdPU2pzbnV1bHRsWW11bHBOelVWb3hEWC1OeG11ZnhaTXFvN0l5YUVrb21EdkdiYlBLajBX?oc=5",
+      "date": "Sun, 30 Aug 2026 01:52:52 GMT",
+      "source": "CBC뉴스",
+      "score": 3
+    },
+    {
+      "title": "리플 XRP 200주 EMA 방어…ETF 유입 최고·에버노스 상장 임박",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hbDI5MDQ1cEt6Q0Z6RG8tRXNYNU1lRTlaMUlQbUVYVVJMLXpLa0p2YUJSUmJqQVF6UjlLUWdUOTE3VmJ2Tm1nMlF2R0NqLTNfNldIemplWFYtY3JPblpzV3Z2NlFsMjFSaEItM3FISW4xQQ?oc=5",
+      "date": "Sun, 30 Aug 2026 00:26:28 GMT",
       "source": "톱스타뉴스",
-      "score": 2
+      "score": 3
+    },
+    {
+      "title": "리플 XRP ETF 9일간 1억 5,354만 달러 유입…가격은 8.5%↓",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9BYWZWYWw1aUhsblJkSzRGald6RjhDVnRsYzZuSkZ0eUQxS1E0SVRLd3NKcHlTNkwzYmI2czlVVjJHR21jc1lmMEkxTkNjQ2dsdjg4Smg3UFdETnM4aHR4c1VQVTBVZTFpRmp5dHB3QWM5dw?oc=5",
+      "date": "Sun, 30 Aug 2026 00:22:14 GMT",
+      "source": "톱스타뉴스",
+      "score": 3
     },
     {
       "title": "리플 2억3100만개 바이낸스서 빠져나갔다",
@@ -115,10 +129,10 @@
     },
     {
       "title": "XRP(리플) 트레저리 기업 에버노스, 나스닥 상장 눈앞!",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE43Ynp4LVVqenl4eGQ1MFllaV8taHFDUGp6RU51VVV4dGxwbkF2Rl8zaVhXNlEyVS1qYzBZelVvcEJaa3ph?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1JcWxfMDZQbFBGSDNTbFZOdF9Fd21Xa2NTbDluYWw0dWFaNkFKcXJpSWI0NGdrZVljd2otcFhZYlk0NjY5U0YzN1Z3?oc=5",
       "date": "Fri, 28 Aug 2026 23:46:00 GMT",
       "source": "코인리더스",
-      "score": 3
+      "score": 2
     },
     {
       "title": "속보 | ETH 공급량, 최근 7일간 2만125개 이상 증가",
@@ -147,20 +161,6 @@
       "date": "Fri, 28 Aug 2026 06:17:00 GMT",
       "source": "위키트리",
       "score": 2
-    },
-    {
-      "title": "\"XRP, 나스닥 직행 열렸다\"…리플 지원 에버노스 美 SEC 승인 획득",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMUhtTW9wZXN4SFYwRnNYQ3BMZk8zSUJSVWpfdlpQdC05Q3JvLUN0VGM5N3BkcWluX2F1WnRTVHJGZklyR04xQVhXUDJWTGk3d083YVNRWlh0eWFteWN1RTlyalltUFl2UzJTYy13Y0UwQk9wUzRMV2FBeGRWQXBObFRzTFNuLTYy?oc=5",
-      "date": "Fri, 28 Aug 2026 05:59:47 GMT",
-      "source": "글로벌이코노믹",
-      "score": 3
-    },
-    {
-      "title": "[D-BIZ 암호화폐 뉴스] 리플 지원 XRP 재무 기업 ‘에버노스’, SEC 승인 획득… 나스닥 상장 주주 투표 임박",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZeFdVTmxkS2ZZRUthUTlCUFVTWmhKM0tIVGt0UU82V1Flem5EOHdWTVh5c0xvSGR6Xzd3ME1DTXZGRUxtek9zV0NOX0xaWTlYRE9LUWw4ZmRla2xkaVcwOUxDcDE2ZTZSZHR5bA?oc=5",
-      "date": "Fri, 28 Aug 2026 05:01:37 GMT",
-      "source": "데일리비즈온",
-      "score": 3
     }
   ]
 }
