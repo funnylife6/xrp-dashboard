@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-30T14:10:22",
+  "generated_at": "2026-08-30T18:07:21",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.41,
-    "price_krw": 1935.77,
-    "price_change_24h": 1.20489,
-    "price_change_7d": -7.56889,
-    "price_change_30d": 31.94032,
-    "market_cap_usd": 88157788951,
+    "price_usd": 1.42,
+    "price_krw": 1954.77,
+    "price_change_24h": 1.98039,
+    "price_change_7d": -5.73526,
+    "price_change_30d": 32.80367,
+    "market_cap_usd": 89050764354,
     "market_cap_rank": 5,
-    "volume_24h": 1151993984,
+    "volume_24h": 1224369187,
     "circulating_supply": 62744504852.0,
     "total_supply": 99985627691.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 72.73,
-    "sentiment_votes_down": 27.27,
+    "sentiment_votes_up": 77.53,
+    "sentiment_votes_down": 22.47,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 28.33,
-    "recent_tps": 28.33,
-    "recent_tx_count": 2550,
+    "tps_24h_avg": 21.42,
+    "recent_tps": 21.42,
+    "recent_tx_count": 1906,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 106646084,
+    "recent_window_sec": 89,
+    "ledger_seq": 106649758,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-30 14:10:10 KST",
+    "updated_at": "2026-08-30 18:07:08 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 15400000,
     "total_net_inflow_usd": 15400000,
     "total_value_traded_usd": 15400000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/30 14:10",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/30 18:07",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -93,10 +93,24 @@
   ],
   "general_news": [
     {
+      "title": "RLUSD 602.27, XRP 결제액 앞섰다",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JYjJoNm15eWh0M0d5OUVPSjhhaDdzdTZhMXMwNjZqYVlMUDFyQ0lXanZGcUpjaW5ETFFWOWRNYm5URWJsQlppWEtTMmhaYzNXaGpuUVdCelVHX0wxMGhBMNIBZkFVX3lxTFBJOVdPUE5VWUlyNXhDU0VGZFVPNUtITDNXOHN2TEhXV251VVZNbi1HcDAwVGlTcWZOb0FtYWwyc1BfM1ZPVHlQZ1QxekdRQ1NnWEstWmtkal9zcTE4Sm02QU93SmQ5UQ?oc=5",
+      "date": "Sun, 30 Aug 2026 15:15:11 GMT",
+      "source": "tokenpost.kr",
+      "score": 3
+    },
+    {
       "title": "리플, XRP 레저 양자컴퓨터 대비 4단계 로드맵 공개…2028년 메인넷 전환 목표",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wVVMwRkpCcFRMRkR4Y0FwSkZtTzRrc3JLYjcyb3ZYM21mMWdWMEl2azNaWWZHTWcxOUFHbXVoTlJma1hOel9KamhBV3dWczR0SWRFSE5R?oc=5",
       "date": "Sun, 30 Aug 2026 13:45:00 GMT",
       "source": "위키트리",
+      "score": 2
+    },
+    {
+      "title": "리플(XRP) 9월 1일 1.40달러 전망…예측시장 81% \"1.30~1.50달러\"",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5YRWRLTWdGaU8wQW8yMkhFUTJ2U0gwTVBnbkM0YS1KQjROY3JTRndjaXB5QU1hR3J3MHpFNTBRbWduOE5oRUU3WHJB?oc=5",
+      "date": "Sun, 30 Aug 2026 12:56:00 GMT",
+      "source": "코인리더스",
       "score": 2
     },
     {
@@ -114,10 +128,10 @@
       "score": 3
     },
     {
-      "title": "리플, XRP레저 양자내성 전환 2028년 목표",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RRkMwSW1SdDRxSmZjWmpUcGlUdUR5ZE5DbjBvNXlScnBiNkJGeGxXUVQwRWRfbXpnbFk2dWtxVldWdzZfdTBab05PVjJpdVNMWnpVR05FZkJLdE3SAWBBVV95cUxOWUl0YnlGS2J5NDFmcDk4OURHUkxHa1pzeUVFYzAtalJYTlVIMG5zaXA4Q2p1YjVxMzdva2wwQUlKdEtoZXZhdWk0eVdidVRoYkdCSjhQTG9kaGtnVmJtTEQ?oc=5",
-      "date": "Sun, 30 Aug 2026 08:31:20 GMT",
-      "source": "tokenpost.kr",
+      "title": "\"XRP, 8월 36.9% 급등 속 9월 추가 상승 확률 66.7%\"",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR3hKMTVzU0g3Q2d5czA1cTBRQ2ZraGduZWxrR0RVVFlmZ1JvQV9Hd1dkQWRLYW9QdV9fM1FSMmJ2SXl4VEQ5QVpQaWFReVZIaFNFRzZCUElZNUkzdU5ldnN1cVVXLXVFTWpiWEsxeGZSLXlfbU9hazBFUVhtc3NFZWZ1NnhHR19w?oc=5",
+      "date": "Sun, 30 Aug 2026 03:10:37 GMT",
+      "source": "글로벌이코노믹",
       "score": 2
     },
     {
@@ -145,22 +159,8 @@
       "title": "리플, XRP레저 보안 체계 전환 나선다…\"양자컴 시대 대비\" By Bloomingbit",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9KaUxURnNDby1UUmRvTjBiMWVsaGlfNksydE9IUVZUVUNGUHpXS1J3OXBMME9PbWQyMWY5QzBjY1FmdkxWM3BwRTRxMTN3enJabWRqSkUydFNzbnZjVFJ6bmxhdjV1ZE9LWHV5aGJvbGdPdU0?oc=5",
       "date": "Sat, 29 Aug 2026 15:27:00 GMT",
-      "source": "Investing.com 한국어",
+      "source": "Investing.com",
       "score": 2
-    },
-    {
-      "title": "속보 | BTC $8만 일시 회복에도…\"지금은 못 사, 눌림목 대기\" 41.3%",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE94RjUwSXNFdnZBZTlac1MyOE93WXZzYTBubkFEV24xamh4VWRrQ19fY0ZQUzZDdjBzSVZ6RnpNRG1IaHBSa25tb0I1QVhVemd1?oc=5",
-      "date": "Sat, 29 Aug 2026 15:00:00 GMT",
-      "source": "CoinNess",
-      "score": 8
-    },
-    {
-      "title": "XRP(리플) 트레저리 기업 에버노스, 나스닥 상장 눈앞!",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE43Ynp4LVVqenl4eGQ1MFllaV8taHFDUGp6RU51VVV4dGxwbkF2Rl8zaVhXNlEyVS1qYzBZelVvcEJaa3ph?oc=5",
-      "date": "Fri, 28 Aug 2026 23:46:00 GMT",
-      "source": "코인리더스",
-      "score": 3
     }
   ]
 }
