@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-30T02:46:11",
+  "generated_at": "2026-08-30T08:46:12",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.39,
-    "price_krw": 1920.94,
-    "price_change_24h": 0.91608,
-    "price_change_7d": -6.33315,
-    "price_change_30d": 29.16019,
-    "market_cap_usd": 87515699771,
+    "price_krw": 1914.8,
+    "price_change_24h": 0.6245,
+    "price_change_7d": -4.7404,
+    "price_change_30d": 28.95984,
+    "market_cap_usd": 87231177537,
     "market_cap_rank": 5,
-    "volume_24h": 1074205354,
+    "volume_24h": 1041900657,
     "circulating_supply": 62744504852.0,
     "total_supply": 99985627691.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 80.0,
-    "sentiment_votes_down": 20.0,
+    "sentiment_votes_up": 77.27,
+    "sentiment_votes_down": 22.73,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 63.1,
-    "recent_tps": 63.1,
-    "recent_tx_count": 5679,
+    "tps_24h_avg": 17.46,
+    "recent_tps": 17.46,
+    "recent_tx_count": 1571,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106635457,
+    "ledger_seq": 106641040,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-08-30 02:46:02 KST",
+    "updated_at": "2026-08-30 08:46:03 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 15400000,
     "total_net_inflow_usd": 15400000,
     "total_value_traded_usd": 15400000,
-    "updated_at": "SoSoValue 순유입 부분 수집 08/30 02:46",
+    "updated_at": "SoSoValue 순유입 부분 수집 08/30 08:46",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -114,10 +114,10 @@
       "score": 3
     },
     {
-      "title": "리플 2억3100만개 바이낸스서 빠져나갔다",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pQjdmMmRNZUVWOFRiNHNUaTNfMXdyaHNQVFRVQWdoeEJmRDdVZnZNMkFBZnBsWUFvTC1PaGsyYnZZS29jb0JoWFlpUHlXR2UwOW9KTW1rTUV5U2JfczBKONIBZkFVX3lxTE9rVVNVTnlxM0dVek1reEZvb2t2RXpxaWFuN0ZsS1lyMXFCcXhsX05rd3Y3SExpT2VXc05tME1rWmkyTmswRUdiYVctX1prMXY2WTFWNFdjZ1VoYlVfeGNLZ3JlaFdWdw?oc=5",
-      "date": "Sat, 29 Aug 2026 21:15:24 GMT",
-      "source": "tokenpost.kr",
+      "title": "리플XRP·비트코인 보합, 프롬 급등…거래 47.6% 급감",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfNnlvYUxKR2xQYXc0Sm43VExQWU5oYXAyekw0b3kwUURqUHhMZWpRZ2EzYWRBdUw4R3NHQ0hLX1Q0c0YyX2ZWMDlFVWtTQjQ2a1JpXzM4dTkxLWF5ajRFR2ZRbVRpS0xRNUFDZWJxaVFrdw?oc=5",
+      "date": "Sat, 29 Aug 2026 22:41:00 GMT",
+      "source": "톱스타뉴스",
       "score": 2
     },
     {
@@ -128,11 +128,18 @@
       "score": 2
     },
     {
+      "title": "리플, XRP레저 양자내성 준비…4단계 대응 추진",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBakFxelBkaFh5N1VUUmNkQUhVZjVDWlROcG5jcUxWRnc5WjVCNU9qSG9EMGpvaGl3QmZFWERtSFFFR3ozVGZ1RHp1T0lCbThEdzBmdld6YWI?oc=5",
+      "date": "Sat, 29 Aug 2026 02:42:00 GMT",
+      "source": "블록미디어",
+      "score": 2
+    },
+    {
       "title": "XRP(리플) 트레저리 기업 에버노스, 나스닥 상장 눈앞!",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1JcWxfMDZQbFBGSDNTbFZOdF9Fd21Xa2NTbDluYWw0dWFaNkFKcXJpSWI0NGdrZVljd2otcFhZYlk0NjY5U0YzN1Z3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE43Ynp4LVVqenl4eGQ1MFllaV8taHFDUGp6RU51VVV4dGxwbkF2Rl8zaVhXNlEyVS1qYzBZelVvcEJaa3ph?oc=5",
       "date": "Fri, 28 Aug 2026 23:46:00 GMT",
       "source": "코인리더스",
-      "score": 2
+      "score": 3
     },
     {
       "title": "속보 | ETH 공급량, 최근 7일간 2만125개 이상 증가",
@@ -154,13 +161,6 @@
       "date": "Fri, 28 Aug 2026 14:51:00 GMT",
       "source": "CoinNess",
       "score": 8
-    },
-    {
-      "title": "암호화폐(코인) 리플, 4일 만에 70% 폭등하더니 와르르... 다시 1.66달러 찍을 수 있을까",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWYUxmVk16S1pOWGFLOW9tbnNLU0xNV3BtNldZY1B5dnJqNlE1WFdiMUlnUDJBYkp6NG5RVlROUWp5RDVESzk2OFg4WkN5eU5VdG5lajhn?oc=5",
-      "date": "Fri, 28 Aug 2026 06:17:00 GMT",
-      "source": "위키트리",
-      "score": 2
     }
   ]
 }
