@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-09-05T07:01:36",
+  "generated_at": "2026-09-05T11:20:00",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.4,
-    "price_krw": 1887.73,
-    "price_change_24h": -2.90121,
-    "price_change_7d": 1.68795,
-    "price_change_30d": 33.66604,
-    "market_cap_usd": 88068760749,
+    "price_krw": 1890.69,
+    "price_change_24h": -3.04018,
+    "price_change_7d": 1.39007,
+    "price_change_30d": 34.23987,
+    "market_cap_usd": 88131931189,
     "market_cap_rank": 5,
-    "volume_24h": 2640234008,
+    "volume_24h": 2265794914,
     "circulating_supply": 62744504852.0,
     "total_supply": 99985627691.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 73.15,
-    "sentiment_votes_down": 26.85,
+    "sentiment_votes_up": 76.6,
+    "sentiment_votes_down": 23.4,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 22.18,
-    "recent_tps": 22.18,
-    "recent_tx_count": 1974,
+    "tps_24h_avg": 43.26,
+    "recent_tps": 43.26,
+    "recent_tx_count": 3547,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 106773194,
+    "recent_window_sec": 82,
+    "ledger_seq": 106777203,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-09-05 07:01:25 KST",
+    "updated_at": "2026-09-05 11:19:48 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,6 +92,13 @@
   ],
   "general_news": [
     {
+      "title": "리플 CEO, $110억 금 투자 비판…암호화폐가 더 나은가?",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WVUFFYXo4RklUZmtNMENOci1jUHhyYlVlYVB6R19WaWFGQjZ3WC1UemF1TUc5S3BYalp6dUVoeE9Pb2NFNmdqLWQxeVpqeU5wSWdRcDcycGRKUFNBcElzOVdvNFRoelpNQlVoUA?oc=5",
+      "date": "Sat, 05 Sep 2026 09:52:01 GMT",
+      "source": "kr.beincrypto.com",
+      "score": 2
+    },
+    {
       "title": "리플(XRP) 가격 조정에도 ETF 자금은 역주행 9거래일 연속 순유입",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0bi15OE5sMVREVjQ1d2xDTjExcTlnWm9yZmNMLVVFOGkyVUk3QUY3OTF4RXk4R0gwVlRKU2x6M05MYnFxWUpnTll0WGIzakZXWXAtdnY5R0tXLUNPZ1d3MVJuenFHM3Mx?oc=5",
       "date": "Sat, 05 Sep 2026 06:15:00 GMT",
@@ -127,13 +134,6 @@
       "score": 2
     },
     {
-      "title": "8월에만 28.5% 폭등한 암호화폐(코인) 리플... 이번엔 하루 만에 10% 넘게 급등 (분석)",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVS3BySW9KMUNCY2VXaWYyeTJFWnFhbGkxSnYzc1FJQURncHdObGVHTlJvY21sSzk5STNaTXFjQlpNYTBIdk1Ld1lRQ0ZQd1FaT3lXSjFB?oc=5",
-      "date": "Fri, 04 Sep 2026 06:20:00 GMT",
-      "source": "위키트리",
-      "score": 2
-    },
-    {
       "title": "리플, 싱가포르 MAS서 ‘RLUSD 무역 결제 자동화’ 실증… 기업 금융 시험대",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yT2p4OTdZdWJJbjNKcld1TDNHQnJoN2FrNi0zbjkycVlHRG85WEdyNmpyeDRnbGJLUEs1VkdRVzdHUDZJQVFxYXc2eGtmeWRuVnk5SVhXSVpjdHV4eDZOdm9nSWdJX0dGS2xYOWlUa1o?oc=5",
       "date": "Thu, 03 Sep 2026 23:30:00 GMT",
@@ -155,10 +155,10 @@
       "score": 2
     },
     {
-      "title": "ETF 순유입·대규모 숏 포지션 대립… XRP, 숏스퀴즈 가능성 커지나",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HMUJNcDhpVHl3VEg4VUI0REpzSUJoVjdwNXhUMEtiaEZxSzVvczNZUHJnYkp4SHBXcWRNZXByLUVBQmdkX3dPTGUxakVzTzRjeHE1QnJOZ18zZUNWV3luM2kxVDJKR0XSAWtBVV95cUxOcTdSWHRUX2lvVmNqNW1GNXhHX3kweGNOdE1NZk15UHVPaHY0UXI0bmQwWlI1SnJPbXFFeTVDZWdyZkpWa1haeEhVTFBycDd4dVZzUFpwVTNiVDJhN1BPcno2bUk4akptUHdGVQ?oc=5",
-      "date": "Thu, 03 Sep 2026 05:37:17 GMT",
-      "source": "비온미디어",
+      "title": "[속보] 비트코인 8만1000달러 돌파…리플·도지코인 9%대 급등",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5NSEdRdGZHNFBSUGNLSm5ma3Z5eHBXRTJtRGJYY1JIRlI3aWNiR1ZtTEoxTm5XZTMzc1ZqQ1NxRU5QdjhNSjZ4RlBFQlZKcXM4LWpRcVNOaEEwb1p3NlVialhUN3FDZGZ2?oc=5",
+      "date": "Thu, 03 Sep 2026 21:40:40 GMT",
+      "source": "CBC뉴스",
       "score": 2
     }
   ]
