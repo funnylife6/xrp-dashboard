@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-09-05T22:31:47",
+  "generated_at": "2026-09-06T00:26:15",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.41,
-    "price_krw": 1902.87,
-    "price_change_24h": 1.16049,
-    "price_change_7d": 1.52898,
-    "price_change_30d": 36.55081,
-    "market_cap_usd": 88704580029,
+    "price_krw": 1901.2,
+    "price_change_24h": 1.03446,
+    "price_change_7d": 1.15268,
+    "price_change_30d": 36.61212,
+    "market_cap_usd": 88617298024,
     "market_cap_rank": 5,
-    "volume_24h": 1389564430,
+    "volume_24h": 1451209469,
     "circulating_supply": 62744504852.0,
     "total_supply": 99985627691.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 80.0,
-    "sentiment_votes_down": 20.0,
+    "sentiment_votes_up": 78.08,
+    "sentiment_votes_down": 21.92,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 31.87,
-    "recent_tps": 31.87,
-    "recent_tx_count": 2868,
+    "tps_24h_avg": 29.38,
+    "recent_tps": 29.38,
+    "recent_tx_count": 2644,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106787614,
+    "ledger_seq": 106789391,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-09-05 22:31:31 KST",
+    "updated_at": "2026-09-06 00:26:05 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -51,14 +51,14 @@
       "title": "리플(XRP), ETF 자금 8주 연속 몰렸는데 하락…BIS가 XRPL 택한 이유는",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1RMVdaclQ1ejdKOC0zcFYybVpXa3EwamVwTWtOOW1Ja0d0Ri1BTVFTREV4LTdXWXhqLXUyby1NdEFXeFpxTXdIeE96emYwZkJsR090WXBzYThHM0h3dHJuUkRzOA?oc=5",
       "date": "Sat, 05 Sep 2026 11:57:16 GMT",
-      "source": "CBC뉴스",
+      "source": "cbci.co.kr",
       "score": 0
     },
     {
       "title": "리플(XRP) 가격 조정에도 ETF 자금은 역주행 9거래일 연속 순유입",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0bi15OE5sMVREVjQ1d2xDTjExcTlnWm9yZmNMLVVFOGkyVUk3QUY3OTF4RXk4R0gwVlRKU2x6M05MYnFxWUpnTll0WGIzakZXWXAtdnY5R0tXLUNPZ1d3MVJuenFHM3Mx?oc=5",
       "date": "Sat, 05 Sep 2026 06:15:00 GMT",
-      "source": "CBC뉴스",
+      "source": "cbci.co.kr",
       "score": 0
     },
     {
@@ -83,68 +83,68 @@
       "score": 0
     },
     {
-      "title": "리플(XRP), 현물 ETF로 1438만달러 순유입…기관 수요 지속성 주목",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kU0cyQnVsWHd4MDJnVDJZZjEzVWZMamk0UnpyODRibzJxa3pfXzhCQ3U1MUZQbVRDRGl4MF83bDJ0NzFPM2tfRjRyeDNkVFdmSU5femJ3bEVhZld2ZzlaVUl1U0RqX3ho?oc=5",
-      "date": "Wed, 02 Sep 2026 15:40:00 GMT",
-      "source": "CBC뉴스",
+      "title": "골드만삭스, 리플 XRP ETF 최대 공시 보유자…2분기 8,740만달러",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8yRjBZTks1NWZjSk9FZVlLSHh0d1h5R2NfS1RYb2FSUDdHY1FjSml6WGhHTUVoTkUyeTA0SER1Tk56Y183VG9PcHVYbm1FYUx2bzdfLVoza0xlbXRpZDc0bXJSdHhBMzZqUUw3WWhLcVhRUQ?oc=5",
+      "date": "Wed, 02 Sep 2026 12:05:08 GMT",
+      "source": "톱스타뉴스",
       "score": 0
     }
   ],
   "general_news": [
     {
-      "title": "SEC, XRP·솔라나 상품 기준 편입…암호화폐 ETF '15% 룰' 열렸다",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNczRSTWd4bkdlb2tJM1ZNQmhsVG1MRjZ3dFF6TEY4SUhtQ1hjLUU2ZXBMRnN2VGZnUVp4OHU0QzBKRFpZUFBsNTNMam5YXzIyQmpMTUFnbWR1UTNkdGx2am9mXzFpSklMUnlhaWk2SmxPYURRbHE4SUE4NHNWQXZjY20yd2Jvc0th?oc=5",
-      "date": "Sat, 05 Sep 2026 22:16:11 GMT",
-      "source": "글로벌이코노믹",
-      "score": 4
-    },
-    {
-      "title": "리플 CEO, 상원 표결 앞두고 클래리티 법안 촉구",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84ZFFSMndhdXBHUmRiS2s1QjA1QzJFMVNyUE16azlYMkhCdkF6Und2UXZFQmd1d2laNlZ4SXMtLURHV1ZZMjBzNy0yY1dvaGd1aTZUQ0x30gFbQVVfeXFMTWROQ1ZPUEFJRGZHa3VacWFsRjBweWVQRFdZeXpfNW9oYWpNV19TYTY4RmV3SFprWU15clpOTkdrUW16V1Fhdm40dnlDOFQ2Qk10NUYxMFhjTlh2aw?oc=5",
-      "date": "Sat, 05 Sep 2026 15:51:10 GMT",
-      "source": "tokenpost.kr",
+      "title": "리플XRP 거래 1위·플록 19% 급등·도지코인 4% 상승",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKVkFqeFp4dFVCbERjb2lPRjRaZkRCd2tSODJPc2JwUWs4aFV2bEpIRDR3aUd0OWhTdjdvajQ5U2tjOWJCNm1YX0F4ZTExTUVZc0dSMTc0bU9sVE1NXzc1bUppNkdOSUJyQ3JMc2E1YXJ1QQ?oc=5",
+      "date": "Sat, 05 Sep 2026 23:20:59 GMT",
+      "source": "톱스타뉴스",
       "score": 2
     },
     {
-      "title": "BIS, XRPL로 통계 위변조 검증 시험…XRP 5%대 급등에도 소각량은 미미하다",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrZkIzSU9vRUl5OVJqSG12WW5QT1lMM09HYklBR1FTNDhXLVBsNTREY0dSWHBlQnN6ZExQbjgzVjFLQ3pyQWJ0bnBaRFNPanNFUENRQWtB?oc=5",
-      "date": "Sat, 05 Sep 2026 15:05:00 GMT",
-      "source": "위키트리",
+      "title": "XRP, 650% 상승 견인 패턴 반복",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA5eUxrZFRoN2JrbzBFWkFhNGJnWnRxMjNacm9RdTRDV2Q0cEJ6OWJsVUlpaDVqeHZ6ZGtBOGxVendIZnpkVGUxZWYyN21fTTNodk1LOFp6RzZFVjdzWGkya0ktM1M4MzdfVEduNzJKY01IQjhldFFFVXpn?oc=5",
+      "date": "Sat, 05 Sep 2026 14:39:49 GMT",
+      "source": "kr.beincrypto.com",
+      "score": 2
+    },
+    {
+      "title": "XRP 레저, 수정안 검증 스코어카드 공개",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6cTFYMm5kbzJ0QlJuMjlfX1NpS1J6M1JCN2VxRk9FR1NfTmFuYzZkRHpCTVAtTU9vRDl5VmFDNFNidHNvRWgxNnRwREo1Z1JxMnhnc3lsVDlaZlnSAWBBVV95cUxNbVU4UXU4OTFfc3pOY2Z3MnRpQm1jMWhHVjMtN0JTTkU0cE45ZHdlZFVqeHd2WERSYUI5a0FHVENRNHkyQmI2M0hGTHdUTF9NLVU3V0JqMEJNMXc5VDNmWDE?oc=5",
+      "date": "Sat, 05 Sep 2026 12:46:55 GMT",
+      "source": "tokenpost.kr",
       "score": 2
     },
     {
       "title": "리플(XRP), ETF 자금 8주 연속 몰렸는데 하락…BIS가 XRPL 택한 이유는",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1RMVdaclQ1ejdKOC0zcFYybVpXa3EwamVwTWtOOW1Ja0d0Ri1BTVFTREV4LTdXWXhqLXUyby1NdEFXeFpxTXdIeE96emYwZkJsR090WXBzYThHM0h3dHJuUkRzOA?oc=5",
       "date": "Sat, 05 Sep 2026 11:57:16 GMT",
-      "source": "CBC뉴스",
+      "source": "cbci.co.kr",
       "score": 3
-    },
-    {
-      "title": "리플 CEO, $110억 금 투자 비판…암호화폐가 더 나은가?",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WVUFFYXo4RklUZmtNMENOci1jUHhyYlVlYVB6R19WaWFGQjZ3WC1UemF1TUc5S3BYalp6dUVoeE9Pb2NFNmdqLWQxeVpqeU5wSWdRcDcycGRKUFNBcElzOVdvNFRoelpNQlVoUA?oc=5",
-      "date": "Sat, 05 Sep 2026 09:52:01 GMT",
-      "source": "kr.beincrypto.com",
-      "score": 2
     },
     {
       "title": "리플(XRP) 가격 조정에도 ETF 자금은 역주행 9거래일 연속 순유입",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0bi15OE5sMVREVjQ1d2xDTjExcTlnWm9yZmNMLVVFOGkyVUk3QUY3OTF4RXk4R0gwVlRKU2x6M05MYnFxWUpnTll0WGIzakZXWXAtdnY5R0tXLUNPZ1d3MVJuenFHM3Mx?oc=5",
       "date": "Sat, 05 Sep 2026 06:15:00 GMT",
-      "source": "CBC뉴스",
+      "source": "cbci.co.kr",
       "score": 3
     },
     {
-      "title": "리플XRP·비트코인·플록, 거래 몰리고 가격 엇갈려",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAtWVZfM2hJdlFQc3I0YmNKd1REemd5S285M0YtZXdhQVdESGxsTGJaSUVTeTE4ak55QmhWQlZaNUJPcnpLdTdHTzJLbl8ybFQ0YzA3SGNlUjdocXhkeGczZ2JMeWJtajBvS3UyenhYZDJkUQ?oc=5",
-      "date": "Fri, 04 Sep 2026 22:08:02 GMT",
-      "source": "톱스타뉴스",
-      "score": 2
+      "title": "SEC와 싸우던 리플 갈링하우스, CFTC 자문위원 합류…백악관서 “암호화폐 중심지 가능”",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwNU54S1U1OXNuNFZ0N3gxQ3kyd3BvY2psZU9zTHhZYkIwTmVEMFRqTXlVSmNvb3dEZDFkMzBDSDJ0UW9SSHVUM25oaHh1emMyWnpLRG93?oc=5",
+      "date": "Fri, 04 Sep 2026 15:03:00 GMT",
+      "source": "위키트리",
+      "score": 3
     },
     {
       "title": "[새책] 미래의 돈 XRP",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpZVdTMFFIM0dmcTNfVkViWkFNMERwT185Zk1zN0N1MXBXVTRERzF4ZkV5aDlfcWZaQjAydC1kaDdvSmhENlhVYy1MaUtBYkRwN1hXdTZlbEoyQQ?oc=5",
       "date": "Fri, 04 Sep 2026 06:46:42 GMT",
       "source": "파이낸셜뉴스",
+      "score": 2
+    },
+    {
+      "title": "8월에만 28.5% 폭등한 암호화폐(코인) 리플... 이번엔 하루 만에 10% 넘게 급등 (분석)",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVS3BySW9KMUNCY2VXaWYyeTJFWnFhbGkxSnYzc1FJQURncHdObGVHTlJvY21sSzk5STNaTXFjQlpNYTBIdk1Ld1lRQ0ZQd1FaT3lXSjFB?oc=5",
+      "date": "Fri, 04 Sep 2026 06:20:00 GMT",
+      "source": "위키트리",
       "score": 2
     },
     {
