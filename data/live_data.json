@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-09-07T16:34:23",
+  "generated_at": "2026-09-07T20:18:20",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.39,
-    "price_krw": 1869.37,
-    "price_change_24h": -1.67806,
-    "price_change_7d": 1.21933,
-    "price_change_30d": 32.94315,
-    "market_cap_usd": 87144564663,
+    "price_usd": 1.4,
+    "price_krw": 1878.63,
+    "price_change_24h": -1.05407,
+    "price_change_7d": 0.60435,
+    "price_change_30d": 34.04504,
+    "market_cap_usd": 87615959849,
     "market_cap_rank": 5,
-    "volume_24h": 2016325759,
+    "volume_24h": 2042792396,
     "circulating_supply": 62744504852.0,
     "total_supply": 99985627691.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 74.65,
-    "sentiment_votes_down": 25.35,
+    "sentiment_votes_up": 72.97,
+    "sentiment_votes_down": 27.03,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 89.52,
-    "recent_tps": 89.52,
-    "recent_tx_count": 8773,
-    "recent_ledger_count": 24,
-    "recent_window_sec": 98,
-    "ledger_seq": 106826759,
+    "tps_24h_avg": 16.33,
+    "recent_tps": 16.33,
+    "recent_tx_count": 1470,
+    "recent_ledger_count": 22,
+    "recent_window_sec": 90,
+    "ledger_seq": 106830221,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-09-07 16:34:13 KST",
+    "updated_at": "2026-09-07 20:18:12 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -52,13 +52,6 @@
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9oZEZGVmZIMzV2SXpYblNRY01EeGRUd3BvWU9pUG50c0h3NUlGR2RGdHVyem1mZzI3VzZDUDNCUEVoU1d0LTBQWFVB?oc=5",
       "date": "Mon, 07 Sep 2026 10:11:00 GMT",
       "source": "코인리더스",
-      "score": 0
-    },
-    {
-      "title": "XRP, 1.40달러대 지지…ETF 자금 유입 속도·글로벌 거래시간 주목",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRRFpoMktsS3NEaThSd3pOd1o4WFRvMUdPU181d181YkhvR21aa0x2V2R5SElLVlhVb1dzTjQ3VUs4OEtrSHRlSUxhNnFvZDk3d2ZOSHJkS2hJWU9KWHlWcmxXMkY2dnPSAWtBVV95cUxNN1NCaW9wTFZOdGpUOXlFU2s5TjVCUDBvYUZiNFBuVVBiYVdHNHY0R2R2dHFvcEI4U2dVZmJralE0NkFKLXV3U21PenlUQ2dOQUpDWDJST0tfSVdCVXZ1cHU3amZGbGJVam4zSQ?oc=5",
-      "date": "Mon, 07 Sep 2026 05:37:58 GMT",
-      "source": "비온미디어",
       "score": 0
     },
     {
@@ -88,16 +81,16 @@
       "date": "Sun, 06 Sep 2026 13:50:00 GMT",
       "source": "위키트리",
       "score": 0
+    },
+    {
+      "title": "SEC, XRP·솔라나 상품 기준 편입…암호화폐 ETF '15% 룰' 열렸다",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNczRSTWd4bkdlb2tJM1ZNQmhsVG1MRjZ3dFF6TEY4SUhtQ1hjLUU2ZXBMRnN2VGZnUVp4OHU0QzBKRFpZUFBsNTNMam5YXzIyQmpMTUFnbWR1UTNkdGx2am9mXzFpSklMUnlhaWk2SmxPYURRbHE4SUE4NHNWQXZjY20yd2Jvc0th?oc=5",
+      "date": "Sat, 05 Sep 2026 22:16:11 GMT",
+      "source": "g-enews.com",
+      "score": 0
     }
   ],
   "general_news": [
-    {
-      "title": "XRP 레저, 9월 11일 업그레이드...11개 기능 '대개편' 초읽기",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1UY1F5QlJXWm8wRENlNk5DR2gzQTBHODE5a0otTDU3blJQZW9tQ0VwVURfenR5eFc4T1NJckRXTW0tRFZvdnlGQl93?oc=5",
-      "date": "Mon, 07 Sep 2026 15:00:00 GMT",
-      "source": "코인리더스",
-      "score": 2
-    },
     {
       "title": "XRP $1.40…매도도 매수도 없다",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTMWdHeHFfQ1FJR1pPWTEtVEJjTW90bnFIZ0VrdWFHOUlQN19tTlhzUGEtLVd3S0dxZ054TGRwWjhDa1cycjk2eXdBYlk0eVhObHRpcDVMb2xNd0RtMmZJSnRfUTRsTXB3aFlDclRTZjVYS2s3?oc=5",
@@ -123,7 +116,7 @@
       "title": "도플러파이낸스·t54랩스 등도 'XRP서울 2026' 연사진 참여",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1wRUhhR01FeTVaUHRLVV9LQk12QmxTNXVtZkVnYmR0MElQS2wxQkowQXFmQ3FicjZwZTVHNFA2TUtBdjU3bjNPWkFhb05Pd1puZEFvdEVIb3I5Z2hWODJuWmFCQkx1RC1hVEFJN0pXMjkwSWs?oc=5",
       "date": "Mon, 07 Sep 2026 04:50:06 GMT",
-      "source": "마켓인",
+      "source": "marketin.edaily.co.kr",
       "score": 2
     },
     {
@@ -160,6 +153,13 @@
       "date": "Sun, 06 Sep 2026 18:00:00 GMT",
       "source": "코인리더스",
       "score": 3
+    },
+    {
+      "title": "티커는 EPIC, 이름은 에픽체인 RWA코인. 이 회사 뒤에는 리플(XRP)이 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMVhKWXFXTjZIRGxDRWJlSEp4ckJ2MzhWd3k0QXAxeUZQMmhVekRwMzJUTW9KOXo1Z1NKMjdhYXBDUzN4dFVpei1FbEZXSEZJRHFXS2dEME1TUk00c2p5aUZtY1VCTHBmazBuM1JwMjY4U2RHeUxfcUU2WUp1NTd0d1dmMWo1NVNtUXFodA?oc=5",
+      "date": "Sun, 06 Sep 2026 11:12:00 GMT",
+      "source": "네이버 프리미엄콘텐츠",
+      "score": 2
     }
   ]
 }
