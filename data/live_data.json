@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-09-07T11:10:51",
+  "generated_at": "2026-09-07T16:34:23",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.4,
-    "price_krw": 1884.07,
-    "price_change_24h": -1.53455,
-    "price_change_7d": 1.31297,
-    "price_change_30d": 34.64268,
-    "market_cap_usd": 87767576510,
+    "price_usd": 1.39,
+    "price_krw": 1869.37,
+    "price_change_24h": -1.67806,
+    "price_change_7d": 1.21933,
+    "price_change_30d": 32.94315,
+    "market_cap_usd": 87144564663,
     "market_cap_rank": 5,
-    "volume_24h": 1838674234,
+    "volume_24h": 2016325759,
     "circulating_supply": 62744504852.0,
     "total_supply": 99985627691.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 75.95,
-    "sentiment_votes_down": 24.05,
+    "sentiment_votes_up": 74.65,
+    "sentiment_votes_down": 25.35,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 22.6,
-    "recent_tps": 22.6,
-    "recent_tx_count": 2011,
+    "tps_24h_avg": 89.52,
+    "recent_tps": 89.52,
+    "recent_tx_count": 8773,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 106821746,
-    "ledger_close_sec": 3.002,
+    "recent_window_sec": 98,
+    "ledger_seq": 106826759,
+    "ledger_close_sec": 0.0,
     "load_factor": 1.0,
-    "peers": 14,
-    "updated_at": "2026-09-07 11:10:36 KST",
+    "peers": 0,
+    "updated_at": "2026-09-07 16:34:13 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -83,26 +83,40 @@
       "score": 0
     },
     {
-      "title": "리플 RLUSD, 공급량 24억달러 돌파...XRP 1.6975달러 정조준",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1FWUt0QXVndDRwakxneFM0MG9xYlQxbzI2MV9FT0RMOFNlSEpYeG5hRXU5YVlMZlM4OW1oY2RCTXNJemxxT09CYXdR?oc=5",
-      "date": "Sun, 06 Sep 2026 18:00:00 GMT",
-      "source": "코인리더스",
+      "title": "XRP, ETF 누적 유입 16억8000만달러 육박…규제 명확성 기대에 1.43달러 강세",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sX0FmNUU2amxoOGo0TmNLR3lyQUQzZkc5UkVYdkdMUUp6WHRXaUVmRFJ5cEtGZ1FTUFZ5dXBXaHhZTUdzYXhZS1VCTGI1eEhicVRyRFZ3?oc=5",
+      "date": "Sun, 06 Sep 2026 13:50:00 GMT",
+      "source": "위키트리",
       "score": 0
     }
   ],
   "general_news": [
     {
+      "title": "XRP 레저, 9월 11일 업그레이드...11개 기능 '대개편' 초읽기",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1UY1F5QlJXWm8wRENlNk5DR2gzQTBHODE5a0otTDU3blJQZW9tQ0VwVURfenR5eFc4T1NJckRXTW0tRFZvdnlGQl93?oc=5",
+      "date": "Mon, 07 Sep 2026 15:00:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
+      "title": "XRP $1.40…매도도 매수도 없다",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTMWdHeHFfQ1FJR1pPWTEtVEJjTW90bnFIZ0VrdWFHOUlQN19tTlhzUGEtLVd3S0dxZ054TGRwWjhDa1cycjk2eXdBYlk0eVhObHRpcDVMb2xNd0RtMmZJSnRfUTRsTXB3aFlDclRTZjVYS2s3?oc=5",
+      "date": "Mon, 07 Sep 2026 13:00:19 GMT",
+      "source": "BeInCrypto",
+      "score": 2
+    },
+    {
+      "title": "현물 ETF 자금은 계속 들어온다! 비트코인·이더리움·리플은 동반 약세",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9oZEZGVmZIMzV2SXpYblNRY01EeGRUd3BvWU9pUG50c0h3NUlGR2RGdHVyem1mZzI3VzZDUDNCUEVoU1d0LTBQWFVB?oc=5",
+      "date": "Mon, 07 Sep 2026 10:11:00 GMT",
+      "source": "코인리더스",
+      "score": 4
+    },
+    {
       "title": "XRP Seoul 2026, 글로벌 디지털자산 기업·국내 금융권 연사진 2차 공개",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sQzhHaGVuclBoWmFENUVQLVpqX3ZBUTA4aWVDNjFaNmtRM3FoaF9rUDhGZ3REWWIyTFJrNWR0MWlCZlpNYjBLdGZ3ZHQ2a3c?oc=5",
       "date": "Mon, 07 Sep 2026 08:52:39 GMT",
       "source": "v.daum.net",
-      "score": 2
-    },
-    {
-      "title": "XRP 지금 가격보다 중요한 것, 클래리티 법안 통과(한국 구독자님 요청 추가 제작본) North Korea (lZeEnFuqSF)",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Lckw5SWhvT0tLV3llYlZkX1M4VGhLR3ZfcXZXa25hZlA1QXJsT3JHN09nV29weEJUWmF4UjhtZncycVRrQ2FkdlRMcFVQdmpqdjVvN2NDZDM3OEE?oc=5",
-      "date": "Mon, 07 Sep 2026 05:36:18 GMT",
-      "source": "mshale.com",
       "score": 2
     },
     {
@@ -145,21 +159,7 @@
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1FWUt0QXVndDRwakxneFM0MG9xYlQxbzI2MV9FT0RMOFNlSEpYeG5hRXU5YVlMZlM4OW1oY2RCTXNJemxxT09CYXdR?oc=5",
       "date": "Sun, 06 Sep 2026 18:00:00 GMT",
       "source": "코인리더스",
-      "score": 4
-    },
-    {
-      "title": "티커는 EPIC, 이름은 에픽체인 RWA코인. 이 회사 뒤에는 리플(XRP)이 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMVhKWXFXTjZIRGxDRWJlSEp4ckJ2MzhWd3k0QXAxeUZQMmhVekRwMzJUTW9KOXo1Z1NKMjdhYXBDUzN4dFVpei1FbEZXSEZJRHFXS2dEME1TUk00c2p5aUZtY1VCTHBmazBuM1JwMjY4U2RHeUxfcUU2WUp1NTd0d1dmMWo1NVNtUXFodA?oc=5",
-      "date": "Sun, 06 Sep 2026 11:12:00 GMT",
-      "source": "네이버 프리미엄콘텐츠",
-      "score": 2
-    },
-    {
-      "title": "리플(XRP) 60달러 전망 나왔다…“3.66달러 돌파가 초대형 랠리 열쇠”",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5sRW1oWTZuTHB5emdObDhGQ2RxdXVMN2oxTlBHR3ltWXFKR3Zsc0dZZEQxQ2lXcWdBUktIWklhUjlUdms2Z2swMy1n?oc=5",
-      "date": "Sat, 05 Sep 2026 22:47:00 GMT",
-      "source": "코인리더스",
-      "score": 2
+      "score": 3
     }
   ]
 }
