@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-09-07T20:18:20",
+  "generated_at": "2026-09-07T22:55:46",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.4,
-    "price_krw": 1878.63,
-    "price_change_24h": -1.05407,
-    "price_change_7d": 0.60435,
-    "price_change_30d": 34.04504,
-    "market_cap_usd": 87615959849,
+    "price_usd": 1.39,
+    "price_krw": 1867.96,
+    "price_change_24h": -2.17,
+    "price_change_7d": 0.13768,
+    "price_change_30d": 33.231,
+    "market_cap_usd": 87153998401,
     "market_cap_rank": 5,
-    "volume_24h": 2042792396,
+    "volume_24h": 2063349985,
     "circulating_supply": 62744504852.0,
     "total_supply": 99985627691.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 72.97,
-    "sentiment_votes_down": 27.03,
+    "sentiment_votes_up": 68.42,
+    "sentiment_votes_down": 31.58,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 16.33,
-    "recent_tps": 16.33,
-    "recent_tx_count": 1470,
-    "recent_ledger_count": 22,
+    "tps_24h_avg": 18.87,
+    "recent_tps": 18.87,
+    "recent_tx_count": 1698,
+    "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106830221,
+    "ledger_seq": 106832662,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-09-07 20:18:12 KST",
+    "updated_at": "2026-09-07 22:55:36 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -47,6 +47,13 @@
     "data_source": "news_parse"
   },
   "etf_news": [
+    {
+      "title": "80억 달러 기관 자금 걸렸는데! 리플(XRP) 현물 ETF, 상원 클래러티법 표결 연기에 발목",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9ybUdiNmpwbEE1d3RRc0hycUU1bVV6ZXg5WVdxSUNtQVpLaFF1QkxINVZOd1g3VzNUOXRTaTE1QlVrZHQ3V2YxalFR?oc=5",
+      "date": "Mon, 07 Sep 2026 22:09:00 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
     {
       "title": "현물 ETF 자금은 계속 들어온다! 비트코인·이더리움·리플은 동반 약세",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9oZEZGVmZIMzV2SXpYblNRY01EeGRUd3BvWU9pUG50c0h3NUlGR2RGdHVyem1mZzI3VzZDUDNCUEVoU1d0LTBQWFVB?oc=5",
@@ -81,16 +88,23 @@
       "date": "Sun, 06 Sep 2026 13:50:00 GMT",
       "source": "위키트리",
       "score": 0
-    },
-    {
-      "title": "SEC, XRP·솔라나 상품 기준 편입…암호화폐 ETF '15% 룰' 열렸다",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNczRSTWd4bkdlb2tJM1ZNQmhsVG1MRjZ3dFF6TEY4SUhtQ1hjLUU2ZXBMRnN2VGZnUVp4OHU0QzBKRFpZUFBsNTNMam5YXzIyQmpMTUFnbWR1UTNkdGx2am9mXzFpSklMUnlhaWk2SmxPYURRbHE4SUE4NHNWQXZjY20yd2Jvc0th?oc=5",
-      "date": "Sat, 05 Sep 2026 22:16:11 GMT",
-      "source": "g-enews.com",
-      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "80억 달러 기관 자금 걸렸는데! 리플(XRP) 현물 ETF, 상원 클래러티법 표결 연기에 발목",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9ybUdiNmpwbEE1d3RRc0hycUU1bVV6ZXg5WVdxSUNtQVpLaFF1QkxINVZOd1g3VzNUOXRTaTE1QlVrZHQ3V2YxalFR?oc=5",
+      "date": "Mon, 07 Sep 2026 22:09:00 GMT",
+      "source": "코인리더스",
+      "score": 5
+    },
+    {
+      "title": "리플XRP·월드코인·스토리지 거래 집중…알트 변동성 확대",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1oWUc3SmhaT3lOS3JYbTJTeUF0NHZUbjU4czViemVrWldHSU40SEZ4S1pCb2UwbWpKc05rOXpyX0J0dTdzMV9zQjBPN3p0X01jUmJVQW1NT0JQbTNvRTBUQ3lkeU9SQnZudVp0bkUxdmRuUQ?oc=5",
+      "date": "Mon, 07 Sep 2026 22:00:50 GMT",
+      "source": "톱스타뉴스",
+      "score": 2
+    },
     {
       "title": "XRP $1.40…매도도 매수도 없다",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTMWdHeHFfQ1FJR1pPWTEtVEJjTW90bnFIZ0VrdWFHOUlQN19tTlhzUGEtLVd3S0dxZ054TGRwWjhDa1cycjk2eXdBYlk0eVhObHRpcDVMb2xNd0RtMmZJSnRfUTRsTXB3aFlDclRTZjVYS2s3?oc=5",
@@ -141,25 +155,11 @@
       "score": 3
     },
     {
-      "title": "리플XRP·레이디움·플록 거래 집중…알트코인 변동성 확대",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1HNU5yUUJlMk5kUzNIRlBWS3U1c3RfSno2LVVTMW5XQVQ0NFhaenZfa25Wc1hTNFJyOHQxVVBma21Ub09LZ1FPb2w4bWh3NDlrSV9rRnh2SWhzTFZWeWRZVlRfQnlkZmREbmJnam5LejJsdw?oc=5",
-      "date": "Sun, 06 Sep 2026 22:06:47 GMT",
-      "source": "톱스타뉴스",
-      "score": 2
-    },
-    {
       "title": "리플 RLUSD, 공급량 24억달러 돌파...XRP 1.6975달러 정조준",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1FWUt0QXVndDRwakxneFM0MG9xYlQxbzI2MV9FT0RMOFNlSEpYeG5hRXU5YVlMZlM4OW1oY2RCTXNJemxxT09CYXdR?oc=5",
       "date": "Sun, 06 Sep 2026 18:00:00 GMT",
       "source": "코인리더스",
       "score": 3
-    },
-    {
-      "title": "티커는 EPIC, 이름은 에픽체인 RWA코인. 이 회사 뒤에는 리플(XRP)이 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMVhKWXFXTjZIRGxDRWJlSEp4ckJ2MzhWd3k0QXAxeUZQMmhVekRwMzJUTW9KOXo1Z1NKMjdhYXBDUzN4dFVpei1FbEZXSEZJRHFXS2dEME1TUk00c2p5aUZtY1VCTHBmazBuM1JwMjY4U2RHeUxfcUU2WUp1NTd0d1dmMWo1NVNtUXFodA?oc=5",
-      "date": "Sun, 06 Sep 2026 11:12:00 GMT",
-      "source": "네이버 프리미엄콘텐츠",
-      "score": 2
     }
   ]
 }
