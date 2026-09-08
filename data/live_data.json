@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-09-08T00:50:49",
+  "generated_at": "2026-09-08T05:30:10",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.4,
-    "price_krw": 1877.21,
-    "price_change_24h": -1.41004,
-    "price_change_7d": 1.45133,
-    "price_change_30d": 34.68599,
-    "market_cap_usd": 87780916475,
+    "price_usd": 1.39,
+    "price_krw": 1871.33,
+    "price_change_24h": -1.41713,
+    "price_change_7d": 1.03877,
+    "price_change_30d": 34.47637,
+    "market_cap_usd": 87553951629,
     "market_cap_rank": 5,
-    "volume_24h": 2095703806,
+    "volume_24h": 1947273047,
     "circulating_supply": 62744504852.0,
     "total_supply": 99985627691.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 66.67,
-    "sentiment_votes_down": 33.33,
+    "sentiment_votes_up": 60.29,
+    "sentiment_votes_down": 39.71,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 17.12,
-    "recent_tps": 17.12,
-    "recent_tx_count": 1524,
-    "recent_ledger_count": 23,
-    "recent_window_sec": 89,
-    "ledger_seq": 106834450,
+    "tps_24h_avg": 20.02,
+    "recent_tps": 20.02,
+    "recent_tx_count": 1802,
+    "recent_ledger_count": 24,
+    "recent_window_sec": 90,
+    "ledger_seq": 106838773,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-09-08 00:50:37 KST",
+    "updated_at": "2026-09-08 05:29:58 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -83,10 +83,10 @@
       "score": 0
     },
     {
-      "title": "XRP, ETF 누적 유입 16억8000만달러 육박…규제 명확성 기대에 1.43달러 강세",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sX0FmNUU2amxoOGo0TmNLR3lyQUQzZkc5UkVYdkdMUUp6WHRXaUVmRFJ5cEtGZ1FTUFZ5dXBXaHhZTUdzYXhZS1VCTGI1eEhicVRyRFZ3?oc=5",
-      "date": "Sun, 06 Sep 2026 13:50:00 GMT",
-      "source": "위키트리",
+      "title": "리플(XRP) 거래 계좌 줄었는데... 거래 강도 급증 ETF에는 11거래일 연속 자금 유입",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAwWV9ueTN3Y04xSmRpQkEyN2RzTHdwZWM1bDNqbTZ6WEpXR3ZidGxYb3pxaUdKR3RPMVFnVjd2eXRvdGV2VTBBN2ZvdjZHeDFUSXlZendUeHVjclpJVHdFejdPc3N4VG1n?oc=5",
+      "date": "Sun, 06 Sep 2026 22:40:00 GMT",
+      "source": "CBC뉴스",
       "score": 0
     }
   ],
@@ -110,6 +110,13 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1oWUc3SmhaT3lOS3JYbTJTeUF0NHZUbjU4czViemVrWldHSU40SEZ4S1pCb2UwbWpKc05rOXpyX0J0dTdzMV9zQjBPN3p0X01jUmJVQW1NT0JQbTNvRTBUQ3lkeU9SQnZudVp0bkUxdmRuUQ?oc=5",
       "date": "Mon, 07 Sep 2026 22:00:50 GMT",
       "source": "톱스타뉴스",
+      "score": 2
+    },
+    {
+      "title": "XRP $1.40…매도도 매수도 없다",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTMWdHeHFfQ1FJR1pPWTEtVEJjTW90bnFIZ0VrdWFHOUlQN19tTlhzUGEtLVd3S0dxZ054TGRwWjhDa1cycjk2eXdBYlk0eVhObHRpcDVMb2xNd0RtMmZJSnRfUTRsTXB3aFlDclRTZjVYS2s3?oc=5",
+      "date": "Mon, 07 Sep 2026 13:00:19 GMT",
+      "source": "BeInCrypto",
       "score": 2
     },
     {
@@ -148,18 +155,11 @@
       "score": 4
     },
     {
-      "title": "리플 RLUSD, 공급량 24억달러 돌파...XRP 1.6975달러 정조준",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1FWUt0QXVndDRwakxneFM0MG9xYlQxbzI2MV9FT0RMOFNlSEpYeG5hRXU5YVlMZlM4OW1oY2RCTXNJemxxT09CYXdR?oc=5",
-      "date": "Sun, 06 Sep 2026 18:00:00 GMT",
-      "source": "코인리더스",
+      "title": "리플(XRP) 거래 계좌 줄었는데... 거래 강도 급증 ETF에는 11거래일 연속 자금 유입",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAwWV9ueTN3Y04xSmRpQkEyN2RzTHdwZWM1bDNqbTZ6WEpXR3ZidGxYb3pxaUdKR3RPMVFnVjd2eXRvdGV2VTBBN2ZvdjZHeDFUSXlZendUeHVjclpJVHdFejdPc3N4VG1n?oc=5",
+      "date": "Sun, 06 Sep 2026 22:40:00 GMT",
+      "source": "CBC뉴스",
       "score": 3
-    },
-    {
-      "title": "티커는 EPIC, 이름은 에픽체인 RWA코인. 이 회사 뒤에는 리플(XRP)이 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMVhKWXFXTjZIRGxDRWJlSEp4ckJ2MzhWd3k0QXAxeUZQMmhVekRwMzJUTW9KOXo1Z1NKMjdhYXBDUzN4dFVpei1FbEZXSEZJRHFXS2dEME1TUk00c2p5aUZtY1VCTHBmazBuM1JwMjY4U2RHeUxfcUU2WUp1NTd0d1dmMWo1NVNtUXFodA?oc=5",
-      "date": "Sun, 06 Sep 2026 11:12:00 GMT",
-      "source": "네이버 프리미엄콘텐츠",
-      "score": 2
     }
   ]
 }
