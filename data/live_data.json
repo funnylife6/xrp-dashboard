@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-09-10T07:25:02",
+  "generated_at": "2026-09-10T12:18:17",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.38,
-    "price_krw": 1855.08,
-    "price_change_24h": -3.77329,
-    "price_change_7d": 1.44599,
-    "price_change_30d": 37.67521,
-    "market_cap_usd": 86816465610,
+    "price_krw": 1848.99,
+    "price_change_24h": -3.77099,
+    "price_change_7d": 0.21021,
+    "price_change_30d": 36.5749,
+    "market_cap_usd": 86331928201,
     "market_cap_rank": 5,
-    "volume_24h": 2266121590,
+    "volume_24h": 2255816690,
     "circulating_supply": 62744504852.0,
     "total_supply": 99985627691.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 70.65,
-    "sentiment_votes_down": 29.35,
+    "sentiment_votes_up": 74.12,
+    "sentiment_votes_down": 25.88,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 16.21,
-    "recent_tps": 16.21,
-    "recent_tx_count": 1443,
-    "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 106885284,
+    "tps_24h_avg": 16.1,
+    "recent_tps": 16.1,
+    "recent_tx_count": 1449,
+    "recent_ledger_count": 23,
+    "recent_window_sec": 90,
+    "ledger_seq": 106889855,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-09-10 07:24:53 KST",
+    "updated_at": "2026-09-10 12:18:08 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 9300000,
     "total_net_inflow_usd": 9300000,
     "total_value_traded_usd": 9300000,
-    "updated_at": "SoSoValue 순유입 부분 수집 09/10 07:25",
+    "updated_at": "SoSoValue 순유입 부분 수집 09/10 12:18",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -93,6 +93,13 @@
   ],
   "general_news": [
     {
+      "title": "XRP 1.38달러로 하락…CPI 앞두고 숏 쏠림",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qN1dvSGhiZ1NDSnZNODQ5dGRQczBfa3JhRHRZdFZTUlN4cDQxZ0FNTGQteFEtdFBOcm5lZGNQWEl3TGloTFFHYU5YUUpUQ2lrX3p3ajlOOXd0NDZJUjdCQtIBZkFVX3lxTE91aWNOYkZ0Uk1kM0dNU3ZtOGV3N3pEcjkwWWNfUjY5NWk4WGFzLTdueHRXTzJiOG5oN1VvRFlIX2pKN3lkYm8yRG9KeVpXa096aDVlUnAzTDhtWXNFeHVzdnJPUU9zUQ?oc=5",
+      "date": "Thu, 10 Sep 2026 10:07:22 GMT",
+      "source": "tokenpost.kr",
+      "score": 2
+    },
+    {
       "title": "랠리 식어버린 리플(XRP)·지지선 위태로운 스텔라(XLM), 반등인가 추락인가",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAxY2tGRzVMU3UyeWg2N1dwb2Jja3FZX29rb2ttMWNqY29FR0J5Wjl4Zm80d0JxVktpN1h3YzBWUzJjUVBRWjBCOFNR?oc=5",
       "date": "Thu, 10 Sep 2026 05:04:00 GMT",
@@ -109,7 +116,7 @@
     {
       "title": "리플 전 CTO \"XRP, 언젠가 비트코인 시총 추월한다\"…핵심 조건은?",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBjNC1jMi1wWmZYdk9qQ0ZZai1na1VVUjhUNEdDNC1DSTNrbFBzbDczS0l0WndtS0V2RGRMNlRrSjRIVjZ5R3JUc3VUeXdTV2dGVGw0OGtfazZKRXJWUXBSaERzQ3BOT1pPQnBDczl2bFBBbmM?oc=5",
-      "date": "Wed, 09 Sep 2026 23:56:00 GMT",
+      "date": "Wed, 09 Sep 2026 23:56:02 GMT",
       "source": "디지털투데이",
       "score": 2
     },
@@ -119,6 +126,13 @@
       "date": "Wed, 09 Sep 2026 23:15:00 GMT",
       "source": "블록체인투데이",
       "score": 2
+    },
+    {
+      "title": "리플(XRP) 현물 ETF 역대 최대 16억8,000만달러! 비트와이즈·카나리로 돈 몰렸다",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1VSXJhbkRoaXFlU2Fmb1o5TVY1TDFlQmR3eGROZVFGSld0cHhDalpUUjZsclBtcDUtMmU3X0dNbU9CMm1ZeDBvd0tn?oc=5",
+      "date": "Wed, 09 Sep 2026 22:36:00 GMT",
+      "source": "코인리더스",
+      "score": 4
     },
     {
       "title": "리플(XRP) 1.35달러 지지…활성 주소 226만개·RLUSD 23억2,000만달러 돌파",
@@ -142,24 +156,10 @@
       "score": 3
     },
     {
-      "title": "리플·XRP·XRP 레저는 서로 다른 대상",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85YUMtOS16cndHVDFacGtzSUhwejJWZGVjYjE3SXhLaGZjQlZlVGVRNlZidnFNaVdITU1YTnh3ZEJZNmRCbDdzNG42RV8wekEyNWVwVkJxM1Y5M0x1a0Npb9IBZkFVX3lxTE5EZUZIZ2p4SHFLM2Z1a01qVHhHcW5IRnI3NGFnNUtTZkQ3N3VXRTNvMElhVm1JT05ZajFyWG41ZlRBeXhrN0ppcHI0Qm1jaXBBTElxZ3NNLWp0cEo1ajltOXBZY2psQQ?oc=5",
-      "date": "Wed, 09 Sep 2026 18:54:20 GMT",
-      "source": "tokenpost.kr",
-      "score": 2
-    },
-    {
-      "title": "리플 XRP 1937원으로 반등…ETF 자금은 꾸준히 들어온다 2000원 재돌파 가능성은",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01MHlqeGduTFoyY1NNQlR6MFAxVnM3TjVhR3dzbGVwMDZUUHVyT0o3VDZ0bmh2OWVmWmQyYWpjQjdJLXlqMlBqY0E3NWpWODNkV21MVXBkUGx2WE9oZlJPUVRHbWFtWDZD?oc=5",
-      "date": "Wed, 09 Sep 2026 15:00:00 GMT",
-      "source": "CBC뉴스",
-      "score": 3
-    },
-    {
-      "title": "“13조 달러 굴렸는데 차트는 무반응”... 암호화폐(코인) 리플 투자자들 복장 터지는 상황",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8yUUllbnpXUGVSX2JBekFRNXlBX3otdjBCb3lXTGh6bU9OMGZmaldIa2VLOFFPdXFJNnZvMkpYa25XbDJkaEtXWllIMFgyNjVWMXpDY1BB?oc=5",
-      "date": "Wed, 09 Sep 2026 06:19:00 GMT",
-      "source": "위키트리",
+      "title": "XRP 2120개면 상위 10%… 812만 지갑 양극화",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS2cyMm5WSWhhOHNHV2hFSF90OFdGOWM4Wjg5NmJVOWxzNnBnc2tYeHlFbzBKZm1KUGtiS1ljMW9hYkZ3aFNXOUIwNkFNS09USS1lVGdSQi1rUXI5LTdPdS1UMXFsMnpiaG9VZmpxaHRUUjhoYjRlVm9wMkkzdDFoX3Q1SEUxMGNM?oc=5",
+      "date": "Wed, 09 Sep 2026 19:00:00 GMT",
+      "source": "g-enews.com",
       "score": 2
     }
   ]
