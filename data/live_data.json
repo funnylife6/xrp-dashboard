@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-09-12T21:53:41",
+  "generated_at": "2026-09-12T23:37:40",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.36,
-    "price_krw": 1828.53,
-    "price_change_24h": 0.44894,
-    "price_change_7d": -3.66287,
-    "price_change_30d": 35.22651,
-    "market_cap_usd": 85733699777,
+    "price_usd": 1.37,
+    "price_krw": 1831.8,
+    "price_change_24h": 0.74429,
+    "price_change_7d": -3.46147,
+    "price_change_30d": 35.44673,
+    "market_cap_usd": 85861749948,
     "market_cap_rank": 5,
-    "volume_24h": 1084568933,
+    "volume_24h": 991792875,
     "circulating_supply": 62879209849.0,
     "total_supply": 99985622230.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 65.57,
-    "sentiment_votes_down": 34.43,
+    "sentiment_votes_up": 67.74,
+    "sentiment_votes_down": 32.26,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 51.76,
-    "recent_tps": 51.76,
-    "recent_tx_count": 4658,
+    "tps_24h_avg": 15.62,
+    "recent_tps": 15.62,
+    "recent_tx_count": 1406,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106943733,
+    "ledger_seq": 106945356,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-09-12 21:53:30 KST",
+    "updated_at": "2026-09-12 23:37:34 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -48,6 +48,13 @@
   },
   "etf_news": [
     {
+      "title": "리플((XRP) 1.40달러에 사면 부자 될까? 향후 5년 전망은",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5wdDhOcS1wZnJSWjZzQmdtQzB4d28wbUtQVzFtMHlwR05VTkxzeEtqaGptdFZkZGcxeXRrTzFpT1VKOU5veDNhRnpB?oc=5",
+      "date": "Sat, 12 Sep 2026 23:12:00 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
+    {
       "title": "리플(XRP), 레버리지 ETF 또 밀렸다…‘클래리티법’도 변수",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CM2w2MUtrMUFXblVsU2NaZzVXQmtfYjlQM2l3REZPbkpJX2R1MHcxbmx5SElyNWtnQVl0aGphanJ4bEtndm1IeEV4TUp5Q3Jlem1CZ0dMaDFaN19LTjJ1ZXRPSkVmZi00?oc=5",
       "date": "Sat, 12 Sep 2026 13:32:26 GMT",
@@ -55,24 +62,10 @@
       "score": 0
     },
     {
-      "title": "XRP, 규제 족쇄 끝나니 기관 자금 급증...이제 '미운 오리' 탈출하나",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5xU2VVSlZ2UnJiOXlsQkg1d2NDMjhtTkRCc2dFaGYxOGE4R05UenBkVWxUVVktVFRDNlJKaERzWFJlQ194?oc=5",
-      "date": "Sat, 12 Sep 2026 13:00:00 GMT",
-      "source": "코인리더스",
-      "score": 0
-    },
-    {
       "title": "리플(XRP) 10년 뒤 10조달러설, 파생시장은 벌써 양방향 베팅 채비...브래드 갈링하우스 전망은",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XTDRUU2dmMGVQZVJSal84cmJVRkQ3c2prVjNmRDZmU3N4NEVCSVo3TktScmp6alhTYXBXM2ZyY0dQbDZQMVJ6dzNlRy1jeVVDem9UcXlXdVo5TGxLM1J5ejZJSGlUVG9B?oc=5",
       "date": "Sat, 12 Sep 2026 08:00:53 GMT",
       "source": "CBC뉴스",
-      "score": 0
-    },
-    {
-      "title": "지금 XRP를 사야 하는 이유...21셰어스가 꼽은 4가지 근거",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5LQktINTBvVFJGT2U5czB4emRERWIzcnBOYmxrQWRhaHhVMEhGUmFZbHhYa1A2TXVEZjlZODRMczl6Q3dwcFBFUncwSW0tM0gxdmVxTmZZTkpVN1NKaFUxWmJ1cFFRNWVlTEZHdkdrZE9vdVE?oc=5",
-      "date": "Fri, 11 Sep 2026 22:44:32 GMT",
-      "source": "디지털투데이",
       "score": 0
     },
     {
@@ -88,14 +81,28 @@
       "date": "Fri, 11 Sep 2026 01:28:49 GMT",
       "source": "디지털투데이",
       "score": 0
+    },
+    {
+      "title": "비트코인(BTC) 펀드 유출 속 홀로 버틴 리플(XRP), 8주 연속 자금 유입의 비밀은?",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1yV09qcElxX0ZCTVgxVnEtXzZFYV9rRTA0N0c1TlhDSTlyTW52MWYySFBKTWhCUUYyYjdwSDhmSWI0VG9uOHNQMQ?oc=5",
+      "date": "Thu, 10 Sep 2026 22:03:00 GMT",
+      "source": "코인리더스",
+      "score": 0
     }
   ],
   "general_news": [
     {
+      "title": "리플((XRP) 1.40달러에 사면 부자 될까? 향후 5년 전망은",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5wdDhOcS1wZnJSWjZzQmdtQzB4d28wbUtQVzFtMHlwR05VTkxzeEtqaGptdFZkZGcxeXRrTzFpT1VKOU5veDNhRnpB?oc=5",
+      "date": "Sat, 12 Sep 2026 23:12:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
       "title": "리플, RLUSD 스테이블코인 성장 위해 13조 달러 기업 금고 기회 주시 - 임원 발언",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaGY2ZjExOFNYTXlkQkh1emFmOVVlV215eU83a3kwYjBNM1lXNEZPRm8zdmwxMmpfc3F5QjBnRGJMT2xVSUF4d0pZWGl1dWpicjd5VV9uQjRUV3pJZnBiXzhZS3VCYVpEelZTcnhWcXduVDBBTEVCZHl6OHAxRThQMlczX0l6OUdfUjRiSjBZZWc4bzVtSTNIRmIxMVEzdk04WDFpQ0g4Zmk3ZElVbVVFb1pCeVBJeS1LcUJDdTJjQ3pMNzNpM3h4Z2RQbnA?oc=5",
       "date": "Sat, 12 Sep 2026 16:00:00 GMT",
-      "source": "coindesk.com",
+      "source": "CoinDesk",
       "score": 2
     },
     {
@@ -120,13 +127,6 @@
       "score": 2
     },
     {
-      "title": "엑스알피(리플), 9월 ‘호재 3종’ 오히려 악재 되나…금리·클래러티법 변수",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5jUk9MbmJGeGZSTFpjTTFDeUQ2SVEwd0l5eUNvTXVsdWJvZFF6akYyWE1zTm9ibFI5RGZvempNWk5NZXpJRFJTOXdR?oc=5",
-      "date": "Sat, 12 Sep 2026 09:13:00 GMT",
-      "source": "코인리더스",
-      "score": 2
-    },
-    {
       "title": "리플(XRP) 10년 뒤 10조달러설, 파생시장은 벌써 양방향 베팅 채비...브래드 갈링하우스 전망은",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XTDRUU2dmMGVQZVJSal84cmJVRkQ3c2prVjNmRDZmU3N4NEVCSVo3TktScmp6alhTYXBXM2ZyY0dQbDZQMVJ6dzNlRy1jeVVDem9UcXlXdVo5TGxLM1J5ejZJSGlUVG9B?oc=5",
       "date": "Sat, 12 Sep 2026 08:00:53 GMT",
@@ -148,17 +148,17 @@
       "score": 2
     },
     {
-      "title": "하락장에도 뭉칫돈 쏠렸다… 암호화폐(코인) 예측 시장이 리플 1.50달러에 베팅하는 이유",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Hck16QnVSaFJ1cUlIbGRqWDc2bkotbVlxeHhDX1E5Z1h3Y1hCTlN5Nl9VOGZWYXR1OFhsNmVPM0h4bHRpNGdGSmdERF9PYXBsTWl0M1dn?oc=5",
-      "date": "Fri, 11 Sep 2026 06:25:00 GMT",
-      "source": "위키트리",
-      "score": 2
-    },
-    {
       "title": "리플, 기업 재무관리 AI '지스마트' 고도화…정책·분석·감사 기능 확대",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lczNmenlLNWx5MDh4aG9RbHJsaFJJdW5Fd082R2M5VWllSUhpRmFublduaDU1RGZ5aElmb1dYbGc0Qm9nTzhzRjE2NVRRdktkdURZ?oc=5",
       "date": "Fri, 11 Sep 2026 04:37:00 GMT",
       "source": "네이트",
+      "score": 2
+    },
+    {
+      "title": "믿었던 비트코인·리플마저…상원 60표 문턱 못 넘으면 대량 투매 사태 불가피",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1CUkVxMlBwYjMxajQ3LU9iTERKR1ZBb2Q0TGJTeW54cEdmQlJjWEFjOWU0R1E4Um1VN2JzTDdldzJpMUR1UkpCa1hUUHZVbUp3T1FqSGpIbzhnT29uSC1xTjgya1BPcFJDeVBLelFhSVBFU1nSAXdBVV95cUxOLTUycm1BUXdNcllsSnhGeWFYUm9yc1YyTDRtcnA1RWxxTlAyeUZOVm1FYTdVdXEyakc3ZE1WZlgta1VYRm0teG9MMmtPek8tWlRjWlI4eWNWeFdsYTdlMk1tdFZlcXBzZWVtVi03dnBhcTMtejhtdw?oc=5",
+      "date": "Thu, 10 Sep 2026 22:54:18 GMT",
+      "source": "핀포인트뉴스",
       "score": 2
     }
   ]
