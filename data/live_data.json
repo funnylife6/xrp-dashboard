@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-09-12T14:43:39",
+  "generated_at": "2026-09-12T17:34:30",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.37,
-    "price_krw": 1838.59,
-    "price_change_24h": -1.54726,
-    "price_change_7d": -2.96516,
-    "price_change_30d": 36.31833,
-    "market_cap_usd": 86178320028,
+    "price_krw": 1834.12,
+    "price_change_24h": -0.46067,
+    "price_change_7d": -3.41821,
+    "price_change_30d": 36.24524,
+    "market_cap_usd": 85971552226,
     "market_cap_rank": 5,
-    "volume_24h": 1660414267,
+    "volume_24h": 1318052819,
     "circulating_supply": 62879209849.0,
     "total_supply": 99985622230.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 76.06,
-    "sentiment_votes_down": 23.94,
+    "sentiment_votes_up": 70.59,
+    "sentiment_votes_down": 29.41,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 17.26,
-    "recent_tps": 17.26,
-    "recent_tx_count": 1553,
+    "tps_24h_avg": 15.18,
+    "recent_tps": 15.18,
+    "recent_tx_count": 1366,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106937020,
+    "ledger_seq": 106939693,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-09-12 14:43:31 KST",
+    "updated_at": "2026-09-12 17:34:24 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -58,7 +58,7 @@
       "title": "XRP, 규제 족쇄 끝나니 기관 자금 급증...이제 '미운 오리' 탈출하나",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9veHFSTmJfWFpWam1IUVM3Uks2TVMxTnlTSDkyRkJWc01YV2ZhYVZEMXRvS1FZLS1qaW1EbUU5SVEzZU5SSnVFVVpB?oc=5",
       "date": "Sat, 12 Sep 2026 13:00:00 GMT",
-      "source": "코인리더스",
+      "source": "coinreaders.com",
       "score": 0
     },
     {
@@ -92,17 +92,24 @@
   ],
   "general_news": [
     {
+      "title": "[D-BIZ 암호화폐 뉴스] 리플 RLUSD, 연간 13조 달러 기업 재무 시장 노린다…MiCA 기반 유럽 진출 본격화",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBldnZrNkZKV18wM0hmbTRYMnQtaHRMQTNhYUFJZ3QtaGNERGd0enRUY2tJUVVYVEJuUFRzTU1oOUs2NElBM2VHRlBIVUFkOExmTlVCTUYyRF9pM3hjdTYyMUJFLUN6V3h2RWVLWQ?oc=5",
+      "date": "Sat, 12 Sep 2026 17:09:32 GMT",
+      "source": "데일리비즈온",
+      "score": 3
+    },
+    {
+      "title": "리플, RLUSD 스테이블코인 성장 위해 13조 달러 기업 금고 기회 주시 - 임원 발언",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaGY2ZjExOFNYTXlkQkh1emFmOVVlV215eU83a3kwYjBNM1lXNEZPRm8zdmwxMmpfc3F5QjBnRGJMT2xVSUF4d0pZWGl1dWpicjd5VV9uQjRUV3pJZnBiXzhZS3VCYVpEelZTcnhWcXduVDBBTEVCZHl6OHAxRThQMlczX0l6OUdfUjRiSjBZZWc4bzVtSTNIRmIxMVEzdk04WDFpQ0g4Zmk3ZElVbVVFb1pCeVBJeS1LcUJDdTJjQ3pMNzNpM3h4Z2RQbnA?oc=5",
+      "date": "Sat, 12 Sep 2026 16:00:00 GMT",
+      "source": "CoinDesk",
+      "score": 3
+    },
+    {
       "title": "리플(XRP), 레버리지 ETF 또 밀렸다…‘클래리티법’도 변수",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CM2w2MUtrMUFXblVsU2NaZzVXQmtfYjlQM2l3REZPbkpJX2R1MHcxbmx5SElyNWtnQVl0aGphanJ4bEtndm1IeEV4TUp5Q3Jlem1CZ0dMaDFaN19LTjJ1ZXRPSkVmZi00?oc=5",
       "date": "Sat, 12 Sep 2026 13:32:26 GMT",
       "source": "CBC뉴스",
-      "score": 3
-    },
-    {
-      "title": "XRP, 규제 족쇄 끝나니 기관 자금 급증...이제 '미운 오리' 탈출하나",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9veHFSTmJfWFpWam1IUVM3Uks2TVMxTnlTSDkyRkJWc01YV2ZhYVZEMXRvS1FZLS1qaW1EbUU5SVEzZU5SSnVFVVpB?oc=5",
-      "date": "Sat, 12 Sep 2026 13:00:00 GMT",
-      "source": "코인리더스",
       "score": 3
     },
     {
@@ -127,10 +134,10 @@
       "score": 2
     },
     {
-      "title": "“비트코인 잡는 거대 음모 구체화”… XRP 생존 전쟁 속 숨겨진 ‘섬뜩한 단서’ 공개",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTemtZUDNKczlxVnRyNkl2N1pFLXZ2cVpOWFJEblpKY3JPTWNRSktBUXAtU3RtWmpjN2NiSGkxbE83SlhLWmR6bjk1clB6SjEySkQ4dHFDcUo3akZrOURWNUlZVDJodlVwNW1rMThHaDJhSVXSAXdBVV95cUxOUFQybzBtSEw5SHVoQXdXTFdnUzg0ODFaMHJ5R3BNQlprU1FkRTNuTTRnM3FnLTdkcVB1aUlNb2Y3WFpodDlyQXhyMDlGTTZhSVVWSnd0R29BWmxodzFHMHA0c2ZHOG9XX21MOVdRZ2xlaW05anlOYw?oc=5",
-      "date": "Sat, 12 Sep 2026 06:10:21 GMT",
-      "source": "핀포인트뉴스",
+      "title": "가상자산 시장 숨고르기 속 '시아코인' 12% 급등세… 리플·이더리움 혼조세",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5UQ1BGdlVwN2xQNF85LWFzMXhMRkhjeGo0UDFWajNiU2FUOEMxaXUyNEdpdmFYTkNDY1ZfZlZUZ2RLQ0ZzQkJGenZmSUhsRGJOclFnOVQ3bno3Qnl6b0NWVFNmTnFPclBFZExXN0R3?oc=5",
+      "date": "Sat, 12 Sep 2026 00:55:49 GMT",
+      "source": "gukjenews.com",
       "score": 2
     },
     {
@@ -144,22 +151,15 @@
       "title": "비트코인(BTC) 펀드 유출 속 홀로 버틴 리플(XRP), 8주 연속 자금 유입의 비밀은?",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBBcmd0MktHamZBZjF6V1k5U1JCVkF4QXJoT0pRbTJKaDc4VXQwZVdRVTk3RUJSMXBfVWhwWHhaRDhQS0pab3pIb1hn?oc=5",
       "date": "Thu, 10 Sep 2026 22:03:00 GMT",
-      "source": "코인리더스",
+      "source": "coinreaders.com",
       "score": 3
     },
     {
       "title": "속보 | XRP렛저 8월 트래픽 92%, 767개 봇에서 발생",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBzM1hwaTgtQ29nNWhValBCX3p2X2N3NDFNZ1hhQ3JJVVk2Z0U4bEFBb0JJMWtHdjVQdHM3bEE3T2Q1NjFiWWc0UQ?oc=5",
       "date": "Thu, 10 Sep 2026 15:50:18 GMT",
-      "source": "CoinNess",
+      "source": "coinness.com",
       "score": 8
-    },
-    {
-      "title": "리플(XRP), 국내 1900원대 안착… 찰스 슈왑 레포 담보 편입 속 2000원선 타진",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNQmEwWFJvQzR5Rkg0dnd4YUpJbWJzU2E2WTZSZGM3eGt0cFhidHJqUnFUYnNjRDRiYjB2ZTNCTElkdkhxRXp1a2JCTkpqSWstbG9paE5VYVJJVTZKc3hSLWt6RFhTSE9EMmloRl9WZzE?oc=5",
-      "date": "Wed, 09 Sep 2026 23:15:00 GMT",
-      "source": "블록체인투데이",
-      "score": 3
     }
   ]
 }
