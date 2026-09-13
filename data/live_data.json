@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-09-13T21:31:58",
+  "generated_at": "2026-09-13T23:49:12",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.36,
-    "price_krw": 1822.21,
-    "price_change_24h": -0.468,
-    "price_change_7d": -4.47602,
-    "price_change_30d": 36.1291,
-    "market_cap_usd": 85412504929,
+    "price_usd": 1.34,
+    "price_krw": 1805.73,
+    "price_change_24h": -1.73898,
+    "price_change_7d": -5.34337,
+    "price_change_30d": 35.38084,
+    "market_cap_usd": 84394724132,
     "market_cap_rank": 5,
-    "volume_24h": 963480354,
+    "volume_24h": 1095319551,
     "circulating_supply": 62879209849.0,
     "total_supply": 99985622230.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 64.15,
-    "sentiment_votes_down": 35.85,
+    "sentiment_votes_up": 60.0,
+    "sentiment_votes_down": 40.0,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 72.41,
-    "recent_tps": 72.41,
-    "recent_tx_count": 6517,
+    "tps_24h_avg": 15.37,
+    "recent_tps": 15.37,
+    "recent_tx_count": 1260,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 106965867,
+    "recent_window_sec": 82,
+    "ledger_seq": 106968004,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-09-13 21:31:46 KST",
+    "updated_at": "2026-09-13 23:48:58 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -47,6 +47,13 @@
     "data_source": "news_parse"
   },
   "etf_news": [
+    {
+      "title": "리플의 미래 정말 어둡나…향후 3년 XRP 가격 어디로",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5ZSzlGbjZwUjlGOXhYQVdlNFFESnpNLU9iR3NpdUZEQ1AwLVAxN2VIS1BRN2UwV1JUZmRhUmpEb1Itb0NqdWxaNkd3?oc=5",
+      "date": "Sun, 13 Sep 2026 23:00:00 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
     {
       "title": "리플 ETF에 대규모 자금 유입 지속…지금 XRP 사야 할까",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBNWjhLQzF1VHZFTzVzbElicWxUdmUyZTlqSEJsaXNwS1ozeHRWSmFMYjdnc3FaSzNEd25fMWc0VG9VdzBudm1RQkdR?oc=5",
@@ -81,16 +88,30 @@
       "date": "Sat, 12 Sep 2026 13:32:26 GMT",
       "source": "CBC뉴스",
       "score": 0
-    },
-    {
-      "title": "XRP, 규제 족쇄 끝나니 기관 자금 급증...이제 '미운 오리' 탈출하나",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5xU2VVSlZ2UnJiOXlsQkg1d2NDMjhtTkRCc2dFaGYxOGE4R05UenBkVWxUVVktVFRDNlJKaERzWFJlQ194?oc=5",
-      "date": "Sat, 12 Sep 2026 13:00:00 GMT",
-      "source": "코인리더스",
-      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "리플의 미래 정말 어둡나…향후 3년 XRP 가격 어디로",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5ZSzlGbjZwUjlGOXhYQVdlNFFESnpNLU9iR3NpdUZEQ1AwLVAxN2VIS1BRN2UwV1JUZmRhUmpEb1Itb0NqdWxaNkd3?oc=5",
+      "date": "Sun, 13 Sep 2026 23:00:00 GMT",
+      "source": "코인리더스",
+      "score": 3
+    },
+    {
+      "title": "리플XRP·리스크·시빅, 거래 알트코인에 몰렸다",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1kR1I3S3VBclhZUDBiQjN5SXE3RTBhWlBnT1NUdUtUbEc3eXRxbEpjM2xFR2hrZDlFaEZ3dTNLSGNOdjJtUTEwX2lKX0VSMTREcjdPT0xkU3NHNlZTRE1mYTR4Z0p6X1ZnSEozbDd3eXdIUQ?oc=5",
+      "date": "Sun, 13 Sep 2026 22:24:07 GMT",
+      "source": "톱스타뉴스",
+      "score": 2
+    },
+    {
+      "title": "XRP 레저, 3.8초 만에 한 원장 거래 2713건 처리",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJTWlhclVjdjNscGdoLU4wN2I0bWgzdzJSMVBESTgtdHZmcmJxUDhsNTIzUU9RTXFiLXduLXNTSnhWY2JvNW53M1U0TjRJdWhGSF83dmRhc2RGVnfSAWBBVV95cUxNN3lna1RXY2pVNU5ieGtzeUJwSGVaT0c3YmUwWkpsdDNWOGFxdDZsWHNWaDE2blowb2k3dFFJenJtdmdmYWNsd2dXLURnd3dESDdQQlNKWXBCWlR6RVNMaFo?oc=5",
+      "date": "Sun, 13 Sep 2026 12:32:56 GMT",
+      "source": "tokenpost.kr",
+      "score": 2
+    },
     {
       "title": "리플 ETF에 대규모 자금 유입 지속…지금 XRP 사야 할까",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBNWjhLQzF1VHZFTzVzbElicWxUdmUyZTlqSEJsaXNwS1ozeHRWSmFMYjdnc3FaSzNEd25fMWc0VG9VdzBudm1RQkdR?oc=5",
@@ -106,17 +127,10 @@
       "score": 3
     },
     {
-      "title": "리스크·스팀·리플XRP에 거래 집중…국내 시장 2.2조원",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE03OV9KWGltaTdjYXMzTm5iM1A5V1VtNFgzM3VMM2NVZ25KV0psY1IzZTdybU42WTM0TTd3aUQzMi1hSEJwRHRFS3ItZ2gxbVBkRHdoak5xaGVXZzFBa0JnQjEtelhpQmpoeGFmVng5a3hOZw?oc=5",
-      "date": "Sun, 13 Sep 2026 09:34:24 GMT",
-      "source": "톱스타뉴스",
-      "score": 2
-    },
-    {
       "title": "이더리움 버리고 XRP로?... 클리어풀 전격 이전에 개미들 패닉",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9EZkIyMUxOcmNWSldyV0ZpQlRaS2ZmTzBzSFUzdy1zUTczSzhWbEUtTmdIM2NWcXMxMm9KcVRUOUhfc1JWWW9JQmZBTU1HcXEwMUs0NHFDbnFEVS1QWURxdl8zNGd6VDg2cmdJRDExcy00NTDSAXdBVV95cUxNNW1oUF9uZ1dTVFRJcXNzanlwM2NfWkFrZVR4ZjRCd21mNUczWEpzd29TNGJYN3kyd1NNS3pUc1N2ZlhCLWR2WURrdW9UZ3BCSEQ5d0N3eGdobjdQMVJCVEVVZVlOMjVRVGsyN0VlWlEwQ2Exdk12MA?oc=5",
       "date": "Sun, 13 Sep 2026 05:41:53 GMT",
-      "source": "pinpointnews.co.kr",
+      "source": "핀포인트뉴스",
       "score": 2
     },
     {
@@ -124,7 +138,7 @@
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5wdDhOcS1wZnJSWjZzQmdtQzB4d28wbUtQVzFtMHlwR05VTkxzeEtqaGptdFZkZGcxeXRrTzFpT1VKOU5veDNhRnpB?oc=5",
       "date": "Sat, 12 Sep 2026 23:12:00 GMT",
       "source": "코인리더스",
-      "score": 2
+      "score": 3
     },
     {
       "title": "리플, RLUSD 스테이블코인 성장 위해 13조 달러 기업 금고 기회 주시 - 임원 발언",
@@ -145,20 +159,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOanZneWFUNkhYV2N2clJnVmlPUTJHX0hjVk51bzhqanV1WFZrdzZ0MDdZTFZIdks1cmNqZ2g3ZWdBdnp4NmJpSDBMa2dMeW9tQi1tYktkVC0xTkdrTmZ6S014VmgwajNjelg3UUtuemE0UGJSN1hybzNZLTJTZmZPbldUSVAta0sz?oc=5",
       "date": "Sat, 12 Sep 2026 10:37:29 GMT",
       "source": "글로벌이코노믹",
-      "score": 2
-    },
-    {
-      "title": "가상자산 시장 숨고르기 속 '시아코인' 12% 급등세… 리플·이더리움 혼조세",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5UQ1BGdlVwN2xQNF85LWFzMXhMRkhjeGo0UDFWajNiU2FUOEMxaXUyNEdpdmFYTkNDY1ZfZlZUZ2RLQ0ZzQkJGenZmSUhsRGJOclFnOVQ3bno3Qnl6b0NWVFNmTnFPclBFZExXN0R3?oc=5",
-      "date": "Sat, 12 Sep 2026 00:55:49 GMT",
-      "source": "gukjenews.com",
-      "score": 2
-    },
-    {
-      "title": "전 리플엑스 임원, XRP ‘킬러 활용사례’ 언급",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE12MTh5ZUh4OEhoQ1JEa0kzYUV1VFNCWlNWbUNvMVBIdUxMY25PSVZkMFBPWEU5c08yYkJlWkhjR29IcERHNjVwMEdFT1VnSG4tZE5VNDZXNmFlWExxWl9tUUlsQ1o0LVktVUZ4aHIxMnNJcko5WnhUMmN0Zw?oc=5",
-      "date": "Fri, 11 Sep 2026 07:00:00 GMT",
-      "source": "BeInCrypto",
       "score": 2
     }
   ]
