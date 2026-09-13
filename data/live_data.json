@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-09-12T23:37:40",
+  "generated_at": "2026-09-13T02:22:35",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.37,
-    "price_krw": 1831.8,
-    "price_change_24h": 0.74429,
-    "price_change_7d": -3.46147,
-    "price_change_30d": 35.44673,
-    "market_cap_usd": 85861749948,
+    "price_krw": 1833.23,
+    "price_change_24h": 0.33345,
+    "price_change_7d": -3.62969,
+    "price_change_30d": 35.23171,
+    "market_cap_usd": 85930293303,
     "market_cap_rank": 5,
-    "volume_24h": 991792875,
+    "volume_24h": 968646814,
     "circulating_supply": 62879209849.0,
     "total_supply": 99985622230.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 67.74,
-    "sentiment_votes_down": 32.26,
+    "sentiment_votes_up": 64.91,
+    "sentiment_votes_down": 35.09,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 15.62,
-    "recent_tps": 15.62,
-    "recent_tx_count": 1406,
+    "tps_24h_avg": 39.99,
+    "recent_tps": 39.99,
+    "recent_tx_count": 3919,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 106945356,
+    "recent_window_sec": 98,
+    "ledger_seq": 106947924,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-09-12 23:37:34 KST",
+    "updated_at": "2026-09-13 02:22:22 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -83,10 +83,10 @@
       "score": 0
     },
     {
-      "title": "비트코인(BTC) 펀드 유출 속 홀로 버틴 리플(XRP), 8주 연속 자금 유입의 비밀은?",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1yV09qcElxX0ZCTVgxVnEtXzZFYV9rRTA0N0c1TlhDSTlyTW52MWYySFBKTWhCUUYyYjdwSDhmSWI0VG9uOHNQMQ?oc=5",
-      "date": "Thu, 10 Sep 2026 22:03:00 GMT",
-      "source": "코인리더스",
+      "title": "비트코인 7만7천 붕괴…미 PPI 5.4% 쇼크에 CPI 앞두고 변동성 확대, 리플 ETF는 8주째 유입",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBRVFJ1UVlaNW95emlNcnRTN2xBZzNmeEFkMXFweURuVHdWV0t0MUVDcFFQdmVPbGZJa1VBNlVyUEFyVXEweHVWNW44ZTJXekxnQXNoX1hnRQ?oc=5",
+      "date": "Fri, 11 Sep 2026 00:13:34 GMT",
+      "source": "CoinNess",
       "score": 0
     }
   ],
@@ -106,18 +106,18 @@
       "score": 2
     },
     {
-      "title": "XRP ETF 결정 10월로 미뤄져…규제 불확실성 지속",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9lSVFyNTdpSzhsX05SWWhvUUc4UjUzZ2wzMzlYdktUN01nLTRsY2xxMEh4ZlRxd3BienNtcElvajNuN1RtUWpZQkN3VUVXeFJKc18zQXo0cETSAV5BVV95cUxPMk5uV2p6N0JlRVROVV9UcU5RZHQ3eWt3S1ZkbVRjckh6bGphQnFyOTNpbVptZm1PcW5DTDJaVkhTZDJVa0MzTHJBN0tqVXMzQ292MHhzX2NyLVJWRkdn?oc=5",
-      "date": "Sat, 12 Sep 2026 15:21:59 GMT",
-      "source": "tokenpost.kr",
-      "score": 3
-    },
-    {
       "title": "리플(XRP), 레버리지 ETF 또 밀렸다…‘클래리티법’도 변수",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CM2w2MUtrMUFXblVsU2NaZzVXQmtfYjlQM2l3REZPbkpJX2R1MHcxbmx5SElyNWtnQVl0aGphanJ4bEtndm1IeEV4TUp5Q3Jlem1CZ0dMaDFaN19LTjJ1ZXRPSkVmZi00?oc=5",
       "date": "Sat, 12 Sep 2026 13:32:26 GMT",
       "source": "CBC뉴스",
       "score": 3
+    },
+    {
+      "title": "리플 프라임 다중자산 확대…XRP 수요 연결은 별개",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YM1pFbWs1bFNwMXl4MGQtaGVQRTk1Rk9ldVVqc05McG0yOHZrbjJVaGVBT0Y4b0F5VVNoQzlxMXRnNFphVlZzQ3QzVEIwdXM0NXhUZGNPVHB2WTZHdi1WNtIBZkFVX3lxTE1rMFFHY3doSFB0SzVLd1FOTXcxdFd3aEI1UHJkcUVVUVFjNS1lWXoteUFfMGZYNE91QmgtTlRoLW9hajBybDJkNUppblJLNXE3VWlUNXJvYlh6VTc0cjVsaVd4Z01CZw?oc=5",
+      "date": "Sat, 12 Sep 2026 13:31:30 GMT",
+      "source": "tokenpost.kr",
+      "score": 2
     },
     {
       "title": "전 리플 CTO \"XRP가 비트코인 시총 추월 가능\"...역전 시나리오는?",
