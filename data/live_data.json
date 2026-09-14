@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-09-14T15:08:20",
+  "generated_at": "2026-09-14T19:54:04",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.4,
-    "price_krw": 1881.26,
-    "price_change_24h": 3.5953,
-    "price_change_7d": -0.20895,
-    "price_change_30d": 39.43622,
-    "market_cap_usd": 87776667658,
+    "price_usd": 1.46,
+    "price_krw": 1965.79,
+    "price_change_24h": 7.77861,
+    "price_change_7d": 4.58759,
+    "price_change_30d": 45.6803,
+    "market_cap_usd": 91718550137,
     "market_cap_rank": 5,
-    "volume_24h": 2311205366,
+    "volume_24h": 3719510045,
     "circulating_supply": 62879209849.0,
     "total_supply": 99985622230.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 73.83,
-    "sentiment_votes_down": 26.17,
+    "sentiment_votes_up": 76.35,
+    "sentiment_votes_down": 23.65,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 80.49,
-    "recent_tps": 80.49,
-    "recent_tx_count": 7244,
-    "recent_ledger_count": 23,
+    "tps_24h_avg": 26.04,
+    "recent_tps": 26.04,
+    "recent_tx_count": 2344,
+    "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106982290,
+    "ledger_seq": 106986701,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-09-14 15:08:06 KST",
+    "updated_at": "2026-09-14 19:53:53 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -48,10 +48,17 @@
   },
   "etf_news": [
     {
-      "title": "리플(XRP), 레버리지 ETF 또 밀렸다…‘클래리티법’도 변수",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CM2w2MUtrMUFXblVsU2NaZzVXQmtfYjlQM2l3REZPbkpJX2R1MHcxbmx5SElyNWtnQVl0aGphanJ4bEtndm1IeEV4TUp5Q3Jlem1CZ0dMaDFaN19LTjJ1ZXRPSkVmZi00?oc=5",
-      "date": "Mon, 14 Sep 2026 13:00:44 GMT",
-      "source": "CBC뉴스",
+      "title": "비트코인 ETF, 4.6억 달러 '순유출'...이더리움·XRP·솔라나로 자금 대이동",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ULWVXOTZzQTlBYlFOQURiNENOWDYxWFcwczU1TllnUk9OZllGakU2eU1LNm81c2dldHhwd2JDSUVmc3ZCZjloRw?oc=5",
+      "date": "Mon, 14 Sep 2026 19:00:00 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
+    {
+      "title": "비트코인 ETF서 4억6,270만달러 이탈…자금은 이더리움으로 향했나",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5Jczd5b3M2WmVUNnpHVV9YOFNXRTJ6SGNRLTVPRG9CN0czTG5CMV9qb0tCX3lha0FKNXBWY2pPZUp1Uml4clUwbkpB?oc=5",
+      "date": "Mon, 14 Sep 2026 12:57:00 GMT",
+      "source": "코인리더스",
       "score": 0
     },
     {
@@ -81,22 +88,15 @@
       "date": "Sun, 13 Sep 2026 11:48:33 GMT",
       "source": "Yellow.com",
       "score": 0
-    },
-    {
-      "title": "XRP 현물 ETF 지난주 순유입 1897.54 만 달러",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yQUhYUmFiaGNwbV9SSWF5VVN3Q051Zm5MN0RkRWVYYWlsQjVYQVlVcFVNWlFNSG9UbVdRcTZQalh5M2Y2MVpKZ3lsRzlGNkhsNkwwVXNR?oc=5",
-      "date": "Sun, 13 Sep 2026 11:29:00 GMT",
-      "source": "odaily.news",
-      "score": 0
     }
   ],
   "general_news": [
     {
-      "title": "리플(XRP), 레버리지 ETF 또 밀렸다…‘클래리티법’도 변수",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CM2w2MUtrMUFXblVsU2NaZzVXQmtfYjlQM2l3REZPbkpJX2R1MHcxbmx5SElyNWtnQVl0aGphanJ4bEtndm1IeEV4TUp5Q3Jlem1CZ0dMaDFaN19LTjJ1ZXRPSkVmZi00?oc=5",
-      "date": "Mon, 14 Sep 2026 13:00:44 GMT",
-      "source": "CBC뉴스",
-      "score": 3
+      "title": "SEC·CFTC “XRP·비트코인은 상품” 공동 해석…현물거래소 감독 공백은 여전",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xYTRLeUkzeFVWcm9QQ0JYWUw4MlJLeGhDRU5WVG9xLXFYanJuNndsSkZGdlV2UHRiV2FIZDMtVkg5Y2J0dWNiRG5sSVdrekJ2WDF4b0t3?oc=5",
+      "date": "Mon, 14 Sep 2026 15:47:00 GMT",
+      "source": "wikitree.co.kr",
+      "score": 4
     },
     {
       "title": "도지코인 ETF 1200만달러 유입…XRP·솔라나는 30억달러",
