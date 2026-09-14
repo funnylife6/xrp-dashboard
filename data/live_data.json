@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-09-14T19:54:04",
+  "generated_at": "2026-09-14T22:53:28",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.46,
-    "price_krw": 1965.79,
-    "price_change_24h": 7.77861,
-    "price_change_7d": 4.58759,
-    "price_change_30d": 45.6803,
-    "market_cap_usd": 91718550137,
+    "price_usd": 1.44,
+    "price_krw": 1936.9,
+    "price_change_24h": 7.4611,
+    "price_change_7d": 3.02369,
+    "price_change_30d": 43.37138,
+    "market_cap_usd": 90434468178,
     "market_cap_rank": 5,
-    "volume_24h": 3719510045,
+    "volume_24h": 4274197470,
     "circulating_supply": 62879209849.0,
     "total_supply": 99985622230.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 76.35,
-    "sentiment_votes_down": 23.65,
+    "sentiment_votes_up": 78.24,
+    "sentiment_votes_down": 21.76,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 26.04,
-    "recent_tps": 26.04,
-    "recent_tx_count": 2344,
+    "tps_24h_avg": 22.1,
+    "recent_tps": 22.1,
+    "recent_tx_count": 1989,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106986701,
+    "ledger_seq": 106989459,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-09-14 19:53:53 KST",
+    "updated_at": "2026-09-14 22:53:18 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,18 +92,25 @@
   ],
   "general_news": [
     {
+      "title": "트럼프 법안 합의 결단에 날아오른 리플(XRP), 비트코인(BTC) 상승률 압도했다!",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5xMDZzSDFzczFFYTg0YTY3WFhiUWNqeVVTaVFWR3QyTFNUN3BrZzA5Q1ZOb283YlZVY0lTUkEydkVWdWpCc1Q3QXpn?oc=5",
+      "date": "Mon, 14 Sep 2026 22:17:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
+      "title": "리플XRP 상승·리스크 급락·클리어풀 급등…거래대금 쏠림",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5RWVFMV05IYjZFNFhyTUZwb1ZkQU1Ld014RldhVFZLTXdfaVQtbWFsOG5OZ1F3YVVnelR0bmRaWklzRFQwZVhzTVV2VEFRLVpaaDBDMERxNkljbmlnVUdEMkpOei0wdFpvQXN5b3ZpaEx4UQ?oc=5",
+      "date": "Mon, 14 Sep 2026 22:10:03 GMT",
+      "source": "톱스타뉴스",
+      "score": 2
+    },
+    {
       "title": "SEC·CFTC “XRP·비트코인은 상품” 공동 해석…현물거래소 감독 공백은 여전",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xYTRLeUkzeFVWcm9QQ0JYWUw4MlJLeGhDRU5WVG9xLXFYanJuNndsSkZGdlV2UHRiV2FIZDMtVkg5Y2J0dWNiRG5sSVdrekJ2WDF4b0t3?oc=5",
       "date": "Mon, 14 Sep 2026 15:47:00 GMT",
-      "source": "wikitree.co.kr",
+      "source": "위키트리",
       "score": 4
-    },
-    {
-      "title": "도지코인 ETF 1200만달러 유입…XRP·솔라나는 30억달러",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01UVRraFJNZDhyZ0ROV090LWVWbzJsLUVRbjhROHk1MmNMLV9BenlkcUZjQmYtZW5NTlc1RWhjMGhlYnRaT0owRFVLX1J5eVdnc0Y3bTlyREZlT2ZtUExtN9IBZkFVX3lxTE9OTE84VmF6emd1anZBN3RxOWhkZUhDNkpIazRqU0pLTWF5NkVJY243RFBySkdaS0w0TGtIalJJRmJ1MGlaNE9xX0VESWlPVXdOYzlZM21lR3YxRGUza252clpkdW5tdw?oc=5",
-      "date": "Mon, 14 Sep 2026 13:00:21 GMT",
-      "source": "tokenpost.kr",
-      "score": 3
     },
     {
       "title": "리플, RLUSD 앞세워 13조달러 시장 '정조준'...XRP는 찬밥 신세?",
@@ -132,13 +139,6 @@
       "date": "Mon, 14 Sep 2026 00:46:43 GMT",
       "source": "CBC뉴스",
       "score": 3
-    },
-    {
-      "title": "200일선 무너졌다! 리플(XRP), 거래량 20% 급증 속 약세 확대",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5Hb1VGLWRhVWV2b2pFRXp5OHVLbDYwTDVTU01ITE9SSmg1andSSEFLSklRSFk2YUVwUG8zRnh5LUw3UGswQVI5eWNB?oc=5",
-      "date": "Mon, 14 Sep 2026 00:31:00 GMT",
-      "source": "코인리더스",
-      "score": 2
     },
     {
       "title": "리플 프라임 확대, XRP에는 호재 아닐 수도…수요 연결은 별개",
