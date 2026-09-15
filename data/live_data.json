@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-09-15T06:20:30",
+  "generated_at": "2026-09-15T11:57:07",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.41,
-    "price_krw": 1912.32,
-    "price_change_24h": 1.73317,
-    "price_change_7d": 1.50076,
-    "price_change_30d": 40.85078,
-    "market_cap_usd": 88523347987,
+    "price_usd": 1.4,
+    "price_krw": 1899.79,
+    "price_change_24h": 0.10221,
+    "price_change_7d": 0.01394,
+    "price_change_30d": 39.85518,
+    "market_cap_usd": 87893240100,
     "market_cap_rank": 5,
-    "volume_24h": 4304276175,
+    "volume_24h": 4068287130,
     "circulating_supply": 62879209849.0,
     "total_supply": 99985622230.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 80.21,
-    "sentiment_votes_down": 19.79,
+    "sentiment_votes_up": 79.89,
+    "sentiment_votes_down": 20.11,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 16.82,
-    "recent_tps": 16.82,
-    "recent_tx_count": 1514,
+    "tps_24h_avg": 24.95,
+    "recent_tps": 24.95,
+    "recent_tx_count": 2046,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 106996405,
+    "recent_window_sec": 82,
+    "ledger_seq": 107001639,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-09-15 06:20:20 KST",
+    "updated_at": "2026-09-15 11:56:59 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 11260000,
     "total_net_inflow_usd": 11260000,
     "total_value_traded_usd": 11260000,
-    "updated_at": "SoSoValue 순유입 부분 수집 09/15 06:20",
+    "updated_at": "SoSoValue 순유입 부분 수집 09/15 11:57",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -93,6 +93,20 @@
   ],
   "general_news": [
     {
+      "title": "항상 암호화폐(코인) 리플 발목 잡았던 중요 이슈 종결 직전... 업계 판도 뒤집히나",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ueTJ4TThhNDFteVdHOE9zZWd0VnI4Yl9RYXh5ai1ad1V6Ujl3V0Yzd0N6cmtfT1NmaHZNLVdja0hsb0NDWVM1QTBsQmZOWHVqM0pFZlhR?oc=5",
+      "date": "Tue, 15 Sep 2026 06:09:00 GMT",
+      "source": "위키트리",
+      "score": 2
+    },
+    {
+      "title": "그레이스케일, 기관 모델 포트폴리오서 XRP 비중 26% 배분… 알트코인 재편 신호탄",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjRmF2UTRibktvN0RrWlVFeE1kdDNEU0p2U0RQamlGSDBjQldMR2taSWk5UUs0YzJ5MEQxQTVRV0VpYl9Db1VPM3dpMVJXblV0MW1Yc1luTTJ1YXZKOFdaNmJkTl9CbllkV1QyRldtYWQ?oc=5",
+      "date": "Tue, 15 Sep 2026 00:43:17 GMT",
+      "source": "블록체인투데이",
+      "score": 3
+    },
+    {
       "title": "리플 RLUSD, 올해 시총 10억달러 늘었다…성장 속도 3위",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5X2x6SWd3NmlBT0s3ejFLMGlqMXZKN2Rkdk1Db0JfUkpxVlExeXJKNXV4ZHc1THdQbHBUeVZSOGNpX1VnODMySWxOZFlqU2JEellMYnl1TGVrN3g1VmFmZEUxeFQwbmMtTF9wSjZfbVZmNkk?oc=5",
       "date": "Tue, 15 Sep 2026 00:38:00 GMT",
@@ -114,20 +128,6 @@
       "score": 2
     },
     {
-      "title": "XRP 맡기고 보험료 번다?… ‘파이어라이트’ 최대 60일 락업·원금 손실 주의보",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kSmVtSURyd3I5T21IaTNnejRMVXNPb1E4WmFTYzhVYWZFc1p0UllYYUQ3N3VxUDNSY0NyaFVtZzRzRnYwVWxvZi1RMS1JaWF6TVdrTWJUcnVCbDhrMFpTNDhodkZSbjhXN2xKQnoya1Q?oc=5",
-      "date": "Mon, 14 Sep 2026 23:18:14 GMT",
-      "source": "blockchaintoday.co.kr",
-      "score": 2
-    },
-    {
-      "title": "트럼프 법안 합의 결단에 날아오른 리플(XRP), 비트코인(BTC) 상승률 압도했다!",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5xMDZzSDFzczFFYTg0YTY3WFhiUWNqeVVTaVFWR3QyTFNUN3BrZzA5Q1ZOb283YlZVY0lTUkEydkVWdWpCc1Q3QXpn?oc=5",
-      "date": "Mon, 14 Sep 2026 22:17:00 GMT",
-      "source": "코인리더스",
-      "score": 2
-    },
-    {
       "title": "리플XRP 상승·리스크 급락·클리어풀 급등…거래대금 쏠림",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5RWVFMV05IYjZFNFhyTUZwb1ZkQU1Ld014RldhVFZLTXdfaVQtbWFsOG5OZ1F3YVVnelR0bmRaWklzRFQwZVhzTVV2VEFRLVpaaDBDMERxNkljbmlnVUdEMkpOei0wdFpvQXN5b3ZpaEx4UQ?oc=5",
       "date": "Mon, 14 Sep 2026 22:10:03 GMT",
@@ -142,6 +142,13 @@
       "score": 4
     },
     {
+      "title": "리플 원장(XRPL) 단일 블록 3,254건 신기록…처리 능력 정말 늘었나",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9xWFhIbEg3NU1LT25kcEdlSHZiYkRZenRiR05Wd2lYTDJqOTVvM1BvWVVOVElLbW9rVTU3ZDQ5WWZfQVh3a0pmb0dn?oc=5",
+      "date": "Mon, 14 Sep 2026 13:10:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
       "title": "리플, RLUSD 앞세워 13조달러 시장 '정조준'...XRP는 찬밥 신세?",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB2aEtHTVNmUGJaVXZ1Z3c0TklWekhfX0hGT2MwMk0yeGhEWUMtWTdZa01uNy1EOFB0bjh4U0Z2UC1oSmR1cVVoWTBR?oc=5",
       "date": "Mon, 14 Sep 2026 11:00:00 GMT",
@@ -153,13 +160,6 @@
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE91MW91QnNCV0dBVlJQX3k1LWc3UHJ3dmVlNEF0Tnkzbmc0R0pNN1k0am9TTGtXRm5kM1ZadG5hNFdwWGMtRnQzTDNn?oc=5",
       "date": "Mon, 14 Sep 2026 06:10:00 GMT",
       "source": "코인리더스",
-      "score": 2
-    },
-    {
-      "title": "XRP 최악 시나리오는 '클래리티 부결·FOMC 금리 충격'",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONEZOMVk4Qm1meVZDQ1FVbjUtekFmTEg0bTVQQkR6MGt0VHBYSXcxR1hPcFQ1dUhYSkdvRzJzU09Kem5rN3B6UW9uRXdfdW4xUzJEQzlaSWhUMy1jbU5kMm5ybFVWdWFpNGFuZ0VLMDNiWW1zRDhWanJHVlgxZGJURFBLMzlNdng3?oc=5",
-      "date": "Mon, 14 Sep 2026 02:06:44 GMT",
-      "source": "글로벌이코노믹",
       "score": 2
     }
   ]
