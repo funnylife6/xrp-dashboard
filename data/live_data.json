@@ -1,71 +1,72 @@
 {
-  "generated_at": "2026-09-15T01:06:04",
+  "generated_at": "2026-09-15T06:20:30",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.42,
-    "price_krw": 1910.77,
-    "price_change_24h": 5.25694,
-    "price_change_7d": 1.21783,
-    "price_change_30d": 41.6721,
-    "market_cap_usd": 89157827059,
+    "price_usd": 1.41,
+    "price_krw": 1912.32,
+    "price_change_24h": 1.73317,
+    "price_change_7d": 1.50076,
+    "price_change_30d": 40.85078,
+    "market_cap_usd": 88523347987,
     "market_cap_rank": 5,
-    "volume_24h": 3986806136,
+    "volume_24h": 4304276175,
     "circulating_supply": 62879209849.0,
     "total_supply": 99985622230.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 79.21,
-    "sentiment_votes_down": 20.79,
+    "sentiment_votes_up": 80.21,
+    "sentiment_votes_down": 19.79,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 47.71,
-    "recent_tps": 47.71,
-    "recent_tx_count": 4294,
+    "tps_24h_avg": 16.82,
+    "recent_tps": 16.82,
+    "recent_tx_count": 1514,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 106991515,
+    "ledger_seq": 106996405,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-09-15 01:05:56 KST",
+    "updated_at": "2026-09-15 06:20:20 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
   },
   "etf_flow": {
-    "approved_count": 0,
+    "approved_count": 4,
     "daily_inflow_usd": 0,
     "weekly_inflow_usd": 0,
-    "aum_usd": 0,
-    "total_net_inflow_usd": 0,
-    "total_value_traded_usd": 0,
-    "updated_at": "뉴스 자동 파싱 대기",
-    "data_source": "news_parse"
+    "aum_usd": 11260000,
+    "total_net_inflow_usd": 11260000,
+    "total_value_traded_usd": 11260000,
+    "updated_at": "SoSoValue 순유입 부분 수집 09/15 06:20",
+    "data_source": "sosovalue",
+    "partial": true
   },
   "etf_news": [
     {
       "title": "비트코인 ETF, 4.6억 달러 '순유출'...이더리움·XRP·솔라나로 자금 대이동",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1oamlzaVlkMEdlRVFqR3JUd3B4SG8xSWhPS3RkVjl0dVZzOE56SkYwaGswSFEwUVlMQy13TjVYcTZOekZ3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE95bF9WYk5YMVR3V1VQWVU0MkN2RDlZdDY4cFVYNURpTEZtWnFNeks3aVVtOHNfV3k0QmxiZWxvb2JKeHVJSGoyd2Rn?oc=5",
       "date": "Mon, 14 Sep 2026 19:00:00 GMT",
-      "source": "coinreaders.com",
+      "source": "코인리더스",
       "score": 0
     },
     {
       "title": "리플의 미래 정말 어둡나…향후 3년 XRP 가격 어디로",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5ZSzlGbjZwUjlGOXhYQVdlNFFESnpNLU9iR3NpdUZEQ1AwLVAxN2VIS1BRN2UwV1JUZmRhUmpEb1Itb0NqdWxaNkd3?oc=5",
       "date": "Sun, 13 Sep 2026 23:00:00 GMT",
-      "source": "coinreaders.com",
+      "source": "코인리더스",
       "score": 0
     },
     {
       "title": "리플 ETF에 대규모 자금 유입 지속…지금 XRP 사야 할까",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBNWjhLQzF1VHZFTzVzbElicWxUdmUyZTlqSEJsaXNwS1ozeHRWSmFMYjdnc3FaSzNEd25fMWc0VG9VdzBudm1RQkdR?oc=5",
       "date": "Sun, 13 Sep 2026 12:18:00 GMT",
-      "source": "coinreaders.com",
+      "source": "코인리더스",
       "score": 0
     },
     {
@@ -99,6 +100,13 @@
       "score": 2
     },
     {
+      "title": "XRP 보유 부담 기관으로 옮겨질 가능성…XRPL 후원안 초안",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkUlV0NGs5SzNsWUktYXJibFlVNDZQb1Z4R0ZNODdSREhiVE1aeG9kekNwcC1WMmFjS3Vkdko2YWJDOFZLRzM3SmtFT2g1NFUtbmVZZnAwc0xuQ0XSAWBBVV95cUxOSG9JM2xfUEZDbzR3eUdzNEY0TWNMWmJUNTFOSVZOSEZXdm8zMTc5NzJ0dmt5ZW5SLTlnYmg0bjNNeVlqbGEtOFEtR1VpMDJvSm9EUEpHdi1uV0UwV1M0RXI?oc=5",
+      "date": "Tue, 15 Sep 2026 00:06:46 GMT",
+      "source": "tokenpost.kr",
+      "score": 3
+    },
+    {
       "title": "XRP 옵션시장 요동…코인베이스 \"이번 주 큰 변동성 대비해야\"",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1HUEUtR1h2QktsS0pXVHBxaHRjWkVYVnd5Z2htTnBFUDJQS0hrcVhkdlJ5aXdWaS1iaVZrQ21RWUREdzhwamhOalU3RUUxeWlVUVJJNlZHc25XbGxuSXlRX0xVUl91YTRKbW12bndXLW93NkU?oc=5",
       "date": "Mon, 14 Sep 2026 23:38:32 GMT",
@@ -109,14 +117,14 @@
       "title": "XRP 맡기고 보험료 번다?… ‘파이어라이트’ 최대 60일 락업·원금 손실 주의보",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kSmVtSURyd3I5T21IaTNnejRMVXNPb1E4WmFTYzhVYWZFc1p0UllYYUQ3N3VxUDNSY0NyaFVtZzRzRnYwVWxvZi1RMS1JaWF6TVdrTWJUcnVCbDhrMFpTNDhodkZSbjhXN2xKQnoya1Q?oc=5",
       "date": "Mon, 14 Sep 2026 23:18:14 GMT",
-      "source": "블록체인투데이",
+      "source": "blockchaintoday.co.kr",
       "score": 2
     },
     {
       "title": "트럼프 법안 합의 결단에 날아오른 리플(XRP), 비트코인(BTC) 상승률 압도했다!",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5xMDZzSDFzczFFYTg0YTY3WFhiUWNqeVVTaVFWR3QyTFNUN3BrZzA5Q1ZOb283YlZVY0lTUkEydkVWdWpCc1Q3QXpn?oc=5",
       "date": "Mon, 14 Sep 2026 22:17:00 GMT",
-      "source": "coinreaders.com",
+      "source": "코인리더스",
       "score": 2
     },
     {
@@ -137,14 +145,14 @@
       "title": "리플, RLUSD 앞세워 13조달러 시장 '정조준'...XRP는 찬밥 신세?",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB2aEtHTVNmUGJaVXZ1Z3c0TklWekhfX0hGT2MwMk0yeGhEWUMtWTdZa01uNy1EOFB0bjh4U0Z2UC1oSmR1cVVoWTBR?oc=5",
       "date": "Mon, 14 Sep 2026 11:00:00 GMT",
-      "source": "coinreaders.com",
+      "source": "코인리더스",
       "score": 3
     },
     {
       "title": "XRP 레저, 한 달간 스테이블코인 52.5억 달러 이동...RLUSD 업고 성장세",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE91MW91QnNCV0dBVlJQX3k1LWc3UHJ3dmVlNEF0Tnkzbmc0R0pNN1k0am9TTGtXRm5kM1ZadG5hNFdwWGMtRnQzTDNn?oc=5",
       "date": "Mon, 14 Sep 2026 06:10:00 GMT",
-      "source": "coinreaders.com",
+      "source": "코인리더스",
       "score": 2
     },
     {
@@ -153,13 +161,6 @@
       "date": "Mon, 14 Sep 2026 02:06:44 GMT",
       "source": "글로벌이코노믹",
       "score": 2
-    },
-    {
-      "title": "XRP 밀어낸 RLUSD…리플, 13조달러 기업 자금시장 노린다",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE11Ry10dlZPcjREOUZaaWtSWEQwODhGdHYxeTAyUlNZTU5GVmdockFNUnRSTy1yYlpKT3FCS0RCajJhSE9ydzZLcEZmM3ZCQ1RFQU9kQW1OMVRrcFF5OVBFa19fYmgzczFH?oc=5",
-      "date": "Mon, 14 Sep 2026 00:46:43 GMT",
-      "source": "CBC뉴스",
-      "score": 3
     }
   ]
 }
