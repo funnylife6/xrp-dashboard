@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-09-16T18:59:22",
+  "generated_at": "2026-09-16T21:57:11",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.28,
-    "price_krw": 1754.79,
-    "price_change_24h": -3.90854,
-    "price_change_7d": -10.21038,
-    "price_change_30d": 27.63428,
-    "market_cap_usd": 80303058870,
+    "price_usd": 1.29,
+    "price_krw": 1775.63,
+    "price_change_24h": 0.52648,
+    "price_change_7d": -8.16364,
+    "price_change_30d": 28.51382,
+    "market_cap_usd": 81035316192,
     "market_cap_rank": 5,
-    "volume_24h": 4731815956,
+    "volume_24h": 3934766563,
     "circulating_supply": 62879209849.0,
     "total_supply": 99985622230.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 61.38,
-    "sentiment_votes_down": 38.62,
+    "sentiment_votes_up": 64.57,
+    "sentiment_votes_down": 35.43,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 31.63,
-    "recent_tps": 31.63,
-    "recent_tx_count": 2815,
+    "tps_24h_avg": 20.67,
+    "recent_tps": 20.67,
+    "recent_tx_count": 1860,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 107030522,
+    "recent_window_sec": 90,
+    "ledger_seq": 107033273,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-09-16 18:59:13 KST",
+    "updated_at": "2026-09-16 21:57:01 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -48,9 +48,9 @@
   },
   "etf_news": [
     {
-      "title": "연준 금리 결정 코앞…비트코인 75,000달러·XRP 1.30달러 지킬까?",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE44U0ZtTXJzX1VYMTRjUVNxdWRoN2hOWVpuZ2h3MjVZQU1zNldjQTJjbllWcm5BRnU3STJvenRuamtTME1QWmR0ZWJn?oc=5",
-      "date": "Wed, 16 Sep 2026 13:15:00 GMT",
+      "title": "비트코인(BTC) ETF '자금 썰물'...\"6월 이후 최악의 하루\"",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5RMU9taGwtYUM3VXI0REVyVE1RQjNid0xDRFg1X0RLcnh6ckxzMlFMNWNKSG10allMTXdlWUY0S2ZteGtNeDBNSmtB?oc=5",
+      "date": "Wed, 16 Sep 2026 21:40:00 GMT",
       "source": "코인리더스",
       "score": 0
     },
@@ -92,6 +92,13 @@
   ],
   "general_news": [
     {
+      "title": "법안 엎어지자 12% 폭락… 리플, 1.2달러 방어선 사투",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbFNoWnZyWjJuR2ZCVV9TVE1EelFmRGVNMnYxYngtcmoweEZ1eW5SVU5VVTNWRTRCcnd4dGU1TjFWVTA0alp6bnRlQzBXTXVUWUlRMWQwbHRxRDZ2REtvTUdnbVg5MGhlTkJUdlVhT3N6aGtBREZpNWdGN21oVnRiLU9sRFhOeHJX?oc=5",
+      "date": "Wed, 16 Sep 2026 21:03:53 GMT",
+      "source": "글로벌이코노믹",
+      "score": 2
+    },
+    {
       "title": "클래리티 법안은 잊어라… 미 상원도 리플과 XRP를 막을 수 없는 이유",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBiaXRtNkwwa01BcFhDTEZrMUE3VmVsV0hLNXFMa0xHMHRYTHdvdE52aFJvQnpoVllNNWZlaEtrNVlWZGUtblhKd2p3M1BrSlZPYXhaV2hkQTh4RVFnZkFaQXhmRGtkNTJpTzdONF9wNVNhMDQ?oc=5",
       "date": "Wed, 16 Sep 2026 09:57:00 GMT",
@@ -127,11 +134,11 @@
       "score": 2
     },
     {
-      "title": "속보 | XRP, 지난 5분간 2.89% 하락",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBtWC1wX1ppZF9PeVJfTGhmemhTSThQQ1VyUjV0OWFEWDloemszNHE2NjdOc1Vwb2R5aE81d0NUZDhTbzVpbWYzVQ?oc=5",
-      "date": "Tue, 15 Sep 2026 21:32:52 GMT",
-      "source": "CoinNess",
-      "score": 8
+      "title": "리플(XRP) 1.40달러선…'클래리티 법안 먹구름' 전망도",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5na2V4S2pCUFRtTFRWNkNINmQ4d3RQeWpLa0Q1WHdrMkFEd3dTV0hoTzdoUUY4QWxPX3RDTmZXeS1RWlFVZDB0TndtcW1ySjNuNVVibXV1bUV4ZUR4VlYydlhtdmNFakVX?oc=5",
+      "date": "Tue, 15 Sep 2026 09:58:59 GMT",
+      "source": "CBC뉴스",
+      "score": 2
     },
     {
       "title": "리플(XRP) 1900원대 반등…글로벌 시장 3%대 상승",
@@ -139,13 +146,6 @@
       "date": "Tue, 15 Sep 2026 04:23:12 GMT",
       "source": "잡포스트",
       "score": 3
-    },
-    {
-      "title": "리플(XRP), 시세 흐름 '시선'…클래리티 법안 표결 앞두고 전망은?",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SbkJHdUttTWhvTGJWU0o5T3JjRkE2c0NVZjdCYUNTTmZBSEdlaENsOGllUDhfM3JZZVlLQjJEVzZKNDFvOEdIQjlKMDlFYVh3SUlCeDBMT1F0bGljRmwwRmtoc1JFcmto?oc=5",
-      "date": "Tue, 15 Sep 2026 04:18:49 GMT",
-      "source": "CBC뉴스",
-      "score": 2
     },
     {
       "title": "美 상원 법안, XRP 상품 분류 '청신호'...리플 족쇄 드디어 풀리나?",
