@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-09-16T05:32:03",
+  "generated_at": "2026-09-16T10:34:05",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.3,
-    "price_krw": 1771.76,
-    "price_change_24h": -7.66986,
-    "price_change_7d": -9.6292,
-    "price_change_30d": 29.57307,
-    "market_cap_usd": 81622181177,
+    "price_usd": 1.29,
+    "price_krw": 1762.42,
+    "price_change_24h": -7.85156,
+    "price_change_7d": -9.30265,
+    "price_change_30d": 29.31826,
+    "market_cap_usd": 81005252811,
     "market_cap_rank": 5,
-    "volume_24h": 5939700105,
+    "volume_24h": 5904242604,
     "circulating_supply": 62879209849.0,
     "total_supply": 99985622230.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 63.87,
-    "sentiment_votes_down": 36.13,
+    "sentiment_votes_up": 62.09,
+    "sentiment_votes_down": 37.91,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 30.16,
-    "recent_tps": 30.16,
-    "recent_tx_count": 2714,
-    "recent_ledger_count": 24,
+    "tps_24h_avg": 16.03,
+    "recent_tps": 16.03,
+    "recent_tx_count": 1443,
+    "recent_ledger_count": 23,
     "recent_window_sec": 90,
-    "ledger_seq": 107017986,
+    "ledger_seq": 107022690,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-09-16 05:31:52 KST",
+    "updated_at": "2026-09-16 10:33:53 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,31 +92,17 @@
   ],
   "general_news": [
     {
-      "title": "리플(XRP) 시세 전망은…클래리티 법안 향방에 관심",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hc3N3RHdJMENlUi1ZZEZ4YnA2RFE1Q2FDU0RPVGxTdGtVMTA1cUhCSXFoVmNhcEd1TEswUGgxcEhacHpBVlpfTVNWQnI0M2VWVTJ0MTFHd3pNclVSeFozUExuelBPRHZl?oc=5",
-      "date": "Wed, 16 Sep 2026 01:13:31 GMT",
-      "source": "CBC뉴스",
+      "title": "CLARITY 법안은 잊어라… 미 상원도 리플과 XRP를 막을 수 없는 이유",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBiaXRtNkwwa01BcFhDTEZrMUE3VmVsV0hLNXFMa0xHMHRYTHdvdE52aFJvQnpoVllNNWZlaEtrNVlWZGUtblhKd2p3M1BrSlZPYXhaV2hkQTh4RVFnZkFaQXhmRGtkNTJpTzdONF9wNVNhMDQ?oc=5",
+      "date": "Wed, 16 Sep 2026 09:57:00 GMT",
+      "source": "Investing.com 한국어",
       "score": 2
     },
     {
-      "title": "[오늘의 비트코인] 美 클래리티법안 부결…7만5000달러대 추락",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43OFd2clZ3SVhrQms1QUpLSjhXQzJvZEpYV1BTMHZZTnE0Z1lCN2xJRWlsSWdfcG81NnBMOTVWSFpTMGIyTmotQWoxMk1QWkVnNWZmZUdR?oc=5",
-      "date": "Tue, 15 Sep 2026 23:46:39 GMT",
-      "source": "DealSite경제TV",
-      "score": 2
-    },
-    {
-      "title": "개미들 또 속는다… 결함 해소 논란 속 XRP 원장 V1.1 강행에 피바람 예고",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9SWGVxSlM0MTJGbERWWXBwWWdBYjd4UnlsMGIyZUEzcGNrR0VXVFhnN0RmblNPZ1REX3pJeFY5OG5FZjJud2RnbWxxUVRaMVRTdmE2eGNUSU9RU01PS2Y1TE1sdXlJT296SWwtV2JRdTg4ZEHSAXdBVV95cUxQWXZLQWozSTNMRHdsblVjTHlsVjBnWXp1WldYdFFqWkNJQXllNk9GZTl4VkM1cHBrNElteU1KZHMtb0lnOGxYbDl5aWtXaW9JM3FjVWVrV0hxaXVJQ3Q0NEY5aklxd09QRDhUcl9fSE1senJzTlJqWQ?oc=5",
-      "date": "Tue, 15 Sep 2026 23:31:40 GMT",
-      "source": "핀포인트뉴스",
-      "score": 2
-    },
-    {
-      "title": "[아주경제 코이너스 브리핑] 상원 문턱 못 넘은 클래리티법…비트코인 7만5000달러대로 급락",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qSGtBWlVab0J4dUhSZkRTc2I1TW5FbnNDSVE1Zy1ENzVqQVQtbGZJU0Z2REhmVGhKNGFGZFBrRGQ4LUtjWUY5VDY5djd1RmZiX0tJQms4a0ljd9IBWEFVX3lxTE5IM0oxb0pTQzUtdXlvZGFTYzBfQTFfZ1E2YnM3QVpqSUVYalpybExBMGVubTY5S2xHVkJBSGxtZDl0dlp6TmR5MFY2SzZnRkZ4Q1VhQmlMcXo?oc=5",
-      "date": "Tue, 15 Sep 2026 23:20:47 GMT",
-      "source": "ajunews.com",
+      "title": "디센트 지갑 앱 노린 해킹 발생…1억 5천만원 상당 리플 탈취",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1URFVtUlhWbV9ZRzdrU3A3OUV0ZkxHdzdadkk4M2p4WUxsVHVmSl9UeThtYVBieTJyMjlDbUpCZmtkXzVpNDNHNWRrU25lb2h6WXU2MlBn?oc=5",
+      "date": "Wed, 16 Sep 2026 08:04:37 GMT",
+      "source": "지디넷코리아",
       "score": 2
     },
     {
@@ -134,10 +120,17 @@
       "score": 2
     },
     {
-      "title": "리플, 루이빌 농구 홈코트에 XRP 로고 영구 새긴다…캔자스·플로리다 이어 세 번째",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oNzEta0FCVktfMXJhT1FBeldUa1Jyd1hVUUZDY1dmU19iMXRXY0tHRGRyR0VJeVJYVVZvSjhTWDExa3FUTEFPT09DOWdwZGVyZjJEWjVB?oc=5",
-      "date": "Tue, 15 Sep 2026 16:04:00 GMT",
-      "source": "위키트리",
+      "title": "코인 동반 급락장…리플 11%·이더리움 6% 하락",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vV0U3RjB4cThobFVZaTZVSkV4dEhtS0s4aWdxUk1jMEhFbmJwVWlDLXpkczZrcHhsaTZXakJZeS15c2tmSW54anllMm40WE1yS1FOTA?oc=5",
+      "date": "Tue, 15 Sep 2026 21:52:00 GMT",
+      "source": "이투데이",
+      "score": 2
+    },
+    {
+      "title": "리플 26.11% 편입…그레이스케일, 비트코인 제외 모델 공개",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTMVFJMHFtWktGcEk1RTVtSjl2elV4ZURvd3NYMnFHUTF1VHNobXJGeVoyYXgtckhQYm52eWJfcFJsR0wzb2ZRTEZTQ0RHdDd4SExrTm5qc1J0V0pSeHRjMNIBZkFVX3lxTE9RV2tka3dlR0hSdzJyNzJIMEdhekNBeEZkcHdLaVdYc2lYYjhZR0tlOERURHlZdkZnNmg0SWRzMjlCZXhZcVVOMFVZNmpsR3dvRFoyckYySVZaZzY4M3FOaXNBeFhmZw?oc=5",
+      "date": "Tue, 15 Sep 2026 19:06:51 GMT",
+      "source": "tokenpost.kr",
       "score": 2
     },
     {
@@ -148,6 +141,13 @@
       "score": 3
     },
     {
+      "title": "리플·카르다노·하이퍼리퀴드 동반 하락…상승 동력 약화에 추가 조정 경고",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBVanI1a0trYUZNZk12VTdKLUgtSGxyU1RFOXlNVXhDaXZBNVBIWXBPTFpqSnJRSkFrZ0tFX2hvUFZVcFlmcldVQmFn?oc=5",
+      "date": "Tue, 15 Sep 2026 11:07:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
       "title": "리플(XRP) 1900원대 반등…글로벌 시장 3%대 상승",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xNFpPOWZtTFBaalZzUVp3aWNyQi14djNGcXZ5WXM0UkNOMVplMGczUFhtNGFaNGR4bEc2RVFrVnFTWDF2Qk1wN1dxWmFDRXczSHEteWJqRXVuVnNtaWFyWTNBSGZlaW91Yk14TEEtMDI3UdIBckFVX3lxTE8xNFpPOWZtTFBaalZzUVp3aWNyQi14djNGcXZ5WXM0UkNOMVplMGczUFhtNGFaNGR4bEc2RVFrVnFTWDF2Qk1wN1dxWmFDRXczSHEteWJqRXVuVnNtaWFyWTNBSGZlaW91Yk14TEEtMDI3UQ?oc=5",
       "date": "Tue, 15 Sep 2026 04:23:12 GMT",
@@ -155,11 +155,11 @@
       "score": 3
     },
     {
-      "title": "속보 | 미 상원, 가상자산 ‘클래리티 법안’ 절차 반대 41표 부결",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBvTUN6djdGRkwwdHpiOFd5TFJ3ODlKMGlfN1NDUHhJNDBlaDJEcW8tLTczU2dhSnd2ZkhNa2d4YUVGMWtKWWJHMEhjNXFoM2NR?oc=5",
-      "date": "Tue, 15 Sep 2026 02:43:00 GMT",
-      "source": "CoinNess",
-      "score": 8
+      "title": "리플 RLUSD, 올해 시총 10억달러 늘었다…성장 속도 3위",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5X2x6SWd3NmlBT0s3ejFLMGlqMXZKN2Rkdk1Db0JfUkpxVlExeXJKNXV4ZHc1THdQbHBUeVZSOGNpX1VnODMySWxOZFlqU2JEellMYnl1TGVrN3g1VmFmZEUxeFQwbmMtTF9wSjZfbVZmNkk?oc=5",
+      "date": "Tue, 15 Sep 2026 00:38:00 GMT",
+      "source": "디지털투데이",
+      "score": 2
     }
   ]
 }
