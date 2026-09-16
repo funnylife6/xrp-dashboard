@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-09-16T15:14:06",
+  "generated_at": "2026-09-16T18:59:22",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.27,
-    "price_krw": 1735.11,
-    "price_change_24h": -8.5464,
-    "price_change_7d": -10.92724,
-    "price_change_30d": 26.50593,
-    "market_cap_usd": 79875028671,
+    "price_usd": 1.28,
+    "price_krw": 1754.79,
+    "price_change_24h": -3.90854,
+    "price_change_7d": -10.21038,
+    "price_change_30d": 27.63428,
+    "market_cap_usd": 80303058870,
     "market_cap_rank": 5,
-    "volume_24h": 5246677386,
+    "volume_24h": 4731815956,
     "circulating_supply": 62879209849.0,
     "total_supply": 99985622230.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 62.14,
-    "sentiment_votes_down": 37.86,
+    "sentiment_votes_up": 61.38,
+    "sentiment_votes_down": 38.62,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 27.43,
-    "recent_tps": 27.43,
-    "recent_tx_count": 2469,
-    "recent_ledger_count": 23,
-    "recent_window_sec": 90,
-    "ledger_seq": 107027033,
+    "tps_24h_avg": 31.63,
+    "recent_tps": 31.63,
+    "recent_tx_count": 2815,
+    "recent_ledger_count": 24,
+    "recent_window_sec": 89,
+    "ledger_seq": 107030522,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-09-16 15:13:59 KST",
+    "updated_at": "2026-09-16 18:59:13 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -123,8 +123,15 @@
       "title": "코인 동반 급락장…리플 11%·이더리움 6% 하락",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vV0U3RjB4cThobFVZaTZVSkV4dEhtS0s4aWdxUk1jMEhFbmJwVWlDLXpkczZrcHhsaTZXakJZeS15c2tmSW54anllMm40WE1yS1FOTA?oc=5",
       "date": "Tue, 15 Sep 2026 21:52:00 GMT",
-      "source": "etoday.co.kr",
+      "source": "이투데이",
       "score": 2
+    },
+    {
+      "title": "속보 | XRP, 지난 5분간 2.89% 하락",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBtWC1wX1ppZF9PeVJfTGhmemhTSThQQ1VyUjV0OWFEWDloemszNHE2NjdOc1Vwb2R5aE81d0NUZDhTbzVpbWYzVQ?oc=5",
+      "date": "Tue, 15 Sep 2026 21:32:52 GMT",
+      "source": "CoinNess",
+      "score": 8
     },
     {
       "title": "리플(XRP) 1900원대 반등…글로벌 시장 3%대 상승",
@@ -153,13 +160,6 @@
       "date": "Tue, 15 Sep 2026 00:38:00 GMT",
       "source": "디지털투데이",
       "score": 2
-    },
-    {
-      "title": "SEC·CFTC “XRP·비트코인은 상품” 공동 해석…현물거래소 감독 공백은 여전",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xYTRLeUkzeFVWcm9QQ0JYWUw4MlJLeGhDRU5WVG9xLXFYanJuNndsSkZGdlV2UHRiV2FIZDMtVkg5Y2J0dWNiRG5sSVdrekJ2WDF4b0t3?oc=5",
-      "date": "Mon, 14 Sep 2026 15:47:00 GMT",
-      "source": "위키트리",
-      "score": 4
     }
   ]
 }
