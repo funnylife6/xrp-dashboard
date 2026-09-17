@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-09-17T15:07:58",
+  "generated_at": "2026-09-17T19:08:52",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.3,
-    "price_krw": 1790.13,
-    "price_change_24h": 2.35468,
-    "price_change_7d": -4.6645,
-    "price_change_30d": 29.5758,
-    "market_cap_usd": 81537716849,
+    "price_usd": 1.29,
+    "price_krw": 1787.87,
+    "price_change_24h": 0.19525,
+    "price_change_7d": -4.48557,
+    "price_change_30d": 29.36945,
+    "market_cap_usd": 81391613125,
     "market_cap_rank": 5,
-    "volume_24h": 3601654740,
+    "volume_24h": 2819291775,
     "circulating_supply": 62879209849.0,
     "total_supply": 99985622230.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 65.42,
-    "sentiment_votes_down": 34.58,
+    "sentiment_votes_up": 70.21,
+    "sentiment_votes_down": 29.79,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 44.48,
-    "recent_tps": 44.48,
-    "recent_tx_count": 4003,
-    "recent_ledger_count": 23,
+    "tps_24h_avg": 32.96,
+    "recent_tps": 32.96,
+    "recent_tx_count": 2966,
+    "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 107049339,
+    "ledger_seq": 107053090,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-09-17 15:07:47 KST",
+    "updated_at": "2026-09-17 19:08:44 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -48,16 +48,23 @@
   },
   "etf_news": [
     {
-      "title": "연준 금리 인상·ETF 자금 유출에도…비트코인·이더리움·리플 왜 버티나?",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE53ay1WNTlKMzBYb2pnTTFlY2Y1SlVhYXZRTHpyMnVtQm43MUlVWGV2WktIWVpRWlkwNWRQZ19lMHNFVVFVWml0cGxn?oc=5",
-      "date": "Thu, 17 Sep 2026 11:08:00 GMT",
-      "source": "코인리더스",
+      "title": "\"클래리티법 막히자 6200억 빠져\"…비트코인 ETF 석 달 만에 '최악'",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WNDBZU1Zqekd3T1RSTTJsTC03dFpUN1FoeEJyMW5hcnBHS0hLSDBtWmtUNy1yRl9udUs4NXI2eVktSGFlZkt4RTFnUTFPX1dmRlJ5MERKU2hna09rT0hKatIBeEFVX3lxTE5qYTNteG5YNVdoUG90cVNUX2w5WFhheDFDLUN4SEJYbEJnNi1fNUVVbzhLcTBPQXlpUnNXenBDZWdKMEtOalF3eE94V0NJR3NDUDl4VW9DSjBSZGFFMDkzbllkU1ZLc3NFY1hhR2ttQnJJS3QtN2U5cA?oc=5",
+      "date": "Thu, 17 Sep 2026 16:05:00 GMT",
+      "source": "뉴시스",
       "score": 0
     },
     {
-      "title": "엑스알피(리플), 왜 2달러 못 넘나…보유자 75%에 숨은 ‘매도벽’",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5vdVBPVENESlFzc19EUEJIRnltSnJjRFZ4TlVSQWRQSFM0ZkItOXJSSVdEc2tCdmVpdk5OUmo1SXhTSXdNZTdFcFN3?oc=5",
-      "date": "Wed, 16 Sep 2026 22:34:00 GMT",
+      "title": "리플 '스웰 2026' 행사 일정 공개…XRP ETF·토큰화·스테이블코인 다룬다",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCRW5kREJ2ZllwSDJfdWwxMVNLb2tSa25tYmowRXJIZG5WMlB2S1p4MjlqTXlldkFqRzZRS0xaRXRtN20xaFVreGU4YUd1dzJHQkhwMjdCcEhGRk5aWEg4ODBxVU0tMExhMm5lcHlhdzl5R1U?oc=5",
+      "date": "Thu, 17 Sep 2026 12:29:00 GMT",
+      "source": "디지털투데이",
+      "score": 0
+    },
+    {
+      "title": "연준 금리 인상·ETF 자금 유출에도…비트코인·이더리움·리플 왜 버티나?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE53ay1WNTlKMzBYb2pnTTFlY2Y1SlVhYXZRTHpyMnVtQm43MUlVWGV2WktIWVpRWlkwNWRQZ19lMHNFVVFVWml0cGxn?oc=5",
+      "date": "Thu, 17 Sep 2026 11:08:00 GMT",
       "source": "코인리더스",
       "score": 0
     },
@@ -81,22 +88,43 @@
       "date": "Tue, 15 Sep 2026 12:02:00 GMT",
       "source": "코인리더스",
       "score": 0
-    },
-    {
-      "title": "리플(XRP) 1900원대 반등…글로벌 시장 3%대 상승",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xNFpPOWZtTFBaalZzUVp3aWNyQi14djNGcXZ5WXM0UkNOMVplMGczUFhtNGFaNGR4bEc2RVFrVnFTWDF2Qk1wN1dxWmFDRXczSHEteWJqRXVuVnNtaWFyWTNBSGZlaW91Yk14TEEtMDI3UdIBckFVX3lxTE8xNFpPOWZtTFBaalZzUVp3aWNyQi14djNGcXZ5WXM0UkNOMVplMGczUFhtNGFaNGR4bEc2RVFrVnFTWDF2Qk1wN1dxWmFDRXczSHEteWJqRXVuVnNtaWFyWTNBSGZlaW91Yk14TEEtMDI3UQ?oc=5",
-      "date": "Tue, 15 Sep 2026 04:23:12 GMT",
-      "source": "잡포스트",
-      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "리플 USD(RLUSD), 스테이블코인 시장서 존재감…XRP와 다른 길 걷는다",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SWHpNQm9XR3JRblN4M05BODhlRlpJdWFmcy1zdmtFRmhxM1J3TnF2R1NOVG9laEtSTVg1TDlxMVZOdHM1d3ZpcFNRTEpNNkJXVVVlUHI1X1dqbEhHOHU4RlhJdUplaDBG?oc=5",
+      "date": "Thu, 17 Sep 2026 15:15:13 GMT",
+      "source": "CBC뉴스",
+      "score": 3
+    },
+    {
+      "title": "리플, XRP 개발자 키트에 스트라이프·템포 MPP 얹어 AI 에이전트 결제 3~5초 완료",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GNTA0Q3g0c3kwSFdOTkZoY2E1MTczUkc2OWxCUVZBS2lLTmlfbk1nUUJUN3Qxc3NBVFpENGo3aklLbUdjaW9vY2o5czZNeDNaXzFkTlNn?oc=5",
+      "date": "Thu, 17 Sep 2026 15:03:00 GMT",
+      "source": "위키트리",
+      "score": 2
+    },
     {
       "title": "XRP, 모스크바 거래소 정식 상장...9월 22일 무기한 선물 거래 오픈",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1nd1YxZ2xYSFhfU2hheUthSF95aDlMSVNLM0xMdEZ0d1owTDVDNHQ2Z2hvUEZLeG9kQm5GUy05SHFLbXhKSWRWNjFB?oc=5",
       "date": "Thu, 17 Sep 2026 15:00:00 GMT",
       "source": "코인리더스",
       "score": 2
+    },
+    {
+      "title": "리플 '스웰 2026' 행사 일정 공개…XRP ETF·토큰화·스테이블코인 다룬다",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCRW5kREJ2ZllwSDJfdWwxMVNLb2tSa25tYmowRXJIZG5WMlB2S1p4MjlqTXlldkFqRzZRS0xaRXRtN20xaFVreGU4YUd1dzJHQkhwMjdCcEhGRk5aWEg4ODBxVU0tMExhMm5lcHlhdzl5R1U?oc=5",
+      "date": "Thu, 17 Sep 2026 12:29:00 GMT",
+      "source": "디지털투데이",
+      "score": 3
+    },
+    {
+      "title": "리플, 10월 뉴욕서 두 행사 통합…ETF 논의",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03TkYyeGk0VzhRU2R4VjlodHdjRURfYWNwbThZRVk3bzZ5a0pLdE1HZmNQTkZXbUsyQTdzeTN2SXAwUFhPQk51R1ppZVVUdHo2MWxZWXprQks1YlV6bVppcg?oc=5",
+      "date": "Thu, 17 Sep 2026 11:51:21 GMT",
+      "source": "토큰포스트",
+      "score": 10
     },
     {
       "title": "리플 CLO \"XRP는 증권 아냐\" 재확인…美 클래리티법 불발에 대응 나섰다",
@@ -120,24 +148,10 @@
       "score": 2
     },
     {
-      "title": "XRP 레저 배치 기능, 2월 보안 결함 딛고 9월29일 82.86% 지지로 가동한다",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qUFp1RzE5N1pXX1plMElUZ1dsNlFSVGVUS3lpQjNsbl83ZFBLdWlRVll3dm9hb1lQeE14Nkk2dk14aUNGTTRILWtjTVpFSklXZkl6RW9n?oc=5",
-      "date": "Wed, 16 Sep 2026 18:06:00 GMT",
-      "source": "위키트리",
-      "score": 2
-    },
-    {
       "title": "클래리티 법안은 잊어라… 미 상원도 리플과 XRP를 막을 수 없는 이유",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBiaXRtNkwwa01BcFhDTEZrMUE3VmVsV0hLNXFMa0xHMHRYTHdvdE52aFJvQnpoVllNNWZlaEtrNVlWZGUtblhKd2p3M1BrSlZPYXhaV2hkQTh4RVFnZkFaQXhmRGtkNTJpTzdONF9wNVNhMDQ?oc=5",
       "date": "Wed, 16 Sep 2026 09:57:00 GMT",
-      "source": "Investing.com 한국어",
-      "score": 2
-    },
-    {
-      "title": "디센트 지갑 앱 노린 해킹 발생…1억 5천만원 상당 리플 탈취",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1URFVtUlhWbV9ZRzdrU3A3OUV0ZkxHdzdadkk4M2p4WUxsVHVmSl9UeThtYVBieTJyMjlDbUpCZmtkXzVpNDNHNWRrU25lb2h6WXU2MlBn?oc=5",
-      "date": "Wed, 16 Sep 2026 08:04:37 GMT",
-      "source": "지디넷코리아",
+      "source": "kr.investing.com",
       "score": 2
     },
     {
@@ -146,20 +160,6 @@
       "date": "Tue, 15 Sep 2026 23:12:18 GMT",
       "source": "BeInCrypto",
       "score": 2
-    },
-    {
-      "title": "코인 동반 급락장…리플 11%·이더리움 6% 하락",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vV0U3RjB4cThobFVZaTZVSkV4dEhtS0s4aWdxUk1jMEhFbmJwVWlDLXpkczZrcHhsaTZXakJZeS15c2tmSW54anllMm40WE1yS1FOTA?oc=5",
-      "date": "Tue, 15 Sep 2026 21:52:00 GMT",
-      "source": "이투데이",
-      "score": 2
-    },
-    {
-      "title": "리플(XRP) 1900원대 반등…글로벌 시장 3%대 상승",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xNFpPOWZtTFBaalZzUVp3aWNyQi14djNGcXZ5WXM0UkNOMVplMGczUFhtNGFaNGR4bEc2RVFrVnFTWDF2Qk1wN1dxWmFDRXczSHEteWJqRXVuVnNtaWFyWTNBSGZlaW91Yk14TEEtMDI3UdIBckFVX3lxTE8xNFpPOWZtTFBaalZzUVp3aWNyQi14djNGcXZ5WXM0UkNOMVplMGczUFhtNGFaNGR4bEc2RVFrVnFTWDF2Qk1wN1dxWmFDRXczSHEteWJqRXVuVnNtaWFyWTNBSGZlaW91Yk14TEEtMDI3UQ?oc=5",
-      "date": "Tue, 15 Sep 2026 04:23:12 GMT",
-      "source": "잡포스트",
-      "score": 3
     }
   ]
 }
