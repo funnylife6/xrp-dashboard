@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-09-17T05:04:26",
+  "generated_at": "2026-09-17T10:11:43",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.3,
-    "price_krw": 1796.94,
-    "price_change_24h": 0.37209,
-    "price_change_7d": -6.39112,
-    "price_change_30d": 30.77968,
-    "market_cap_usd": 81728318023,
+    "price_usd": 1.29,
+    "price_krw": 1793.72,
+    "price_change_24h": 0.4721,
+    "price_change_7d": -6.04753,
+    "price_change_30d": 30.05852,
+    "market_cap_usd": 81370167162,
     "market_cap_rank": 5,
-    "volume_24h": 3497926956,
+    "volume_24h": 3608008957,
     "circulating_supply": 62879209849.0,
     "total_supply": 99985622230.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 61.17,
-    "sentiment_votes_down": 38.83,
+    "sentiment_votes_up": 65.45,
+    "sentiment_votes_down": 34.55,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 29.99,
-    "recent_tps": 29.99,
-    "recent_tx_count": 2699,
-    "recent_ledger_count": 23,
-    "recent_window_sec": 90,
-    "ledger_seq": 107039922,
+    "tps_24h_avg": 16.09,
+    "recent_tps": 16.09,
+    "recent_tx_count": 1432,
+    "recent_ledger_count": 24,
+    "recent_window_sec": 89,
+    "ledger_seq": 107044728,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-09-17 05:04:11 KST",
+    "updated_at": "2026-09-17 10:11:32 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -51,13 +51,6 @@
       "title": "엑스알피(리플), 왜 2달러 못 넘나…보유자 75%에 숨은 ‘매도벽’",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5vdVBPVENESlFzc19EUEJIRnltSnJjRFZ4TlVSQWRQSFM0ZkItOXJSSVdEc2tCdmVpdk5OUmo1SXhTSXdNZTdFcFN3?oc=5",
       "date": "Wed, 16 Sep 2026 22:34:00 GMT",
-      "source": "코인리더스",
-      "score": 0
-    },
-    {
-      "title": "비트코인(BTC) ETF '자금 썰물'...\"6월 이후 최악의 하루\"",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5RMU9taGwtYUM3VXI0REVyVE1RQjNid0xDRFg1X0RLcnh6ckxzMlFMNWNKSG10allMTXdlWUY0S2ZteGtNeDBNSmtB?oc=5",
-      "date": "Wed, 16 Sep 2026 21:40:00 GMT",
       "source": "코인리더스",
       "score": 0
     },
@@ -88,9 +81,23 @@
       "date": "Sun, 13 Sep 2026 23:00:00 GMT",
       "source": "코인리더스",
       "score": 0
+    },
+    {
+      "title": "리플 ETF에 대규모 자금 유입 지속…지금 XRP 사야 할까",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBNWjhLQzF1VHZFTzVzbElicWxUdmUyZTlqSEJsaXNwS1ozeHRWSmFMYjdnc3FaSzNEd25fMWc0VG9VdzBudm1RQkdR?oc=5",
+      "date": "Sun, 13 Sep 2026 12:18:00 GMT",
+      "source": "코인리더스",
+      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "리플(XRP)·스텔라루멘(XLM) 반등했는데…파생상품은 왜 엇갈린 신호 보내나?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE13ajNVTzhvZUdNU2NRd1E2V0tyRHhwWWtXZEFuQ1gzYllhbC04a0h3ZkwxRVo5bi1JT2J2SHJfcF8zU05DdFVUbktB?oc=5",
+      "date": "Thu, 17 Sep 2026 06:20:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
     {
       "title": "리플 CLO \"XRP는 증권 아냐\" 재확인…美 클래리티법 불발에 대응 나섰다",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBpTUFFNng2bUw0cTYwbndLUTkxQW5NX01zUHEyLXlKOXc4NjlGNmxTOU5Dd2N6U20xTllxbzBWelRtOXVDOVl4VER3V2hnb0k5UklramZuaHcwMGliLUcwWWx6UGxSWUlFNXhrMVdNN19nOHc?oc=5",
@@ -99,24 +106,17 @@
       "score": 3
     },
     {
-      "title": "엑스알피(리플), 왜 2달러 못 넘나…보유자 75%에 숨은 ‘매도벽’",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5vdVBPVENESlFzc19EUEJIRnltSnJjRFZ4TlVSQWRQSFM0ZkItOXJSSVdEc2tCdmVpdk5OUmo1SXhTSXdNZTdFcFN3?oc=5",
-      "date": "Wed, 16 Sep 2026 22:34:00 GMT",
-      "source": "코인리더스",
-      "score": 2
-    },
-    {
       "title": "리플XRP·리스크·비트코인 거래 집중…코인거래액 24.8% 감소",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE12eXdlU2FVU0ZmY0ZmUi1BS2JvUS1nVEFTbzJLdmJsNDMzUmhpMEx3VmZDYmJnbXdtRDd2bERaSnJwRmkwaDl0VUFEQlk1VGkyYlhZNUJWN2xCeW5mZC1nNF96a2pEUlRkek5RM2U5WlhsUQ?oc=5",
       "date": "Wed, 16 Sep 2026 22:13:44 GMT",
-      "source": "톱스타뉴스",
+      "source": "topstarnews.net",
       "score": 2
     },
     {
       "title": "법안 엎어지자 12% 폭락… 리플, 1.2달러 방어선 사투",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbFNoWnZyWjJuR2ZCVV9TVE1EelFmRGVNMnYxYngtcmoweEZ1eW5SVU5VVTNWRTRCcnd4dGU1TjFWVTA0alp6bnRlQzBXTXVUWUlRMWQwbHRxRDZ2REtvTUdnbVg5MGhlTkJUdlVhT3N6aGtBREZpNWdGN21oVnRiLU9sRFhOeHJX?oc=5",
       "date": "Wed, 16 Sep 2026 21:03:53 GMT",
-      "source": "g-enews.com",
+      "source": "글로벌이코노믹",
       "score": 2
     },
     {
