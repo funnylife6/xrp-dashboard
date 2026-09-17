@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-09-17T00:03:37",
+  "generated_at": "2026-09-17T05:04:26",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.3,
-    "price_krw": 1788.25,
-    "price_change_24h": 1.21323,
-    "price_change_7d": -6.93282,
-    "price_change_30d": 29.49209,
-    "market_cap_usd": 81636352579,
+    "price_krw": 1796.94,
+    "price_change_24h": 0.37209,
+    "price_change_7d": -6.39112,
+    "price_change_30d": 30.77968,
+    "market_cap_usd": 81728318023,
     "market_cap_rank": 5,
-    "volume_24h": 3876129323,
+    "volume_24h": 3497926956,
     "circulating_supply": 62879209849.0,
     "total_supply": 99985622230.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 63.87,
-    "sentiment_votes_down": 36.13,
+    "sentiment_votes_up": 61.17,
+    "sentiment_votes_down": 38.83,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 29.51,
-    "recent_tps": 29.51,
-    "recent_tx_count": 2626,
-    "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 107035242,
+    "tps_24h_avg": 29.99,
+    "recent_tps": 29.99,
+    "recent_tx_count": 2699,
+    "recent_ledger_count": 23,
+    "recent_window_sec": 90,
+    "ledger_seq": 107039922,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-09-17 00:03:23 KST",
+    "updated_at": "2026-09-17 05:04:11 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,6 +92,13 @@
   ],
   "general_news": [
     {
+      "title": "리플 CLO \"XRP는 증권 아냐\" 재확인…美 클래리티법 불발에 대응 나섰다",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBpTUFFNng2bUw0cTYwbndLUTkxQW5NX01zUHEyLXlKOXc4NjlGNmxTOU5Dd2N6U20xTllxbzBWelRtOXVDOVl4VER3V2hnb0k5UklramZuaHcwMGliLUcwWWx6UGxSWUlFNXhrMVdNN19nOHc?oc=5",
+      "date": "Thu, 17 Sep 2026 01:41:18 GMT",
+      "source": "디지털투데이",
+      "score": 3
+    },
+    {
       "title": "엑스알피(리플), 왜 2달러 못 넘나…보유자 75%에 숨은 ‘매도벽’",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5vdVBPVENESlFzc19EUEJIRnltSnJjRFZ4TlVSQWRQSFM0ZkItOXJSSVdEc2tCdmVpdk5OUmo1SXhTSXdNZTdFcFN3?oc=5",
       "date": "Wed, 16 Sep 2026 22:34:00 GMT",
@@ -109,14 +116,21 @@
       "title": "법안 엎어지자 12% 폭락… 리플, 1.2달러 방어선 사투",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbFNoWnZyWjJuR2ZCVV9TVE1EelFmRGVNMnYxYngtcmoweEZ1eW5SVU5VVTNWRTRCcnd4dGU1TjFWVTA0alp6bnRlQzBXTXVUWUlRMWQwbHRxRDZ2REtvTUdnbVg5MGhlTkJUdlVhT3N6aGtBREZpNWdGN21oVnRiLU9sRFhOeHJX?oc=5",
       "date": "Wed, 16 Sep 2026 21:03:53 GMT",
-      "source": "글로벌이코노믹",
+      "source": "g-enews.com",
+      "score": 2
+    },
+    {
+      "title": "XRP 레저 배치 기능, 2월 보안 결함 딛고 9월29일 82.86% 지지로 가동한다",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qUFp1RzE5N1pXX1plMElUZ1dsNlFSVGVUS3lpQjNsbl83ZFBLdWlRVll3dm9hb1lQeE14Nkk2dk14aUNGTTRILWtjTVpFSklXZkl6RW9n?oc=5",
+      "date": "Wed, 16 Sep 2026 18:06:00 GMT",
+      "source": "위키트리",
       "score": 2
     },
     {
       "title": "클래리티 법안은 잊어라… 미 상원도 리플과 XRP를 막을 수 없는 이유",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBiaXRtNkwwa01BcFhDTEZrMUE3VmVsV0hLNXFMa0xHMHRYTHdvdE52aFJvQnpoVllNNWZlaEtrNVlWZGUtblhKd2p3M1BrSlZPYXhaV2hkQTh4RVFnZkFaQXhmRGtkNTJpTzdONF9wNVNhMDQ?oc=5",
       "date": "Wed, 16 Sep 2026 09:57:00 GMT",
-      "source": "kr.investing.com",
+      "source": "Investing.com 한국어",
       "score": 2
     },
     {
@@ -141,25 +155,11 @@
       "score": 2
     },
     {
-      "title": "리플(XRP) 1.40달러선…'클래리티 법안 먹구름' 전망도",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5na2V4S2pCUFRtTFRWNkNINmQ4d3RQeWpLa0Q1WHdrMkFEd3dTV0hoTzdoUUY4QWxPX3RDTmZXeS1RWlFVZDB0TndtcW1ySjNuNVVibXV1bUV4ZUR4VlYydlhtdmNFakVX?oc=5",
-      "date": "Tue, 15 Sep 2026 09:58:59 GMT",
-      "source": "CBC뉴스",
-      "score": 2
-    },
-    {
       "title": "리플(XRP) 1900원대 반등…글로벌 시장 3%대 상승",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xNFpPOWZtTFBaalZzUVp3aWNyQi14djNGcXZ5WXM0UkNOMVplMGczUFhtNGFaNGR4bEc2RVFrVnFTWDF2Qk1wN1dxWmFDRXczSHEteWJqRXVuVnNtaWFyWTNBSGZlaW91Yk14TEEtMDI3UdIBckFVX3lxTE8xNFpPOWZtTFBaalZzUVp3aWNyQi14djNGcXZ5WXM0UkNOMVplMGczUFhtNGFaNGR4bEc2RVFrVnFTWDF2Qk1wN1dxWmFDRXczSHEteWJqRXVuVnNtaWFyWTNBSGZlaW91Yk14TEEtMDI3UQ?oc=5",
       "date": "Tue, 15 Sep 2026 04:23:12 GMT",
       "source": "잡포스트",
       "score": 3
-    },
-    {
-      "title": "리플 RLUSD, 올해 시총 10억달러 늘었다…성장 속도 3위",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5X2x6SWd3NmlBT0s3ejFLMGlqMXZKN2Rkdk1Db0JfUkpxVlExeXJKNXV4ZHc1THdQbHBUeVZSOGNpX1VnODMySWxOZFlqU2JEellMYnl1TGVrN3g1VmFmZEUxeFQwbmMtTF9wSjZfbVZmNkk?oc=5",
-      "date": "Tue, 15 Sep 2026 00:38:00 GMT",
-      "source": "디지털투데이",
-      "score": 2
     }
   ]
 }
