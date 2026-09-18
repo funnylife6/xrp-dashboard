@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-09-18T09:57:35",
+  "generated_at": "2026-09-18T14:05:27",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.33,
-    "price_krw": 1846.34,
-    "price_change_24h": 2.48679,
-    "price_change_7d": -1.58026,
-    "price_change_30d": 32.37625,
-    "market_cap_usd": 83762582691,
+    "price_usd": 1.36,
+    "price_krw": 1891.81,
+    "price_change_24h": 4.81013,
+    "price_change_7d": -3.70074,
+    "price_change_30d": 33.97474,
+    "market_cap_usd": 85604112695,
     "market_cap_rank": 5,
-    "volume_24h": 2789824545,
+    "volume_24h": 2929165844,
     "circulating_supply": 62879209849.0,
     "total_supply": 99985622230.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 67.71,
-    "sentiment_votes_down": 32.29,
+    "sentiment_votes_up": 66.67,
+    "sentiment_votes_down": 33.33,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 16.93,
-    "recent_tps": 16.93,
-    "recent_tx_count": 1524,
+    "tps_24h_avg": 58.94,
+    "recent_tps": 58.94,
+    "recent_tx_count": 5305,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 107066927,
+    "ledger_seq": 107070783,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-09-18 09:57:20 KST",
+    "updated_at": "2026-09-18 14:05:18 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -99,13 +99,6 @@
       "score": 3
     },
     {
-      "title": "XRPL 거래 늘자 XRP 소각도 급증…가격 영향은 '미미'",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1QR0dDLVUwbUNvdjZXUVc2VmdGT2NpcXpPVGZjNWZxelhXQUlrMjVLOFBUNVhkQU0tSG9QYXBwUGd3VjlCSUNvWW0xQThVYmVUXzVyMEhNMlZwWmIwVzZVeXpjMThqZkN0d184NEdPZnlpc1k?oc=5",
-      "date": "Fri, 18 Sep 2026 04:27:00 GMT",
-      "source": "디지털투데이",
-      "score": 2
-    },
-    {
       "title": "리플, AI 에이전트 결제 시장 노린다…XRP·RLUSD 지원 확대",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwc3F3TDcxS00wZThUVVpLREQ5eWpzVFZuQmRVZGk0bmxpZjhWRUF6SjloRkdhX3VLVnpPMEx6dHo2TWliZlRRSWJiUU9UM1dPZWppd2plZkNVM25TdDd1NmZ6aHRObUcteWYzakoybl9IT00?oc=5",
       "date": "Fri, 18 Sep 2026 02:15:03 GMT",
@@ -117,13 +110,6 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMFdwSE95YWVOak9FZkV2NTVKN0FSQUdjODRqMEhmX2xBX1FXanFWUFBfZXFQV0YwWWN0Zm8wdXQ5dWNWRERUS2NhbmZDbkszUGMyQ011MUE0NmJOMzRLaUxJeDR3UENRYmxIMXM0SEFPU1ZNeWhHMFE4N3J5S0tiYw?oc=5",
       "date": "Fri, 18 Sep 2026 02:04:31 GMT",
       "source": "edaily.co.kr",
-      "score": 2
-    },
-    {
-      "title": "XRP 급락에도 ETF 자금 유입…프랭클린 XRPZ '독주'",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBrVWFVeF9RMzVXaEJ2OUxxZGlGcE5JOGRObjVhN2tYNWdkNmNJaUR5bzMxTGRwekcwZEFIbDQ3eVg5QWVMMno5UXk0RVNxTVk0d1BWeGo5SHNnLUY3cHZWWkg1MkZubTlFSFBjal9Id0RNMXM?oc=5",
-      "date": "Fri, 18 Sep 2026 01:53:39 GMT",
-      "source": "디지털투데이",
       "score": 2
     },
     {
@@ -159,6 +145,20 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SWHpNQm9XR3JRblN4M05BODhlRlpJdWFmcy1zdmtFRmhxM1J3TnF2R1NOVG9laEtSTVg1TDlxMVZOdHM1d3ZpcFNRTEpNNkJXVVVlUHI1X1dqbEhHOHU4RlhJdUplaDBG?oc=5",
       "date": "Thu, 17 Sep 2026 15:15:13 GMT",
       "source": "CBC뉴스",
+      "score": 3
+    },
+    {
+      "title": "리플, XRP 개발자 키트에 스트라이프·템포 MPP 얹어 AI 에이전트 결제 3~5초 완료",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GNTA0Q3g0c3kwSFdOTkZoY2E1MTczUkc2OWxCUVZBS2lLTmlfbk1nUUJUN3Qxc3NBVFpENGo3aklLbUdjaW9vY2o5czZNeDNaXzFkTlNn?oc=5",
+      "date": "Thu, 17 Sep 2026 15:03:00 GMT",
+      "source": "위키트리",
+      "score": 2
+    },
+    {
+      "title": "리플 '스웰 2026' 행사 일정 공개…XRP ETF·토큰화·스테이블코인 다룬다",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCRW5kREJ2ZllwSDJfdWwxMVNLb2tSa25tYmowRXJIZG5WMlB2S1p4MjlqTXlldkFqRzZRS0xaRXRtN20xaFVreGU4YUd1dzJHQkhwMjdCcEhGRk5aWEg4ODBxVU0tMExhMm5lcHlhdzl5R1U?oc=5",
+      "date": "Thu, 17 Sep 2026 12:29:00 GMT",
+      "source": "디지털투데이",
       "score": 3
     }
   ]
