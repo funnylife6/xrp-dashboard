@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-09-18T00:32:59",
+  "generated_at": "2026-09-18T05:25:59",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.29,
-    "price_krw": 1781.98,
-    "price_change_24h": -0.45849,
-    "price_change_7d": -3.19653,
-    "price_change_30d": 28.9894,
-    "market_cap_usd": 81209312017,
+    "price_usd": 1.32,
+    "price_krw": 1827.62,
+    "price_change_24h": 1.71211,
+    "price_change_7d": -2.12957,
+    "price_change_30d": 32.04204,
+    "market_cap_usd": 82970913115,
     "market_cap_rank": 5,
-    "volume_24h": 2407856583,
+    "volume_24h": 2582291690,
     "circulating_supply": 62879209849.0,
     "total_supply": 99985622230.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 74.19,
-    "sentiment_votes_down": 25.81,
+    "sentiment_votes_up": 72.63,
+    "sentiment_votes_down": 27.37,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 20.19,
-    "recent_tps": 20.19,
-    "recent_tx_count": 1797,
+    "tps_24h_avg": 27.8,
+    "recent_tps": 27.8,
+    "recent_tx_count": 2502,
     "recent_ledger_count": 23,
-    "recent_window_sec": 89,
-    "ledger_seq": 107058136,
+    "recent_window_sec": 90,
+    "ledger_seq": 107062698,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-09-18 00:32:44 KST",
+    "updated_at": "2026-09-18 05:25:50 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -48,9 +48,16 @@
   },
   "etf_news": [
     {
-      "title": "프랭클린 엑스알피(XRP) ETF, 350만 달러 유입...\"하락장에도 폭풍 매집\"",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE44NHhSTEhkdFVUY21WdW1BSVBGanl1Rmt2WWswSkYtVnZNSml2NXBVTEZwR25NZXVjSGQxMURjOW1kTkhyVGJncg?oc=5",
-      "date": "Thu, 17 Sep 2026 22:45:00 GMT",
+      "title": "XRP 급락에도 ETF 자금 유입…프랭클린 XRPZ '독주'",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBrVWFVeF9RMzVXaEJ2OUxxZGlGcE5JOGRObjVhN2tYNWdkNmNJaUR5bzMxTGRwekcwZEFIbDQ3eVg5QWVMMno5UXk0RVNxTVk0d1BWeGo5SHNnLUY3cHZWWkg1MkZubTlFSFBjal9Id0RNMXM?oc=5",
+      "date": "Fri, 18 Sep 2026 01:53:39 GMT",
+      "source": "디지털투데이",
+      "score": 0
+    },
+    {
+      "title": "암호화폐 ETF, 금리 쇼크에 5억 달러 '썰물'...XRP 나홀로 생존",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBhS3pUVnV0Rm56UjVqRXZDNzVyMWpqZ3hLS3ZQMDZDaG1nY0NrWi1fb29iLTRZM0QwclpHU1VzMmdvZHdkXzlVdzl3?oc=5",
+      "date": "Thu, 17 Sep 2026 23:50:00 GMT",
       "source": "코인리더스",
       "score": 0
     },
@@ -62,17 +69,17 @@
       "score": 0
     },
     {
-      "title": "규제 충격 딛고 선 리플(XRP), 1.40달러 향한 대반격 시작될까",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBBNGFJekl5V1E5SkZwaXJrRzlxVjdaajRyWloyUUVlYkpDeEdaSHl2SmlIdEFLUlJYLU5IOXNvSE83ZGlIYVExMGxB?oc=5",
-      "date": "Thu, 17 Sep 2026 22:14:00 GMT",
-      "source": "코인리더스",
+      "title": "\"클래리티법 막히자 6200억 빠져\"…비트코인 ETF 석 달 만에 '최악'",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WNDBZU1Zqekd3T1RSTTJsTC03dFpUN1FoeEJyMW5hcnBHS0hLSDBtWmtUNy1yRl9udUs4NXI2eVktSGFlZkt4RTFnUTFPX1dmRlJ5MERKU2hna09rT0hKatIBeEFVX3lxTE5qYTNteG5YNVdoUG90cVNUX2w5WFhheDFDLUN4SEJYbEJnNi1fNUVVbzhLcTBPQXlpUnNXenBDZWdKMEtOalF3eE94V0NJR3NDUDl4VW9DSjBSZGFFMDkzbllkU1ZLc3NFY1hhR2ttQnJJS3QtN2U5cA?oc=5",
+      "date": "Thu, 17 Sep 2026 16:05:00 GMT",
+      "source": "뉴시스",
       "score": 0
     },
     {
-      "title": "\"클래리티법 막히자 6200억 빠져\"…비트코인 ETF 석 달 만에 '최악'",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5qYTNteG5YNVdoUG90cVNUX2w5WFhheDFDLUN4SEJYbEJnNi1fNUVVbzhLcTBPQXlpUnNXenBDZWdKMEtOalF3eE94V0NJR3NDUDl4VW9DSjBSZGFFMDkzbllkU1ZLc3NFY1hhR2ttQnJJS3QtN2U5cNIBeEFVX3lxTE5qYTNteG5YNVdoUG90cVNUX2w5WFhheDFDLUN4SEJYbEJnNi1fNUVVbzhLcTBPQXlpUnNXenBDZWdKMEtOalF3eE94V0NJR3NDUDl4VW9DSjBSZGFFMDkzbllkU1ZLc3NFY1hhR2ttQnJJS3QtN2U5cA?oc=5",
-      "date": "Thu, 17 Sep 2026 16:05:00 GMT",
-      "source": "뉴시스",
+      "title": "XRP, 일주일 새 45% 급등·활성 지갑 650% 폭증…그러나 ‘10달러 서포트’는 아직",
+      "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNbFVRYlpySnZWeHFGMmh2dThCU1g4Ul9LY19zQzJ0bm5WeFVENzJhRC1vYlFKcEctbU1ieDFGbDNMSkozS054RE5KYzd2dXktUnh5VmJFWWJqNkM3WTVRcktZRFNpTEY0aGJjVHJIa2U0Um5pSGpIVlNkeXphaklNUFptbzBmelVEMm5vNGx3M0dIWXVueDRxOXg0cjZHMDlDRlVXWkNRMkZMZHA0UFh0T3F5T1J2RFBqeVdoT3h6X0tCVTdhTlJqTVNmb0VUSlNVVktxcU54SzJBakdzbkVhV2VIWE5sVDU4VDFITG1nZERObnFEZTRhR3hEY2RYV0ZMamJUQ0pwbWktMEFEZTRXTFkwVjBmeUdaMkZ4aWcxNjFXUzBmQVNCQmZTVHZlN2pNZDNSZG5UMjd4cWREUFg5QjYyNzdoRFJTNTRoWk9aMUpKOTJ3c2dMalZOUXlCRkIzUjVDSERtS1poOFBRRmNkUVM3V2NySzU1UVN0MXpXZDFLMjcyWHd3QVRsaHgyc2ZtbHl4bHp4dGhlM3c?oc=5",
+      "date": "Thu, 17 Sep 2026 14:38:09 GMT",
+      "source": "Yellow.com",
       "score": 0
     },
     {
@@ -81,16 +88,23 @@
       "date": "Thu, 17 Sep 2026 12:29:00 GMT",
       "source": "디지털투데이",
       "score": 0
-    },
-    {
-      "title": "약세장 속에도… XRP ETF 9주 연속 순유입, 누적 17억 달러로 사상 최대",
-      "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxPY2RnV2hGT1VNc0FjbkVobmlWanJGMWhyVVRUSVFkdnA1UUlsOVItdkYxeWVXSWlScGpVWEZoSURyTHdFNmYxU2VJbjdwRWFhSGx0M19Vd0hfaXpOOE5NTDVIQ1VBRFhpRmNuaGM1bVJVclhDZTU5VzJJNGFYYzB2Qm13alhqZlVUQy1SZGhrNlNOS1k4cmFYTWI3S3ZzODREODFuUnI3TlNnQnJTa3FDaWx0dGNBcnFzTnFObU45ZEtUeVVYdHRWSDZZTldlTFQ0UWttS3hMSERHZnpKNVMwVkZlTWFyTlk5dDFPUnFtU0xmWVhaTGw4ZERxWGlYdmQyVmN2Z0daMWtQRWVONHozdF9sU2NMN1lhb19mb2pMWENuUGJiMFQydFBZZ3U0RW5lUTh3aGNjUnpOWTFYV0ZNLUc2MjJkOV9kUkdGWXJiNWItcGpRLWU1ejBiU3A1SUM0bmRlaUtoeWRLLWRfc0ZjeUVkajBkWmkwU3Br?oc=5",
-      "date": "Tue, 15 Sep 2026 14:21:20 GMT",
-      "source": "Yellow.com",
-      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "리플, AI 에이전트 결제 시장 노린다…XRP·RLUSD 지원 확대",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwc3F3TDcxS00wZThUVVpLREQ5eWpzVFZuQmRVZGk0bmxpZjhWRUF6SjloRkdhX3VLVnpPMEx6dHo2TWliZlRRSWJiUU9UM1dPZWppd2plZkNVM25TdDd1NmZ6aHRObUcteWYzakoybl9IT00?oc=5",
+      "date": "Fri, 18 Sep 2026 02:15:03 GMT",
+      "source": "디지털투데이",
+      "score": 3
+    },
+    {
+      "title": "로빈후드부터 케이웨더·트리아까지…'XRP서울 2026' 연사진에",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMFdwSE95YWVOak9FZkV2NTVKN0FSQUdjODRqMEhmX2xBX1FXanFWUFBfZXFQV0YwWWN0Zm8wdXQ5dWNWRERUS2NhbmZDbkszUGMyQ011MUE0NmJOMzRLaUxJeDR3UENRYmxIMXM0SEFPU1ZNeWhHMFE4N3J5S0tiYw?oc=5",
+      "date": "Fri, 18 Sep 2026 02:04:31 GMT",
+      "source": "edaily.co.kr",
+      "score": 2
+    },
     {
       "title": "리플 CEO \"美 상원 '클래리티 법안' 부결 리플·XRP 사업에 영향 없다\"",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSWh1YmtlRkdlQktnN2xwNmFEMlNsZU5aS1JXb3RDLWtxeDRJV3UzN1dZNm5DbWtKeFUwMlVWQk1qV21jc084SDVDaUxHWlZONW1kZlI2bGNPaDM1WWR3TVZmN2xNdmR0RERNTUpwUGozdUoxdXh4RDJjaElhYVRUQ0JnRzRtOEJE?oc=5",
@@ -113,6 +127,13 @@
       "score": 2
     },
     {
+      "title": "리플XRP·제이피와이코인·인터폴드에 거래 집중",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBPOUNDdkRfdHpyTU9VaWFuaFYyLVFUNmdwb1REN3BOV05YZF9LV0xYS2otblZDUkRRSVBfT0R4MWNGMEZjdU1IemI0M2pyRlR4elJIcVlnVkgwR2ZHU3VZNGMwX0hyRFNVUEJYeWN6cnVkZw?oc=5",
+      "date": "Thu, 17 Sep 2026 22:13:12 GMT",
+      "source": "톱스타뉴스",
+      "score": 2
+    },
+    {
       "title": "리플 USD(RLUSD), 스테이블코인 시장서 존재감…XRP와 다른 길 걷는다",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SWHpNQm9XR3JRblN4M05BODhlRlpJdWFmcy1zdmtFRmhxM1J3TnF2R1NOVG9laEtSTVg1TDlxMVZOdHM1d3ZpcFNRTEpNNkJXVVVlUHI1X1dqbEhHOHU4RlhJdUplaDBG?oc=5",
       "date": "Thu, 17 Sep 2026 15:15:13 GMT",
@@ -127,39 +148,18 @@
       "score": 2
     },
     {
+      "title": "XRP, 일주일 새 45% 급등·활성 지갑 650% 폭증…그러나 ‘10달러 서포트’는 아직",
+      "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNbFVRYlpySnZWeHFGMmh2dThCU1g4Ul9LY19zQzJ0bm5WeFVENzJhRC1vYlFKcEctbU1ieDFGbDNMSkozS054RE5KYzd2dXktUnh5VmJFWWJqNkM3WTVRcktZRFNpTEY0aGJjVHJIa2U0Um5pSGpIVlNkeXphaklNUFptbzBmelVEMm5vNGx3M0dIWXVueDRxOXg0cjZHMDlDRlVXWkNRMkZMZHA0UFh0T3F5T1J2RFBqeVdoT3h6X0tCVTdhTlJqTVNmb0VUSlNVVktxcU54SzJBakdzbkVhV2VIWE5sVDU4VDFITG1nZERObnFEZTRhR3hEY2RYV0ZMamJUQ0pwbWktMEFEZTRXTFkwVjBmeUdaMkZ4aWcxNjFXUzBmQVNCQmZTVHZlN2pNZDNSZG5UMjd4cWREUFg5QjYyNzdoRFJTNTRoWk9aMUpKOTJ3c2dMalZOUXlCRkIzUjVDSERtS1poOFBRRmNkUVM3V2NySzU1UVN0MXpXZDFLMjcyWHd3QVRsaHgyc2ZtbHl4bHp4dGhlM3c?oc=5",
+      "date": "Thu, 17 Sep 2026 14:38:09 GMT",
+      "source": "Yellow.com",
+      "score": 2
+    },
+    {
       "title": "리플 '스웰 2026' 행사 일정 공개…XRP ETF·토큰화·스테이블코인 다룬다",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCRW5kREJ2ZllwSDJfdWwxMVNLb2tSa25tYmowRXJIZG5WMlB2S1p4MjlqTXlldkFqRzZRS0xaRXRtN20xaFVreGU4YUd1dzJHQkhwMjdCcEhGRk5aWEg4ODBxVU0tMExhMm5lcHlhdzl5R1U?oc=5",
       "date": "Thu, 17 Sep 2026 12:29:00 GMT",
       "source": "디지털투데이",
       "score": 3
-    },
-    {
-      "title": "리플XRP·리스크·비트코인 거래 집중…코인거래액 24.8% 감소",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE12eXdlU2FVU0ZmY0ZmUi1BS2JvUS1nVEFTbzJLdmJsNDMzUmhpMEx3VmZDYmJnbXdtRDd2bERaSnJwRmkwaDl0VUFEQlk1VGkyYlhZNUJWN2xCeW5mZC1nNF96a2pEUlRkek5RM2U5WlhsUQ?oc=5",
-      "date": "Wed, 16 Sep 2026 22:13:44 GMT",
-      "source": "톱스타뉴스",
-      "score": 2
-    },
-    {
-      "title": "속보 | 엔화 스테이블코인 JPYC, 업비트 상장 후 기습 폭등… 부실한 상장 시스템에 커뮤니티 성토",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9kR2J4SjNJMUZ3MmFEVk14STlYSXVIYS1fQUo2bVFVTkZBSG5yZzNaMkJZV3lHMFRBUXF2al9YNjlOLTZqWVlacm9yaG9ZcmhT?oc=5",
-      "date": "Wed, 16 Sep 2026 18:50:00 GMT",
-      "source": "CoinNess",
-      "score": 9
-    },
-    {
-      "title": "클래리티 법안은 잊어라… 미 상원도 리플과 XRP를 막을 수 없는 이유",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBiaXRtNkwwa01BcFhDTEZrMUE3VmVsV0hLNXFMa0xHMHRYTHdvdE52aFJvQnpoVllNNWZlaEtrNVlWZGUtblhKd2p3M1BrSlZPYXhaV2hkQTh4RVFnZkFaQXhmRGtkNTJpTzdONF9wNVNhMDQ?oc=5",
-      "date": "Wed, 16 Sep 2026 09:57:00 GMT",
-      "source": "Investing.com 한국어",
-      "score": 2
-    },
-    {
-      "title": "디센트 지갑 앱 노린 해킹 발생…1억 5천만원 상당 리플 탈취",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1URFVtUlhWbV9ZRzdrU3A3OUV0ZkxHdzdadkk4M2p4WUxsVHVmSl9UeThtYVBieTJyMjlDbUpCZmtkXzVpNDNHNWRrU25lb2h6WXU2MlBn?oc=5",
-      "date": "Wed, 16 Sep 2026 08:04:37 GMT",
-      "source": "지디넷코리아",
-      "score": 2
     }
   ]
 }
