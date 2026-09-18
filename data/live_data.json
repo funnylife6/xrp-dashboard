@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-09-18T14:05:27",
+  "generated_at": "2026-09-18T17:45:30",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.36,
-    "price_krw": 1891.81,
-    "price_change_24h": 4.81013,
-    "price_change_7d": -3.70074,
-    "price_change_30d": 33.97474,
-    "market_cap_usd": 85604112695,
+    "price_usd": 1.38,
+    "price_krw": 1917.87,
+    "price_change_24h": 6.27412,
+    "price_change_7d": 0.55478,
+    "price_change_30d": 30.14683,
+    "market_cap_usd": 87048159272,
     "market_cap_rank": 5,
-    "volume_24h": 2929165844,
+    "volume_24h": 3472747951,
     "circulating_supply": 62879209849.0,
     "total_supply": 99985622230.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 66.67,
-    "sentiment_votes_down": 33.33,
+    "sentiment_votes_up": 70.69,
+    "sentiment_votes_down": 29.31,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 58.94,
-    "recent_tps": 58.94,
-    "recent_tx_count": 5305,
+    "tps_24h_avg": 24.95,
+    "recent_tps": 24.95,
+    "recent_tx_count": 2046,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 107070783,
+    "recent_window_sec": 82,
+    "ledger_seq": 107074186,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-09-18 14:05:18 KST",
+    "updated_at": "2026-09-18 17:45:18 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -48,11 +48,25 @@
   },
   "etf_news": [
     {
+      "title": "XRPR 1년 새 58.9% 하락…XRP ETF엔 17억달러 유입",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50U0RIT1pmQVE0bHliemR1VjZlOUZLZy0zMkNRc05zbXZ3RzQ0b09SLXk3SnBUQjNOV3NYZGlxanFxQl93cThuaGFjUEpmZTZMM2RZYlVaY1hPdk1pOHBNSA?oc=5",
+      "date": "Fri, 18 Sep 2026 13:55:41 GMT",
+      "source": "토큰포스트",
+      "score": 5
+    },
+    {
       "title": "오늘 리플(XRP) 가격이 오른 이유…금리 인상 후 안도 랠리·ETF 자금 유입 영향",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAzdVRWVVpNVXFDcUk3bVJXTjd1WW02UGo0LTRUREpaTlZPZU9jTUR6dmx0RlVnbW1kV3dNMW9ZbWpIX1BjM3QtdHVB?oc=5",
       "date": "Fri, 18 Sep 2026 08:55:00 GMT",
       "source": "코인리더스",
       "score": 0
+    },
+    {
+      "title": "[알트 현물 ETF] HYPE·ZEC 2종 순유입...XRP·라이트코인은 순유출",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GMTlCOFZ5SnUwNDZZM3hNaWVHZVcxZHE1TlFVWk5leWZJS0JQck55RXE5UXItWF81SE9obm95aEpVOUVBZndtSmJZWGRqN2U0TGJObDIzUEYzUlgtVGdiWQ?oc=5",
+      "date": "Fri, 18 Sep 2026 03:35:53 GMT",
+      "source": "토큰포스트",
+      "score": 5
     },
     {
       "title": "XRP 급락에도 ETF 자금 유입…프랭클린 XRPZ '독주'",
@@ -74,23 +88,16 @@
       "date": "Thu, 17 Sep 2026 22:26:00 GMT",
       "source": "코인리더스",
       "score": 0
-    },
-    {
-      "title": "\"클래리티법 막히자 6200억 빠져\"…비트코인 ETF 석 달 만에 '최악'",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WNDBZU1Zqekd3T1RSTTJsTC03dFpUN1FoeEJyMW5hcnBHS0hLSDBtWmtUNy1yRl9udUs4NXI2eVktSGFlZkt4RTFnUTFPX1dmRlJ5MERKU2hna09rT0hKatIBeEFVX3lxTE5qYTNteG5YNVdoUG90cVNUX2w5WFhheDFDLUN4SEJYbEJnNi1fNUVVbzhLcTBPQXlpUnNXenBDZWdKMEtOalF3eE94V0NJR3NDUDl4VW9DSjBSZGFFMDkzbllkU1ZLc3NFY1hhR2ttQnJJS3QtN2U5cA?oc=5",
-      "date": "Thu, 17 Sep 2026 16:05:00 GMT",
-      "source": "뉴시스",
-      "score": 0
-    },
-    {
-      "title": "리플 '스웰 2026' 행사 일정 공개…XRP ETF·토큰화·스테이블코인 다룬다",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCRW5kREJ2ZllwSDJfdWwxMVNLb2tSa25tYmowRXJIZG5WMlB2S1p4MjlqTXlldkFqRzZRS0xaRXRtN20xaFVreGU4YUd1dzJHQkhwMjdCcEhGRk5aWEg4ODBxVU0tMExhMm5lcHlhdzl5R1U?oc=5",
-      "date": "Thu, 17 Sep 2026 12:29:00 GMT",
-      "source": "디지털투데이",
-      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "리플 6.93% 반등, 50일 EMA는 200일선 아래",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZS3pUQWxJMFcxS3phUV9BbzJLQm02WFFPaTYyNXlpNEVFTzI2Rkpsc0N1QTJUelMyUDlDaFJwcnZKXzQzZDZUYlVuNHZ4TmxWcHNDdWFpWVFUUWZ4TEZBSg?oc=5",
+      "date": "Fri, 18 Sep 2026 16:48:00 GMT",
+      "source": "토큰포스트",
+      "score": 9
+    },
     {
       "title": "오늘 리플(XRP) 가격이 오른 이유…금리 인상 후 안도 랠리·ETF 자금 유입 영향",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAzdVRWVVpNVXFDcUk3bVJXTjd1WW02UGo0LTRUREpaTlZPZU9jTUR6dmx0RlVnbW1kV3dNMW9ZbWpIX1BjM3QtdHVB?oc=5",
@@ -113,10 +120,17 @@
       "score": 2
     },
     {
+      "title": "XRP 급락에도 ETF 자금 유입…프랭클린 XRPZ '독주'",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBrVWFVeF9RMzVXaEJ2OUxxZGlGcE5JOGRObjVhN2tYNWdkNmNJaUR5bzMxTGRwekcwZEFIbDQ3eVg5QWVMMno5UXk0RVNxTVk0d1BWeGo5SHNnLUY3cHZWWkg1MkZubTlFSFBjal9Id0RNMXM?oc=5",
+      "date": "Fri, 18 Sep 2026 01:53:39 GMT",
+      "source": "디지털투데이",
+      "score": 2
+    },
+    {
       "title": "리플 CEO \"美 상원 '클래리티 법안' 부결 리플·XRP 사업에 영향 없다\"",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSWh1YmtlRkdlQktnN2xwNmFEMlNsZU5aS1JXb3RDLWtxeDRJV3UzN1dZNm5DbWtKeFUwMlVWQk1qV21jc084SDVDaUxHWlZONW1kZlI2bGNPaDM1WWR3TVZmN2xNdmR0RERNTUpwUGozdUoxdXh4RDJjaElhYVRUQ0JnRzRtOEJE?oc=5",
       "date": "Thu, 17 Sep 2026 23:01:21 GMT",
-      "source": "글로벌이코노믹",
+      "source": "g-enews.com",
       "score": 2
     },
     {
@@ -145,20 +159,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SWHpNQm9XR3JRblN4M05BODhlRlpJdWFmcy1zdmtFRmhxM1J3TnF2R1NOVG9laEtSTVg1TDlxMVZOdHM1d3ZpcFNRTEpNNkJXVVVlUHI1X1dqbEhHOHU4RlhJdUplaDBG?oc=5",
       "date": "Thu, 17 Sep 2026 15:15:13 GMT",
       "source": "CBC뉴스",
-      "score": 3
-    },
-    {
-      "title": "리플, XRP 개발자 키트에 스트라이프·템포 MPP 얹어 AI 에이전트 결제 3~5초 완료",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GNTA0Q3g0c3kwSFdOTkZoY2E1MTczUkc2OWxCUVZBS2lLTmlfbk1nUUJUN3Qxc3NBVFpENGo3aklLbUdjaW9vY2o5czZNeDNaXzFkTlNn?oc=5",
-      "date": "Thu, 17 Sep 2026 15:03:00 GMT",
-      "source": "위키트리",
-      "score": 2
-    },
-    {
-      "title": "리플 '스웰 2026' 행사 일정 공개…XRP ETF·토큰화·스테이블코인 다룬다",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCRW5kREJ2ZllwSDJfdWwxMVNLb2tSa25tYmowRXJIZG5WMlB2S1p4MjlqTXlldkFqRzZRS0xaRXRtN20xaFVreGU4YUd1dzJHQkhwMjdCcEhGRk5aWEg4ODBxVU0tMExhMm5lcHlhdzl5R1U?oc=5",
-      "date": "Thu, 17 Sep 2026 12:29:00 GMT",
-      "source": "디지털투데이",
       "score": 3
     }
   ]
