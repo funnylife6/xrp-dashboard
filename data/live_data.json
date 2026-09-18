@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-09-18T20:13:09",
+  "generated_at": "2026-09-18T22:42:35",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.41,
-    "price_krw": 1951.27,
-    "price_change_24h": 8.69269,
-    "price_change_7d": 3.42565,
-    "price_change_30d": 31.96189,
-    "market_cap_usd": 88542260450,
+    "price_usd": 1.39,
+    "price_krw": 1932.37,
+    "price_change_24h": 7.74574,
+    "price_change_7d": 3.06319,
+    "price_change_30d": 23.20963,
+    "market_cap_usd": 87657813583,
     "market_cap_rank": 5,
-    "volume_24h": 4024899207,
+    "volume_24h": 4167502801,
     "circulating_supply": 62879209849.0,
     "total_supply": 99985622230.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 71.43,
-    "sentiment_votes_down": 28.57,
+    "sentiment_votes_up": 70.8,
+    "sentiment_votes_down": 29.2,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 43.91,
-    "recent_tps": 43.91,
-    "recent_tx_count": 3952,
+    "tps_24h_avg": 14.26,
+    "recent_tps": 14.26,
+    "recent_tx_count": 1269,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 107076475,
+    "recent_window_sec": 89,
+    "ledger_seq": 107078799,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-09-18 20:12:58 KST",
+    "updated_at": "2026-09-18 22:42:27 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -76,28 +76,21 @@
       "score": 0
     },
     {
+      "title": "ETF 자금 이탈에도 비트코인 반등…코인피드(CoinFeed), 알트코인 ‘선별적 순환매’ 분석",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9CUFRoLWtGRThPM1g5NmFyUk43NS1ydno4cmNGMHgyZXlVdnpYWWQyWjVmbE9DYTl1dlBWUmFZbzRoY3dZbEFYT1FIMWZFVE5vQVRKenpGcjc?oc=5",
+      "date": "Fri, 18 Sep 2026 00:21:40 GMT",
+      "source": "토큰포스트",
+      "score": 5
+    },
+    {
       "title": "암호화폐 ETF, 금리 쇼크에 5억 달러 '썰물'...XRP 나홀로 생존",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBhS3pUVnV0Rm56UjVqRXZDNzVyMWpqZ3hLS3ZQMDZDaG1nY0NrWi1fb29iLTRZM0QwclpHU1VzMmdvZHdkXzlVdzl3?oc=5",
       "date": "Thu, 17 Sep 2026 23:50:00 GMT",
       "source": "코인리더스",
       "score": 0
-    },
-    {
-      "title": "비트코인 펀드 1조 원 빠져나갈 때 끄떡없던 리플(XRP), 20억 달러 고지 밟을까",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE82d1Q1ME05RzhYajkxQW5hd20wUVU4d19CWEFaS0dCMmJsaThJZm40RWgyd240dm5kOHlLY3BNV0F1M2lHaVdjeW1B?oc=5",
-      "date": "Thu, 17 Sep 2026 22:26:00 GMT",
-      "source": "코인리더스",
-      "score": 0
     }
   ],
   "general_news": [
-    {
-      "title": "바이낸스 리플(XRP) 보유량 급증…69일 만에 최고 수준",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1fR1dHOVBxb01pUjZoVk5ROC1saHc1WVFOeEFjSXVKSUloazl4UEE3eEY5N0NWQTVod2swblotTzRRZTdKVG8tNjF3?oc=5",
-      "date": "Fri, 18 Sep 2026 11:48:00 GMT",
-      "source": "코인리더스",
-      "score": 2
-    },
     {
       "title": "오늘 리플(XRP) 가격이 오른 이유…금리 인상 후 안도 랠리·ETF 자금 유입 영향",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAzdVRWVVpNVXFDcUk3bVJXTjd1WW02UGo0LTRUREpaTlZPZU9jTUR6dmx0RlVnbW1kV3dNMW9ZbWpIX1BjM3QtdHVB?oc=5",
@@ -130,7 +123,7 @@
       "title": "리플 CEO \"美 상원 '클래리티 법안' 부결 리플·XRP 사업에 영향 없다\"",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSWh1YmtlRkdlQktnN2xwNmFEMlNsZU5aS1JXb3RDLWtxeDRJV3UzN1dZNm5DbWtKeFUwMlVWQk1qV21jc084SDVDaUxHWlZONW1kZlI2bGNPaDM1WWR3TVZmN2xNdmR0RERNTUpwUGozdUoxdXh4RDJjaElhYVRUQ0JnRzRtOEJE?oc=5",
       "date": "Thu, 17 Sep 2026 23:01:21 GMT",
-      "source": "g-enews.com",
+      "source": "글로벌이코노믹",
       "score": 2
     },
     {
@@ -160,6 +153,13 @@
       "date": "Thu, 17 Sep 2026 15:03:00 GMT",
       "source": "위키트리",
       "score": 2
+    },
+    {
+      "title": "속보 | 찰스슈왑 \"비트코인 준비금 법안 하원 상임위 통과, 법제화 첫 단계\"",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE92bGFXSGxmNFJET25wR3V0VEZtbTItMzFoWnlQd2l4R1N1S0FrQkhvc3BYVmNSMVVoMng1c3BKOVloanh6R1dONEJxbHV3Y3BS?oc=5",
+      "date": "Thu, 17 Sep 2026 13:39:00 GMT",
+      "source": "CoinNess",
+      "score": 8
     }
   ]
 }
