@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-09-19T23:48:43",
+  "generated_at": "2026-09-20T02:39:37",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.41,
-    "price_krw": 1956.66,
-    "price_change_24h": 1.0989,
-    "price_change_7d": 3.55953,
-    "price_change_30d": 12.35788,
-    "market_cap_usd": 88725299792,
+    "price_usd": 1.39,
+    "price_krw": 1931.14,
+    "price_change_24h": -2.14555,
+    "price_change_7d": 1.86837,
+    "price_change_30d": 7.58089,
+    "market_cap_usd": 87680378169,
     "market_cap_rank": 5,
-    "volume_24h": 3363815071,
+    "volume_24h": 2934986646,
     "circulating_supply": 62879209849.0,
     "total_supply": 99985622230.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 78.2,
-    "sentiment_votes_down": 21.8,
+    "sentiment_votes_up": 76.34,
+    "sentiment_votes_down": 23.66,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 17.85,
-    "recent_tps": 17.85,
-    "recent_tx_count": 1589,
+    "tps_24h_avg": 16.49,
+    "recent_tps": 16.49,
+    "recent_tx_count": 1468,
     "recent_ledger_count": 24,
     "recent_window_sec": 89,
-    "ledger_seq": 107102236,
+    "ledger_seq": 107104916,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-09-19 23:48:33 KST",
+    "updated_at": "2026-09-20 02:39:26 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,18 +43,11 @@
     "aum_usd": 1560000,
     "total_net_inflow_usd": 1560000,
     "total_value_traded_usd": 1560000,
-    "updated_at": "SoSoValue 순유입 부분 수집 09/19 23:48",
+    "updated_at": "SoSoValue 순유입 부분 수집 09/20 02:39",
     "data_source": "sosovalue",
     "partial": true
   },
   "etf_news": [
-    {
-      "title": "긴 침체 끝 암호화폐 ETF가 돌아왔다…주목할 비트코인 ETF는?",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA3c05fb3QydVluRDdwZjU4Z25USnEwUlVNNW94X3A5el9aanZWVnJfSTQ5cjAyRFB2ajVSTGkyTkRhNEdDb1EzaVBn?oc=5",
-      "date": "Sat, 19 Sep 2026 22:54:00 GMT",
-      "source": "코인리더스",
-      "score": 0
-    },
     {
       "title": "클래리티법 상원서 49대50 부결에도 갈링하우스 리플, XRP ETF는 견조한 순유입 유지",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BcU5YVHZSaGdyWnIzdWdXRmFYeVNGeXYwTG9nTDhBeEQ5eE54QnYtckxfRjRkNGc3dXA4OXY4N25WVGNscV9oMk8xNWpJZUlqcDE5c1p3?oc=5",
@@ -89,9 +82,23 @@
       "date": "Fri, 18 Sep 2026 13:55:41 GMT",
       "source": "토큰포스트",
       "score": 5
+    },
+    {
+      "title": "오늘 리플(XRP) 가격이 오른 이유…금리 인상 후 안도 랠리·ETF 자금 유입 영향",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAzdVRWVVpNVXFDcUk3bVJXTjd1WW02UGo0LTRUREpaTlZPZU9jTUR6dmx0RlVnbW1kV3dNMW9ZbWpIX1BjM3QtdHVB?oc=5",
+      "date": "Fri, 18 Sep 2026 08:55:00 GMT",
+      "source": "코인리더스",
+      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "XRP 미국 중간선거 랠리론…2달러 돌파가 관건",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ncGgxMTdud3Z3MFRHQ05TQzFZQ1RTUW5zZ1R6aWFpWEh5TVNLejhpUzFFRGhKd1BDSV9sdTFfcVViYUI2a01JX1c5SWIyaG9lMHBXSlM0aWM?oc=5",
+      "date": "Sun, 20 Sep 2026 01:40:38 GMT",
+      "source": "블록미디어",
+      "score": 2
+    },
     {
       "title": "리플XRP 거래 1위·디라이브 47% 급등…그래비티도 강세",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9neHhTR0R1eURad1hUZ29JQlBQWVdZTmRSWkFSc2YyOU92U253VElwbGh5YXgxS2l2VEtTMkszbk1wZHJvZy1QRG44Rzg0dk1pbjYtR21JaXhmQ1dWQ1MyUHZtUjNINVoxakx0Y0hRQjJZZw?oc=5",
@@ -107,13 +114,6 @@
       "score": 2
     },
     {
-      "title": "XRP, 美 당국 파격 면책에 대반전…초대형 규제 족쇄 드디어 풀렸다",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV1hPM3RpMFZIYXFUM2xpNXc3ek1xclY4YnVqSTA5U0ZLUnRHYWRTc3RkSGV1NHExQTdOcEhpS2MyWWprLXhnLVlCVTVhdngxdDktRGpnNHhZdjlnRFQ3UU4yVzZpSWx5WkFIMWpRM1NTbHVRRFpySV82YUg3TG5ZTUdqRGdPVC1s?oc=5",
-      "date": "Sat, 19 Sep 2026 22:13:22 GMT",
-      "source": "g-enews.com",
-      "score": 2
-    },
-    {
       "title": "클래리티법 상원서 49대50 부결에도 갈링하우스 리플, XRP ETF는 견조한 순유입 유지",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BcU5YVHZSaGdyWnIzdWdXRmFYeVNGeXYwTG9nTDhBeEQ5eE54QnYtckxfRjRkNGc3dXA4OXY4N25WVGNscV9oMk8xNWpJZUlqcDE5c1p3?oc=5",
       "date": "Sat, 19 Sep 2026 14:05:00 GMT",
@@ -121,8 +121,15 @@
       "score": 3
     },
     {
+      "title": "美 하원 금융위, '가상자산 비축 법안' 통과…XRP 제도권 편입 '청신호'",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeXhjbDZ5SkQ5dEVMMkN3cUQ5dkI2dzM1X0N2RFJkbHAyWnhQWmZRN1Z2cFM1Vm8wbEZ1ZjdyMzgtQjRGbzQzYWxBVGZSbVQ0dHVsVnJJUlZWQ2tOLUNmdGV0Rk1JeUlEY21MT296ZGw2MW9ac213YUtBVEo4MDI3T0NmSnc4ZUh5?oc=5",
+      "date": "Sat, 19 Sep 2026 06:59:11 GMT",
+      "source": "글로벌이코노믹",
+      "score": 2
+    },
+    {
       "title": "리플(XRP) 7% 급등…클래리티법 부결 충격 딛고 SEC·유가가 분위기 바꿨다",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5BM3ZlTVF0NWZvUXlzZmVrX0tpcUlfVFI2NjZ3c2pzRUZMb0M0MWpLOVUzbTliejhGZzZJU1k2VVp1b205RmEzZ1p3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5SS2swN1p0OHlTV2E5ZDNmMGxRVUkwckhLbm5tM3dheG5kaklqTEpjY2VmbGFmYVdnQ1o0U0l3c0xHQnQzSWJMaA?oc=5",
       "date": "Sat, 19 Sep 2026 04:22:00 GMT",
       "source": "코인리더스",
       "score": 3
@@ -154,13 +161,6 @@
       "date": "Fri, 18 Sep 2026 03:07:32 GMT",
       "source": "토큰포스트",
       "score": 9
-    },
-    {
-      "title": "리플, AI 에이전트 결제 시장 노린다…XRP·RLUSD 지원 확대",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwc3F3TDcxS00wZThUVVpLREQ5eWpzVFZuQmRVZGk0bmxpZjhWRUF6SjloRkdhX3VLVnpPMEx6dHo2TWliZlRRSWJiUU9UM1dPZWppd2plZkNVM25TdDd1NmZ6aHRObUcteWYzakoybl9IT00?oc=5",
-      "date": "Fri, 18 Sep 2026 02:15:03 GMT",
-      "source": "디지털투데이",
-      "score": 3
     }
   ]
 }
