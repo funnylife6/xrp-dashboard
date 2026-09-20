@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-09-20T02:39:37",
+  "generated_at": "2026-09-20T08:09:01",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.39,
-    "price_krw": 1931.14,
-    "price_change_24h": -2.14555,
-    "price_change_7d": 1.86837,
-    "price_change_30d": 7.58089,
-    "market_cap_usd": 87680378169,
+    "price_usd": 1.38,
+    "price_krw": 1915.33,
+    "price_change_24h": -2.2051,
+    "price_change_7d": 1.79058,
+    "price_change_30d": 5.23644,
+    "market_cap_usd": 86891366807,
     "market_cap_rank": 5,
-    "volume_24h": 2934986646,
+    "volume_24h": 2760667774,
     "circulating_supply": 62879209849.0,
     "total_supply": 99985622230.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 76.34,
-    "sentiment_votes_down": 23.66,
+    "sentiment_votes_up": 75.21,
+    "sentiment_votes_down": 24.79,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 16.49,
-    "recent_tps": 16.49,
-    "recent_tx_count": 1468,
+    "tps_24h_avg": 18.67,
+    "recent_tps": 18.67,
+    "recent_tx_count": 1680,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 107104916,
+    "recent_window_sec": 90,
+    "ledger_seq": 107110084,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-09-20 02:39:26 KST",
+    "updated_at": "2026-09-20 08:08:53 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 1560000,
     "total_net_inflow_usd": 1560000,
     "total_value_traded_usd": 1560000,
-    "updated_at": "SoSoValue 순유입 부분 수집 09/20 02:39",
+    "updated_at": "SoSoValue 순유입 부분 수집 09/20 08:09",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -66,14 +66,14 @@
       "title": "1주년 맞은 1세대 리플(XRP) 펀드, 1.40달러 돌파 타고 현물 ETF 추격할까?",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5ZYlFUTHptWm1xZC1ENlZ1YzZtN29qZHpJSHhKdHVzNDk4U2xzeXJDam9RNUFxT1dHOG5xNUxUM3RIU2VNRkxYQmZB?oc=5",
       "date": "Fri, 18 Sep 2026 23:13:00 GMT",
-      "source": "코인리더스",
+      "source": "coinreaders.com",
       "score": 0
     },
     {
       "title": "클래리티법 무산 충격 벗어난 리플(XRP), 美 SEC 면제 조치에 1.386달러 반등",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBJV2N0MTI0RGxSTWFaTXQ5eVpzTktrMXdGMGw0QUQtTEh0WVV1NW9yWjE4dW9hTmd4aHV3LTllNGFnYzlndXQ2RTFn?oc=5",
       "date": "Fri, 18 Sep 2026 23:04:00 GMT",
-      "source": "코인리더스",
+      "source": "coinreaders.com",
       "score": 0
     },
     {
@@ -87,11 +87,18 @@
       "title": "오늘 리플(XRP) 가격이 오른 이유…금리 인상 후 안도 랠리·ETF 자금 유입 영향",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAzdVRWVVpNVXFDcUk3bVJXTjd1WW02UGo0LTRUREpaTlZPZU9jTUR6dmx0RlVnbW1kV3dNMW9ZbWpIX1BjM3QtdHVB?oc=5",
       "date": "Fri, 18 Sep 2026 08:55:00 GMT",
-      "source": "코인리더스",
+      "source": "coinreaders.com",
       "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "오늘 리플(XRP) 가격 왜 떨어졌나…차익 실현·약세 모멘텀이 하락 압박",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9HUVhGdXhqLThCamhPYTVxMUpMa21lUXJEeHFiRVdLMGctRDFnNl9ic3RkWEd0aU1GWUwwV09rcDJwbEZRUlhoT0FB?oc=5",
+      "date": "Sun, 20 Sep 2026 04:25:00 GMT",
+      "source": "coinreaders.com",
+      "score": 2
+    },
     {
       "title": "XRP 미국 중간선거 랠리론…2달러 돌파가 관건",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ncGgxMTdud3Z3MFRHQ05TQzFZQ1RTUW5zZ1R6aWFpWEh5TVNLejhpUzFFRGhKd1BDSV9sdTFfcVViYUI2a01JX1c5SWIyaG9lMHBXSlM0aWM?oc=5",
@@ -107,10 +114,10 @@
       "score": 2
     },
     {
-      "title": "클래리티법 충격 때 고래는 샀다…XRP(리플) 20억달러 ‘폭풍 매집’",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1iOVVIV0U1SE8wQ1BUVFRycGE2T3E1ZHJUb3pOenQ5elVvRFBDSEIzXzNGM3ZHa2t3Q1FtQXNWc2NfS0VrTkVuLU5n?oc=5",
-      "date": "Sat, 19 Sep 2026 23:28:00 GMT",
-      "source": "코인리더스",
+      "title": "XRP, 美 당국 파격 면책에 대반전…초대형 규제 족쇄 드디어 풀렸다",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV1hPM3RpMFZIYXFUM2xpNXc3ek1xclY4YnVqSTA5U0ZLUnRHYWRTc3RkSGV1NHExQTdOcEhpS2MyWWprLXhnLVlCVTVhdngxdDktRGpnNHhZdjlnRFQ3UU4yVzZpSWx5WkFIMWpRM1NTbHVRRFpySV82YUg3TG5ZTUdqRGdPVC1s?oc=5",
+      "date": "Sat, 19 Sep 2026 22:13:22 GMT",
+      "source": "글로벌이코노믹",
       "score": 2
     },
     {
@@ -121,17 +128,17 @@
       "score": 3
     },
     {
-      "title": "美 하원 금융위, '가상자산 비축 법안' 통과…XRP 제도권 편입 '청신호'",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeXhjbDZ5SkQ5dEVMMkN3cUQ5dkI2dzM1X0N2RFJkbHAyWnhQWmZRN1Z2cFM1Vm8wbEZ1ZjdyMzgtQjRGbzQzYWxBVGZSbVQ0dHVsVnJJUlZWQ2tOLUNmdGV0Rk1JeUlEY21MT296ZGw2MW9ac213YUtBVEo4MDI3T0NmSnc4ZUh5?oc=5",
-      "date": "Sat, 19 Sep 2026 06:59:11 GMT",
-      "source": "글로벌이코노믹",
-      "score": 2
+      "title": "수요일 이후 솔라나 16% 상승…카르다노·XRP 추격 가능성",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50R2Q0WEtuYnRzNFdfNFBlQXNINS1OSUtKXzlzUWJQN0xOTlM3enBwOEJ4TkRLOXRpUHZWUVNIVGRhZmFrRGxKNGpicnN1eng1UUNOTTZYVGh2d0JzRTdLdA?oc=5",
+      "date": "Sat, 19 Sep 2026 10:09:58 GMT",
+      "source": "토큰포스트",
+      "score": 9
     },
     {
       "title": "리플(XRP) 7% 급등…클래리티법 부결 충격 딛고 SEC·유가가 분위기 바꿨다",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5SS2swN1p0OHlTV2E5ZDNmMGxRVUkwckhLbm5tM3dheG5kaklqTEpjY2VmbGFmYVdnQ1o0U0l3c0xHQnQzSWJMaA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5BM3ZlTVF0NWZvUXlzZmVrX0tpcUlfVFI2NjZ3c2pzRUZMb0M0MWpLOVUzbTliejhGZzZJU1k2VVp1b205RmEzZ1p3?oc=5",
       "date": "Sat, 19 Sep 2026 04:22:00 GMT",
-      "source": "코인리더스",
+      "source": "coinreaders.com",
       "score": 3
     },
     {
@@ -145,22 +152,15 @@
       "title": "1주년 맞은 1세대 리플(XRP) 펀드, 1.40달러 돌파 타고 현물 ETF 추격할까?",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5ZYlFUTHptWm1xZC1ENlZ1YzZtN29qZHpJSHhKdHVzNDk4U2xzeXJDam9RNUFxT1dHOG5xNUxUM3RIU2VNRkxYQmZB?oc=5",
       "date": "Fri, 18 Sep 2026 23:13:00 GMT",
-      "source": "코인리더스",
+      "source": "coinreaders.com",
       "score": 4
     },
     {
       "title": "클래리티법 무산 충격 벗어난 리플(XRP), 美 SEC 면제 조치에 1.386달러 반등",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBJV2N0MTI0RGxSTWFaTXQ5eVpzTktrMXdGMGw0QUQtTEh0WVV1NW9yWjE4dW9hTmd4aHV3LTllNGFnYzlndXQ2RTFn?oc=5",
       "date": "Fri, 18 Sep 2026 23:04:00 GMT",
-      "source": "코인리더스",
+      "source": "coinreaders.com",
       "score": 3
-    },
-    {
-      "title": "리플, XRPL에 AI 에이전트 결제 도구 공개",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPWkI4c0hfNkVnX1RtRUdwdFBsdWwzTjJmbnE3cU1pUUJ0S1VFS3BJekpLTU9fYUhJZVMwUXBOUmlCYm1nN1MtUTNXSlkzLTlIZ3ZNUWJ2MkVVVXM?oc=5",
-      "date": "Fri, 18 Sep 2026 03:07:32 GMT",
-      "source": "토큰포스트",
-      "score": 9
     }
   ]
 }
