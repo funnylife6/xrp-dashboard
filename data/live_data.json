@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-09-20T21:43:58",
+  "generated_at": "2026-09-20T23:44:57",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.4,
-    "price_krw": 1942.96,
-    "price_change_24h": -0.53493,
-    "price_change_7d": 3.0021,
-    "price_change_30d": 2.04698,
-    "market_cap_usd": 88155663107,
+    "price_usd": 1.41,
+    "price_krw": 1958.77,
+    "price_change_24h": 0.17875,
+    "price_change_7d": 5.72105,
+    "price_change_30d": -2.18915,
+    "market_cap_usd": 88878738296,
     "market_cap_rank": 5,
-    "volume_24h": 2379520404,
+    "volume_24h": 2367387474,
     "circulating_supply": 62879209849.0,
     "total_supply": 99985622230.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 72.94,
-    "sentiment_votes_down": 27.06,
+    "sentiment_votes_up": 69.57,
+    "sentiment_votes_down": 30.43,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 21.33,
-    "recent_tps": 21.33,
-    "recent_tx_count": 1898,
+    "tps_24h_avg": 15.42,
+    "recent_tps": 15.42,
+    "recent_tx_count": 1357,
     "recent_ledger_count": 22,
-    "recent_window_sec": 89,
-    "ledger_seq": 107122816,
+    "recent_window_sec": 88,
+    "ledger_seq": 107124701,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-09-20 21:43:45 KST",
+    "updated_at": "2026-09-20 23:44:47 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 1560000,
     "total_net_inflow_usd": 1560000,
     "total_value_traded_usd": 1560000,
-    "updated_at": "SoSoValue 순유입 부분 수집 09/20 21:43",
+    "updated_at": "SoSoValue 순유입 부분 수집 09/20 23:44",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -93,6 +93,20 @@
   ],
   "general_news": [
     {
+      "title": "리플XRP·그래비티·아발란체, 거래집중 속 희비",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1PTUsxNkgwRjlBUHFQYy1hVVV5Vm9KclNTWUdyMGVETl84VVdvenVGWVJ1RHdPVThzdVZVZVZGUk03RFRMdl9NcHAyUG5jTjAyTnFuOUxLRDRqN1Bpc01weVB1UUFmR3RnTHlBZHQ2ZDAwQQ?oc=5",
+      "date": "Sun, 20 Sep 2026 21:56:30 GMT",
+      "source": "톱스타뉴스",
+      "score": 2
+    },
+    {
+      "title": "XRP, 단순 송금 넘어 기관용 탈중앙화 금융 인프라로 진화",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV0ZBRHVTYkxjX1BGT1N6OUhzZWFGR3duYUlRMGlJYi1kLXUtLVFFTmtCZnZGQzdqT252RThUQVlQREE1aGtacVhudk12VDQ4QlF0THBtUFNrM2hNT1NEcFdKcU9pZUpXdTQtZVMwaU1QVVVieHJXRzhyZW95UGQybE91azRJWU9D?oc=5",
+      "date": "Sun, 20 Sep 2026 21:27:00 GMT",
+      "source": "글로벌이코노믹",
+      "score": 4
+    },
+    {
       "title": "오늘 리플(XRP) 가격 왜 떨어졌나…차익 실현·약세 모멘텀이 하락 압박",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9HUVhGdXhqLThCamhPYTVxMUpMa21lUXJEeHFiRVdLMGctRDFnNl9ic3RkWEd0aU1GWUwwV09rcDJwbEZRUlhoT0FB?oc=5",
       "date": "Sun, 20 Sep 2026 04:25:00 GMT",
@@ -104,13 +118,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ncGgxMTdud3Z3MFRHQ05TQzFZQ1RTUW5zZ1R6aWFpWEh5TVNLejhpUzFFRGhKd1BDSV9sdTFfcVViYUI2a01JX1c5SWIyaG9lMHBXSlM0aWM?oc=5",
       "date": "Sun, 20 Sep 2026 01:40:38 GMT",
       "source": "블록미디어",
-      "score": 2
-    },
-    {
-      "title": "리플XRP 거래 1위·디라이브 47% 급등…그래비티도 강세",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9neHhTR0R1eURad1hUZ29JQlBQWVdZTmRSWkFSc2YyOU92U253VElwbGh5YXgxS2l2VEtTMkszbk1wZHJvZy1QRG44Rzg0dk1pbjYtR21JaXhmQ1dWQ1MyUHZtUjNINVoxakx0Y0hRQjJZZw?oc=5",
-      "date": "Sat, 19 Sep 2026 23:31:41 GMT",
-      "source": "톱스타뉴스",
       "score": 2
     },
     {
@@ -128,15 +135,8 @@
       "score": 9
     },
     {
-      "title": "美 하원 금융위, '가상자산 비축 법안' 통과…XRP 제도권 편입 '청신호'",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeXhjbDZ5SkQ5dEVMMkN3cUQ5dkI2dzM1X0N2RFJkbHAyWnhQWmZRN1Z2cFM1Vm8wbEZ1ZjdyMzgtQjRGbzQzYWxBVGZSbVQ0dHVsVnJJUlZWQ2tOLUNmdGV0Rk1JeUlEY21MT296ZGw2MW9ac213YUtBVEo4MDI3T0NmSnc4ZUh5?oc=5",
-      "date": "Sat, 19 Sep 2026 06:59:11 GMT",
-      "source": "글로벌이코노믹",
-      "score": 2
-    },
-    {
       "title": "리플(XRP) 7% 급등…클래리티법 부결 충격 딛고 SEC·유가가 분위기 바꿨다",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5SS2swN1p0OHlTV2E5ZDNmMGxRVUkwckhLbm5tM3dheG5kaklqTEpjY2VmbGFmYVdnQ1o0U0l3c0xHQnQzSWJMaA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5BM3ZlTVF0NWZvUXlzZmVrX0tpcUlfVFI2NjZ3c2pzRUZMb0M0MWpLOVUzbTliejhGZzZJU1k2VVp1b205RmEzZ1p3?oc=5",
       "date": "Sat, 19 Sep 2026 04:22:00 GMT",
       "source": "코인리더스",
       "score": 3
