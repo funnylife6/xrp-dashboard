@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-09-20T23:44:57",
+  "generated_at": "2026-09-21T02:36:51",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.41,
-    "price_krw": 1958.77,
-    "price_change_24h": 0.17875,
-    "price_change_7d": 5.72105,
-    "price_change_30d": -2.18915,
-    "market_cap_usd": 88878738296,
+    "price_krw": 1947.44,
+    "price_change_24h": 0.8322,
+    "price_change_7d": 4.13536,
+    "price_change_30d": -4.77742,
+    "market_cap_usd": 88422048607,
     "market_cap_rank": 5,
-    "volume_24h": 2367387474,
+    "volume_24h": 2567096016,
     "circulating_supply": 62879209849.0,
     "total_supply": 99985622230.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 69.57,
-    "sentiment_votes_down": 30.43,
+    "sentiment_votes_up": 71.43,
+    "sentiment_votes_down": 28.57,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 15.42,
-    "recent_tps": 15.42,
-    "recent_tx_count": 1357,
-    "recent_ledger_count": 22,
-    "recent_window_sec": 88,
-    "ledger_seq": 107124701,
+    "tps_24h_avg": 25.58,
+    "recent_tps": 25.58,
+    "recent_tx_count": 2302,
+    "recent_ledger_count": 24,
+    "recent_window_sec": 90,
+    "ledger_seq": 107127373,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-09-20 23:44:47 KST",
+    "updated_at": "2026-09-21 02:36:42 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 1560000,
     "total_net_inflow_usd": 1560000,
     "total_value_traded_usd": 1560000,
-    "updated_at": "SoSoValue 순유입 부분 수집 09/20 23:44",
+    "updated_at": "SoSoValue 순유입 부분 수집 09/21 02:36",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -93,18 +93,18 @@
   ],
   "general_news": [
     {
+      "title": "SEC 웹사이트 속 '트럼프·XRP' 문건의 진실은?",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZnV6eTFmX0Jpa2MtTWQ0VzNjRHRxVGJ0UWM2YUJEdVAtOURMNTczc3BENlllaGZkU3djX0xNYXA3Z1ZvMFNFTld2NGRXYUIxYVUtOWQzX2VPSjVRNEFCWkJaeWljMFRBNDBDOV92eE82T1g4ZV9IRnBJU1g2SmNzeDZyd1BsZl9H?oc=5",
+      "date": "Mon, 21 Sep 2026 01:36:52 GMT",
+      "source": "글로벌이코노믹",
+      "score": 3
+    },
+    {
       "title": "리플XRP·그래비티·아발란체, 거래집중 속 희비",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1PTUsxNkgwRjlBUHFQYy1hVVV5Vm9KclNTWUdyMGVETl84VVdvenVGWVJ1RHdPVThzdVZVZVZGUk03RFRMdl9NcHAyUG5jTjAyTnFuOUxLRDRqN1Bpc01weVB1UUFmR3RnTHlBZHQ2ZDAwQQ?oc=5",
       "date": "Sun, 20 Sep 2026 21:56:30 GMT",
       "source": "톱스타뉴스",
       "score": 2
-    },
-    {
-      "title": "XRP, 단순 송금 넘어 기관용 탈중앙화 금융 인프라로 진화",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV0ZBRHVTYkxjX1BGT1N6OUhzZWFGR3duYUlRMGlJYi1kLXUtLVFFTmtCZnZGQzdqT252RThUQVlQREE1aGtacVhudk12VDQ4QlF0THBtUFNrM2hNT1NEcFdKcU9pZUpXdTQtZVMwaU1QVVVieHJXRzhyZW95UGQybE91azRJWU9D?oc=5",
-      "date": "Sun, 20 Sep 2026 21:27:00 GMT",
-      "source": "글로벌이코노믹",
-      "score": 4
     },
     {
       "title": "오늘 리플(XRP) 가격 왜 떨어졌나…차익 실현·약세 모멘텀이 하락 압박",
@@ -117,7 +117,7 @@
       "title": "XRP 미국 중간선거 랠리론…2달러 돌파가 관건",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ncGgxMTdud3Z3MFRHQ05TQzFZQ1RTUW5zZ1R6aWFpWEh5TVNLejhpUzFFRGhKd1BDSV9sdTFfcVViYUI2a01JX1c5SWIyaG9lMHBXSlM0aWM?oc=5",
       "date": "Sun, 20 Sep 2026 01:40:38 GMT",
-      "source": "블록미디어",
+      "source": "blockmedia.co.kr",
       "score": 2
     },
     {
