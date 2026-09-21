@@ -1,51 +1,50 @@
 {
-  "generated_at": "2026-09-21T20:04:15",
+  "generated_at": "2026-09-21T23:26:39",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.5,
-    "price_krw": 2070.17,
-    "price_change_24h": 6.77648,
-    "price_change_7d": 2.90508,
-    "price_change_30d": 0.32442,
-    "market_cap_usd": 94633036014,
+    "price_usd": 1.55,
+    "price_krw": 2126.64,
+    "price_change_24h": 9.47262,
+    "price_change_7d": 7.75176,
+    "price_change_30d": 5.38544,
+    "market_cap_usd": 97282090080,
     "market_cap_rank": 5,
-    "volume_24h": 5120479799,
+    "volume_24h": 6168242827,
     "circulating_supply": 62879209849.0,
     "total_supply": 99985622230.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 78.54,
-    "sentiment_votes_down": 21.46,
+    "sentiment_votes_up": 82.61,
+    "sentiment_votes_down": 17.39,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 24.68,
-    "recent_tps": 24.68,
-    "recent_tx_count": 2221,
+    "tps_24h_avg": 19.87,
+    "recent_tps": 19.87,
+    "recent_tx_count": 1788,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 107143629,
+    "ledger_seq": 107146760,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-09-21 20:04:04 KST",
+    "updated_at": "2026-09-21 23:26:31 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
   },
   "etf_flow": {
-    "approved_count": 4,
+    "approved_count": 0,
     "daily_inflow_usd": 0,
     "weekly_inflow_usd": 0,
-    "aum_usd": 1560000,
-    "total_net_inflow_usd": 1560000,
-    "total_value_traded_usd": 1560000,
-    "updated_at": "SoSoValue 순유입 부분 수집 09/21 20:04",
-    "data_source": "sosovalue",
-    "partial": true
+    "aum_usd": 0,
+    "total_net_inflow_usd": 0,
+    "total_value_traded_usd": 0,
+    "updated_at": "뉴스 자동 파싱 대기",
+    "data_source": "news_parse"
   },
   "etf_news": [
     {
@@ -59,7 +58,7 @@
       "title": "지금 당장 도망쳐라?… XRP 녹색 행진 종식 직전, 기관들 연쇄 탈출 경고",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBvZ1lUU1hrNWZKaEhzZ3RLbGh6Q0YtcjNzZlVLOXA0SlpNNmkwQnozeVB6TDNBMUU2b2JxTE1EclE4ajV6UGpNOU5BNldIXzkzaG0tejBQRFF4QkxpOXZYX1JfVEphTVFUZlU0N1F0UHQ3dEHSAXdBVV95cUxONzFVNUozVFdlRDZIZkx4SnY3SFZBUkFENmJ6UW1zOTFKQzNLUEJEOTVRaXc0VE9ZZ1hBU25wTjVhQUZONDY4ejBNVFhvZm9BTFl0RC1QbXRsUFQ2Q1J1NmxCekNlaHpoMzBRbGR2YnBmQVdDcEIxUQ?oc=5",
       "date": "Mon, 21 Sep 2026 07:11:34 GMT",
-      "source": "핀포인트뉴스",
+      "source": "pinpointnews.co.kr",
       "score": 0
     },
     {
@@ -73,7 +72,7 @@
       "title": "XRP 현물 ETF, 지난주 955.92만 달러 순유입",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tMEh3WjV4X05KdnlaQnRPLVdYSmpIc2NiQWVuM3VWcl9vM3gxYk5MMzZrelh3X1NiM1dZMTRTSzN2ZzlZZjB0bGJINm10RjNVNktlQ2lSRXc2VUxVNWZKSmdYQlVwMGU2ZllWUVEtQ3hyTGctbHo0QWFFRmVad3c?oc=5",
       "date": "Mon, 21 Sep 2026 04:13:56 GMT",
-      "source": "panewslab.com",
+      "source": "PANews",
       "score": 0
     },
     {
@@ -93,11 +92,32 @@
   ],
   "general_news": [
     {
-      "title": "XRP, 10월 1일 1.20달러 이상 확률 56%",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qY2M4Nk9sZk5EZWtvaE9OMGNUSUxCNmRGd0pmc1o2N05Jb0lfWTNtcTFkWERqeGpOcFVkalR2MlpGQ19pMnk4ejgyakNoSUZTWl9wdlozUmxmVkdLNGJQTQ?oc=5",
-      "date": "Mon, 21 Sep 2026 13:24:50 GMT",
-      "source": "토큰포스트",
-      "score": 9
+      "title": "비트코인 8만6000달러 급등…이더·XRP·도지 등 알트코인도 반등",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9KODRoeGRhenZ4dUFnbzkwQjMzbV9qWEJ4Vzc0dXdTNFZNZUpKemdVclZCV0RreUxJVTY2VE44V25oRlM2NlkyLTFnTjNHNUVtNVkxQlgtUER5U2V2akVZWElSaGZ1aHNmcEZrLWxRT1RIakk?oc=5",
+      "date": "Mon, 21 Sep 2026 23:01:17 GMT",
+      "source": "디지털투데이",
+      "score": 2
+    },
+    {
+      "title": "엑스알피, 하루 만에 10% 급등 1.55달러 돌파… 리플·바이비트 연계 보상 효과까지",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fNWVaOEZaQnpRQlBYdXpTYUp4dXpIZDhuYk1maEhSWS1XWkdDekRjWm9sVTRTVG82Wm1aVUxlbFZMczRBZ2tQWWttTmx5dV83dmhaTUhmOUI?oc=5",
+      "date": "Mon, 21 Sep 2026 22:47:42 GMT",
+      "source": "블록미디어",
+      "score": 2
+    },
+    {
+      "title": "리플XRP·비트코인·제타체인 급등…코인거래 45.5%↑",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9rYzk4OW52VllSb2otcllnM0FpVUdqMXV1VzU4dncwMDhkVE05S1MtXzk4SnpaaUxiTTlwNVVDX1hRUjFycktjeE1ZZExYZnlRUTZSbWllMUY5UHBLVjNyRUd0NXIySzBJVF9DWVFSNXVqQQ?oc=5",
+      "date": "Mon, 21 Sep 2026 22:22:19 GMT",
+      "source": "톱스타뉴스",
+      "score": 2
+    },
+    {
+      "title": "코인 동반 급등장…리플 10%·비트코인 7%·이더리움 5% 상승",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1lWE9nUmFCZXB2Q21wN1pJS0c2SWRTbkhGVFh4eFpyN0FEMUdxdkw4cVhlTldZcnNRank4Zm9xMHVjOUdYTjZGcXB4V0JsTV9jUEp4TTdBaDVVLS1mMDRRdEJrREZfOVczNXRLeGJn?oc=5",
+      "date": "Mon, 21 Sep 2026 22:19:00 GMT",
+      "source": "이투데이",
+      "score": 2
     },
     {
       "title": "리플(XRP) 7%대 급등…스트라이프 결제 연동·네트워크 업그레이드에 1.55달러 노린다",
@@ -121,13 +141,6 @@
       "score": 3
     },
     {
-      "title": "거래소 문턱 못 넘는 비트코인 포크…리플 전 CTO \"보안이 관건\"",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1MamV3elZQajVmYkphdWtGM1NKVE4waktRV1J4SVYxMHNOcWk1QUxXOUc4Qks1RjI5b2syeFV6bHJVVWQ5VHVJNGl0OVU2aU5vbjVDTTQ3RnIteXdKM3hZckVhVlhtYjE4djlsRkJ4UVRCOGs?oc=5",
-      "date": "Mon, 21 Sep 2026 02:05:00 GMT",
-      "source": "디지털투데이",
-      "score": 2
-    },
-    {
       "title": "속보 | XRP 레저 신규 결제 업그레이드 'Batch V1.1' 활성화 임박 - 코인니스",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBpU1pEUDdNYWhqWmpDMmY0MnRCQ25yR3BFaXlGbTNKM3g0QkljWXVwVjF2bFlHaTZPQ1NGTDZLX2RPQmN4Tm95Qg?oc=5",
       "date": "Mon, 21 Sep 2026 00:03:46 GMT",
@@ -142,25 +155,11 @@
       "score": 3
     },
     {
-      "title": "리플XRP·그래비티·아발란체, 거래집중 속 희비",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1PTUsxNkgwRjlBUHFQYy1hVVV5Vm9KclNTWUdyMGVETl84VVdvenVGWVJ1RHdPVThzdVZVZVZGUk03RFRMdl9NcHAyUG5jTjAyTnFuOUxLRDRqN1Bpc01weVB1UUFmR3RnTHlBZHQ2ZDAwQQ?oc=5",
-      "date": "Sun, 20 Sep 2026 21:56:30 GMT",
-      "source": "톱스타뉴스",
-      "score": 2
-    },
-    {
       "title": "RLUSD 1500만개 소각…9월 발행·회수 반복",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DMzF3ZldDUW1hZ2NJN2s0aFVwdURHSDF5bUowdVk1QmppVUY3blNSeXhDVDE5UEw4bGR4Wl9VR3dlU09QOEZQLWxUa3NYZEl3aFZEc2xhTlRPdS1RRmdwZw?oc=5",
       "date": "Sun, 20 Sep 2026 17:13:00 GMT",
       "source": "토큰포스트",
       "score": 8
-    },
-    {
-      "title": "XRP 미국 중간선거 랠리론…2달러 돌파가 관건",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ncGgxMTdud3Z3MFRHQ05TQzFZQ1RTUW5zZ1R6aWFpWEh5TVNLejhpUzFFRGhKd1BDSV9sdTFfcVViYUI2a01JX1c5SWIyaG9lMHBXSlM0aWM?oc=5",
-      "date": "Sun, 20 Sep 2026 01:40:38 GMT",
-      "source": "블록미디어",
-      "score": 3
     }
   ]
 }
