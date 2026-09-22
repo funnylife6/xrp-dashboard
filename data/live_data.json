@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-09-22T01:42:21",
+  "generated_at": "2026-09-22T07:06:31",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.51,
-    "price_krw": 2062.01,
-    "price_change_24h": 6.31868,
-    "price_change_7d": 6.66236,
-    "price_change_30d": 0.28945,
-    "market_cap_usd": 95276429782,
+    "price_usd": 1.52,
+    "price_krw": 2062.62,
+    "price_change_24h": 5.45378,
+    "price_change_7d": 8.47456,
+    "price_change_30d": 5.27526,
+    "market_cap_usd": 95414012189,
     "market_cap_rank": 5,
-    "volume_24h": 6146293199,
+    "volume_24h": 6394098770,
     "circulating_supply": 62879209849.0,
     "total_supply": 99985622230.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 81.38,
-    "sentiment_votes_down": 18.62,
+    "sentiment_votes_up": 80.16,
+    "sentiment_votes_down": 19.84,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 21.93,
-    "recent_tps": 21.93,
-    "recent_tx_count": 1974,
+    "tps_24h_avg": 23.27,
+    "recent_tps": 23.27,
+    "recent_tx_count": 2071,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 107148862,
+    "recent_window_sec": 89,
+    "ledger_seq": 107153908,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-09-22 01:42:11 KST",
+    "updated_at": "2026-09-22 07:06:23 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -48,17 +48,10 @@
   },
   "etf_news": [
     {
-      "title": "지금 당장 도망쳐라?… XRP 녹색 행진 종식 직전, 기관들 연쇄 탈출 경고",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBvZ1lUU1hrNWZKaEhzZ3RLbGh6Q0YtcjNzZlVLOXA0SlpNNmkwQnozeVB6TDNBMUU2b2JxTE1EclE4ajV6UGpNOU5BNldIXzkzaG0tejBQRFF4QkxpOXZYX1JfVEphTVFUZlU0N1F0UHQ3dEHSAXdBVV95cUxONzFVNUozVFdlRDZIZkx4SnY3SFZBUkFENmJ6UW1zOTFKQzNLUEJEOTVRaXc0VE9ZZ1hBU25wTjVhQUZONDY4ejBNVFhvZm9BTFl0RC1QbXRsUFQ2Q1J1NmxCekNlaHpoMzBRbGR2YnBmQVdDcEIxUQ?oc=5",
-      "date": "Mon, 21 Sep 2026 07:11:34 GMT",
-      "source": "핀포인트뉴스",
-      "score": 0
-    },
-    {
       "title": "리플(XRP) 1932원 강보합…글로벌 가격 1.4달러대 회복",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKdlhBZXlIRk95RUc1cThyM2VUUVRQVkZyMUJHSl9zc2NJUUhtRl92eXhFMmltMWd1b0MxY1pRVlg3cEVrVWlqWURWbzRJQkc3dmZyb09lN05MYzBDNTNmRERLdG5tZHZ4QkRkN1BkYlItd9IBckFVX3lxTFBKdlhBZXlIRk95RUc1cThyM2VUUVRQVkZyMUJHSl9zc2NJUUhtRl92eXhFMmltMWd1b0MxY1pRVlg3cEVrVWlqWURWbzRJQkc3dmZyb09lN05MYzBDNTNmRERLdG5tZHZ4QkRkN1BkYlItdw?oc=5",
       "date": "Mon, 21 Sep 2026 04:29:14 GMT",
-      "source": "job-post.co.kr",
+      "source": "잡포스트",
       "score": 0
     },
     {
@@ -88,6 +81,13 @@
       "date": "Sat, 19 Sep 2026 03:31:34 GMT",
       "source": "토큰포스트",
       "score": 5
+    },
+    {
+      "title": "1주년 맞은 1세대 리플(XRP) 펀드, 1.40달러 돌파 타고 현물 ETF 추격할까?",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0tajFIWDNPOS1HWDFxT2JSbEZUQnRvenZ3bTRQaFJqR1doUHRVbmZJM25DZ1JtRncxaHA1aERlaVByMnZCTzc4MQ?oc=5",
+      "date": "Fri, 18 Sep 2026 23:13:00 GMT",
+      "source": "코인리더스",
+      "score": 0
     }
   ],
   "general_news": [
@@ -96,13 +96,6 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9KODRoeGRhenZ4dUFnbzkwQjMzbV9qWEJ4Vzc0dXdTNFZNZUpKemdVclZCV0RreUxJVTY2VE44V25oRlM2NlkyLTFnTjNHNUVtNVkxQlgtUER5U2V2akVZWElSaGZ1aHNmcEZrLWxRT1RIakk?oc=5",
       "date": "Mon, 21 Sep 2026 23:01:17 GMT",
       "source": "디지털투데이",
-      "score": 2
-    },
-    {
-      "title": "엑스알피, 하루 만에 10% 급등 1.55달러 돌파… 리플·바이비트 연계 보상 효과까지",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fNWVaOEZaQnpRQlBYdXpTYUp4dXpIZDhuYk1maEhSWS1XWkdDekRjWm9sVTRTVG82Wm1aVUxlbFZMczRBZ2tQWWttTmx5dV83dmhaTUhmOUI?oc=5",
-      "date": "Mon, 21 Sep 2026 22:47:42 GMT",
-      "source": "블록미디어",
       "score": 2
     },
     {
@@ -120,24 +113,24 @@
       "score": 2
     },
     {
-      "title": "리플, 4시간 새 3.83% 급등해 1.55달러",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5yaVg1LVJhbG1OQUtrNGROT0JiaEoyUEZMVjY4TUJfQkVVVXNibTB1aDkybVl1a3BGRUFBWFBrMnhrNDNsalowcEVDNnZMRWlxSU9YQ3JiV2s?oc=5",
-      "date": "Mon, 21 Sep 2026 22:01:00 GMT",
-      "source": "토큰포스트",
-      "score": 9
-    },
-    {
-      "title": "리플(XRP) 7%대 급등…스트라이프 결제 연동·네트워크 업그레이드에 1.55달러 노린다",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBHUFFjMVdxV3JKbklEMkZQekpfTHJ6ci13Y25VVnBhaEMyTWhreFNRMkR6WXNUMDVyWS1tN0poZ0pMZGVtVV9lektn?oc=5",
-      "date": "Mon, 21 Sep 2026 09:32:00 GMT",
-      "source": "코인리더스",
-      "score": 2
+      "title": "속보 | 1300만명 코인과세 유예되나…민병덕 “과세 준비 안 됐다”",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBubGJaTVZCMU5yYlJiN1dFdENnb2ZBTV9fSVNUaWlPaW5pTHZPRXhSYUNwT0F6VlVJdGNvWUJSM2F5RUJYUEdjU2hJVHZ2dnVJ?oc=5",
+      "date": "Mon, 21 Sep 2026 09:21:00 GMT",
+      "source": "CoinNess",
+      "score": 8
     },
     {
       "title": "리플(XRP) 1932원 강보합…글로벌 가격 1.4달러대 회복",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKdlhBZXlIRk95RUc1cThyM2VUUVRQVkZyMUJHSl9zc2NJUUhtRl92eXhFMmltMWd1b0MxY1pRVlg3cEVrVWlqWURWbzRJQkc3dmZyb09lN05MYzBDNTNmRERLdG5tZHZ4QkRkN1BkYlItd9IBckFVX3lxTFBKdlhBZXlIRk95RUc1cThyM2VUUVRQVkZyMUJHSl9zc2NJUUhtRl92eXhFMmltMWd1b0MxY1pRVlg3cEVrVWlqWURWbzRJQkc3dmZyb09lN05MYzBDNTNmRERLdG5tZHZ4QkRkN1BkYlItdw?oc=5",
       "date": "Mon, 21 Sep 2026 04:29:14 GMT",
-      "source": "job-post.co.kr",
+      "source": "잡포스트",
+      "score": 3
+    },
+    {
+      "title": "SEC 웹사이트 속 '트럼프·XRP' 문건의 진실은?",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZnV6eTFmX0Jpa2MtTWQ0VzNjRHRxVGJ0UWM2YUJEdVAtOURMNTczc3BENlllaGZkU3djX0xNYXA3Z1ZvMFNFTld2NGRXYUIxYVUtOWQzX2VPSjVRNEFCWkJaeWljMFRBNDBDOV92eE82T1g4ZV9IRnBJU1g2SmNzeDZyd1BsZl9H?oc=5",
+      "date": "Mon, 21 Sep 2026 01:36:52 GMT",
+      "source": "글로벌이코노믹",
       "score": 3
     },
     {
@@ -155,11 +148,18 @@
       "score": 3
     },
     {
-      "title": "RLUSD 1500만개 소각…9월 발행·회수 반복",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DMzF3ZldDUW1hZ2NJN2s0aFVwdURHSDF5bUowdVk1QmppVUY3blNSeXhDVDE5UEw4bGR4Wl9VR3dlU09QOEZQLWxUa3NYZEl3aFZEc2xhTlRPdS1RRmdwZw?oc=5",
-      "date": "Sun, 20 Sep 2026 17:13:00 GMT",
-      "source": "토큰포스트",
-      "score": 8
+      "title": "XRP, 단순 송금 넘어 기관용 탈중앙화 금융 인프라로 진화",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV0ZBRHVTYkxjX1BGT1N6OUhzZWFGR3duYUlRMGlJYi1kLXUtLVFFTmtCZnZGQzdqT252RThUQVlQREE1aGtacVhudk12VDQ4QlF0THBtUFNrM2hNT1NEcFdKcU9pZUpXdTQtZVMwaU1QVVVieHJXRzhyZW95UGQybE91azRJWU9D?oc=5",
+      "date": "Sun, 20 Sep 2026 21:27:00 GMT",
+      "source": "글로벌이코노믹",
+      "score": 4
+    },
+    {
+      "title": "13억달러 터진 리플… 숏스퀴즈 타고 1.5달러 정조준",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT1ZIVGpoZVJtLWFJVktZQ2FBM1B2VU1iZ0c0NG15RlQwTXI1S00zMVdhQzBvcVlDZlNEX3I2aGNTY19CdXFCX21udEpzaXFxU2VhdEt1a21lX2dseVBsSk1uMDVZaFI2aDNRdHJBMThZYXd3N0NZbWNnWEhzWW0xVnZKV1JCV0hI?oc=5",
+      "date": "Sun, 20 Sep 2026 19:30:00 GMT",
+      "source": "글로벌이코노믹",
+      "score": 2
     }
   ]
 }
