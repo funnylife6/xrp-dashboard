@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-09-24T17:40:23",
+  "generated_at": "2026-09-24T20:58:45",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.54,
-    "price_krw": 2100.81,
-    "price_change_24h": 2.49194,
-    "price_change_7d": 17.75385,
-    "price_change_30d": 4.32098,
-    "market_cap_usd": 96524338954,
+    "price_usd": 1.53,
+    "price_krw": 2088.5,
+    "price_change_24h": 2.98619,
+    "price_change_7d": 17.98779,
+    "price_change_30d": 3.75751,
+    "market_cap_usd": 96158405113,
     "market_cap_rank": 5,
-    "volume_24h": 4361868744,
+    "volume_24h": 4318752320,
     "circulating_supply": 62879209849.0,
     "total_supply": 99985622230.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 73.39,
-    "sentiment_votes_down": 26.61,
+    "sentiment_votes_up": 75.21,
+    "sentiment_votes_down": 24.79,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 20.53,
-    "recent_tps": 20.53,
-    "recent_tx_count": 1848,
+    "tps_24h_avg": 15.0,
+    "recent_tps": 15.0,
+    "recent_tx_count": 1230,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 107208517,
+    "recent_window_sec": 82,
+    "ledger_seq": 107211618,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-09-24 17:40:10 KST",
+    "updated_at": "2026-09-24 20:58:39 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,11 +43,18 @@
     "aum_usd": 11540000,
     "total_net_inflow_usd": 11540000,
     "total_value_traded_usd": 11540000,
-    "updated_at": "SoSoValue 순유입 부분 수집 09/24 17:40",
+    "updated_at": "SoSoValue 순유입 부분 수집 09/24 20:58",
     "data_source": "sosovalue",
     "partial": true
   },
   "etf_news": [
+    {
+      "title": "블랙록 IBIT, 비트코인 8만4000달러로 추락에도 나흘간 1조3900억원 매집",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zNEVJM0hINjRwTVBYVGItdW93d01EMnVGbmdXRC1BM0lzQ1lQdGxVTDZvd3N6WTEyTkFKaUhhUVRVdzhoUG41WllxOEFZNTFlaVBGdG93?oc=5",
+      "date": "Thu, 24 Sep 2026 20:02:00 GMT",
+      "source": "위키트리",
+      "score": 0
+    },
     {
       "title": "XRP ETF 누적 순유입 17.1억달러…11.3억개 보관",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93QUdpNUZUZ0tFMnBmNi1BcDhwY3ZaMUxhWWNvSllTbm9KaEt2RDJROFBsM2dwQldGaG12STNfemN3OE52eXdSYk14VzJ0a1ZVS1F2UFFOUXc?oc=5",
@@ -77,13 +84,6 @@
       "score": 0
     },
     {
-      "title": "리플(XRP) 1932원 강보합…글로벌 가격 1.4달러대 회복",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKdlhBZXlIRk95RUc1cThyM2VUUVRQVkZyMUJHSl9zc2NJUUhtRl92eXhFMmltMWd1b0MxY1pRVlg3cEVrVWlqWURWbzRJQkc3dmZyb09lN05MYzBDNTNmRERLdG5tZHZ4QkRkN1BkYlItd9IBckFVX3lxTFBKdlhBZXlIRk95RUc1cThyM2VUUVRQVkZyMUJHSl9zc2NJUUhtRl92eXhFMmltMWd1b0MxY1pRVlg3cEVrVWlqWURWbzRJQkc3dmZyb09lN05MYzBDNTNmRERLdG5tZHZ4QkRkN1BkYlItdw?oc=5",
-      "date": "Mon, 21 Sep 2026 04:29:14 GMT",
-      "source": "job-post.co.kr",
-      "score": 0
-    },
-    {
       "title": "XRP 현물 ETF, 지난주 955.92만 달러 순유입",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tMEh3WjV4X05KdnlaQnRPLVdYSmpIc2NiQWVuM3VWcl9vM3gxYk5MMzZrelh3X1NiM1dZMTRTSzN2ZzlZZjB0bGJINm10RjNVNktlQ2lSRXc2VUxVNWZKSmdYQlVwMGU2ZllWUVEtQ3hyTGctbHo0QWFFRmVad3c?oc=5",
       "date": "Mon, 21 Sep 2026 04:13:56 GMT",
@@ -96,7 +96,7 @@
       "title": "리플 전 CTO도 감탄한 AI 시트콤 'XRP 프렌즈' 화제",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUWlpbE1rRzhMbHllVlpCbHVqRkxvc3Mwem9DcktZbFljaUNJcGFVN19SRXNpQlhlbGN3UmZGMnphTjB5ZUNYSFF1WTlhYUM1d3FKTWV0TkxXVVNVMVQ2WGZEVjdJcGllUW50U2xUOC1Ib2M3cUkzMmZYdGIxVDNIT0cwTjBOVmxN?oc=5",
       "date": "Thu, 24 Sep 2026 06:37:50 GMT",
-      "source": "글로벌이코노믹",
+      "source": "g-enews.com",
       "score": 2
     },
     {
@@ -124,7 +124,7 @@
       "title": "코인지갑 해킹 피해 확산…리플 1000만개 유출 추정",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5rYm5FcXc3Y0M4aTg3OF9GTmtiVlZBaGMzRThqRExNUkUxU3pKczFWQkl4UFFsN2xtc0YzQlpCSEE3Y04xWmNoVlp1eDVxWjVlUnY1ZmNPMENjVmFRTm9QcmpVcDdRemtLNTYxclA2UXFVc1E?oc=5",
       "date": "Thu, 24 Sep 2026 01:37:54 GMT",
-      "source": "marketin.edaily.co.kr",
+      "source": "마켓인",
       "score": 2
     },
     {
