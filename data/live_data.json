@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-09-24T12:37:10",
+  "generated_at": "2026-09-24T17:40:23",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.47,
-    "price_krw": 2014.59,
-    "price_change_24h": -6.08748,
-    "price_change_7d": 13.40091,
-    "price_change_30d": -0.60422,
-    "market_cap_usd": 92505204014,
+    "price_usd": 1.54,
+    "price_krw": 2100.81,
+    "price_change_24h": 2.49194,
+    "price_change_7d": 17.75385,
+    "price_change_30d": 4.32098,
+    "market_cap_usd": 96524338954,
     "market_cap_rank": 5,
-    "volume_24h": 4624663566,
+    "volume_24h": 4361868744,
     "circulating_supply": 62879209849.0,
     "total_supply": 99985622230.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 63.49,
-    "sentiment_votes_down": 36.51,
+    "sentiment_votes_up": 73.39,
+    "sentiment_votes_down": 26.61,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 15.48,
-    "recent_tps": 15.48,
-    "recent_tx_count": 1269,
+    "tps_24h_avg": 20.53,
+    "recent_tps": 20.53,
+    "recent_tx_count": 1848,
     "recent_ledger_count": 24,
-    "recent_window_sec": 82,
-    "ledger_seq": 107203802,
+    "recent_window_sec": 90,
+    "ledger_seq": 107208517,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-09-24 12:37:01 KST",
+    "updated_at": "2026-09-24 17:40:10 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 11540000,
     "total_net_inflow_usd": 11540000,
     "total_value_traded_usd": 11540000,
-    "updated_at": "SoSoValue 순유입 부분 수집 09/24 12:37",
+    "updated_at": "SoSoValue 순유입 부분 수집 09/24 17:40",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -63,13 +63,6 @@
       "score": 5
     },
     {
-      "title": "리플(XRP) 1.50달러인데 지금 사야 할까?",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1FRHhXN1EyXzU3NW9DMlpLWDNUeXFPTHlJTk02YUt4V01zci1mNVhZM0tWTXJPa080NFFWUDZ4M1hyS3RtOG5IZlJn?oc=5",
-      "date": "Thu, 24 Sep 2026 01:45:00 GMT",
-      "source": "코인리더스",
-      "score": 0
-    },
-    {
       "title": "엑스알피(리플) ETF 16억달러 돌파! 1.70달러 넘으면 XRPR 13달러 간다",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBsZ3MtWHhrX3FIUWNjQ2Z5VVZfZTJMaHhacm1JTEZCX0lsTzJQMTBpckdaeGhJYzAyVjRDX2pjS0s0eGlUR3MzcDdB?oc=5",
       "date": "Wed, 23 Sep 2026 22:27:00 GMT",
@@ -87,7 +80,14 @@
       "title": "리플(XRP) 1932원 강보합…글로벌 가격 1.4달러대 회복",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKdlhBZXlIRk95RUc1cThyM2VUUVRQVkZyMUJHSl9zc2NJUUhtRl92eXhFMmltMWd1b0MxY1pRVlg3cEVrVWlqWURWbzRJQkc3dmZyb09lN05MYzBDNTNmRERLdG5tZHZ4QkRkN1BkYlItd9IBckFVX3lxTFBKdlhBZXlIRk95RUc1cThyM2VUUVRQVkZyMUJHSl9zc2NJUUhtRl92eXhFMmltMWd1b0MxY1pRVlg3cEVrVWlqWURWbzRJQkc3dmZyb09lN05MYzBDNTNmRERLdG5tZHZ4QkRkN1BkYlItdw?oc=5",
       "date": "Mon, 21 Sep 2026 04:29:14 GMT",
-      "source": "잡포스트",
+      "source": "job-post.co.kr",
+      "score": 0
+    },
+    {
+      "title": "XRP 현물 ETF, 지난주 955.92만 달러 순유입",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tMEh3WjV4X05KdnlaQnRPLVdYSmpIc2NiQWVuM3VWcl9vM3gxYk5MMzZrelh3X1NiM1dZMTRTSzN2ZzlZZjB0bGJINm10RjNVNktlQ2lSRXc2VUxVNWZKSmdYQlVwMGU2ZllWUVEtQ3hyTGctbHo0QWFFRmVad3c?oc=5",
+      "date": "Mon, 21 Sep 2026 04:13:56 GMT",
+      "source": "PANews",
       "score": 0
     }
   ],
@@ -124,7 +124,7 @@
       "title": "코인지갑 해킹 피해 확산…리플 1000만개 유출 추정",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5rYm5FcXc3Y0M4aTg3OF9GTmtiVlZBaGMzRThqRExNUkUxU3pKczFWQkl4UFFsN2xtc0YzQlpCSEE3Y04xWmNoVlp1eDVxWjVlUnY1ZmNPMENjVmFRTm9QcmpVcDdRemtLNTYxclA2UXFVc1E?oc=5",
       "date": "Thu, 24 Sep 2026 01:37:54 GMT",
-      "source": "마켓인",
+      "source": "marketin.edaily.co.kr",
       "score": 2
     },
     {
@@ -138,7 +138,7 @@
       "title": "디센트 해킹 추정 사고 리플 1000만개 탈취 추정도",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93TlFuazFkMGZ4RTkwMGZvTGVDck9ZemFRaXRCOTEza3EwRTQ5LV9YMjE4X0EzR3RxMW05RFpZMjVFT0huR2MwZlJoMlVYZzZfLU8xZWppYWU5Zw?oc=5",
       "date": "Thu, 24 Sep 2026 01:07:04 GMT",
-      "source": "fnnews.com",
+      "source": "파이낸셜뉴스",
       "score": 2
     },
     {
@@ -156,11 +156,11 @@
       "score": 2
     },
     {
-      "title": "속보 | 트럼프 7월 스트래티지 주식 최대 $10만 매입",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9YT3ljNjdDalFpRXZSZ3RJWmdpTEt2YXphc3MtcU5SX09qQkhFZ0hXODRkWUNVX1IwMC01aFozelFqU1RTVWJ2dUtFTldpMzJk?oc=5",
-      "date": "Wed, 23 Sep 2026 04:29:00 GMT",
+      "title": "열일하는 리플",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pUVpqYzNZVjhwNU9RMUcxLTJjZzI0TnRidXhtd0FLU0w0UVFZVEZTZkNubmk0QmhzWDUwNl9rQWxNelpOeGRPaVdrYWZxYnQ5ZHhJTDc4LWg?oc=5",
+      "date": "Wed, 23 Sep 2026 04:11:40 GMT",
       "source": "CoinNess",
-      "score": 8
+      "score": 9
     }
   ]
 }
