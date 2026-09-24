@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-09-23T23:22:31",
+  "generated_at": "2026-09-24T01:33:28",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.5,
-    "price_krw": 2053.35,
-    "price_change_24h": -4.98769,
-    "price_change_7d": 16.8548,
-    "price_change_30d": 1.63632,
-    "market_cap_usd": 94448382681,
+    "price_usd": 1.49,
+    "price_krw": 2050.08,
+    "price_change_24h": -6.04687,
+    "price_change_7d": 15.45971,
+    "price_change_30d": -0.81274,
+    "market_cap_usd": 93935247511,
     "market_cap_rank": 5,
-    "volume_24h": 5834947032,
+    "volume_24h": 5696356110,
     "circulating_supply": 62879209849.0,
     "total_supply": 99985622230.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 75.96,
-    "sentiment_votes_down": 24.04,
+    "sentiment_votes_up": 76.47,
+    "sentiment_votes_down": 23.53,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 37.75,
-    "recent_tps": 37.75,
-    "recent_tx_count": 3360,
+    "tps_24h_avg": 34.88,
+    "recent_tps": 34.88,
+    "recent_tx_count": 3104,
     "recent_ledger_count": 24,
     "recent_window_sec": 89,
-    "ledger_seq": 107191421,
+    "ledger_seq": 107193456,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-09-23 23:22:17 KST",
+    "updated_at": "2026-09-24 01:33:14 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -86,11 +86,18 @@
       "title": "클래리티법 상원서 49대50 부결에도 갈링하우스 리플, XRP ETF는 견조한 순유입 유지",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BcU5YVHZSaGdyWnIzdWdXRmFYeVNGeXYwTG9nTDhBeEQ5eE54QnYtckxfRjRkNGc3dXA4OXY4N25WVGNscV9oMk8xNWpJZUlqcDE5c1p3?oc=5",
       "date": "Sat, 19 Sep 2026 14:05:00 GMT",
-      "source": "위키트리",
+      "source": "wikitree.co.kr",
       "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "XRP 2천만 달러, 하드월렛서 탈취",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4X25ncTZjZ2lkVUpvZ0FsRExMSUx5NTJUbEs4ZVBpY29mbTNlWlFiOHFIX2VmV2Qya2gyLThYdk5UT3YzRGl5VnpMRVl4SmJQaWRvcnhkREU1X3YxYWRobVVZcjNhVUtNbFNiZQ?oc=5",
+      "date": "Wed, 23 Sep 2026 23:06:13 GMT",
+      "source": "BeInCrypto",
+      "score": 2
+    },
     {
       "title": "엑스알피(리플) ETF 16억달러 돌파! 1.70달러 넘으면 XRPR 13달러 간다",
       "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5sWWlzRFdycERXaGlqaDJpcXNrNVdXQW1yd2pwRUxhVDlpUDc1Z2VuT3RNMVpVWmVHMlgzU1ZMdHRrYXlu?oc=5",
@@ -109,7 +116,7 @@
       "title": "XRP, 시총 1000억 달러 찍고 차익 실현에 5.5% 급락…공방전 격화",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORnNzYzZzclVRWFpCMnZVdmFWaVlqVlpGVU52dFphMnVWYmEwWTlDNl9Zenp2NzVLaFFCRHNNaWpxNU5TZFFPcWNNcnV4dWtTVlJIMlVuWl9SOXZjVXN5T3BGS1dCYTdfa3ZiTFp2YXhJNS1sbDJLM2xqMVlOY0dtOTFKU3VKbi1f?oc=5",
       "date": "Wed, 23 Sep 2026 22:17:32 GMT",
-      "source": "g-enews.com",
+      "source": "글로벌이코노믹",
       "score": 2
     },
     {
@@ -134,11 +141,11 @@
       "score": 2
     },
     {
-      "title": "XRP '고래'들 96시간 만에 3조 원 폭풍 매집…역대급 랠리 시작되나",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTU5jYVpRQjAzeHZ3b0xVNzJTbzdNTS1kLVpkb3doRTRtQmV2NkctRGRucko4M2Q3OXFRNGdZSER3LTBuZ25tR1REd0tkcFhvWFFwZWhLVUVfYnhJSm1JTnROLTh4cExTTnlDSG5XaWlqa04xRGdtLUtHLTRqM0MxX01OMnRLZGhK?oc=5",
-      "date": "Tue, 22 Sep 2026 21:36:07 GMT",
-      "source": "g-enews.com",
-      "score": 2
+      "title": "열일하는 리플",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pUVpqYzNZVjhwNU9RMUcxLTJjZzI0TnRidXhtd0FLU0w0UVFZVEZTZkNubmk0QmhzWDUwNl9rQWxNelpOeGRPaVdrYWZxYnQ5ZHhJTDc4LWg?oc=5",
+      "date": "Wed, 23 Sep 2026 04:11:40 GMT",
+      "source": "CoinNess",
+      "score": 9
     },
     {
       "title": "RLUSD 시가총액 20억 달러 돌파… 한달 새 공급 30%↑, USDT는 0.4% 후퇴",
@@ -151,14 +158,7 @@
       "title": "암호화폐(코인) 리플이 하루 만에 11% 넘게 폭등한 이유",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40djFUSGRsWWNtell0eUFZdWpkLWJmbTJ4Zm12NzJqbUgxOFdyUzY5SV9McHUyQWdwWW52Ukc4bzFmZ2tzWFNGNGxmNXdKU0lUZjJBbU9B?oc=5",
       "date": "Tue, 22 Sep 2026 05:55:00 GMT",
-      "source": "위키트리",
-      "score": 2
-    },
-    {
-      "title": "엑스알피, 하루 만에 10% 급등 1.55달러 돌파… 리플·바이비트 연계 보상 효과까지",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fNWVaOEZaQnpRQlBYdXpTYUp4dXpIZDhuYk1maEhSWS1XWkdDekRjWm9sVTRTVG82Wm1aVUxlbFZMczRBZ2tQWWttTmx5dV83dmhaTUhmOUI?oc=5",
-      "date": "Mon, 21 Sep 2026 22:47:42 GMT",
-      "source": "블록미디어",
+      "source": "wikitree.co.kr",
       "score": 2
     }
   ]
