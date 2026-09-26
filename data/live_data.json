@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-09-26T21:21:00",
+  "generated_at": "2026-09-26T23:42:42",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.52,
-    "price_krw": 2057.36,
-    "price_change_24h": -2.30196,
-    "price_change_7d": 6.29729,
-    "price_change_30d": 4.37792,
-    "market_cap_usd": 95459359133,
+    "price_usd": 1.53,
+    "price_krw": 2072.38,
+    "price_change_24h": -2.56513,
+    "price_change_7d": 7.99433,
+    "price_change_30d": 5.22858,
+    "market_cap_usd": 96167118556,
     "market_cap_rank": 5,
-    "volume_24h": 2503148879,
+    "volume_24h": 2685994656,
     "circulating_supply": 62879209849.0,
     "total_supply": 99985622230.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 78.7,
-    "sentiment_votes_down": 21.3,
+    "sentiment_votes_up": 75.0,
+    "sentiment_votes_down": 25.0,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 36.92,
-    "recent_tps": 36.92,
-    "recent_tx_count": 3323,
+    "tps_24h_avg": 22.47,
+    "recent_tps": 22.47,
+    "recent_tx_count": 2022,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 107256463,
+    "ledger_seq": 107258636,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-09-26 21:20:47 KST",
+    "updated_at": "2026-09-26 23:42:34 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 18390000,
     "total_net_inflow_usd": 18390000,
     "total_value_traded_usd": 18390000,
-    "updated_at": "SoSoValue 순유입 부분 수집 09/26 21:20",
+    "updated_at": "SoSoValue 순유입 부분 수집 09/26 23:42",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -71,7 +71,7 @@
     },
     {
       "title": "XRP 심상찮은 2% 상승…‘리플 스웰’ 앞두고 1.63달러 돌파할까",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9QOWJ5YlRidGx1Qllhell2ZEpMYW9jalNHcllzTnNuTlJmSVhKOE5TcnJXZ0lWZWRlQ2VOOGlZYkN2eG01R2hWbktn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFAzMVl1VUVPbzZoSGZCSS1ORURod3JGRnNpbThpaEx2WDBmQTFLVW9TN0V4MHlXNWxwc2ZOV213R1RTdkNH?oc=5",
       "date": "Sat, 26 Sep 2026 04:50:00 GMT",
       "source": "코인리더스",
       "score": 0
@@ -93,6 +93,20 @@
   ],
   "general_news": [
     {
+      "title": "리플XRP 1.79% 하락·월드코인 6.58% 상승…거래대금 9% 증가",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBxX2tueFFPQ0MwUk9MY19LVjZsc0o1VTF3NjlEakpfcmR6VlpsT2ljbmRxWXBkVVBkeU9kQ3RLdmFERVVDNUYtVFE5MWNhc0J1NTMxcHRzaFE1cEk0bWZvejdObEZaSmtKRmhRMjNqTGlyZw?oc=5",
+      "date": "Sat, 26 Sep 2026 23:29:37 GMT",
+      "source": "톱스타뉴스",
+      "score": 2
+    },
+    {
+      "title": "XRP vs 도지코인, '마이너스 장세' 탈출 레이스…누가 먼저 웃나",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQclo4Qmp6YTM5Z1l0Rk9mQTNiMnVTVDhha3JMLWR0VXQ0Q1RFYnBTYTg4ODFQQ0piMHpiQUxxWlN6Uy1oWXhlNHJGUWRKajh5RHpWMDg5c1gxc0FWVWRMNExlS2plX1dDZTgtNWhtbXRyZE9oY1ZIMklsX0N3SWVENWtwa0l3eHR3?oc=5",
+      "date": "Sat, 26 Sep 2026 21:53:26 GMT",
+      "source": "글로벌이코노믹",
+      "score": 2
+    },
+    {
       "title": "XRP, BTC 대비 골든크로스 뒤 6개 연속 음봉",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE93MmJCSjNBZXJoMWx5RmpjTWxJanY5MFhVYm9pUWVfTWJ2eVFPVS1lYUdoa2NyVlZmTVJiVHd1cFNNLWUzTVQ1ODNFaEp3RUluR0dfMjRyS1NpZ3V3MDhnbA?oc=5",
       "date": "Sat, 26 Sep 2026 17:03:00 GMT",
@@ -111,7 +125,7 @@
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1JMGNGLWY5ZHJxMUoxUFJoRDZrOTg2WER6MmN1dlJLWlpnSm1GRmhUVmRMN21VOHFfbnlfT3pUbF9qSXFEd2JUcG5n?oc=5",
       "date": "Sat, 26 Sep 2026 12:04:00 GMT",
       "source": "코인리더스",
-      "score": 3
+      "score": 4
     },
     {
       "title": "리플, 10월1일 XRP 10억개 에스크로 해제…고래는 오히려 매집 늘렸다",
@@ -135,13 +149,6 @@
       "score": 9
     },
     {
-      "title": "XRP 심상찮은 2% 상승…‘리플 스웰’ 앞두고 1.63달러 돌파할까",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9QOWJ5YlRidGx1Qllhell2ZEpMYW9jalNHcllzTnNuTlJmSVhKOE5TcnJXZ0lWZWRlQ2VOOGlZYkN2eG01R2hWbktn?oc=5",
-      "date": "Sat, 26 Sep 2026 04:50:00 GMT",
-      "source": "코인리더스",
-      "score": 3
-    },
-    {
       "title": "RLUSD 6624개, XRP 앞섰다…AI 결제는 초기 단계",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tRjVIeDdOTVhZWXF5MGd3NlByU2p4TUFqT2h4Qjhoc2d0LXJqUDhXUmtxNnp6elc4WFdGZmtpTmFCQ3ZDazc4LUJrVGR1OUMtbEU5SVJsck90bDhGTDY4cQ?oc=5",
       "date": "Sat, 26 Sep 2026 04:18:15 GMT",
@@ -149,17 +156,10 @@
       "score": 9
     },
     {
-      "title": "리플XRP·수이·에테나 거래 집중…비트코인 약세 속 알트 강세",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8yRXUwQVc1R1hWbGY1V2tVQmlqaVZsbjB6ajBzYUZrLUE4WFV3T0Jjc01aQ1BCVWpGeVhDdlA1d0gwa09WT2ZkMkE0NXZyZ2pTSTgtaFBWeERRaHBwd29jRy1ycWN3Y0NDSGtYQmNLZDdrUQ?oc=5",
-      "date": "Fri, 25 Sep 2026 22:47:30 GMT",
-      "source": "톱스타뉴스",
-      "score": 2
-    },
-    {
       "title": "속보 | 비트겟 해커, 탈취 XRP 8300만달러 이동",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5yY0lqUG5JYzJQLXZkT0M0SFV4Z1dlTkRJUHY0WmtPenhXRmU1U0V4XzZnN2F4RVNuWndjS0ZRTGFJVXE4QWtDTFNENXBQZ2Ro?oc=5",
       "date": "Fri, 25 Sep 2026 21:03:00 GMT",
-      "source": "coinness.com",
+      "source": "CoinNess",
       "score": 8
     }
   ]
