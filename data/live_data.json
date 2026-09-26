@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-09-26T14:37:20",
+  "generated_at": "2026-09-26T18:11:34",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.55,
-    "price_krw": 2094.22,
-    "price_change_24h": -2.93972,
-    "price_change_7d": 7.53146,
-    "price_change_30d": 7.44938,
-    "market_cap_usd": 97169252351,
+    "price_usd": 1.54,
+    "price_krw": 2080.27,
+    "price_change_24h": -2.13334,
+    "price_change_7d": 7.57596,
+    "price_change_30d": 5.23914,
+    "market_cap_usd": 96526906607,
     "market_cap_rank": 5,
-    "volume_24h": 3545453549,
+    "volume_24h": 2733725572,
     "circulating_supply": 62879209849.0,
     "total_supply": 99985622230.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 82.91,
-    "sentiment_votes_down": 17.09,
+    "sentiment_votes_up": 80.91,
+    "sentiment_votes_down": 19.09,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 42.77,
-    "recent_tps": 42.77,
-    "recent_tx_count": 3849,
+    "tps_24h_avg": 27.68,
+    "recent_tps": 27.68,
+    "recent_tx_count": 2491,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 107250280,
+    "ledger_seq": 107253560,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-09-26 14:37:07 KST",
+    "updated_at": "2026-09-26 18:11:27 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 18390000,
     "total_net_inflow_usd": 18390000,
     "total_value_traded_usd": 18390000,
-    "updated_at": "SoSoValue 순유입 부분 수집 09/26 14:37",
+    "updated_at": "SoSoValue 순유입 부분 수집 09/26 18:11",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -92,6 +92,13 @@
     }
   ],
   "general_news": [
+    {
+      "title": "AI 에이전트 결제…왜 XRP보다 리플 USD를 선택했나",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE43N29rWmdtOU9meXZfY3NUTkR2Z25Jck5PaFJyVzlybTlHeFFfSzBEcDZQSTh6WGJWaDFMV3E2RU9IU05MZFZhc083Tlgtdm5nLTgzWkZfMnZrWWM5YzNjaVJDUEpZS0lZRGxxOEZzQU11YXc?oc=5",
+      "date": "Sat, 26 Sep 2026 15:01:00 GMT",
+      "source": "디지털투데이",
+      "score": 2
+    },
     {
       "title": "리플(XRP) 1.60달러 넘을까…클래리티법 부결 뒤 SEC 움직임에 시선",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1JMGNGLWY5ZHJxMUoxUFJoRDZrOTg2WER6MmN1dlJLWlpnSm1GRmhUVmRMN21VOHFfbnlfT3pUbF9qSXFEd2JUcG5n?oc=5",
@@ -142,24 +149,17 @@
       "score": 2
     },
     {
+      "title": "리플(XRP) 1.60달러에 ‘본전 매물’ 쌓였다…상승세 가로막는 8월 매수자들",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4tMGo1UHlqaDJvUGRDR2ZJaWtsUmYwVlJWbWxVdFdBZnhmTTVJTWZHNGtPeUtzZm1EZFdlUlg1NVVQYjhWYnFoUWR3?oc=5",
+      "date": "Sat, 26 Sep 2026 01:06:00 GMT",
+      "source": "코인리더스",
+      "score": 3
+    },
+    {
       "title": "리플XRP·수이·에테나 거래 집중…비트코인 약세 속 알트 강세",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8yRXUwQVc1R1hWbGY1V2tVQmlqaVZsbjB6ajBzYUZrLUE4WFV3T0Jjc01aQ1BCVWpGeVhDdlA1d0gwa09WT2ZkMkE0NXZyZ2pTSTgtaFBWeERRaHBwd29jRy1ycWN3Y0NDSGtYQmNLZDdrUQ?oc=5",
       "date": "Fri, 25 Sep 2026 22:47:30 GMT",
       "source": "톱스타뉴스",
-      "score": 2
-    },
-    {
-      "title": "리플 CEO \"나도 솔라나 보유…XRP 맥시멀리스트 아니다\"",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBVQU9xZFg2Nm4yb1pEU19ET0pSU2lXTTRzRUZ5SUFsWmxtSDNpLUpSbzNnYzlueGUyS1RnQ1gwOVRIek9rSUxTa2o3T0JGRlVSSUdrZkxmTkg?oc=5",
-      "date": "Fri, 25 Sep 2026 14:27:50 GMT",
-      "source": "블록미디어",
-      "score": 2
-    },
-    {
-      "title": "\"美 연준이 선택할 차세대 결제망 코인?\"…XRP·XLM·HBAR 급부상",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOazVhS1VaT0kzbmkyYVZuRE1qazNhUWVLbDdiMXBSTlFYT0dYbzMzYWNhWGJwX2JxMnpCN2FTMlM1YXJaN25EaUdPMjNBZ2xtSHJCU1BBX3MyVTJuSWJmSU5XYXR1ZzN5VjFoUlRpV1ZfeUpmbXZ6U0g1LTV6bkhqR0dNU3Z0U0x6?oc=5",
-      "date": "Fri, 25 Sep 2026 07:31:28 GMT",
-      "source": "글로벌이코노믹",
       "score": 2
     }
   ]
