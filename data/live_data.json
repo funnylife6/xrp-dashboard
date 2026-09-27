@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-09-27T18:35:05",
+  "generated_at": "2026-09-27T21:45:38",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.54,
-    "price_krw": 2079.5,
-    "price_change_24h": 0.07271,
-    "price_change_7d": 9.5099,
-    "price_change_30d": 10.596,
-    "market_cap_usd": 96556935491,
+    "price_usd": 1.52,
+    "price_krw": 2059.27,
+    "price_change_24h": -0.26892,
+    "price_change_7d": 8.12248,
+    "price_change_30d": 10.1456,
+    "market_cap_usd": 95580548405,
     "market_cap_rank": 5,
-    "volume_24h": 2663226210,
+    "volume_24h": 2498507942,
     "circulating_supply": 62879209849.0,
     "total_supply": 99985622230.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 73.81,
-    "sentiment_votes_down": 26.19,
+    "sentiment_votes_up": 74.44,
+    "sentiment_votes_down": 25.56,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 42.14,
-    "recent_tps": 42.14,
-    "recent_tx_count": 3793,
+    "tps_24h_avg": 45.94,
+    "recent_tps": 45.94,
+    "recent_tx_count": 4135,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 107276042,
+    "ledger_seq": 107278984,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-09-27 18:34:54 KST",
+    "updated_at": "2026-09-27 21:45:32 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 18390000,
     "total_net_inflow_usd": 18390000,
     "total_value_traded_usd": 18390000,
-    "updated_at": "SoSoValue 순유입 부분 수집 09/27 18:35",
+    "updated_at": "SoSoValue 순유입 부분 수집 09/27 21:45",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -80,7 +80,7 @@
       "title": "美 비트코인 현물 ETF, 주간 24억달러 순유입…지난해 10월 이후 최대",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBEU1E1R0wycFhfSTlUNjg0Y0FYMmY4MWpEMXNYMmRfelBnc2hSbW1GSjRtaVlDdmxqZHhMUWhGY21NZzRZdFh4OTBMV2hfSk0t?oc=5",
       "date": "Sun, 27 Sep 2026 00:22:57 GMT",
-      "source": "블루밍비트",
+      "source": "bloomingbit.io",
       "score": 0
     },
     {
@@ -92,6 +92,13 @@
     }
   ],
   "general_news": [
+    {
+      "title": "XRP 레저 초창기 이끈 암호학자, 공식 복귀 선언...슈워츠도 대환영",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9na2RvSURMV0hZWHV3eVQ5RUo5NzlkY1RLTG9kTWdSNXg0cTU4d1daSHlvajBidTBpeFpuZ0Z5OC1ZMVU0UnZSVnpB?oc=5",
+      "date": "Sun, 27 Sep 2026 21:30:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
     {
       "title": "판테라 CEO “리플이 스위프트 향해간다”…정작 XRP 정산 비중은 비공개",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJVmZjMmpXVmV2b2JZRmxiU0tGc2dKU3Rpc3A1MmswMnlRN1JZNkpOOUtKdnBETUViWk5xTTJTMHdSeUZGX3I1NXJRYndPTVJGWXBDaVNR?oc=5",
@@ -121,13 +128,6 @@
       "score": 9
     },
     {
-      "title": "리플은 성장하는데 XRP는 추락?…2031년 1달러 아래 전망 나온 이유",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5mTER1bFJLMmp1Sk1nM0o4V1ZrZU8zZU5jYWk2c0lQZWFvX0oyZlhsbEREOVhFVlppVVlmRVFyNmpDMFBhakZWUzl3?oc=5",
-      "date": "Sun, 27 Sep 2026 00:35:00 GMT",
-      "source": "코인리더스",
-      "score": 3
-    },
-    {
       "title": "리플(XRP) 10달러 도달, 생각보다 가까울 수 있다…이유는",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBhMlR3TXRfTm9CTjFTZ2tYS0tQQzRCbmNlbEtTU0NqUGRHdXNTeTNYRXZBTVNPQlJrZ3E0eHF0X1ZVRUd2THZUY3R3?oc=5",
       "date": "Sun, 27 Sep 2026 00:25:00 GMT",
@@ -153,7 +153,7 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE43N29rWmdtOU9meXZfY3NUTkR2Z25Jck5PaFJyVzlybTlHeFFfSzBEcDZQSTh6WGJWaDFMV3E2RU9IU05MZFZhc083Tlgtdm5nLTgzWkZfMnZrWWM5YzNjaVJDUEpZS0lZRGxxOEZzQU11YXc?oc=5",
       "date": "Sat, 26 Sep 2026 15:01:00 GMT",
       "source": "디지털투데이",
-      "score": 3
+      "score": 2
     },
     {
       "title": "리플(XRP) 1.60달러 넘을까…클래리티법 부결 뒤 SEC 움직임에 시선",
