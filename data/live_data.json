@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-09-29T12:00:10",
+  "generated_at": "2026-09-29T17:54:34",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.52,
-    "price_krw": 2056.98,
-    "price_change_24h": 1.74467,
-    "price_change_7d": -0.86283,
-    "price_change_30d": 9.26914,
-    "market_cap_usd": 95457083555,
+    "price_usd": 1.48,
+    "price_krw": 2006.33,
+    "price_change_24h": -1.72141,
+    "price_change_7d": -5.3326,
+    "price_change_30d": 4.07382,
+    "market_cap_usd": 93003322481,
     "market_cap_rank": 5,
-    "volume_24h": 3618478452,
+    "volume_24h": 3992202393,
     "circulating_supply": 62879209849.0,
     "total_supply": 99985622230.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 79.25,
-    "sentiment_votes_down": 20.75,
+    "sentiment_votes_up": 84.68,
+    "sentiment_votes_down": 15.32,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 42.3,
-    "recent_tps": 42.3,
-    "recent_tx_count": 3469,
+    "tps_24h_avg": 33.72,
+    "recent_tps": 33.72,
+    "recent_tx_count": 3035,
     "recent_ledger_count": 24,
-    "recent_window_sec": 82,
-    "ledger_seq": 107314395,
+    "recent_window_sec": 90,
+    "ledger_seq": 107319862,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-09-29 11:59:58 KST",
+    "updated_at": "2026-09-29 17:54:27 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -47,6 +47,13 @@
     "data_source": "news_parse"
   },
   "etf_news": [
+    {
+      "title": "비트코인·이더리움·XRP 동반 반등…ETF 자금 줄어도 상승세 이어질까",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5vTVVKOTJGU1k2SkwwZnV2QXAyWjhOTmctUWU1aEk4ZzlwdWJCSFBEMTV6dlVJdnN4dG5ObGsxUExWTll6VEk3V0R3?oc=5",
+      "date": "Tue, 29 Sep 2026 11:59:00 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
     {
       "title": "리플(XRP), 1.60달러 터치 후 1.50달러 지지 시험… 美 현물 ETF엔 하루 2265만 달러 순유입",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1MdkFNd3FQRjk2UFlhamh6WTA4OE96cy1sN1o1TFRfT0xleEhoX09kbDhtYzhwRzVwZ1NVQnpvdG9KTHVkRHREa2RNQ2Zja3p1VWRBOUtkQ3FXdUNBdFJkYjY1MW5wSmVMOHpMWVpwbjM?oc=5",
@@ -81,28 +88,28 @@
       "date": "Mon, 28 Sep 2026 13:04:00 GMT",
       "source": "코인리더스",
       "score": 0
-    },
-    {
-      "title": "리플(XRP), 한 달 새 60% 급등…'상승 동력'은?",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uUk9MMklNMHJ5V2Rja255X3c1MW1XZ0plcU1LMHRsRmFqVjNuSjQ4emY3RzhLRkpoN1hpekJXVTdRQVFrTHJzTDVRc0htdTR5SExfUzJIMG9kY3dfeDJqcVVLazNPYjZk?oc=5",
-      "date": "Mon, 28 Sep 2026 07:19:48 GMT",
-      "source": "CBC뉴스",
-      "score": 0
     }
   ],
   "general_news": [
     {
-      "title": "리플(XRP)·스텔라(XLM) 상승세 꺾이나…선물시장 ‘매도 우위’에 과열 경고까지",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFB0SlFoOFJ3T21BZlFCb2EwSEJPUW5mR3E4MkhsSmtHdXhocDZEZTVLU0FmaUowZ1V2dzcxUE1iRnhWdzIy?oc=5",
-      "date": "Tue, 29 Sep 2026 07:00:00 GMT",
+      "title": "리플(XRP) 1.50달러 되찾았다…거래소 물량 줄자 1.70달러 다시 노리나?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBsU2RWckRGWWEycXYwRjdocVd3N0NuQWRyM1ZuUW1faGdvVlVRUWpMNFVUUGF6RUtYWE9yZWlSOXBZQm9fMGhuZ0dR?oc=5",
+      "date": "Tue, 29 Sep 2026 13:17:00 GMT",
       "source": "코인리더스",
       "score": 2
     },
     {
-      "title": "XRP, 1.80달러 뚫고 2달러 쏘나?...1.62달러 찍고 1.48달러 숨고르기",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc2xzTHZIR3BuOWZlQU4wSWx6RWdXQ0JvZkF3YTFUa0N2S2dkM3cwSnFRcm1XVl9MQ3ByT0tGSFMyU01qb093dDg5ZndlN2xPNmhvam8wcFFjMXlaLTF1QllXQVBnRmFEVzBKVTJxNDFaa0lfZzk5QlJIZlpRM2xkeEVsMW5aQ1hr?oc=5",
-      "date": "Tue, 29 Sep 2026 05:53:46 GMT",
-      "source": "글로벌이코노믹",
+      "title": "리플·카르다노·솔라나 동반 반등…다음 저항선 뚫고 추가 상승할까",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8yVUc2R0Q5REdTM29OTm4wdkc3emhzMXBKN1lfa1pjdWNyWVQ3TE15OUxuSkpYWjh6Ti1SN0h4QUJ4MzJ0NzhMRnlR?oc=5",
+      "date": "Tue, 29 Sep 2026 12:02:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
+      "title": "리플, 155조 달러 결제 시장 정조준...스위프트 밀어낼까?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9xeUZNV0sySGRpOTYyXy1BTWZkX1pBeTRfLWlwMEFjM1k2VE50OHE4WkttRFM0TlhQNEthanJRa1FQS0JHdVBpS2x3?oc=5",
+      "date": "Tue, 29 Sep 2026 11:20:00 GMT",
+      "source": "코인리더스",
       "score": 2
     },
     {
@@ -152,13 +159,6 @@
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oTHpIZWMwaG9jRnB4amlZWThSajljd3VGd1hSQVRhS1I4MmdYYXN4Y2hFX2hyZS1HMEtHNkRqSzl4YkpkTEdEallVQWg5NUllRVdEaURzVHF1TTQ?oc=5",
       "date": "Mon, 28 Sep 2026 19:44:31 GMT",
       "source": "tokenpost.kr",
-      "score": 2
-    },
-    {
-      "title": "리플 RLUSD 유통량 24억9100만달러 최고치…PYUSD와 격차 2억달러대로 좁혀졌다",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zNjQzY0laQTNCRWpET1NDakNGYW9BOUFnUlEtZ1BPeE1JRWtUMnBnTDc5Ynh1RGJQcV9paGQzMTZGZHIyMkp4SDRLY214aGFPR1duRkd3?oc=5",
-      "date": "Mon, 28 Sep 2026 15:47:00 GMT",
-      "source": "위키트리",
       "score": 2
     }
   ]
