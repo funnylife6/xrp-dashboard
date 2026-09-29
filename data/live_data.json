@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-09-29T17:54:34",
+  "generated_at": "2026-09-29T21:42:44",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.48,
-    "price_krw": 2006.33,
-    "price_change_24h": -1.72141,
-    "price_change_7d": -5.3326,
-    "price_change_30d": 4.07382,
-    "market_cap_usd": 93003322481,
+    "price_usd": 1.49,
+    "price_krw": 2019.1,
+    "price_change_24h": 0.23402,
+    "price_change_7d": -5.02736,
+    "price_change_30d": 6.937,
+    "market_cap_usd": 93839792774,
     "market_cap_rank": 5,
-    "volume_24h": 3992202393,
+    "volume_24h": 3792025384,
     "circulating_supply": 62879209849.0,
     "total_supply": 99985622230.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 84.68,
-    "sentiment_votes_down": 15.32,
+    "sentiment_votes_up": 83.96,
+    "sentiment_votes_down": 16.04,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 33.72,
-    "recent_tps": 33.72,
-    "recent_tx_count": 3035,
+    "tps_24h_avg": 36.69,
+    "recent_tps": 36.69,
+    "recent_tx_count": 3302,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 107319862,
+    "ledger_seq": 107323384,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-09-29 17:54:27 KST",
+    "updated_at": "2026-09-29 21:42:31 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -47,6 +47,13 @@
     "data_source": "news_parse"
   },
   "etf_news": [
+    {
+      "title": "암호화폐 ETF, 33억 달러 폭등 뒤 숨고르기...\"유입액 80% 줄었는데 빨간불 없다\"",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5oNnR5ZV9wWG5WOTJKTXQzcmxTVEk0RFJDcV9KZWhTZGdjU2xMellfeXZqaGw2a1JILWNYVzNES29jOC1UZ1RtRnZ3?oc=5",
+      "date": "Tue, 29 Sep 2026 21:00:00 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
     {
       "title": "비트코인·이더리움·XRP 동반 반등…ETF 자금 줄어도 상승세 이어질까",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5vTVVKOTJGU1k2SkwwZnV2QXAyWjhOTmctUWU1aEk4ZzlwdWJCSFBEMTV6dlVJdnN4dG5ObGsxUExWTll6VEk3V0R3?oc=5",
@@ -69,15 +76,8 @@
       "score": 0
     },
     {
-      "title": "리플(XRP) 1.51달러로 하락…10억 XRP 언락 앞두고 1.4335달러 지킬까",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1rbE0xRWlCV0ZWYzEydXFBTU1WYkZ3UmlVcUdIWnB0YnRmQUxaYUNGekdTN0M2eC1yTUtKRmprOVluYXZveTJoU2Jn?oc=5",
-      "date": "Mon, 28 Sep 2026 22:37:00 GMT",
-      "source": "코인리더스",
-      "score": 0
-    },
-    {
       "title": "“리플 1.50달러 버티나…XRP ETF 2265만달러 유입”",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qZ0JXaDI0cVN4clFFVVRYX3J1Z2pqYVBUZmpYYjFPSEtoU2pjUG5FZlpNb2VPSXBmeG51UGVXR1ZSZjh0MTVVYnhvMzlzWDhJZ3J4dTNpeVRUYWd2ZUZKUEVhSmp6dWFR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0eFhuTDFTZTIyR1BVUFZQeUFyd1ZaRC1RSFRvUi1KeWY3aUI3c2lfbDU0c1RpU3hYZ1NGNk1PaG1JWmRWRFpxVkZoZThKRjNfdEtmR1ZrODNyaV9YeExZRWdYU2YwdTg?oc=5",
       "date": "Mon, 28 Sep 2026 22:10:00 GMT",
       "source": "CBC뉴스",
       "score": 0
@@ -92,13 +92,6 @@
   ],
   "general_news": [
     {
-      "title": "리플(XRP) 1.50달러 되찾았다…거래소 물량 줄자 1.70달러 다시 노리나?",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBsU2RWckRGWWEycXYwRjdocVd3N0NuQWRyM1ZuUW1faGdvVlVRUWpMNFVUUGF6RUtYWE9yZWlSOXBZQm9fMGhuZ0dR?oc=5",
-      "date": "Tue, 29 Sep 2026 13:17:00 GMT",
-      "source": "코인리더스",
-      "score": 2
-    },
-    {
       "title": "리플·카르다노·솔라나 동반 반등…다음 저항선 뚫고 추가 상승할까",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8yVUc2R0Q5REdTM29OTm4wdkc3emhzMXBKN1lfa1pjdWNyWVQ3TE15OUxuSkpYWjh6Ti1SN0h4QUJ4MzJ0NzhMRnlR?oc=5",
       "date": "Tue, 29 Sep 2026 12:02:00 GMT",
@@ -109,6 +102,20 @@
       "title": "리플, 155조 달러 결제 시장 정조준...스위프트 밀어낼까?",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9xeUZNV0sySGRpOTYyXy1BTWZkX1pBeTRfLWlwMEFjM1k2VE50OHE4WkttRFM0TlhQNEthanJRa1FQS0JHdVBpS2x3?oc=5",
       "date": "Tue, 29 Sep 2026 11:20:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
+      "title": "체인링크(LINK) 100달러·XRP 10달러 초강세 시나리오 등장...\"기관 채택이 핵심\"",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAxWE1VaTI1LV9ETktDM3N4MS01Z0VmTVV1dXRPcXpfME10REJiWGdRQThWV3RLMDhCb1kyZTVWSDF2SVRiV1gyQlV3?oc=5",
+      "date": "Tue, 29 Sep 2026 07:35:00 GMT",
+      "source": "코인리더스",
+      "score": 3
+    },
+    {
+      "title": "리플(XRP)·스텔라(XLM) 상승세 꺾이나…선물시장 ‘매도 우위’에 과열 경고까지",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFB0SlFoOFJ3T21BZlFCb2EwSEJPUW5mR3E4MkhsSmtHdXhocDZEZTVLU0FmaUowZ1V2dzcxUE1iRnhWdzIy?oc=5",
+      "date": "Tue, 29 Sep 2026 07:00:00 GMT",
       "source": "코인리더스",
       "score": 2
     },
@@ -134,13 +141,6 @@
       "score": 3
     },
     {
-      "title": "리플(XRP) 1.51달러로 하락…10억 XRP 언락 앞두고 1.4335달러 지킬까",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1rbE0xRWlCV0ZWYzEydXFBTU1WYkZ3UmlVcUdIWnB0YnRmQUxaYUNGekdTN0M2eC1yTUtKRmprOVluYXZveTJoU2Jn?oc=5",
-      "date": "Mon, 28 Sep 2026 22:37:00 GMT",
-      "source": "코인리더스",
-      "score": 3
-    },
-    {
       "title": "美 SEC, 가상자산 분류 최신 FAQ 공개…XRP 디지털 상품 입지 굳혔다",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZmZJRDk3VmQwU0Q5Y3lfUlRFMDR6TDFZeXZOcUplNkxReE9EeVQ2VU0tc2dZMkxFZW5LbWlsX21zNGFpN05ya25UakJKTFNpTXJrbW9pamhWSUYtbTVXYThrRUlMZXZ6M1Bxa01qT0xXZDBtVkVsaWJzWDFlS1VON3JWMi0yazkw?oc=5",
       "date": "Mon, 28 Sep 2026 22:34:37 GMT",
@@ -149,7 +149,7 @@
     },
     {
       "title": "“리플 1.50달러 버티나…XRP ETF 2265만달러 유입”",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qZ0JXaDI0cVN4clFFVVRYX3J1Z2pqYVBUZmpYYjFPSEtoU2pjUG5FZlpNb2VPSXBmeG51UGVXR1ZSZjh0MTVVYnhvMzlzWDhJZ3J4dTNpeVRUYWd2ZUZKUEVhSmp6dWFR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0eFhuTDFTZTIyR1BVUFZQeUFyd1ZaRC1RSFRvUi1KeWY3aUI3c2lfbDU0c1RpU3hYZ1NGNk1PaG1JWmRWRFpxVkZoZThKRjNfdEtmR1ZrODNyaV9YeExZRWdYU2YwdTg?oc=5",
       "date": "Mon, 28 Sep 2026 22:10:00 GMT",
       "source": "CBC뉴스",
       "score": 3
@@ -158,8 +158,8 @@
       "title": "XRP 1240만개 탈취…디센트 지갑 7000개 피해",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oTHpIZWMwaG9jRnB4amlZWThSajljd3VGd1hSQVRhS1I4MmdYYXN4Y2hFX2hyZS1HMEtHNkRqSzl4YkpkTEdEallVQWg5NUllRVdEaURzVHF1TTQ?oc=5",
       "date": "Mon, 28 Sep 2026 19:44:31 GMT",
-      "source": "tokenpost.kr",
-      "score": 2
+      "source": "토큰포스트",
+      "score": 9
     }
   ]
 }
