@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-09-30T00:56:16",
+  "generated_at": "2026-09-30T06:13:52",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.49,
-    "price_krw": 2022.17,
-    "price_change_24h": -0.06333,
-    "price_change_7d": -5.18613,
-    "price_change_30d": 9.71229,
-    "market_cap_usd": 93964790873,
+    "price_usd": 1.5,
+    "price_krw": 2032.43,
+    "price_change_24h": -0.07008,
+    "price_change_7d": -6.68009,
+    "price_change_30d": 10.05281,
+    "market_cap_usd": 94706052625,
     "market_cap_rank": 5,
-    "volume_24h": 3970268015,
+    "volume_24h": 3749969589,
     "circulating_supply": 63092975951.0,
     "total_supply": 99985612577.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 85.96,
-    "sentiment_votes_down": 14.04,
+    "sentiment_votes_up": 83.76,
+    "sentiment_votes_down": 16.24,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 64.24,
-    "recent_tps": 64.24,
-    "recent_tx_count": 5782,
+    "tps_24h_avg": 19.58,
+    "recent_tps": 19.58,
+    "recent_tx_count": 1762,
     "recent_ledger_count": 23,
     "recent_window_sec": 90,
-    "ledger_seq": 107326373,
+    "ledger_seq": 107331295,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-09-30 00:56:02 KST",
+    "updated_at": "2026-09-30 06:13:45 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -48,6 +48,13 @@
   },
   "etf_news": [
     {
+      "title": "XRP 3개월 연속 반등…ETF 기대에 추가 상승 시동",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1iNjVtSm1kVzNaZTFjaUlmZGQ3NldnVjk4QTRHR2FBX2NnaXJoRW04d1h6TlRYRlI1MkE5VTNjZXN2U3kzbHhJa3FYLTJneXUxTnFJQ2x2N0lMdDJMTnEyTVFyWjVZYlE0X3FrMlc5MGdBY3M?oc=5",
+      "date": "Wed, 30 Sep 2026 02:15:08 GMT",
+      "source": "디지털투데이",
+      "score": 0
+    },
+    {
       "title": "솔라나 ETF, XRP보다 자금 더 몰렸다…일간 순유입 3배",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tUlhHNDl4WjBlaUc5RzNsaDFZNFpFWHptYkRrSTk4YllKYWNIMWFvTGxtR0pKOW1PTVJtb01GY1BoOXoyZGVkS3dSZDI5N2tuSUtEekJfSjBKTm81VXMtdVlxNjVjX1ZBR1Z2RWVoOFNnVVU?oc=5",
       "date": "Wed, 30 Sep 2026 00:20:05 GMT",
@@ -56,7 +63,7 @@
     },
     {
       "title": "리플(XRP) ETF 10주째 사들이는데 가격은 제자리…370억개 에스크로가 발목 잡나",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5tYlhrX1ZwVEM5c0p2VVl4ZmM5czRUaUZlQVlXUkg1NVQ3Vm1TQWFWVG51N2lMd0swRlk2aHpPaGZIdWpWVHFkVQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBubmRmQU5MaUhySkhWbS1rTWVPcGNiQ1BLWEhDT3JsY2I1dlc2T3NZWjZ2eXJYd3pwZUhURDNmVmRTdUxwNjRBRFhR?oc=5",
       "date": "Tue, 29 Sep 2026 22:35:00 GMT",
       "source": "코인리더스",
       "score": 0
@@ -81,19 +88,19 @@
       "date": "Mon, 28 Sep 2026 23:35:27 GMT",
       "source": "블록체인투데이",
       "score": 0
-    },
-    {
-      "title": "리플(XRP) ETF 11주 연속 돈 들어왔다! 10월 1일 최대 10억개 해제가 승부처",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5EcGpoM0E2OXRxRnNHTUU4T0ItU0FLT01kcGVReFN6T1lhMERoMmt2a0FXWjBRRHpMd1FTaGNTekVMajQ0YWNXWEt3?oc=5",
-      "date": "Mon, 28 Sep 2026 22:45:00 GMT",
-      "source": "코인리더스",
-      "score": 0
     }
   ],
   "general_news": [
     {
+      "title": "리플, 브라질 22조 헤알 자산 시스템에 XRP 레저 적용",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vMVd6NEhOTDQwOWhtaGxmeGpGS0tVbGw2bHAtM3Z3MFBtYUQ3MDFpVzduQUtqNUhMRmIzazhzSlRKTXpNdzNrVnB3TkVzWlpNRFdBaWlON3M?oc=5",
+      "date": "Wed, 30 Sep 2026 02:20:16 GMT",
+      "source": "토큰포스트",
+      "score": 9
+    },
+    {
       "title": "리플(XRP) ETF 10주째 사들이는데 가격은 제자리…370억개 에스크로가 발목 잡나",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5tYlhrX1ZwVEM5c0p2VVl4ZmM5czRUaUZlQVlXUkg1NVQ3Vm1TQWFWVG51N2lMd0swRlk2aHpPaGZIdWpWVHFkVQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBubmRmQU5MaUhySkhWbS1rTWVPcGNiQ1BLWEhDT3JsY2I1dlc2T3NZWjZ2eXJYd3pwZUhURDNmVmRTdUxwNjRBRFhR?oc=5",
       "date": "Tue, 29 Sep 2026 22:35:00 GMT",
       "source": "코인리더스",
       "score": 3
@@ -113,17 +120,10 @@
       "score": 2
     },
     {
-      "title": "리플(XRP)·스텔라(XLM) 상승세 꺾이나…선물시장 ‘매도 우위’에 과열 경고까지",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFB0SlFoOFJ3T21BZlFCb2EwSEJPUW5mR3E4MkhsSmtHdXhocDZEZTVLU0FmaUowZ1V2dzcxUE1iRnhWdzIy?oc=5",
-      "date": "Tue, 29 Sep 2026 07:00:00 GMT",
-      "source": "코인리더스",
-      "score": 2
-    },
-    {
       "title": "XRP, 1.80달러 뚫고 2달러 쏘나?...1.62달러 찍고 1.48달러 숨고르기",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc2xzTHZIR3BuOWZlQU4wSWx6RWdXQ0JvZkF3YTFUa0N2S2dkM3cwSnFRcm1XVl9MQ3ByT0tGSFMyU01qb093dDg5ZndlN2xPNmhvam8wcFFjMXlaLTF1QllXQVBnRmFEVzBKVTJxNDFaa0lfZzk5QlJIZlpRM2xkeEVsMW5aQ1hr?oc=5",
       "date": "Tue, 29 Sep 2026 05:53:46 GMT",
-      "source": "g-enews.com",
+      "source": "글로벌이코노믹",
       "score": 2
     },
     {
@@ -148,18 +148,18 @@
       "score": 3
     },
     {
-      "title": "“리플 1.50달러 버티나…XRP ETF 2265만달러 유입”",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qZ0JXaDI0cVN4clFFVVRYX3J1Z2pqYVBUZmpYYjFPSEtoU2pjUG5FZlpNb2VPSXBmeG51UGVXR1ZSZjh0MTVVYnhvMzlzWDhJZ3J4dTNpeVRUYWd2ZUZKUEVhSmp6dWFR?oc=5",
-      "date": "Mon, 28 Sep 2026 22:10:00 GMT",
-      "source": "CBC뉴스",
+      "title": "美 SEC, 가상자산 분류 최신 FAQ 공개…XRP 디지털 상품 입지 굳혔다",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZmZJRDk3VmQwU0Q5Y3lfUlRFMDR6TDFZeXZOcUplNkxReE9EeVQ2VU0tc2dZMkxFZW5LbWlsX21zNGFpN05ya25UakJKTFNpTXJrbW9pamhWSUYtbTVXYThrRUlMZXZ6M1Bxa01qT0xXZDBtVkVsaWJzWDFlS1VON3JWMi0yazkw?oc=5",
+      "date": "Mon, 28 Sep 2026 22:34:37 GMT",
+      "source": "글로벌이코노믹",
       "score": 3
     },
     {
-      "title": "XRP 1240만개 탈취…디센트 지갑 7000개 피해",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oTHpIZWMwaG9jRnB4amlZWThSajljd3VGd1hSQVRhS1I4MmdYYXN4Y2hFX2hyZS1HMEtHNkRqSzl4YkpkTEdEallVQWg5NUllRVdEaURzVHF1TTQ?oc=5",
-      "date": "Mon, 28 Sep 2026 19:44:31 GMT",
-      "source": "토큰포스트",
-      "score": 9
+      "title": "“리플 1.50달러 버티나…XRP ETF 2265만달러 유입”",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0eFhuTDFTZTIyR1BVUFZQeUFyd1ZaRC1RSFRvUi1KeWY3aUI3c2lfbDU0c1RpU3hYZ1NGNk1PaG1JWmRWRFpxVkZoZThKRjNfdEtmR1ZrODNyaV9YeExZRWdYU2YwdTg?oc=5",
+      "date": "Mon, 28 Sep 2026 22:10:00 GMT",
+      "source": "CBC뉴스",
+      "score": 3
     }
   ]
 }
