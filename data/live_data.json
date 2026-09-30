@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-09-30T06:13:52",
+  "generated_at": "2026-09-30T12:51:29",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.5,
-    "price_krw": 2032.43,
-    "price_change_24h": -0.07008,
-    "price_change_7d": -6.68009,
-    "price_change_30d": 10.05281,
-    "market_cap_usd": 94706052625,
+    "price_usd": 1.54,
+    "price_krw": 2078.26,
+    "price_change_24h": -0.82507,
+    "price_change_7d": -2.30192,
+    "price_change_30d": 12.11672,
+    "market_cap_usd": 96892232770,
     "market_cap_rank": 5,
-    "volume_24h": 3749969589,
+    "volume_24h": 3716915427,
     "circulating_supply": 63092975951.0,
     "total_supply": 99985612577.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 83.76,
-    "sentiment_votes_down": 16.24,
+    "sentiment_votes_up": 83.67,
+    "sentiment_votes_down": 16.33,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 19.58,
-    "recent_tps": 19.58,
-    "recent_tx_count": 1762,
-    "recent_ledger_count": 23,
+    "tps_24h_avg": 25.27,
+    "recent_tps": 25.27,
+    "recent_tx_count": 2274,
+    "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 107331295,
+    "ledger_seq": 107337460,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-09-30 06:13:45 KST",
+    "updated_at": "2026-09-30 12:51:22 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -91,6 +91,13 @@
     }
   ],
   "general_news": [
+    {
+      "title": "리플(XRP) 10월 상승 전망 나왔다! AI가 제시한 목표가는 1.66~1.68달러",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0tSUg2aWVaUjdjR3BzQjhjdU5IT2xCd1MxUkVNMW9uT1REUUczclZZd2gwaWZ3TG03aFBfdDBjUUFtMFgzbzVMd2VB?oc=5",
+      "date": "Wed, 30 Sep 2026 11:38:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
     {
       "title": "리플, 브라질 22조 헤알 자산 시스템에 XRP 레저 적용",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vMVd6NEhOTDQwOWhtaGxmeGpGS0tVbGw2bHAtM3Z3MFBtYUQ3MDFpVzduQUtqNUhMRmIzazhzSlRKTXpNdzNrVnB3TkVzWlpNRFdBaWlON3M?oc=5",
@@ -152,13 +159,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZmZJRDk3VmQwU0Q5Y3lfUlRFMDR6TDFZeXZOcUplNkxReE9EeVQ2VU0tc2dZMkxFZW5LbWlsX21zNGFpN05ya25UakJKTFNpTXJrbW9pamhWSUYtbTVXYThrRUlMZXZ6M1Bxa01qT0xXZDBtVkVsaWJzWDFlS1VON3JWMi0yazkw?oc=5",
       "date": "Mon, 28 Sep 2026 22:34:37 GMT",
       "source": "글로벌이코노믹",
-      "score": 3
-    },
-    {
-      "title": "“리플 1.50달러 버티나…XRP ETF 2265만달러 유입”",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0eFhuTDFTZTIyR1BVUFZQeUFyd1ZaRC1RSFRvUi1KeWY3aUI3c2lfbDU0c1RpU3hYZ1NGNk1PaG1JWmRWRFpxVkZoZThKRjNfdEtmR1ZrODNyaV9YeExZRWdYU2YwdTg?oc=5",
-      "date": "Mon, 28 Sep 2026 22:10:00 GMT",
-      "source": "CBC뉴스",
       "score": 3
     }
   ]
