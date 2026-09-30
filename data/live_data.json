@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-09-30T12:51:29",
+  "generated_at": "2026-09-30T18:13:26",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.54,
-    "price_krw": 2078.26,
-    "price_change_24h": -0.82507,
-    "price_change_7d": -2.30192,
-    "price_change_30d": 12.11672,
-    "market_cap_usd": 96892232770,
+    "price_usd": 1.5,
+    "price_krw": 2030.25,
+    "price_change_24h": 0.65754,
+    "price_change_7d": -0.32903,
+    "price_change_30d": 8.17262,
+    "market_cap_usd": 94504479846,
     "market_cap_rank": 5,
-    "volume_24h": 3716915427,
+    "volume_24h": 3004007137,
     "circulating_supply": 63092975951.0,
     "total_supply": 99985612577.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 83.67,
-    "sentiment_votes_down": 16.33,
+    "sentiment_votes_up": 88.75,
+    "sentiment_votes_down": 11.25,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 25.27,
-    "recent_tps": 25.27,
-    "recent_tx_count": 2274,
+    "tps_24h_avg": 32.88,
+    "recent_tps": 32.88,
+    "recent_tx_count": 2926,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 107337460,
+    "recent_window_sec": 89,
+    "ledger_seq": 107342432,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-09-30 12:51:22 KST",
+    "updated_at": "2026-09-30 18:13:18 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -48,17 +48,31 @@
   },
   "etf_news": [
     {
+      "title": "클래리티법 무산에도 '비트코인' 굳건…ETF에 한 달 새 4조원",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwWDg2X193bnZHLU9RUGxjUm1pTVlueGNXMUlrRl92aUs3ajdPRzk5anhmb0hRSGZQZ093WjFscFVsanZ0UXIwZFU2c3p4ZTgzSjAwNkJxUngxVy16VHV0N9IBeEFVX3lxTE1hTUFic0MwTjhLOWVQQ0VtaWVhc2dpNkozRGp1Qkh3a0hnenlybnRuS0dGNDlobWlJU0c2ZnoyVjYwM0ZMQWtrQ1VRdjdJRE5MNDlFajlUbGRSUzU3emNMSXh1cllhempBZXRhQXBfV1dOelNiajFiLQ?oc=5",
+      "date": "Wed, 30 Sep 2026 15:00:00 GMT",
+      "source": "뉴시스",
+      "score": 0
+    },
+    {
+      "title": "XRP ETF 9월 1억2140만 달러 유입에도 순자산 16억9000만 달러로 줄었다",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UMGJqQkYwNlFCekNoZVQ2RUhkRWtVTjBTNVhXelVSVkNZNUJITnpZalJPRzlrQzRMU3B0X0U0TUpFUDZ5d3REN1NHaUhhZjlMcUt0c09R?oc=5",
+      "date": "Wed, 30 Sep 2026 14:05:00 GMT",
+      "source": "위키트리",
+      "score": 0
+    },
+    {
       "title": "XRP 3개월 연속 반등…ETF 기대에 추가 상승 시동",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1iNjVtSm1kVzNaZTFjaUlmZGQ3NldnVjk4QTRHR2FBX2NnaXJoRW04d1h6TlRYRlI1MkE5VTNjZXN2U3kzbHhJa3FYLTJneXUxTnFJQ2x2N0lMdDJMTnEyTVFyWjVZYlE0X3FrMlc5MGdBY3M?oc=5",
       "date": "Wed, 30 Sep 2026 02:15:08 GMT",
-      "source": "디지털투데이",
+      "source": "digitaltoday.co.kr",
       "score": 0
     },
     {
       "title": "솔라나 ETF, XRP보다 자금 더 몰렸다…일간 순유입 3배",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tUlhHNDl4WjBlaUc5RzNsaDFZNFpFWHptYkRrSTk4YllKYWNIMWFvTGxtR0pKOW1PTVJtb01GY1BoOXoyZGVkS3dSZDI5N2tuSUtEekJfSjBKTm81VXMtdVlxNjVjX1ZBR1Z2RWVoOFNnVVU?oc=5",
       "date": "Wed, 30 Sep 2026 00:20:05 GMT",
-      "source": "디지털투데이",
+      "source": "digitaltoday.co.kr",
       "score": 0
     },
     {
@@ -74,27 +88,27 @@
       "date": "Tue, 29 Sep 2026 22:27:00 GMT",
       "source": "코인리더스",
       "score": 0
-    },
-    {
-      "title": "비트와이즈, XRP ETF 투자 설명서 갱신...누적 순유입 '4억 달러' 돌파",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5HNE5KUmZPS0xna2xyZXQwTm9LMXVyY3h2Y1FYdXlscnVlLUF2VllQRExUU0tZX0tjNWpUSml1STNpZ1gwNXV0dkNB?oc=5",
-      "date": "Tue, 29 Sep 2026 22:20:00 GMT",
-      "source": "코인리더스",
-      "score": 0
-    },
-    {
-      "title": "리플(XRP), 1.60달러 터치 후 1.50달러 지지 시험… 美 현물 ETF엔 하루 2265만 달러 순유입",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1MdkFNd3FQRjk2UFlhamh6WTA4OE96cy1sN1o1TFRfT0xleEhoX09kbDhtYzhwRzVwZ1NVQnpvdG9KTHVkRHREa2RNQ2Zja3p1VWRBOUtkQ3FXdUNBdFJkYjY1MW5wSmVMOHpMWVpwbjM?oc=5",
-      "date": "Mon, 28 Sep 2026 23:35:27 GMT",
-      "source": "블록체인투데이",
-      "score": 0
     }
   ],
   "general_news": [
     {
-      "title": "리플(XRP) 10월 상승 전망 나왔다! AI가 제시한 목표가는 1.66~1.68달러",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0tSUg2aWVaUjdjR3BzQjhjdU5IT2xCd1MxUkVNMW9uT1REUUczclZZd2gwaWZ3TG03aFBfdDBjUUFtMFgzbzVMd2VB?oc=5",
-      "date": "Wed, 30 Sep 2026 11:38:00 GMT",
+      "title": "2026년 10월 XRP 가격 전망",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE40ZUNLN2hfZ1pmZDRnZHNGV0ZWYl90Z2FkaGVmRnNVdTZMUFRaZFlEY1RRRGhZd1VXaGtrRG1ZZGZPUkRPeVhmdjA3WlliVzdWYW1hLWF4TGFRcVNhclZINmdSdVRTeWRC?oc=5",
+      "date": "Wed, 30 Sep 2026 14:21:47 GMT",
+      "source": "BeInCrypto",
+      "score": 2
+    },
+    {
+      "title": "상위 1% 진입에 ‘4.4만XRP’ 필요… XRPL 계정 819만개 돌파",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BTFRwMjE5RGdCdTZhT3hiUUZRcE91VFNla2szSEhSVy1NanlDaG14YXdyU3NaYzFZZTI4eEExSDhrc0lHWGZwdHdCS18wOWNmNFkteTUtQkQ?oc=5",
+      "date": "Wed, 30 Sep 2026 13:48:39 GMT",
+      "source": "블록미디어",
+      "score": 2
+    },
+    {
+      "title": "리플(XRP) 3달러 회복 가능할까…“연말 반등은 비트코인·금리 향방에 달렸다”",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5yTEN6TTZESjNVY0ZNODhoSGxpQXpjeDZDWHJDT3hCaHFYX3FUb2dXZjdGSk5tX05JUldzT3NncEE0SFI4NmM5NWVB?oc=5",
+      "date": "Wed, 30 Sep 2026 11:42:00 GMT",
       "source": "코인리더스",
       "score": 2
     },
@@ -127,11 +141,11 @@
       "score": 2
     },
     {
-      "title": "XRP, 1.80달러 뚫고 2달러 쏘나?...1.62달러 찍고 1.48달러 숨고르기",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc2xzTHZIR3BuOWZlQU4wSWx6RWdXQ0JvZkF3YTFUa0N2S2dkM3cwSnFRcm1XVl9MQ3ByT0tGSFMyU01qb093dDg5ZndlN2xPNmhvam8wcFFjMXlaLTF1QllXQVBnRmFEVzBKVTJxNDFaa0lfZzk5QlJIZlpRM2xkeEVsMW5aQ1hr?oc=5",
-      "date": "Tue, 29 Sep 2026 05:53:46 GMT",
-      "source": "글로벌이코노믹",
-      "score": 2
+      "title": "속보 | 아서 헤이즈 \"ETH, 연말까지 $1만 간다\"",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9VSjlRYngwZWs3NXI1U3ZOMzY0ZThLcGRqNEFiM3JQaWR6eXNtamlSZVlheHE2WV8wMG4wOTUzUWY4cl90TWpkMXVtNXB5VDky?oc=5",
+      "date": "Tue, 29 Sep 2026 12:47:00 GMT",
+      "source": "CoinNess",
+      "score": 8
     },
     {
       "title": "데이터볼트AI·소일·파이어라이트도 'XRP서울 2026' 연사로",
@@ -146,20 +160,6 @@
       "date": "Mon, 28 Sep 2026 23:35:27 GMT",
       "source": "블록체인투데이",
       "score": 4
-    },
-    {
-      "title": "리플(XRP) ETF 11주 연속 돈 들어왔다! 10월 1일 최대 10억개 해제가 승부처",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5EcGpoM0E2OXRxRnNHTUU4T0ItU0FLT01kcGVReFN6T1lhMERoMmt2a0FXWjBRRHpMd1FTaGNTekVMajQ0YWNXWEt3?oc=5",
-      "date": "Mon, 28 Sep 2026 22:45:00 GMT",
-      "source": "코인리더스",
-      "score": 3
-    },
-    {
-      "title": "美 SEC, 가상자산 분류 최신 FAQ 공개…XRP 디지털 상품 입지 굳혔다",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZmZJRDk3VmQwU0Q5Y3lfUlRFMDR6TDFZeXZOcUplNkxReE9EeVQ2VU0tc2dZMkxFZW5LbWlsX21zNGFpN05ya25UakJKTFNpTXJrbW9pamhWSUYtbTVXYThrRUlMZXZ6M1Bxa01qT0xXZDBtVkVsaWJzWDFlS1VON3JWMi0yazkw?oc=5",
-      "date": "Mon, 28 Sep 2026 22:34:37 GMT",
-      "source": "글로벌이코노믹",
-      "score": 3
     }
   ]
 }
