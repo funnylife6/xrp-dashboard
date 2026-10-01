@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-10-01T01:24:11",
+  "generated_at": "2026-10-01T07:24:27",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.49,
-    "price_krw": 2032.76,
-    "price_change_24h": -0.1473,
-    "price_change_7d": -0.47935,
-    "price_change_30d": 7.95012,
-    "market_cap_usd": 94286899506,
+    "price_usd": 1.5,
+    "price_krw": 2036.7,
+    "price_change_24h": -0.17541,
+    "price_change_7d": -0.40255,
+    "price_change_30d": 8.12443,
+    "market_cap_usd": 94443494701,
     "market_cap_rank": 5,
-    "volume_24h": 2933164029,
+    "volume_24h": 2920662921,
     "circulating_supply": 63092975951.0,
     "total_supply": 99985612577.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 87.67,
-    "sentiment_votes_down": 12.33,
+    "sentiment_votes_up": 89.04,
+    "sentiment_votes_down": 10.96,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 29.94,
-    "recent_tps": 29.94,
-    "recent_tx_count": 2665,
-    "recent_ledger_count": 24,
+    "tps_24h_avg": 18.54,
+    "recent_tps": 18.54,
+    "recent_tx_count": 1650,
+    "recent_ledger_count": 23,
     "recent_window_sec": 89,
-    "ledger_seq": 107349089,
+    "ledger_seq": 107354679,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-10-01 01:24:03 KST",
+    "updated_at": "2026-10-01 07:24:20 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -47,6 +47,13 @@
     "data_source": "news_parse"
   },
   "etf_news": [
+    {
+      "title": "XRP, 약세 10월 앞두고 3가지 강세 신호",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5oRktiaGkxdHRpMzdRd2lEU0Z0Wk1aeW55WjRuSmxNMkkyNjhheFJzeHJyczlwVTVTMTJxb211SkRPQnl2SldZdVhjaHQxU01WMy0tQ2NFOGxKUmhXX1U0Rk5oV3d5c25QZ3BoWWJrU1FrWlNj?oc=5",
+      "date": "Thu, 01 Oct 2026 03:46:15 GMT",
+      "source": "BeInCrypto",
+      "score": 0
+    },
     {
       "title": "리플(XRP) 3개월 만에 45% 급등…현물 ETF 3억달러 유입이 불붙였나?",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE52VFVZMXEyaW43Vnk1VGpGSE9TYks0M3JZOW41UnlPUjktOVA0eHFOaW1TS1Z1QlBrZXJORmFHNGJwTURPTFh5eDFn?oc=5",
@@ -76,13 +83,6 @@
       "score": 0
     },
     {
-      "title": "XRP ETF 9월 1억2140만 달러 유입에도 순자산 16억9000만 달러로 줄었다",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UMGJqQkYwNlFCekNoZVQ2RUhkRWtVTjBTNVhXelVSVkNZNUJITnpZalJPRzlrQzRMU3B0X0U0TUpFUDZ5d3REN1NHaUhhZjlMcUt0c09R?oc=5",
-      "date": "Wed, 30 Sep 2026 14:05:00 GMT",
-      "source": "위키트리",
-      "score": 0
-    },
-    {
       "title": "XRP 3개월 연속 반등…ETF 기대에 추가 상승 시동",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1iNjVtSm1kVzNaZTFjaUlmZGQ3NldnVjk4QTRHR2FBX2NnaXJoRW04d1h6TlRYRlI1MkE5VTNjZXN2U3kzbHhJa3FYLTJneXUxTnFJQ2x2N0lMdDJMTnEyTVFyWjVZYlE0X3FrMlc5MGdBY3M?oc=5",
       "date": "Wed, 30 Sep 2026 02:15:08 GMT",
@@ -92,10 +92,24 @@
   ],
   "general_news": [
     {
+      "title": "리플 스웰 2026, 1500명 모여 XRP ETF 논의",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE80SHhsSWZ5cnVCWVJSOElRZkY2UVF0OWQxUkNGVGR4bklMeVJZN0lpeGNYejJBWTJ6RVpEVEpfSWZMaDFWSjJrZWZmcnJ3dHlnemFpZkxFNnRVa3Jqd0ZZaw?oc=5",
+      "date": "Thu, 01 Oct 2026 04:29:32 GMT",
+      "source": "토큰포스트",
+      "score": 10
+    },
+    {
       "title": "리플 RLUSD 시총 25억달러 돌파…스테이블코인 시장 공략 속도",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ESWNEcXA5d1JMSGc4R1ZJMHhVemNwc01LTnctVUQ4ajBtXzZjT2xLQ3VtMXpNcV9YRmJjeHhkRjRxeTdsQ1IwLVh1UFJWSjlPNHIxdVNPbmtjUElJUmg2ZFR5T0d3aDRGUGwwcWdYUm4tWEk?oc=5",
       "date": "Thu, 01 Oct 2026 00:23:05 GMT",
       "source": "디지털투데이",
+      "score": 2
+    },
+    {
+      "title": "리플 시가총액 비트코인 대비 6% 육박… 그레이스케일 통화형 위성자산 독보적 1위",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uRUQwMm04SW1EN3lUaGo2cFhrN1ZYTWVseHE0R1JSbFVwT1ZKM0pTZWM5aDlENnFicEM0ZXZRaTRHY3lnWEV1SDV1VnN3d1VxWTlwNkJjTy13YkVlTDBtX3pkU1RQLW9DTjVVazdvWEc?oc=5",
+      "date": "Wed, 30 Sep 2026 23:36:49 GMT",
+      "source": "블록체인투데이",
       "score": 2
     },
     {
@@ -120,13 +134,6 @@
       "score": 2
     },
     {
-      "title": "2026년 10월 XRP 가격 전망",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE40ZUNLN2hfZ1pmZDRnZHNGV0ZWYl90Z2FkaGVmRnNVdTZMUFRaZFlEY1RRRGhZd1VXaGtrRG1ZZGZPUkRPeVhmdjA3WlliVzdWYW1hLWF4TGFRcVNhclZINmdSdVRTeWRC?oc=5",
-      "date": "Wed, 30 Sep 2026 14:42:08 GMT",
-      "source": "BeInCrypto",
-      "score": 2
-    },
-    {
       "title": "리플(XRP) 10월 상승 전망 나왔다! AI가 제시한 목표가는 1.66~1.68달러",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0tSUg2aWVaUjdjR3BzQjhjdU5IT2xCd1MxUkVNMW9uT1REUUczclZZd2gwaWZ3TG03aFBfdDBjUUFtMFgzbzVMd2VB?oc=5",
       "date": "Wed, 30 Sep 2026 11:38:00 GMT",
@@ -139,13 +146,6 @@
       "date": "Wed, 30 Sep 2026 07:10:00 GMT",
       "source": "Investing.com 한국어",
       "score": 2
-    },
-    {
-      "title": "리플, 브라질 22조 헤알 자산 시스템에 XRP 레저 적용",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vMVd6NEhOTDQwOWhtaGxmeGpGS0tVbGw2bHAtM3Z3MFBtYUQ3MDFpVzduQUtqNUhMRmIzazhzSlRKTXpNdzNrVnB3TkVzWlpNRFdBaWlON3M?oc=5",
-      "date": "Wed, 30 Sep 2026 02:20:16 GMT",
-      "source": "토큰포스트",
-      "score": 9
     },
     {
       "title": "리플(XRP) ETF 10주째 사들이는데 가격은 제자리…370억개 에스크로가 발목 잡나",
