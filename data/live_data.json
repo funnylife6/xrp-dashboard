@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-10-01T07:24:27",
+  "generated_at": "2026-10-01T14:39:02",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.5,
-    "price_krw": 2036.7,
-    "price_change_24h": -0.17541,
-    "price_change_7d": -0.40255,
-    "price_change_30d": 8.12443,
-    "market_cap_usd": 94443494701,
+    "price_usd": 1.49,
+    "price_krw": 2021.12,
+    "price_change_24h": -0.55167,
+    "price_change_7d": -0.99779,
+    "price_change_30d": 8.05416,
+    "market_cap_usd": 93749501970,
     "market_cap_rank": 5,
-    "volume_24h": 2920662921,
+    "volume_24h": 2466409847,
     "circulating_supply": 63092975951.0,
     "total_supply": 99985612577.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 89.04,
-    "sentiment_votes_down": 10.96,
+    "sentiment_votes_up": 76.4,
+    "sentiment_votes_down": 23.6,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 18.54,
-    "recent_tps": 18.54,
-    "recent_tx_count": 1650,
-    "recent_ledger_count": 23,
-    "recent_window_sec": 89,
-    "ledger_seq": 107354679,
+    "tps_24h_avg": 34.04,
+    "recent_tps": 34.04,
+    "recent_tx_count": 3064,
+    "recent_ledger_count": 24,
+    "recent_window_sec": 90,
+    "ledger_seq": 107361487,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-10-01 07:24:20 KST",
+    "updated_at": "2026-10-01 14:38:50 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -47,6 +47,13 @@
     "data_source": "news_parse"
   },
   "etf_news": [
+    {
+      "title": "리플 가격 전망…XRP 1.50달러 아래서 추가 하락 위험 커져",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA3YjFPcVZxVEJOV2U5N2l3aDg5LWM3Rnp5OGlVYTdHY2w2dVBrRHZ4elRwTHNENGtDQUZCV2cyaXdyaFhfZTYyczRR?oc=5",
+      "date": "Thu, 01 Oct 2026 13:01:00 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
     {
       "title": "XRP, 약세 10월 앞두고 3가지 강세 신호",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5oRktiaGkxdHRpMzdRd2lEU0Z0Wk1aeW55WjRuSmxNMkkyNjhheFJzeHJyczlwVTVTMTJxb211SkRPQnl2SldZdVhjaHQxU01WMy0tQ2NFOGxKUmhXX1U0Rk5oV3d5c25QZ3BoWWJrU1FrWlNj?oc=5",
@@ -79,18 +86,39 @@
       "title": "클래리티법 무산에도 '비트코인' 굳건…ETF에 한 달 새 4조원",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwWDg2X193bnZHLU9RUGxjUm1pTVlueGNXMUlrRl92aUs3ajdPRzk5anhmb0hRSGZQZ093WjFscFVsanZ0UXIwZFU2c3p4ZTgzSjAwNkJxUngxVy16VHV0N9IBeEFVX3lxTE1hTUFic0MwTjhLOWVQQ0VtaWVhc2dpNkozRGp1Qkh3a0hnenlybnRuS0dGNDlobWlJU0c2ZnoyVjYwM0ZMQWtrQ1VRdjdJRE5MNDlFajlUbGRSUzU3emNMSXh1cllhempBZXRhQXBfV1dOelNiajFiLQ?oc=5",
       "date": "Wed, 30 Sep 2026 15:00:00 GMT",
-      "source": "뉴시스",
-      "score": 0
-    },
-    {
-      "title": "XRP 3개월 연속 반등…ETF 기대에 추가 상승 시동",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1iNjVtSm1kVzNaZTFjaUlmZGQ3NldnVjk4QTRHR2FBX2NnaXJoRW04d1h6TlRYRlI1MkE5VTNjZXN2U3kzbHhJa3FYLTJneXUxTnFJQ2x2N0lMdDJMTnEyTVFyWjVZYlE0X3FrMlc5MGdBY3M?oc=5",
-      "date": "Wed, 30 Sep 2026 02:15:08 GMT",
-      "source": "디지털투데이",
+      "source": "newsis.com",
       "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "리플 가격 전망…XRP 1.50달러 아래서 추가 하락 위험 커져",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA3YjFPcVZxVEJOV2U5N2l3aDg5LWM3Rnp5OGlVYTdHY2w2dVBrRHZ4elRwTHNENGtDQUZCV2cyaXdyaFhfZTYyczRR?oc=5",
+      "date": "Thu, 01 Oct 2026 13:01:00 GMT",
+      "source": "코인리더스",
+      "score": 3
+    },
+    {
+      "title": "XRP 4730만개 나스닥 이동 예정…이미 손실?",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5WY2F1NXBKck1jcXM4d0xqdVNER1l1UUM1c1M0Vm50MHZjRVV6dFlOaHhuSlZtaWpvYmF1REJrbGZ5Q0NmZTFzZGVibHNKQ0JvVkdwVUVGQkFUZndHMkxIRW5GTU5wekFPbC1qTGEydHlHbWc?oc=5",
+      "date": "Thu, 01 Oct 2026 12:55:25 GMT",
+      "source": "BeInCrypto",
+      "score": 2
+    },
+    {
+      "title": "에버노스, 스팩 합병으로 나스닥行…최대 XRP 트레저리 상장사",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTGlLV3hHMmZwdDRuSFhwRkhwOTZLQ2c5VnJBUlVXZjNGN19BdTdYMWJuOVhpcmlNX0ltak5WVmM2Q2UyOU5jMS0tOHhDd3ktbXRPUEFwS0N0aE05UFpiX0lEZmxZVGtkTXVITFVQcDZjOHNNeXNoTzJJcE1LMkJfRQ?oc=5",
+      "date": "Thu, 01 Oct 2026 12:00:03 GMT",
+      "source": "edaily.co.kr",
+      "score": 2
+    },
+    {
+      "title": "XRP 레저 소각률 848% 급증…실사용 확대 신호는 '아직'",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTcHMtZUtPZ0h2WlFsWDVvcHVvcWxYVVN3WHJSU1Jac3lKV205a3J4VFhnZUJKRjZmbG03Q1g2dEYxU05vazhzWEJQeU05OTh5SDNHWUJ4cnFfNHhyZEJkMnlsRWlmUUFEa3FIbHV2NDZKTmc?oc=5",
+      "date": "Thu, 01 Oct 2026 06:07:00 GMT",
+      "source": "디지털투데이",
+      "score": 2
+    },
     {
       "title": "리플 스웰 2026, 1500명 모여 XRP ETF 논의",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE80SHhsSWZ5cnVCWVJSOElRZkY2UVF0OWQxUkNGVGR4bklMeVJZN0lpeGNYejJBWTJ6RVpEVEpfSWZMaDFWSjJrZWZmcnJ3dHlnemFpZkxFNnRVa3Jqd0ZZaw?oc=5",
@@ -132,34 +160,6 @@
       "date": "Wed, 30 Sep 2026 22:13:59 GMT",
       "source": "TopStarNews",
       "score": 2
-    },
-    {
-      "title": "리플(XRP) 10월 상승 전망 나왔다! AI가 제시한 목표가는 1.66~1.68달러",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0tSUg2aWVaUjdjR3BzQjhjdU5IT2xCd1MxUkVNMW9uT1REUUczclZZd2gwaWZ3TG03aFBfdDBjUUFtMFgzbzVMd2VB?oc=5",
-      "date": "Wed, 30 Sep 2026 11:38:00 GMT",
-      "source": "코인리더스",
-      "score": 2
-    },
-    {
-      "title": "XRP: 4조 달러 금융 거인, XRP 레저 전격 도입",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Sem1weW9tZ1V2THFFLWVjd3dQTk5mcFhYNHdBSzNoejZBeXh5RE03eVhZczBqcHdwbEptbDhtZ0Z3ZDB2YjVKZEFxdUFnZEUtNUlPTlNVSjh3WkhaWmIwTm1DMXUtMnJmaHcxOS1ETkg2RkU?oc=5",
-      "date": "Wed, 30 Sep 2026 07:10:00 GMT",
-      "source": "Investing.com 한국어",
-      "score": 2
-    },
-    {
-      "title": "리플(XRP) ETF 10주째 사들이는데 가격은 제자리…370억개 에스크로가 발목 잡나",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBubmRmQU5MaUhySkhWbS1rTWVPcGNiQ1BLWEhDT3JsY2I1dlc2T3NZWjZ2eXJYd3pwZUhURDNmVmRTdUxwNjRBRFhR?oc=5",
-      "date": "Tue, 29 Sep 2026 22:35:00 GMT",
-      "source": "코인리더스",
-      "score": 3
-    },
-    {
-      "title": "속보 | BTC $85,000 상회",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA4dV9VUWRwLURzU09nUkxtZnZaX091eXlzLTFvaDhGZmhqNG40bk4yTnh0SmU5TVlRZlozTk1ub2J5Z2p5SDVZaWo1OEE3MWVt?oc=5",
-      "date": "Tue, 29 Sep 2026 20:40:00 GMT",
-      "source": "CoinNess",
-      "score": 8
     }
   ]
 }
