@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-10-03T10:53:11",
+  "generated_at": "2026-10-03T15:00:44",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.48,
-    "price_krw": 1993.41,
-    "price_change_24h": -3.66628,
-    "price_change_7d": -3.67455,
-    "price_change_30d": 9.03578,
-    "market_cap_usd": 93642620022,
+    "price_usd": 1.49,
+    "price_krw": 2000.42,
+    "price_change_24h": -1.55085,
+    "price_change_7d": -3.32003,
+    "price_change_30d": 7.04235,
+    "market_cap_usd": 93964625328,
     "market_cap_rank": 5,
-    "volume_24h": 2865244143,
+    "volume_24h": 2270045273,
     "circulating_supply": 63092975951.0,
     "total_supply": 99985612577.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 72.09,
-    "sentiment_votes_down": 27.91,
+    "sentiment_votes_up": 74.32,
+    "sentiment_votes_down": 25.68,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 12.21,
-    "recent_tps": 12.21,
-    "recent_tx_count": 1001,
+    "tps_24h_avg": 20.14,
+    "recent_tps": 20.14,
+    "recent_tx_count": 1813,
     "recent_ledger_count": 24,
-    "recent_window_sec": 82,
-    "ledger_seq": 107402651,
+    "recent_window_sec": 90,
+    "ledger_seq": 107406523,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-10-03 10:52:59 KST",
+    "updated_at": "2026-10-03 15:00:32 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 3280000,
     "total_net_inflow_usd": 3280000,
     "total_value_traded_usd": 3280000,
-    "updated_at": "SoSoValue 순유입 부분 수집 10/03 10:53",
+    "updated_at": "SoSoValue 순유입 부분 수집 10/03 15:00",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -93,6 +93,13 @@
   ],
   "general_news": [
     {
+      "title": "수이·헤데라는 뛰는데 왜?…리플(XRP), 1.48달러로 밀려난 진짜 배경은",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9UanZFV2ZPZlMxRVZzNXlIeTVlUDVyVEtwSU80c2U0dXBDWXZuUlFKeXZPSDd0YWl3SkRienh1NHBpNlZhZEhVQnR3?oc=5",
+      "date": "Sat, 03 Oct 2026 10:49:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
       "title": "XRP Asia 서울 행사 세션에 회장·리플 관계자 참석",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNMlFCamZYUUtmVGJnWDRLeDZ6M3hEM3ljY3JVSU5zZU5tQlNhMlZYUDdWVllhSnd0Y1NyYzVRQ0tPWGhRZ2h6bTlBcHNXMmhvQlZSWWowUjlTcF9fVlMweg?oc=5",
       "date": "Sat, 03 Oct 2026 05:37:57 GMT",
@@ -100,9 +107,9 @@
       "score": 9
     },
     {
-      "title": "'세계 최대 리플 축제' XRP서울 2026, 구름 인파 몰렸다[포토]",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc3BjSWk5eE9LbXFLeFYwd011anE4RmdQVkk4cXVkcXp3LWF4YTFpeGZHcHNBVXMtZXlId2NlQlBJWUxXdjdFbG5RbGNiVlVTc3NuWHB3YmhjdE5GekZjbnB6UEZtNTBTZHUwbG9hQk5ST1dpZEg4c3ZCZkprX0p4OA?oc=5",
-      "date": "Sat, 03 Oct 2026 03:16:20 GMT",
+      "title": "결제, 대출, 그리고 XRP…모니카 롱 대표가 밝힌 리플의 청사진",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNEJBYjNvd2Fmb3BaVmRSLVlqNnJrcjJydVlrWTdiUmR5RUttRFE0X0V2ZFNIZW9EbmdUaWRNZm0wNzhVYy1QRlRRY3o2YUsyNHpvY25ma3ByVW1kWFkwTzAzaTFMdjMtcGFJcDlyU3ZaZkFzRlFYdTNCaXFKeTB2bA?oc=5",
+      "date": "Sat, 03 Oct 2026 05:11:02 GMT",
       "source": "edaily.co.kr",
       "score": 2
     },
@@ -118,13 +125,6 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ON0xnd2pyMEh0Q0hwME5ZTmVCMEZBY2w1bzJ0N29JV0syTzZvY3lHQ05mM01IWDBQbW1XTENab1ZnMC1UbVhrel9McVk4Ri10cDJNQ0JPZU1qNkhoanZWSm1xVkQwWVFLbGxuSWFvelg1dw?oc=5",
       "date": "Fri, 02 Oct 2026 22:24:04 GMT",
       "source": "TopStarNews",
-      "score": 2
-    },
-    {
-      "title": "오늘의 가상자산: 비트코인·이더리움·리플 상승세로 강세 전망 강화",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA5b3MzZjhPRGk4bDh3dmNOZDFQWG1rbUtuaUJyT3BxcUtiNGdSRDdiTlVKM3NEMVFYck91TkNIT0lPVzRIVXc5ajN3?oc=5",
-      "date": "Fri, 02 Oct 2026 12:19:00 GMT",
-      "source": "코인리더스",
       "score": 2
     },
     {
