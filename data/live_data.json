@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-10-04T12:40:01",
+  "generated_at": "2026-10-04T17:13:11",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.5,
-    "price_krw": 2016.42,
-    "price_change_24h": 1.08622,
-    "price_change_7d": -2.44359,
-    "price_change_30d": 3.46798,
-    "market_cap_usd": 94697203089,
+    "price_krw": 2019.32,
+    "price_change_24h": 0.65685,
+    "price_change_7d": -0.99118,
+    "price_change_30d": 7.12682,
+    "market_cap_usd": 94839095183,
     "market_cap_rank": 5,
-    "volume_24h": 1016396379,
+    "volume_24h": 997307584,
     "circulating_supply": 63092975951.0,
     "total_supply": 99985612577.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 82.02,
-    "sentiment_votes_down": 17.98,
+    "sentiment_votes_up": 80.9,
+    "sentiment_votes_down": 19.1,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 12.91,
-    "recent_tps": 12.91,
-    "recent_tx_count": 1149,
+    "tps_24h_avg": 15.42,
+    "recent_tps": 15.42,
+    "recent_tx_count": 1388,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 107427046,
+    "recent_window_sec": 90,
+    "ledger_seq": 107431326,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-10-04 12:39:53 KST",
+    "updated_at": "2026-10-04 17:13:03 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,16 +43,23 @@
     "aum_usd": 3280000,
     "total_net_inflow_usd": 3280000,
     "total_value_traded_usd": 3280000,
-    "updated_at": "SoSoValue 순유입 부분 수집 10/04 12:40",
+    "updated_at": "SoSoValue 순유입 부분 수집 10/04 17:13",
     "data_source": "sosovalue",
     "partial": true
   },
   "etf_news": [
     {
+      "title": "\"리플(XRP) 2달러 넘는다!\" AI가 제시한 10월 강세 시나리오",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBWQUZxem1BcEg4ckl1T2ZJNjdzekEzLXB1VDBDbzRLdWpmcm5HVTZOX1pFRk5GcTZYeFRNOHNaQUxzS2pYb0liaVF3?oc=5",
+      "date": "Sun, 04 Oct 2026 11:05:00 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
+    {
       "title": "리플 스웰 2026, BNY·ICE·로빈후드 임원 연사 출격…토큰화·스테이블코인 논한다",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nM0RMX1NiOUhGOVQ2WTdGUzhJTFV1MDV6QU1XeHRyeXZlNi02SFhZWGdPMTlKcjhJeWdwREtVLUhNTnoxX3c0TTZsZlBwcENYMVExbXhR?oc=5",
       "date": "Sat, 03 Oct 2026 19:00:00 GMT",
-      "source": "위키트리",
+      "source": "wikitree.co.kr",
       "score": 0
     },
     {
@@ -82,22 +89,22 @@
       "date": "Wed, 30 Sep 2026 22:13:59 GMT",
       "source": "TopStarNews",
       "score": 0
-    },
-    {
-      "title": "클래리티법 무산에도 '비트코인' 굳건…ETF에 한 달 새 4조원",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwWDg2X193bnZHLU9RUGxjUm1pTVlueGNXMUlrRl92aUs3ajdPRzk5anhmb0hRSGZQZ093WjFscFVsanZ0UXIwZFU2c3p4ZTgzSjAwNkJxUngxVy16VHV0N9IBeEFVX3lxTE1hTUFic0MwTjhLOWVQQ0VtaWVhc2dpNkozRGp1Qkh3a0hnenlybnRuS0dGNDlobWlJU0c2ZnoyVjYwM0ZMQWtrQ1VRdjdJRE5MNDlFajlUbGRSUzU3emNMSXh1cllhempBZXRhQXBfV1dOelNiajFiLQ?oc=5",
-      "date": "Wed, 30 Sep 2026 15:00:00 GMT",
-      "source": "뉴시스",
-      "score": 0
     }
   ],
   "general_news": [
     {
-      "title": "XRP Asia 서울 행사 세션에 회장·리플 관계자 참석",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNMlFCamZYUUtmVGJnWDRLeDZ6M3hEM3ljY3JVSU5zZU5tQlNhMlZYUDdWVllhSnd0Y1NyYzVRQ0tPWGhRZ2h6bTlBcHNXMmhvQlZSWWowUjlTcF9fVlMweg?oc=5",
-      "date": "Sun, 04 Oct 2026 11:27:48 GMT",
+      "title": "XRP 레저, 최대 8개 거래 묶는 Batch 10월 9일 목표",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wRFB1TlRwNDhkdlRVSmM1TFY5dzk3d3JCZ09IS04tbnRMdk90Y0ltYXFxaGYta241VVFsX1N1cHBYRWpON3VCQWp5UTBoQlBvVkZ4cEpEM2V2VFU?oc=5",
+      "date": "Sun, 04 Oct 2026 15:01:42 GMT",
       "source": "토큰포스트",
       "score": 9
+    },
+    {
+      "title": "\"리플(XRP) 2달러 넘는다!\" AI가 제시한 10월 강세 시나리오",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBWQUZxem1BcEg4ckl1T2ZJNjdzekEzLXB1VDBDbzRLdWpmcm5HVTZOX1pFRk5GcTZYeFRNOHNaQUxzS2pYb0liaVF3?oc=5",
+      "date": "Sun, 04 Oct 2026 11:05:00 GMT",
+      "source": "코인리더스",
+      "score": 2
     },
     {
       "title": "'최대 XRP DAT' 에버노스 “XRP 굴려 운용수익 낸다, 규제 열리면 韓 진출”",
@@ -131,7 +138,7 @@
       "title": "리플 스웰 2026, BNY·ICE·로빈후드 임원 연사 출격…토큰화·스테이블코인 논한다",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nM0RMX1NiOUhGOVQ2WTdGUzhJTFV1MDV6QU1XeHRyeXZlNi02SFhZWGdPMTlKcjhJeWdwREtVLUhNTnoxX3c0TTZsZlBwcENYMVExbXhR?oc=5",
       "date": "Sat, 03 Oct 2026 19:00:00 GMT",
-      "source": "위키트리",
+      "source": "wikitree.co.kr",
       "score": 3
     },
     {
@@ -142,23 +149,16 @@
       "score": 9
     },
     {
-      "title": "속보 | 톰 리 \"암호화폐 매집 상장사, 가격 상승 견인 가능\"",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBldWVoUkhGbzI5UHJnMWpsSmtSaGVqek9oNVFaMjJsV2NnaVZLN3lMOWFjd19tbS1HUy1SbE85Z2VZZ2RJMVVZSVZrY3FNUEtR?oc=5",
-      "date": "Fri, 02 Oct 2026 08:08:00 GMT",
+      "title": "속보 | 디파이라마 “558개 블록체인 중 399개, 24시간 수수료 수익 0원”",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uUG5xUlJYR3NvZ3pwSjJyMmw2dS1WU2plNDFCbVB4STUxUzlnOVFzYmtCbUZvcW1CdU1ESlhudjZvbTR6c1pPZG95b2ZPWnh0?oc=5",
+      "date": "Fri, 02 Oct 2026 22:27:00 GMT",
       "source": "CoinNess",
       "score": 8
     },
     {
-      "title": "이더리움, RLUSD 보유량에서 XRP 레저 앞서… 온체인 13억7,000만 달러 돌파",
-      "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNdno0NExOckNQcWxmdERGTmxrMGphbV82UFI4ZndqRHlIemdaVlFsWjNJYVZ1bFc0N0dLNndORFUzdmRsUkxXUUpkTHZpbGV5SDgxWmRxVkM1TkNjVVFpY0M4T01GcFZ2UFJ5d09LRDRoeXJieFJYblJsVFkwUTJPVGNMU0tjTHNCbWcxaEx5eHo1aENLRFRrVmpWUnd1YVRELVFLdzRUWVl4Y0FrbGRGY2JyczE1RkRNX2plTElkdEJ4a3Z4TDZ0QVdlVnhEM29ldkdFUGp5b082Z2RMRnhfOXR3SERMaFRWVVRaWWh4bHBBSFRIRDhhR19uMmlpR054dXNjWHMxMURaUWZpNHR0UDNkZjFFUmplRjR3TEFwM1FTbDFhMV80Y0xoZVA0UlU5bXF2S3B2dmVzUFAybHp0TmFuQlJPQVpjdVdWWjZvcXo3RGl2Q0ttZURtOHdOZDVZZmp1ZXRkMVFCcTdISFljSWtTSQ?oc=5",
-      "date": "Thu, 01 Oct 2026 19:00:02 GMT",
-      "source": "Yellow.com",
-      "score": 2
-    },
-    {
-      "title": "속보 | 오늘 $26.3억 상당 BTC 옵션 만기",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1veTMxa3BwcEF4MVAtRmdZbGpnSElHV3RlVVVhWTZieGg2UkhSdE04d1ZFUUtCVkpfYk04T3dTdEdITVpUR1h5NXN5TzV6eTFl?oc=5",
-      "date": "Thu, 01 Oct 2026 08:00:00 GMT",
+      "title": "속보 | 톰 리 \"암호화폐 매집 상장사, 가격 상승 견인 가능\"",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBldWVoUkhGbzI5UHJnMWpsSmtSaGVqek9oNVFaMjJsV2NnaVZLN3lMOWFjd19tbS1HUy1SbE85Z2VZZ2RJMVVZSVZrY3FNUEtR?oc=5",
+      "date": "Fri, 02 Oct 2026 08:08:00 GMT",
       "source": "CoinNess",
       "score": 8
     }
