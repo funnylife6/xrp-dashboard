@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-10-08T09:14:41",
+  "generated_at": "2026-10-08T16:42:03",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.41,
-    "price_krw": 1899.07,
-    "price_change_24h": -3.2261,
-    "price_change_7d": -5.06931,
-    "price_change_30d": 1.65531,
-    "market_cap_usd": 89137308098,
+    "price_usd": 1.36,
+    "price_krw": 1820.5,
+    "price_change_24h": -5.38876,
+    "price_change_7d": -8.77857,
+    "price_change_30d": -5.35641,
+    "market_cap_usd": 85482972485,
     "market_cap_rank": 5,
-    "volume_24h": 2384947033,
+    "volume_24h": 2940151266,
     "circulating_supply": 63092975951.0,
     "total_supply": 99985612577.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 63.0,
-    "sentiment_votes_down": 37.0,
+    "sentiment_votes_up": 61.22,
+    "sentiment_votes_down": 38.78,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 14.86,
-    "recent_tps": 14.86,
-    "recent_tx_count": 1337,
+    "tps_24h_avg": 19.28,
+    "recent_tps": 19.28,
+    "recent_tx_count": 1735,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 107513489,
+    "ledger_seq": 107520410,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-10-08 09:14:34 KST",
+    "updated_at": "2026-10-08 16:41:52 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -47,6 +47,13 @@
     "data_source": "news_parse"
   },
   "etf_news": [
+    {
+      "title": "XRP 리플, 월가 레버리지 ETF 금융 시장 진출…사업 영역 확대",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JcG9vdjl0TWowZk5QbG9HSkJkLWhUQ1JUOWVTZVBobGo3SFA1dTZJOGIwejhpM0RLRjhFT2NKMDI2S2VRXzdqbXNuUDJWTzd2cmh3Ulg0RmpBTVN2NEhVS3RxWTliSFBY?oc=5",
+      "date": "Thu, 08 Oct 2026 09:22:59 GMT",
+      "source": "CBC뉴스",
+      "score": 0
+    },
     {
       "title": "월가로 발 넓히는 리플…美 레버리지 ETF 자금 공급 나선다",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE93bC1DRW43SXF0MEdndXJrRERuRFMzN0RtOER4bVFZbnYyOUYwLVFBdVFMaXR6d1pGV2JxdVFZSWw5Mkk1R3VDb3h6UFBzRWUw?oc=5",
@@ -81,16 +88,44 @@
       "date": "Wed, 07 Oct 2026 11:11:52 GMT",
       "source": "시사캐스트",
       "score": 0
-    },
-    {
-      "title": "리플코인 XRP 호재는 산더미처럼 더 쌓였습니다",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQWtjc3BaUlFBNHRVdE5vdFNuM1lpcVlyWURoaHk4eVFuZjRWM2gzNEVhdWFUenctbml5OEVLZ3FKQV9weXRpb3BtY1lDbENPNFZIMTV2RHBaaEpqYkJfWEdYWHBlY09OZG9qbkFfbG4xbjBxNDZidjZJSDdTdG9aMWhWRm1kbmhNN28tOQ?oc=5",
-      "date": "Wed, 07 Oct 2026 10:37:00 GMT",
-      "source": "네이버 프리미엄콘텐츠",
-      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "RLUSD 시가총액 20억 달러 돌파… 한달 새 공급 30%↑, USDT는 0.4% 후퇴",
+      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNb0hiNF9kSVBidkhuUjM4b1hJTVJMdEJuR0dEYTFCVGIydHp5YWVyVVFUREZtZHJfR044RE5lWVVvQUR3VFc3bElKV1ZBenVnaE9zUlRqRDZVWll6V2I5emVqQVUtazlMOE5kdl9IaWVndDQtck1VMGRDbjhSQUpkVzlHckJ4YW12TjZ4eGdZcUdWNy10c0p1ZUtzR3lmTjVwQTlyamdMOFFsbzgtUUxoQTRFZElTWGpKbEw2b0dQT2ktSEotNEswNzZhQkcyZXBsQlF5NEVtNThGUUx5aEJYSmtsUDVYTmRHNE0xYTNNVzJWVUxSNzF1cXcxaF9GVjdoRWdxQWFOSFBoYVp4YncyX2hrVDY5Y1lhX1d4VWFyYnYweVFVY1VFR1AtNjJzdnlSVVZFZndNNjVFajExR3pQVk95QXM?oc=5",
+      "date": "Thu, 08 Oct 2026 12:20:37 GMT",
+      "source": "Yellow.com",
+      "score": 1
+    },
+    {
+      "title": "XRP 리플, 월가 레버리지 ETF 금융 시장 진출…사업 영역 확대",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JcG9vdjl0TWowZk5QbG9HSkJkLWhUQ1JUOWVTZVBobGo3SFA1dTZJOGIwejhpM0RLRjhFT2NKMDI2S2VRXzdqbXNuUDJWTzd2cmh3Ulg0RmpBTVN2NEhVS3RxWTliSFBY?oc=5",
+      "date": "Thu, 08 Oct 2026 09:22:59 GMT",
+      "source": "CBC뉴스",
+      "score": 3
+    },
+    {
+      "title": "XRP 트레저리 대기업, 나스닥 상장 연기",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA5VmJpRWFyOHl1VXlmX3JLWXNSd3Q1SVhHcU92UllmOEtNRUlCMllNQ1BFMG5KaVZNN2hma3B6dHVwN3NoVWwxXzR6NGIyb3Rvc3FYdXdET0NLdXp4eXM4Z0x3TFE2TnBIWEdvekxyT1NTcDJxOTE4?oc=5",
+      "date": "Thu, 08 Oct 2026 08:52:55 GMT",
+      "source": "BeInCrypto",
+      "score": 2
+    },
+    {
+      "title": "리플·스텔라루멘 동반 급락…XRP 1.40달러·XLM 0.199달러 지지선 붕괴 위기",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5FZzh3X0tvR0g0bnpQVm9FOU1ZWmllbkxoTzlPME9jbFYyMmlBOVZJR0hNSzZjdjFpU3pobl9xeVhtdUszcmxTQXl3?oc=5",
+      "date": "Thu, 08 Oct 2026 06:13:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
+      "title": "XRP, '36弗 전망' 속 지지선 방어 시험대… 1.44弗 분수령",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NRDJueHF4R0RzV0RBVm5XNDhRZ3VreWcxdTBVaURtX2FSZ05nU1VwWTQ3OWhtbWR1RndvZm9SNVJrcXp0RzZiUWpQcURXVi15dXJmSXN6eWFjVWpLWGdIQW1fSmN0QWxzOFl4S0tLejU?oc=5",
+      "date": "Wed, 07 Oct 2026 23:46:33 GMT",
+      "source": "블록체인투데이",
+      "score": 2
+    },
     {
       "title": "리플(XRP) 5% 폭락에 ETF 매수세 급감! 전문가가 지목한 '마지막 방어선'",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1Uemk0emRzOS1uaVZKRWkwQ3h6TE13a3ExQmpwZ0wwWlI4RkJJbzg1bnRkR2xRX3VCaXNISlQyT0FUZENlbXNNOWNn?oc=5",
@@ -106,11 +141,11 @@
       "score": 2
     },
     {
-      "title": "RLUSD 시가총액 20억 달러 돌파… 한달 새 공급 30%↑, USDT는 0.4% 후퇴",
-      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNb0hiNF9kSVBidkhuUjM4b1hJTVJMdEJuR0dEYTFCVGIydHp5YWVyVVFUREZtZHJfR044RE5lWVVvQUR3VFc3bElKV1ZBenVnaE9zUlRqRDZVWll6V2I5emVqQVUtazlMOE5kdl9IaWVndDQtck1VMGRDbjhSQUpkVzlHckJ4YW12TjZ4eGdZcUdWNy10c0p1ZUtzR3lmTjVwQTlyamdMOFFsbzgtUUxoQTRFZElTWGpKbEw2b0dQT2ktSEotNEswNzZhQkcyZXBsQlF5NEVtNThGUUx5aEJYSmtsUDVYTmRHNE0xYTNNVzJWVUxSNzF1cXcxaF9GVjdoRWdxQWFOSFBoYVp4YncyX2hrVDY5Y1lhX1d4VWFyYnYweVFVY1VFR1AtNjJzdnlSVVZFZndNNjVFajExR3pQVk95QXM?oc=5",
-      "date": "Wed, 07 Oct 2026 17:07:56 GMT",
-      "source": "Yellow.com",
-      "score": 1
+      "title": "속보 | 제프리 황, HYPE 롱 포지션 전량 청산",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ORlhQUmdVOTEwUVB6M1BoRW9KT2hCYl9VaU8yeGRYMGc5c3lSUGM2cEpXSzl2NUNQYXNObjl5YW5xUzFsdmc3YjFvNXR5Vmtz?oc=5",
+      "date": "Wed, 07 Oct 2026 19:45:00 GMT",
+      "source": "CoinNess",
+      "score": 8
     },
     {
       "title": "美 첫 리플(XRP) 현물 ETF 왜 40% 폭락했나?…17억9,000만달러 유입에도 가격은 부진",
@@ -124,41 +159,6 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQWtjc3BaUlFBNHRVdE5vdFNuM1lpcVlyWURoaHk4eVFuZjRWM2gzNEVhdWFUenctbml5OEVLZ3FKQV9weXRpb3BtY1lDbENPNFZIMTV2RHBaaEpqYkJfWEdYWHBlY09OZG9qbkFfbG4xbjBxNDZidjZJSDdTdG9aMWhWRm1kbmhNN28tOQ?oc=5",
       "date": "Wed, 07 Oct 2026 10:37:00 GMT",
       "source": "네이버 프리미엄콘텐츠",
-      "score": 2
-    },
-    {
-      "title": "블랙록은 왜 리플(XRP) 현물 ETF 외면하나",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1idHFZbnphR1h0RWs0TjZJQ0ZHWU9pNnUzYkFBOTB6NjA4T19IZXRmRDhRQVd2bDZERVgzZXUzX081LTBvbUxLTUVB?oc=5",
-      "date": "Wed, 07 Oct 2026 07:58:00 GMT",
-      "source": "코인리더스",
-      "score": 4
-    },
-    {
-      "title": "XRP 트레저리 대기업, 나스닥 상장 연기",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA5VmJpRWFyOHl1VXlmX3JLWXNSd3Q1SVhHcU92UllmOEtNRUlCMllNQ1BFMG5KaVZNN2hma3B6dHVwN3NoVWwxXzR6NGIyb3Rvc3FYdXdET0NLdXp4eXM4Z0x3TFE2TnBIWEdvekxyT1NTcDJxOTE4?oc=5",
-      "date": "Wed, 07 Oct 2026 07:44:56 GMT",
-      "source": "BeInCrypto",
-      "score": 2
-    },
-    {
-      "title": "[속보] 비트코인 이더리움 리플 등 주요 코인 일제히 약세",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92RVNrdE5HVERhR0xxR29SRVp1SG1SMDM3RlhnOVJDMWt3bDdLNGpsU1BnZkZFVjhiQ3JCRkdnbVlfVmowSm1aNUpiVjM1U0hOSFZFMm85QW9RWW1FdVNnS1g0VG5hVUJo?oc=5",
-      "date": "Wed, 07 Oct 2026 02:07:21 GMT",
-      "source": "CBC뉴스",
-      "score": 2
-    },
-    {
-      "title": "리플, 브레반하워드와 손잡았다…XRP·RLUSD 아우르는 기관 서비스 확대",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0WTI2OUxORmNCTWhYOUtuX09FakZPRFE2U1gtZkhfRXNVNTROUmhsc2MybEJWRHdzR1c4R1BvZldrZ29odDZzUmZ0RkhMaVZ2TF8xdTE3T1JTWVlFbkdXcFlKT2JDR0sx?oc=5",
-      "date": "Wed, 07 Oct 2026 00:24:27 GMT",
-      "source": "CBC뉴스",
-      "score": 4
-    },
-    {
-      "title": "리플, 대형 헤지펀드 제대로 뚫었다…브레반 하워드에 금융 서비스 제공",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE80M1hnc2EyVmxrQU1RZUgwZkExUThtcVRLbnNxbTNxR0dNUDRUWHF2UWNLbTFCT2dsWDY5YnZLSWx0dVZFSlRaWjlzLWJtOFJLOHpFYWs5aXppOFE1bi1WZG9PX1B1S3hvay1JeHQ5cXNqd00?oc=5",
-      "date": "Wed, 07 Oct 2026 00:23:52 GMT",
-      "source": "디지털투데이",
       "score": 2
     }
   ]
