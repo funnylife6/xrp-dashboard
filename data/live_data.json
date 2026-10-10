@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-10-10T17:33:53",
+  "generated_at": "2026-10-10T20:57:09",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.4,
-    "price_krw": 1881.1,
-    "price_change_24h": 1.35648,
-    "price_change_7d": -5.81127,
-    "price_change_30d": 3.6899,
-    "market_cap_usd": 88594349406,
+    "price_usd": 1.41,
+    "price_krw": 1885.87,
+    "price_change_24h": 1.31319,
+    "price_change_7d": -5.4673,
+    "price_change_30d": 4.15563,
+    "market_cap_usd": 88819310555,
     "market_cap_rank": 5,
-    "volume_24h": 999735628,
+    "volume_24h": 886383162,
     "circulating_supply": 63129671205.0,
     "total_supply": 99985607990.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 71.21,
-    "sentiment_votes_down": 28.79,
+    "sentiment_votes_up": 65.15,
+    "sentiment_votes_down": 34.85,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 21.7,
-    "recent_tps": 21.7,
-    "recent_tx_count": 1779,
-    "recent_ledger_count": 24,
-    "recent_window_sec": 82,
-    "ledger_seq": 107565974,
+    "tps_24h_avg": 16.51,
+    "recent_tps": 16.51,
+    "recent_tx_count": 1486,
+    "recent_ledger_count": 23,
+    "recent_window_sec": 90,
+    "ledger_seq": 107569135,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-10-10 17:33:42 KST",
+    "updated_at": "2026-10-10 20:56:56 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,20 +92,6 @@
   ],
   "general_news": [
     {
-      "title": "월가 사업 넓히는 리플, XRP 1,000억 개 상한 넘길 수 있는 결함 긴급 패치했다",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnVjdaX0pmUnZITGh4U1ZSZTRHY0t0ZTJvLUpldzAtaThvYXZ0T2tGV0JsLWZ2bnU4SlotLUhHcG5TQU5WNEhyTHQzY1p4SlBtbUNtbEZB?oc=5",
-      "date": "Sat, 10 Oct 2026 16:04:00 GMT",
-      "source": "위키트리",
-      "score": 2
-    },
-    {
-      "title": "카르다노(ADA), 나홀로 6% 폭등...이더리움(ETH)·XRP는 주춤",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA3RnRZOGdFc24wYnZFekZyY05GYkcxVWhuZE16YVZpSWtWWVg4MXVBZF95VDhmSW1uanRfM0ZPYXJtUGpHZ2owNzNB?oc=5",
-      "date": "Sat, 10 Oct 2026 14:00:00 GMT",
-      "source": "코인리더스",
-      "score": 2
-    },
-    {
       "title": "속보 | XRP 재무기업 에버노스, 스팩 합병 마무리…나스닥서 거래 예정",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5GVTExUV9XV0p0SjVyZ01WUkMtM1ByR2FpLTZGZEl0QWRvT2tWOURVY0RPZ0lqcVV0Nl83QnB0ZXhSdE41Um5tWQ?oc=5",
       "date": "Sat, 10 Oct 2026 07:37:26 GMT",
@@ -160,6 +146,20 @@
       "date": "Fri, 09 Oct 2026 16:05:05 GMT",
       "source": "Yellow.com",
       "score": 3
+    },
+    {
+      "title": "리플 프라임, 2,560억 달러 레버리지 ETF 금융 진출…XRP는 5% 넘게 하락",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8yVWRNTmE2R2xYNExhWjRLSi1Ub0tHdFFpVklBUzdTR05kMTV0NnBBOHdqMmtCMXY4UjZ5aXRTWjl1d0FQd3FqbElYSFgzMC1McVJjTkZn?oc=5",
+      "date": "Fri, 09 Oct 2026 15:00:00 GMT",
+      "source": "위키트리",
+      "score": 3
+    },
+    {
+      "title": "[차트분석] '하락세' XRP(리플), 과거엔 2달 만에 57% 급등",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE13U19wN05pU295cy1OZE92dFc5c2Vlbmc3eGVoeXNOQW02TURwajVodG10dG4wOGlUZmRyWk9rdG1MN1piazBaLWVHa3VqNG1rZWNOMGdPLUJsNXJHckpIMGdTck9wNmF6LUR0ZUZYSUJiQQ?oc=5",
+      "date": "Fri, 09 Oct 2026 03:00:00 GMT",
+      "source": "디지털애셋",
+      "score": 9
     }
   ]
 }
