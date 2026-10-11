@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-10-11T00:04:42",
+  "generated_at": "2026-10-11T06:05:28",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.4,
-    "price_krw": 1879.11,
-    "price_change_24h": 0.45002,
-    "price_change_7d": -5.67268,
-    "price_change_30d": 5.08613,
-    "market_cap_usd": 88499373974,
+    "price_usd": 1.39,
+    "price_krw": 1867.23,
+    "price_change_24h": -1.07559,
+    "price_change_7d": -6.61007,
+    "price_change_30d": 3.26979,
+    "market_cap_usd": 87938087261,
     "market_cap_rank": 5,
-    "volume_24h": 861852782,
+    "volume_24h": 763819809,
     "circulating_supply": 63129671205.0,
     "total_supply": 99985607990.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 70.18,
-    "sentiment_votes_down": 29.82,
+    "sentiment_votes_up": 67.35,
+    "sentiment_votes_down": 32.65,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 18.06,
-    "recent_tps": 18.06,
-    "recent_tx_count": 1625,
+    "tps_24h_avg": 15.38,
+    "recent_tps": 15.38,
+    "recent_tx_count": 1384,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 107572038,
+    "ledger_seq": 107577655,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-10-11 00:04:29 KST",
+    "updated_at": "2026-10-11 06:05:21 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -52,13 +52,6 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1wNmpmMWpUZm85a1JJYnE4NVQzOHh3NFZlazZTSVgydDhpbTBaY2Z5ZDdsN3oxZGtwbFZVTVNOc1VDWXptVVVKUzc0Um4tRURlVHp6d0lnSWV6dVM2NFlnSmxmTQ?oc=5",
       "date": "Sat, 10 Oct 2026 00:50:51 GMT",
       "source": "CBC뉴스",
-      "score": 0
-    },
-    {
-      "title": "리플 XRP 반등에 숨겨진 경고등…ETF 자금 몰려도 거래량 56% 증발",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5BZWdsbkdWMkQwaG5FZHQ3M1RHQzI5M0V3aEhrVjN3YTFtZDhkcVlhY2lXbkxaOEF2WkNfZ3kybDZacEtsWk9TUXZn?oc=5",
-      "date": "Sat, 10 Oct 2026 00:26:00 GMT",
-      "source": "코인리더스",
       "score": 0
     },
     {
@@ -88,9 +81,23 @@
       "date": "Wed, 07 Oct 2026 11:55:00 GMT",
       "source": "코인리더스",
       "score": 0
+    },
+    {
+      "title": "메리츠증권, 리플과 디지털자산 동맹…현물 ETF·토큰증권 사업 준비",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YZEdQUGx1OTd1UmptdGY2bjFGZ21pUHVCMHZkUWtzaW9YSUlTenYtS0hNNVhnMVJRM0w5Y0xrU0tKNTEyX1REcUFSSlp2Ri1zblNMVFQxd1paRC1TQm1kczlpNlREa3pU?oc=5",
+      "date": "Wed, 07 Oct 2026 11:11:52 GMT",
+      "source": "시사캐스트",
+      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "XRP 레저, 코인 무한 발행 위기 발견...결국 투표 없이 코드 수정",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFByT2U1S1YwamZnRmtyb28wcjB6V0hKQVFFY29CQUlQMU1TajA0MnRuVjVkUlV4ekFlSzVDQzZ1WXI2TFQyellTTUFB?oc=5",
+      "date": "Sun, 11 Oct 2026 03:00:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
     {
       "title": "코인거래 13.5% 감소…카이아 조정 속 리플XRP 604억 거래",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9aODZGX0l5TTdUb3lKS1NoTGM2UFlEOEV0aWhGVmhaZVZqSHF2YXZPbEMtUmpsQkExakFGalNFV0xqZ0pjd29TTE8xRFFBRTlfRVVHcTdCa0hBbjAxY0RPNFhEWEowSHNjTEQyUGl5V3ZMZw?oc=5",
@@ -120,6 +127,13 @@
       "score": 2
     },
     {
+      "title": "'4억7300만XRP' 보유 에버노스, 스팩 합병 완료…12일 나스닥 거래 예정",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBUVTRlR1d3M0ZPekRlcDBabzMxWWNmY0o2THh1ZVZPTXBQWTgzM0lUcUdpUkZFYUdTUzdHQktYRm1FRUpaSXdjUUFOanNNM3VP?oc=5",
+      "date": "Sat, 10 Oct 2026 02:01:58 GMT",
+      "source": "블루밍비트",
+      "score": 2
+    },
+    {
       "title": "월가서 승승장구하는 리플…XRP 가격은 왜 힘 못 쓰나[도예리의 디지털자산 노트]",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QUVNEdURxWFNvVHQySV9XclVYRlZjZ2Y1UnZYTzNnX0M4cFd5MHEzcnFWa1VrN3FEMUIzR3NCeDVzVmZ5ZFZfY1lKZ3h1MzhVeFHSAVNBVV95cUxPRm05dTlmTjlSb0NJMTUtbGZBaWJOYXlSREdkd0txaURrMEpsRV85Ym03b0dWdnNLNnVxSEk5SURPMi1JaUxGUElpVVBXWW9mWkVwNA?oc=5",
       "date": "Sat, 10 Oct 2026 01:58:23 GMT",
@@ -134,32 +148,18 @@
       "score": 3
     },
     {
-      "title": "리플 XRP 반등에 숨겨진 경고등…ETF 자금 몰려도 거래량 56% 증발",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5BZWdsbkdWMkQwaG5FZHQ3M1RHQzI5M0V3aEhrVjN3YTFtZDhkcVlhY2lXbkxaOEF2WkNfZ3kybDZacEtsWk9TUXZn?oc=5",
-      "date": "Sat, 10 Oct 2026 00:26:00 GMT",
-      "source": "코인리더스",
-      "score": 3
+      "title": "속보 | 코인 해외 선물 거래 과세 못 한다…과세 사각지대",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1VdlRyYllHWHh2Tmd1OGZhZGJFWDZNWmpfSUZGU21ibVFHVGFhNjNDdEhDc2ZwSm9MOERVdkd2YWJUQmU3bnhfSmpLRUpjdVFt?oc=5",
+      "date": "Fri, 09 Oct 2026 21:45:00 GMT",
+      "source": "CoinNess",
+      "score": 8
     },
     {
-      "title": "비트코인 주도 암호화폐 ETF 대규모 환매 속 리플(XRP) ETF에 800만달러 순유입",
-      "url": "https://news.google.com/rss/articles/CBMiigNBVV95cUxPSTRzOWhSSVF1elZkRGoxZFBlN2lsbjVsN2ZYNjFMTHhuby1nc19pYmdXM0t3NmVMUWQ4S25Wb0ZMc3hsa1pRSjQ5RGFUVmxMMVZ4UDZkT2ZvUDNQQzZ1eVdwcXVWaXlSaXhjTnlEb01nWExYdHN1cnlpRk4xYWQ1NjdjeTVzbldJa1BVb3dpbXYwUFdfdlBZdTR1dkN2X1VYSlhRZ3pOWDBsYzAxNXdBWnRKcGxqYUM4NWhvWTFJY1JQeHlyVF80T3VVR3VwRXp5N0o3X0xpd1VuZks4YnRNVTNnY2hsdzlFWkk1eEc3cGhmbzJYNHBvNHRCOS1zRHlyenFoaVBqeHhnX0hzdWotcFItMEhoMTFlTE4tOVVKcFRvOUNRR3paeER1QWkxVFNPZkNneUZpYzdERHZFZXdkRF9ham1RbGV5NGFnZ1FrcFp0ZXlad1piSUdoMXVvazh3UDZMQ1AyYlFKblRHSjFGV0x2em9CVDF2MjhTLUEzNE5POEZnckNuYnlR?oc=5",
-      "date": "Fri, 09 Oct 2026 16:05:05 GMT",
-      "source": "Yellow.com",
-      "score": 3
-    },
-    {
-      "title": "리플 프라임, 2,560억 달러 레버리지 ETF 금융 진출…XRP는 5% 넘게 하락",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8yVWRNTmE2R2xYNExhWjRLSi1Ub0tHdFFpVklBUzdTR05kMTV0NnBBOHdqMmtCMXY4UjZ5aXRTWjl1d0FQd3FqbElYSFgzMC1McVJjTkZn?oc=5",
-      "date": "Fri, 09 Oct 2026 15:00:00 GMT",
-      "source": "위키트리",
-      "score": 3
-    },
-    {
-      "title": "[차트분석] '하락세' XRP(리플), 과거엔 2달 만에 57% 급등",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE13U19wN05pU295cy1OZE92dFc5c2Vlbmc3eGVoeXNOQW02TURwajVodG10dG4wOGlUZmRyWk9rdG1MN1piazBaLWVHa3VqNG1rZWNOMGdPLUJsNXJHckpIMGdTck9wNmF6LUR0ZUZYSUJiQQ?oc=5",
-      "date": "Fri, 09 Oct 2026 03:00:00 GMT",
-      "source": "디지털애셋",
-      "score": 9
+      "title": "\"BTC, 단기 주요 지지선 $80,500... 2025년 말과 유사한 흐름\"",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFdnF5dS0tNHZidFBtbTZmS1NPbmFOMDl6QUFKeGxqMjljUkMyek9zaVZQZW1XRzExVUxEclREX2taQ2UxSHNwX2VBZWNvUDBB?oc=5",
+      "date": "Fri, 09 Oct 2026 20:15:00 GMT",
+      "source": "CoinNess",
+      "score": 8
     }
   ]
 }
