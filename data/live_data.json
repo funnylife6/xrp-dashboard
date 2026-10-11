@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-10-11T06:05:28",
+  "generated_at": "2026-10-11T13:11:53",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.39,
-    "price_krw": 1867.23,
-    "price_change_24h": -1.07559,
-    "price_change_7d": -6.61007,
-    "price_change_30d": 3.26979,
-    "market_cap_usd": 87938087261,
+    "price_krw": 1866.73,
+    "price_change_24h": -0.69765,
+    "price_change_7d": -7.02237,
+    "price_change_30d": 1.97854,
+    "market_cap_usd": 87915936236,
     "market_cap_rank": 5,
-    "volume_24h": 763819809,
+    "volume_24h": 694394238,
     "circulating_supply": 63129671205.0,
     "total_supply": 99985607990.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 67.35,
-    "sentiment_votes_down": 32.65,
+    "sentiment_votes_up": 61.36,
+    "sentiment_votes_down": 38.64,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 15.38,
-    "recent_tps": 15.38,
-    "recent_tx_count": 1384,
+    "tps_24h_avg": 20.01,
+    "recent_tps": 20.01,
+    "recent_tx_count": 1801,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 107577655,
+    "ledger_seq": 107584290,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-10-11 06:05:21 KST",
+    "updated_at": "2026-10-11 13:11:45 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -52,6 +52,13 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1wNmpmMWpUZm85a1JJYnE4NVQzOHh3NFZlazZTSVgydDhpbTBaY2Z5ZDdsN3oxZGtwbFZVTVNOc1VDWXptVVVKUzc0Um4tRURlVHp6d0lnSWV6dVM2NFlnSmxmTQ?oc=5",
       "date": "Sat, 10 Oct 2026 00:50:51 GMT",
       "source": "CBC뉴스",
+      "score": 0
+    },
+    {
+      "title": "리플 XRP 반등에 숨겨진 경고등…ETF 자금 몰려도 거래량 56% 증발",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5BZWdsbkdWMkQwaG5FZHQ3M1RHQzI5M0V3aEhrVjN3YTFtZDhkcVlhY2lXbkxaOEF2WkNfZ3kybDZacEtsWk9TUXZn?oc=5",
+      "date": "Sat, 10 Oct 2026 00:26:00 GMT",
+      "source": "코인리더스",
       "score": 0
     },
     {
@@ -81,16 +88,16 @@
       "date": "Wed, 07 Oct 2026 11:55:00 GMT",
       "source": "코인리더스",
       "score": 0
-    },
-    {
-      "title": "메리츠증권, 리플과 디지털자산 동맹…현물 ETF·토큰증권 사업 준비",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YZEdQUGx1OTd1UmptdGY2bjFGZ21pUHVCMHZkUWtzaW9YSUlTenYtS0hNNVhnMVJRM0w5Y0xrU0tKNTEyX1REcUFSSlp2Ri1zblNMVFQxd1paRC1TQm1kczlpNlREa3pU?oc=5",
-      "date": "Wed, 07 Oct 2026 11:11:52 GMT",
-      "source": "시사캐스트",
-      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "업비트 거래대금 1조원 무너졌다…비트코인·리플·이더리움 동반 약세",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBoNzlhdENseDRDQ0FadFI3LXUtQkZ5VmVObWdxODhicHN5bUpnQjhIbllRakxieU5ob0trTWVaS3VvVmZHdHdkRll3?oc=5",
+      "date": "Sun, 11 Oct 2026 10:56:00 GMT",
+      "source": "코인리더스",
+      "score": 3
+    },
     {
       "title": "XRP 레저, 코인 무한 발행 위기 발견...결국 투표 없이 코드 수정",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFByT2U1S1YwamZnRmtyb28wcjB6V0hKQVFFY29CQUlQMU1TajA0MnRuVjVkUlV4ekFlSzVDQzZ1WXI2TFQyellTTUFB?oc=5",
@@ -148,18 +155,11 @@
       "score": 3
     },
     {
-      "title": "속보 | 코인 해외 선물 거래 과세 못 한다…과세 사각지대",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1VdlRyYllHWHh2Tmd1OGZhZGJFWDZNWmpfSUZGU21ibVFHVGFhNjNDdEhDc2ZwSm9MOERVdkd2YWJUQmU3bnhfSmpLRUpjdVFt?oc=5",
-      "date": "Fri, 09 Oct 2026 21:45:00 GMT",
-      "source": "CoinNess",
-      "score": 8
-    },
-    {
-      "title": "\"BTC, 단기 주요 지지선 $80,500... 2025년 말과 유사한 흐름\"",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFdnF5dS0tNHZidFBtbTZmS1NPbmFOMDl6QUFKeGxqMjljUkMyek9zaVZQZW1XRzExVUxEclREX2taQ2UxSHNwX2VBZWNvUDBB?oc=5",
-      "date": "Fri, 09 Oct 2026 20:15:00 GMT",
-      "source": "CoinNess",
-      "score": 8
+      "title": "리플 XRP 반등에 숨겨진 경고등…ETF 자금 몰려도 거래량 56% 증발",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5BZWdsbkdWMkQwaG5FZHQ3M1RHQzI5M0V3aEhrVjN3YTFtZDhkcVlhY2lXbkxaOEF2WkNfZ3kybDZacEtsWk9TUXZn?oc=5",
+      "date": "Sat, 10 Oct 2026 00:26:00 GMT",
+      "source": "코인리더스",
+      "score": 3
     }
   ]
 }
