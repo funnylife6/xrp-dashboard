@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-10-12T01:28:07",
+  "generated_at": "2026-10-12T07:45:19",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.41,
-    "price_krw": 1877.12,
-    "price_change_24h": 0.46931,
-    "price_change_7d": -7.6873,
-    "price_change_30d": 3.60511,
-    "market_cap_usd": 88744500135,
+    "price_krw": 1882.36,
+    "price_change_24h": 1.50148,
+    "price_change_7d": -6.91974,
+    "price_change_30d": 3.67063,
+    "market_cap_usd": 89203721548,
     "market_cap_rank": 5,
-    "volume_24h": 933233598,
+    "volume_24h": 1194289742,
     "circulating_supply": 63129671205.0,
     "total_supply": 99985607990.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 72.13,
-    "sentiment_votes_down": 27.87,
+    "sentiment_votes_up": 79.71,
+    "sentiment_votes_down": 20.29,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 17.83,
-    "recent_tps": 17.83,
-    "recent_tx_count": 1605,
+    "tps_24h_avg": 15.81,
+    "recent_tps": 15.81,
+    "recent_tx_count": 1423,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 107595713,
+    "ledger_seq": 107601567,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-10-12 01:28:00 KST",
+    "updated_at": "2026-10-12 07:45:12 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -48,6 +48,13 @@
   },
   "etf_news": [
     {
+      "title": "솔라나 ETF, 14주 매수 행진 끝…최대 주간 유출",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyMjRNNXViY0FXUTY2UURjVGJTTi00TXdWMUk2TDdzMmFFZFNiTmdKY1NWdTdrc1lkeUktV243NE1fRS1lMEo1aVZsdXRBdVZUT1pYXzRyZHlROUljeVdlckNjYlA0WEZMV0QzRXlmTzg?oc=5",
+      "date": "Mon, 12 Oct 2026 04:51:12 GMT",
+      "source": "BeInCrypto",
+      "score": 0
+    },
+    {
       "title": "XRP ETF 13주 연속 순유입…비트코인·이더리움·솔라나서 12억 달러 빠질 때 버텼다",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLQXVPd1JkSzFiUTE3X3JLeE1lQkYwbzRhdlRRSkh2U0dndnZiNGZ1VjUzZFREME1wekZtMlUtY2lVNHFPZjVvNGpHMzVHM0M0UlM1WGtB?oc=5",
       "date": "Sun, 11 Oct 2026 16:02:00 GMT",
@@ -56,7 +63,7 @@
     },
     {
       "title": "리플(XRP), 비트코인·이더리움 ETF 자금 빠지는데 홀로 유입…시세 전망은?",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1wNmpmMWpUZm85a1JJYnE4NVQzOHh3NFZlazZTSVgydDhpbTBaY2Z5ZDdsN3oxZGtwbFZVTVNOc1VDWXptVVVKUzc0Um4tRURlVHp6d0lnSWV6dVM2NFlnSmxmTQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wQU5TVXRjRFhOT2VMaUlGQndQak5pMm1HZUFxVng3RE1YYjlndkxNMXM1aHJETGl4QjMxcmpWRHZXTzVNcHE5MWI1T3hCQUpBS3NHS3lpYWpJTGI2cU9pb0VLeXZHWnlh?oc=5",
       "date": "Sat, 10 Oct 2026 00:50:51 GMT",
       "source": "CBC뉴스",
       "score": 0
@@ -81,20 +88,20 @@
       "date": "Fri, 09 Oct 2026 15:00:00 GMT",
       "source": "위키트리",
       "score": 0
-    },
-    {
-      "title": "XRP 현물 ETF 보유액 17억달러…주간 유입은 미미",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA3NEcySVVmQWRRTExoSVlIamU5SC0xMGl0SEhfeGFtOFJ2VVN5bEVyZGo2X3gwTnY0ZlB1c2hDSnJEMHJWZlVOdHQ4a3RJOE43NWdpUDA0OXhUZ0E3SllFWFF4S2FUYUZBcmpVcmFKMXpPb0k?oc=5",
-      "date": "Thu, 08 Oct 2026 05:16:00 GMT",
-      "source": "디지털투데이",
-      "score": 0
     }
   ],
   "general_news": [
     {
-      "title": "메타 AI “XRP 2027년 최고 50달러 돌파”… 금융권 시총 비현실성 지적",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBENE9udmhYc3dxeFkwa1JNYnQ4N2JNQnI5Y18yd0dsNXQ3N2xzb2JPVkhiQlRMbGpQQm5keU94MWkxcTg2SmV5NE5za1lhYUtraUEzbk4wY1Jud0JibVk0YXNFU09DX2Z6TkF0MjlHZUI?oc=5",
-      "date": "Sun, 11 Oct 2026 23:49:59 GMT",
+      "title": "아발란체 창업자, XRP레저 저격...\"사람이 놓친 버그 AI가 턴다\"",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE03LTV4SGdvODJyVnhuM09ET1BCSERYbWN3Q0lBcGN1MVpBRW1qZjNzdWhRTU5VMkNZN1FEUG5mSFNuaXlkejJvZG9n?oc=5",
+      "date": "Mon, 12 Oct 2026 07:10:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
+      "title": "AI 보안 에이전트, XRP 레저 11년 된 18조개 무단 발행 버그 발견",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51THNXMVlENGNuelgwekNaYUFuaVhqZzJWN0lXZ21ueHprV0k3cmstZkNFM2lONHZBTTJLWl9oN2lvZ2FoMFBPQUxfMmp6U3FHaV9mcUJOQjNEaUtPUmh3Y296VEZiaWNKMXRiMnhER0o?oc=5",
+      "date": "Sun, 11 Oct 2026 23:15:00 GMT",
       "source": "블록체인투데이",
       "score": 2
     },
@@ -104,6 +111,13 @@
       "date": "Sun, 11 Oct 2026 22:42:00 GMT",
       "source": "코인리더스",
       "score": 2
+    },
+    {
+      "title": "에버노스, XRP 4억7300만개 보유해도 평가이익 못 잡는다",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uYmd6ckNEa3ptQXZVcTBjdzNDbFIyTHMyQ3RjNzdmMjAyRk1TZ3Z0MURSeGpOalA0bEpJeE5LOEVPcWxlbTg4bHF6S0gteTNQVHNlYk83WS1uOWhXTFRmZw?oc=5",
+      "date": "Sun, 11 Oct 2026 21:54:40 GMT",
+      "source": "토큰포스트",
+      "score": 9
     },
     {
       "title": "리플XRP 912억 거래에도 보합권…카이아 1282억 집중 속 9% 급락",
@@ -134,22 +148,8 @@
       "score": 8
     },
     {
-      "title": "1000억 XRP 공급…10년 버그로 위험",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OSGV6VVdyUzdYM0ktc2xxR0tCbm9hbXNnTTZsU3hXdnBrNkVuT01BYUJ6eU1kNktfTUJRU282QzhhRzZscUdOYlFlbU5DUTAzVGdsVXZMYjYwZ1Q1UVMyRVZFTzlYSi1fekE?oc=5",
-      "date": "Sat, 10 Oct 2026 06:56:09 GMT",
-      "source": "BeInCrypto",
-      "score": 2
-    },
-    {
-      "title": "'4억7300만XRP' 보유 에버노스, 스팩 합병 완료…12일 나스닥 거래 예정",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBUVTRlR1d3M0ZPekRlcDBabzMxWWNmY0o2THh1ZVZPTXBQWTgzM0lUcUdpUkZFYUdTUzdHQktYRm1FRUpaSXdjUUFOanNNM3VP?oc=5",
-      "date": "Sat, 10 Oct 2026 02:01:58 GMT",
-      "source": "블루밍비트",
-      "score": 2
-    },
-    {
       "title": "리플(XRP), 비트코인·이더리움 ETF 자금 빠지는데 홀로 유입…시세 전망은?",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1wNmpmMWpUZm85a1JJYnE4NVQzOHh3NFZlazZTSVgydDhpbTBaY2Z5ZDdsN3oxZGtwbFZVTVNOc1VDWXptVVVKUzc0Um4tRURlVHp6d0lnSWV6dVM2NFlnSmxmTQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wQU5TVXRjRFhOT2VMaUlGQndQak5pMm1HZUFxVng3RE1YYjlndkxNMXM1aHJETGl4QjMxcmpWRHZXTzVNcHE5MWI1T3hCQUpBS3NHS3lpYWpJTGI2cU9pb0VLeXZHWnlh?oc=5",
       "date": "Sat, 10 Oct 2026 00:50:51 GMT",
       "source": "CBC뉴스",
       "score": 3
