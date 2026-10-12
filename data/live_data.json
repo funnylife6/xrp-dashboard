@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-10-11T22:12:01",
+  "generated_at": "2026-10-12T01:28:07",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.41,
-    "price_krw": 1885.78,
-    "price_change_24h": 0.13205,
-    "price_change_7d": -6.71379,
-    "price_change_30d": 3.96555,
-    "market_cap_usd": 88758479398,
+    "price_krw": 1877.12,
+    "price_change_24h": 0.46931,
+    "price_change_7d": -7.6873,
+    "price_change_30d": 3.60511,
+    "market_cap_usd": 88744500135,
     "market_cap_rank": 5,
-    "volume_24h": 885108236,
+    "volume_24h": 933233598,
     "circulating_supply": 63129671205.0,
     "total_supply": 99985607990.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 69.49,
-    "sentiment_votes_down": 30.51,
+    "sentiment_votes_up": 72.13,
+    "sentiment_votes_down": 27.87,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 17.39,
-    "recent_tps": 17.39,
-    "recent_tx_count": 1548,
-    "recent_ledger_count": 23,
-    "recent_window_sec": 89,
-    "ledger_seq": 107592664,
+    "tps_24h_avg": 17.83,
+    "recent_tps": 17.83,
+    "recent_tx_count": 1605,
+    "recent_ledger_count": 24,
+    "recent_window_sec": 90,
+    "ledger_seq": 107595713,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-10-11 22:11:47 KST",
+    "updated_at": "2026-10-12 01:28:00 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,6 +92,20 @@
   ],
   "general_news": [
     {
+      "title": "메타 AI “XRP 2027년 최고 50달러 돌파”… 금융권 시총 비현실성 지적",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBENE9udmhYc3dxeFkwa1JNYnQ4N2JNQnI5Y18yd0dsNXQ3N2xzb2JPVkhiQlRMbGpQQm5keU94MWkxcTg2SmV5NE5za1lhYUtraUEzbk4wY1Jud0JibVk0YXNFU09DX2Z6TkF0MjlHZUI?oc=5",
+      "date": "Sun, 11 Oct 2026 23:49:59 GMT",
+      "source": "블록체인투데이",
+      "score": 2
+    },
+    {
+      "title": "리플(XRP), 에버노스 나스닥 상장 타고 1.60달러 가나…1.45달러 돌파가 관건",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBlak0zaVlDcWFFeGRGNDlvel9LUmlCRVZxb081S0UyQ0pJYklYM1FoVjNSdDM1anQ0LTg0cVNHYThFY0ZzMGlSUE13?oc=5",
+      "date": "Sun, 11 Oct 2026 22:42:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
       "title": "리플XRP 912억 거래에도 보합권…카이아 1282억 집중 속 9% 급락",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE52aEtMY05TQkZIa3llamFsdFlPcy1SMGRXSXZkMjdaM1VJazhYdWdTSmdUQVd3dVAyRTNncDZoaU9mQ09KQXR1eFpYLXZnamJpcFZxdVEwcEhwMmlXRV9DYTNRcXhHTlNKXzVhUUJ1NXhvZw?oc=5",
       "date": "Sun, 11 Oct 2026 21:51:15 GMT",
@@ -106,31 +120,10 @@
       "score": 2
     },
     {
-      "title": "에버노스, XRP 4억7300만개 보유해도 평가이익 못 잡는다",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uYmd6ckNEa3ptQXZVcTBjdzNDbFIyTHMyQ3RjNzdmMjAyRk1TZ3Z0MURSeGpOalA0bEpJeE5LOEVPcWxlbTg4bHF6S0gteTNQVHNlYk83WS1uOWhXTFRmZw?oc=5",
-      "date": "Sun, 11 Oct 2026 19:16:13 GMT",
-      "source": "토큰포스트",
-      "score": 9
-    },
-    {
-      "title": "XRP 레저, 인간 없이 '기계끼리' 결제...누적 결제 1300만 건 돌파",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9KQ19HZmJZVEdSRWwxX1o0ZkdqbWRxU0EwNHJISmpTWEszMUxQYWpHMkprWVV0WGdHa3E3S1R1d0h3UXVkdk1sV0NR?oc=5",
-      "date": "Sun, 11 Oct 2026 17:00:00 GMT",
-      "source": "코인리더스",
-      "score": 2
-    },
-    {
       "title": "XRP 무단 발행 버그와 에버노스 상장, 수상한 10월 9일…리플은 알고 있었나(종합)",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSOTlYMm9qRWtMSlM2Z2pmYU5wUERtbTRWVUR3WW1adXA5dTNUVThzdGtZc1ZtbThSMEZ1MnZJQmtEUEw5VW9icGlKTmZtRDkyblI1NXBxQUc?oc=5",
       "date": "Sun, 11 Oct 2026 05:07:40 GMT",
       "source": "블록미디어",
-      "score": 2
-    },
-    {
-      "title": "XRP 레저, 코인 무한 발행 위기 발견...결국 투표 없이 코드 수정",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFByT2U1S1YwamZnRmtyb28wcjB6V0hKQVFFY29CQUlQMU1TajA0MnRuVjVkUlV4ekFlSzVDQzZ1WXI2TFQyellTTUFB?oc=5",
-      "date": "Sun, 11 Oct 2026 03:00:00 GMT",
-      "source": "코인리더스",
       "score": 2
     },
     {
@@ -141,10 +134,10 @@
       "score": 8
     },
     {
-      "title": "\"월스트리트저널 \"XRP, 월가 심장부 진격\"...1.49달러 돌파 땐 랠리",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX2hEeXNobjR6bHVSUHZ5TElJM0ZTelJVWXJZYXA4dHlSaXpRR0VCSWVBWUFfc0l6VGtwd2pZMUdaejlMelZRbXJvZkIzOXhtbkZKcldGdDlrZTNpQWpaSlVGMTB0eXZYVzdBT1hJU2tXWUlkQUlmYmQ0QktKaXd0QnBVYmdIOGhR?oc=5",
-      "date": "Sat, 10 Oct 2026 02:54:07 GMT",
-      "source": "글로벌이코노믹",
+      "title": "1000억 XRP 공급…10년 버그로 위험",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OSGV6VVdyUzdYM0ktc2xxR0tCbm9hbXNnTTZsU3hXdnBrNkVuT01BYUJ6eU1kNktfTUJRU282QzhhRzZscUdOYlFlbU5DUTAzVGdsVXZMYjYwZ1Q1UVMyRVZFTzlYSi1fekE?oc=5",
+      "date": "Sat, 10 Oct 2026 06:56:09 GMT",
+      "source": "BeInCrypto",
       "score": 2
     },
     {
@@ -159,6 +152,13 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1wNmpmMWpUZm85a1JJYnE4NVQzOHh3NFZlazZTSVgydDhpbTBaY2Z5ZDdsN3oxZGtwbFZVTVNOc1VDWXptVVVKUzc0Um4tRURlVHp6d0lnSWV6dVM2NFlnSmxmTQ?oc=5",
       "date": "Sat, 10 Oct 2026 00:50:51 GMT",
       "source": "CBC뉴스",
+      "score": 3
+    },
+    {
+      "title": "리플 XRP 반등에 숨겨진 경고등…ETF 자금 몰려도 거래량 56% 증발",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5BZWdsbkdWMkQwaG5FZHQ3M1RHQzI5M0V3aEhrVjN3YTFtZDhkcVlhY2lXbkxaOEF2WkNfZ3kybDZacEtsWk9TUXZn?oc=5",
+      "date": "Sat, 10 Oct 2026 00:26:00 GMT",
+      "source": "코인리더스",
       "score": 3
     }
   ]
