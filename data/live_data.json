@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-10-13T12:23:21",
+  "generated_at": "2026-10-13T19:24:57",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.35,
-    "price_krw": 1817.03,
-    "price_change_24h": -3.12673,
-    "price_change_7d": -10.46668,
-    "price_change_30d": 0.88847,
-    "market_cap_usd": 85508606959,
+    "price_usd": 1.37,
+    "price_krw": 1840.31,
+    "price_change_24h": 1.0574,
+    "price_change_7d": -8.80623,
+    "price_change_30d": 1.00768,
+    "market_cap_usd": 86552669801,
     "market_cap_rank": 5,
-    "volume_24h": 2205894544,
+    "volume_24h": 2231319411,
     "circulating_supply": 63129671205.0,
     "total_supply": 99985607990.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 61.25,
-    "sentiment_votes_down": 38.75,
+    "sentiment_votes_up": 57.97,
+    "sentiment_votes_down": 42.03,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 53.08,
-    "recent_tps": 53.08,
-    "recent_tx_count": 4777,
+    "tps_24h_avg": 19.4,
+    "recent_tps": 19.4,
+    "recent_tx_count": 1746,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 107628169,
+    "ledger_seq": 107634676,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-10-13 12:23:13 KST",
+    "updated_at": "2026-10-13 19:24:43 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -49,7 +49,7 @@
   "etf_news": [
     {
       "title": "리플에 무슨 일이! 롱 포지션 1,797만 달러 청산에 일주일 새 9% 넘게 추락",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1xNzlqSExuS284S1R6NnF3TGNvVF9LSngxMWExZzR1XzgzOGdSRjJndlNHamczUUFzM1IySXFXRTYwNXFIUGFYVg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1pNnJWV2JRT2lxMy14WG5xcEozSGxRdEtMd1o0SXJRb09jdzZfVWQzTmxXOFJxOGNOQTRvV3EweDNWd3NMdmZ1UVhB?oc=5",
       "date": "Tue, 13 Oct 2026 11:49:00 GMT",
       "source": "코인리더스",
       "score": 0
@@ -93,7 +93,7 @@
   "general_news": [
     {
       "title": "리플에 무슨 일이! 롱 포지션 1,797만 달러 청산에 일주일 새 9% 넘게 추락",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1xNzlqSExuS284S1R6NnF3TGNvVF9LSngxMWExZzR1XzgzOGdSRjJndlNHamczUUFzM1IySXFXRTYwNXFIUGFYVg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1pNnJWV2JRT2lxMy14WG5xcEozSGxRdEtMd1o0SXJRb09jdzZfVWQzTmxXOFJxOGNOQTRvV3EweDNWd3NMdmZ1UVhB?oc=5",
       "date": "Tue, 13 Oct 2026 11:49:00 GMT",
       "source": "코인리더스",
       "score": 3
@@ -110,13 +110,6 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTlYtVDBvYnJMdHVhTF9vQzg2RzRvMWVnTV9DclFYSGdNNWZyWVpqd1hFdUJQRFhubS1vQVFiYmRLZ2Y3VjNVRTBLYzZ1dnB6a080Skh6ZGo5M29aUF9jVFdwZ3lBakhjdkZZam1MY2h6OWZNRFVMOEUyVkQ2U3VpbzNVeWY0czZGTlhMbw?oc=5",
       "date": "Tue, 13 Oct 2026 07:07:00 GMT",
       "source": "네이버 프리미엄콘텐츠",
-      "score": 2
-    },
-    {
-      "title": "리플 지원 에버노스 나스닥 입성…XRP 4억7,300만 개 보유에도 웃지 못하는 이유는?",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5yX1N4eEd2LXU2Rkp0ekFxTktFYUZxYUxLdkI2enNhcThMSk9VamdQcU5GZTZYWXJnVV84TTJBRnloTWswYVpvYk9n?oc=5",
-      "date": "Tue, 13 Oct 2026 07:03:00 GMT",
-      "source": "코인리더스",
       "score": 2
     },
     {
@@ -153,6 +146,13 @@
       "date": "Mon, 12 Oct 2026 17:03:00 GMT",
       "source": "위키트리",
       "score": 4
+    },
+    {
+      "title": "‘리플 지원’ 에버노스, 나스닥 상장 첫날 급등 후 하락",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ra0liN3M1MHVmZkptRzBLUFlzeGZ3QmZDaGN3OWROcTJHLWswajZVLVZfN3lxMGJpX19DRkFraUhYdFRJSlgweGZ0T3UxUjRGZy1waE9lV1E?oc=5",
+      "date": "Mon, 12 Oct 2026 14:41:51 GMT",
+      "source": "블록미디어",
+      "score": 2
     },
     {
       "title": "스탠다드차타드, 리플(XRP) 레저 기반 RLUSD 수탁 서비스 개시…LMAX그룹과 담보 통합 추진",
