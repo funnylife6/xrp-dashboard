@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-10-12T23:41:34",
+  "generated_at": "2026-10-13T04:47:31",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.34,
-    "price_krw": 1788.09,
-    "price_change_24h": -4.99204,
-    "price_change_7d": -11.32259,
-    "price_change_30d": -1.74234,
-    "market_cap_usd": 84555782843,
+    "price_usd": 1.37,
+    "price_krw": 1834.22,
+    "price_change_24h": -3.42104,
+    "price_change_7d": -8.75733,
+    "price_change_30d": 0.25109,
+    "market_cap_usd": 86283508527,
     "market_cap_rank": 5,
-    "volume_24h": 1754849258,
+    "volume_24h": 2174560429,
     "circulating_supply": 63129671205.0,
     "total_supply": 99985607990.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 75.31,
-    "sentiment_votes_down": 24.69,
+    "sentiment_votes_up": 71.59,
+    "sentiment_votes_down": 28.41,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 45.27,
-    "recent_tps": 45.27,
-    "recent_tx_count": 4074,
+    "tps_24h_avg": 19.68,
+    "recent_tps": 19.68,
+    "recent_tx_count": 1614,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 107616351,
+    "recent_window_sec": 82,
+    "ledger_seq": 107621098,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-10-12 23:41:23 KST",
+    "updated_at": "2026-10-13 04:47:21 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -47,6 +47,13 @@
     "data_source": "news_parse"
   },
   "etf_news": [
+    {
+      "title": "암호화폐 ETF 자금 이탈 가속…XRP만 1131만달러 순유입",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Fcm1lM3pSOFFxUjF3X1F1OTZsNG91cnZxMEFMcXVBRmJTUzdKTnB2a1RBYm5EX0dBUmpVcThSbmpyb2k5XzBYaFk1NDdEOUlpR3Z4LWh3V2dlNnBudk1fbnQ4blVraTZJRTdKanZuSDM0Y2s?oc=5",
+      "date": "Tue, 13 Oct 2026 01:37:23 GMT",
+      "source": "디지털투데이",
+      "score": 0
+    },
     {
       "title": "비트코인·이더리움 ETF서 12억 달러 이탈, 리플은 13주 이상 자금 유입…엇갈린 암호화폐 시장",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE82ZnBHRktld0NDTjU5MlpLRVY3Uk9PdnVPcm42empNU0ZiUFlwZFFlWGNSTVZyUmJmdXNqbmZsbHlaMExaYkdMSDd3?oc=5",
@@ -81,13 +88,6 @@
       "date": "Sat, 10 Oct 2026 00:26:00 GMT",
       "source": "코인리더스",
       "score": 0
-    },
-    {
-      "title": "비트코인 주도 암호화폐 ETF 대규모 환매 속 리플(XRP) ETF에 800만달러 순유입",
-      "url": "https://news.google.com/rss/articles/CBMiigNBVV95cUxPSTRzOWhSSVF1elZkRGoxZFBlN2lsbjVsN2ZYNjFMTHhuby1nc19pYmdXM0t3NmVMUWQ4S25Wb0ZMc3hsa1pRSjQ5RGFUVmxMMVZ4UDZkT2ZvUDNQQzZ1eVdwcXVWaXlSaXhjTnlEb01nWExYdHN1cnlpRk4xYWQ1NjdjeTVzbldJa1BVb3dpbXYwUFdfdlBZdTR1dkN2X1VYSlhRZ3pOWDBsYzAxNXdBWnRKcGxqYUM4NWhvWTFJY1JQeHlyVF80T3VVR3VwRXp5N0o3X0xpd1VuZks4YnRNVTNnY2hsdzlFWkk1eEc3cGhmbzJYNHBvNHRCOS1zRHlyenFoaVBqeHhnX0hzdWotcFItMEhoMTFlTE4tOVVKcFRvOUNRR3paeER1QWkxVFNPZkNneUZpYzdERHZFZXdkRF9ham1RbGV5NGFnZ1FrcFp0ZXlad1piSUdoMXVvazh3UDZMQ1AyYlFKblRHSjFGV0x2em9CVDF2MjhTLUEzNE5POEZnckNuYnlR?oc=5",
-      "date": "Fri, 09 Oct 2026 16:05:05 GMT",
-      "source": "Yellow.com",
-      "score": 0
     }
   ],
   "general_news": [
@@ -96,7 +96,7 @@
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE51UWFaNnI2SkxYRVJLSzFIUUl5cFB3aHhZZEtfQnFqSWY1dHlEQ1pZdUNmeDdQdmVFbU1hNGt5WEhTR0VoTUJ0TTZn?oc=5",
       "date": "Mon, 12 Oct 2026 22:20:00 GMT",
       "source": "코인리더스",
-      "score": 2
+      "score": 3
     },
     {
       "title": "리플XRP 3.67% 하락…깃코인 62% 급등·리저브라이트 25% 급락",
@@ -124,21 +124,14 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwWUw3aU1hbTVORmFIWmV0Sm5hSkxMZ3h0aFNDUU1oQnZWQ1phbnZzNVFpdnJXdEhoQkVHZHc3eHF3SVRGYzJIbm5UejRjdFktb3ZhcnBn?oc=5",
       "date": "Mon, 12 Oct 2026 17:03:00 GMT",
       "source": "위키트리",
-      "score": 4
-    },
-    {
-      "title": "스탠다드차타드, 리플(XRP) 레저 기반 RLUSD 수탁 서비스 개시…LMAX그룹과 담보 통합 추진",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5BU0JLU3dGQ2NKM1lGR0E2RFNzbEk0bFdnclF2VUhOMVlyRGNHc3pKQkd6RHJrS0ZVbjBJcS01V2xIcVB5U19BX1hEUUJiaDlTN3JPYUdjejJ6OU11R0lkN1JGaw?oc=5",
-      "date": "Mon, 12 Oct 2026 14:25:00 GMT",
-      "source": "CBC뉴스",
       "score": 3
     },
     {
-      "title": "스탠다드차타드, XRP 레저 RLUSD 수탁 개시…토큰화 주식 시장 23억 달러 규모",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ENi1MY1FwS2ZVM1JVb3hwZ09oVzF0eVpFbGp3OGZEbE85T2drX3d1UWsyR1JvZVJtVmRiN1hrVEpoenJ4Snh1RmUtRGZUSDFuN1FsbW1n?oc=5",
-      "date": "Mon, 12 Oct 2026 14:00:00 GMT",
-      "source": "위키트리",
-      "score": 2
+      "title": "스탠다드차타드, 리플(XRP) 레저 기반 RLUSD 수탁 서비스 개시…LMAX그룹과 담보 통합 추진",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JYzNvRC1GZEVJd3BOOGpXaU54Ni1GS3ZRMEVqSFlCSlJJZmRVYzVKYkR5RDZGLVRWRVFXRkdDYng1LTdRaXpibFNtZ2dCY2tMcmY3UjNxajVzY0NTV3NBZk8wOGtqbzdB?oc=5",
+      "date": "Mon, 12 Oct 2026 14:25:00 GMT",
+      "source": "CBC뉴스",
+      "score": 3
     },
     {
       "title": "비트코인·이더리움 ETF서 12억 달러 이탈, 리플은 13주 이상 자금 유입…엇갈린 암호화폐 시장",
@@ -148,17 +141,24 @@
       "score": 3
     },
     {
-      "title": "XRP 고래 보유량 39억개 유지…마르티네스는 삼각 수렴 분석",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJVlFTb0VuNjFlcjRfOVpremRRTmUtQlg0MmNHc1JZc2pNX0xocFk1ZEdBU2pORmU3SDItT3BRZnMzTEhZMTRRc3lJWkpmanJoQzBMY0VuSmFUZVJya2I3VQ?oc=5",
-      "date": "Mon, 12 Oct 2026 10:51:44 GMT",
-      "source": "토큰포스트",
-      "score": 9
+      "title": "속보 | 톰 리 “한국 증시 급락 여파, 암호화폐 시장으로 확산될 듯”",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE85bmVRQVA3V3BGMnNZT1RsUjNtTFY5eDFyWTRVSVpEem9KRjFkaklLRXVPWU0yXzZseG9CNkdFU3lHZ092cWNoNzRiVEc0MkNw?oc=5",
+      "date": "Mon, 12 Oct 2026 09:16:00 GMT",
+      "source": "CoinNess",
+      "score": 8
     },
     {
       "title": "AI 보안 에이전트, XRP 레저 11년 된 18조개 무단 발행 버그 발견",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51THNXMVlENGNuelgwekNaYUFuaVhqZzJWN0lXZ21ueHprV0k3cmstZkNFM2lONHZBTTJLWl9oN2lvZ2FoMFBPQUxfMmp6U3FHaV9mcUJOQjNEaUtPUmh3Y296VEZiaWNKMXRiMnhER0o?oc=5",
       "date": "Sun, 11 Oct 2026 23:15:00 GMT",
       "source": "블록체인투데이",
+      "score": 2
+    },
+    {
+      "title": "XRP 초과 발행 허용할 뻔한 XRPL 버그 수정...악용 흔적은 없어",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE44bFBROExLLU02TlpPTFplZlNKYndLZGRSRG5pbzlBcTlaNnlXeDJheTBxWGZLVXRmcWg1cVNGNUFteURWUUR0TmhCU1hLOGtQZmJuTEcxUElCS1ZiWVo2elp5SUlBWDdUamN2WnZtaWVaaG8?oc=5",
+      "date": "Sun, 11 Oct 2026 20:33:07 GMT",
+      "source": "디지털투데이",
       "score": 2
     }
   ]
