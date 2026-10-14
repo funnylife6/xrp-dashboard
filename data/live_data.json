@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-10-13T23:21:16",
+  "generated_at": "2026-10-14T02:02:01",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.37,
-    "price_krw": 1831.77,
-    "price_change_24h": 1.32639,
-    "price_change_7d": -8.84955,
-    "price_change_30d": 2.10861,
-    "market_cap_usd": 86182791452,
+    "price_krw": 1829.36,
+    "price_change_24h": 1.18148,
+    "price_change_7d": -7.5034,
+    "price_change_30d": 1.31441,
+    "market_cap_usd": 86365962799,
     "market_cap_rank": 5,
-    "volume_24h": 1994954685,
+    "volume_24h": 1737364917,
     "circulating_supply": 63129671205.0,
     "total_supply": 99985607990.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 66.13,
-    "sentiment_votes_down": 33.87,
+    "sentiment_votes_up": 61.4,
+    "sentiment_votes_down": 38.6,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 24.62,
-    "recent_tps": 24.62,
-    "recent_tx_count": 2216,
-    "recent_ledger_count": 21,
+    "tps_24h_avg": 26.04,
+    "recent_tps": 26.04,
+    "recent_tx_count": 2344,
+    "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 107638301,
+    "ledger_seq": 107640759,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-10-13 23:21:06 KST",
+    "updated_at": "2026-10-14 02:01:52 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,6 +92,20 @@
   ],
   "general_news": [
     {
+      "title": "XRP·RLUSD 결제 확대되나…리플, 프리비와 손잡고 XRPL 결제 인프라 강화",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmYXlfQUZuWGRacEZtRVVnU1hIckR0YzY5VUVpTklrSmliVVhjUm1kemJ2VzdEdVV1YXRGbGNERDdnOXprSU1nOWRYQ3hPbkpKQkpUMFdaenhOZ3AtT3hJZzdjdEZwNS1B?oc=5",
+      "date": "Wed, 14 Oct 2026 00:08:25 GMT",
+      "source": "CBC뉴스",
+      "score": 3
+    },
+    {
+      "title": "스탠다드차타드 품은 RLUSD, 리플 월가 확장 이끈다…XRP 입지 흔들릴까",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE51Umg5MlJHbFVSSkdscDM4Nnh6cUM3WklBS0NnYnB6YVdDU3RXWHRvMzZ1ajRRUzhtdExBY2RRTTdWZndPcjZrQ1hscEx4MklTYUg2R3haMmNqNktJZDdmV25QeVBfYldpUFlUUUFLWlRaWFk?oc=5",
+      "date": "Tue, 13 Oct 2026 23:54:10 GMT",
+      "source": "디지털투데이",
+      "score": 3
+    },
+    {
       "title": "XRP 직접 매수 대신 XRPN?…에버노스 주식 투자 가치와 전략 분석",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT0lQNmk0TnA1eGM5RzV5T05vVjJUWjl3d3l5ZV9mSzkyRmx4QWk4NjZBaDJQdE5ZOFg1UnJBeW1oaHNLNDZDRHFFSnBoaFhEcXJCdjlsTDVjSk5QTlotUXNLSGgzUjY4cHRkSW91Z2N0VEhab1VOZllkaDJfNG83Z1ExVzJmQUZs?oc=5",
       "date": "Tue, 13 Oct 2026 22:49:32 GMT",
@@ -113,6 +127,13 @@
       "score": 4
     },
     {
+      "title": "XRP 투자 기업 에버노스, 주주 명단 공개…리플 창업자·SBI 대거 참여",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5pOE1CQjlTQU9uaEVLSXNoZXpUenpNR01RV3ZFeFc2dTl2RENPZmpRUjRRb1V5bVN2MFBHTDB0Ul9jNnMyVkE5dzdxOW5QSTZfS2o0Nnl1MjA?oc=5",
+      "date": "Tue, 13 Oct 2026 21:39:40 GMT",
+      "source": "블록미디어",
+      "score": 2
+    },
+    {
       "title": "리플에 무슨 일이! 롱 포지션 1,797만 달러 청산에 일주일 새 9% 넘게 추락",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1pNnJWV2JRT2lxMy14WG5xcEozSGxRdEtMd1o0SXJRb09jdzZfVWQzTmxXOFJxOGNOQTRvV3EweDNWd3NMdmZ1UVhB?oc=5",
       "date": "Tue, 13 Oct 2026 11:49:00 GMT",
@@ -127,38 +148,17 @@
       "score": 2
     },
     {
+      "title": "리플 지원 에버노스 나스닥 입성…XRP 4억7,300만 개 보유에도 웃지 못하는 이유는?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5yX1N4eEd2LXU2Rkp0ekFxTktFYUZxYUxLdkI2enNhcThMSk9VamdQcU5GZTZYWXJnVV84TTJBRnloTWswYVpvYk9n?oc=5",
+      "date": "Tue, 13 Oct 2026 07:03:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
       "title": "\"스탠다드차타드가 RLUSD 품었다\"...XRP, 1.5달러 뚫을까?",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE51UWFaNnI2SkxYRVJLSzFIUUl5cFB3aHhZZEtfQnFqSWY1dHlEQ1pZdUNmeDdQdmVFbU1hNGt5WEhTR0VoTUJ0TTZn?oc=5",
       "date": "Mon, 12 Oct 2026 22:20:00 GMT",
       "source": "코인리더스",
-      "score": 2
-    },
-    {
-      "title": "리플XRP 3.67% 하락…깃코인 62% 급등·리저브라이트 25% 급락",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5xSE5pLWtYZlV6c01CSXl3bmEyT1cxbHNscTJ1b0Yzdno5RDFCaDFrd2s3bGlFejRZWVBTbjZjMGhxS3JzVFhJSlQwOWMtRDBWM3hUb19BU2lFZGQ4RXdUUHRQYjBqMGRxM1F2d0xNZFloZw?oc=5",
-      "date": "Mon, 12 Oct 2026 22:10:46 GMT",
-      "source": "톱스타뉴스",
-      "score": 2
-    },
-    {
-      "title": "스탠다드차타드, RLUSD 수탁 서비스 개시...\"토큰 전송 없이 담보 인정\"",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8tR1VlVjBaWTVKWWd1dUJvbWZXY1dkQ19GNGZ4eVJPaTkyTFFTbTVhMzZwbUNsZVp2M1ozazNRdDNjeDR2bDlyaEt3?oc=5",
-      "date": "Mon, 12 Oct 2026 21:30:00 GMT",
-      "source": "코인리더스",
-      "score": 1
-    },
-    {
-      "title": "스탠다드차타드 RLUSD 수탁 개시…XRP 바이낸스 현물 거래대금 이틀 새 78.6% 급감",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwWUw3aU1hbTVORmFIWmV0Sm5hSkxMZ3h0aFNDUU1oQnZWQ1phbnZzNVFpdnJXdEhoQkVHZHc3eHF3SVRGYzJIbm5UejRjdFktb3ZhcnBn?oc=5",
-      "date": "Mon, 12 Oct 2026 17:03:00 GMT",
-      "source": "위키트리",
-      "score": 4
-    },
-    {
-      "title": "‘리플 지원’ 에버노스, 나스닥 상장 첫날 급등 후 하락",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ra0liN3M1MHVmZkptRzBLUFlzeGZ3QmZDaGN3OWROcTJHLWswajZVLVZfN3lxMGJpX19DRkFraUhYdFRJSlgweGZ0T3UxUjRGZy1waE9lV1E?oc=5",
-      "date": "Mon, 12 Oct 2026 14:41:51 GMT",
-      "source": "블록미디어",
       "score": 2
     }
   ]
