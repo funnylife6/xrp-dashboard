@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-10-14T13:12:38",
+  "generated_at": "2026-10-14T18:05:27",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.36,
-    "price_krw": 1819.96,
-    "price_change_24h": -0.18163,
-    "price_change_7d": -5.97722,
-    "price_change_30d": -2.58011,
-    "market_cap_usd": 85727510408,
+    "price_usd": 1.33,
+    "price_krw": 1780.42,
+    "price_change_24h": -2.74975,
+    "price_change_7d": -6.43089,
+    "price_change_30d": -7.48992,
+    "market_cap_usd": 83754081531,
     "market_cap_rank": 5,
-    "volume_24h": 1788656107,
+    "volume_24h": 1851621883,
     "circulating_supply": 63129671205.0,
     "total_supply": 99985607990.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 56.45,
-    "sentiment_votes_down": 43.55,
+    "sentiment_votes_up": 57.14,
+    "sentiment_votes_down": 42.86,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 26.38,
-    "recent_tps": 26.38,
-    "recent_tx_count": 2348,
+    "tps_24h_avg": 17.55,
+    "recent_tps": 17.55,
+    "recent_tx_count": 1562,
     "recent_ledger_count": 24,
     "recent_window_sec": 89,
-    "ledger_seq": 107651074,
+    "ledger_seq": 107655588,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-10-14 13:12:26 KST",
+    "updated_at": "2026-10-14 18:05:18 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -47,6 +47,13 @@
     "data_source": "news_parse"
   },
   "etf_news": [
+    {
+      "title": "리플(XRP), 기관 금융권 진입 확대에도 가격 약세…ETF·RLUSD·XRPL 성장의 변수는",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wTTdsSE9FOHEwR0ZIMEpFbzNLU0NlVjE3RGtkMzNCZ29BeElWNEdvR1ByU3c3NXpsSVNUMWxTR0pLd1FGeVpESDkzQWVzVThzWVNNS2VJWTl3Q3ozOU8xcE1zRnlZSXA3?oc=5",
+      "date": "Wed, 14 Oct 2026 15:35:00 GMT",
+      "source": "CBC뉴스",
+      "score": 0
+    },
     {
       "title": "리플 현물 ETF 12주 연속 자금 유입에도 2억3,000만 달러 평가손실…1.31달러 무너지면?",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAxa1VzQV9EcE5Vbkc1c1VwTlhSOUs4VTFhc09DeHFYcUExYVNzejlXQlY3UnhCclo0Rl9yY19ySzQ3MEVTWnI2NTZR?oc=5",
@@ -81,20 +88,20 @@
       "date": "Mon, 12 Oct 2026 05:48:18 GMT",
       "source": "PANews",
       "score": 0
-    },
-    {
-      "title": "솔라나 ETF, 14주 매수 행진 끝…최대 주간 유출",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyMjRNNXViY0FXUTY2UURjVGJTTi00TXdWMUk2TDdzMmFFZFNiTmdKY1NWdTdrc1lkeUktV243NE1fRS1lMEo1aVZsdXRBdVZUT1pYXzRyZHlROUljeVdlckNjYlA0WEZMV0QzRXlmTzg?oc=5",
-      "date": "Mon, 12 Oct 2026 04:51:12 GMT",
-      "source": "BeInCrypto",
-      "score": 0
     }
   ],
   "general_news": [
     {
+      "title": "리플(XRP), 기관 금융권 진입 확대에도 가격 약세…ETF·RLUSD·XRPL 성장의 변수는",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wTTdsSE9FOHEwR0ZIMEpFbzNLU0NlVjE3RGtkMzNCZ29BeElWNEdvR1ByU3c3NXpsSVNUMWxTR0pLd1FGeVpESDkzQWVzVThzWVNNS2VJWTl3Q3ozOU8xcE1zRnlZSXA3?oc=5",
+      "date": "Wed, 14 Oct 2026 15:35:00 GMT",
+      "source": "CBC뉴스",
+      "score": 5
+    },
+    {
       "title": "XRP, 한국 위상 하락하나…체이널리시스·업비트 데이터 인사이트",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBabWFkbTA4TGlIcEFQTTByV3BoX0JwNUJTVHByalZUamdaUmVPWk9CZjdMSjkwUlJsb1VUWWFub2V2VW4zNWNOT29oQzhlTEp1eDhhaW5LWlFnWHVwZlhIN3I1TzBSMnNEQXRBZzhUdG9LRlE?oc=5",
-      "date": "Wed, 14 Oct 2026 12:12:19 GMT",
+      "date": "Wed, 14 Oct 2026 12:35:51 GMT",
       "source": "BeInCrypto",
       "score": 3
     },
@@ -127,18 +134,11 @@
       "score": 2
     },
     {
-      "title": "스탠다드차타드, 두바이서 리플 24억달러 규모 RLUSD 스테이블코인 수탁 개시",
-      "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxOLTZrYl85VHlUbHU0MjEwblk3V0I0bjBhdEhwbElzc0I3VVdlQjBMdjhuVURsal9RVGJoTWpPcVNRTTVmS0lveGhQaWFObG5wTGJjMlFFSExfYUxJcldnazZNelE5R2dIZS1XZkdfYWVjYnFtNXVhU2M1OWFFUi04bFRPR01oazBsRXFfVTlmU1I0SkxiRTFySHp4UlZmN2c0b0I5UG1leFNHNW9WMU5ncHY2NXpod3Y0aG1zTVdzXzRIb1I4UXhyaFdycHpKRE1VUHZhcXk4WnhBZEpoY18ycmR4bTV4SXFmNVNuYjhrMjhvVmV3YTNuVmVTSDNkQ2o1cVNaalRYUzRSdTFuUURrRGlycXhFNW1sTUZfaXp4YVc1cndkZ1BZSmRnTXNHcW9GZ1k0Wi0taFBrYVVONzVsR2d2UTJ4R1cyM3dLUTFfS3hLTWhBdEpXRzIzWDI5bUl2MXczQ3hpcGVFeFc1RU0wUXUxS0UtN1VBdV8wYzdpYUZVRDdGeXIzcmtZeTQ3cjFFN0lVX01ETGdRby1rNy1vUU1FMUI?oc=5",
-      "date": "Wed, 14 Oct 2026 02:09:05 GMT",
-      "source": "Yellow.com",
+      "title": "리플, RLUSD 1960만개 추가 발행…스탠다드차타드도 수탁 개시",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5qY055VmIyNGtpTGVNMEVNenQ3V0dxY0sybjVSbGVlaTJXU19vbXM1d3dmcEdKS2U4R1dUUUxMcktkYTl5ZkpUbHZ0cWlwN1BrME5zNVk5NVN2QnVVdmJDMklPWUxRNk5aa2hDV1B2M2IxWG8?oc=5",
+      "date": "Wed, 14 Oct 2026 01:11:49 GMT",
+      "source": "디지털투데이",
       "score": 2
-    },
-    {
-      "title": "XRP·RLUSD 결제 확대되나…리플, 프리비와 손잡고 XRPL 결제 인프라 강화",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmYXlfQUZuWGRacEZtRVVnU1hIckR0YzY5VUVpTklrSmliVVhjUm1kemJ2VzdEdVV1YXRGbGNERDdnOXprSU1nOWRYQ3hPbkpKQkpUMFdaenhOZ3AtT3hJZzdjdEZwNS1B?oc=5",
-      "date": "Wed, 14 Oct 2026 00:08:25 GMT",
-      "source": "CBC뉴스",
-      "score": 3
     },
     {
       "title": "스탠다드차타드 품은 RLUSD, 리플 월가 확장 이끈다…XRP 입지 흔들릴까",
