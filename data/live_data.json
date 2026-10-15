@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-10-15T18:47:55",
+  "generated_at": "2026-10-15T21:53:10",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.34,
-    "price_krw": 1800.52,
-    "price_change_24h": 1.35678,
-    "price_change_7d": 1.13404,
-    "price_change_30d": -4.54029,
-    "market_cap_usd": 84654872496,
+    "price_krw": 1797.23,
+    "price_change_24h": 0.56055,
+    "price_change_7d": -2.77638,
+    "price_change_30d": 3.58873,
+    "market_cap_usd": 84568001098,
     "market_cap_rank": 5,
-    "volume_24h": 2424785955,
+    "volume_24h": 2310617452,
     "circulating_supply": 63129671205.0,
     "total_supply": 99985607990.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 67.5,
-    "sentiment_votes_down": 32.5,
+    "sentiment_votes_up": 67.95,
+    "sentiment_votes_down": 32.05,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 65.06,
-    "recent_tps": 65.06,
-    "recent_tx_count": 5855,
+    "tps_24h_avg": 19.62,
+    "recent_tps": 19.62,
+    "recent_tx_count": 1609,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 107678512,
+    "recent_window_sec": 82,
+    "ledger_seq": 107681382,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-10-15 18:47:42 KST",
+    "updated_at": "2026-10-15 21:53:00 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -47,6 +47,13 @@
     "data_source": "news_parse"
   },
   "etf_news": [
+    {
+      "title": "리플(XRP) 6% 급락, 1.30달러 지지선 위태…ETF 유입에도 하락세 지속",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaUVFOWZOYTdlTnZjemZGM1JGZWVRWHlsc1lsU0dmbTNLN3hJUi1VaHFCOTJVSVV5bk91YXdrbWRUeE1XZ3l3dnVrSGcwWGhGNXZ4Q0RkT3ZiZkJlaDVtV05wNnpRanZFV0ZWV2w4NmVwWXh2YlFtV05wc1liZ1JpSFpn?oc=5",
+      "date": "Thu, 15 Oct 2026 16:53:26 GMT",
+      "source": "icobench.com",
+      "score": 0
+    },
     {
       "title": "리플프라임, 기관 대상 실물자산 연계 무기한스왑 출시",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1YSWdlZHVtN1piZDBlNXduaEtWd0VSSEc0QmgwcUdYMjh4VzJ4R0Z4TUQtX00wQ29XTUk0dzk2Z2psOWVDT0tfWExuY1hfUG84?oc=5",
@@ -81,16 +88,23 @@
       "date": "Wed, 14 Oct 2026 15:35:00 GMT",
       "source": "CBC뉴스",
       "score": 0
-    },
-    {
-      "title": "리플 현물 ETF 12주 연속 자금 유입에도 2억3,000만 달러 평가손실…1.31달러 무너지면?",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAxa1VzQV9EcE5Vbkc1c1VwTlhSOUs4VTFhc09DeHFYcUExYVNzejlXQlY3UnhCclo0Rl9yY19ySzQ3MEVTWnI2NTZR?oc=5",
-      "date": "Tue, 13 Oct 2026 22:27:00 GMT",
-      "source": "코인리더스",
-      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "페페 한 달 21% 뛸 때 XRP 주춤…외신 \"1년 뒤 승자는 리플\"",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdHZSS2VxVGMtXzBiLWplSnhSa2M1eG1YRnAtNkRfYWpOLTdNQ3pUTzU5SWpCV3BNcEFGMk9mM3M2bXFZNHVvSDdtaVZYbTNKLXlnOGpHUjhVWF82N0pwajIwdmtlQk5HRURCeTRTSWxycGVubHIzMTZ4NVYyOVlIWUR4WVgxLXp3?oc=5",
+      "date": "Thu, 15 Oct 2026 20:05:00 GMT",
+      "source": "글로벌이코노믹",
+      "score": 2
+    },
+    {
+      "title": "리플(XRP) 6% 급락, 1.30달러 지지선 위태…ETF 유입에도 하락세 지속",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaUVFOWZOYTdlTnZjemZGM1JGZWVRWHlsc1lsU0dmbTNLN3hJUi1VaHFCOTJVSVV5bk91YXdrbWRUeE1XZ3l3dnVrSGcwWGhGNXZ4Q0RkT3ZiZkJlaDVtV05wNnpRanZFV0ZWV2w4NmVwWXh2YlFtV05wc1liZ1JpSFpn?oc=5",
+      "date": "Thu, 15 Oct 2026 16:53:26 GMT",
+      "source": "icobench.com",
+      "score": 3
+    },
     {
       "title": "리플, RLUSD 은행 시스템 연결…XRP 레저 거래 지원",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mdFY4eFlxTk5RM2NiRjN5aVhSWEtvUFdjWnB0UDUtcmFubnZsNmlWa293TzNTZDBlOU5tYmFJSTZGN09PdWVaRzBnNGFJUGlfRkJzdEprSmt0Y0xRRXJHRg?oc=5",
@@ -113,18 +127,18 @@
       "score": 4
     },
     {
+      "title": "리플·프리비, ‘앱 속 지갑’으로 결제 문턱 낮춘다…XRP·RLUSD 활용 확대",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1eUs1MnE2YVdhNGNQX3dkNFZvQzBnY0plamc3SDlKN3hWZFVJOGVNZFZTVXV2NHNubnZXVWp1RU1oc3dScDJUMjViYTlOWkc3TV9BcXNzU0huQ0NDQ2VkZFQ3aGhNcTTSAWtBVV95cUxQTDhhSW9ySmhVR2Rfc2lqalVtVHlUdnhJb1o5Mi04VG0xZ2k2bmEyN00tZ01sMEV4cDhHc3lwZnpkMGFKWXZQWGFSNG1FRS1SVzVhRWRMUVlQdDMxeW81RHAtbW5vQmhMZEtPMA?oc=5",
+      "date": "Thu, 15 Oct 2026 04:20:18 GMT",
+      "source": "비온미디어",
+      "score": 3
+    },
+    {
       "title": "리플(XRP), 드라이브웰스와 손잡았다…RLUSD 앞세워 글로벌 결제 시장 확대",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90WjNuU0hWRnk3UnFUa1dBQ21oMnVkZlVjZHpURVU1SGZJUGMzT0hHZFRoM3pGS2NyTXRTVEpqVEhuQ0xjYjZBRndmZEkxZmNDbEZWQjFhMXBweWJPb3BqcTFQc1RHYzZl?oc=5",
       "date": "Thu, 15 Oct 2026 03:42:05 GMT",
       "source": "CBC뉴스",
       "score": 3
-    },
-    {
-      "title": "리플, RLUSD로 美 주식 거래 자금 정산…드라이브웰스와 제휴",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE43MWhhZTVZRXdQZXRDRjMxdVFIQjk1VmRpa2sxNG9hb3J6Sk1KelJ3bGNiSTJvVERpSnNxYk1aMFJ5WVlxaVRTaHJyd1ZUMUVremctTWN2VmY4NmttN1k0eUttUWpRWUl5MWtuaDYwckk3eTg?oc=5",
-      "date": "Wed, 14 Oct 2026 23:51:05 GMT",
-      "source": "디지털투데이",
-      "score": 2
     },
     {
       "title": "리플, 드라이브웰스와 손잡고 글로벌 결제 확대…XRP·RLUSD 활용 강화",
@@ -145,20 +159,6 @@
       "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQRlRmYlY0RVlRWDdEM1ota3RnZ0dxUkJCeUEtUmpXMHdmR1dKVjd3UnlnaTE0aG05akdudGV1NEV1MWtCUGl3UDE1RXBfWU16eUNMdmRwR3dLbXZpem1mR1dLMkhlaTBfWU5yTEdQQVBvVVNOT1Vnc1JXMnBNbHZoaHVTemZLMFNDaHNYUmp0TTMyX3hLQXZ3LTBhbmhIc3Fra2xuSm1PYmRhUkhGV3ZYOU4xS0RpODFlOTZkOHo1RnR1LTFVcDlvQVoteWV3R3RwSDdGRFdUSmhpRkZOSHNrX251bExORDNFZ25LWDVPdUFnMmpJUHZYZVZWSVFCbmxXa0ZEUzVMYWZGd0t4Z0s2OFZIaTB1emQzSEx1dEI5OW5JZ1VrM1hN?oc=5",
       "date": "Wed, 14 Oct 2026 22:40:00 GMT",
       "source": "IDNFinancials",
-      "score": 3
-    },
-    {
-      "title": "코인거래액 25.1% 급감…리플XRP 약세 속 월러스 69% 급등",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5qbjBEM0VMVnV0OHpTMUZiYUU1eFhuX0tnS2llVV9PNjhoNUIwUnBkMW9DN3VudWtCdTV6anYxcXQtc1c4R0UyUHRzSFgyLXUzTi15OVdSbXJ6cGNsbGlkRTBhSUJMXzVJc183WWEzS3hqUQ?oc=5",
-      "date": "Wed, 14 Oct 2026 22:10:01 GMT",
-      "source": "톱스타뉴스",
-      "score": 2
-    },
-    {
-      "title": "기관 1억불 꽂혔는데 제자리…리플 '1.30달러 방어' 살얼음",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUzUxQ1lSWEhRMWU1WlNIMExPTTAwQUxPZ0N6WG9KMlhGTzlHSERmbHlXSVR1eVRGbUo0SEV3U183RWNPTWV6bUZLTWN0Wjl4bk9jU05HSi0yWl93NlQ1bkFoZVB1bG9kZ3hwM1dvdXozRTdaLUFSZDF0bTd4cEtRdWhGeUFQNV9h?oc=5",
-      "date": "Wed, 14 Oct 2026 20:20:00 GMT",
-      "source": "글로벌이코노믹",
       "score": 3
     }
   ]
