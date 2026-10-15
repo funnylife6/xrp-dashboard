@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-10-15T00:12:28",
+  "generated_at": "2026-10-15T04:56:30",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.33,
-    "price_krw": 1786.78,
-    "price_change_24h": -2.57081,
-    "price_change_7d": -6.24258,
-    "price_change_30d": -6.39849,
-    "market_cap_usd": 84099358120,
+    "price_usd": 1.32,
+    "price_krw": 1781.7,
+    "price_change_24h": -3.89822,
+    "price_change_7d": -6.66861,
+    "price_change_30d": -6.56819,
+    "market_cap_usd": 83452810313,
     "market_cap_rank": 5,
-    "volume_24h": 1961183376,
+    "volume_24h": 2362428815,
     "circulating_supply": 63129671205.0,
     "total_supply": 99985607990.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 58.82,
-    "sentiment_votes_down": 41.18,
+    "sentiment_votes_up": 64.86,
+    "sentiment_votes_down": 35.14,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 21.71,
-    "recent_tps": 21.71,
-    "recent_tx_count": 1954,
+    "tps_24h_avg": 22.31,
+    "recent_tps": 22.31,
+    "recent_tx_count": 2008,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 107661255,
+    "ledger_seq": 107665646,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-10-15 00:12:10 KST",
+    "updated_at": "2026-10-15 04:56:20 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,6 +92,27 @@
   ],
   "general_news": [
     {
+      "title": "리플(XRP), 드라이브웰스와 손잡았다…RLUSD 앞세워 글로벌 결제 시장 확대",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90WjNuU0hWRnk3UnFUa1dBQ21oMnVkZlVjZHpURVU1SGZJUGMzT0hHZFRoM3pGS2NyTXRTVEpqVEhuQ0xjYjZBRndmZEkxZmNDbEZWQjFhMXBweWJPb3BqcTFQc1RHYzZl?oc=5",
+      "date": "Thu, 15 Oct 2026 03:42:05 GMT",
+      "source": "CBC뉴스",
+      "score": 3
+    },
+    {
+      "title": "XRP 예치금, 디파이 보장 자본으로…청구 손실도 분담",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JdHBJYkpfbzNXRTZLMWtVZDdoN016NEtMbVJlOWkyMDB3eGpqYlNfZ3pIT3ZxVTNkV0pWdlRScVBEemJ2Q2RRNGU0TE5oWFV0N3pxQXVYd3lYdUd5NXB6dQ?oc=5",
+      "date": "Thu, 15 Oct 2026 03:14:52 GMT",
+      "source": "토큰포스트",
+      "score": 9
+    },
+    {
+      "title": "XRP, 2018년·2022년 중간선거 후 모두 급락...이번에는 다를까?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA0R0RvVGVIeU1lV0g2YUNKZndJcEFPdkxPblB4WG1UaS1USm00V3N4UWdIaEs3S2tHMXV3N01LbGZXTlBTZHFvZzBR?oc=5",
+      "date": "Thu, 15 Oct 2026 03:10:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
       "title": "리플, RLUSD로 美 주식 거래 자금 정산…드라이브웰스와 제휴",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE43MWhhZTVZRXdQZXRDRjMxdVFIQjk1VmRpa2sxNG9hb3J6Sk1KelJ3bGNiSTJvVERpSnNxYk1aMFJ5WVlxaVRTaHJyd1ZUMUVremctTWN2VmY4NmttN1k0eUttUWpRWUl5MWtuaDYwckk3eTg?oc=5",
       "date": "Wed, 14 Oct 2026 23:51:05 GMT",
@@ -138,27 +159,6 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxc0oyeDk3cnBYWTB3TC0xbUpGSUFaQ2FxRm9lZzBmVndCODBQRVNVVUlZS0J2RDBldndKZFowLXNIRHFiazFvc095N3hhaTlxOHVqWmtR?oc=5",
       "date": "Wed, 14 Oct 2026 17:01:00 GMT",
       "source": "위키트리",
-      "score": 2
-    },
-    {
-      "title": "리플(XRP), 기관 금융권 진입 확대에도 가격 약세…ETF·RLUSD·XRPL 성장의 변수는",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wTTdsSE9FOHEwR0ZIMEpFbzNLU0NlVjE3RGtkMzNCZ29BeElWNEdvR1ByU3c3NXpsSVNUMWxTR0pLd1FGeVpESDkzQWVzVThzWVNNS2VJWTl3Q3ozOU8xcE1zRnlZSXA3?oc=5",
-      "date": "Wed, 14 Oct 2026 15:35:00 GMT",
-      "source": "CBC뉴스",
-      "score": 5
-    },
-    {
-      "title": "XRP, 한국 위상 하락하나…체이널리시스·업비트 데이터 인사이트",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBabWFkbTA4TGlIcEFQTTByV3BoX0JwNUJTVHByalZUamdaUmVPWk9CZjdMSjkwUlJsb1VUWWFub2V2VW4zNWNOT29oQzhlTEp1eDhhaW5LWlFnWHVwZlhIN3I1TzBSMnNEQXRBZzhUdG9LRlE?oc=5",
-      "date": "Wed, 14 Oct 2026 12:35:51 GMT",
-      "source": "BeInCrypto",
-      "score": 3
-    },
-    {
-      "title": "리플 RLUSD, 3860만 달러 발행·5060만 달러 소각",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qcW1pdExUOThMTmRjMnljU2ppQk9RaVlqcVNRUi1lN2NKTnBLQS1Hc3drN2dCOHpSbnpFMlBJMFctVHk5OFFHbmhNUDF5eTVFR1dmT0lJOFNKSjZlbk9pMm9MN2lTMUZM?oc=5",
-      "date": "Wed, 14 Oct 2026 07:38:11 GMT",
-      "source": "CBC뉴스",
       "score": 2
     }
   ]
