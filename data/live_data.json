@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-10-15T04:56:30",
+  "generated_at": "2026-10-15T09:34:20",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.32,
-    "price_krw": 1781.7,
-    "price_change_24h": -3.89822,
-    "price_change_7d": -6.66861,
-    "price_change_30d": -6.56819,
-    "market_cap_usd": 83452810313,
+    "price_krw": 1769.45,
+    "price_change_24h": -3.62777,
+    "price_change_7d": -6.67194,
+    "price_change_30d": -5.7322,
+    "market_cap_usd": 83119859359,
     "market_cap_rank": 5,
-    "volume_24h": 2362428815,
+    "volume_24h": 2399342034,
     "circulating_supply": 63129671205.0,
     "total_supply": 99985607990.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 64.86,
-    "sentiment_votes_down": 35.14,
+    "sentiment_votes_up": 67.9,
+    "sentiment_votes_down": 32.1,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 22.31,
-    "recent_tps": 22.31,
-    "recent_tx_count": 2008,
+    "tps_24h_avg": 18.68,
+    "recent_tps": 18.68,
+    "recent_tx_count": 1532,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 107665646,
+    "recent_window_sec": 82,
+    "ledger_seq": 107669955,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-10-15 04:56:20 KST",
+    "updated_at": "2026-10-15 09:34:09 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -47,6 +47,13 @@
     "data_source": "news_parse"
   },
   "etf_news": [
+    {
+      "title": "XRP, ETF 13주 연속 유입…가격 왜 안 오르나?",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE45dFJDYjZvTUxxc3U0SkVzWF9wZlJHSG9ZLW5jMVBaMGpSNUxFbm1mSS1CbVZkUkFQU282OVdzVEJjWTFtTjVSa2pYMi04emx5V0dETDd1RnQtcGVFMGJVNEVaQXdoUXlFRDdsNVBOQ1poa3M?oc=5",
+      "date": "Thu, 15 Oct 2026 09:18:08 GMT",
+      "source": "BeInCrypto",
+      "score": 0
+    },
     {
       "title": "리플 ETF에 무슨 일이…3일 연속 자금 유입 '제로', 13주 연속 기록 끝나나?",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBTS0FLVTlySWtxTVY4ZGlDTjM2cW9QVVlRRUxRSl9kSmhobGJ4RnphNHhPUlVvZ1pyNXZJMnpndTBkd2NpVHUxdl9R?oc=5",
@@ -81,13 +88,6 @@
       "date": "Tue, 13 Oct 2026 01:37:23 GMT",
       "source": "디지털투데이",
       "score": 0
-    },
-    {
-      "title": "XRP 현물 ETF, 지난주 1130.68만 달러 순유입",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OdUZWdDZYMWRfUS14cEJXNXNmX2xiRnhRZVk2UVgxWHY4UnFZOHRhaUJvMVFmYi1Eb0VmTlVuN1dGMFZvZ2U5alVCVjlFZHpvUkMxQnhuTkx5U1MwT1BRdGVMMXRhcEJBcmVUanRMZHFGV1J5blp4cGY3WXZibUU?oc=5",
-      "date": "Mon, 12 Oct 2026 05:48:18 GMT",
-      "source": "PANews",
-      "score": 0
     }
   ],
   "general_news": [
@@ -106,9 +106,9 @@
       "score": 9
     },
     {
-      "title": "XRP, 2018년·2022년 중간선거 후 모두 급락...이번에는 다를까?",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA0R0RvVGVIeU1lV0g2YUNKZndJcEFPdkxPblB4WG1UaS1USm00V3N4UWdIaEs3S2tHMXV3N01LbGZXTlBTZHFvZzBR?oc=5",
-      "date": "Thu, 15 Oct 2026 03:10:00 GMT",
+      "title": "리플(XRP), 1.33달러로 2.56% 하락…CPI 쇼크에 200일선 이탈",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1OdDEyNlVqWDdwNWtoejZMdmgyRWFjVUNNU09vOGgwXzNnWm9LazhEcGc3Y1RWcEluc3lBQUNPTWZrdnVNdVUxWFJB?oc=5",
+      "date": "Thu, 15 Oct 2026 00:01:02 GMT",
       "source": "코인리더스",
       "score": 2
     },
