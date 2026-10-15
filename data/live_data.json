@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-10-15T14:34:36",
+  "generated_at": "2026-10-15T18:47:55",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.31,
-    "price_krw": 1759.22,
-    "price_change_24h": -1.89721,
-    "price_change_7d": -6.50575,
-    "price_change_30d": -7.55666,
-    "market_cap_usd": 82526375240,
+    "price_usd": 1.34,
+    "price_krw": 1800.52,
+    "price_change_24h": 1.35678,
+    "price_change_7d": 1.13404,
+    "price_change_30d": -4.54029,
+    "market_cap_usd": 84654872496,
     "market_cap_rank": 5,
-    "volume_24h": 2600587220,
+    "volume_24h": 2424785955,
     "circulating_supply": 63129671205.0,
     "total_supply": 99985607990.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 65.85,
-    "sentiment_votes_down": 34.15,
+    "sentiment_votes_up": 67.5,
+    "sentiment_votes_down": 32.5,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 17.98,
-    "recent_tps": 17.98,
-    "recent_tx_count": 1600,
+    "tps_24h_avg": 65.06,
+    "recent_tps": 65.06,
+    "recent_tx_count": 5855,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 107674602,
+    "recent_window_sec": 90,
+    "ledger_seq": 107678512,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-10-15 14:34:28 KST",
+    "updated_at": "2026-10-15 18:47:42 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -47,6 +47,13 @@
     "data_source": "news_parse"
   },
   "etf_news": [
+    {
+      "title": "리플프라임, 기관 대상 실물자산 연계 무기한스왑 출시",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1YSWdlZHVtN1piZDBlNXduaEtWd0VSSEc0QmgwcUdYMjh4VzJ4R0Z4TUQtX00wQ29XTUk0dzk2Z2psOWVDT0tfWExuY1hfUG84?oc=5",
+      "date": "Thu, 15 Oct 2026 14:11:59 GMT",
+      "source": "블루밍비트",
+      "score": 0
+    },
     {
       "title": "리플 스웰, XRP 현물 ETF 첫해 점검 예고...\"맷 데이먼도 등장\"",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBiT1hXNy1hUC14eEhuczNHM0trSkRxWXViekI0c3N2V1RXemhyUTQ1bnlxQjdxVnd1Rm9EQ0JYSHBhNFYtRzgxczF3?oc=5",
@@ -81,29 +88,22 @@
       "date": "Tue, 13 Oct 2026 22:27:00 GMT",
       "source": "코인리더스",
       "score": 0
-    },
-    {
-      "title": "암호화폐 ETF 자금 이탈 가속…XRP만 1131만달러 순유입",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Fcm1lM3pSOFFxUjF3X1F1OTZsNG91cnZxMEFMcXVBRmJTUzdKTnB2a1RBYm5EX0dBUmpVcThSbmpyb2k5XzBYaFk1NDdEOUlpR3Z4LWh3V2dlNnBudk1fbnQ4blVraTZJRTdKanZuSDM0Y2s?oc=5",
-      "date": "Tue, 13 Oct 2026 01:37:23 GMT",
-      "source": "디지털투데이",
-      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "리플, RLUSD 은행 시스템 연결…XRP 레저 거래 지원",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mdFY4eFlxTk5RM2NiRjN5aVhSWEtvUFdjWnB0UDUtcmFubnZsNmlWa293TzNTZDBlOU5tYmFJSTZGN09PdWVaRzBnNGFJUGlfRkJzdEprSmt0Y0xRRXJHRg?oc=5",
+      "date": "Thu, 15 Oct 2026 15:08:19 GMT",
+      "source": "토큰포스트",
+      "score": 11
+    },
     {
       "title": "리플, 파트너 100곳과 RLUSD 동맹...\"실시간 현금화 가능\"",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9DMTNPdXdZYkxLYVJrV1lkSHZCOEh4bVBGLUVMNHFvaWJUTkwyYVlqVjhPdGo4V3hCM0FRaWQ1dkhqR0w2S3lEVUd3?oc=5",
       "date": "Thu, 15 Oct 2026 11:00:00 GMT",
       "source": "코인리더스",
       "score": 2
-    },
-    {
-      "title": "리플 대출 제안, XLS-65 21표·XLS-66 19표로 기준 미달",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FRnZJcVV6SWxHb3lZWThQazdocmlZcXo4NXFTbWVZaEpwS0xzci1mVW9rTExobzR2am12QWxsTC15dzh1VmtoS2lqQUl4eVBTbkdrLTBWckx3a0U?oc=5",
-      "date": "Thu, 15 Oct 2026 10:23:53 GMT",
-      "source": "토큰포스트",
-      "score": 9
     },
     {
       "title": "리플 스웰, XRP 현물 ETF 첫해 점검 예고...\"맷 데이먼도 등장\"",
@@ -141,6 +141,13 @@
       "score": 3
     },
     {
+      "title": "리플, Privy와 제휴하여 XRP Ledger 지갑을 앱에 통합",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQRlRmYlY0RVlRWDdEM1ota3RnZ0dxUkJCeUEtUmpXMHdmR1dKVjd3UnlnaTE0aG05akdudGV1NEV1MWtCUGl3UDE1RXBfWU16eUNMdmRwR3dLbXZpem1mR1dLMkhlaTBfWU5yTEdQQVBvVVNOT1Vnc1JXMnBNbHZoaHVTemZLMFNDaHNYUmp0TTMyX3hLQXZ3LTBhbmhIc3Fra2xuSm1PYmRhUkhGV3ZYOU4xS0RpODFlOTZkOHo1RnR1LTFVcDlvQVoteWV3R3RwSDdGRFdUSmhpRkZOSHNrX251bExORDNFZ25LWDVPdUFnMmpJUHZYZVZWSVFCbmxXa0ZEUzVMYWZGd0t4Z0s2OFZIaTB1emQzSEx1dEI5OW5JZ1VrM1hN?oc=5",
+      "date": "Wed, 14 Oct 2026 22:40:00 GMT",
+      "source": "IDNFinancials",
+      "score": 3
+    },
+    {
       "title": "코인거래액 25.1% 급감…리플XRP 약세 속 월러스 69% 급등",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5qbjBEM0VMVnV0OHpTMUZiYUU1eFhuX0tnS2llVV9PNjhoNUIwUnBkMW9DN3VudWtCdTV6anYxcXQtc1c4R0UyUHRzSFgyLXUzTi15OVdSbXJ6cGNsbGlkRTBhSUJMXzVJc183WWEzS3hqUQ?oc=5",
       "date": "Wed, 14 Oct 2026 22:10:01 GMT",
@@ -153,13 +160,6 @@
       "date": "Wed, 14 Oct 2026 20:20:00 GMT",
       "source": "글로벌이코노믹",
       "score": 3
-    },
-    {
-      "title": "리플, 메리츠증권과 한국 증권사 첫 협력…수탁·토큰화 탐색에도 XRP 매수 약속은 없다",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxc0oyeDk3cnBYWTB3TC0xbUpGSUFaQ2FxRm9lZzBmVndCODBQRVNVVUlZS0J2RDBldndKZFowLXNIRHFiazFvc095N3hhaTlxOHVqWmtR?oc=5",
-      "date": "Wed, 14 Oct 2026 17:01:00 GMT",
-      "source": "위키트리",
-      "score": 2
     }
   ]
 }
