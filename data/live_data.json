@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-10-15T21:53:10",
+  "generated_at": "2026-10-15T23:59:26",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.34,
-    "price_krw": 1797.23,
-    "price_change_24h": 0.56055,
-    "price_change_7d": -2.77638,
-    "price_change_30d": 3.58873,
-    "market_cap_usd": 84568001098,
+    "price_usd": 1.33,
+    "price_krw": 1787.65,
+    "price_change_24h": 0.24791,
+    "price_change_7d": -3.53217,
+    "price_change_30d": 3.50051,
+    "market_cap_usd": 84178415812,
     "market_cap_rank": 5,
-    "volume_24h": 2310617452,
+    "volume_24h": 2288786386,
     "circulating_supply": 63129671205.0,
     "total_supply": 99985607990.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 67.95,
-    "sentiment_votes_down": 32.05,
+    "sentiment_votes_up": 67.9,
+    "sentiment_votes_down": 32.1,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 19.62,
-    "recent_tps": 19.62,
-    "recent_tx_count": 1609,
+    "tps_24h_avg": 20.06,
+    "recent_tps": 20.06,
+    "recent_tx_count": 1785,
     "recent_ledger_count": 24,
-    "recent_window_sec": 82,
-    "ledger_seq": 107681382,
+    "recent_window_sec": 89,
+    "ledger_seq": 107683352,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-10-15 21:53:00 KST",
+    "updated_at": "2026-10-15 23:59:15 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -47,6 +47,20 @@
     "data_source": "news_parse"
   },
   "etf_news": [
+    {
+      "title": "XRP, ETF는 사는데 고래는 거래소... 힘 겨루기 승자는?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1nYmVPMWpUcVFsNEZBa3ljM3FoWWE0OFNIelZJdjRURjlXeGpxcWxLWlROcmVHVXJqbEJTTi1ndGZpRHowRV8tSVNB?oc=5",
+      "date": "Thu, 15 Oct 2026 23:10:00 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
+    {
+      "title": "리플 ETF만 13주 연속 자금 유입! 그런데 XRP 투자자들은 손실…무슨 일이?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5yY1RwRWNCY3hwLVZaQi1qcWcwbTNaVnFKTVlZUGRVZnlVMHVFT3BUeXhyREJBVDVvdnJSUEw4VnZGUTIwOUpPQUpR?oc=5",
+      "date": "Thu, 15 Oct 2026 22:29:00 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
     {
       "title": "리플(XRP) 6% 급락, 1.30달러 지지선 위태…ETF 유입에도 하락세 지속",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaUVFOWZOYTdlTnZjemZGM1JGZWVRWHlsc1lsU0dmbTNLN3hJUi1VaHFCOTJVSVV5bk91YXdrbWRUeE1XZ3l3dnVrSGcwWGhGNXZ4Q0RkT3ZiZkJlaDVtV05wNnpRanZFV0ZWV2w4NmVwWXh2YlFtV05wc1liZ1JpSFpn?oc=5",
@@ -74,23 +88,23 @@
       "date": "Thu, 15 Oct 2026 09:18:08 GMT",
       "source": "BeInCrypto",
       "score": 0
-    },
-    {
-      "title": "리플 ETF에 무슨 일이…3일 연속 자금 유입 '제로', 13주 연속 기록 끝나나?",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBTS0FLVTlySWtxTVY4ZGlDTjM2cW9QVVlRRUxRSl9kSmhobGJ4RnphNHhPUlVvZ1pyNXZJMnpndTBkd2NpVHUxdl9R?oc=5",
-      "date": "Wed, 14 Oct 2026 22:45:00 GMT",
-      "source": "코인리더스",
-      "score": 0
-    },
-    {
-      "title": "리플(XRP), 기관 금융권 진입 확대에도 가격 약세…ETF·RLUSD·XRPL 성장의 변수는",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wTTdsSE9FOHEwR0ZIMEpFbzNLU0NlVjE3RGtkMzNCZ29BeElWNEdvR1ByU3c3NXpsSVNUMWxTR0pLd1FGeVpESDkzQWVzVThzWVNNS2VJWTl3Q3ozOU8xcE1zRnlZSXA3?oc=5",
-      "date": "Wed, 14 Oct 2026 15:35:00 GMT",
-      "source": "CBC뉴스",
-      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "리플 ETF만 13주 연속 자금 유입! 그런데 XRP 투자자들은 손실…무슨 일이?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5yY1RwRWNCY3hwLVZaQi1qcWcwbTNaVnFKTVlZUGRVZnlVMHVFT3BUeXhyREJBVDVvdnJSUEw4VnZGUTIwOUpPQUpR?oc=5",
+      "date": "Thu, 15 Oct 2026 22:29:00 GMT",
+      "source": "코인리더스",
+      "score": 3
+    },
+    {
+      "title": "코인거래 39.3% 급증…리플XRP 2615억 1위·퍼퍼 26% 급락",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9KOVB3eHp6b2VJeDZBWXBQSlFsLVFOZHpHeHhDS3VwNzhfSmdMVFcxcFczX19NVk1aM3poS3pmelFKbmRBc1JDTXBJNHBTcHIxa2ZCbXJiekVPemVoUFVPT1A1bC1PbDdMalBrQWQ1VWFEdw?oc=5",
+      "date": "Thu, 15 Oct 2026 22:20:24 GMT",
+      "source": "톱스타뉴스",
+      "score": 2
+    },
     {
       "title": "페페 한 달 21% 뛸 때 XRP 주춤…외신 \"1년 뒤 승자는 리플\"",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdHZSS2VxVGMtXzBiLWplSnhSa2M1eG1YRnAtNkRfYWpOLTdNQ3pUTzU5SWpCV3BNcEFGMk9mM3M2bXFZNHVvSDdtaVZYbTNKLXlnOGpHUjhVWF82N0pwajIwdmtlQk5HRURCeTRTSWxycGVubHIzMTZ4NVYyOVlIWUR4WVgxLXp3?oc=5",
@@ -145,20 +159,6 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93VXVKLTBOOGkwZnlGSGVmdXk4SEFneDlCQzMzQ2lqUzloWHlSX3A4bUl0bFQ2N0NSdXA3QUVLSlc5dnNiTWZ4UEkwUkRDdVd1TjE5bTNvRmJSWkR2OHU0TlloZ3dXSTZPVXNwc2VB?oc=5",
       "date": "Wed, 14 Oct 2026 23:41:45 GMT",
       "source": "미디어파인",
-      "score": 3
-    },
-    {
-      "title": "리플 ETF에 무슨 일이…3일 연속 자금 유입 '제로', 13주 연속 기록 끝나나?",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBTS0FLVTlySWtxTVY4ZGlDTjM2cW9QVVlRRUxRSl9kSmhobGJ4RnphNHhPUlVvZ1pyNXZJMnpndTBkd2NpVHUxdl9R?oc=5",
-      "date": "Wed, 14 Oct 2026 22:45:00 GMT",
-      "source": "코인리더스",
-      "score": 3
-    },
-    {
-      "title": "리플, Privy와 제휴하여 XRP Ledger 지갑을 앱에 통합",
-      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQRlRmYlY0RVlRWDdEM1ota3RnZ0dxUkJCeUEtUmpXMHdmR1dKVjd3UnlnaTE0aG05akdudGV1NEV1MWtCUGl3UDE1RXBfWU16eUNMdmRwR3dLbXZpem1mR1dLMkhlaTBfWU5yTEdQQVBvVVNOT1Vnc1JXMnBNbHZoaHVTemZLMFNDaHNYUmp0TTMyX3hLQXZ3LTBhbmhIc3Fra2xuSm1PYmRhUkhGV3ZYOU4xS0RpODFlOTZkOHo1RnR1LTFVcDlvQVoteWV3R3RwSDdGRFdUSmhpRkZOSHNrX251bExORDNFZ25LWDVPdUFnMmpJUHZYZVZWSVFCbmxXa0ZEUzVMYWZGd0t4Z0s2OFZIaTB1emQzSEx1dEI5OW5JZ1VrM1hN?oc=5",
-      "date": "Wed, 14 Oct 2026 22:40:00 GMT",
-      "source": "IDNFinancials",
       "score": 3
     }
   ]
