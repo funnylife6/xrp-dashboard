@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-10-16T08:38:28",
+  "generated_at": "2026-10-16T13:39:23",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.34,
-    "price_krw": 1785.92,
-    "price_change_24h": 2.05225,
-    "price_change_7d": -4.42023,
-    "price_change_30d": 4.40956,
-    "market_cap_usd": 84650630009,
+    "price_usd": 1.33,
+    "price_krw": 1774.1,
+    "price_change_24h": 2.77261,
+    "price_change_7d": -4.25068,
+    "price_change_30d": 3.78352,
+    "market_cap_usd": 83974751910,
     "market_cap_rank": 5,
-    "volume_24h": 1683497467,
+    "volume_24h": 1505280051,
     "circulating_supply": 63129671205.0,
     "total_supply": 99985607990.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 61.84,
-    "sentiment_votes_down": 38.16,
+    "sentiment_votes_up": 71.01,
+    "sentiment_votes_down": 28.99,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 27.53,
-    "recent_tps": 27.53,
-    "recent_tx_count": 2478,
+    "tps_24h_avg": 25.39,
+    "recent_tps": 25.39,
+    "recent_tx_count": 2285,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 107691388,
+    "ledger_seq": 107696063,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-10-16 08:38:22 KST",
+    "updated_at": "2026-10-16 13:39:11 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 3750000,
     "total_net_inflow_usd": 3750000,
     "total_value_traded_usd": 3750000,
-    "updated_at": "SoSoValue 순유입 부분 수집 10/16 08:38",
+    "updated_at": "SoSoValue 순유입 부분 수집 10/16 13:39",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -93,6 +93,20 @@
   ],
   "general_news": [
     {
+      "title": "비트코인·이더리움·리플 동반 반등…기관 자금 빠지는데 상승세 이어질까",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBYTm52YzhvcHBCbmUyVHhiTHFWdlZSTUdZS0ROTExqY01UWUZvenlnNFRxOHdhUmplMm9hSS05WXYwR2xtUC00dklR?oc=5",
+      "date": "Fri, 16 Oct 2026 11:37:00 GMT",
+      "source": "코인리더스",
+      "score": 3
+    },
+    {
+      "title": "리플 RLUSD, 미국 은행 결제망 진입…크로스리버뱅크서 24시간 정산 지원",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4taUExUXVIb3ZFNGtyZElmRUV1dlZIU2J6MnBMWWExbzQydnZGRVNuNEdKOWM0aDNLdnplMWlNQS1CaHVRN1ZobDJnVGs3eVRJVHFnSXZ2ejRiYlRvMEQyRGVqN3pTd3BU?oc=5",
+      "date": "Fri, 16 Oct 2026 09:58:31 GMT",
+      "source": "IT타임스",
+      "score": 3
+    },
+    {
       "title": "XRP 가격 조정 속 기관 인프라 확대…에버노스 나스닥 상장·RLUSD 수탁",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBM3FaQjVwN1ZrUUhCLTMzdnBTSDZNMG9oVFRRcFAxNjByUDBneVdwZUhnN2NrY3phWGt4Q0tYSTU3a19kc1NRY3RRc2I4Y0F1U1dleWFVdlJET3o1ZE53ejJSZjQ2U1XSAWtBVV95cUxQTlJuR2VzWDlLdGxoS2pxbGNmNWRVdzgxTTZBYi00V2FmcGZJc01GaDJMNXBNcnYtQlJXNlNCY2dlNEdZRmdUYmhHWU5paXVOQy1nelQ0NDh6UUFJS0RRR082TjFTQTJMZm5KOA?oc=5",
       "date": "Fri, 16 Oct 2026 05:51:39 GMT",
@@ -111,13 +125,6 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kMWNucGg4enNyZlVMYUd6NXF2ZXozdFJQMldJTHpBa3Fld0R2M3ZXQzRkZHZ0OHVaZjlUM3VSTVlLYTA4TFdtQ3dtNFFTYWxwakhlZ2Z4XzB5TnNUeWM5UDBpb1o1c3dwZ095U3VLejd2UzQ?oc=5",
       "date": "Fri, 16 Oct 2026 00:27:02 GMT",
       "source": "디지털투데이",
-      "score": 2
-    },
-    {
-      "title": "리플(XRP) 1.33달러 보합권…24시간 0.25% 상승",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1FOTF0MzFaa2hDVmJXcVZQUUVhM3Jxdl9qTXJjaTZzT2pXdEI4WW5pOGhfZGo3NDdSTGs5WHBVOElQcUtOWnJYamJB?oc=5",
-      "date": "Fri, 16 Oct 2026 00:01:27 GMT",
-      "source": "코인리더스",
       "score": 2
     },
     {
@@ -154,13 +161,6 @@
       "date": "Thu, 15 Oct 2026 16:53:26 GMT",
       "source": "icobench.com",
       "score": 3
-    },
-    {
-      "title": "리플, 파트너 100곳과 RLUSD 동맹...\"실시간 현금화 가능\"",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9DMTNPdXdZYkxLYVJrV1lkSHZCOEh4bVBGLUVMNHFvaWJUTkwyYVlqVjhPdGo4V3hCM0FRaWQ1dkhqR0w2S3lEVUd3?oc=5",
-      "date": "Thu, 15 Oct 2026 11:00:00 GMT",
-      "source": "코인리더스",
-      "score": 2
     }
   ]
 }
