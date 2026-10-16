@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-10-16T17:45:20",
+  "generated_at": "2026-10-16T20:19:48",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.31,
-    "price_krw": 1747.56,
-    "price_change_24h": -2.57977,
-    "price_change_7d": -5.45336,
-    "price_change_30d": 3.24846,
-    "market_cap_usd": 82673237096,
+    "price_usd": 1.3,
+    "price_krw": 1735.15,
+    "price_change_24h": -3.08133,
+    "price_change_7d": -6.09197,
+    "price_change_30d": -0.06688,
+    "market_cap_usd": 82074032325,
     "market_cap_rank": 5,
-    "volume_24h": 1372411768,
+    "volume_24h": 1444233803,
     "circulating_supply": 63129671205.0,
     "total_supply": 99985607990.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 67.69,
-    "sentiment_votes_down": 32.31,
+    "sentiment_votes_up": 67.61,
+    "sentiment_votes_down": 32.39,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 38.48,
-    "recent_tps": 38.48,
-    "recent_tx_count": 3771,
+    "tps_24h_avg": 73.6,
+    "recent_tps": 73.6,
+    "recent_tx_count": 7360,
     "recent_ledger_count": 24,
-    "recent_window_sec": 98,
-    "ledger_seq": 107699823,
+    "recent_window_sec": 100,
+    "ledger_seq": 107702187,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-10-16 17:45:11 KST",
+    "updated_at": "2026-10-16 20:19:40 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 3750000,
     "total_net_inflow_usd": 3750000,
     "total_value_traded_usd": 3750000,
-    "updated_at": "SoSoValue 순유입 부분 수집 10/16 17:45",
+    "updated_at": "SoSoValue 순유입 부분 수집 10/16 20:19",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -93,9 +93,16 @@
   ],
   "general_news": [
     {
-      "title": "비트코인·이더리움·리플 동반 반등…기관 자금 빠지는데 상승세 이어질까",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBYTm52YzhvcHBCbmUyVHhiTHFWdlZSTUdZS0ROTExqY01UWUZvenlnNFRxOHdhUmplMm9hSS05WXYwR2xtUC00dklR?oc=5",
-      "date": "Fri, 16 Oct 2026 11:37:00 GMT",
+      "title": "XRP 3.20달러 시나리오, 200일 이동평균선 회복이 조건",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01UW5FTjVzM1RKUlBfSTdFTDRNaklWaFNFVl84Z2g0bkp6cHJPVmtldFFrV1pBcVc4TDQ0S29MZnFDS2VWTWd1MG5BV0tJUWRmZTlwXzZnQ0xhNlhJWjBjSA?oc=5",
+      "date": "Fri, 16 Oct 2026 17:49:58 GMT",
+      "source": "토큰포스트",
+      "score": 9
+    },
+    {
+      "title": "갈링하우스, 에버노스 상장에 기관용 상품 출범 구상...XRP 수익 상품 나올까?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE94eWVfUGRwRWFGcm50RDYxN0JyVnNZb3g1OUQ4N2RaSXNOT0FVVW1HVGtvNFYxWEd5QktOZW5MOWl0UnhPX2FXYzVB?oc=5",
+      "date": "Fri, 16 Oct 2026 12:00:00 GMT",
       "source": "코인리더스",
       "score": 3
     },
@@ -128,13 +135,6 @@
       "score": 2
     },
     {
-      "title": "XRP, ETF는 사는데 고래는 거래소... 힘 겨루기 승자는?",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9LZzlkOWd4dVZ1eG1NNHUzT2xrRmxwb00xWS12enV6dGxibktUSVpmTWdLTnloN3lFbHZzVGthYWNzRU10?oc=5",
-      "date": "Thu, 15 Oct 2026 23:10:00 GMT",
-      "source": "코인리더스",
-      "score": 2
-    },
-    {
       "title": "리플 ETF만 13주 연속 자금 유입! 그런데 XRP 투자자들은 손실…무슨 일이?",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5yY1RwRWNCY3hwLVZaQi1qcWcwbTNaVnFKTVlZUGRVZnlVMHVFT3BUeXhyREJBVDVvdnJSUEw4VnZGUTIwOUpPQUpR?oc=5",
       "date": "Thu, 15 Oct 2026 22:29:00 GMT",
@@ -149,18 +149,18 @@
       "score": 2
     },
     {
-      "title": "리플 항소 기각됐지만 기존 판결·벌금은 유지",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhbHBVTlJ2cWRvWWRzQzctMnFhRWNYeFF2RVJDZWR4UnVMY1BydGFrYmtYeFRhUXJHWWhOYTVMWllvUUNXQnE5akZnR0NySE9ZRUJjU3oxVzZpTm9NbGZZQg?oc=5",
-      "date": "Thu, 15 Oct 2026 21:19:09 GMT",
-      "source": "토큰포스트",
-      "score": 9
-    },
-    {
       "title": "페페 한 달 21% 뛸 때 XRP 주춤…외신 \"1년 뒤 승자는 리플\"",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdHZSS2VxVGMtXzBiLWplSnhSa2M1eG1YRnAtNkRfYWpOLTdNQ3pUTzU5SWpCV3BNcEFGMk9mM3M2bXFZNHVvSDdtaVZYbTNKLXlnOGpHUjhVWF82N0pwajIwdmtlQk5HRURCeTRTSWxycGVubHIzMTZ4NVYyOVlIWUR4WVgxLXp3?oc=5",
       "date": "Thu, 15 Oct 2026 20:05:00 GMT",
       "source": "글로벌이코노믹",
       "score": 2
+    },
+    {
+      "title": "리플(XRP) 6% 급락, 1.30달러 지지선 위태…ETF 유입에도 하락세 지속",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaUVFOWZOYTdlTnZjemZGM1JGZWVRWHlsc1lsU0dmbTNLN3hJUi1VaHFCOTJVSVV5bk91YXdrbWRUeE1XZ3l3dnVrSGcwWGhGNXZ4Q0RkT3ZiZkJlaDVtV05wNnpRanZFV0ZWV2w4NmVwWXh2YlFtV05wc1liZ1JpSFpn?oc=5",
+      "date": "Thu, 15 Oct 2026 16:53:26 GMT",
+      "source": "icobench.com",
+      "score": 3
     }
   ]
 }
