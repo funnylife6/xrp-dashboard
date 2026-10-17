@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-10-17T18:57:56",
+  "generated_at": "2026-10-17T21:13:57",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.3,
-    "price_krw": 1731.96,
-    "price_change_24h": 0.48412,
-    "price_change_7d": -7.49628,
-    "price_change_30d": -0.17912,
-    "market_cap_usd": 81914461803,
+    "price_krw": 1737.85,
+    "price_change_24h": -0.1002,
+    "price_change_7d": -7.46819,
+    "price_change_30d": 0.32891,
+    "market_cap_usd": 82193990626,
     "market_cap_rank": 5,
-    "volume_24h": 763411164,
+    "volume_24h": 702225796,
     "circulating_supply": 63129671205.0,
     "total_supply": 99985607990.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 63.93,
-    "sentiment_votes_down": 36.07,
+    "sentiment_votes_up": 60.94,
+    "sentiment_votes_down": 39.06,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 33.85,
-    "recent_tps": 33.85,
-    "recent_tx_count": 3013,
+    "tps_24h_avg": 24.9,
+    "recent_tps": 24.9,
+    "recent_tx_count": 2241,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 107723254,
+    "recent_window_sec": 90,
+    "ledger_seq": 107725369,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-10-17 18:57:45 KST",
+    "updated_at": "2026-10-17 21:13:49 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -99,13 +99,6 @@
       "score": 2
     },
     {
-      "title": "[결제 인프라] 마스터카드, 스테이블코인 결제 인프라 확대…리플 RLUSD 주목",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tMkNRSUNyaUhLbUhqRlFwYWZWTVFpcGRLZkU4bC1jU3UyNVFGWjlrUS1mWjhWSUlPQTJia2FlZXkzbXdIeVJ6bHNNX1NkQVVBRXE2MkVObW41VzM1SURoNEZGWUh4R2dz?oc=5",
-      "date": "Sat, 17 Oct 2026 06:55:00 GMT",
-      "source": "CBC뉴스",
-      "score": 2
-    },
-    {
       "title": "IMF 준비자산 논의 속 XRP 부상…글로벌 토큰화 금융 인프라 핵심 축 되나",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVWlRSlhrNXFWVnR2VF9heUxFeW1fNnU4TjU4SlRTenEweXRrdVhmNnl3OTFPUmZUb1pMbVBiei0yM092QzVKYW1JS1ZlUTN3RE5pc2h0M0hiOGlSTDM1cXVxd3hSM0Zmc2tsaXRNREU1SlZvcnhFUHJ1TjJRUVk2ZGdzVUptWFBw?oc=5",
       "date": "Sat, 17 Oct 2026 03:52:26 GMT",
@@ -160,6 +153,13 @@
       "date": "Thu, 15 Oct 2026 22:29:00 GMT",
       "source": "코인리더스",
       "score": 3
+    },
+    {
+      "title": "리플 항소 기각됐지만 기존 판결·벌금은 유지",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhbHBVTlJ2cWRvWWRzQzctMnFhRWNYeFF2RVJDZWR4UnVMY1BydGFrYmtYeFRhUXJHWWhOYTVMWllvUUNXQnE5akZnR0NySE9ZRUJjU3oxVzZpTm9NbGZZQg?oc=5",
+      "date": "Thu, 15 Oct 2026 21:19:09 GMT",
+      "source": "토큰포스트",
+      "score": 9
     }
   ]
 }
