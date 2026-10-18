@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-18T14:45:21",
+  "generated_at": "2026-10-18T17:42:01",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.27,
-    "price_krw": 1698.66,
-    "price_change_24h": -2.13609,
-    "price_change_7d": -8.74514,
-    "price_change_30d": -6.45888,
-    "market_cap_usd": 80341907358,
+    "price_krw": 1699.86,
+    "price_change_24h": -1.4514,
+    "price_change_7d": -10.35651,
+    "price_change_30d": -7.72118,
+    "market_cap_usd": 80387463857,
     "market_cap_rank": 5,
-    "volume_24h": 1067116564,
+    "volume_24h": 1107685529,
     "circulating_supply": 63129671205.0,
     "total_supply": 99985607990.0,
     "ath_usd": 3.65,
@@ -22,16 +22,16 @@
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 24.3,
-    "recent_tps": 24.3,
-    "recent_tx_count": 2163,
+    "tps_24h_avg": 50.62,
+    "recent_tps": 50.62,
+    "recent_tx_count": 4556,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 107741600,
+    "recent_window_sec": 90,
+    "ledger_seq": 107744303,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-10-18 14:45:08 KST",
+    "updated_at": "2026-10-18 17:41:48 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -48,8 +48,15 @@
   },
   "etf_news": [
     {
+      "title": "XRP ETF 13주 연속 유입 기록에도 하루 247만 달러 순유출…물가 쇼크 여파",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mSDRPWC1hbG8zUXNYUWRVd25YSnpuX2tzNXRmRkFwQklHd1YwcEthVGdqWXVJa3VwaFB5MXBYMUl5NFFtcTlFMUlQUjJOOWpPek9CMHVB?oc=5",
+      "date": "Sun, 18 Oct 2026 17:01:00 GMT",
+      "source": "위키트리",
+      "score": 0
+    },
+    {
       "title": "리플 ETF 13주 연속 자금 유입인데 왜 하락하나? 1.40달러 회복이 반등 분수령",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5lSGRyR0JDRDRfLTBSMWJwcUZvMkRnUHBmdjhwZDN2YUZOWExISUZ1WjFJVkd0V1NWUXlLRFBXRk5GS2JW?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5CY3M5TnpPY294Qml1Qm9GSWRUcTQ3czVxTlllRS0wMV81OVgzcl91ZEdaZGFsOXduUnRCQmQ5bHhWWnpXZlJ3NURB?oc=5",
       "date": "Fri, 16 Oct 2026 23:23:00 GMT",
       "source": "코인리더스",
       "score": 0
@@ -76,17 +83,10 @@
       "score": 0
     },
     {
-      "title": "리플 스웰, XRP 현물 ETF 첫해 점검 예고...\"맷 데이먼도 등장\"",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBiT1hXNy1hUC14eEhuczNHM0trSkRxWXViekI0c3N2V1RXemhyUTQ1bnlxQjdxVnd1Rm9EQ0JYSHBhNFYtRzgxczF3?oc=5",
-      "date": "Thu, 15 Oct 2026 10:00:00 GMT",
-      "source": "코인리더스",
-      "score": 0
-    },
-    {
-      "title": "리플 ETF에 무슨 일이…3일 연속 자금 유입 '제로', 13주 연속 기록 끝나나?",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBTS0FLVTlySWtxTVY4ZGlDTjM2cW9QVVlRRUxRSl9kSmhobGJ4RnphNHhPUlVvZ1pyNXZJMnpndTBkd2NpVHUxdl9R?oc=5",
-      "date": "Wed, 14 Oct 2026 22:45:00 GMT",
-      "source": "코인리더스",
+      "title": "리플프라임, 기관 대상 실물자산 연계 무기한스왑 출시",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1YSWdlZHVtN1piZDBlNXduaEtWd0VSSEc0QmgwcUdYMjh4VzJ4R0Z4TUQtX00wQ29XTUk0dzk2Z2psOWVDT0tfWExuY1hfUG84?oc=5",
+      "date": "Thu, 15 Oct 2026 14:11:59 GMT",
+      "source": "블루밍비트",
       "score": 0
     }
   ],
@@ -135,7 +135,7 @@
     },
     {
       "title": "리플 ETF 13주 연속 자금 유입인데 왜 하락하나? 1.40달러 회복이 반등 분수령",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5lSGRyR0JDRDRfLTBSMWJwcUZvMkRnUHBmdjhwZDN2YUZOWExISUZ1WjFJVkd0V1NWUXlLRFBXRk5GS2JW?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5CY3M5TnpPY294Qml1Qm9GSWRUcTQ3czVxTlllRS0wMV81OVgzcl91ZEdaZGFsOXduUnRCQmQ5bHhWWnpXZlJ3NURB?oc=5",
       "date": "Fri, 16 Oct 2026 23:23:00 GMT",
       "source": "코인리더스",
       "score": 3
