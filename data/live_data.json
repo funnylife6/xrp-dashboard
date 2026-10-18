@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-10-18T11:29:18",
+  "generated_at": "2026-10-18T14:45:21",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.3,
-    "price_krw": 1734.71,
-    "price_change_24h": -0.50645,
-    "price_change_7d": -6.42254,
-    "price_change_30d": -2.30874,
-    "market_cap_usd": 82052938371,
+    "price_usd": 1.27,
+    "price_krw": 1698.66,
+    "price_change_24h": -2.13609,
+    "price_change_7d": -8.74514,
+    "price_change_30d": -6.45888,
+    "market_cap_usd": 80341907358,
     "market_cap_rank": 5,
-    "volume_24h": 1014652654,
+    "volume_24h": 1067116564,
     "circulating_supply": 63129671205.0,
     "total_supply": 99985607990.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 50.0,
-    "sentiment_votes_down": 50.0,
+    "sentiment_votes_up": 53.57,
+    "sentiment_votes_down": 46.43,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 69.35,
-    "recent_tps": 69.35,
-    "recent_tx_count": 6866,
+    "tps_24h_avg": 24.3,
+    "recent_tps": 24.3,
+    "recent_tx_count": 2163,
     "recent_ledger_count": 24,
-    "recent_window_sec": 99,
-    "ledger_seq": 107738600,
+    "recent_window_sec": 89,
+    "ledger_seq": 107741600,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-10-18 11:29:04 KST",
+    "updated_at": "2026-10-18 14:45:08 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -83,27 +83,27 @@
       "score": 0
     },
     {
-      "title": "리플(XRP), 기관 금융권 진입 확대에도 가격 약세…ETF·RLUSD·XRPL 성장의 변수는",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wTTdsSE9FOHEwR0ZIMEpFbzNLU0NlVjE3RGtkMzNCZ29BeElWNEdvR1ByU3c3NXpsSVNUMWxTR0pLd1FGeVpESDkzQWVzVThzWVNNS2VJWTl3Q3ozOU8xcE1zRnlZSXA3?oc=5",
-      "date": "Wed, 14 Oct 2026 15:35:00 GMT",
-      "source": "CBC뉴스",
+      "title": "리플 ETF에 무슨 일이…3일 연속 자금 유입 '제로', 13주 연속 기록 끝나나?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBTS0FLVTlySWtxTVY4ZGlDTjM2cW9QVVlRRUxRSl9kSmhobGJ4RnphNHhPUlVvZ1pyNXZJMnpndTBkd2NpVHUxdl9R?oc=5",
+      "date": "Wed, 14 Oct 2026 22:45:00 GMT",
+      "source": "코인리더스",
       "score": 0
     }
   ],
   "general_news": [
     {
-      "title": "리플·도지코인·카르다노 투자 가치 있나?…전문가 \"비트코인·이더리움·솔라나에 집중\"",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8tb0U5dzNXVG1rUTZJcGFBOFJHMUZkVEFvbFM2Q3NUU3UyblFGUk9sNlA3Qm95NUt1aEthakdyS08yTEdMclctQ2Z3?oc=5",
-      "date": "Sun, 18 Oct 2026 10:41:00 GMT",
+      "title": "리플(XRP) 1.2947달러 보합권, 24시간 0.07%↑",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9Md0NkSmlabk85c2diYUs5N0lBZ0k4dlYwODBWckwyTE1Xek9abExuV19lYTNMbkU5NHVCUEFPcEpfWTE1RHRSN2tn?oc=5",
+      "date": "Sun, 18 Oct 2026 13:01:38 GMT",
       "source": "코인리더스",
       "score": 2
     },
     {
-      "title": "[결제 인프라] 마스터카드, 스테이블코인 결제 인프라 확대…리플 RLUSD 주목",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tMkNRSUNyaUhLbUhqRlFwYWZWTVFpcGRLZkU4bC1jU3UyNVFGWjlrUS1mWjhWSUlPQTJia2FlZXkzbXdIeVJ6bHNNX1NkQVVBRXE2MkVObW41VzM1SURoNEZGWUh4R2dz?oc=5",
-      "date": "Sun, 18 Oct 2026 09:45:12 GMT",
-      "source": "CBC뉴스",
-      "score": 2
+      "title": "바이낸스 RLUSD 보유자에 XRP 80만 달러 나눠주지만…기본 연이율은 5.98%",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TWTAwZmlySF9LQTEtMWkyVDRoQk4yM0dteC12Tk5SOVk0d2k4dW16dHpEb0lqVnJIRUx1M0U1ZUJLbWdGNDFWaUpRSjVZM3FjcGJVLWhB?oc=5",
+      "date": "Sun, 18 Oct 2026 11:51:00 GMT",
+      "source": "위키트리",
+      "score": 3
     },
     {
       "title": "[블록체인 금융] 리플 RLUSD, 미 크로스리버 은행 시스템 통합…결제망 확대",
@@ -124,13 +124,6 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE01VDNrQU1PbUNZWWxZa0hwbFVDMzlDSm1WaTlSN2lnUGRPUUFkN2xCZ1JtWVNOWkRRSnF0WnV2Ym5sSEd5REZkVXk1RWpyUXVPcEZfcjFhUUJWNXJ6bUk5RGNmRmtEbXEwSE5Qcm8zSk0tdw?oc=5",
       "date": "Sat, 17 Oct 2026 22:43:24 GMT",
       "source": "톱스타뉴스",
-      "score": 2
-    },
-    {
-      "title": "리플(XRP), 1.29달러로 3.03% 하락…美 물가 쇼크 여파",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE93b21ZS1NiR0ItanlNa2RVV2tvSEhnem5EelJUS055UXk1dmN6Znh1aEQ1cW1ibS12SFdLeV8xZHhDQkVFN0c4V0ZB?oc=5",
-      "date": "Sat, 17 Oct 2026 13:00:49 GMT",
-      "source": "코인리더스",
       "score": 2
     },
     {
@@ -160,6 +153,13 @@
       "date": "Fri, 16 Oct 2026 05:51:39 GMT",
       "source": "비온미디어",
       "score": 3
+    },
+    {
+      "title": "리플 제휴 늘어나는데 XRP 제자리…커뮤니티 불만 재점화",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kMWNucGg4enNyZlVMYUd6NXF2ZXozdFJQMldJTHpBa3Fld0R2M3ZXQzRkZHZ0OHVaZjlUM3VSTVlLYTA4TFdtQ3dtNFFTYWxwakhlZ2Z4XzB5TnNUeWM5UDBpb1o1c3dwZ095U3VLejd2UzQ?oc=5",
+      "date": "Fri, 16 Oct 2026 00:27:02 GMT",
+      "source": "디지털투데이",
+      "score": 2
     }
   ]
 }
