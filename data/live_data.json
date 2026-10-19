@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-10-19T05:00:40",
+  "generated_at": "2026-10-19T11:01:25",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.31,
-    "price_krw": 1748.04,
-    "price_change_24h": 1.34688,
-    "price_change_7d": -6.52964,
-    "price_change_30d": -7.39391,
-    "market_cap_usd": 82905045223,
+    "price_usd": 1.3,
+    "price_krw": 1733.81,
+    "price_change_24h": 0.53275,
+    "price_change_7d": -7.14911,
+    "price_change_30d": -7.64773,
+    "market_cap_usd": 82345187250,
     "market_cap_rank": 5,
-    "volume_24h": 1314722734,
+    "volume_24h": 1477644983,
     "circulating_supply": 63129671205.0,
     "total_supply": 99985607990.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 66.67,
-    "sentiment_votes_down": 33.33,
+    "sentiment_votes_up": 72.73,
+    "sentiment_votes_down": 27.27,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 14.61,
-    "recent_tps": 14.61,
-    "recent_tx_count": 1315,
+    "tps_24h_avg": 23.86,
+    "recent_tps": 23.86,
+    "recent_tx_count": 2147,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 107754795,
+    "ledger_seq": 107760426,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-10-19 05:00:27 KST",
+    "updated_at": "2026-10-19 11:01:14 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -48,6 +48,20 @@
   },
   "etf_news": [
     {
+      "title": "리플(XRP), 거래소 보유량 118억 개 돌파",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84aElUbzlTWHBQakhhVDRTWHRYSUllbWtoU012bjBleldZY3JyY0c3NEhTVElQRzNVY1lYMmV5OHV6cFpwbGZ5NThRbkFUaVFUOTd5ZU1DTkdCX0Q5Zm1sV2RQLTV6ZU5B?oc=5",
+      "date": "Mon, 19 Oct 2026 07:06:36 GMT",
+      "source": "CBC뉴스",
+      "score": 0
+    },
+    {
+      "title": "리플(XRP) 1.50달러 꿈 멀어지나…ETF 자금 이탈에 0.99달러 추락 경고",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB2NUJQa1ZyeHRNeExfR05ZeWZoazNsOW81Z2FUTGRLaVo2ZlBLVkN0V0RNSFdwN2plZU1MWmxHR3J3R1h4TEpoMnln?oc=5",
+      "date": "Mon, 19 Oct 2026 05:29:00 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
+    {
       "title": "비트와이즈, XRP ETF 시장 주도…순자산 5억달러↑",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBjXzZ0YU9yRTVnb21SNjFacnZZSXdTbEJhOVZMa1djeXdsbXhYWHZQN2ZXQmltWjBaN2FYbllULUtobjF2clprRDhPbVVCNkF6alZpT0E3ZzZ6LTliZ3BTa2o1VEZxSlV2b0Y0dF85RllsQkU?oc=5",
       "date": "Mon, 19 Oct 2026 04:29:00 GMT",
@@ -62,45 +76,52 @@
       "score": 0
     },
     {
-      "title": "비트코인 8만2,500달러 회복 시도! 리플·이더리움은 여전히 하락 경고",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5xNGF2YXVTVnVGaGcxZlZIcjNpUjFVN21QeUlYQzlwYjZuYXVGT2l5RWl1eVpoRnZxT3ZQR3VGM3lzXzNWMVJNOGhB?oc=5",
-      "date": "Mon, 19 Oct 2026 03:55:00 GMT",
-      "source": "코인리더스",
-      "score": 0
-    },
-    {
       "title": "비트코인·리플, 미국 중간선거 앞두고 약세 지속…ETF 자금 이탈에 추가 하락 우려",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tOUxXLVhBSVNXYXdkcWY5UUdXS1BWSmFKcGJfQ1BOd2JsRmpyN01UNVctNTNUNjZfQ3Y3Wi1MUjBrX0dYZUpERnktQjZJVTYzOGJNWnhyZEFjcEpCb0FqdmJWTmp2WVlk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBnTV8yMEdUa0ZxRDRONmJNSXNsN0JOb0t4dVExbTR6eFVWajlRLTB3elNndGlHUlFRTWRVZFdVWGtLR0F0M1MxVk5FelhabVVWZ2dET19OZE9saGZMRUxLZ0Zxcw?oc=5",
       "date": "Mon, 19 Oct 2026 02:01:28 GMT",
       "source": "CBC뉴스",
       "score": 0
     },
     {
-      "title": "XRP ETF 13주 연속 유입 기록에도 하루 247만 달러 순유출…물가 쇼크 여파",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mSDRPWC1hbG8zUXNYUWRVd25YSnpuX2tzNXRmRkFwQklHd1YwcEthVGdqWXVJa3VwaFB5MXBYMUl5NFFtcTlFMUlQUjJOOWpPek9CMHVB?oc=5",
-      "date": "Sun, 18 Oct 2026 17:01:00 GMT",
-      "source": "위키트리",
-      "score": 0
-    },
-    {
-      "title": "리플 ETF 13주 연속 자금 유입인데 왜 하락하나? 1.40달러 회복이 반등 분수령",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5lSGRyR0JDRDRfLTBSMWJwcUZvMkRnUHBmdjhwZDN2YUZOWExISUZ1WjFJVkd0V1NWUXlLRFBXRk5GS2JW?oc=5",
-      "date": "Fri, 16 Oct 2026 23:23:00 GMT",
-      "source": "코인리더스",
+      "title": "비트코인 현물 ETF, 2주 연속 자금 이탈…'업토버' 꺾였다",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BaXJNaXJ1aGN4WHY3YkNoU0dhMnBxcXhkZ2VEamJkbFJWVnhUN0NGc1kxVTJaTVhFRE9PdEJnX0hUaDZiZVg1S0szZWlQN0lVOW9GTHQxbkk5bENJRE5mY2pCYmFwQXJBNXpSS1JtMFZMUk0?oc=5",
+      "date": "Sun, 18 Oct 2026 23:39:24 GMT",
+      "source": "디지털투데이",
       "score": 0
     }
   ],
   "general_news": [
     {
-      "title": "비트코인 8만2,500달러 회복 시도! 리플·이더리움은 여전히 하락 경고",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5xNGF2YXVTVnVGaGcxZlZIcjNpUjFVN21QeUlYQzlwYjZuYXVGT2l5RWl1eVpoRnZxT3ZQR3VGM3lzXzNWMVJNOGhB?oc=5",
-      "date": "Mon, 19 Oct 2026 03:55:00 GMT",
+      "title": "XRP 레저 NFT 컬렉션 창시자 \"우리는 아직 이르다\"...다음 상승장은 언제?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8wemRYeTJ5TFVSYWJhNG5EUlA1b212a01tVnZWbWVsb19nanNFaGFZc01wcnFCc3lsMWo1UExaMG5DY3MxMGtHd1FR?oc=5",
+      "date": "Mon, 19 Oct 2026 07:10:00 GMT",
       "source": "코인리더스",
       "score": 2
     },
     {
+      "title": "리플(XRP), 거래소 보유량 118억 개 돌파",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84aElUbzlTWHBQakhhVDRTWHRYSUllbWtoU012bjBleldZY3JyY0c3NEhTVElQRzNVY1lYMmV5OHV6cFpwbGZ5NThRbkFUaVFUOTd5ZU1DTkdCX0Q5Zm1sV2RQLTV6ZU5B?oc=5",
+      "date": "Mon, 19 Oct 2026 07:06:36 GMT",
+      "source": "CBC뉴스",
+      "score": 3
+    },
+    {
+      "title": "리플(XRP) 1.50달러 꿈 멀어지나…ETF 자금 이탈에 0.99달러 추락 경고",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB2NUJQa1ZyeHRNeExfR05ZeWZoazNsOW81Z2FUTGRLaVo2ZlBLVkN0V0RNSFdwN2plZU1MWmxHR3J3R1h4TEpoMnln?oc=5",
+      "date": "Mon, 19 Oct 2026 05:29:00 GMT",
+      "source": "코인리더스",
+      "score": 3
+    },
+    {
+      "title": "리플, RLUSD 앞세워 금융 인프라 공략…XRP 레저 결제망 넓힌다",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9lM3Z1XzB2U2c5UmZBUE9pNEswNEEtQ00yVVJzU2VQOHJfNl8xMVhHY29tOUpiNUVpUTg3QjhtWVRJTDB3NzVvQ0otX1Q0TlVCWUtyS0tJeTZwN2wzd2NfOHd6RVBxUFJTUUVVdGkwYk1oN0k?oc=5",
+      "date": "Mon, 19 Oct 2026 05:15:07 GMT",
+      "source": "디지털투데이",
+      "score": 3
+    },
+    {
       "title": "비트코인·리플, 미국 중간선거 앞두고 약세 지속…ETF 자금 이탈에 추가 하락 우려",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tOUxXLVhBSVNXYXdkcWY5UUdXS1BWSmFKcGJfQ1BOd2JsRmpyN01UNVctNTNUNjZfQ3Y3Wi1MUjBrX0dYZUpERnktQjZJVTYzOGJNWnhyZEFjcEpCb0FqdmJWTmp2WVlk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBnTV8yMEdUa0ZxRDRONmJNSXNsN0JOb0t4dVExbTR6eFVWajlRLTB3elNndGlHUlFRTWRVZFdVWGtLR0F0M1MxVk5FelhabVVWZ2dET19OZE9saGZMRUxLZ0Zxcw?oc=5",
       "date": "Mon, 19 Oct 2026 02:01:28 GMT",
       "source": "CBC뉴스",
       "score": 3
@@ -138,28 +159,7 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TWTAwZmlySF9LQTEtMWkyVDRoQk4yM0dteC12Tk5SOVk0d2k4dW16dHpEb0lqVnJIRUx1M0U1ZUJLbWdGNDFWaUpRSjVZM3FjcGJVLWhB?oc=5",
       "date": "Sun, 18 Oct 2026 11:51:00 GMT",
       "source": "위키트리",
-      "score": 3
-    },
-    {
-      "title": "[블록체인 금융] 리플 RLUSD, 미 크로스리버 은행 시스템 통합…결제망 확대",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBITndCVXNFZkhGaFY0NlV2d1F3T1h6djdSTjNDcHhINWcwWm15RmhQYTNic0htdzR1M21DTUxVRkhzRXEwVjhZd2laVDRUTWRyY0ljR292V2JKcVVEN0RYRXR1YjA1NjFN?oc=5",
-      "date": "Sun, 18 Oct 2026 09:45:10 GMT",
-      "source": "CBC뉴스",
-      "score": 3
-    },
-    {
-      "title": "\"XRP 팔 생각이라면\"...리플 CEO가 던진 새 비전부터 보라",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc0NOcmpUWWhIM21fUEpMRmYtdmZHNHhEMmpSRkdfQzhWeWtXVFRYZFhkUjhkTGdOVnVnOTdkTW14WmJBRVliOFZ1N1RJNlVYckhJTUNTRzVJM3l1QWFmYUc2N01CRlBwb2otM1hLb2xxMzlmSjdRWkRYQ1F6Ym41eW5Nc3hISWJE?oc=5",
-      "date": "Sun, 18 Oct 2026 05:52:43 GMT",
-      "source": "글로벌이코노믹",
       "score": 2
-    },
-    {
-      "title": "속보 | 주식 토큰 뜬다는데… 국내 투자자 실제 거래 경험은 11.8%",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB6dEhlb29KUnc4ZTRfaG5yR3BGbE15dW9iNGxJWkFZR1F2cmVVMWFGTk5NV2o5TE5nTV9WZWJZSzJOQm5uN1BZYzE3ckY4MnQ3?oc=5",
-      "date": "Sat, 17 Oct 2026 15:00:00 GMT",
-      "source": "CoinNess",
-      "score": 8
     }
   ]
 }
