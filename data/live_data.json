@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-10-19T17:37:22",
+  "generated_at": "2026-10-19T21:53:34",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.3,
-    "price_krw": 1732.29,
-    "price_change_24h": 2.23409,
-    "price_change_7d": -4.33382,
-    "price_change_30d": -9.37988,
-    "market_cap_usd": 82064387971,
+    "price_krw": 1735.72,
+    "price_change_24h": 2.50329,
+    "price_change_7d": -4.65196,
+    "price_change_30d": -8.78874,
+    "market_cap_usd": 82237284423,
     "market_cap_rank": 5,
-    "volume_24h": 1472100269,
+    "volume_24h": 1430492449,
     "circulating_supply": 63129671205.0,
     "total_supply": 99985607990.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 72.94,
-    "sentiment_votes_down": 27.06,
+    "sentiment_votes_up": 74.07,
+    "sentiment_votes_down": 25.93,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 46.96,
-    "recent_tps": 46.96,
-    "recent_tx_count": 4602,
+    "tps_24h_avg": 50.27,
+    "recent_tps": 50.27,
+    "recent_tx_count": 4524,
     "recent_ledger_count": 24,
-    "recent_window_sec": 98,
-    "ledger_seq": 107766525,
+    "recent_window_sec": 90,
+    "ledger_seq": 107770453,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-10-19 17:37:09 KST",
+    "updated_at": "2026-10-19 21:53:23 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -91,6 +91,13 @@
     }
   ],
   "general_news": [
+    {
+      "title": "은행·증권사, XRP 레저 줄줄이 합류...유명 검증인 \"새로운 돈이 온다\"",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1UOVpkU3VEanYxbXI2NWlFdE5QUDhXYXZKSlNabnVGNVIxbnlBamlROWExVXJCZ1pFdFpKQ25tdnVzbUtyYlVVLXNR?oc=5",
+      "date": "Mon, 19 Oct 2026 21:00:00 GMT",
+      "source": "코인리더스",
+      "score": 3
+    },
     {
       "title": "리플 XRP 원장 렌딩, 검증인 19표 그쳐 10표 모자라…버그 수정만 먼저 적용된다",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DS3J4bVdaS2thN3B6ZkpNaXpiM0tqcEJ4OHh1aURJVTBhUS1uX0lQa1V2SXh4MU5IXzhDbTVNbnM4eWo5YTJjcVM0X0l4Xy0yZ3M2cE13?oc=5",
@@ -153,13 +160,6 @@
       "date": "Mon, 19 Oct 2026 02:01:28 GMT",
       "source": "CBC뉴스",
       "score": 3
-    },
-    {
-      "title": "\"BTC 29만5000弗·XRP 8.95弗\"… 차기 강세 사이클 '대담한 청사진'",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jbzI1S2ZHWEpVYXRTNnlKemVxcWx2cUJ3bDI0cnlzMVlxcFZqZnBDcExnUXp0X292QUh2V2U4ckVtT2RiZEo0SEk3TmtNdl9tMFpodC1OaXZQNnEtNS16T3czcnFNODFHeWIwRzVRSHo?oc=5",
-      "date": "Sun, 18 Oct 2026 23:40:41 GMT",
-      "source": "블록체인투데이",
-      "score": 2
     }
   ]
 }
