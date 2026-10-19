@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-10-18T22:07:03",
+  "generated_at": "2026-10-19T00:19:12",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.29,
-    "price_krw": 1723.34,
-    "price_change_24h": 0.27,
-    "price_change_7d": -7.94095,
-    "price_change_30d": -7.85811,
-    "market_cap_usd": 81557822516,
+    "price_usd": 1.3,
+    "price_krw": 1741.37,
+    "price_change_24h": 0.7238,
+    "price_change_7d": -7.42581,
+    "price_change_30d": -6.56299,
+    "market_cap_usd": 82345139810,
     "market_cap_rank": 5,
-    "volume_24h": 1121516821,
+    "volume_24h": 1222156042,
     "circulating_supply": 63129671205.0,
     "total_supply": 99985607990.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 61.02,
-    "sentiment_votes_down": 38.98,
+    "sentiment_votes_up": 59.38,
+    "sentiment_votes_down": 40.63,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 47.79,
-    "recent_tps": 47.79,
-    "recent_tx_count": 4301,
+    "tps_24h_avg": 46.86,
+    "recent_tps": 46.86,
+    "recent_tx_count": 4264,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 107748345,
+    "recent_window_sec": 91,
+    "ledger_seq": 107750396,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-10-18 22:06:54 KST",
+    "updated_at": "2026-10-19 00:18:59 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,11 +92,18 @@
   ],
   "general_news": [
     {
-      "title": "XRP, 20억 달러 매도 폭탄...\"현물·선물 동시 투매\"",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBxQURIMnNjcm91aFRqdWVORE9YR1N6V1gwV1UyMmE4UFQ1dG43c2kxX29nRjN6YlFlQW4yWWNpZmoyVExUMjBIeGVB?oc=5",
-      "date": "Sun, 18 Oct 2026 20:00:00 GMT",
-      "source": "코인리더스",
-      "score": 3
+      "title": "\"BTC 29만5000弗·XRP 8.95弗\"… 차기 강세 사이클 '대담한 청사진'",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jbzI1S2ZHWEpVYXRTNnlKemVxcWx2cUJ3bDI0cnlzMVlxcFZqZnBDcExnUXp0X292QUh2V2U4ckVtT2RiZEo0SEk3TmtNdl9tMFpodC1OaXZQNnEtNS16T3czcnFNODFHeWIwRzVRSHo?oc=5",
+      "date": "Sun, 18 Oct 2026 23:40:41 GMT",
+      "source": "블록체인투데이",
+      "score": 2
+    },
+    {
+      "title": "이더가스 거래 1500억 돌파…리플XRP 하락, 코인 거래대금 16.4%↓",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JRkh3Q3prSldteFVpRmJNQnFzUWpFRW5PcnlyVEVpejNSWmQ3N3FqZ0JkZVpHcXlQNlhySnZ3Wlo2VFRWbUxIalNNZWpNSHFUMUkwanFoZFFuc2RfTy0xcWsyWlQ0dU9XN3lRbE5EZEE3QQ?oc=5",
+      "date": "Sun, 18 Oct 2026 22:02:51 GMT",
+      "source": "톱스타뉴스",
+      "score": 2
     },
     {
       "title": "리플(XRP) 1.2947달러 보합권, 24시간 0.07%↑",
@@ -111,13 +118,6 @@
       "date": "Sun, 18 Oct 2026 11:51:00 GMT",
       "source": "위키트리",
       "score": 3
-    },
-    {
-      "title": "리플·도지코인·카르다노 투자 가치 있나?…전문가 \"비트코인·이더리움·솔라나에 집중\"",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8tb0U5dzNXVG1rUTZJcGFBOFJHMUZkVEFvbFM2Q3NUU3UyblFGUk9sNlA3Qm95NUt1aEthakdyS08yTEdMclctQ2Z3?oc=5",
-      "date": "Sun, 18 Oct 2026 10:41:00 GMT",
-      "source": "코인리더스",
-      "score": 2
     },
     {
       "title": "[블록체인 금융] 리플 RLUSD, 미 크로스리버 은행 시스템 통합…결제망 확대",
