@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-10-20T19:31:07",
+  "generated_at": "2026-10-20T22:51:19",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.32,
-    "price_krw": 1748.62,
-    "price_change_24h": 1.19354,
-    "price_change_7d": -3.9201,
-    "price_change_30d": -6.14046,
-    "market_cap_usd": 83192382601,
+    "price_usd": 1.34,
+    "price_krw": 1775.01,
+    "price_change_24h": 2.56459,
+    "price_change_7d": -2.24716,
+    "price_change_30d": -4.50961,
+    "market_cap_usd": 84460828547,
     "market_cap_rank": 5,
-    "volume_24h": 1429591086,
+    "volume_24h": 1561704999,
     "circulating_supply": 63129671205.0,
     "total_supply": 99985607990.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 66.67,
-    "sentiment_votes_down": 33.33,
+    "sentiment_votes_up": 62.03,
+    "sentiment_votes_down": 37.97,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 41.67,
-    "recent_tps": 41.67,
-    "recent_tx_count": 3750,
+    "tps_24h_avg": 66.82,
+    "recent_tps": 66.82,
+    "recent_tx_count": 6081,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 107790008,
+    "recent_window_sec": 91,
+    "ledger_seq": 107792988,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-10-20 19:30:58 KST",
+    "updated_at": "2026-10-20 22:51:05 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -47,6 +47,20 @@
     "data_source": "news_parse"
   },
   "etf_news": [
+    {
+      "title": "리플 ETF 반등에도 불안한 이유…10억 개 잠금 해제에 1.24달러까지 추락하나?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9oYVM2anFCZ3RyTzFzSW9lemJVY2k3cmJnWEc2WWNaUlFXOVRxX2wzYkIyaE5IZmY1UUV2Q25hMldncE1RbEJZbFR3?oc=5",
+      "date": "Tue, 20 Oct 2026 21:40:00 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
+    {
+      "title": "리플 1.33달러 반등에도 불안한 이유…11월 1.24달러까지 추락하나?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE14eHhsTG5mdGxHbWtGODJobnRiM0RPLUo5Q0tabWtZcnFYbWdRME14d1p6NDM3UEdmU3M5d2szSHNZQTJxeHBzeThR?oc=5",
+      "date": "Tue, 20 Oct 2026 21:30:00 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
     {
       "title": "리플(XRP), 거래소 보유량 118억 개 돌파",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84aElUbzlTWHBQakhhVDRTWHRYSUllbWtoU012bjBleldZY3JyY0c3NEhTVElQRzNVY1lYMmV5OHV6cFpwbGZ5NThRbkFUaVFUOTd5ZU1DTkdCX0Q5Zm1sV2RQLTV6ZU5B?oc=5",
@@ -74,23 +88,23 @@
       "date": "Tue, 20 Oct 2026 06:01:23 GMT",
       "source": "코인리더스",
       "score": 0
-    },
-    {
-      "title": "비트코인·이더리움 ETF 자금 유출 지속…매도 압력 '경고등'",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GdWF3WHB0MXJrcV9KblQ0U1JSb25zLWJSX3FkWFhPWDVfaHExLW0tZURmQ3hEV2ZjUGg3ejBHNlVXTl9ORmxWLV9NUk1pYTBmd09hbERGV05VRUpkVmtfOE9GbDRONVl1djFHakJOSGM5TGc?oc=5",
-      "date": "Tue, 20 Oct 2026 02:24:21 GMT",
-      "source": "디지털투데이",
-      "score": 0
-    },
-    {
-      "title": "리플 ETF 선발주자들의 몰락? 최고가 대비 56% 급락…0.19% 저비용 상품에 밀렸다",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5mSWJNUTNmRi1pVHFPX1hwQlJYcC1jLTJqUWoxd0NkTlRnSzVyVGVvTEo0czlDdlE0YWpGVHNuaHB1WDFUMjJwSFJB?oc=5",
-      "date": "Mon, 19 Oct 2026 22:23:00 GMT",
-      "source": "코인리더스",
-      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "리플 ETF 반등에도 불안한 이유…10억 개 잠금 해제에 1.24달러까지 추락하나?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9oYVM2anFCZ3RyTzFzSW9lemJVY2k3cmJnWEc2WWNaUlFXOVRxX2wzYkIyaE5IZmY1UUV2Q25hMldncE1RbEJZbFR3?oc=5",
+      "date": "Tue, 20 Oct 2026 21:40:00 GMT",
+      "source": "코인리더스",
+      "score": 3
+    },
+    {
+      "title": "독일 대형 은행그룹, 고객 수백만 명 대상 XRP 거래 도입 보도",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4xS0tGUXAtN2ZMaENHaXJ0bTNLVXlMblhMNGI0U1JRNEd0QXh6TnJRMFFkYUY4ZXZsQ0Y0RXBucWVIRk15ZW5Xd1BudFdyWnNZejZIRk5CWE_SAV5BVV95cUxNQUNIRHcwcFVKWEhYM1hNS01yZDJMek9USE5KYndDdnEwaU0yemhLYmlJN3BuV0dSbjdQSWFHd1FKYk9YaFVNUnFlbC1hN1Zqb3lHbWpYQXlGUGlDdU93?oc=5",
+      "date": "Tue, 20 Oct 2026 20:26:49 GMT",
+      "source": "토큰포스트",
+      "score": 10
+    },
     {
       "title": "리플(XRP), 거래소 보유량 118억 개 돌파",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84aElUbzlTWHBQakhhVDRTWHRYSUllbWtoU012bjBleldZY3JyY0c3NEhTVElQRzNVY1lYMmV5OHV6cFpwbGZ5NThRbkFUaVFUOTd5ZU1DTkdCX0Q5Zm1sV2RQLTV6ZU5B?oc=5",
@@ -120,13 +134,6 @@
       "score": 2
     },
     {
-      "title": "XRP 펀드 에버노스 19.9% 공시, 3,020만주 의결권 리플웍스가 지시 가능",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12S3hyN2wyU2ZlUENBYlRGeXNPWFFvX0M0ZU1xaWZ6b0lpWGNWNHZzTFFBZ2tDWmJaclZ2SVJXXzVObDREajlBNHNfUk5DMXpIWUdNWWlDbELSAV5BVV95cUxNMGJobGNCbUR5SzBiM05manUtcWt3TGctdXRGUUVsd1FLSGR5S3NGUTllV1dWMTBnSGF0Z1RNQ0tWYzVYOUtDWjA0WWhkOVFLaHU4eU1LSlVuZXl5Yjh3?oc=5",
-      "date": "Tue, 20 Oct 2026 11:07:16 GMT",
-      "source": "토큰포스트",
-      "score": 9
-    },
-    {
       "title": "리플 스웰 D-7...XRP 레저 형식 검증 공개 예고",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBqVTB0ZFZwLVl3b0VIdXB1N1RmdFZCQy1ZSEE0N2dvRWlVakN4UXJKV1UzVjgxdGRCR1JpZjhDUk1tX0pqWHlzaEhB?oc=5",
       "date": "Tue, 20 Oct 2026 06:50:00 GMT",
@@ -152,13 +159,6 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1XOUZaRE5MTDduVW1KYmVaXzJFNWVRM3VRTVNaUlNlcTdRa2dhcHZ2ODJITnBjc0gxRE5oWmtBN09tQkNlc2JtTV9VSGprVThtaGZFQnNFMXNnUHRWd1dfTTdKM2lfU3k0ZEtjTGZSQnZXQkE?oc=5",
       "date": "Tue, 20 Oct 2026 00:58:27 GMT",
       "source": "디지털투데이",
-      "score": 3
-    },
-    {
-      "title": "리플 ETF 선발주자들의 몰락? 최고가 대비 56% 급락…0.19% 저비용 상품에 밀렸다",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5mSWJNUTNmRi1pVHFPX1hwQlJYcC1jLTJqUWoxd0NkTlRnSzVyVGVvTEo0czlDdlE0YWpGVHNuaHB1WDFUMjJwSFJB?oc=5",
-      "date": "Mon, 19 Oct 2026 22:23:00 GMT",
-      "source": "코인리더스",
       "score": 3
     }
   ]
