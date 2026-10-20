@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-10-20T15:30:32",
+  "generated_at": "2026-10-20T19:31:07",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.31,
-    "price_krw": 1742.16,
-    "price_change_24h": 0.35817,
-    "price_change_7d": -4.366,
-    "price_change_30d": -4.7773,
-    "market_cap_usd": 82874754790,
+    "price_usd": 1.32,
+    "price_krw": 1748.62,
+    "price_change_24h": 1.19354,
+    "price_change_7d": -3.9201,
+    "price_change_30d": -6.14046,
+    "market_cap_usd": 83192382601,
     "market_cap_rank": 5,
-    "volume_24h": 1404780395,
+    "volume_24h": 1429591086,
     "circulating_supply": 63129671205.0,
     "total_supply": 99985607990.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 65.82,
-    "sentiment_votes_down": 34.18,
+    "sentiment_votes_up": 66.67,
+    "sentiment_votes_down": 33.33,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 80.05,
-    "recent_tps": 80.05,
-    "recent_tx_count": 7845,
+    "tps_24h_avg": 41.67,
+    "recent_tps": 41.67,
+    "recent_tx_count": 3750,
     "recent_ledger_count": 24,
-    "recent_window_sec": 98,
-    "ledger_seq": 107786488,
+    "recent_window_sec": 90,
+    "ledger_seq": 107790008,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-10-20 15:30:21 KST",
+    "updated_at": "2026-10-20 19:30:58 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -47,6 +47,13 @@
     "data_source": "news_parse"
   },
   "etf_news": [
+    {
+      "title": "리플(XRP), 거래소 보유량 118억 개 돌파",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84aElUbzlTWHBQakhhVDRTWHRYSUllbWtoU012bjBleldZY3JyY0c3NEhTVElQRzNVY1lYMmV5OHV6cFpwbGZ5NThRbkFUaVFUOTd5ZU1DTkdCX0Q5Zm1sV2RQLTV6ZU5B?oc=5",
+      "date": "Tue, 20 Oct 2026 14:48:06 GMT",
+      "source": "CBC뉴스",
+      "score": 0
+    },
     {
       "title": "리플(XRP) 1.30달러 지지선 시험…ETF 자금 13주 만에 이탈",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE84QU10cUdDUnFBRHduQU1obUIydkRmQk96QW9iMHdZUW9aS3Q2YS1ieDVNQUhSNWU5UFo5dHZKV0swZVp4YVcwdDdR?oc=5",
@@ -81,16 +88,16 @@
       "date": "Mon, 19 Oct 2026 22:23:00 GMT",
       "source": "코인리더스",
       "score": 0
-    },
-    {
-      "title": "리플(XRP) 3대 악재 겹쳤다…118억 개 거래소 물량·ETF 자금 이탈·월 4억 개 공급 부담",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ibG4zdXlMMXpJSkxUN1RiUGs2cTlvbXo1bThIQjNiSENDMFFMQkRseGJRQUVaa1ZsVGRfbEVXdFkwUnlodlhRdEh3?oc=5",
-      "date": "Mon, 19 Oct 2026 22:15:00 GMT",
-      "source": "코인리더스",
-      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "리플(XRP), 거래소 보유량 118억 개 돌파",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84aElUbzlTWHBQakhhVDRTWHRYSUllbWtoU012bjBleldZY3JyY0c3NEhTVElQRzNVY1lYMmV5OHV6cFpwbGZ5NThRbkFUaVFUOTd5ZU1DTkdCX0Q5Zm1sV2RQLTV6ZU5B?oc=5",
+      "date": "Tue, 20 Oct 2026 14:48:06 GMT",
+      "source": "CBC뉴스",
+      "score": 3
+    },
     {
       "title": "리플(XRP) 1.30달러 지지선 시험…ETF 자금 13주 만에 이탈",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE84QU10cUdDUnFBRHduQU1obUIydkRmQk96QW9iMHdZUW9aS3Q2YS1ieDVNQUhSNWU5UFo5dHZKV0swZVp4YVcwdDdR?oc=5",
@@ -134,6 +141,13 @@
       "score": 3
     },
     {
+      "title": "연준 FOMC 금리 동결 유력 속 비트코인·XRP '고래'는 쓸어 담았다",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSWpfeVlfQUdYR2V5VUdUUkJWODVnSE1TSkI3VUt2b2oyS2QwQWZGWWZuZ2dobV9NcFp0dDlBeWJDWlVhRFpjeHM3Ylg0MUtyTDVuenhTcnFVblNzemNuWlBrRkJrV2FFc2luNFpTcnlGTkVvNXpZeEVYeFdrOGVBd0tROEZNd1Fj?oc=5",
+      "date": "Tue, 20 Oct 2026 02:17:23 GMT",
+      "source": "글로벌이코노믹",
+      "score": 2
+    },
+    {
       "title": "SEC 소송 끝났는데도 60% 폭락…XRP 부진에 친리플 인사들 '엇갈린 시각'",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1XOUZaRE5MTDduVW1KYmVaXzJFNWVRM3VRTVNaUlNlcTdRa2dhcHZ2ODJITnBjc0gxRE5oWmtBN09tQkNlc2JtTV9VSGprVThtaGZFQnNFMXNnUHRWd1dfTTdKM2lfU3k0ZEtjTGZSQnZXQkE?oc=5",
       "date": "Tue, 20 Oct 2026 00:58:27 GMT",
@@ -146,20 +160,6 @@
       "date": "Mon, 19 Oct 2026 22:23:00 GMT",
       "source": "코인리더스",
       "score": 3
-    },
-    {
-      "title": "리플(XRP) 3대 악재 겹쳤다…118억 개 거래소 물량·ETF 자금 이탈·월 4억 개 공급 부담",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ibG4zdXlMMXpJSkxUN1RiUGs2cTlvbXo1bThIQjNiSENDMFFMQkRseGJRQUVaa1ZsVGRfbEVXdFkwUnlodlhRdEh3?oc=5",
-      "date": "Mon, 19 Oct 2026 22:15:00 GMT",
-      "source": "코인리더스",
-      "score": 3
-    },
-    {
-      "title": "가상자산 거래대금 12.2% 증가…깃코인 33.99% 급등, 리플XRP는 보합",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nU2REUDNUbGFXb1I5Tnk5WnltbWtxT0xJRno4NDVNM01Jcy1HblFGTU9NUUd1V3VEbmlFQlh0enV6WEhoZTVJcVlZSzdydlRpZHFkTWFseTJSckROSmpNTmdUa2Q3NFRKYmk1ZUI2T3dNdw?oc=5",
-      "date": "Mon, 19 Oct 2026 22:05:38 GMT",
-      "source": "톱스타뉴스",
-      "score": 2
     }
   ]
 }
