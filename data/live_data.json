@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-10-20T05:35:30",
+  "generated_at": "2026-10-20T10:43:34",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.3,
-    "price_krw": 1730.3,
-    "price_change_24h": -0.63379,
-    "price_change_7d": -4.75263,
-    "price_change_30d": -5.65092,
-    "market_cap_usd": 82214430770,
+    "price_usd": 1.29,
+    "price_krw": 1715.46,
+    "price_change_24h": -0.87309,
+    "price_change_7d": -5.11218,
+    "price_change_30d": -6.65423,
+    "market_cap_usd": 81516555234,
     "market_cap_rank": 5,
-    "volume_24h": 1280888137,
+    "volume_24h": 1250610580,
     "circulating_supply": 63129671205.0,
     "total_supply": 99985607990.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 67.86,
-    "sentiment_votes_down": 32.14,
+    "sentiment_votes_up": 65.75,
+    "sentiment_votes_down": 34.25,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 15.36,
-    "recent_tps": 15.36,
-    "recent_tx_count": 1382,
+    "tps_24h_avg": 33.72,
+    "recent_tps": 33.72,
+    "recent_tx_count": 3035,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 107777450,
+    "ledger_seq": 107782187,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-10-20 05:35:22 KST",
+    "updated_at": "2026-10-20 10:43:27 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -47,6 +47,13 @@
     "data_source": "news_parse"
   },
   "etf_news": [
+    {
+      "title": "리플(XRP) 1.30달러 지지선 시험…1.34달러 회복할까",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBRN2NJRWV0NkNELTd1dVdOdWRHa1lmRmtaSDB5LVBTT0p0eTZBeFNYYVZiM1FnWUdsQ2tqSWRNcEVITVpjdVJESGFB?oc=5",
+      "date": "Tue, 20 Oct 2026 06:01:23 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
     {
       "title": "비트코인·이더리움 ETF 자금 유출 지속…매도 압력 '경고등'",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GdWF3WHB0MXJrcV9KblQ0U1JSb25zLWJSX3FkWFhPWDVfaHExLW0tZURmQ3hEV2ZjUGg3ejBHNlVXTl9ORmxWLV9NUk1pYTBmd09hbERGV05VRUpkVmtfOE9GbDRONVl1djFHakJOSGM5TGc?oc=5",
@@ -69,13 +76,6 @@
       "score": 0
     },
     {
-      "title": "비트코인·이더리움·리플 동반 반등…ETF 자금 이탈에도 상승세 이어질까?",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1vakZhVE9xazFsSW8zY19tSkdPakphQUI1cndYaU5zRWlqNjh1U2liQ1BoSDhFVElLSVJOelhfaWVRMlp0Zml5NExB?oc=5",
-      "date": "Mon, 19 Oct 2026 11:32:00 GMT",
-      "source": "코인리더스",
-      "score": 0
-    },
-    {
       "title": "리플(XRP), 거래소 보유량 118억 개 돌파",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84aElUbzlTWHBQakhhVDRTWHRYSUllbWtoU012bjBleldZY3JyY0c3NEhTVElQRzNVY1lYMmV5OHV6cFpwbGZ5NThRbkFUaVFUOTd5ZU1DTkdCX0Q5Zm1sV2RQLTV6ZU5B?oc=5",
       "date": "Mon, 19 Oct 2026 07:06:36 GMT",
@@ -91,6 +91,20 @@
     }
   ],
   "general_news": [
+    {
+      "title": "리플 스웰 D-7...XRP 레저 형식 검증 공개 예고",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBqVTB0ZFZwLVl3b0VIdXB1N1RmdFZCQy1ZSEE0N2dvRWlVakN4UXJKV1UzVjgxdGRCR1JpZjhDUk1tX0pqWHlzaEhB?oc=5",
+      "date": "Tue, 20 Oct 2026 06:50:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
+      "title": "빌 모건 \"XRP 부진, 이제 증권위 소송 핑계는 그만\"",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBaZjVYX2dsNkp2c0Z5TEFQMG9ZU0ZYaHNFZW9GZzVJMG1LTWhraVg4cnlhdTZoRlM3VWJiNVNTVlRZSEtyYloweE9B?oc=5",
+      "date": "Tue, 20 Oct 2026 06:10:00 GMT",
+      "source": "코인리더스",
+      "score": 3
+    },
     {
       "title": "에버노스, 1150만 주 증권신고서 제출… XRP 매집 실탄 확보 나서",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkSDBPa2tGYWZLMVpDNk9BRGFBMzZYSEp5R3c2OEdQRGx4UUV2aGdCSUdLeFR4cFJKanE5cWswMlBZeTNhNTJqd0RwcmdHamNmWXJ0QVF5dWowWTZMZXVBWHRueGlhTndpakUyYmpmcmc?oc=5",
@@ -141,25 +155,11 @@
       "score": 3
     },
     {
-      "title": "XRP 1.3달러선 바닥 시도…마르티네스, 1달러 하락 가능성 거론",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZWUxGbnZNekhuMnpGYkgyUXd4Yndia1NMN1Z0Wk1KbXBPWW0zNFZjbmEyUm5LYUstM2d4VFM1akxIQ043WGxyd0pMMXoyQldTTVA3cVR4Q0drY0huM0dwatIBZkFVX3lxTFBabU9ZRGoxU0stSkZDRkt6SERHYWJNdmFVSnJ3MUkyVzVBYjhoXzJmaVBEVUJzank4LUFPN2hKRHNhZDNDMGFBOXVvSzgwQzMtWndHMmplUzZreTBnazd4NDI0UGI3QQ?oc=5",
-      "date": "Mon, 19 Oct 2026 20:20:45 GMT",
-      "source": "토큰포스트",
-      "score": 9
-    },
-    {
-      "title": "리플 XRP 원장 렌딩, 검증인 19표 그쳐 10표 모자라…버그 수정만 먼저 적용된다",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DS3J4bVdaS2thN3B6ZkpNaXpiM0tqcEJ4OHh1aURJVTBhUS1uX0lQa1V2SXh4MU5IXzhDbTVNbnM4eWo5YTJjcVM0X0l4Xy0yZ3M2cE13?oc=5",
-      "date": "Mon, 19 Oct 2026 16:11:00 GMT",
-      "source": "위키트리",
+      "title": "XRP, 출시 10여년 만에 공식 X 계정 개설…첫 게시물에 4만7000명 몰렸다",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBwWEk4TUhKX2xZcjk0OFZWcUUwYkN4NmFtb0xiVm5fSWdBZTdKbDhHZF9yR0pJcWJtQTNGcWE0bFJBZDd4YThTdFlRRXp3YnJQMGNOSlUtUjk?oc=5",
+      "date": "Mon, 19 Oct 2026 20:32:56 GMT",
+      "source": "블록미디어",
       "score": 2
-    },
-    {
-      "title": "비트코인·이더리움·리플 동반 반등…ETF 자금 이탈에도 상승세 이어질까?",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1vakZhVE9xazFsSW8zY19tSkdPakphQUI1cndYaU5zRWlqNjh1U2liQ1BoSDhFVElLSVJOelhfaWVRMlp0Zml5NExB?oc=5",
-      "date": "Mon, 19 Oct 2026 11:32:00 GMT",
-      "source": "코인리더스",
-      "score": 3
     }
   ]
 }
