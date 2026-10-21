@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-10-21T12:07:58",
+  "generated_at": "2026-10-21T17:28:33",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.36,
-    "price_krw": 1798.01,
-    "price_change_24h": 4.4968,
-    "price_change_7d": -1.21906,
-    "price_change_30d": -8.73488,
-    "market_cap_usd": 85584350939,
+    "price_usd": 1.38,
+    "price_krw": 1831.0,
+    "price_change_24h": 4.01672,
+    "price_change_7d": 3.32328,
+    "price_change_30d": -7.31026,
+    "market_cap_usd": 87164646963,
     "market_cap_rank": 5,
-    "volume_24h": 1635172409,
+    "volume_24h": 1681128063,
     "circulating_supply": 63129671205.0,
     "total_supply": 99985607990.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 77.01,
-    "sentiment_votes_down": 22.99,
+    "sentiment_votes_up": 75.53,
+    "sentiment_votes_down": 24.47,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 36.44,
-    "recent_tps": 36.44,
-    "recent_tx_count": 3280,
+    "tps_24h_avg": 70.24,
+    "recent_tps": 70.24,
+    "recent_tx_count": 6392,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 107805191,
+    "recent_window_sec": 91,
+    "ledger_seq": 107809871,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-10-21 12:07:48 KST",
+    "updated_at": "2026-10-21 17:28:18 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -47,6 +47,13 @@
     "data_source": "news_parse"
   },
   "etf_news": [
+    {
+      "title": "에버노스, 리플 스웰서 “특별한 것” 예고했지만 내용은 비공개…XRP는 1.29달러 관망",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CaGJkM2N2TElfS1cwNjQ2dnFBeWQwQVY4QU0tQTBFM1FUU0JRVFBhQ3o3QUNvN0JqRklYYXYyOHdXWEFtTnlnTmtHeEJ4WkMyNHBlaWdB?oc=5",
+      "date": "Wed, 21 Oct 2026 15:26:00 GMT",
+      "source": "위키트리",
+      "score": 0
+    },
     {
       "title": "리플(XRP) 2.35% 상승…비트코인 ETF 자금 유입에 동반 강세",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5XVXZlRHlMalVaYjRseWQwT3ZvRGRDenJOb184WVYxSkxET3YwRUVCdFpqTXN2SDlsQTNNdThHOWotRWlzSk41TG9R?oc=5",
@@ -81,22 +88,22 @@
       "date": "Tue, 20 Oct 2026 14:58:39 GMT",
       "source": "www.tmgm.com",
       "score": 0
-    },
-    {
-      "title": "리플(XRP), 거래소 보유량 118억 개 돌파",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84aElUbzlTWHBQakhhVDRTWHRYSUllbWtoU012bjBleldZY3JyY0c3NEhTVElQRzNVY1lYMmV5OHV6cFpwbGZ5NThRbkFUaVFUOTd5ZU1DTkdCX0Q5Zm1sV2RQLTV6ZU5B?oc=5",
-      "date": "Tue, 20 Oct 2026 14:48:06 GMT",
-      "source": "CBC뉴스",
-      "score": 0
     }
   ],
   "general_news": [
     {
-      "title": "XRP 레저 검증자 지연 뒤, 슈워츠 전 리플 CTO가 구조 결함 짚었다",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5QkVNY2xQUTdWaDJkUW5rQlNRN2kzR0hTRkJrTjBHVUQ1d3RtM1lCU3FISHVfclM4MGJfclhYRDhtYU9mTXBKYTJ3Nkh2QnBlX216c01NSWzSAV5BVV95cUxPNXBRa0RwbHRWNExlTGJqNll5RXhGYUxLekZrNTJseGE3THZSOVZmTG5xX3lDWEVrVERXam1jUnpXclB6dmtfZDU4Q3Iyal81ajFVUDVFMkVHdmdiVHF3?oc=5",
-      "date": "Wed, 21 Oct 2026 09:42:05 GMT",
-      "source": "토큰포스트",
-      "score": 9
+      "title": "바이낸스, 60만 XRP 보상 시작...\"0.01RLUSD만 있어도 참석 가능\"",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA5S3RQTEpLZF9iemJ5NlF3UGw4Qi1uT0pSb2JTTWprcnJMLWI4cUhCOTM0R0ZpX2VNZXhCaF82eDFmdW9oOWt3UHBR?oc=5",
+      "date": "Wed, 21 Oct 2026 16:30:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
+      "title": "에버노스, 리플 스웰서 “특별한 것” 예고했지만 내용은 비공개…XRP는 1.29달러 관망",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CaGJkM2N2TElfS1cwNjQ2dnFBeWQwQVY4QU0tQTBFM1FUU0JRVFBhQ3o3QUNvN0JqRklYYXYyOHdXWEFtTnlnTmtHeEJ4WkMyNHBlaWdB?oc=5",
+      "date": "Wed, 21 Oct 2026 15:26:00 GMT",
+      "source": "위키트리",
+      "score": 2
     },
     {
       "title": "리플(XRP), 연말 210달러 폭등 전망 나왔다…72일 내 159배 상승 가능할까",
@@ -145,13 +152,6 @@
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdW1UanBXMDRubG1PRjJHcFdHMlBsSlFVSm94QzA0VUNvNEp3UDFOSENwajBJTzh6VmRtbmQwUTF3cGdDLXB6SjlyRlZnS2dpZzBraGNfcE0wcWRlVTBxc1dXajl2bkhlQ1pJNHYtNWkxRS1HMnpKbExRWmlVV3YwS29wSmJyemxBb25nbWpvclVNYWI1c3dLbkM0NFBzZVF3TDU5QmlhZmVVb0lpRGJpUkJTbV9TUjZodlpTdWdKVkNwVEVKckpLMFlObw?oc=5",
       "date": "Tue, 20 Oct 2026 14:58:39 GMT",
       "source": "www.tmgm.com",
-      "score": 3
-    },
-    {
-      "title": "리플(XRP), 거래소 보유량 118억 개 돌파",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84aElUbzlTWHBQakhhVDRTWHRYSUllbWtoU012bjBleldZY3JyY0c3NEhTVElQRzNVY1lYMmV5OHV6cFpwbGZ5NThRbkFUaVFUOTd5ZU1DTkdCX0Q5Zm1sV2RQLTV6ZU5B?oc=5",
-      "date": "Tue, 20 Oct 2026 14:48:06 GMT",
-      "source": "CBC뉴스",
       "score": 3
     },
     {
