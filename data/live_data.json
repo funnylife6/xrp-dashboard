@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-10-21T01:09:59",
+  "generated_at": "2026-10-21T06:13:26",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.33,
-    "price_krw": 1770.17,
-    "price_change_24h": 3.21247,
-    "price_change_7d": -2.71829,
-    "price_change_30d": -6.38399,
-    "market_cap_usd": 84207492425,
+    "price_krw": 1765.47,
+    "price_change_24h": 2.60312,
+    "price_change_7d": -2.23934,
+    "price_change_30d": -6.73432,
+    "market_cap_usd": 84166392852,
     "market_cap_rank": 5,
-    "volume_24h": 1543330132,
+    "volume_24h": 1409461931,
     "circulating_supply": 63129671205.0,
     "total_supply": 99985607990.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 65.33,
-    "sentiment_votes_down": 34.67,
+    "sentiment_votes_up": 61.73,
+    "sentiment_votes_down": 38.27,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 39.38,
-    "recent_tps": 39.38,
-    "recent_tx_count": 3229,
+    "tps_24h_avg": 64.84,
+    "recent_tps": 64.84,
+    "recent_tx_count": 6549,
     "recent_ledger_count": 24,
-    "recent_window_sec": 82,
-    "ledger_seq": 107795075,
+    "recent_window_sec": 101,
+    "ledger_seq": 107799737,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-10-21 01:09:50 KST",
+    "updated_at": "2026-10-21 06:13:15 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -47,6 +47,20 @@
     "data_source": "news_parse"
   },
   "etf_news": [
+    {
+      "title": "블랙록, 3번째 비트코인(BTC) ETF 신청...솔라나·XRP는 왜 없나",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE00MXpmQUVOWEVQTHJqMlZfMFlaOS1GQ1pXQXgycDR1ZVZRNmVxUzc4eFl3aUZPakZ6dlpVOUhGUW1oVy1fZVBaSXpR?oc=5",
+      "date": "Wed, 21 Oct 2026 03:45:00 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
+    {
+      "title": "美 자산운용사 UMB, XRP 현물 ETF 보유 공시…금융권 편입 잇따라",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9JdFNQRmIxc2NVN0o4dmFSNGNQQU5qQ04xUVRHRkhxRGNmbzJLNmV2VUh3eTgwVlZjVFdEQ1BGWk5MeWNjalVtdWJNVlBHZlpJY1N5ZjdkVGpjYm9wT2xXaVUxZDJBU0ZHeDRvTWVzYjhOZ28?oc=5",
+      "date": "Wed, 21 Oct 2026 02:10:54 GMT",
+      "source": "디지털투데이",
+      "score": 0
+    },
     {
       "title": "리플(XRP) 2.43% 상승…비트코인 ETF 자금 유입 타고 올랐다",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9KNDRYV2xUNWYyTDBwYVA0aXBwMFlQVVJkTndhVUhvd215NTNzdFQ3SUFLa2c3R21sLXpyTHFYSDZrSS0tOGxBSzZR?oc=5",
@@ -74,20 +88,6 @@
       "date": "Tue, 20 Oct 2026 14:48:06 GMT",
       "source": "CBC뉴스",
       "score": 0
-    },
-    {
-      "title": "리플(XRP) 1.30달러 지지선 시험…ETF 자금 13주 만에 이탈",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE84QU10cUdDUnFBRHduQU1obUIydkRmQk96QW9iMHdZUW9aS3Q2YS1ieDVNQUhSNWU5UFo5dHZKV0swZVp4YVcwdDdR?oc=5",
-      "date": "Tue, 20 Oct 2026 13:02:52 GMT",
-      "source": "코인리더스",
-      "score": 0
-    },
-    {
-      "title": "리플 ETF 선발주자들의 몰락? 최고가 대비 56% 급락…0.19% 저비용 상품에 밀렸다",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5mSWJNUTNmRi1pVHFPX1hwQlJYcC1jLTJqUWoxd0NkTlRnSzVyVGVvTEo0czlDdlE0YWpGVHNuaHB1WDFUMjJwSFJB?oc=5",
-      "date": "Mon, 19 Oct 2026 22:23:00 GMT",
-      "source": "코인리더스",
-      "score": 0
     }
   ],
   "general_news": [
@@ -97,6 +97,13 @@
       "date": "Wed, 21 Oct 2026 00:00:39 GMT",
       "source": "코인리더스",
       "score": 3
+    },
+    {
+      "title": "가상자산 거래대금 46% 급증…리플XRP 상승, 이더가스 거래 집중",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yTTdINWktMUFhTEFVQmZsME1DN2RVMmV5X0kyUE1KWHBqRmRnV1pRMEVFc0h5ZEQ2WjZMbVl3bEFsUUtIM2ladkJwWWd3ZHVQb0VXZVhCSGRXb0xSY1ljZ1AybER0LUd2Q3hYeUxndGxMQQ?oc=5",
+      "date": "Tue, 20 Oct 2026 22:25:29 GMT",
+      "source": "TopStarNews",
+      "score": 2
     },
     {
       "title": "리플 ETF 반등에도 불안한 이유…10억 개 잠금 해제에 1.24달러까지 추락하나?",
@@ -153,13 +160,6 @@
       "date": "Tue, 20 Oct 2026 02:17:23 GMT",
       "source": "글로벌이코노믹",
       "score": 2
-    },
-    {
-      "title": "SEC 소송 끝났는데도 60% 폭락…XRP 부진에 친리플 인사들 '엇갈린 시각'",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1XOUZaRE5MTDduVW1KYmVaXzJFNWVRM3VRTVNaUlNlcTdRa2dhcHZ2ODJITnBjc0gxRE5oWmtBN09tQkNlc2JtTV9VSGprVThtaGZFQnNFMXNnUHRWd1dfTTdKM2lfU3k0ZEtjTGZSQnZXQkE?oc=5",
-      "date": "Tue, 20 Oct 2026 00:58:27 GMT",
-      "source": "디지털투데이",
-      "score": 3
     }
   ]
 }
