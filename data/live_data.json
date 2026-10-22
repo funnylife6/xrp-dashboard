@@ -1,50 +1,51 @@
 {
-  "generated_at": "2026-10-21T23:50:39",
+  "generated_at": "2026-10-22T02:41:13",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.36,
-    "price_krw": 1808.99,
-    "price_change_24h": 2.13996,
-    "price_change_7d": 2.35297,
-    "price_change_30d": -12.34004,
-    "market_cap_usd": 86077146848,
+    "price_usd": 1.35,
+    "price_krw": 1782.9,
+    "price_change_24h": 0.9104,
+    "price_change_7d": 1.81908,
+    "price_change_30d": -10.94307,
+    "market_cap_usd": 84979416764,
     "market_cap_rank": 5,
-    "volume_24h": 1872537171,
+    "volume_24h": 1898827171,
     "circulating_supply": 63129671205.0,
     "total_supply": 99985607990.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 75.96,
-    "sentiment_votes_down": 24.04,
+    "sentiment_votes_up": 74.51,
+    "sentiment_votes_down": 25.49,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 23.22,
-    "recent_tps": 23.22,
-    "recent_tx_count": 1904,
+    "tps_24h_avg": 34.3,
+    "recent_tps": 34.3,
+    "recent_tx_count": 3053,
     "recent_ledger_count": 24,
-    "recent_window_sec": 82,
-    "ledger_seq": 107815625,
+    "recent_window_sec": 89,
+    "ledger_seq": 107818210,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-10-21 23:50:28 KST",
+    "updated_at": "2026-10-22 02:41:03 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
   },
   "etf_flow": {
-    "approved_count": 0,
+    "approved_count": 4,
     "daily_inflow_usd": 0,
     "weekly_inflow_usd": 0,
-    "aum_usd": 0,
-    "total_net_inflow_usd": 0,
-    "total_value_traded_usd": 0,
-    "updated_at": "뉴스 자동 파싱 대기",
-    "data_source": "news_parse"
+    "aum_usd": 1550000,
+    "total_net_inflow_usd": 1550000,
+    "total_value_traded_usd": 1550000,
+    "updated_at": "SoSoValue 순유입 부분 수집 10/22 02:41",
+    "data_source": "sosovalue",
+    "partial": true
   },
   "etf_news": [
     {
@@ -83,9 +84,9 @@
       "score": 0
     },
     {
-      "title": "리플 ETF 반등에도 불안한 이유…10억 개 잠금 해제에 1.24달러까지 추락하나?",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9oYVM2anFCZ3RyTzFzSW9lemJVY2k3cmJnWEc2WWNaUlFXOVRxX2wzYkIyaE5IZmY1UUV2Q25hMldncE1RbEJZbFR3?oc=5",
-      "date": "Tue, 20 Oct 2026 21:40:00 GMT",
+      "title": "리플(XRP) 2.43% 상승…비트코인 ETF 자금 유입 타고 올랐다",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9KNDRYV2xUNWYyTDBwYVA0aXBwMFlQVVJkTndhVUhvd215NTNzdFQ3SUFLa2c3R21sLXpyTHFYSDZrSS0tOGxBSzZR?oc=5",
+      "date": "Wed, 21 Oct 2026 00:00:39 GMT",
       "source": "코인리더스",
       "score": 0
     }
@@ -141,13 +142,6 @@
       "score": 2
     },
     {
-      "title": "리플(XRP), 연말 210달러 폭등 전망 나왔다…72일 내 159배 상승 가능할까",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE95T2tmcWxaclMxWGJPM0NvUlNMYjkyeUhtLTFLenFuSVdHS2NzRU51QVdXcC03S3RRQWoxNEdPUUQtUzg1aDBkZmNB?oc=5",
-      "date": "Wed, 21 Oct 2026 08:51:00 GMT",
-      "source": "코인리더스",
-      "score": 2
-    },
-    {
       "title": "리플(XRP) 2.35% 상승…비트코인 ETF 자금 유입에 동반 강세",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5XVXZlRHlMalVaYjRseWQwT3ZvRGRDenJOb184WVYxSkxET3YwRUVCdFpqTXN2SDlsQTNNdThHOWotRWlzSk41TG9R?oc=5",
       "date": "Wed, 21 Oct 2026 06:00:30 GMT",
@@ -160,6 +154,13 @@
       "date": "Wed, 21 Oct 2026 02:10:54 GMT",
       "source": "디지털투데이",
       "score": 3
+    },
+    {
+      "title": "바이비트, 리플 기반 ‘RLUSD 홀드 & Earn’ 4단계 재가동… 130만 XRP 보상에 현물 수수료 0원",
+      "url": "https://news.google.com/rss/articles/CBMixgNBVV95cUxOakN2N1EwZVg0aXlmaHNEbXNIRE1pemVfdmtVdVJmLXQ1SXRzSGhFWW1mZ0t1eVFaT255TWE3MEpiUGpmcU0zUEZDZHhQSDJVWVRlZGx0T0l5Tl9rNnk1TTR3UkhnYzBmeDdYQmJMR2o2NnZtUXRPSDVhbk9YcVRUdUFpRzljWERKbDhZb1c5LUNCc3NKdDQ1WTY5eXZzVnFUTHAyTlFNcy1TWGhzdnpWa0UyUW5JcHlpNW1mbENvSEZEY2pfc1hqN2lPT2czMnp5QS0zME5SQUtxUXlKdFBpVWtROHh3ODBGRlp2TWdKSFZRUFpUWmkzbVhnYkRhRzlPQXRjYXFDUGNtUWlDbVV1VGppVDEtaVAzeW1YSE4xODgyZy0xaS1DdnBTNkhFLV9PbTRncS1FcHVSTzJQRFlnTThFbWgyVDJ6RWVER3RYaVBhdHhVV1NYeS05OWI5YWliUkZ6RnZYejNCX1dRbnJvU1ZQU3l6Q19veC1pZjdtMkNIMFI2U1NlXzZTaHRXc3FqeE14azJoNVpVcC1ibm1kaTRsNDl3dmdFQ3lrWlpCSVdPSGFvb1BhT2k4cHdZX1Rzd1dkdUZR?oc=5",
+      "date": "Tue, 20 Oct 2026 13:15:03 GMT",
+      "source": "Yellow.com",
+      "score": 4
     }
   ]
 }
