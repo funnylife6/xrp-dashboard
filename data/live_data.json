@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-10-23T10:19:00",
+  "generated_at": "2026-10-23T15:17:02",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.32,
-    "price_krw": 1753.11,
-    "price_change_24h": -0.59415,
-    "price_change_7d": -1.04267,
-    "price_change_30d": -17.01752,
-    "market_cap_usd": 83504520722,
+    "price_usd": 1.31,
+    "price_krw": 1733.1,
+    "price_change_24h": -0.72778,
+    "price_change_7d": -1.49728,
+    "price_change_30d": -14.28142,
+    "market_cap_usd": 82535790784,
     "market_cap_rank": 5,
-    "volume_24h": 1311155939,
+    "volume_24h": 1412596266,
     "circulating_supply": 63129671205.0,
     "total_supply": 99985607990.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 60.56,
-    "sentiment_votes_down": 39.44,
+    "sentiment_votes_up": 63.08,
+    "sentiment_votes_down": 36.92,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 22.8,
-    "recent_tps": 22.8,
-    "recent_tx_count": 1870,
+    "tps_24h_avg": 34.78,
+    "recent_tps": 34.78,
+    "recent_tx_count": 2852,
     "recent_ledger_count": 24,
     "recent_window_sec": 82,
-    "ledger_seq": 107847290,
+    "ledger_seq": 107851841,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-10-23 10:18:49 KST",
+    "updated_at": "2026-10-23 15:16:49 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -47,13 +47,6 @@
     "data_source": "news_parse"
   },
   "etf_news": [
-    {
-      "title": "태국, 암호화폐 현물 ETF 허용했지만…연내 승인 '미지수'",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tenFHcHpGNzlDdm56MG85ejJQdHhJaXRfdzAzem5iazZTRnd2WkwxbF83Zm0wc0lnNnllUHlyZHQ4S0VCQ195RlJFeXVJNEVYRkZIVTVyVVpZZTNuWkhvck43WjhTZENlTXFaWmNzeGEyNlk?oc=5",
-      "date": "Fri, 23 Oct 2026 02:41:07 GMT",
-      "source": "디지털투데이",
-      "score": 0
-    },
     {
       "title": "XRP ETF 누적 순유입 18억달러 돌파…20억달러 눈앞",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jSWZUOGQxYjltVzlNVFJEVlNTa1JITUJrZ0lFM1A1d3FVb0dDYWRBSWlRM2lVT3paV2FVNnZCVWxGdDJ3Z1c3QWdFY3B3b0dPa05jTnk0a25CVDhncVBMV1RwTGtmUGpndHFjWHRZdkQ3cmM?oc=5",
@@ -88,22 +81,36 @@
       "date": "Thu, 22 Oct 2026 11:44:00 GMT",
       "source": "코인리더스",
       "score": 0
+    },
+    {
+      "title": "XRP 현물 ETF, 하루 만에 515만달러 순유출로 급반전",
+      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOVmZKN1dRZk1DSXhJcklZWVdWcmlOMks2TGtjeVZkcWVldmxjdUNDeF9FRnMydlBvZm9OY0ROQWpPWDVFZThvWnIzNnAyclBjSW15aGNta3RHRVZocUxuUEEycndMY3NSckhJMGJ0bXgtLVdLQ2JpeTRnSS1iQ1JoaHg4d0I5NmtOZmtJOVNHU0ZUN1haUWdHWEI4dGJfdzM4eXdTVWtDOWVwQUduTnFZQnhBM1NZcUtfRGtDSFZadXA5U2JaTGVkb0gwQlUySGt0cTRnVENLbGxWSWc0M1BhNlhPZlFreUNwX091ZlBjeFdkbTVST3NYalJpTnRMRjN0ejNtc3JsdE1fa2hxTHE2Zk55YXFRUlNfWVF1Yk9kT3ZyYkoxQ1lPbkRrWTRrX21fSjVBUkJPVGNMSHltVXdkbE5PcmxLeUU?oc=5",
+      "date": "Thu, 22 Oct 2026 06:11:13 GMT",
+      "source": "Yellow.com",
+      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "리플(XRP) 1.32달러 공방…고래 거래소 입금 늘며 1.30달러 지지선 시험대",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE11S0JvRW1vOURvcG83bUxGd1R0UEl2Wkl1ZEJfM1hWMkJfbkh1cU43Ty1jZXRBUTEzYk5kRXVwaFdUb2xZenh3Zm5n?oc=5",
+      "date": "Fri, 23 Oct 2026 13:02:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
+      "title": "리플, 1억 5천만 달러 규모 XRP 분쟁 후 SEC에 충격적인 조치 취해… OCC, GENIUS 법안 규칙 공개",
+      "url": "https://news.google.com/rss/articles/CBMizwNBVV95cUxPNFB4LTZZRXhqa2JrSW41SGJ3WU5oQWxGRVFfTTM3MTJ6Ym9xcTd6N2VqbzJ4ZmdKU2RWRnVQQ0lweWRBX3JVSTFxMVFmMHdPdFU5eGVXU2hueHYwXzlDSUhxNnNqQmhfSVM2S0p4Ry1JRXVCVUlmMWZtSFpSMHRYSW9QMEExM2FvLWFNYUVEZ01FWEFiVTFuRjViT3NEeGljc0tWSnZUYzdVcFBiT180ZmpaOFhINVBBS0gyZVRuMkl3R3A3cHdPc20yUTFjRl9kTTBWQ3RON1lYeWVYdGljZmFPajlaMGFMdkZEdUhQaW5lUmNfQ3ZhaEtjc2ZhRlQ5ZnFMaDZweUpHU0REWlliSHlndk56VDFZR0ROSTlVa1dQaDNvbk9JNDNWN0VUMlhSMlFqYTFwdDV3T3BCMS1ZbzZteU9RU19fN2d3S2phZTNTd2ZtaFdXZVJZbExhcFhJdzh3WjVxUVVwcUl6SVRwRmZPSTZKc0xlWGJxZDRkWUpwVXhKaVV1R0xxSDhFbnNEZWRFeGxpblR3Nzk4bkZMQm5UTUFsZ05nMEpKTFMteWdFSTE4ZmxTaXV2ZTRWZE8yVmxYa3JDTUl3SWZPTkxV?oc=5",
+      "date": "Fri, 23 Oct 2026 07:56:35 GMT",
+      "source": "Brave New Coin",
+      "score": 3
+    },
     {
       "title": "리플 RLUSD, XRP 레저에 유동성 투입...국경 간 결제 자금난 풀까?",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBvTnV5MWVWWEdaS291dFRqcDNEbkduZWlTM1FJdTdVeHJXMFpjaDFCUmNRbkdWQnN6em1Ma29tWk9jZmd6MGpwRmx3?oc=5",
       "date": "Fri, 23 Oct 2026 06:55:00 GMT",
       "source": "코인리더스",
       "score": 3
-    },
-    {
-      "title": "슈워츠, XRP 실물 카드 게임 직접 소개...시장이 놓친 틈새 시장 주목",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5NV3Z0T00yNjhWTC1fbEtaVTRWZHU3V0UzYklNSUtvQnFKSkRxbWVjWVhqbUktOXlSd1VTU0h2aTR6VjR3cWYzd3l3?oc=5",
-      "date": "Fri, 23 Oct 2026 06:30:00 GMT",
-      "source": "코인리더스",
-      "score": 2
     },
     {
       "title": "XRP 100만달러 평가액, 1.33달러 가정 땐 75만개 필요",
@@ -153,13 +160,6 @@
       "date": "Thu, 22 Oct 2026 11:26:52 GMT",
       "source": "Brave New Coin",
       "score": 4
-    },
-    {
-      "title": "리플 전 CTO가 밝힌 XRPL 약점…과부하에 로그 수집도 차질",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1NSFZsb0JpMG9xTGllekxsRm5LZFR5M0JVNzdZOXJMakNyRzhHYi1wWF9GbGZTUUxZOVBkcXJZX190Y0N3dVI4aVVzcFhlWmVhS0tqSGU3alRjcml1RFdQLVd5MzFGSll6VjZKVTYwbF9RVnM?oc=5",
-      "date": "Thu, 22 Oct 2026 05:37:14 GMT",
-      "source": "디지털투데이",
-      "score": 2
     }
   ]
 }
