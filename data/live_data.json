@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-10-23T15:17:02",
+  "generated_at": "2026-10-23T19:23:47",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.31,
-    "price_krw": 1733.1,
-    "price_change_24h": -0.72778,
-    "price_change_7d": -1.49728,
-    "price_change_30d": -14.28142,
-    "market_cap_usd": 82535790784,
+    "price_usd": 1.3,
+    "price_krw": 1723.8,
+    "price_change_24h": -0.77392,
+    "price_change_7d": 0.6274,
+    "price_change_30d": -13.13382,
+    "market_cap_usd": 82125630512,
     "market_cap_rank": 5,
-    "volume_24h": 1412596266,
+    "volume_24h": 1267174729,
     "circulating_supply": 63129671205.0,
     "total_supply": 99985607990.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 63.08,
-    "sentiment_votes_down": 36.92,
+    "sentiment_votes_up": 71.43,
+    "sentiment_votes_down": 28.57,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 34.78,
-    "recent_tps": 34.78,
-    "recent_tx_count": 2852,
+    "tps_24h_avg": 68.24,
+    "recent_tps": 68.24,
+    "recent_tx_count": 6688,
     "recent_ledger_count": 24,
-    "recent_window_sec": 82,
-    "ledger_seq": 107851841,
+    "recent_window_sec": 98,
+    "ledger_seq": 107855564,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-10-23 15:16:49 KST",
+    "updated_at": "2026-10-23 19:23:40 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -56,7 +56,7 @@
     },
     {
       "title": "XRP, ETF 누적 순유입 18억 달러 육박...가격 흔들려도 자금 유입은 계속",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB3MkxVNGk2WlVYaUtiZ1FuSENHRkFZeWNGb203NHVBaGtYcnlpNGhRQlJ5TmktaEprYXJOZjNVTmF1QkcwNDB2c0Z3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5ScVVlZlN3THV4UmFMajJ3VHVFcFpaelhraDYtb2hZN3pRbERIMkR1MzFzWUtYRC1ESzBVSmVFeU9VTXlC?oc=5",
       "date": "Fri, 23 Oct 2026 00:10:00 GMT",
       "source": "코인리더스",
       "score": 0
@@ -113,15 +113,8 @@
       "score": 3
     },
     {
-      "title": "XRP 100만달러 평가액, 1.33달러 가정 땐 75만개 필요",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EZjU5U1VsX2lHYzNRMkg0R205aDF1UTYwUHJOLXNmS01zR3ppSHc5RlMzSzVaR0xvYkFSdThmVEhCdF81bkpmZEdEdmppakU0OEtXT0FyaWZtdTR6cERjatIBZkFVX3lxTE01WHd1cFZ1MHQxOVRxVnJfdEdES0JjV0VrWjdnY2twWnMycHdvWjhzZU5WYTVMR0FuUFRiSVBOUm9UblJFMDdJMUx1dVdxSUdUbmh5T24yd2dXd2VlQXYzNHFlY1JJQQ?oc=5",
-      "date": "Fri, 23 Oct 2026 06:05:34 GMT",
-      "source": "토큰포스트",
-      "score": 9
-    },
-    {
       "title": "XRP, ETF 누적 순유입 18억 달러 육박...가격 흔들려도 자금 유입은 계속",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB3MkxVNGk2WlVYaUtiZ1FuSENHRkFZeWNGb203NHVBaGtYcnlpNGhRQlJ5TmktaEprYXJOZjNVTmF1QkcwNDB2c0Z3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5ScVVlZlN3THV4UmFMajJ3VHVFcFpaelhraDYtb2hZN3pRbERIMkR1MzFzWUtYRC1ESzBVSmVFeU9VTXlC?oc=5",
       "date": "Fri, 23 Oct 2026 00:10:00 GMT",
       "source": "코인리더스",
       "score": 2
@@ -131,6 +124,13 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BV2tiUDhUQnJ6Yk95TlQ1dXNFajNEeS1fMXQtTGxGTVpHS1g0VERILWhsYXNlQmx3aEdzNmEzZ3B4am5NOWtvZTZFUEJMZURCemhEd3VYN0k3S1VRdjBNa1BEY1JlaTVNem5DVk9ybU1DQQ?oc=5",
       "date": "Thu, 22 Oct 2026 22:25:54 GMT",
       "source": "TopStarNews",
+      "score": 2
+    },
+    {
+      "title": "코인 동반 급락장…리플 5.4%·비트코인 3.8% 하락",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9PM1JSMHVjcmZxZjU0SlpzSFRDNlFWWGcwSC10UV9VOElKaFFOX29lLUVJTDFyNHh5WWt0Zk1XczNLUllSQ212VmNSSm1maU9XVkw5WXRGWHlGWjFqQmlXLUpkRFRBWHpTRml1R0lqT0pMMHJw?oc=5",
+      "date": "Thu, 22 Oct 2026 21:27:00 GMT",
+      "source": "이투데이",
       "score": 2
     },
     {
