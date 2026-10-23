@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-10-23T00:17:18",
+  "generated_at": "2026-10-23T05:07:37",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.31,
-    "price_krw": 1731.61,
-    "price_change_24h": -4.46508,
-    "price_change_7d": -2.04555,
-    "price_change_30d": -16.86729,
-    "market_cap_usd": 82452638360,
+    "price_usd": 1.32,
+    "price_krw": 1749.21,
+    "price_change_24h": -2.09851,
+    "price_change_7d": -1.09302,
+    "price_change_30d": -19.48239,
+    "market_cap_usd": 83316182709,
     "market_cap_rank": 5,
-    "volume_24h": 1552493146,
+    "volume_24h": 1480187396,
     "circulating_supply": 63129671205.0,
     "total_supply": 99985607990.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 55.56,
-    "sentiment_votes_down": 44.44,
+    "sentiment_votes_up": 56.76,
+    "sentiment_votes_down": 43.24,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 56.98,
-    "recent_tps": 56.98,
-    "recent_tx_count": 5584,
+    "tps_24h_avg": 36.7,
+    "recent_tps": 36.7,
+    "recent_tx_count": 3303,
     "recent_ledger_count": 24,
-    "recent_window_sec": 98,
-    "ledger_seq": 107837997,
+    "recent_window_sec": 90,
+    "ledger_seq": 107842451,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-10-23 00:17:04 KST",
+    "updated_at": "2026-10-23 05:07:23 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -48,10 +48,31 @@
   },
   "etf_news": [
     {
+      "title": "태국, 암호화폐 현물 ETF 허용했지만…연내 승인 '미지수'",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tenFHcHpGNzlDdm56MG85ejJQdHhJaXRfdzAzem5iazZTRnd2WkwxbF83Zm0wc0lnNnllUHlyZHQ4S0VCQ195RlJFeXVJNEVYRkZIVTVyVVpZZTNuWkhvck43WjhTZENlTXFaWmNzeGEyNlk?oc=5",
+      "date": "Fri, 23 Oct 2026 02:41:07 GMT",
+      "source": "디지털투데이",
+      "score": 0
+    },
+    {
+      "title": "XRP ETF 누적 순유입 18억달러 돌파…20억달러 눈앞",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jSWZUOGQxYjltVzlNVFJEVlNTa1JITUJrZ0lFM1A1d3FVb0dDYWRBSWlRM2lVT3paV2FVNnZCVWxGdDJ3Z1c3QWdFY3B3b0dPa05jTnk0a25CVDhncVBMV1RwTGtmUGpndHFjWHRZdkQ3cmM?oc=5",
+      "date": "Fri, 23 Oct 2026 00:12:14 GMT",
+      "source": "디지털투데이",
+      "score": 0
+    },
+    {
       "title": "XRP, ETF 누적 순유입 18억 달러 육박...가격 흔들려도 자금 유입은 계속",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB3MkxVNGk2WlVYaUtiZ1FuSENHRkFZeWNGb203NHVBaGtYcnlpNGhRQlJ5TmktaEprYXJOZjNVTmF1QkcwNDB2c0Z3?oc=5",
       "date": "Fri, 23 Oct 2026 00:10:00 GMT",
       "source": "코인리더스",
+      "score": 0
+    },
+    {
+      "title": "오늘의 암호화폐: ETF 자금 순유입에도 비트코인·이더리움·XRP 하락",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTzJfanQ0aS1PMXppMC13TGhEWWt0c09HYThyQnpoWG1VRF9UaXZFTi1jOTBWb0llTEZaaWJiWTVSRWhwWXNZNkRab05rMEpQWUM5dEJzallQNFlOeDI3WS1qUENkX08yY0pQY1Fqbmg5RzVyY1l3ZWprUVU4NlpCV2pxZ0dDUWttelpLZ0tESnlMbWd1THp4WEUxTlpKUWxNQVRNRThkdVFuUDZlXzBtNTRMNU1zRmpoR05oZF9JSm1PUVM3OE9v?oc=5",
+      "date": "Thu, 22 Oct 2026 18:28:29 GMT",
+      "source": "www.tmgm.com",
       "score": 0
     },
     {
@@ -66,27 +87,6 @@
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQW1jazFBM19QQl9QcV9iX1AweHktOW9hZXd1WHFQbkFjSzFfb2NCUUdvd1l2MEo4bElyeEQzSXpTX1NuMWJRNmk5T2tiWHpaQ2hUSllmaHpYR09rSVNfMU1ZZk9iVE9BNU03YXg5aXFEVEVGMUZINk52cVB3c3c0YzlaR2J5dDFtdXRqMFhKdzdDRmlRMU14OGtkXzIyU3BlYkNNejVJLTZ6U1hpZGJWRVV1MlVoWExzWC0yQjZRdmdPNDNhUm00Y2tfdWN4QTZPNGgzdVduR1d1UnFDUC1zMVh2dk50enRIMEE?oc=5",
       "date": "Thu, 22 Oct 2026 12:35:09 GMT",
       "source": "www.tmgm.com",
-      "score": 0
-    },
-    {
-      "title": "비트코인·이더리움·리플 동반 하락…ETF 자금 유입에도 매도세 확산, 추가 조정 경고",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9KWUVhaFBwM3VrTk5kTzhCbk1HRzVhZHVuN0Npd1ZxcWgwT2xocERvV09LTVlNY0VvOGhPdE93RGlCblpvOTNvX213?oc=5",
-      "date": "Thu, 22 Oct 2026 11:44:00 GMT",
-      "source": "코인리더스",
-      "score": 0
-    },
-    {
-      "title": "XRP 현물 ETF, 하루 만에 515만달러 순유출로 급반전",
-      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOVmZKN1dRZk1DSXhJcklZWVdWcmlOMks2TGtjeVZkcWVldmxjdUNDeF9FRnMydlBvZm9OY0ROQWpPWDVFZThvWnIzNnAyclBjSW15aGNta3RHRVZocUxuUEEycndMY3NSckhJMGJ0bXgtLVdLQ2JpeTRnSS1iQ1JoaHg4d0I5NmtOZmtJOVNHU0ZUN1haUWdHWEI4dGJfdzM4eXdTVWtDOWVwQUduTnFZQnhBM1NZcUtfRGtDSFZadXA5U2JaTGVkb0gwQlUySGt0cTRnVENLbGxWSWc0M1BhNlhPZlFreUNwX091ZlBjeFdkbTVST3NYalJpTnRMRjN0ejNtc3JsdE1fa2hxTHE2Zk55YXFRUlNfWVF1Yk9kT3ZyYkoxQ1lPbkRrWTRrX21fSjVBUkJPVGNMSHltVXdkbE5PcmxLeUU?oc=5",
-      "date": "Thu, 22 Oct 2026 06:11:13 GMT",
-      "source": "Yellow.com",
-      "score": 0
-    },
-    {
-      "title": "리플 ETF 4.70% 급등…현물형보다 더 오른 선물형, 장기 투자에도 유리할까",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA4WG1xb00xVnduMVVzXy1VcGhMUVcyYnBpZW1ORGdwMVQ5Tkg0anlTN1N5MUdHRTA2NWZKcTltRUJheFZXVVM1QlNB?oc=5",
-      "date": "Wed, 21 Oct 2026 22:26:00 GMT",
-      "source": "코인리더스",
       "score": 0
     }
   ],
