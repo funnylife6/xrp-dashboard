@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-10-24T09:40:49",
+  "generated_at": "2026-10-24T13:45:35",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.27,
-    "price_krw": 1687.22,
-    "price_change_24h": -3.19118,
-    "price_change_7d": -2.43222,
-    "price_change_30d": -14.04363,
-    "market_cap_usd": 80477459082,
+    "price_usd": 1.28,
+    "price_krw": 1696.03,
+    "price_change_24h": -2.86179,
+    "price_change_7d": -0.98907,
+    "price_change_30d": -13.43154,
+    "market_cap_usd": 80892981639,
     "market_cap_rank": 5,
-    "volume_24h": 1200644027,
+    "volume_24h": 1201619320,
     "circulating_supply": 63129671205.0,
     "total_supply": 99985607990.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 67.8,
-    "sentiment_votes_down": 32.2,
+    "sentiment_votes_up": 59.15,
+    "sentiment_votes_down": 40.85,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 46.08,
-    "recent_tps": 46.08,
-    "recent_tx_count": 4147,
+    "tps_24h_avg": 77.4,
+    "recent_tps": 77.4,
+    "recent_tx_count": 7740,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 107868715,
+    "recent_window_sec": 100,
+    "ledger_seq": 107872468,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-10-24 09:40:39 KST",
+    "updated_at": "2026-10-24 13:45:24 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,16 +92,16 @@
   ],
   "general_news": [
     {
-      "title": "리플, 742일 횡보 뒤 2017~2018년 630배 상승 표시",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE80WTBDMk82WldQY2RHdGNyOHZkV2ZiRjFVc2pramJkNTF5N2R5MVdEeWxjVW8yajNhYjRCODl2dHZrWTZRbWhETFB1bFRtTi04aVp6Rlhpdm1OTGxVbXNYQtIBZkFVX3lxTFBpYWQ4S202dHdoTW1sWDByZVJraVh0NFNlOXZ5d0tIZ0t3SXVPY2NHX0diU0VLeWNZV3AtLXV1bjFueV9QQm5PZHI5Z0todjlvcjJhYUdibXlWOHg4OU9iUVlnWFRKZw?oc=5",
-      "date": "Sat, 24 Oct 2026 06:18:11 GMT",
+      "title": "리플 하루 소각량 1114 XRP…다른 집계는 1490 XRP",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14QTRKR2VReVo3YnYwbUJqbVFoTThCOFh5OVpLUnpibURtOE56VU9CQkJnRVNlLTB5UnNQanZqbUx4Y0xZaGNMZmVhZjY5ck5jYU85RDUxTkt1Qi0td05GOdIBZkFVX3lxTE1VdDBaZHJLbzg5YXR3MkxLQi1vUHRTRnczQ0RsN05yczltelgyb3hCcnM3NjRZOUR1cjI5d1k4OU5LVXNWRFdKRnN2V0kxdWEyWGEwaVZiVmtSRld2NVkwTWFkTlFnUQ?oc=5",
+      "date": "Sat, 24 Oct 2026 11:06:39 GMT",
       "source": "토큰포스트",
       "score": 9
     },
     {
-      "title": "XRP vs 카르다노 연말까지 더 확실한 회복 경로 쥔 쪽은?",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMnJwUnNsYUIwcWowZkMwbG5YTHRweERFSkVjY0RnWE15YWhRcTBkNFVjUktycjd4NEFYamw0Z00waWk3VXdFLVl3d2tGN3BkSVlaZEhrdlJNeWpxWHlwd0tFLVhMLXZpaVp2V1h6R09pcjRYYWxWazctemw1czM1Z0FUTFdyVEhQ?oc=5",
-      "date": "Sat, 24 Oct 2026 03:36:29 GMT",
+      "title": "프랭클린 템플턴, XRP 원장에 1억 5000만 달러 베팅…단숨에 'RWA 2위' 부상",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYjFCcmlQOUZWcTVzUzduTjlfSm9KWm84b244NnFDLXZLUzRSa2lDaUlCaEtGbVVIVm0yeEY2MjYyWWpwOUZlbjk5Y0JvSktZZlFraS05MTVoTTFYUTh4S1gyS2ZmcGVsbndBcGtBRnhwTlVsWFpfTDhkZnZXZy1KT0lDOWNqR3VU?oc=5",
+      "date": "Sat, 24 Oct 2026 10:37:01 GMT",
       "source": "글로벌이코노믹",
       "score": 2
     },
@@ -148,18 +148,18 @@
       "score": 2
     },
     {
-      "title": "리플, 기관 대상 24시간 주식거래 개시…RLUSD 담보 대출도 지원",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBOS3VyZnZ3OHkzX2ptRXBFcGRidXFKeC11VkxUbmxnYnVYallLS3FsT3Fia1JQSHpsckxnYnJtWXcyMmhSUTRtc3NwNlU1V2xhMG5CenFOUTBhQy0xanJ1bW1vc2VHTjBzWXZ2UjA4V1pMT1k?oc=5",
-      "date": "Thu, 22 Oct 2026 02:51:30 GMT",
-      "source": "디지털투데이",
-      "score": 3
-    },
-    {
       "title": "리플, SEC 암호화폐 규제안 지지…\"사후 제재 대신 명확한 규칙 필요\"",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5pSFRWU1NTN3l0b1lPUlZtcF9HaGRxelhvTnFadXRCTjF6aTBkRnNyWHNEak1TOFc5cmVCbWVXN1JrRWlnMkdoSjdHZ2lDdWljXzd2SGNEbTJzSTl6LWkwcGMwSTBSMXhOUFdLbGlCZ29Obnc?oc=5",
       "date": "Wed, 21 Oct 2026 23:52:25 GMT",
       "source": "디지털투데이",
       "score": 3
+    },
+    {
+      "title": "리플 ETF 4.70% 급등…현물형보다 더 오른 선물형, 장기 투자에도 유리할까",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA4WG1xb00xVnduMVVzXy1VcGhMUVcyYnBpZW1ORGdwMVQ5Tkg0anlTN1N5MUdHRTA2NWZKcTltRUJheFZXVVM1QlNB?oc=5",
+      "date": "Wed, 21 Oct 2026 22:26:00 GMT",
+      "source": "코인리더스",
+      "score": 4
     }
   ]
 }
