@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-10-23T22:26:58",
+  "generated_at": "2026-10-24T00:54:35",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.3,
-    "price_krw": 1725.78,
-    "price_change_24h": -0.15768,
-    "price_change_7d": -0.13312,
-    "price_change_30d": -13.04087,
-    "market_cap_usd": 82323063910,
+    "price_usd": 1.29,
+    "price_krw": 1701.18,
+    "price_change_24h": -2.06984,
+    "price_change_7d": -1.88016,
+    "price_change_30d": -14.37147,
+    "market_cap_usd": 81143250973,
     "market_cap_rank": 5,
-    "volume_24h": 1201222953,
+    "volume_24h": 1261983630,
     "circulating_supply": 63129671205.0,
     "total_supply": 99985607990.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 67.12,
-    "sentiment_votes_down": 32.88,
+    "sentiment_votes_up": 67.65,
+    "sentiment_votes_down": 32.35,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 50.78,
-    "recent_tps": 50.78,
-    "recent_tx_count": 4570,
+    "tps_24h_avg": 36.4,
+    "recent_tps": 36.4,
+    "recent_tx_count": 3312,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 107858347,
+    "recent_window_sec": 91,
+    "ledger_seq": 107860600,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-10-23 22:26:47 KST",
+    "updated_at": "2026-10-24 00:54:26 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,6 +92,27 @@
   ],
   "general_news": [
     {
+      "title": "가상자산 거래대금 52.5% 급증…아이리스 265% 폭등, 리플XRP 약세",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mTWZHM2VfNzdXOGlQdEtVTVItak9menVZbFFsYi1hYTVZSWpSdnZreGpESVV2YTlmUy1uUUM2OU15bWpVRVl3ZEdIMExPMmtqMW1raFVCU3NRNTFZQzlRbUI4aGF0c181alpXWkp2TVBRUQ?oc=5",
+      "date": "Fri, 23 Oct 2026 23:24:17 GMT",
+      "source": "톱스타뉴스",
+      "score": 2
+    },
+    {
+      "title": "XRP ETF에 355만달러 유입…프랭클린 상품에 집중",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xQVRmUnBfV3ZGV1VEVWV2d19PdXpOZ0lHUHpFT3BxcFl2TkhsbGpPNHhQal91VkxnX0t5N2d5cHUzY1lhakNYQlhJS0JVR0RoVERpdk5VSGI3ajdWV0lrdtIBZkFVX3lxTE9iWFY2eHcwbGtSX1g1bEtQb3RQOHN4SGd0UkFQZWRZZFBUcjJxMWUtQ3RHZjB2QlVZbGRwNlgyVllTYW9qeHRtNHJqeW5mMEdIZjFvQV9ac1B4dG5OejhUSDMycExMUQ?oc=5",
+      "date": "Fri, 23 Oct 2026 23:14:29 GMT",
+      "source": "토큰포스트",
+      "score": 10
+    },
+    {
+      "title": "아프, 리플 RLUSD로 XRPL에 결제 유동성 공급…연 100억 달러 중 투입액은 비공개",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qd3p6blJvUE85UkdjelRkTDMwZDUxMmhRajZzT3NCejlvdVd4WUg4Y1NzZmhNbHhsemtGdE5MTkpVQU5WemRiY3NjaFV2WFMwWXpGZFl3?oc=5",
+      "date": "Fri, 23 Oct 2026 15:26:00 GMT",
+      "source": "위키트리",
+      "score": 3
+    },
+    {
       "title": "리플(XRP) 1.32달러 공방…고래 거래소 입금 늘며 1.30달러 지지선 시험대",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE11S0JvRW1vOURvcG83bUxGd1R0UEl2Wkl1ZEJfM1hWMkJfbkh1cU43Ty1jZXRBUTEzYk5kRXVwaFdUb2xZenh3Zm5n?oc=5",
       "date": "Fri, 23 Oct 2026 13:02:00 GMT",
@@ -113,34 +134,6 @@
       "score": 3
     },
     {
-      "title": "XRP, ETF 누적 순유입 18억 달러 육박...가격 흔들려도 자금 유입은 계속",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5ScVVlZlN3THV4UmFMajJ3VHVFcFpaelhraDYtb2hZN3pRbERIMkR1MzFzWUtYRC1ESzBVSmVFeU9VTXlC?oc=5",
-      "date": "Fri, 23 Oct 2026 00:10:00 GMT",
-      "source": "코인리더스",
-      "score": 2
-    },
-    {
-      "title": "가상자산 거래대금 2조원대…리플XRP 3.47% 하락, 액시스로보틱스 강세",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BV2tiUDhUQnJ6Yk95TlQ1dXNFajNEeS1fMXQtTGxGTVpHS1g0VERILWhsYXNlQmx3aEdzNmEzZ3B4am5NOWtvZTZFUEJMZURCemhEd3VYN0k3S1VRdjBNa1BEY1JlaTVNem5DVk9ybU1DQQ?oc=5",
-      "date": "Thu, 22 Oct 2026 22:25:54 GMT",
-      "source": "TopStarNews",
-      "score": 2
-    },
-    {
-      "title": "코인 동반 급락장…리플 5.4%·비트코인 3.8% 하락",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9PM1JSMHVjcmZxZjU0SlpzSFRDNlFWWGcwSC10UV9VOElKaFFOX29lLUVJTDFyNHh5WWt0Zk1XczNLUllSQ212VmNSSm1maU9XVkw5WXRGWHlGWjFqQmlXLUpkRFRBWHpTRml1R0lqT0pMMHJw?oc=5",
-      "date": "Thu, 22 Oct 2026 21:27:00 GMT",
-      "source": "이투데이",
-      "score": 2
-    },
-    {
-      "title": "리플 프라임, DTCC 토큰화 협의체 합류…7월 실거래엔 XRP 아닌 캔톤·베수 썼다",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zQkFEZTg3T2NZZFdVWjdmWkI2UnQ1YTFjcHd3QWpqR01DaXFuVFdWYXBYZVB2TFJoRlJwcF9ySEpYLWdoQmFuWHZSWVRuaUY2MWNXcUV3?oc=5",
-      "date": "Thu, 22 Oct 2026 20:05:00 GMT",
-      "source": "위키트리",
-      "score": 2
-    },
-    {
       "title": "리플(XRP), 시장 하락에도 1.3달러대 방어…ETF 투자자 18% 손실",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1zaDl6Rjd6VVEwS2VJSmY2bEl6Yl9EVlFqZGpFcFZSOEdveC1iM3NxY2J6eHRvc3lra1UtTFpfT3hEUEpIOU11OFpn?oc=5",
       "date": "Thu, 22 Oct 2026 17:40:02 GMT",
@@ -155,11 +148,18 @@
       "score": 2
     },
     {
-      "title": "리플, 크로스리버은행에 RLUSD 도입…갈링하우스, 에버노스의 XRP 전략 지지",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZlpLNTkxR0p5dmExck5mVVZ6ZnNMVnI5bTN4VVpMT0NzNUdvclZmNkV6ME1MaHJtcEd6TzlHVEg5U3p0T1NiUWNxcGdGUUdvUVNxWW5HOUlKbHJmMG4zaWU4MlNQWXgxTUdaTkxXejI3elROcGdraXpjWnl1bVZqNmZqQ3FoTlhxdFROYU1PUS1Xa3N1OGpudGN1WVlFbTFOd2xFVVRKYTZ5eXNyLW5XbmhWMkNDLXBCeHM4aFByOA?oc=5",
-      "date": "Thu, 22 Oct 2026 11:26:52 GMT",
-      "source": "Brave New Coin",
-      "score": 4
+      "title": "리플 전 CTO가 밝힌 XRPL 약점…과부하에 로그 수집도 차질",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1NSFZsb0JpMG9xTGllekxsRm5LZFR5M0JVNzdZOXJMakNyRzhHYi1wWF9GbGZTUUxZOVBkcXJZX190Y0N3dVI4aVVzcFhlWmVhS0tqSGU3alRjcml1RFdQLVd5MzFGSll6VjZKVTYwbF9RVnM?oc=5",
+      "date": "Thu, 22 Oct 2026 05:37:14 GMT",
+      "source": "디지털투데이",
+      "score": 2
+    },
+    {
+      "title": "리플, 기관 대상 24시간 주식거래 개시…RLUSD 담보 대출도 지원",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBOS3VyZnZ3OHkzX2ptRXBFcGRidXFKeC11VkxUbmxnYnVYallLS3FsT3Fia1JQSHpsckxnYnJtWXcyMmhSUTRtc3NwNlU1V2xhMG5CenFOUTBhQy0xanJ1bW1vc2VHTjBzWXZ2UjA4V1pMT1k?oc=5",
+      "date": "Thu, 22 Oct 2026 02:51:30 GMT",
+      "source": "디지털투데이",
+      "score": 3
     }
   ]
 }
