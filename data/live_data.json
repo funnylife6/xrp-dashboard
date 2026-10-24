@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-10-24T00:54:35",
+  "generated_at": "2026-10-24T05:15:48",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.29,
-    "price_krw": 1701.18,
-    "price_change_24h": -2.06984,
-    "price_change_7d": -1.88016,
-    "price_change_30d": -14.37147,
-    "market_cap_usd": 81143250973,
+    "price_krw": 1708.07,
+    "price_change_24h": -2.41448,
+    "price_change_7d": -1.26152,
+    "price_change_30d": -13.99659,
+    "market_cap_usd": 81475803248,
     "market_cap_rank": 5,
-    "volume_24h": 1261983630,
+    "volume_24h": 1233915864,
     "circulating_supply": 63129671205.0,
     "total_supply": 99985607990.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 67.65,
-    "sentiment_votes_down": 32.35,
+    "sentiment_votes_up": 70.18,
+    "sentiment_votes_down": 29.82,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 36.4,
-    "recent_tps": 36.4,
-    "recent_tx_count": 3312,
+    "tps_24h_avg": 37.75,
+    "recent_tps": 37.75,
+    "recent_tx_count": 3360,
     "recent_ledger_count": 24,
-    "recent_window_sec": 91,
-    "ledger_seq": 107860600,
+    "recent_window_sec": 89,
+    "ledger_seq": 107864613,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-10-24 00:54:26 KST",
+    "updated_at": "2026-10-24 05:15:38 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,6 +92,13 @@
   ],
   "general_news": [
     {
+      "title": "XRP vs 카르다노 연말까지 더 확실한 회복 경로 쥔 쪽은?",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMnJwUnNsYUIwcWowZkMwbG5YTHRweERFSkVjY0RnWE15YWhRcTBkNFVjUktycjd4NEFYamw0Z00waWk3VXdFLVl3d2tGN3BkSVlaZEhrdlJNeWpxWHlwd0tFLVhMLXZpaVp2V1h6R09pcjRYYWxWazctemw1czM1Z0FUTFdyVEhQ?oc=5",
+      "date": "Sat, 24 Oct 2026 03:36:29 GMT",
+      "source": "글로벌이코노믹",
+      "score": 2
+    },
+    {
       "title": "가상자산 거래대금 52.5% 급증…아이리스 265% 폭등, 리플XRP 약세",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mTWZHM2VfNzdXOGlQdEtVTVItak9menVZbFFsYi1hYTVZSWpSdnZreGpESVV2YTlmUy1uUUM2OU15bWpVRVl3ZEdIMExPMmtqMW1raFVCU3NRNTFZQzlRbUI4aGF0c181alpXWkp2TVBRUQ?oc=5",
       "date": "Fri, 23 Oct 2026 23:24:17 GMT",
@@ -106,6 +113,13 @@
       "score": 10
     },
     {
+      "title": "고래들 1억불 쏟아냈다…리플 1.30달러 지지선 붕괴 위기",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSzdzMDNGVTdobllPT1Q4bFFSQW9TcmRtZ0ZJQmFVeFFUc0lDTjJfU0d1aHJDVXBIUDZUbVlfRlF3aHdfV2dCUldvRmVhOFAtblA3TmVCUUpva2N3di1ESGV3SEc4MVA4emZiTTJzallBUGdGUDNyWkt3eHB1TlFEMHRBUUpYdkVT?oc=5",
+      "date": "Fri, 23 Oct 2026 19:00:00 GMT",
+      "source": "글로벌이코노믹",
+      "score": 2
+    },
+    {
       "title": "아프, 리플 RLUSD로 XRPL에 결제 유동성 공급…연 100억 달러 중 투입액은 비공개",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qd3p6blJvUE85UkdjelRkTDMwZDUxMmhRajZzT3NCejlvdVd4WUg4Y1NzZmhNbHhsemtGdE5MTkpVQU5WemRiY3NjaFV2WFMwWXpGZFl3?oc=5",
       "date": "Fri, 23 Oct 2026 15:26:00 GMT",
@@ -118,13 +132,6 @@
       "date": "Fri, 23 Oct 2026 13:02:00 GMT",
       "source": "코인리더스",
       "score": 2
-    },
-    {
-      "title": "리플, 1억 5천만 달러 규모 XRP 분쟁 후 SEC에 충격적인 조치 취해… OCC, GENIUS 법안 규칙 공개",
-      "url": "https://news.google.com/rss/articles/CBMizwNBVV95cUxPNFB4LTZZRXhqa2JrSW41SGJ3WU5oQWxGRVFfTTM3MTJ6Ym9xcTd6N2VqbzJ4ZmdKU2RWRnVQQ0lweWRBX3JVSTFxMVFmMHdPdFU5eGVXU2hueHYwXzlDSUhxNnNqQmhfSVM2S0p4Ry1JRXVCVUlmMWZtSFpSMHRYSW9QMEExM2FvLWFNYUVEZ01FWEFiVTFuRjViT3NEeGljc0tWSnZUYzdVcFBiT180ZmpaOFhINVBBS0gyZVRuMkl3R3A3cHdPc20yUTFjRl9kTTBWQ3RON1lYeWVYdGljZmFPajlaMGFMdkZEdUhQaW5lUmNfQ3ZhaEtjc2ZhRlQ5ZnFMaDZweUpHU0REWlliSHlndk56VDFZR0ROSTlVa1dQaDNvbk9JNDNWN0VUMlhSMlFqYTFwdDV3T3BCMS1ZbzZteU9RU19fN2d3S2phZTNTd2ZtaFdXZVJZbExhcFhJdzh3WjVxUVVwcUl6SVRwRmZPSTZKc0xlWGJxZDRkWUpwVXhKaVV1R0xxSDhFbnNEZWRFeGxpblR3Nzk4bkZMQm5UTUFsZ05nMEpKTFMteWdFSTE4ZmxTaXV2ZTRWZE8yVmxYa3JDTUl3SWZPTkxV?oc=5",
-      "date": "Fri, 23 Oct 2026 07:56:35 GMT",
-      "source": "Brave New Coin",
-      "score": 3
     },
     {
       "title": "리플 RLUSD, XRP 레저에 유동성 투입...국경 간 결제 자금난 풀까?",
@@ -153,13 +160,6 @@
       "date": "Thu, 22 Oct 2026 05:37:14 GMT",
       "source": "디지털투데이",
       "score": 2
-    },
-    {
-      "title": "리플, 기관 대상 24시간 주식거래 개시…RLUSD 담보 대출도 지원",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBOS3VyZnZ3OHkzX2ptRXBFcGRidXFKeC11VkxUbmxnYnVYallLS3FsT3Fia1JQSHpsckxnYnJtWXcyMmhSUTRtc3NwNlU1V2xhMG5CenFOUTBhQy0xanJ1bW1vc2VHTjBzWXZ2UjA4V1pMT1k?oc=5",
-      "date": "Thu, 22 Oct 2026 02:51:30 GMT",
-      "source": "디지털투데이",
-      "score": 3
     }
   ]
 }
