@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-10-25T09:58:12",
+  "generated_at": "2026-10-25T14:07:05",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.29,
-    "price_krw": 1711.05,
-    "price_change_24h": 1.29319,
-    "price_change_7d": 0.06555,
-    "price_change_30d": -16.19699,
-    "market_cap_usd": 81880373825,
+    "price_krw": 1713.08,
+    "price_change_24h": 0.77686,
+    "price_change_7d": 0.98644,
+    "price_change_30d": -18.25611,
+    "market_cap_usd": 82005220796,
     "market_cap_rank": 5,
-    "volume_24h": 1337047282,
+    "volume_24h": 1283362550,
     "circulating_supply": 63351197653.0,
     "total_supply": 99985589443.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 51.52,
-    "sentiment_votes_down": 48.48,
+    "sentiment_votes_up": 60.78,
+    "sentiment_votes_down": 39.22,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 36.08,
-    "recent_tps": 36.08,
-    "recent_tx_count": 3211,
+    "tps_24h_avg": 36.59,
+    "recent_tps": 36.59,
+    "recent_tx_count": 3293,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 107890957,
+    "recent_window_sec": 90,
+    "ledger_seq": 107894770,
     "ledger_close_sec": 0.0,
-    "load_factor": 1.0,
+    "load_factor": 514.09765625,
     "peers": 0,
-    "updated_at": "2026-10-25 09:58:05 KST",
+    "updated_at": "2026-10-25 14:06:57 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -120,13 +120,6 @@
       "score": 9
     },
     {
-      "title": "속보 | 靑, 가상자산 과세 재유예 결론",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBsdkV2MVo2UHA1WllBNXcxZFQ3cGNSZ29BR19qTlBNendCZW8wYTRtU2p5QUNGZlR4bkZ2eUZRd3pNeG5MTl9xZA?oc=5",
-      "date": "Sat, 24 Oct 2026 12:05:00 GMT",
-      "source": "CoinNess",
-      "score": 8
-    },
-    {
       "title": "프랭클린 템플턴, XRP 원장에 1억 5000만 달러 베팅…단숨에 'RWA 2위' 부상",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYjFCcmlQOUZWcTVzUzduTjlfSm9KWm84b244NnFDLXZLUzRSa2lDaUlCaEtGbVVIVm0yeEY2MjYyWWpwOUZlbjk5Y0JvSktZZlFraS05MTVoTTFYUTh4S1gyS2ZmcGVsbndBcGtBRnhwTlVsWFpfTDhkZnZXZy1KT0lDOWNqR3VU?oc=5",
       "date": "Sat, 24 Oct 2026 10:37:01 GMT",
@@ -148,17 +141,24 @@
       "score": 2
     },
     {
-      "title": "아프, 리플 RLUSD로 XRPL에 결제 유동성 공급…연 100억 달러 중 투입액은 비공개",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qd3p6blJvUE85UkdjelRkTDMwZDUxMmhRajZzT3NCejlvdVd4WUg4Y1NzZmhNbHhsemtGdE5MTkpVQU5WemRiY3NjaFV2WFMwWXpGZFl3?oc=5",
-      "date": "Fri, 23 Oct 2026 15:26:00 GMT",
-      "source": "위키트리",
+      "title": "리플 RLUSD, XRP 레저에 유동성 투입...국경 간 결제 자금난 풀까?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBvTnV5MWVWWEdaS291dFRqcDNEbkduZWlTM1FJdTdVeHJXMFpjaDFCUmNRbkdWQnN6em1Ma29tWk9jZmd6MGpwRmx3?oc=5",
+      "date": "Fri, 23 Oct 2026 06:55:00 GMT",
+      "source": "코인리더스",
       "score": 3
     },
     {
-      "title": "XRP, 1.30달러 지지선 방어…리플, Arf와 제휴해 XRPL에 RLUSD 결제 유동성 공급",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbzhYLWQ2NlZGcUNsRHBzQTItRGFTSzlNQTNseTE1LVpObGVsS3VpZkwtLWp1ekVPM2llcGV6VTNCQ0hQM3psWUpmRnVDSWJDX2I2T1ZPSjZQMG95WmlOckJTbHFTVlRyanR5VXhtSUdRVFNyV2ItcjJYQzhLZEk5d2s1M3dFbnhVcmF0RkRneWlVYThTcHpGMy1tcHFXWHdNS3RrMzlYWWpWRlhMaXU2NDRNRWpOUEllLURxM1JON01hNk9sYXJtUWN0STJGakNCS2lENTNfRF9yZGJQcl9rYWhCbTBKYmdrRUxxYlFVTFp6OXM?oc=5",
-      "date": "Fri, 23 Oct 2026 13:21:51 GMT",
-      "source": "www.tmgm.com",
+      "title": "리플, 1억 5천만 달러 규모 XRP 분쟁 후 SEC에 충격적인 조치 취해… OCC, GENIUS 법안 규칙 공개",
+      "url": "https://news.google.com/rss/articles/CBMizwNBVV95cUxPNFB4LTZZRXhqa2JrSW41SGJ3WU5oQWxGRVFfTTM3MTJ6Ym9xcTd6N2VqbzJ4ZmdKU2RWRnVQQ0lweWRBX3JVSTFxMVFmMHdPdFU5eGVXU2hueHYwXzlDSUhxNnNqQmhfSVM2S0p4Ry1JRXVCVUlmMWZtSFpSMHRYSW9QMEExM2FvLWFNYUVEZ01FWEFiVTFuRjViT3NEeGljc0tWSnZUYzdVcFBiT180ZmpaOFhINVBBS0gyZVRuMkl3R3A3cHdPc20yUTFjRl9kTTBWQ3RON1lYeWVYdGljZmFPajlaMGFMdkZEdUhQaW5lUmNfQ3ZhaEtjc2ZhRlQ5ZnFMaDZweUpHU0REWlliSHlndk56VDFZR0ROSTlVa1dQaDNvbk9JNDNWN0VUMlhSMlFqYTFwdDV3T3BCMS1ZbzZteU9RU19fN2d3S2phZTNTd2ZtaFdXZVJZbExhcFhJdzh3WjVxUVVwcUl6SVRwRmZPSTZKc0xlWGJxZDRkWUpwVXhKaVV1R0xxSDhFbnNEZWRFeGxpblR3Nzk4bkZMQm5UTUFsZ05nMEpKTFMteWdFSTE4ZmxTaXV2ZTRWZE8yVmxYa3JDTUl3SWZPTkxV?oc=5",
+      "date": "Fri, 23 Oct 2026 06:02:10 GMT",
+      "source": "Brave New Coin",
+      "score": 3
+    },
+    {
+      "title": "리플(XRP), 시장 하락에도 1.3달러대 방어…ETF 투자자 18% 손실",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1zaDl6Rjd6VVEwS2VJSmY2bEl6Yl9EVlFqZGpFcFZSOEdveC1iM3NxY2J6eHRvc3lra1UtTFpfT3hEUEpIOU11OFpn?oc=5",
+      "date": "Thu, 22 Oct 2026 17:40:02 GMT",
+      "source": "코인리더스",
       "score": 3
     }
   ]
