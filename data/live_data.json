@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-10-25T22:42:31",
+  "generated_at": "2026-10-26T00:54:26",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.3,
-    "price_krw": 1719.39,
-    "price_change_24h": 0.51044,
-    "price_change_7d": 1.93911,
-    "price_change_30d": -16.29491,
-    "market_cap_usd": 82291663493,
+    "price_usd": 1.29,
+    "price_krw": 1713.47,
+    "price_change_24h": -0.62883,
+    "price_change_7d": -0.84785,
+    "price_change_30d": -17.44314,
+    "market_cap_usd": 82014093578,
     "market_cap_rank": 5,
-    "volume_24h": 978157201,
+    "volume_24h": 1001814169,
     "circulating_supply": 63351197653.0,
     "total_supply": 99985589443.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 65.22,
-    "sentiment_votes_down": 34.78,
+    "sentiment_votes_up": 72.73,
+    "sentiment_votes_down": 27.27,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 77.02,
-    "recent_tps": 77.02,
-    "recent_tx_count": 7702,
+    "tps_24h_avg": 61.54,
+    "recent_tps": 61.54,
+    "recent_tx_count": 5539,
     "recent_ledger_count": 24,
-    "recent_window_sec": 100,
-    "ledger_seq": 107902613,
+    "recent_window_sec": 90,
+    "ledger_seq": 107904601,
     "ledger_close_sec": 0.0,
-    "load_factor": 1059.96484375,
+    "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-10-25 22:42:24 KST",
+    "updated_at": "2026-10-26 00:54:19 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -47,6 +47,13 @@
     "data_source": "news_parse"
   },
   "etf_news": [
+    {
+      "title": "XRP, 호재 쌓여도 '미끌'...ETF 자금 유입에도 1달러 붕괴 공포",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE55T3pyaVpCMzB1T3UtT2hKRnNHbFo1YzdONkR5WTIxWHFNQXR6ZXFmOXRHNzdvMnZGXzB5NUdxVTNuc3JTV0hWT3l3?oc=5",
+      "date": "Sun, 25 Oct 2026 23:50:00 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
     {
       "title": "XRP ETF, 13주 연속 순유입 멈춤…온체인 결제 경고",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9UUUJxZXY3Zlp3dEhZQm1PNnV6aS1jT1dZWEQxZC1OdUxKdHVFbGhpS3RnNUdPVHdxZGNBSUUyNVA0V0JFUEtRNUM5eWxxSi1mdnlQbXlUZmJRX191dVV1OGw0XzZYQ1NlLUF2aTVIWGZqanktQ2IyeDZ3?oc=5",
@@ -81,16 +88,37 @@
       "date": "Thu, 22 Oct 2026 17:40:02 GMT",
       "source": "코인리더스",
       "score": 0
-    },
-    {
-      "title": "비트코인 ETF 이번 주 3억 1천만 달러 순유입",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPeDZXbDRJc2FQWFNmaWpwMnAxcDFoWmd1TGhvWUFwUVBseTZyVjhleERFRU5acDNsRG11c0twMzNzWTVZb3JFaUI3Nk91TlNkaFdMQ01WcFdXWXd0SVU5alNURUQzRXlkNDlGRHRYY3dhbGpQdnp4WjQyQ3dhV19MTTdpOHFkLVRwRC1uRjdfTDdjVGxxRjltVGI3b0h5WHRyV3hNZDdVWHF3RXlpYXF2SHExdHB1cjhLeGpnMkJ6emlKMkw4ZnlQSWZTNTNfZG0tYTZZXzBnNWhnOVRwMERnalJDOEo4b093aDNv?oc=5",
-      "date": "Thu, 22 Oct 2026 14:10:34 GMT",
-      "source": "FinanceFeeds",
-      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "리플 슈워츠 \"XRP 사기 막으려 AI 전면 필터링?…표현의 자유 위협\"",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBiZ3VSNDBIQWJ6R2ZmYjBTWnhQYXJGU0VUTm5SNXF3d1VsOTNvOE1hbl9nenZUVk1BY2Fia1FiOWVMbGVQaHFrRmtBME9haERlVjZxbTR1V0VYQzE0cnRXcExjTkJubXhJRHFUbngyaHhHWTA?oc=5",
+      "date": "Mon, 26 Oct 2026 00:27:00 GMT",
+      "source": "디지털투데이",
+      "score": 2
+    },
+    {
+      "title": "마스터카드, 리플 RLUSD 치켜세웠다…XRPL 해커톤서 긍정 평가",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE92MUIwcWowR1dWZ0FnNERUOV9OVnJTZE1aX2c5UGV1WVZYY0wxWFlJYkQyajF2M2NxWHEzcXRwb0tpazhfMHZOQzZpZXQwOHBjMlU1bWRsdWs0ZGJxX01YUEptTk1HZmFpckVZNkRNVkhUT00?oc=5",
+      "date": "Mon, 26 Oct 2026 00:26:33 GMT",
+      "source": "디지털투데이",
+      "score": 3
+    },
+    {
+      "title": "XRP, 호재 쌓여도 '미끌'...ETF 자금 유입에도 1달러 붕괴 공포",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE55T3pyaVpCMzB1T3UtT2hKRnNHbFo1YzdONkR5WTIxWHFNQXR6ZXFmOXRHNzdvMnZGXzB5NUdxVTNuc3JTV0hWT3l3?oc=5",
+      "date": "Sun, 25 Oct 2026 23:50:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
+      "title": "리플 '스웰 2026' 개최 임박…RLUSD·XRPL 협력 발표 쏟아질까",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAwdTkzQzNuenlMckRaYTRIQk8wcGNUaGtHZ3VCWkFQNnFmdVNSMmNIRlpjM09qRFc4VmZ4aVBRMUNLYkRtTFlWdm5SUDkyVU13dGpvVGNrendVNFEtX0NETlRfenNmamRJRUlfMl92bUpnbUU?oc=5",
+      "date": "Sun, 25 Oct 2026 23:49:53 GMT",
+      "source": "디지털투데이",
+      "score": 3
+    },
     {
       "title": "블라스트 거래지원 종료 앞두고 거래 집중…리플XRP 약보합",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MSU1JVTAtUS1XcTNNWEd4akVQTzRLazJiVzdQWk9yaHJvcE5DbVlQVUphYXA4ZHFXT0Nrdm4tbXFiZUtNQWJVMjBVTzR5LXNER0M5Q0FkTDVPNE5BX2J6NlpxQTNITDIyanAzZTUyV3J3dw?oc=5",
@@ -132,34 +160,6 @@
       "date": "Sun, 25 Oct 2026 00:41:29 GMT",
       "source": "톱스타뉴스",
       "score": 2
-    },
-    {
-      "title": "속보 | 靑, 가상자산 과세 재유예 결론",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBsdkV2MVo2UHA1WllBNXcxZFQ3cGNSZ29BR19qTlBNendCZW8wYTRtU2p5QUNGZlR4bkZ2eUZRd3pNeG5MTl9xZA?oc=5",
-      "date": "Sat, 24 Oct 2026 12:05:00 GMT",
-      "source": "CoinNess",
-      "score": 8
-    },
-    {
-      "title": "프랭클린 템플턴, XRP 원장에 1억 5000만 달러 베팅…단숨에 'RWA 2위' 부상",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYjFCcmlQOUZWcTVzUzduTjlfSm9KWm84b244NnFDLXZLUzRSa2lDaUlCaEtGbVVIVm0yeEY2MjYyWWpwOUZlbjk5Y0JvSktZZlFraS05MTVoTTFYUTh4S1gyS2ZmcGVsbndBcGtBRnhwTlVsWFpfTDhkZnZXZy1KT0lDOWNqR3VU?oc=5",
-      "date": "Sat, 24 Oct 2026 10:37:01 GMT",
-      "source": "글로벌이코노믹",
-      "score": 2
-    },
-    {
-      "title": "아프, 리플 RLUSD로 XRPL에 결제 유동성 공급…연 100억 달러 중 투입액은 비공개",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qd3p6blJvUE85UkdjelRkTDMwZDUxMmhRajZzT3NCejlvdVd4WUg4Y1NzZmhNbHhsemtGdE5MTkpVQU5WemRiY3NjaFV2WFMwWXpGZFl3?oc=5",
-      "date": "Fri, 23 Oct 2026 15:26:00 GMT",
-      "source": "위키트리",
-      "score": 3
-    },
-    {
-      "title": "XRP, 1.30달러 지지선 방어…리플, Arf와 제휴해 XRPL에 RLUSD 결제 유동성 공급",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbzhYLWQ2NlZGcUNsRHBzQTItRGFTSzlNQTNseTE1LVpObGVsS3VpZkwtLWp1ekVPM2llcGV6VTNCQ0hQM3psWUpmRnVDSWJDX2I2T1ZPSjZQMG95WmlOckJTbHFTVlRyanR5VXhtSUdRVFNyV2ItcjJYQzhLZEk5d2s1M3dFbnhVcmF0RkRneWlVYThTcHpGMy1tcHFXWHdNS3RrMzlYWWpWRlhMaXU2NDRNRWpOUEllLURxM1JON01hNk9sYXJtUWN0STJGakNCS2lENTNfRF9yZGJQcl9rYWhCbTBKYmdrRUxxYlFVTFp6OXM?oc=5",
-      "date": "Fri, 23 Oct 2026 13:21:51 GMT",
-      "source": "www.tmgm.com",
-      "score": 3
     }
   ]
 }
