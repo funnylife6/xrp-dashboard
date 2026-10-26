@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-10-26T00:54:26",
+  "generated_at": "2026-10-26T05:39:07",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.29,
-    "price_krw": 1713.47,
-    "price_change_24h": -0.62883,
-    "price_change_7d": -0.84785,
-    "price_change_30d": -17.44314,
-    "market_cap_usd": 82014093578,
+    "price_krw": 1703.08,
+    "price_change_24h": -1.24447,
+    "price_change_7d": -1.81153,
+    "price_change_30d": -17.21985,
+    "market_cap_usd": 81613383572,
     "market_cap_rank": 5,
-    "volume_24h": 1001814169,
+    "volume_24h": 1121028999,
     "circulating_supply": 63351197653.0,
     "total_supply": 99985589443.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 72.73,
-    "sentiment_votes_down": 27.27,
+    "sentiment_votes_up": 71.15,
+    "sentiment_votes_down": 28.85,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 61.54,
-    "recent_tps": 61.54,
-    "recent_tx_count": 5539,
+    "tps_24h_avg": 30.7,
+    "recent_tps": 30.7,
+    "recent_tx_count": 2517,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 107904601,
+    "recent_window_sec": 82,
+    "ledger_seq": 107908907,
     "ledger_close_sec": 0.0,
-    "load_factor": 1.0,
+    "load_factor": 506.015625,
     "peers": 0,
-    "updated_at": "2026-10-26 00:54:19 KST",
+    "updated_at": "2026-10-26 05:38:59 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -62,6 +62,13 @@
       "score": 0
     },
     {
+      "title": "리플 성장해도 XRP는 다르다! 전문가 \"부자 될 기대는 낮춰야\"",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5ubUxIZjZDd0hCWG1XSGZMU2RWTEFqMkRfZ29KODIwa2s4MUdCTVE1V1ZwMlhNdVJ1bGg4d1hNZHRxbVZpalFadU9n?oc=5",
+      "date": "Sat, 24 Oct 2026 23:49:00 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
+    {
       "title": "XRP ETF 누적 순유입 18억달러 돌파…20억달러 눈앞",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jSWZUOGQxYjltVzlNVFJEVlNTa1JITUJrZ0lFM1A1d3FVb0dDYWRBSWlRM2lVT3paV2FVNnZCVWxGdDJ3Z1c3QWdFY3B3b0dPa05jTnk0a25CVDhncVBMV1RwTGtmUGpndHFjWHRZdkQ3cmM?oc=5",
       "date": "Fri, 23 Oct 2026 00:12:14 GMT",
@@ -81,16 +88,30 @@
       "date": "Thu, 22 Oct 2026 18:28:29 GMT",
       "source": "www.tmgm.com",
       "score": 0
-    },
-    {
-      "title": "리플(XRP), 시장 하락에도 1.3달러대 방어…ETF 투자자 18% 손실",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1zaDl6Rjd6VVEwS2VJSmY2bEl6Yl9EVlFqZGpFcFZSOEdveC1iM3NxY2J6eHRvc3lra1UtTFpfT3hEUEpIOU11OFpn?oc=5",
-      "date": "Thu, 22 Oct 2026 17:40:02 GMT",
-      "source": "코인리더스",
-      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "마스터카드, XRP 레저 해커톤서 RLUSD 극찬...왜?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1qS0duVnlRU3c4TU9HTUZXZVI5c000UEhIejhVZ1JMZlh3MHgxbGcta1dxUEw3OEJaTUU0dEp0b1NJMmZ3NWxFNVNB?oc=5",
+      "date": "Mon, 26 Oct 2026 03:45:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
+      "title": "리플, 스웰에 개발·연구 행사까지 묶어 27일 개막",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGdklEZ1pkV0Q3M1p4dWFRZTd2WEdCcTZrQkc1NnN6cFA5anZLdEFkVnhmOEpZSHp0c0F3RDBrek9DcS1CZm9jdlp3ckN3YzdVSkdXbmZqMnhWMkNRbi1jRtIBZkFVX3lxTFBidU1wZzdIcTFBTnlIOVFmMWlfVF80THRjYU1VcUxwTi1iWEJzTWRJeU51dFNXUTVCd29qNWVVTnhDVml5cDVlM3p3andPMGhUSG5mMkg3dHotLTZ0NXg3SmxSWW5Ldw?oc=5",
+      "date": "Mon, 26 Oct 2026 02:38:02 GMT",
+      "source": "토큰포스트",
+      "score": 9
+    },
+    {
+      "title": "\"XRP 레저 성공해도 가격 폭등 없다?\"…명예 CTO 장밋빛 흠집낸 치명적 반론",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUWNwZWRpaUJFTmlQUl9KSkZveVk1Z2JteDd2T2ZpMEl4QUN5bmNHOG9YcnB6aDd3NmlVY2NlZi1nLVFlMV84VTk3ZmVkLUlZRnhpd1hVbFl1Y0FLWmdTXy11eHlEMjB2WFpqLU03aUZXRDg4NllJN0dpQk14bE5zSmVlOWRBYThl?oc=5",
+      "date": "Mon, 26 Oct 2026 02:17:16 GMT",
+      "source": "글로벌이코노믹",
+      "score": 2
+    },
     {
       "title": "리플 슈워츠 \"XRP 사기 막으려 AI 전면 필터링?…표현의 자유 위협\"",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBiZ3VSNDBIQWJ6R2ZmYjBTWnhQYXJGU0VUTm5SNXF3d1VsOTNvOE1hbl9nenZUVk1BY2Fia1FiOWVMbGVQaHFrRmtBME9haERlVjZxbTR1V0VYQzE0cnRXcExjTkJubXhJRHFUbngyaHhHWTA?oc=5",
@@ -138,27 +159,6 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ucExmRFJESkRuWUhndlhzbkNXblpuZFd5MXI5d3hObnpYQnU3ZE1NS1BnQjNUcGRMajJoWWlhaEQ4ZExqRndfWmMyT1M3bHJEUHdCcEV3?oc=5",
       "date": "Sun, 25 Oct 2026 17:01:00 GMT",
       "source": "위키트리",
-      "score": 2
-    },
-    {
-      "title": "슈워츠 “XRPL 금융 성공 때 XRP 수요·가치 낮을 가능성 작다”",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44RTNpOXNzVUFGeXdqWk1Dek9uYXdZRWJ2QkV5MEZodEVYb1d6cmVBVFFqNXphM3ZFWjlFTHF3ektVZTNjUlpZV1FndUVUbHRCTW9wQjRJODJrWlphWS1yNNIBZkFVX3lxTE5saVZRT0NxdU51eVpRMHRkWUs1d2ZDTzIyYkZOQnNneFQ3anZBQ1NBZE1nd1A5TVV3dXh0VjV6cHJESjRYUFVWbEFQY01sRU1KNzc5WGFxRHdkaE1JdFo2cmE2OHpFQQ?oc=5",
-      "date": "Sun, 25 Oct 2026 16:34:36 GMT",
-      "source": "토큰포스트",
-      "score": 9
-    },
-    {
-      "title": "리플(XRP) 1.30달러 공방…200일선 지지 속 1.33달러 돌파 시험대",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBDX3ZueDdBWnNQZGNjTldBcGhwa2V2dU1LVWVFZUxadUFVUWlUaEJXYjdiVVVza3RHaG5fUlNqb1c2Zm55OVpqQXJn?oc=5",
-      "date": "Sun, 25 Oct 2026 13:02:16 GMT",
-      "source": "코인리더스",
-      "score": 2
-    },
-    {
-      "title": "코인 거래대금 27.4%↑…문버드·오덜리, 리플XRP 제친 알트코인 왜?",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBhcFRxd3JOQWk4Ym1VNmZXVjFET3ZiNVlyam5jRlNiTXhBcHY5QVJrV1VnUmdIZ2tQZW9OSTZHeG90QnRXc2FhVmRYX2VhYjlNdzloQmdGR1dnMHJmLTdPTjJXaWp0djZRVkVvTF9XNjRRQQ?oc=5",
-      "date": "Sun, 25 Oct 2026 00:41:29 GMT",
-      "source": "톱스타뉴스",
       "score": 2
     }
   ]
