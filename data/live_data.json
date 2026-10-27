@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-10-27T13:26:13",
+  "generated_at": "2026-10-27T18:48:46",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.31,
-    "price_krw": 1742.15,
-    "price_change_24h": 1.57993,
-    "price_change_7d": 1.04716,
-    "price_change_30d": -14.49947,
-    "market_cap_usd": 83148387411,
+    "price_usd": 1.32,
+    "price_krw": 1756.66,
+    "price_change_24h": 2.26477,
+    "price_change_7d": -0.34455,
+    "price_change_30d": -13.13437,
+    "market_cap_usd": 83849631366,
     "market_cap_rank": 5,
-    "volume_24h": 1434849708,
+    "volume_24h": 1415122121,
     "circulating_supply": 63351197653.0,
     "total_supply": 99985589443.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 67.01,
-    "sentiment_votes_down": 32.99,
+    "sentiment_votes_up": 70.0,
+    "sentiment_votes_down": 30.0,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 71.6,
-    "recent_tps": 71.6,
-    "recent_tx_count": 7160,
+    "tps_24h_avg": 101.97,
+    "recent_tps": 101.97,
+    "recent_tx_count": 9279,
     "recent_ledger_count": 24,
-    "recent_window_sec": 100,
-    "ledger_seq": 107937574,
+    "recent_window_sec": 91,
+    "ledger_seq": 107942358,
     "ledger_close_sec": 0.0,
-    "load_factor": 516.125,
+    "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-10-27 13:26:07 KST",
+    "updated_at": "2026-10-27 18:48:36 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,7 +43,7 @@
     "aum_usd": 3610000,
     "total_net_inflow_usd": 3610000,
     "total_value_traded_usd": 3610000,
-    "updated_at": "SoSoValue 순유입 부분 수집 10/27 13:26",
+    "updated_at": "SoSoValue 순유입 부분 수집 10/27 18:48",
     "data_source": "sosovalue",
     "partial": true
   },
@@ -52,13 +52,6 @@
       "title": "BTC 현물 ETF 순유입 전환...1462억원",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBoOGY3Y2NJNzVfUnFSYmdpMUtfVTJfMjVIdW9TMklaQTJiMk0yRW00OWdHLUZSX1VTcjVVd1NialE0eWlNSGhod0ln?oc=5",
       "date": "Tue, 27 Oct 2026 04:01:47 GMT",
-      "source": "코인리더스",
-      "score": 0
-    },
-    {
-      "title": "이더리움(ETH), ETF서 한 달 새 10억 달러 탈출...2,300달러 마지막 방어선 사투",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9acFpHX3lKR3FpOXlfcnFWZFhzMUFWNmw3QUl0UldsbWdJb2g4TGN4QlNEMWVmY1Y4UFZJd241aGJuX1FnZ3ZSYzJR?oc=5",
-      "date": "Tue, 27 Oct 2026 01:10:00 GMT",
       "source": "코인리더스",
       "score": 0
     },
@@ -89,9 +82,44 @@
       "date": "Sun, 25 Oct 2026 21:10:05 GMT",
       "source": "BeInCrypto",
       "score": 0
+    },
+    {
+      "title": "리플 성장해도 XRP는 다르다! 전문가 \"부자 될 기대는 낮춰야\"",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5ubUxIZjZDd0hCWG1XSGZMU2RWTEFqMkRfZ29KODIwa2s4MUdCTVE1V1ZwMlhNdVJ1bGg4d1hNZHRxbVZpalFadU9n?oc=5",
+      "date": "Sat, 24 Oct 2026 23:49:00 GMT",
+      "source": "코인리더스",
+      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "리플 OCC 은행 승인에도 XRP 1.30달러 제자리…고래는 공급량 68.5% 쥐었다",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hdjdfQk5zT2Q4bGJid1d4MnlaYkVsdVA1ZDVjOFNoUFAxRmJoaGdDVjZxYmY4d0JTV19ZTG5xdmd6bFQ3M2xLYjRMOTBxLVNjVFUwM0Fn?oc=5",
+      "date": "Tue, 27 Oct 2026 17:02:00 GMT",
+      "source": "위키트리",
+      "score": 3
+    },
+    {
+      "title": "로빈후드, 경쟁사 USDG 지원에도 불구하고 리플의 25억 달러 RLUSD 스테이블코인 활용",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVUlLcV9YQXYxOHYyajF6bFh3QU1fUU41aHM2S3NtRkFhRzRZd2dOM3UxeW1BUnZ4eHZxdng2SVNjNWZPakN3QUJfUndWQ1RmTzEtYTY0NXVzLVBNQVU4d2xSVGRJcXFoRFBrRUNqSjVGNUVjM1hvTFJPOXNmb1NEMFEzeXJZaUJUdXprcXcxY2h5d09pY3RiSUR6bl9hRmdTak0tSUY1RG0wdHlMM0FyanBQLUZLMlNhMFFsWExvYnl5eUNxeXQ4eA?oc=5",
+      "date": "Tue, 27 Oct 2026 16:35:29 GMT",
+      "source": "CoinDesk",
+      "score": 2
+    },
+    {
+      "title": "BNY멜론, XRP·RLUSD 수탁 시작…직접 발행·상환은 아직 검토 단계",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMaXd1bHNEVUpaOHp2dkFyTTlVTDlfSklkdmZ5WXM2MmR1RHNON3dvMGZlSU42S1JSRmEwblZ3WV9obXd0SElidlcyTFg4cVZKT1BSczBR?oc=5",
+      "date": "Tue, 27 Oct 2026 15:01:00 GMT",
+      "source": "위키트리",
+      "score": 2
+    },
+    {
+      "title": "리플, 美 국립 신탁은행 최종 승인…RLUSD 준비금 관리",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5ZQm5QLTlVR0JMV2J3a195LXlFQl8wa0RWUGRtVlh4RldKSG5paXA4b09CT2JQR2swemlHb2pCWExYVm5OUndvNHJR?oc=5",
+      "date": "Tue, 27 Oct 2026 14:51:46 GMT",
+      "source": "코인리더스",
+      "score": 3
+    },
     {
       "title": "리플·BNY, 디지털자산 협력 확대…XRP·RLUSD 수탁 지원",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWOURZdEZoeVBXdEx2cFhJTHJWY3htbG1pMThBOGJzdlBGNko1RlJ4NlNOUEZKdDFWYTA4MTNfNHhCNUVseXlqTk5lV1dEckxt?oc=5",
@@ -104,6 +132,13 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Td2k3Y0RlSmhVcjZQQ05IZHlXUzJCandTU0RaVURIb3BKNU1QUnp5bVI1Q0VGT2pYM1BfNmJ4N2ZlbDhSYTlVWUZ0TkdqMzBuV3h6cHlkeFNYVTkxcDJwVXFnS0NtS0ZhVHZOaF82SFh4X2J1cnZLWEc5UQ?oc=5",
       "date": "Tue, 27 Oct 2026 12:04:00 GMT",
       "source": "Investing.com 한국어",
+      "score": 2
+    },
+    {
+      "title": "리플(XRP) 고래들이 떠난다…거래소에 110억 5,000만 개 쌓이며 폭락 공포",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5XZFktVEJaeUo5Z1ZTMXdTWWZMckNnMURnZk5FRlJ5NDBhS002cl9KUl9rUTl2V2ktZVNBOUl5b2J1Q2RwRUpuZWlB?oc=5",
+      "date": "Tue, 27 Oct 2026 10:57:00 GMT",
+      "source": "코인리더스",
       "score": 2
     },
     {
@@ -126,41 +161,6 @@
       "date": "Tue, 27 Oct 2026 04:51:31 GMT",
       "source": "CBC뉴스",
       "score": 4
-    },
-    {
-      "title": "리플(XRP) 1.30달러 선 회복…1.26달러 지지 여부가 관건",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE56OGh6V0ZIVDM0dFpXOXFBd1FvSWZXMUtxOTJZZ0tqWGtXdmdjcHdCOXhmRl8yajJfZDloLTU2d0ZvQlBKTERxUURB?oc=5",
-      "date": "Tue, 27 Oct 2026 02:45:54 GMT",
-      "source": "코인리더스",
-      "score": 2
-    },
-    {
-      "title": "XRP아시아 “유통량 15% 보유한 韓, 게임·제조업 활용 잠재력”",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5CQ1FoZC10NzhLRzFTNTRXb2NuU05uS2M0QWdmUzNWZWtmaUJxbkJhZ05ubHNScXFfY0lOSWVuLV9zM0daQTZlNzZCdm9FOENJTmZacU1LOXhEbWdhQ1pBU0JQSDgtbXN4YjBYakJiYWE2TFE?oc=5",
-      "date": "Tue, 27 Oct 2026 02:16:01 GMT",
-      "source": "마켓인",
-      "score": 2
-    },
-    {
-      "title": "리플, 기업 자금관리 24시간 지원…AI·RLUSD 결합 플랫폼 공개",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KVU9GSXBTVnZEcGZwZ2I0eGRIOW5Ybk1nUm9aSnE1UDNPdDVzTm5hTkN0LUxFSTYyRU1lTFJBbVI2VGJSQldaZXJvcWFtVG1pZlBWWVk1Q2JJNVQwRjlrRHBueU9kTThJZXJZZm9oVFF1MDQ?oc=5",
-      "date": "Tue, 27 Oct 2026 02:15:46 GMT",
-      "source": "디지털투데이",
-      "score": 2
-    },
-    {
-      "title": "가상자산 거래대금 30% 급감…두들즈 43% 상승, 리플XRP 약세",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1LbEVpTGhIWlg5QU9YbmY5YWZjdXdHVVJXekpUUmUwemQ0YWVpMmJPZFcwcEg5MWpSNHg4cVlLek50V1JfbWxSSUNfRmtVbVNpVkxsZFlhYm02QlA3MDA3S2h0T0tIQ3R6cXlIMi1nX1YwZw?oc=5",
-      "date": "Mon, 26 Oct 2026 22:20:39 GMT",
-      "source": "톱스타뉴스",
-      "score": 2
-    },
-    {
-      "title": "리플 ‘24/7 리턴스’, RLUSD 보관 기업에 휴일도 수익 주지만 수익률은 비공개",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KRms3NDJyRDdHS0RXckpXTVNlUHY0WUFoaldFeW1kcDN5TDRlQXRhX3F0VDBtN3BVQ2JxWWROV3B5TmZOM2w3RVUyb2J0cHR6TVFMTFFR?oc=5",
-      "date": "Mon, 26 Oct 2026 19:02:00 GMT",
-      "source": "위키트리",
-      "score": 3
     }
   ]
 }
