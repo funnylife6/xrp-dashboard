@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-10-28T01:56:51",
+  "generated_at": "2026-10-28T07:51:39",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.34,
-    "price_krw": 1783.88,
-    "price_change_24h": 2.52052,
-    "price_change_7d": -0.10053,
-    "price_change_30d": -11.84959,
-    "market_cap_usd": 84595448905,
+    "price_usd": 1.33,
+    "price_krw": 1772.89,
+    "price_change_24h": 1.92499,
+    "price_change_7d": -0.53543,
+    "price_change_30d": -10.39984,
+    "market_cap_usd": 83954478143,
     "market_cap_rank": 5,
-    "volume_24h": 1498706733,
+    "volume_24h": 1462492491,
     "circulating_supply": 63351197653.0,
     "total_supply": 99985589443.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 71.84,
-    "sentiment_votes_down": 28.16,
+    "sentiment_votes_up": 68.52,
+    "sentiment_votes_down": 31.48,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 24.39,
-    "recent_tps": 24.39,
-    "recent_tx_count": 2195,
+    "tps_24h_avg": 87.69,
+    "recent_tps": 87.69,
+    "recent_tx_count": 7892,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 107948745,
+    "ledger_seq": 107954095,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-10-28 01:56:41 KST",
+    "updated_at": "2026-10-28 07:51:25 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -48,16 +48,16 @@
   },
   "etf_news": [
     {
-      "title": "리플(XRP) ETF 3억 3,200만 달러 평가손실에도 투자자 버틴다…1.35달러 돌파 가능할까",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA3ZnM3Qm9QNlE2TTVCUFRyNmlIOUJDQnduYjNCVUhiUG5hRFBLbDRZVUF5bjJsWWlOdjltVDVPOV8tYlk5ckVqUlN3?oc=5",
-      "date": "Tue, 27 Oct 2026 22:25:00 GMT",
-      "source": "코인리더스",
+      "title": "XRP '고래' 지분율 68.5% 2년 만에 최고…매집인가 착시인가",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNemVxVDRUWnp5UzFkalNVSTVNSzFaOWFzcThZTE9RaVZLNUlmR0kzQlFXSVBQRll5b1o1dUZ3SVFLTzF3a0dzeGFOQ0ZTOEREUnJiVXhrSHhKcExtcHlJNS1mRFczbWRtbVRNZU15Tk9aTmxvU2I0NFNTN3kxWDlBT2hsLTlqcDNs?oc=5",
+      "date": "Wed, 28 Oct 2026 06:06:00 GMT",
+      "source": "글로벌이코노믹",
       "score": 0
     },
     {
-      "title": "비트코인 ETF 자금 흐름, 향후 가격 예측엔 한계",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5HUWZzaFRjVTg3ZXBfNXNIYjU5X1JaU2d0NXN0NGtpN3JYbzE3Y2VuQ21qdTRPRTljTGtVVXNxWld6LVp4Slc4dDdn?oc=5",
-      "date": "Tue, 27 Oct 2026 20:51:11 GMT",
+      "title": "리플(XRP) ETF 3억 3,200만 달러 평가손실에도 투자자 버틴다…1.35달러 돌파 가능할까",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA3ZnM3Qm9QNlE2TTVCUFRyNmlIOUJDQnduYjNCVUhiUG5hRFBLbDRZVUF5bjJsWWlOdjltVDVPOV8tYlk5ckVqUlN3?oc=5",
+      "date": "Tue, 27 Oct 2026 22:25:00 GMT",
       "source": "코인리더스",
       "score": 0
     },
@@ -92,6 +92,34 @@
   ],
   "general_news": [
     {
+      "title": "무디스, 리플 스테이블코인 RLUSD에 '장기 A2' 예금 신용등급 부여",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1yVlNxbm85SWRnVjJIajVLdEhnWlJwcGh0MUVwR2Y1SWRnUWlOWmozVXgwS1BFdnlsZnNNVU9JX3I4QVVRWGcxMlVzdmdfdEVhcWE5X3Y3OGtBWWlHbUlyajJIVHFLYml3cEYyWGRQVzcwUQ?oc=5",
+      "date": "Wed, 28 Oct 2026 07:20:00 GMT",
+      "source": "디지털애셋",
+      "score": 9
+    },
+    {
+      "title": "리플 금융권 협력 확대에…엑스알피, 반등 모멘텀 될까",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5TTDFHWklfN21vZEtWblFFOENzU2pCaXhHM2hBd1JZSzdBRzgzOUUxNkNBeWp0Wnk4aThKdGRwS3BBcnFDem1MVUdtdU1JRnRfRjhxN1ZEd3JTTVVaeXZRWmNpUkFzbEJyUl90R3Rn?oc=5",
+      "date": "Wed, 28 Oct 2026 07:07:07 GMT",
+      "source": "아시아투데이",
+      "score": 2
+    },
+    {
+      "title": "리플, BNY멜론과 토큰화 무역금융 맞손...XRP 레저 기관 활용 확대",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE04c3VqVUg2SmgxNjIwbEdQTWVyUFQ4VDQzYUFlQ2FVNjJuMlBYYWNjM0pxbjQ3bkdxVGt2aURaX1RZLUU4VkJjVkxn?oc=5",
+      "date": "Wed, 28 Oct 2026 06:10:00 GMT",
+      "source": "코인리더스",
+      "score": 4
+    },
+    {
+      "title": "XRP '고래' 지분율 68.5% 2년 만에 최고…매집인가 착시인가",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNemVxVDRUWnp5UzFkalNVSTVNSzFaOWFzcThZTE9RaVZLNUlmR0kzQlFXSVBQRll5b1o1dUZ3SVFLTzF3a0dzeGFOQ0ZTOEREUnJiVXhrSHhKcExtcHlJNS1mRFczbWRtbVRNZU15Tk9aTmxvU2I0NFNTN3kxWDlBT2hsLTlqcDNs?oc=5",
+      "date": "Wed, 28 Oct 2026 06:06:00 GMT",
+      "source": "글로벌이코노믹",
+      "score": 2
+    },
+    {
       "title": "무역금융, XRP 레저 위에 올라탄다… 리플·BNY 협력 확대로 XRP·RLUSD 기관 수탁 시대 연다",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JdmRQdG9BcjNZclFSeGp1MHBqdUc1eG5GbEZIVGEwNVdMTVNiVGM2NncwN09IMnlndHg5X1RNQ1doYmJqM25mbEhkVXZBOVFGNFA5b0ZsUWtuX2NiWXZkTzhfWXI2SjVsNG10b1FKQzA?oc=5",
       "date": "Wed, 28 Oct 2026 01:17:36 GMT",
@@ -120,13 +148,6 @@
       "score": 2
     },
     {
-      "title": "리플 OCC 은행 승인에도 XRP 1.30달러 제자리…고래는 공급량 68.5% 쥐었다",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hdjdfQk5zT2Q4bGJid1d4MnlaYkVsdVA1ZDVjOFNoUFAxRmJoaGdDVjZxYmY4d0JTV19ZTG5xdmd6bFQ3M2xLYjRMOTBxLVNjVFUwM0Fn?oc=5",
-      "date": "Tue, 27 Oct 2026 17:02:00 GMT",
-      "source": "위키트리",
-      "score": 3
-    },
-    {
       "title": "로빈후드, 경쟁사 USDG 지원에도 불구하고 리플의 25억 달러 RLUSD 스테이블코인 활용",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVUlLcV9YQXYxOHYyajF6bFh3QU1fUU41aHM2S3NtRkFhRzRZd2dOM3UxeW1BUnZ4eHZxdng2SVNjNWZPakN3QUJfUndWQ1RmTzEtYTY0NXVzLVBNQVU4d2xSVGRJcXFoRFBrRUNqSjVGNUVjM1hvTFJPOXNmb1NEMFEzeXJZaUJUdXprcXcxY2h5d09pY3RiSUR6bl9hRmdTak0tSUY1RG0wdHlMM0FyanBQLUZLMlNhMFFsWExvYnl5eUNxeXQ4eA?oc=5",
       "date": "Tue, 27 Oct 2026 16:35:29 GMT",
@@ -138,27 +159,6 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMaXd1bHNEVUpaOHp2dkFyTTlVTDlfSklkdmZ5WXM2MmR1RHNON3dvMGZlSU42S1JSRmEwblZ3WV9obXd0SElidlcyTFg4cVZKT1BSczBR?oc=5",
       "date": "Tue, 27 Oct 2026 15:01:00 GMT",
       "source": "위키트리",
-      "score": 2
-    },
-    {
-      "title": "리플, 美 국립 신탁은행 최종 승인…RLUSD 준비금 관리",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5ZQm5QLTlVR0JMV2J3a195LXlFQl8wa0RWUGRtVlh4RldKSG5paXA4b09CT2JQR2swemlHb2pCWExYVm5OUndvNHJR?oc=5",
-      "date": "Tue, 27 Oct 2026 14:51:46 GMT",
-      "source": "코인리더스",
-      "score": 3
-    },
-    {
-      "title": "리플·BNY, 디지털자산 협력 확대…XRP·RLUSD 수탁 지원",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWOURZdEZoeVBXdEx2cFhJTHJWY3htbG1pMThBOGJzdlBGNko1RlJ4NlNOUEZKdDFWYTA4MTNfNHhCNUVseXlqTk5lV1dEckxt?oc=5",
-      "date": "Tue, 27 Oct 2026 12:18:04 GMT",
-      "source": "블루밍비트",
-      "score": 3
-    },
-    {
-      "title": "리플 신규 은행 인가 수혜자…XRP 보유자 마지막?",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KbDI5alVGaExPUnlrcDBTZmRJZVV1dFczYTlzZnBsank4NzMxbHM2YUlmRHBTOEgxT3V5aHR0OU5iZHdIT2lVd1luOWlObGdFQXY2ZDAtOGFIekxyemVYbjNnM3FQblNpRkh2TW9MYVRzZw?oc=5",
-      "date": "Tue, 27 Oct 2026 05:27:56 GMT",
-      "source": "BeInCrypto",
       "score": 3
     }
   ]
