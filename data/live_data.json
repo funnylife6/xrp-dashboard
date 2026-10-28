@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-10-27T22:46:44",
+  "generated_at": "2026-10-28T01:56:51",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.32,
-    "price_krw": 1755.73,
-    "price_change_24h": 2.47846,
-    "price_change_7d": -0.73011,
-    "price_change_30d": -13.10336,
-    "market_cap_usd": 83809171879,
+    "price_usd": 1.34,
+    "price_krw": 1783.88,
+    "price_change_24h": 2.52052,
+    "price_change_7d": -0.10053,
+    "price_change_30d": -11.84959,
+    "market_cap_usd": 84595448905,
     "market_cap_rank": 5,
-    "volume_24h": 1475003322,
+    "volume_24h": 1498706733,
     "circulating_supply": 63351197653.0,
     "total_supply": 99985589443.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 72.55,
-    "sentiment_votes_down": 27.45,
+    "sentiment_votes_up": 71.84,
+    "sentiment_votes_down": 28.16,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 66.92,
-    "recent_tps": 66.92,
-    "recent_tx_count": 6023,
+    "tps_24h_avg": 24.39,
+    "recent_tps": 24.39,
+    "recent_tx_count": 2195,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 107945915,
+    "ledger_seq": 107948745,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-10-27 22:46:30 KST",
+    "updated_at": "2026-10-28 01:56:41 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -55,9 +55,9 @@
       "score": 0
     },
     {
-      "title": "BTC 현물 ETF 순유입 전환...1462억원",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBoOGY3Y2NJNzVfUnFSYmdpMUtfVTJfMjVIdW9TMklaQTJiMk0yRW00OWdHLUZSX1VTcjVVd1NialE0eWlNSGhod0ln?oc=5",
-      "date": "Tue, 27 Oct 2026 04:01:47 GMT",
+      "title": "비트코인 ETF 자금 흐름, 향후 가격 예측엔 한계",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5HUWZzaFRjVTg3ZXBfNXNIYjU5X1JaU2d0NXN0NGtpN3JYbzE3Y2VuQ21qdTRPRTljTGtVVXNxWld6LVp4Slc4dDdn?oc=5",
+      "date": "Tue, 27 Oct 2026 20:51:11 GMT",
       "source": "코인리더스",
       "score": 0
     },
@@ -91,6 +91,20 @@
     }
   ],
   "general_news": [
+    {
+      "title": "무역금융, XRP 레저 위에 올라탄다… 리플·BNY 협력 확대로 XRP·RLUSD 기관 수탁 시대 연다",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JdmRQdG9BcjNZclFSeGp1MHBqdUc1eG5GbEZIVGEwNVdMTVNiVGM2NncwN09IMnlndHg5X1RNQ1doYmJqM25mbEhkVXZBOVFGNFA5b0ZsUWtuX2NiWXZkTzhfWXI2SjVsNG10b1FKQzA?oc=5",
+      "date": "Wed, 28 Oct 2026 01:17:36 GMT",
+      "source": "블록체인투데이",
+      "score": 4
+    },
+    {
+      "title": "XRP: 은행 된 리플, 로빈후드와도 손잡아",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5oX3lsZmIzVHI1U2FZNlB6X3lLcTByZjAzRm9SUlluM0hsTVA0M1Z5amU1aEpQRlFEVkhfT1JDVnlsbGRIaXRLb1ZCNFBtVGtLUmxMNFROTkI4R0xaRjd2STVpWlIzM0F5UFNpWjNxeWdsN00?oc=5",
+      "date": "Wed, 28 Oct 2026 00:05:00 GMT",
+      "source": "Investing.com 한국어",
+      "score": 3
+    },
     {
       "title": "리플(XRP) ETF 3억 3,200만 달러 평가손실에도 투자자 버틴다…1.35달러 돌파 가능할까",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA3ZnM3Qm9QNlE2TTVCUFRyNmlIOUJDQnduYjNCVUhiUG5hRFBLbDRZVUF5bjJsWWlOdjltVDVPOV8tYlk5ckVqUlN3?oc=5",
@@ -141,24 +155,10 @@
       "score": 3
     },
     {
-      "title": "리플과 BNY, 디지털 자산 수탁 및 블록체인 협력 확대",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Td2k3Y0RlSmhVcjZQQ05IZHlXUzJCandTU0RaVURIb3BKNU1QUnp5bVI1Q0VGT2pYM1BfNmJ4N2ZlbDhSYTlVWUZ0TkdqMzBuV3h6cHlkeFNYVTkxcDJwVXFnS0NtS0ZhVHZOaF82SFh4X2J1cnZLWEc5UQ?oc=5",
-      "date": "Tue, 27 Oct 2026 12:04:00 GMT",
-      "source": "Investing.com 한국어",
-      "score": 2
-    },
-    {
-      "title": "XRP 1달러선 후퇴 경고 나왔다…유명 트레이더 \"이때가 매수 구간\"",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE55WnpWdWxoZjlPaHpnT0VMbExSZWJ6Z1BvaXgyZEs0LUcxVjVGS01fUzdFYVVqR1BvVkFRazIzQTQxN2hzb3Z2N3ZiNWpZamk3WGFSM2FjNFFsYmlrVFVVQV93UEp4OWpGU2hvRDRYeDJkSzQ?oc=5",
-      "date": "Tue, 27 Oct 2026 11:30:00 GMT",
-      "source": "디지털투데이",
-      "score": 2
-    },
-    {
-      "title": "리플, 은행 닫힌 밤에도 RLUSD 이자 지급...24시간 재무 플랫폼 공개",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0xTy1Xa3RyU0hwTDdSRGdnb0NCaFRYa1NCV29QcnFtQUpZVlFDekZEQlJEUTB4ejUzSm1vZUp2aFFMcDVjRVpqVHhn?oc=5",
-      "date": "Tue, 27 Oct 2026 09:40:00 GMT",
-      "source": "코인리더스",
+      "title": "리플 신규 은행 인가 수혜자…XRP 보유자 마지막?",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KbDI5alVGaExPUnlrcDBTZmRJZVV1dFczYTlzZnBsank4NzMxbHM2YUlmRHBTOEgxT3V5aHR0OU5iZHdIT2lVd1luOWlObGdFQXY2ZDAtOGFIekxyemVYbjNnM3FQblNpRkh2TW9MYVRzZw?oc=5",
+      "date": "Tue, 27 Oct 2026 05:27:56 GMT",
+      "source": "BeInCrypto",
       "score": 3
     }
   ]
