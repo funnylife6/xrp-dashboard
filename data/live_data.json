@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-10-28T23:56:59",
+  "generated_at": "2026-10-29T04:08:20",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.32,
-    "price_krw": 1775.4,
-    "price_change_24h": -0.47454,
-    "price_change_7d": -3.41912,
-    "price_change_30d": -11.27722,
-    "market_cap_usd": 83872133497,
+    "price_usd": 1.29,
+    "price_krw": 1718.15,
+    "price_change_24h": -3.53641,
+    "price_change_7d": -4.30102,
+    "price_change_30d": -13.56535,
+    "market_cap_usd": 81516989597,
     "market_cap_rank": 5,
-    "volume_24h": 1911515445,
+    "volume_24h": 1834089292,
     "circulating_supply": 63351197653.0,
     "total_supply": 99985589443.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 71.58,
-    "sentiment_votes_down": 28.42,
+    "sentiment_votes_up": 69.15,
+    "sentiment_votes_down": 30.85,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 42.67,
-    "recent_tps": 42.67,
-    "recent_tx_count": 3883,
+    "tps_24h_avg": 39.34,
+    "recent_tps": 39.34,
+    "recent_tx_count": 3541,
     "recent_ledger_count": 24,
-    "recent_window_sec": 91,
-    "ledger_seq": 107968585,
+    "recent_window_sec": 90,
+    "ledger_seq": 107972365,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-10-28 23:56:49 KST",
+    "updated_at": "2026-10-29 04:08:10 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,11 +92,18 @@
   ],
   "general_news": [
     {
-      "title": "“XRP 결코 포기 안 해”… 브래드 갈링하우스 선언 뒤에 숨은 시세의 경고",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9fSmMtV0MzYWxHS1pOWk5qOU5zN2JHZ0xGeDY5TXdjR2Vsbzc1a1ZqMlY5VkpTdXdfWXBQZ2M2ams3VzMtcGZPay1oWmFCNmtRX1RLMzVxSUt4LVVVV0hteHc3azQzUXd2QnR5TlMyTHRnNFXSAXdBVV95cUxPa3o3aEl1MXYyWWpIOGo1SUUtMXBwOXBXS3I0UlI2aGctNmI1RUJaRXhhNkQyZVBJeGFPLWpaYVdjbGN0d2FtVWZJMUxSa08weTloYXMycF9sbkpVSk1jZ1RtUUluOWhFc1J2RmlMQVBuQmxEOFI2VQ?oc=5",
-      "date": "Wed, 28 Oct 2026 23:49:12 GMT",
-      "source": "핀포인트뉴스",
-      "score": 2
+      "title": "'XRP 네오뱅크' 선언한 트리아, XRP 담보로 RLUSD 대출·카드 정산",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTm1QZkZ3UExaNFA5ekNUaVctRzVTX1VSQnhSTWN1cGUzWnhfcmdsbnNEUHRDakhCSDFqRGJZbVBsbjdqZGg3dXZZdW10N3hYa3FoSk9zRmdhTV9KUzAxV045dmpqQTNoNjFSMnAtXzJ5SF9WUW5rY0pwYUJTZDNQYQ?oc=5",
+      "date": "Thu, 29 Oct 2026 02:43:15 GMT",
+      "source": "이데일리",
+      "score": 10
+    },
+    {
+      "title": "RLUSD, 무디스 신용등급 'A2' 평가...리플은 웃는데 XRP는 소외?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1tMkc0V2dTWV9HYnZwWG9xOWc1NDhCRWhGQlhlUFNJSG0xcFFleTJhMmd0Ui1JRERfTlJpMXVuN3hQeUw2RnBOVTlB?oc=5",
+      "date": "Thu, 29 Oct 2026 01:45:00 GMT",
+      "source": "코인리더스",
+      "score": 3
     },
     {
       "title": "리플 스웰 10주년, RLUSD 확대 속 XRP 핵심 입지 재확인",
@@ -106,13 +113,6 @@
       "score": 3
     },
     {
-      "title": "리플, 기관 사업 확대로 2026년 제품 매출 1.2조원 전망",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9lX00tMkVndk9IVTNvWDZfLWpSWXV5WUNpdG4wSE40ZE1BZm9FX1BWRjJzdW1xSC1zeWJHcEhaVzdJRVlBLXM3NlltdXo3LXNSMzZudkFUWWFjQVNVSjJsamttQnduSkE0RFptbmpvN1dVdw?oc=5",
-      "date": "Wed, 28 Oct 2026 23:00:00 GMT",
-      "source": "디지털애셋",
-      "score": 10
-    },
-    {
       "title": "리플 호재에도 돈은 빠져나갔다…XRP ETF 자산 2억 3,100만 달러 증발, 고래 보유량 68.5%",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE84eG0xWHBKbW8taEpMSXJiMGZmR2E5VHhpcFg2eHdRa0xOZVRKRXF6b1NQdlJKTWR0YkprQXVjYmZ4cU1tVUwzYzR3?oc=5",
       "date": "Wed, 28 Oct 2026 22:38:00 GMT",
@@ -120,24 +120,24 @@
       "score": 3
     },
     {
-      "title": "리플(XRP)의 전환점 …갈링하우스가 강조한 최우선 과제는?",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1vYlBWaDY3UURSX0J3aXc1X0M1TGhLYklWVGlWd2p2Tmp0RWxvSGtIbnhDalBkYnI1X2RxWXg2NmIxRkRZTzhtb3VjcmFHWGRDRzFlQVYxRHVxUWZqUUUwNGd6WEJnRnNu?oc=5",
-      "date": "Wed, 28 Oct 2026 22:33:11 GMT",
-      "source": "CBC뉴스",
-      "score": 2
-    },
-    {
       "title": "XRP 1.25달러 무너지면 0.98달러 추락? 리플 은행 승인에도 가격이 못 오르는 이유",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5mbXJzQksydEduYnRWU1BzTjVHX2ozT19IM2UwaDIxUFZhQ1E0amhtdThNV1M2MWl1cm96NXcwVXRJT0dIUnZQTkNB?oc=5",
       "date": "Wed, 28 Oct 2026 22:30:00 GMT",
       "source": "코인리더스",
-      "score": 3
+      "score": 4
     },
     {
       "title": "가상자산 거래대금 1조9천억원대로 감소…리플XRP 강보합 속 메타플렉스 52% 급등",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1QaDZ1WmtMYkoxOVhVNzl6Q3ZJTHUwWXZLWE5CNjFWc3FDeDQ4bFhySmx3OV9qVnlZZ2gzN0s2QW5UQmZQa0xqUHVwUUhGMElMcWpBaEQxN0tPSWE0RzhZbGxZbWpRZE5vbDRYUVZ5c1JfQQ?oc=5",
       "date": "Wed, 28 Oct 2026 22:20:52 GMT",
       "source": "톱스타뉴스",
+      "score": 2
+    },
+    {
+      "title": "美 재무장관, 리플 스웰에 깜짝 등장?...XRP 커뮤니티 술렁",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5JRlRPUHJFck9hTUZuUzd1elRXeTFWWGFiV19XM3ZoRzk0bk1TTmlSTGZvSTBsS2F2Mk1rZXM5NS1wNWdGNl82M0dR?oc=5",
+      "date": "Wed, 28 Oct 2026 20:00:00 GMT",
+      "source": "코인리더스",
       "score": 2
     },
     {
@@ -159,7 +159,7 @@
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1xZDM2ZFhlUnBfT25Ccno4akhvQWNSZWt5VTE0Q1VPNkhUSmZoTGZmYUp0OXBrUVdHbFBMY1hSSnVrQk1zZ3NzMzFvTm1wbXJT?oc=5",
       "date": "Wed, 28 Oct 2026 13:03:57 GMT",
       "source": "블루밍비트",
-      "score": 3
+      "score": 2
     }
   ]
 }
