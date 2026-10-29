@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-10-29T17:20:48",
+  "generated_at": "2026-10-29T21:55:07",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.29,
-    "price_krw": 1734.0,
-    "price_change_24h": -1.30445,
-    "price_change_7d": -1.59895,
-    "price_change_30d": -12.90597,
-    "market_cap_usd": 82026539062,
+    "price_usd": 1.26,
+    "price_krw": 1684.47,
+    "price_change_24h": -5.58533,
+    "price_change_7d": -3.17063,
+    "price_change_30d": -15.92394,
+    "market_cap_usd": 79686543962,
     "market_cap_rank": 5,
-    "volume_24h": 1973175767,
+    "volume_24h": 2431554671,
     "circulating_supply": 63351197653.0,
     "total_supply": 99985589443.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 69.74,
-    "sentiment_votes_down": 30.26,
+    "sentiment_votes_up": 73.53,
+    "sentiment_votes_down": 26.47,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 76.65,
-    "recent_tps": 76.65,
-    "recent_tx_count": 6975,
+    "tps_24h_avg": 89.06,
+    "recent_tps": 89.06,
+    "recent_tx_count": 8817,
     "recent_ledger_count": 24,
-    "recent_window_sec": 91,
-    "ledger_seq": 107984246,
+    "recent_window_sec": 99,
+    "ledger_seq": 107988304,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-10-29 17:20:39 KST",
+    "updated_at": "2026-10-29 21:54:53 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -47,6 +47,13 @@
     "data_source": "news_parse"
   },
   "etf_news": [
+    {
+      "title": "솔라나 3300만弗 썰물…하이퍼리퀴드만 7% 솟았다",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZEFqZERlSDNfZXNUbTFVYVRzRk1faEhPa3Z4SHZxWHR3WXFaMmllNkNnYmdsRmsyVFlSZjRPT3lZZkVDbU5uSnQxYjhpMW1obDZ1VTMxWTNiOVNqYzNlT0t1Q3ZwTFpnZGlDaGJZZklqeGVyZi16M09qSXlSVFpNbm0tc2xCZURR?oc=5",
+      "date": "Thu, 29 Oct 2026 21:35:00 GMT",
+      "source": "글로벌이코노믹",
+      "score": 0
+    },
     {
       "title": "리플 호재에도 돈은 빠져나갔다…XRP ETF 자산 2억 3,100만 달러 증발, 고래 보유량 68.5%",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE84eG0xWHBKbW8taEpMSXJiMGZmR2E5VHhpcFg2eHdRa0xOZVRKRXF6b1NQdlJKTWR0YkprQXVjYmZ4cU1tVUwzYzR3?oc=5",
@@ -76,16 +83,9 @@
       "score": 0
     },
     {
-      "title": "가상자산 거래대금 30% 급감…두들즈 43% 상승, 리플XRP 약세",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1LbEVpTGhIWlg5QU9YbmY5YWZjdXdHVVJXekpUUmUwemQ0YWVpMmJPZFcwcEg5MWpSNHg4cVlLek50V1JfbWxSSUNfRmtVbVNpVkxsZFlhYm02QlA3MDA3S2h0T0tIQ3R6cXlIMi1nX1YwZw?oc=5",
-      "date": "Mon, 26 Oct 2026 22:20:39 GMT",
-      "source": "톱스타뉴스",
-      "score": 0
-    },
-    {
-      "title": "XRP ETF는 순유입 전환...솔라나(SOL), 3주 연속 이탈 행렬",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBDV2FFUWsxLWhOWGVoQUZCd2ZOUUQ4VUlJQ3BxQzNYZmkyUGNOTzl2amVEdEpEbXhqN09RSVFSSXU2VER6aEFwbDZn?oc=5",
-      "date": "Mon, 26 Oct 2026 10:30:00 GMT",
+      "title": "BTC 현물 ETF 순유입 전환...1462억원",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBoOGY3Y2NJNzVfUnFSYmdpMUtfVTJfMjVIdW9TMklaQTJiMk0yRW00OWdHLUZSX1VTcjVVd1NialE0eWlNSGhod0ln?oc=5",
+      "date": "Tue, 27 Oct 2026 04:01:47 GMT",
       "source": "코인리더스",
       "score": 0
     }
@@ -103,6 +103,13 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FbHlIUmNPR2RSLWNac0FhcFVqdHZnMm1meU9SUGFNcjdLVUZOTjBnV1pjaHZUUEFwWWk0aHpCQnY1VVdpU282SnFHTGJwZ2xnMm9EeUFB?oc=5",
       "date": "Thu, 29 Oct 2026 16:02:00 GMT",
       "source": "위키트리",
+      "score": 3
+    },
+    {
+      "title": "리플 1.30달러 붕괴·솔라나 100달러 위태…하이퍼리퀴드만 7% 급등한 이유는?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE45NWJvTGZvdHplaC1VcWwtVGRDTzBTa2RMWEJUZ1hLNlkzc3NHWGJGNjNrbFlicklZTEM5bGFBaVpyVjBxWnVDcTlB?oc=5",
+      "date": "Thu, 29 Oct 2026 12:36:00 GMT",
+      "source": "코인리더스",
       "score": 2
     },
     {
@@ -118,27 +125,6 @@
       "date": "Thu, 29 Oct 2026 05:22:04 GMT",
       "source": "전자신문",
       "score": 3
-    },
-    {
-      "title": "리플 1.30달러 붕괴 직전…스텔라루멘까지 동반 추락, 추가 폭락 오나?",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5PdDZWOElGemNIRm95OXl3VWE5SExzcGx5OGIyWlhSYTVjOUJ6WjVGYzZLSjJJSDRpVWVZbm1YWk5YcFFZSi1QTXJn?oc=5",
-      "date": "Thu, 29 Oct 2026 05:18:00 GMT",
-      "source": "코인리더스",
-      "score": 2
-    },
-    {
-      "title": "리플, 돈 버는 회사로 체질 개선…2026년 매출 9억달러 전망",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5xREpIUUNUQUxQai04NnoxV2NmaVFUbG50V0o4QzM3MTl3cHNDMDRndGhBci16MkZTbjFWZkpkNC1YeUFXb2otMmVLNmY3d3JUd0hwS3VoYWVSWmI3Q2lvM0tUZWd5eVpJaVc4TmxzWEtrYW8?oc=5",
-      "date": "Thu, 29 Oct 2026 05:00:00 GMT",
-      "source": "디지털투데이",
-      "score": 2
-    },
-    {
-      "title": "'XRP 네오뱅크' 선언한 트리아, XRP 담보로 RLUSD 대출·카드 정산",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTm1QZkZ3UExaNFA5ekNUaVctRzVTX1VSQnhSTWN1cGUzWnhfcmdsbnNEUHRDakhCSDFqRGJZbVBsbjdqZGg3dXZZdW10N3hYa3FoSk9zRmdhTV9KUzAxV045dmpqQTNoNjFSMnAtXzJ5SF9WUW5rY0pwYUJTZDNQYQ?oc=5",
-      "date": "Thu, 29 Oct 2026 02:43:15 GMT",
-      "source": "이데일리",
-      "score": 9
     },
     {
       "title": "트리아, 리플 스웰서 'XRP 네오뱅크' 전략 공개… XRP 담보 RLUSD 대출·카드 정산 2027년 도입",
@@ -160,6 +146,20 @@
       "date": "Wed, 28 Oct 2026 22:38:00 GMT",
       "source": "코인리더스",
       "score": 3
+    },
+    {
+      "title": "XRP 1.25달러 무너지면 0.98달러 추락? 리플 은행 승인에도 가격이 못 오르는 이유",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5mbXJzQksydEduYnRWU1BzTjVHX2ozT19IM2UwaDIxUFZhQ1E0amhtdThNV1M2MWl1cm96NXcwVXRJT0dIUnZQTkNB?oc=5",
+      "date": "Wed, 28 Oct 2026 22:30:00 GMT",
+      "source": "코인리더스",
+      "score": 4
+    },
+    {
+      "title": "가상자산 거래대금 1조9천억원대로 감소…리플XRP 강보합 속 메타플렉스 52% 급등",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1QaDZ1WmtMYkoxOVhVNzl6Q3ZJTHUwWXZLWE5CNjFWc3FDeDQ4bFhySmx3OV9qVnlZZ2gzN0s2QW5UQmZQa0xqUHVwUUhGMElMcWpBaEQxN0tPSWE0RzhZbGxZbWpRZE5vbDRYUVZ5c1JfQQ?oc=5",
+      "date": "Wed, 28 Oct 2026 22:20:52 GMT",
+      "source": "톱스타뉴스",
+      "score": 2
     }
   ]
 }
