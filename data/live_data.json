@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-10-30T01:28:44",
+  "generated_at": "2026-10-30T07:34:48",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.21,
-    "price_krw": 1620.9,
-    "price_change_24h": -8.02074,
-    "price_change_7d": -7.67148,
-    "price_change_30d": -18.8117,
-    "market_cap_usd": 76676041594,
+    "price_usd": 1.26,
+    "price_krw": 1677.68,
+    "price_change_24h": -2.43631,
+    "price_change_7d": -5.26121,
+    "price_change_30d": -15.69849,
+    "market_cap_usd": 79698384130,
     "market_cap_rank": 5,
-    "volume_24h": 3074871445,
+    "volume_24h": 3512904578,
     "circulating_supply": 63351197653.0,
     "total_supply": 99985589443.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 73.61,
-    "sentiment_votes_down": 26.39,
+    "sentiment_votes_up": 72.97,
+    "sentiment_votes_down": 27.03,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 18.16,
-    "recent_tps": 18.16,
-    "recent_tx_count": 1634,
+    "tps_24h_avg": 73.6,
+    "recent_tps": 73.6,
+    "recent_tx_count": 6624,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 107991476,
+    "ledger_seq": 107997033,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-10-30 01:28:36 KST",
+    "updated_at": "2026-10-30 07:34:36 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -43,17 +43,17 @@
     "aum_usd": 2860000,
     "total_net_inflow_usd": 2860000,
     "total_value_traded_usd": 2860000,
-    "updated_at": "SoSoValue 순유입 부분 수집 10/30 01:28",
+    "updated_at": "SoSoValue 순유입 부분 수집 10/30 07:34",
     "data_source": "sosovalue",
     "partial": true
   },
   "etf_news": [
     {
-      "title": "솔라나 3300만弗 썰물…하이퍼리퀴드만 7% 솟았다",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZEFqZERlSDNfZXNUbTFVYVRzRk1faEhPa3Z4SHZxWHR3WXFaMmllNkNnYmdsRmsyVFlSZjRPT3lZZkVDbU5uSnQxYjhpMW1obDZ1VTMxWTNiOVNqYzNlT0t1Q3ZwTFpnZGlDaGJZZklqeGVyZi16M09qSXlSVFpNbm0tc2xCZURR?oc=5",
-      "date": "Thu, 29 Oct 2026 21:35:00 GMT",
-      "source": "글로벌이코노믹",
-      "score": 0
+      "title": "[자정 뉴스브리핑] XRP ETF 누적 순유입 18억1000만달러 外",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBWeC14czc1d0NpSzNQWXlzQUpTQTk3TjNJLXhyMno0MTZhWVBXSmhDc1ZGa3RjUmFXdUZqMlh1Qmc4dDVWaGNNTGFtTjN3bGVFQnZXTFVaeVjSAV5BVV95cUxNcEJTLU8zUTdlNXZUUmJ6SjRMNExndTNoX29DYlB3T2ZDanFUT09uMVJOR2lvaXhvYnpHZzdoZlpKYWhmM0FqemZ6dTN6TUNWNVJSdklzaHNqSndzNmxn?oc=5",
+      "date": "Thu, 29 Oct 2026 15:04:36 GMT",
+      "source": "토큰포스트",
+      "score": 5
     },
     {
       "title": "리플 호재에도 돈은 빠져나갔다…XRP ETF 자산 2억 3,100만 달러 증발, 고래 보유량 68.5%",
@@ -93,11 +93,18 @@
   ],
   "general_news": [
     {
-      "title": "\"5년 뒤 XRP, 기관용 암호화폐 결제 레일의 표준 될 것\"…리플 CEO가 밝힌 미래",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1HbTZiVGdIamdpeURlQUpUZVNZQjk5NGNENEFSM2diZTZfLTBoY3U0b0ZGVzl1SkNkZmF3OFZjVkRrVnJLY0JFT3pHeXFtbmRWZ1Nsekx5bjlDQ1Jtaktyc0xvV2NabFZoQUVBUTlBbjZLWkU?oc=5",
-      "date": "Fri, 30 Oct 2026 00:40:58 GMT",
+      "title": "리플(XRP) 3.23% 하락…바이낸스 보안 사고에 1.25달러 지지선 시험대",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4zYTJzWkFvb051RHluT2xiQlJGMXUySUItTXBFVlVTV3JHUVVYWURuMnB6RWx3VWYxYlVpOVRDVGdxOXhtQXg5UkZB?oc=5",
+      "date": "Fri, 30 Oct 2026 06:02:17 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
+      "title": "리플 RLUSD 호재 '와르르'…XRP는 왜 안 오르나",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBxcVhqYTFWTkdkekVyUjU1aTd0T1JXSUg4YlZ5SFBabWhubDNzUU80d0Z2aWtScUZRdGYzSlJxVkg1UUVVTEo5RlA3SDFzaGVQTXpzZnFVYzFLYWJiQzBJRXp4bDBwaWJUUzJBTjJWWXNvSWs?oc=5",
+      "date": "Fri, 30 Oct 2026 02:07:10 GMT",
       "source": "디지털투데이",
-      "score": 4
+      "score": 3
     },
     {
       "title": "리플(XRP), 4시간 새 3.51% 내린 1.24달러(약 1662원)",
@@ -154,13 +161,6 @@
       "date": "Thu, 29 Oct 2026 05:00:00 GMT",
       "source": "디지털투데이",
       "score": 2
-    },
-    {
-      "title": "트리아, 리플 스웰서 'XRP 네오뱅크' 전략 공개… XRP 담보 RLUSD 대출·카드 정산 2027년 도입",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4cE0yX1lESk1yYVBxVkk0Umk1NkhXZGZnOUFOQmpuNHo4SUFfdnhzVFZXbThNekJvN29pVVBtTExTSWZfVWp3a3Y5WEV5WERuQlkxNjl3eVJMVFoxSTd6ald4TGRDU1dZQVFSYw?oc=5",
-      "date": "Thu, 29 Oct 2026 01:43:15 GMT",
-      "source": "파이낸스투데이",
-      "score": 3
     }
   ]
 }
