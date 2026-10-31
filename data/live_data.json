@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-10-31T19:25:53",
+  "generated_at": "2026-10-31T22:39:28",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.25,
-    "price_krw": 1672.18,
-    "price_change_24h": 1.08496,
-    "price_change_7d": -2.45146,
-    "price_change_30d": -16.4344,
-    "market_cap_usd": 79447339825,
+    "price_krw": 1671.23,
+    "price_change_24h": 0.1217,
+    "price_change_7d": -2.96389,
+    "price_change_30d": -15.90567,
+    "market_cap_usd": 79400887491,
     "market_cap_rank": 5,
-    "volume_24h": 905692160,
+    "volume_24h": 777737973,
     "circulating_supply": 63351197653.0,
     "total_supply": 99985589443.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 58.0,
-    "sentiment_votes_down": 42.0,
+    "sentiment_votes_up": 63.04,
+    "sentiment_votes_down": 36.96,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 54.96,
-    "recent_tps": 54.96,
-    "recent_tx_count": 4946,
+    "tps_24h_avg": 18.34,
+    "recent_tps": 18.34,
+    "recent_tx_count": 1651,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 108029550,
+    "ledger_seq": 108032522,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-10-31 19:25:40 KST",
+    "updated_at": "2026-10-31 22:39:17 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,6 +92,13 @@
   ],
   "general_news": [
     {
+      "title": "리플 XRP AI 에이전트 결제 폭증해도 가격은 왜 제자리 걸음일까",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdmktaTJsMkJVaFFzX0hhOXZ3YnVRblFKb09SWmhOcnhuNFBqbWRTcGRkLXh5N3hVbUx3QVQ5NUlSQl9fYWhlUmZ4ZlNnOGFhODU5b010U3FwcC10a0Q2dENzd00wcW1CVHEwMWJfcVBmaktpR09fQlJuR19mY2RBaDlnSDdhR3dw?oc=5",
+      "date": "Sat, 31 Oct 2026 20:19:48 GMT",
+      "source": "글로벌이코노믹",
+      "score": 2
+    },
+    {
       "title": "리플(XRP) 1.25달러 공방…1.24달러 지지 시 1.34달러 재시험 가능성",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1OUDFDbWVqLWNHaGlxWkJLOEM2eW9IOWdlLU1IZ2k5emtWcVNjMy1vWVdDTUVTZTBkM2U0TXZ2SXFSZ21XdkZHSkRB?oc=5",
       "date": "Sat, 31 Oct 2026 13:03:02 GMT",
@@ -120,6 +127,13 @@
       "score": 2
     },
     {
+      "title": "속보 | 바이낸스, 도난 자산 90% 복구 완료… \"BTC·ETH·스테이블 등 10대 코인 100% 준비금 확보\"",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9oUjRLdU5xSFpuT0Z5blNxWVJ0QlNac2R6dFhfUU5vcUFrT0JlTnhsRDlrc0ZRNU1PYzVScExMeDRsM3VEcTN1YQ?oc=5",
+      "date": "Fri, 30 Oct 2026 22:28:00 GMT",
+      "source": "CoinNess",
+      "score": 8
+    },
+    {
       "title": "바이낸스 해커, 첫 자산 탈취 시도는 실패…\"XRP 지갑 미개설로 4275만달러 송금 무산\"",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kdm1sbnBwTGJMME1ZVVhFUlFCVmxHOFBxdTZOMk9oUmtTbGhqa19GOTNkV0p3SjFvb25HdTh0LWl2emlEYUdNeW9SbmRORHZ1SUxkcHhVUEI?oc=5",
       "date": "Fri, 30 Oct 2026 06:10:43 GMT",
@@ -138,7 +152,7 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FbHlIUmNPR2RSLWNac0FhcFVqdHZnMm1meU9SUGFNcjdLVUZOTjBnV1pjaHZUUEFwWWk0aHpCQnY1VVdpU282SnFHTGJwZ2xnMm9EeUFB?oc=5",
       "date": "Thu, 29 Oct 2026 16:02:00 GMT",
       "source": "위키트리",
-      "score": 3
+      "score": 2
     },
     {
       "title": "트리아, XRP 담보 대출·RLUSD 카드 정산 도입…2027년 서비스 확대",
@@ -146,20 +160,6 @@
       "date": "Thu, 29 Oct 2026 05:22:04 GMT",
       "source": "전자신문",
       "score": 2
-    },
-    {
-      "title": "리플, 돈 버는 회사로 체질 개선…2026년 매출 9억달러 전망",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5xREpIUUNUQUxQai04NnoxV2NmaVFUbG50V0o4QzM3MTl3cHNDMDRndGhBci16MkZTbjFWZkpkNC1YeUFXb2otMmVLNmY3d3JUd0hwS3VoYWVSWmI3Q2lvM0tUZWd5eVpJaVc4TmxzWEtrYW8?oc=5",
-      "date": "Thu, 29 Oct 2026 05:00:00 GMT",
-      "source": "디지털투데이",
-      "score": 2
-    },
-    {
-      "title": "트리아, 리플 스웰서 'XRP 네오뱅크' 전략 공개… XRP 담보 RLUSD 대출·카드 정산 2027년 도입",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4cE0yX1lESk1yYVBxVkk0Umk1NkhXZGZnOUFOQmpuNHo4SUFfdnhzVFZXbThNekJvN29pVVBtTExTSWZfVWp3a3Y5WEV5WERuQlkxNjl3eVJMVFoxSTd6ald4TGRDU1dZQVFSYw?oc=5",
-      "date": "Thu, 29 Oct 2026 01:43:15 GMT",
-      "source": "파이낸스투데이",
-      "score": 3
     }
   ]
 }
