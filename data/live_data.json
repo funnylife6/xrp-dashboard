@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-10-31T09:07:48",
+  "generated_at": "2026-10-31T15:26:08",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.25,
-    "price_krw": 1660.21,
-    "price_change_24h": -1.09909,
-    "price_change_7d": -2.71486,
-    "price_change_30d": -16.31982,
-    "market_cap_usd": 78879367684,
+    "price_krw": 1664.67,
+    "price_change_24h": -0.59034,
+    "price_change_7d": -1.93673,
+    "price_change_30d": -15.75069,
+    "market_cap_usd": 79089095089,
     "market_cap_rank": 5,
-    "volume_24h": 2047982837,
+    "volume_24h": 1278941277,
     "circulating_supply": 63351197653.0,
     "total_supply": 99985589443.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 57.14,
-    "sentiment_votes_down": 42.86,
+    "sentiment_votes_up": 55.32,
+    "sentiment_votes_down": 44.68,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 40.51,
-    "recent_tps": 40.51,
-    "recent_tx_count": 3605,
+    "tps_24h_avg": 25.54,
+    "recent_tps": 25.54,
+    "recent_tx_count": 2273,
     "recent_ledger_count": 24,
     "recent_window_sec": 89,
-    "ledger_seq": 108020094,
+    "ledger_seq": 108025886,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-10-31 09:07:41 KST",
+    "updated_at": "2026-10-31 15:25:58 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -76,25 +76,32 @@
       "score": 0
     },
     {
+      "title": "BTC 현물 ETF 순유입 전환...1462억원",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBoOGY3Y2NJNzVfUnFSYmdpMUtfVTJfMjVIdW9TMklaQTJiMk0yRW00OWdHLUZSX1VTcjVVd1NialE0eWlNSGhod0ln?oc=5",
+      "date": "Tue, 27 Oct 2026 04:01:47 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
+    {
       "title": "가상자산 거래대금 30% 급감…두들즈 43% 상승, 리플XRP 약세",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1LbEVpTGhIWlg5QU9YbmY5YWZjdXdHVVJXekpUUmUwemQ0YWVpMmJPZFcwcEg5MWpSNHg4cVlLek50V1JfbWxSSUNfRmtVbVNpVkxsZFlhYm02QlA3MDA3S2h0T0tIQ3R6cXlIMi1nX1YwZw?oc=5",
       "date": "Mon, 26 Oct 2026 22:20:39 GMT",
       "source": "톱스타뉴스",
       "score": 0
-    },
-    {
-      "title": "XRP ETF는 순유입 전환...솔라나(SOL), 3주 연속 이탈 행렬",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBDV2FFUWsxLWhOWGVoQUZCd2ZOUUQ4VUlJQ3BxQzNYZmkyUGNOTzl2amVEdEpEbXhqN09RSVFSSXU2VER6aEFwbDZn?oc=5",
-      "date": "Mon, 26 Oct 2026 10:30:00 GMT",
-      "source": "코인리더스",
-      "score": 0
     }
   ],
   "general_news": [
     {
-      "title": "리플, 매출 9억 달러 질주...XRP는 30% 추락",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9ZQ2lfTGltcFppTXh3eGZKMmkxNmMzWDdhcUgzMHprRGR0dGRFSVR6YVlRMlJ5eGUzSnBPb2o0YXZRMVNWTm1wSjlR?oc=5",
-      "date": "Sat, 31 Oct 2026 03:00:00 GMT",
+      "title": "리플 16조달러 거래 지원, XRP 결제액과는 별개",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ibUt3THF4NldxWXkzdzFQN1hoMW5aMHdXNGVleWd2bUs0UXpiemFBYzRQMy1rWGt0SDRodW1ITHRlcWludTNwal9LcWNVaEVVYmQyQkFINkUtd3NwbmZvRtIBZkFVX3lxTE5nWmpuM2IySEtta1FFUTFWNE1kZ1R6dnJqODFmUUJUdE9GVmdsRXFmVndfUDY5QklpN1N4ellHMGJGcUJPc3RSNy1ZSWdqSnpkb2lnWlFKM1NBd1ZkLVV1NDVmbTBOZw?oc=5",
+      "date": "Sat, 31 Oct 2026 11:36:41 GMT",
+      "source": "토큰포스트",
+      "score": 9
+    },
+    {
+      "title": "리플(XRP) 1.25달러 선 공방…1.24달러 지지 시 1.34달러 반등 시도",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE14UzZHLUlNYThqdEdyMGFLUHBLdmtpNEx4VFl6NlBCWWxvV19Dbm9LRjZ5V09kcVVZZks2bmlaMENrX2lZU19NVTNR?oc=5",
+      "date": "Sat, 31 Oct 2026 06:02:51 GMT",
       "source": "코인리더스",
       "score": 2
     },
@@ -113,11 +120,11 @@
       "score": 3
     },
     {
-      "title": "바이낸스 해커, 첫 자산 탈취 시도는 실패…\"XRP 지갑 미개설로 4275만달러 송금 무산\"",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kdm1sbnBwTGJMME1ZVVhFUlFCVmxHOFBxdTZOMk9oUmtTbGhqa19GOTNkV0p3SjFvb25HdTh0LWl2emlEYUdNeW9SbmRORHZ1SUxkcHhVUEI?oc=5",
-      "date": "Fri, 30 Oct 2026 06:10:43 GMT",
-      "source": "블록미디어",
-      "score": 3
+      "title": "속보 | 바이낸스, 도난 자산 90% 복구 완료… \"BTC·ETH·스테이블 등 10대 코인 100% 준비금 확보\"",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9oUjRLdU5xSFpuT0Z5blNxWVJ0QlNac2R6dFhfUU5vcUFrT0JlTnhsRDlrc0ZRNU1PYzVScExMeDRsM3VEcTN1YQ?oc=5",
+      "date": "Fri, 30 Oct 2026 22:28:00 GMT",
+      "source": "CoinNess",
+      "score": 8
     },
     {
       "title": "리플 RLUSD 호재 '와르르'…XRP는 왜 안 오르나",
@@ -131,21 +138,7 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FbHlIUmNPR2RSLWNac0FhcFVqdHZnMm1meU9SUGFNcjdLVUZOTjBnV1pjaHZUUEFwWWk0aHpCQnY1VVdpU282SnFHTGJwZ2xnMm9EeUFB?oc=5",
       "date": "Thu, 29 Oct 2026 16:02:00 GMT",
       "source": "위키트리",
-      "score": 2
-    },
-    {
-      "title": "리플, 10월 풀린 10억 XRP 한 개도 안 움직였다…고래 비중은 68.5%",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2SG5pWjRXcHJ1Sk8yQUpYSi1XN2RpQlJHRy1Qdm5TQ04zdUpYUjlQRURDNkpGdkFQaU40SmVIc1htOEo4N3JPR19EVm0telZ4VEN4V2ZB?oc=5",
-      "date": "Thu, 29 Oct 2026 15:27:00 GMT",
-      "source": "위키트리",
-      "score": 2
-    },
-    {
-      "title": "속보 | 리플, 바이낸스 해킹 연루 자금 $2억 동결",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1WS2VGVU5FZDFMa25vLUhUd3BRZVc0N1NYVm15aHlPU1AySll1M1RvWkVWS0g0Q0FtZC11akZkQ2pFUVkzbWpNZA?oc=5",
-      "date": "Thu, 29 Oct 2026 06:21:00 GMT",
-      "source": "CoinNess",
-      "score": 9
+      "score": 3
     },
     {
       "title": "트리아, XRP 담보 대출·RLUSD 카드 정산 도입…2027년 서비스 확대",
@@ -160,6 +153,13 @@
       "date": "Thu, 29 Oct 2026 05:00:00 GMT",
       "source": "디지털투데이",
       "score": 2
+    },
+    {
+      "title": "트리아, 리플 스웰서 'XRP 네오뱅크' 전략 공개… XRP 담보 RLUSD 대출·카드 정산 2027년 도입",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4cE0yX1lESk1yYVBxVkk0Umk1NkhXZGZnOUFOQmpuNHo4SUFfdnhzVFZXbThNekJvN29pVVBtTExTSWZfVWp3a3Y5WEV5WERuQlkxNjl3eVJMVFoxSTd6ald4TGRDU1dZQVFSYw?oc=5",
+      "date": "Thu, 29 Oct 2026 01:43:15 GMT",
+      "source": "파이낸스투데이",
+      "score": 3
     }
   ]
 }
