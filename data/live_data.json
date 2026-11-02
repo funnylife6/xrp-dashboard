@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-11-02T10:22:12",
+  "generated_at": "2026-11-02T20:27:08",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.25,
-    "price_krw": 1673.81,
-    "price_change_24h": -0.83142,
-    "price_change_7d": -3.23619,
-    "price_change_30d": -15.87356,
-    "market_cap_usd": 79039961970,
+    "price_krw": 1684.79,
+    "price_change_24h": 0.5939,
+    "price_change_7d": -3.08181,
+    "price_change_30d": -15.83118,
+    "market_cap_usd": 79357554643,
     "market_cap_rank": 5,
-    "volume_24h": 1058965825,
+    "volume_24h": 1380750493,
     "circulating_supply": 63351197653.0,
     "total_supply": 99985589443.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 64.29,
-    "sentiment_votes_down": 35.71,
+    "sentiment_votes_up": 54.84,
+    "sentiment_votes_down": 45.16,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 42.12,
-    "recent_tps": 42.12,
-    "recent_tx_count": 3454,
+    "tps_24h_avg": 35.27,
+    "recent_tps": 35.27,
+    "recent_tx_count": 3174,
     "recent_ledger_count": 24,
-    "recent_window_sec": 82,
-    "ledger_seq": 108064991,
+    "recent_window_sec": 90,
+    "ledger_seq": 108074094,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-11-02 10:21:58 KST",
+    "updated_at": "2026-11-02 20:26:57 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -47,6 +47,13 @@
     "data_source": "news_parse"
   },
   "etf_news": [
+    {
+      "title": "XRP 비현물 ETF 2종, 매파 연준에도 일중 고가 마감…자금 유입은 정체",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1IYVdZR0luNEFWSERpbFVGS09DSVd6b1hCOEJOWHVZaklIVkc4Q1dSUnVtZzB6bzkyTzlJWE1JbnFUdmMtNVJXM1l3?oc=5",
+      "date": "Mon, 02 Nov 2026 15:53:32 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
     {
       "title": "리플 현물 ETF 7개월 연속 순유입인데 XRP는 16% 폭락…무슨 일이?",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9sOGltYkZqQUwzWUYzcXpnbVVVd3hlMDVNdi1OakJBRGVjOTFwNTR6d1pfX1VkZ2J2SndETXVjbGpVUFJaMk9waGhB?oc=5",
@@ -81,29 +88,57 @@
       "date": "Sun, 01 Nov 2026 19:52:37 GMT",
       "source": "코인리더스",
       "score": 0
-    },
-    {
-      "title": "리플 美 신탁은행 최종 인가에도 XRP는 제자리… 월간 13% 하락",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBiaVNEdGdXNUwxUjZVMGRpM0xvaGRweXNIMkpGOUVCdUF0b3lWdlhKSVM4MmZXUXU3OHJVZDFKNTN2LXZkcElPcU53?oc=5",
-      "date": "Sun, 01 Nov 2026 17:53:33 GMT",
-      "source": "코인리더스",
-      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "XRP 비현물 ETF 2종, 매파 연준에도 일중 고가 마감…자금 유입은 정체",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1IYVdZR0luNEFWSERpbFVGS09DSVd6b1hCOEJOWHVZaklIVkc4Q1dSUnVtZzB6bzkyTzlJWE1JbnFUdmMtNVJXM1l3?oc=5",
+      "date": "Mon, 02 Nov 2026 15:53:32 GMT",
+      "source": "코인리더스",
+      "score": 4
+    },
+    {
+      "title": "1달러 스테이블코인인데 내 돈으로 못 바꾼다?…리플 RLUSD의 숨겨진 조건",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zWXRxTGthUXd6WHdOQS1jSnBsMVpkVVRsSk54LUo4eVhrMGNlNGtaeTViXzRTZHJkYm9Lb1Nqb0t4RjdmdVZVOTBGT2daN05RZHhJWDBHN0xfTDZJMmNBMGpIOHpXdVlrX1h5YkhzazVSNzQ?oc=5",
+      "date": "Mon, 02 Nov 2026 15:10:00 GMT",
+      "source": "디지털투데이",
+      "score": 2
+    },
+    {
+      "title": "XRP 2억3345만4920개, 바이낸스 해킹 연계 주소서 6곳 이동",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JdFJLZERKbUxHaGI0OU9pbVRMaGhDTzc2UWpOdWlfQUVEb21KaDVlMjF4Z0hvVDRZOEV1QkZpQjl2aVZ3NXRIVm5PTHZxTVRBUEg3WXdjLVJDa2VKc3ZCWdIBZkFVX3lxTE82MmNuQ0p2T3hCT3VMVTJteTZEdFhZVFZNR1VESFpiaU8tZ3RkNHdIMzlid3Awbl9sSmNpWUNYWmlvTnJuZGs4aGpnWlN4bEtGN2s0cFBrSVVvSkhrRnBRNFpvQlNGUQ?oc=5",
+      "date": "Mon, 02 Nov 2026 12:12:38 GMT",
+      "source": "토큰포스트",
+      "score": 9
+    },
+    {
+      "title": "리플, 비트코인보다 더 떨어져야 오른다? 전문가가 지목한 반등 조건",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE15M2VpLUlvT1hnMW9vUkw3LVZqOTNvX1Vqa0ZzRkFGcmZFaUs0enItRThJMzZoS1lKWlg4YXlxcjlxMzJ1N2taWU9R?oc=5",
+      "date": "Mon, 02 Nov 2026 12:01:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
+      "title": "RLUSD, XRP 밥그릇 뺏나?...리플 임원 \"쓸수록 XRP에 이득\"",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5rR2EtRnpvVkpkRC1jODFPcm80LTdxaTFwQ0RYZFNoRDUyUW9sSjBPOG9rbW1Yd28zSk1XVGxGV0JmNlplLU9uLVdR?oc=5",
+      "date": "Mon, 02 Nov 2026 11:00:00 GMT",
+      "source": "코인리더스",
+      "score": 3
+    },
+    {
+      "title": "“XRP, 5년 안에 기관 금융 표준될 것”…리플 CEO가 던진 16조달러 ‘승부수’",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1McEV2RGVWWmk1OW5NRWlvVzc3clRwNE4tR3JXUWU5anJBdUhBRjM3OU0zTzRKTDlmZUtVbnc2bHQ1aXAxTmh0ZTdFZUdYSzdEazBDSUl1Tl8?oc=5",
+      "date": "Mon, 02 Nov 2026 10:30:29 GMT",
+      "source": "블록미디어",
+      "score": 3
+    },
     {
       "title": "리플 현물 ETF 7개월 연속 순유입인데 XRP는 16% 폭락…무슨 일이?",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9sOGltYkZqQUwzWUYzcXpnbVVVd3hlMDVNdi1OakJBRGVjOTFwNTR6d1pfX1VkZ2J2SndETXVjbGpVUFJaMk9waGhB?oc=5",
       "date": "Mon, 02 Nov 2026 08:05:00 GMT",
       "source": "코인리더스",
       "score": 4
-    },
-    {
-      "title": "XRPL 검증인 \"바이낸스 해커도 XRP 장점 안다\"…RLUSD 대체론 반박",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5JaW80b1NRZjg0NkNFc0ZQS1k3NUtkakJQM3huRnJwbVd4dVFoenk4Z2lLS3ltLWw5MmJwSEdCZE5MaFpNMExBZEl4VDVPckRscWJFQzVTekwtamxhM3l2TU16R1NOUzF1NlNIWi0wcndKZTQ?oc=5",
-      "date": "Mon, 02 Nov 2026 05:18:21 GMT",
-      "source": "디지털투데이",
-      "score": 2
     },
     {
       "title": "XRP, 10억 개 물량 풀렸다…7억 개 다시 잠금, RLUSD와의 관계도 주목",
@@ -113,24 +148,10 @@
       "score": 2
     },
     {
-      "title": "일주일 새 28.4% 감소한 XRPL 리플달러 공급량",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96eEVVZnBoc3pxVm9SZ2xTVUdMaUFXOGY0NENtQjNKTVRoRV9LZUlJQ2lpQjlsNFVVUGYtZHJJQWQ3QmplcTVRd1ZzYUlWbmZKYUdKdjdZSnpRcmtFNGxnd9IBZkFVX3lxTE1TcWh0U1Z4NTVjNTJhVWxzVnRHM0JUcTFXZTZEUDhoclFLM3ktTWZFVFpneUpPRVpvdl9RMXZCemZEdlYtd3BnLXlPSFEyWGF3ZlpKUWEwS21qeTB6dmllSTdtTDdadw?oc=5",
-      "date": "Mon, 02 Nov 2026 03:58:50 GMT",
-      "source": "토큰포스트",
-      "score": 9
-    },
-    {
       "title": "\"XRP 20달러 부양하라\"…리플 경영진에 전달된 공개 서한 파장",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaDlvdF9RN3ZjOWdua3NROTlBNHRVYml5SnpHWkN4ZGZqb2lZTXdaemtnVzFFREZXa29hT1h6ZlhDcmlNMUZFQUFKMGJLNDlqR0V2anJyOUJVQ1NWMzBvUHQ4Um81LUtIeFFDNVg0aEFFS1I1QUJpZ09iaGVOQ0JwTWJhWi1kajVO?oc=5",
       "date": "Mon, 02 Nov 2026 02:14:37 GMT",
       "source": "글로벌이코노믹",
-      "score": 2
-    },
-    {
-      "title": "리플은 역대급 10월 보냈는데...XRP, 업토버 기대서 왜 거꾸로 갔나",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1jbHRlRzZMU3ZKNTNFWUU1MmpBR3JJRGFZeXF1VTc4S1RVVm0wb0oxUWM2WlVEZE4zaU9NejFXWDNFTVlVQlpYV1dn?oc=5",
-      "date": "Mon, 02 Nov 2026 00:50:00 GMT",
-      "source": "코인리더스",
       "score": 2
     },
     {
@@ -139,27 +160,6 @@
       "date": "Mon, 02 Nov 2026 00:37:47 GMT",
       "source": "디지털투데이",
       "score": 2
-    },
-    {
-      "title": "국내 코인 거래대금 14.4% 감소…빔·파워렛저는 리플XRP 추월",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBPMXg0MW5taFdRd1JiTmR5M19tYnVvZ1E4MWswT3pQQVdHUk9VNTgzbFhpdHVkeHB2SDNxT09MN1Y2ZTJlYUkyWmVHeGlqSXBVX0FXOGd2MFJRemhuUG50TEhrU3pRTElsa2NHXzZRczltZw?oc=5",
-      "date": "Sun, 01 Nov 2026 22:19:11 GMT",
-      "source": "톱스타뉴스",
-      "score": 2
-    },
-    {
-      "title": "XRP ETF 자금 유입 정체… 누적 18억 달러에 평가손실 18%",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5Uak4wam5zbkhCTnRjWGYzMUF0Wk5waTZOTEF1bGdjOHVoSjBJWTFZVno0Y2hkODBDby05UEFSN3pRd2h4V2M3eVZ3?oc=5",
-      "date": "Sun, 01 Nov 2026 19:52:37 GMT",
-      "source": "코인리더스",
-      "score": 2
-    },
-    {
-      "title": "리플 美 신탁은행 최종 인가에도 XRP는 제자리… 월간 13% 하락",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBiaVNEdGdXNUwxUjZVMGRpM0xvaGRweXNIMkpGOUVCdUF0b3lWdlhKSVM4MmZXUXU3OHJVZDFKNTN2LXZkcElPcU53?oc=5",
-      "date": "Sun, 01 Nov 2026 17:53:33 GMT",
-      "source": "코인리더스",
-      "score": 4
     }
   ]
 }
