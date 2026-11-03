@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-11-03T10:20:35",
+  "generated_at": "2026-11-03T17:57:29",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.25,
-    "price_krw": 1685.38,
-    "price_change_24h": 0.48693,
-    "price_change_7d": -3.13582,
-    "price_change_30d": -16.35842,
-    "market_cap_usd": 79446439741,
+    "price_usd": 1.28,
+    "price_krw": 1724.4,
+    "price_change_24h": 3.63605,
+    "price_change_7d": -2.86367,
+    "price_change_30d": -14.68253,
+    "market_cap_usd": 81260087311,
     "market_cap_rank": 5,
-    "volume_24h": 1307572514,
+    "volume_24h": 1665060030,
     "circulating_supply": 63351197653.0,
     "total_supply": 99985589443.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 58.33,
-    "sentiment_votes_down": 41.67,
+    "sentiment_votes_up": 68.24,
+    "sentiment_votes_down": 31.76,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 58.48,
-    "recent_tps": 58.48,
-    "recent_tx_count": 5263,
+    "tps_24h_avg": 42.44,
+    "recent_tps": 42.44,
+    "recent_tx_count": 3777,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 108086592,
+    "recent_window_sec": 89,
+    "ledger_seq": 108093354,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-11-03 10:20:24 KST",
+    "updated_at": "2026-11-03 17:57:16 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -47,6 +47,13 @@
     "data_source": "news_parse"
   },
   "etf_news": [
+    {
+      "title": "미국 알트코인 현물 ETF 시장 확대 ‘솔라나·XRP’ 접전",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yUHJCZEtHdWRFRENLZWZqOXg3Uk1yWDBwdHRDb0xWR0xRWHg4WGllaFVta0wyOWN1MkJTZFN6R2ptWUNqYXhRcUFFUFUybEctc1J0X2djNktUMWxNYUFtSlprMVRBSmF5TzktUQ?oc=5",
+      "date": "Tue, 03 Nov 2026 16:56:35 GMT",
+      "source": "경향게임스",
+      "score": 0
+    },
     {
       "title": "리플 전망 엇갈려…XRP ETF 7개월 연속 순유입에도 1.20달러 하락 확률 80%",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTkJ6ei04bENGaUdqUzNucVNWN3JJQUw1a21ZanZfdXVfd0VIOXlnR3ZlV0ctRC03ZmJITGI0ME1fLVMtczA3MDRZOXVKRjByanl1TFhrb3ByRl80WU9LRmZ3WUJudEc4TlBRTWx0em44NGVRZ1RIanlyY2VvR1VmZTZjWU5IY1J5b0poXzZQMlp4dkE?oc=5",
@@ -81,16 +88,16 @@
       "date": "Sun, 01 Nov 2026 22:19:11 GMT",
       "source": "톱스타뉴스",
       "score": 0
-    },
-    {
-      "title": "XRP 현물 ETF, 나흘 유출 종료...월간 유입액은 -84%",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1NeGRjNGFCaXA3TXlLNHpHNWFWelRVM3dNd1RhY29jNkdaQVE5d2ZhOXBvVnYycXhRSzUtRlBlUzNqbW0zM2xxUVV3?oc=5",
-      "date": "Sun, 01 Nov 2026 22:00:00 GMT",
-      "source": "코인리더스",
-      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "리플(XRP) 2.53% 반등해 1.28달러 선…1.20달러 지지가 관건",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAwV0VwYmJReWxSeFlCdFZkNUtab0RTUjFxTVc0VXZOUHJrQ0drOFBidElsa1Y5X3Y1cEEtYWgyblVmcDhsM1JFSXlR?oc=5",
+      "date": "Tue, 03 Nov 2026 13:02:30 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
     {
       "title": "리플(XRP) 신규 계정 7934개…한 달 새 가격 15.9% 하락",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MZTF2YWV1eG1xc19jVTRUeVZWYnIzWnk4MFRVTlMyWWtGamcxUzd3dEpkcmlEUWREYndJNVlqSjZPc00xRU9RMVpRR0hHRlJJN1Baa0loZTVLdWZWOU00b9IBZkFVX3lxTFAtOC1tN2NvTkhEU09Rc0twNUpKU0Z6TFdsTVRWQ3VoYUVkSU1RWWZoTXdkLXMzVEp1WV9yWXFqVEwyejF3QVNOaDRqTDl5a2MyQXlrNDFiUDJZSDZhNnJuQ2QzLVVRQQ?oc=5",
@@ -151,13 +158,6 @@
       "title": "XRP 비현물 ETF 2종, 매파 연준에도 일중 고가 마감…자금 유입은 정체",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1IYVdZR0luNEFWSERpbFVGS09DSVd6b1hCOEJOWHVZaklIVkc4Q1dSUnVtZzB6bzkyTzlJWE1JbnFUdmMtNVJXM1l3?oc=5",
       "date": "Mon, 02 Nov 2026 15:53:32 GMT",
-      "source": "코인리더스",
-      "score": 3
-    },
-    {
-      "title": "RLUSD, XRP 밥그릇 뺏나?...리플 임원 \"쓸수록 XRP에 이득\"",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5rR2EtRnpvVkpkRC1jODFPcm80LTdxaTFwQ0RYZFNoRDUyUW9sSjBPOG9rbW1Yd28zSk1XVGxGV0JmNlplLU9uLVdR?oc=5",
-      "date": "Mon, 02 Nov 2026 11:00:00 GMT",
       "source": "코인리더스",
       "score": 3
     }
