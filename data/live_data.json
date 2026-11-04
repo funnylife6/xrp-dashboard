@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-11-03T22:52:25",
+  "generated_at": "2026-11-04T02:50:53",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.28,
-    "price_krw": 1718.62,
-    "price_change_24h": 2.48014,
-    "price_change_7d": -3.36722,
-    "price_change_30d": -15.13165,
-    "market_cap_usd": 81055900763,
+    "price_usd": 1.25,
+    "price_krw": 1676.12,
+    "price_change_24h": 0.39194,
+    "price_change_7d": -6.27265,
+    "price_change_30d": -17.57425,
+    "market_cap_usd": 79360876863,
     "market_cap_rank": 5,
-    "volume_24h": 1620346038,
+    "volume_24h": 1762493630,
     "circulating_supply": 63351197653.0,
     "total_supply": 99985589443.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 73.33,
-    "sentiment_votes_down": 26.67,
+    "sentiment_votes_up": 67.39,
+    "sentiment_votes_down": 32.61,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 79.35,
-    "recent_tps": 79.35,
-    "recent_tx_count": 7300,
+    "tps_24h_avg": 55.23,
+    "recent_tps": 55.23,
+    "recent_tx_count": 5026,
     "recent_ledger_count": 24,
-    "recent_window_sec": 92,
-    "ledger_seq": 108097643,
+    "recent_window_sec": 91,
+    "ledger_seq": 108101167,
     "ledger_close_sec": 0.0,
-    "load_factor": 502.0,
+    "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-11-03 22:52:17 KST",
+    "updated_at": "2026-11-04 02:50:46 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,6 +92,20 @@
   ],
   "general_news": [
     {
+      "title": "XRP, 바이낸스 ’대탈출’ 시작됐다",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE04WHAtN2JXT0lGLVpWQ3VSSEo3UGhYVTJLUHBjOUpYalpVOXhQSHBza2JOU2VxMUpiTFNubmhObk5vcC1JamVGSGdKSHBEQ2V3QkptMHI5QS1md0dDMkdlczBZck5ES1pibDVabXZrVFZ1ZXc?oc=5",
+      "date": "Wed, 04 Nov 2026 01:22:00 GMT",
+      "source": "Investing.com 한국어",
+      "score": 2
+    },
+    {
+      "title": "리플이 XRP 버리고 RLUSD 밀어준다?…CEO가 직접 답했다",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1sYWFUZm9LcEFQbEM0V1pYYWhDaUhVRFdGRU1wR0pBUGU4RWt2Yy1NMGZQUkZqVFlHUlJSWXhTWVZlNkxlalN4cm9OMkdacWRrbTM0dVlqTzdJZE54aFJNNm51M2RlSllQaVdmYW5sVVhQZXM?oc=5",
+      "date": "Tue, 03 Nov 2026 23:35:39 GMT",
+      "source": "디지털투데이",
+      "score": 3
+    },
+    {
       "title": "국내 코인거래액 7.2% 감소…리플XRP 거래 1위, 버블맵스 25% 급등",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hYkh0NmFsVE5NZzdab2hWNnFDbnJPcjB2OEhDNnNxSGpNeWhZMm9FNGJqRjRfREFtaFB5THNCd2hocGVwck42RHlkYzJTcG5GS2VkaEpHNXBpQXZDZ1A4UkRCd2lLUEFTZkt2YnR3VjFUUQ?oc=5",
       "date": "Tue, 03 Nov 2026 22:09:34 GMT",
@@ -113,25 +127,11 @@
       "score": 2
     },
     {
-      "title": "리플 사업 확장에도 XRP 부진…커뮤니티서 회의론 확산",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPbEowdmIwbGM1WTFmUnJQQzUxTUJ6cG52SGo0dTFRVlc1SDVkNUFOc1RPZnhMSU1sdlhtQ3dKdzBpY0tEZ2IyN0dHeFpzNEdZOGdEX3lCZGpPN19GbFIyRXBUb2haa25tM2lHMFBHdlMwZkU?oc=5",
-      "date": "Tue, 03 Nov 2026 04:15:36 GMT",
-      "source": "디지털투데이",
-      "score": 2
-    },
-    {
-      "title": "XRP, 고점 대비 66% 폭락…리플 은행 인가·ETF 자금 유입에도 반등은 언제?",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE82NVA4S3otVDJBTU5YVWlyLUxoVkd0YlMyQjFENjB1SUhpbmhNa2NmS1hqSXlWbTJvRE9rQ000TVZpVUpzRk1nU0lRRWVmRTJ4Vndmc3F0dEw?oc=5",
-      "date": "Tue, 03 Nov 2026 01:03:50 GMT",
-      "source": "블록미디어",
-      "score": 4
-    },
-    {
-      "title": "“XRP, 이더리움 시총 넘본다”… 실물 결제 흡수 시 4.4달러 전망",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PYjdBY2VONjA3dV9NZUkyUjNEYUM5Y251NzBTVkNkSVNuS2dWM29tLWtGTzdlbnd1WWs0ZGJiSmVoVEEwVU9mdGIzZ3dVenRwNnBQVWJreHZqbGhPVjZSRmZSRURsWng5QzRwVUNoWTM?oc=5",
-      "date": "Mon, 02 Nov 2026 23:31:59 GMT",
-      "source": "블록체인투데이",
-      "score": 2
+      "title": "리플 전망 엇갈려…XRP ETF 7개월 연속 순유입에도 1.20달러 하락 확률 80%",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTkJ6ei04bENGaUdqUzNucVNWN3JJQUw1a21ZanZfdXVfd0VIOXlnR3ZlV0ctRC03ZmJITGI0ME1fLVMtczA3MDRZOXVKRjByanl1TFhrb3ByRl80WU9LRmZ3WUJudEc4TlBRTWx0em44NGVRZ1RIanlyY2VvR1VmZTZjWU5IY1J5b0poXzZQMlp4dkE?oc=5",
+      "date": "Tue, 03 Nov 2026 00:06:09 GMT",
+      "source": "icobench.com",
+      "score": 3
     },
     {
       "title": "가상자산 거래대금 15.4% 증가…리플XRP 강보합 속 소폰 22% 급등",
@@ -155,11 +155,11 @@
       "score": 3
     },
     {
-      "title": "리플 현물 ETF 7개월 연속 순유입인데 XRP는 16% 폭락…무슨 일이?",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9sOGltYkZqQUwzWUYzcXpnbVVVd3hlMDVNdi1OakJBRGVjOTFwNTR6d1pfX1VkZ2J2SndETXVjbGpVUFJaMk9waGhB?oc=5",
-      "date": "Mon, 02 Nov 2026 08:05:00 GMT",
-      "source": "코인리더스",
-      "score": 4
+      "title": "“XRP, 5년 안에 기관 금융 표준될 것”…리플 CEO가 던진 16조달러 ‘승부수’",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1McEV2RGVWWmk1OW5NRWlvVzc3clRwNE4tR3JXUWU5anJBdUhBRjM3OU0zTzRKTDlmZUtVbnc2bHQ1aXAxTmh0ZTdFZUdYSzdEazBDSUl1Tl8?oc=5",
+      "date": "Mon, 02 Nov 2026 10:30:29 GMT",
+      "source": "블록미디어",
+      "score": 3
     }
   ]
 }
