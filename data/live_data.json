@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-11-07T00:44:09",
+  "generated_at": "2026-11-07T06:44:32",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.18,
-    "price_krw": 1608.25,
-    "price_change_24h": -3.41642,
-    "price_change_7d": -6.02465,
-    "price_change_30d": -17.00231,
-    "market_cap_usd": 74902705224,
+    "price_usd": 1.17,
+    "price_krw": 1591.93,
+    "price_change_24h": -2.26491,
+    "price_change_7d": -6.32035,
+    "price_change_30d": -16.57171,
+    "market_cap_usd": 74141282972,
     "market_cap_rank": 5,
-    "volume_24h": 2115602376,
+    "volume_24h": 2134955553,
     "circulating_supply": 63516606953.0,
     "total_supply": 99985583260.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 67.95,
-    "sentiment_votes_down": 32.05,
+    "sentiment_votes_up": 65.79,
+    "sentiment_votes_down": 34.21,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 38.97,
-    "recent_tps": 38.97,
-    "recent_tx_count": 3468,
+    "tps_24h_avg": 53.86,
+    "recent_tps": 53.86,
+    "recent_tx_count": 4847,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 108163835,
+    "recent_window_sec": 90,
+    "ledger_seq": 108169232,
     "ledger_close_sec": 0.0,
-    "load_factor": 3455.5703125,
+    "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-11-07 00:44:01 KST",
+    "updated_at": "2026-11-07 06:44:17 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -76,21 +76,35 @@
       "score": 0
     },
     {
+      "title": "11억8000만개 보유한 리플(XRP) 현물 ETF 6종",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UX0d5QWN5UHVldGJXQVVkZGVuNHFuallpT2NteXd1ZENGQUYzZmlwMFg4TlRkU05vel8yQmtjV0Q3bHFxMUlyMENRYmpucWlaRXlDZThtUXc4akxxX045R9IBZkFVX3lxTE5PSjZwblFPdXBobC05QVNnWU5CbDUtWnpXeDR3c3B2c2puNk1LOGQ2d3BOYjBoNWNZeUhUa21lUjBWSG5qdExGZjhqaVJJVFYxT3lOYTdEZzdwSnBKYXlWd1BBTjZfdw?oc=5",
+      "date": "Thu, 05 Nov 2026 19:13:53 GMT",
+      "source": "토큰포스트",
+      "score": 5
+    },
+    {
       "title": "리플(XRP) 1.29달러 돌파…해킹 뒤 대형 지갑 7억 7,000만 XRP 늘렸다",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5fdm9hZ0dYNlcyRXppUVZXakphWHQ4UGxjVEN4QklmcjdVaTRpelBUOGx1X0V5LWxnWVdWUlNmOWlfMjFuYUxYYlFn?oc=5",
       "date": "Thu, 05 Nov 2026 14:53:37 GMT",
       "source": "코인리더스",
       "score": 0
-    },
-    {
-      "title": "비트코인·이더리움 ETF 순유입 전환에도 상승세 주춤…XRP 1.40달러 돌파 관건",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9GamVHNTdna3dGaXJRdlNCT29val9YM0tRZ3NLUkhuaTVsb3JmaXJkX1Rxc1JnQXFQODAzRExiU1BXWmRjNnBIQVBB?oc=5",
-      "date": "Thu, 05 Nov 2026 10:29:00 GMT",
-      "source": "코인리더스",
-      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "리플(XRP) 1.11달러까지 갈까…알트코인 자금 이탈에 약세",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBmbTlmelJ4NkRYV0x0aEVuSVFfRzczRFNqZWs2NFlvSklYMjF1YWF1UV9zc2lic1E1MElLU1ZkS3RxbTJvZE1zNXV3?oc=5",
+      "date": "Sat, 07 Nov 2026 06:01:03 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
+      "title": "리플(XRP), 바이낸스 물량 부족 2022년 이후 최고 수준…시세 전망은?",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBhOERLLXBGcHYxSUdyLWtQUWw4bE9ZeFAxeHFWQnpUejFQT0RCY25lOG8yajJYUXEwaUkyc3VFYWJ6dDVMUHpicmRjNV92czFIY1ExN0daaE5vUDN6V2lKSTBMZ3FIdkkx?oc=5",
+      "date": "Sat, 07 Nov 2026 03:19:53 GMT",
+      "source": "CBC뉴스",
+      "score": 2
+    },
     {
       "title": "리플(XRP) 1.15달러 지지선 지킬까…1.20달러 붕괴에 거래량 급증",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1jUDdJVUxLeDI2dGFtLVA2QWwyVGNKbFY0WmNDN3dGZFhyVUEzS1hodERwNm1zMXlFS0d3UnVmSFRiLTJaWDdZeUZn?oc=5",
@@ -103,13 +117,6 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKamp4QU1leVkxMkNjTG9oMnowejFtbDdySVNjV1dkRklDN2VJN0xKSVo0SVZMQlZ4NUZnMm51YWhhdDMzR2hyNEJWQ25PbGZXVVFuS1kwa2d0UWxSbkZPVUJsNW5nWnF0NnE5TUhCdFV5QQ?oc=5",
       "date": "Fri, 06 Nov 2026 22:08:34 GMT",
       "source": "톱스타뉴스",
-      "score": 2
-    },
-    {
-      "title": "[속보]리플 1.19달러 저조, 에버노스 3.30% 상승…XRP 관련주 변수",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBtazBHT0NlS3ItcGhVbzJ0LUJCWExJMS1mdVNhRkhpN1p4TVBqakFRTUY4QXY0TTIycVJnakZWaDdzd285RGxyMFd3Z19JS0h6YkZORGlLX2U4V3k5UkRMZ2lXcDFmZ25X?oc=5",
-      "date": "Fri, 06 Nov 2026 15:21:00 GMT",
-      "source": "CBC뉴스",
       "score": 2
     },
     {
@@ -127,6 +134,13 @@
       "score": 2
     },
     {
+      "title": "11억8000만개 보유한 리플(XRP) 현물 ETF 6종",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UX0d5QWN5UHVldGJXQVVkZGVuNHFuallpT2NteXd1ZENGQUYzZmlwMFg4TlRkU05vel8yQmtjV0Q3bHFxMUlyMENRYmpucWlaRXlDZThtUXc4akxxX045R9IBZkFVX3lxTE5PSjZwblFPdXBobC05QVNnWU5CbDUtWnpXeDR3c3B2c2puNk1LOGQ2d3BOYjBoNWNZeUhUa21lUjBWSG5qdExGZjhqaVJJVFYxT3lOYTdEZzdwSnBKYXlWd1BBTjZfdw?oc=5",
+      "date": "Thu, 05 Nov 2026 19:13:53 GMT",
+      "source": "토큰포스트",
+      "score": 11
+    },
+    {
       "title": "리플(XRP) 1.29달러 돌파…해킹 뒤 대형 지갑 7억 7,000만 XRP 늘렸다",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5fdm9hZ0dYNlcyRXppUVZXakphWHQ4UGxjVEN4QklmcjdVaTRpelBUOGx1X0V5LWxnWVdWUlNmOWlfMjFuYUxYYlFn?oc=5",
       "date": "Thu, 05 Nov 2026 14:53:37 GMT",
@@ -141,25 +155,11 @@
       "score": 2
     },
     {
-      "title": "리플 CEO “5년 내 XRP, 글로벌 기관 결제 표준 될 것” 16조 달러 결제망 온체인 전환 본격화",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93cHBwZzBMMkNUaTNuUFZ6MXUzWU9yMTdyOHVRdEVBZ3IzWkR3UFIzRFY2UEdIbzF4Z3VwUUI0YkpzMUh0TEpqUmNJMGwwTWc0WjFwNE1yMTZUWV94NmtPeHFKXy1CdU3SAWtBVV95cUxPMHhOaW1RQlI2dWpJTjZtbC1xWE5Oc3ROcXN0V1MxUTFKdS13XzNJQUVsRHRZaTg5Sl9QZ1NNQlU0NV9abDFqaGRQTXNZM2NnT0lyMDZ3SEEzSXV6R1A3MmN3SHJIWHJUOVRYdw?oc=5",
-      "date": "Wed, 04 Nov 2026 01:55:45 GMT",
-      "source": "비온미디어",
-      "score": 4
-    },
-    {
-      "title": "XRP, 바이낸스 ’대탈출’ 시작됐다",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE04WHAtN2JXT0lGLVpWQ3VSSEo3UGhYVTJLUHBjOUpYalpVOXhQSHBza2JOU2VxMUpiTFNubmhObk5vcC1JamVGSGdKSHBEQ2V3QkptMHI5QS1md0dDMkdlczBZck5ES1pibDVabXZrVFZ1ZXc?oc=5",
-      "date": "Wed, 04 Nov 2026 01:22:00 GMT",
-      "source": "Investing.com 한국어",
-      "score": 2
-    },
-    {
-      "title": "속보 | 美 하원 민주당, 암호화폐 시장구조법 개편 추진...SEC 권한 강화",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBtdjdLSlBadlZsY0g4dTVLdS1sY1pXWDB5SnluV0YtMllTT3BRRmxDZGxHWGZwV292V2tFLVNyMUYyNnNVX1MxVg?oc=5",
-      "date": "Wed, 04 Nov 2026 01:14:00 GMT",
+      "title": "가장 빠르고 정확한 코인 투자 뉴스, 커뮤니티",
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE4xaEg2ZEswRGRFMHA3WVlZMXFhNlBqbHNYSWRMRV8wNjRGVTVIb29WbG1MWmdtZTBJZzBZZ0xB?oc=5",
+      "date": "Wed, 04 Nov 2026 08:00:00 GMT",
       "source": "CoinNess",
-      "score": 9
+      "score": 8
     }
   ]
 }
