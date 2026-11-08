@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-11-07T22:08:12",
+  "generated_at": "2026-11-08T01:39:21",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.16,
-    "price_krw": 1582.05,
-    "price_change_24h": -1.70259,
-    "price_change_7d": -7.34886,
-    "price_change_30d": -15.67455,
-    "market_cap_usd": 73679859209,
+    "price_krw": 1582.1,
+    "price_change_24h": -1.60076,
+    "price_change_7d": -7.56965,
+    "price_change_30d": -16.36943,
+    "market_cap_usd": 73681819359,
     "market_cap_rank": 5,
-    "volume_24h": 1247873920,
+    "volume_24h": 1257377843,
     "circulating_supply": 63516606953.0,
     "total_supply": 99985583260.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 62.07,
-    "sentiment_votes_down": 37.93,
+    "sentiment_votes_up": 60.0,
+    "sentiment_votes_down": 40.0,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 92.77,
-    "recent_tps": 92.77,
-    "recent_tx_count": 9091,
+    "tps_24h_avg": 35.22,
+    "recent_tps": 35.22,
+    "recent_tx_count": 3170,
     "recent_ledger_count": 24,
-    "recent_window_sec": 98,
-    "ledger_seq": 108183138,
+    "recent_window_sec": 90,
+    "ledger_seq": 108186329,
     "ledger_close_sec": 0.0,
-    "load_factor": 502.0,
+    "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-11-07 22:08:03 KST",
+    "updated_at": "2026-11-08 01:39:11 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -47,6 +47,13 @@
     "data_source": "news_parse"
   },
   "etf_news": [
+    {
+      "title": "리플(XRP) 1.10달러 지지선 지킬까…1.21달러대 지지 붕괴에 매도 확대",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1US0FLNkVXcVdrMFlTRHJzV0ozNzVydk5ZVllwUkk1a1FOR25CbWFiQ19vcy1CZDNETEFmd0hHWW1Qcl8tOF9kclVn?oc=5",
+      "date": "Sun, 08 Nov 2026 00:01:14 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
     {
       "title": "리플(XRP), 8월 말 이후 처음 1.19달러 하회…ETF 사흘 연속 순유입 '제로'",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1vT0NrVmxMNTZMWmhYMkJBcHFYRzdSUTl2OEpuU1RvbWtjMEdWWGVueWo3bDlIZnJDQlEtLVJERFlES1JnN2JpVXpB?oc=5",
@@ -81,16 +88,23 @@
       "date": "Sat, 07 Nov 2026 13:11:00 GMT",
       "source": "코인리더스",
       "score": 0
-    },
-    {
-      "title": "XRP 강세론자 어디에…5.4억 달러 바이낸스 유출에도 1.21달러 하락",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5nSXVpc3JlOThLRFh5VU1VQ0NNRXZvMllDcTJ3anBVTFNUdjZud1A5MkV4MGFVNm4yUGNQVEFQcEtQem9kdzFfWW5CTXFQRk5zVVpsXzBXQWlVelVIVWdFaWs0amNpY3BDX0tMdzB2WQ?oc=5",
-      "date": "Fri, 06 Nov 2026 10:24:34 GMT",
-      "source": "BeInCrypto",
-      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "리플(XRP) 1.10달러 지지선 지킬까…1.21달러대 지지 붕괴에 매도 확대",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1US0FLNkVXcVdrMFlTRHJzV0ozNzVydk5ZVllwUkk1a1FOR25CbWFiQ19vcy1CZDNETEFmd0hHWW1Qcl8tOF9kclVn?oc=5",
+      "date": "Sun, 08 Nov 2026 00:01:14 GMT",
+      "source": "코인리더스",
+      "score": 3
+    },
+    {
+      "title": "리플, XRP 버리고 RLUSD 택했나? 투자자 분노에 갈링하우스 CEO 직접 반박",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9xd2xHSjNyZjRweUg5bkh6bE5XTy1PajlBbUp3Ym5LZG9KbjNBNTQ1aTNEcEV4WGZUNk1YTXlIQzQwR3JRVmlITVpn?oc=5",
+      "date": "Sat, 07 Nov 2026 22:50:00 GMT",
+      "source": "코인리더스",
+      "score": 3
+    },
     {
       "title": "리플(XRP), 8월 말 이후 처음 1.19달러 하회…ETF 사흘 연속 순유입 '제로'",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1vT0NrVmxMNTZMWmhYMkJBcHFYRzdSUTl2OEpuU1RvbWtjMEdWWGVueWo3bDlIZnJDQlEtLVJERFlES1JnN2JpVXpB?oc=5",
@@ -145,20 +159,6 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12MG9uYVh6TEl0OXZZV3ozeWN4NFRwMzlXSzh3TEIyMGVjUldlVWVIZFlIa3VXbWF5LXZPelNsaHJCblY0NG5fTUlWbHNjU1h4eGZoWnZlSFhnWEVFNTY1NmZ5UjhXbm1NZ1E?oc=5",
       "date": "Sat, 07 Nov 2026 02:00:02 GMT",
       "source": "비즈워치",
-      "score": 2
-    },
-    {
-      "title": "리플 사업 질주에도 XRP 시세 디커플링 심화… 1.30달러 박스권",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YZFEwbGMyd3l4TWtLN2M3M2NCRXRTaGRzQmJFNThPT09sYXV2ZzlCWEc4TWFfWVVueW5uZldwN2dEenFDX2ZQWV9xYUVaZGFuZkk0ZTkwOF9lTnl1ejlQenA2dnU1Qmh3LXg5SFlVWnY?oc=5",
-      "date": "Fri, 06 Nov 2026 00:11:17 GMT",
-      "source": "블록체인투데이",
-      "score": 3
-    },
-    {
-      "title": "리플(XRP), 핀볼드 AI 11월 말 1.33달러 전망… 현재가보다 3.71% 높아",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB1dTkxUGdfRExTTTBQak5ZMl90Q3Vpd0pLNVgtRHR4TEhGLU1teWVxOGlXNHl5alRvdllfTWRoWE5oMmZCV29LSlR3?oc=5",
-      "date": "Thu, 05 Nov 2026 19:51:48 GMT",
-      "source": "코인리더스",
       "score": 2
     }
   ]
