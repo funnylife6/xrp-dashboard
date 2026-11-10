@@ -1,52 +1,60 @@
 {
-  "generated_at": "2026-11-09T21:13:36",
+  "generated_at": "2026-11-10T03:41:14",
   "timezone": "Asia/Seoul",
   "info": {
     "price_usd": 1.091,
-    "price_krw": 1462.3,
-    "price_change_24h": -5.19466,
-    "price_change_7d": -12.4152,
-    "price_change_30d": -22.48186,
-    "market_cap_usd": 69301336277,
+    "price_krw": 1467.57,
+    "price_change_24h": -1.78495,
+    "price_change_7d": -12.48946,
+    "price_change_30d": -22.02394,
+    "market_cap_usd": 69313675956,
     "market_cap_rank": 6,
-    "volume_24h": 2788643061,
+    "volume_24h": 2264770786,
     "circulating_supply": 63516606953.0,
     "total_supply": 99985583260.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 65.59,
-    "sentiment_votes_down": 34.41,
+    "sentiment_votes_up": 62.96,
+    "sentiment_votes_down": 37.04,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 84.52,
-    "recent_tps": 84.52,
-    "recent_tx_count": 7776,
+    "tps_24h_avg": 32.63,
+    "recent_tps": 32.63,
+    "recent_tx_count": 2937,
     "recent_ledger_count": 24,
-    "recent_window_sec": 92,
-    "ledger_seq": 108225405,
+    "recent_window_sec": 90,
+    "ledger_seq": 108231212,
     "ledger_close_sec": 0.0,
-    "load_factor": 506.015625,
+    "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-11-09 21:13:23 KST",
+    "updated_at": "2026-11-10 03:41:06 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
   },
   "etf_flow": {
-    "approved_count": 0,
+    "approved_count": 4,
     "daily_inflow_usd": 0,
     "weekly_inflow_usd": 0,
-    "aum_usd": 0,
-    "total_net_inflow_usd": 0,
-    "total_value_traded_usd": 0,
-    "updated_at": "뉴스 자동 파싱 대기",
-    "data_source": "news_parse"
+    "aum_usd": 9400000,
+    "total_net_inflow_usd": 9400000,
+    "total_value_traded_usd": 9400000,
+    "updated_at": "SoSoValue 순유입 부분 수집 11/10 03:41",
+    "data_source": "sosovalue",
+    "partial": true
   },
   "etf_news": [
+    {
+      "title": "리플(XRP) 8월 이후 최저치 충격! ETF 자금 유입 실종에 1달러 붕괴 위기",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE40TklTWkRYN25vMG0yNW55ZGtHUk13dE1pY2oxQ1IyQ0JaRW1PclZ6cmVndFF2VmlueHlRSklkV01sUi1ucmw0eFNR?oc=5",
+      "date": "Mon, 09 Nov 2026 22:35:00 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
     {
       "title": "리플(XRP) 닷새 연속 하락…바이낸스 해킹 물량에 1달러 지지선 흔들",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1NeUN5Vk5jM25YNUdEX1ZmblY2ZUlPUHI4WVFPUnpSTFFTbUNYeWNReG5laGQ5eGJVUDUzcVhSUjlTVFJSbGU3LTVB?oc=5",
@@ -69,28 +77,35 @@
       "score": 0
     },
     {
+      "title": "연준 금리 인상 확률 80%…ETF 자금 이탈에 비트코인·이더리움·리플 약세",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE55UnN4cUhWb3RVMld6RHpXVWtpZlJteEZmOXhkcE1fazFvQ3NUcXJNaE56ZVhHY2lRMUVnNVZwRXdYMG9sLWNMT2t3?oc=5",
+      "date": "Mon, 09 Nov 2026 11:04:00 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
+    {
       "title": "리플 1달러 붕괴하나? XRP 10% 급락에 ETF 자금 이탈·매도세 확대",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0tTE5nU24yanRqS1hyLXJmOE1hU3lnSm9wS1l0RlJnVjJsM2paLW16QVB6SmVLazctYzhScFBUalgtQWlzam5WWHBn?oc=5",
       "date": "Mon, 09 Nov 2026 08:16:00 GMT",
       "source": "코인리더스",
       "score": 0
-    },
-    {
-      "title": "리플 1.16달러 흔들…비트코인 ETF 4억달러 유출 직격",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLWhKX1ZxZUQtc3FqaXVrRGRhQktMTnZURzZtVzR1WlBHSjhnYWtFZG80THl5ajFsU0hGbHNvYjMxMWRyaUdnMW5WbGZaYzVNY1VMUW1WYUNqUVVDbHZ4N1BrdHZBcmRYd3BRM0Y1MEpHV0hBLXR4dzRYeUl1TW0tN1FXRmQ0UmF0?oc=5",
-      "date": "Sun, 08 Nov 2026 21:15:00 GMT",
-      "source": "글로벌이코노믹",
-      "score": 0
-    },
-    {
-      "title": "리플(XRP), 블랙록 현물 ETF '설 설 설'…9일 월요일 주목, 5달러 급등 주장까지",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBOcHBOWlRwTndvc3lReElGc2wxZHo0a1JSWWQtcE5qdlFyNVlQOF9ZODdVeFl3OTBSV1hVeF9VM1J0X3E3SmxmNGFEak5KQkY3VmJsa3B6UmQ0aFc0TlhIQWxCMFBRRG5x?oc=5",
-      "date": "Sun, 08 Nov 2026 15:35:00 GMT",
-      "source": "CBC뉴스",
-      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "리플(XRP) 8월 이후 최저치 충격! ETF 자금 유입 실종에 1달러 붕괴 위기",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE40TklTWkRYN25vMG0yNW55ZGtHUk13dE1pY2oxQ1IyQ0JaRW1PclZ6cmVndFF2VmlueHlRSklkV01sUi1ucmw0eFNR?oc=5",
+      "date": "Mon, 09 Nov 2026 22:35:00 GMT",
+      "source": "코인리더스",
+      "score": 3
+    },
+    {
+      "title": "리플(XRP) 24시간 청산 3122만~4390만달러…롱 96% 이상",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MNEF3eUJVLXpUZGRyWDVpXzcyTnJUZmxtNE1yTGpFYl8wbGFobTcwRWtEdzh5ckk1RWdTMW84eDFwMklmY2ZxQmVKWTRCWkljNVNzSUptZ2VDcURIZU5INtIBZkFVX3lxTFBBVjhhOHJmWUU1X2twNllyS1gtLUV4dV9hUlJ0MFVmcXNISXlHektLWkpfV3FtX2V2czV4RmNxcjBXaFFObWhGc0FaeWR5R094dlZ2czE2TWF4bHU0X0FDVGE0dmpzQQ?oc=5",
+      "date": "Mon, 09 Nov 2026 19:59:25 GMT",
+      "source": "토큰포스트",
+      "score": 9
+    },
     {
       "title": "리플(XRP) 닷새 연속 하락…바이낸스 해킹 물량에 1달러 지지선 흔들",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1NeUN5Vk5jM25YNUdEX1ZmblY2ZUlPUHI4WVFPUnpSTFFTbUNYeWNReG5laGQ5eGJVUDUzcVhSUjlTVFJSbGU3LTVB?oc=5",
@@ -127,13 +142,6 @@
       "score": 3
     },
     {
-      "title": "속보 | 젠피니티 창업자 \"7년 보유 XRP 전량 매도 고려 중...기회비용 부담\"",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9GekdIWDdFM2daWVlleDJCWXdwclZKUVpmWk1kaVB4ZlM1S19weGNTZmJWTl9FRTdtZjNVQVNKdnRXYk1hSlUxNQ?oc=5",
-      "date": "Mon, 09 Nov 2026 03:38:00 GMT",
-      "source": "CoinNess",
-      "score": 8
-    },
-    {
       "title": "리플, XRP 레저 2027년 대수술 예고…기관 금융 수요 잡는다",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5JRE9ERF9HVDZYZEpoV2I3VTN2c0JfZk5KLUxzQnJ2ZW9vNmNzX25Pd2dkZk5VRFk2UTk3WnRISUlEbDJsOGNNRGxFbE1SNXlXQlNRZFU3ZjZGSm1CN1RiV292T2Iyb3JKTzN0c1ZTVWdQZHc?oc=5",
       "date": "Mon, 09 Nov 2026 00:03:26 GMT",
@@ -153,13 +161,6 @@
       "date": "Sun, 08 Nov 2026 22:39:00 GMT",
       "source": "코인리더스",
       "score": 3
-    },
-    {
-      "title": "리플(XRP), 블랙록 현물 ETF '설 설 설'…9일 월요일 주목, 5달러 급등 주장까지",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBOcHBOWlRwTndvc3lReElGc2wxZHo0a1JSWWQtcE5qdlFyNVlQOF9ZODdVeFl3OTBSV1hVeF9VM1J0X3E3SmxmNGFEak5KQkY3VmJsa3B6UmQ0aFc0TlhIQWxCMFBRRG5x?oc=5",
-      "date": "Sun, 08 Nov 2026 15:35:00 GMT",
-      "source": "CBC뉴스",
-      "score": 4
     }
   ]
 }
