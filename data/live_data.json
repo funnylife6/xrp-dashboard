@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-11-13T04:41:28",
+  "generated_at": "2026-11-13T12:44:55",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 1.006,
-    "price_krw": 1341.33,
-    "price_change_24h": -3.62111,
-    "price_change_7d": -16.50039,
-    "price_change_30d": -26.73623,
-    "market_cap_usd": 63877380132,
+    "price_usd": 1.02,
+    "price_krw": 1363.74,
+    "price_change_24h": -1.5998,
+    "price_change_7d": -14.75335,
+    "price_change_30d": -25.67192,
+    "market_cap_usd": 64806773141,
     "market_cap_rank": 6,
-    "volume_24h": 1734289531,
+    "volume_24h": 2092807848,
     "circulating_supply": 63516606953.0,
     "total_supply": 99985583260.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 66.28,
-    "sentiment_votes_down": 33.72,
+    "sentiment_votes_up": 54.55,
+    "sentiment_votes_down": 45.45,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 21.67,
-    "recent_tps": 21.67,
-    "recent_tx_count": 1950,
+    "tps_24h_avg": 24.8,
+    "recent_tps": 24.8,
+    "recent_tx_count": 2232,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 108296402,
+    "ledger_seq": 108303593,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-11-13 04:41:17 KST",
+    "updated_at": "2026-11-13 12:44:46 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -47,6 +47,13 @@
     "data_source": "news_parse"
   },
   "etf_news": [
+    {
+      "title": "리플(XRP) 1.00달러 지지선 지킬까…비트코인 급락 속 시장 전반 약세",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5wLXcxc0pDUWFTZ3BxMVVNcFoxRzlxWHhmRWFVVGVwazRna3U3UHdweVY4d3Q1eFhKMVh2bG9JaVplNzhmNktVZXhB?oc=5",
+      "date": "Fri, 13 Nov 2026 06:07:54 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
     {
       "title": "이더리움 2000달러선 위태…ETF도 5거래일 연속 순유출",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5GNkZQRUl0eklXZWkwNWJRdmlRYUZyb1lkcllrT21IbTVZZ1ZsUERRZWJJMjd6bHROTWk1M1RrdVA2SkJZRnJXZnJKMEszMmJJR1lkTXJxWjdhclVmaGxLR19RTzFOeXFUbFBHU2dYSEpyY1k?oc=5",
@@ -69,28 +76,42 @@
       "score": 0
     },
     {
-      "title": "리플(XRP), CPI 쇼크에 1.05달러까지 밀려…고점 대비 71% 하락",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE55RnpJYWVwQ3ZRYkZ1QVczeXpReUpVRndueGlMQW1xZU0tQWtLT1FYX1ZxNnhxVmpEWlltc2wwYWZlZHQ4TXp6ZHVn?oc=5",
-      "date": "Thu, 12 Nov 2026 14:53:59 GMT",
-      "source": "코인리더스",
+      "title": "XRP 1400일 주기론과 2029년 정점론…1달러 수호와 ETF 유출의 기로",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96M1VvSzFXeFV3bHJjOVk3TVI3OExDcXd0MFlaaGdEVF9fbWRzN1ZyQTEtb2JrRXdaZVY5SjEzX0lTRGNHZ29reVpsZ0F3U2dCRzZCcmlrcXdITXhlTU9qWDQxT1VnRzVoSFdrbXVYby0?oc=5",
+      "date": "Thu, 12 Nov 2026 00:01:31 GMT",
+      "source": "블록체인투데이",
       "score": 0
     },
     {
-      "title": "리플(XRP) 1달러 지지선 사수에도 반등 불투명…ETF 자금 이탈에 추가 하락 경고",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE15SS1iYnk1dnhwdmdNT0FNQTlwMDhPS1ozU2FaeTFVb0xMNzdXb3FNRm1uc2g3SDlFTGlYa0Vfa2RlYmsza0hfcGxB?oc=5",
-      "date": "Thu, 12 Nov 2026 12:29:00 GMT",
-      "source": "코인리더스",
-      "score": 0
-    },
-    {
-      "title": "월가 명문 로스차일드, XRP 현물 ETF 샀다…6300주 투자 확인",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9hM0dOeUtyNC1nOWtXM1JTaUU3UFNoeWVYTWpZaXczOFQ0TU1LN0M2enN5U0lNTE9ERlNxeEVLRW9SdG1UWmhqd1BmdHJxWURXdGY2T2R3VXJxTUxCTjdDQ3liY3lXS1dVYnd2NWhOR2xneU0?oc=5",
-      "date": "Thu, 12 Nov 2026 00:11:03 GMT",
-      "source": "디지털투데이",
+      "title": "로스차일드, XRP ETF 6300주 담았다…코인 3종 분산 공시",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQUpiZUhtemFOLXduUUE3V0VYNWJ6UzNINHY4VFFybHFRT0ZSbE5hRHI0RVR6RVA4bWhvWEZTS1g3NkJ2YUF1SXkwSVhnZjN1dWswbzc4X3lkbW9WOTBqcmJQVk1zd0RzcWgtQUoxSEZ6Z3g2TXpLZTFrdkVGMW82dW9XVnRRV19Q?oc=5",
+      "date": "Wed, 11 Nov 2026 20:00:00 GMT",
+      "source": "글로벌이코노믹",
       "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "비트코인 6만 9,000달러 이탈에 하락 압력 확대…이더리움·리플도 약세 지속",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBLSVhGbjZlLTA0N3EwU2ZBTmluMzM1cEdBbE41YVRZTHJkOXJnWGJJdUxRTS1sNGI1ZVEwMGdPYVFXWi01V3J2YVZn?oc=5",
+      "date": "Fri, 13 Nov 2026 06:23:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
+      "title": "리플(XRP) 1.00달러 지지선 지킬까…비트코인 급락 속 시장 전반 약세",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5wLXcxc0pDUWFTZ3BxMVVNcFoxRzlxWHhmRWFVVGVwazRna3U3UHdweVY4d3Q1eFhKMVh2bG9JaVplNzhmNktVZXhB?oc=5",
+      "date": "Fri, 13 Nov 2026 06:07:54 GMT",
+      "source": "코인리더스",
+      "score": 3
+    },
+    {
+      "title": "리플(XRP) 1달러 붕괴 위기에 네트워크 초기화까지…투자자 불안 커지나",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9pdm1hc2JwX3ZndnVBY0hQQU51N0NodW8tbm9pMGZFaEVSOE43cEFtemhKNFg2b2JPakxwcVNYSy0zWXdTRElkcFJ3?oc=5",
+      "date": "Fri, 13 Nov 2026 03:13:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
     {
       "title": "리플 XRP, 고점서 70% 급락…또 빠지면 0.31달러? 1달러 붕괴 공포",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJcjgwVmpBNy1Od0Z2cUlSaTI3RHd5blRQVDh1MGE2bWJqaUlvdUs3Ulgyd0drQkdjekxIYktmSHN0V0Z4YnQ5RHlRdUN6QlF2WERtazE0NG45OFBlTkg5MFlvb0hWeGNqa1M1Yms1V1JrVnM?oc=5",
@@ -120,30 +141,9 @@
       "score": 3
     },
     {
-      "title": "리플(XRP) 일주일 새 21% 폭락…트럼프 당선 이전 0.50달러로 돌아가나?",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1iWkJBLUR2Z3Z6QmFicUZFMzFkd1BxZnQzQVd0dm00R0JoSFhDR2ZjVDZFZ21JYnc1eXQwczBxU0JkQ0lUWlc5ZG53?oc=5",
-      "date": "Thu, 12 Nov 2026 21:58:00 GMT",
-      "source": "코인리더스",
-      "score": 3
-    },
-    {
       "title": "리플(XRP) 1.028달러 밀렸다…13주 연속 유입 ETF 자금 끊긴 이유",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBJa0VpbklEQVNzZWZsU3pnZU9YTjdrLUVhUkNKbWRld0pWeWdBVGFwNXhiWDdlMjZJMkx6VEM3OG1ZeWZhX2ZlMkJ3?oc=5",
       "date": "Thu, 12 Nov 2026 19:53:08 GMT",
-      "source": "코인리더스",
-      "score": 3
-    },
-    {
-      "title": "리플(XRP), CPI 쇼크에 1.05달러까지 밀려…고점 대비 71% 하락",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE55RnpJYWVwQ3ZRYkZ1QVczeXpReUpVRndueGlMQW1xZU0tQWtLT1FYX1ZxNnhxVmpEWlltc2wwYWZlZHQ4TXp6ZHVn?oc=5",
-      "date": "Thu, 12 Nov 2026 14:53:59 GMT",
-      "source": "코인리더스",
-      "score": 3
-    },
-    {
-      "title": "리플(XRP) 1달러 지지선 사수에도 반등 불투명…ETF 자금 이탈에 추가 하락 경고",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE15SS1iYnk1dnhwdmdNT0FNQTlwMDhPS1ozU2FaeTFVb0xMNzdXb3FNRm1uc2g3SDlFTGlYa0Vfa2RlYmsza0hfcGxB?oc=5",
-      "date": "Thu, 12 Nov 2026 12:29:00 GMT",
       "source": "코인리더스",
       "score": 3
     },
@@ -155,11 +155,11 @@
       "score": 3
     },
     {
-      "title": "월가 명문 로스차일드, XRP 현물 ETF 샀다…6300주 투자 확인",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9hM0dOeUtyNC1nOWtXM1JTaUU3UFNoeWVYTWpZaXczOFQ0TU1LN0M2enN5U0lNTE9ERlNxeEVLRW9SdG1UWmhqd1BmdHJxWURXdGY2T2R3VXJxTUxCTjdDQ3liY3lXS1dVYnd2NWhOR2xneU0?oc=5",
-      "date": "Thu, 12 Nov 2026 00:11:03 GMT",
-      "source": "디지털투데이",
-      "score": 3
+      "title": "코인 설계자는 XRP 물량 90% 팔았는데, 회장 지갑엔 25억개… 투자자들 ‘술렁’",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnaUc4MkUzRFl3NWpZclllZlNSVEhWc09XZlZyOGRWYTc3bDF6TEZXLTZWYTJwYnNwZFVDOGxrWHZKaGxnZzRINXh0X2s0a2xNd1NLSzB1Wmk?oc=5",
+      "date": "Thu, 12 Nov 2026 02:11:12 GMT",
+      "source": "블록미디어",
+      "score": 2
     }
   ]
 }
