@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-11-15T10:13:28",
+  "generated_at": "2026-11-15T17:18:41",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 0.967414,
-    "price_krw": 1291.97,
-    "price_change_24h": -2.17816,
-    "price_change_7d": -16.79433,
-    "price_change_30d": -27.62574,
-    "market_cap_usd": 61446680167,
+    "price_usd": 0.950501,
+    "price_krw": 1269.38,
+    "price_change_24h": 0.11291,
+    "price_change_7d": -17.66502,
+    "price_change_30d": -27.23957,
+    "market_cap_usd": 60372589889,
     "market_cap_rank": 6,
-    "volume_24h": 3957872981,
+    "volume_24h": 3507370636,
     "circulating_supply": 63516606953.0,
     "total_supply": 99985583260.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 64.34,
-    "sentiment_votes_down": 35.66,
+    "sentiment_votes_up": 61.54,
+    "sentiment_votes_down": 38.46,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 54.63,
-    "recent_tps": 54.63,
-    "recent_tx_count": 5463,
+    "tps_24h_avg": 36.68,
+    "recent_tps": 36.68,
+    "recent_tx_count": 3301,
     "recent_ledger_count": 24,
-    "recent_window_sec": 100,
-    "ledger_seq": 108343623,
+    "recent_window_sec": 90,
+    "ledger_seq": 108350043,
     "ledger_close_sec": 0.0,
-    "load_factor": 502.0,
+    "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-11-15 10:13:17 KST",
+    "updated_at": "2026-11-15 17:18:32 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -92,6 +92,13 @@
   ],
   "general_news": [
     {
+      "title": "리플(XRP) 업비트 거래대금 3,489억원 1위…폴리스웜 40.78% 급등",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5mdmRHdUc4dXk0RVNFSHVkVFFlMzB2Rmg1QzBfLWNHTXQ2NTFIbzJzWFhFbW5aUk5WNm1rVWRLbnQtWUJucHBPMzdR?oc=5",
+      "date": "Sun, 15 Nov 2026 11:01:23 GMT",
+      "source": "코인리더스",
+      "score": 3
+    },
+    {
       "title": "리플(XRP) 현물 ETF 18억 달러 몰렸는데 가격은 60% 폭락…기관 매수 효과 어디로?",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ZT0FheXF4UXpBOURsNnFsVFdPcHgwN29SSnpINW5MRDRibmxNdEp3dHZZa19TNGl6YklfbmFBbHZfSVMzYVk2cEdn?oc=5",
       "date": "Sun, 15 Nov 2026 08:25:00 GMT",
@@ -104,13 +111,6 @@
       "date": "Sun, 15 Nov 2026 04:16:28 GMT",
       "source": "코인리더스",
       "score": 3
-    },
-    {
-      "title": "리플(XRP) 5.53% 급등…거래대금 3,169억원, 비트코인 턱밑",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9ld3dsQzBYV0hsWFYzLXBtaUtFQUwzVjJROXFDZ25OMHJLWnkxNGdlclpzZWNOWnFpeW1IYzk4M19EUWwxNUl2SElB?oc=5",
-      "date": "Sun, 15 Nov 2026 04:01:08 GMT",
-      "source": "코인리더스",
-      "score": 2
     },
     {
       "title": "\"XRP 버렸다는 말은 다 헛소리\"…리플 CEO, '대체 불가' 선언한 결정적 이유",
@@ -134,13 +134,6 @@
       "score": 3
     },
     {
-      "title": "리플(XRP) 월가 진출 한 달 만에 충격! 에버노스 주가 53달러에서 한 자릿수로",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1XQl9KUVhFSlo3YXZuaEVVV3puWFhXTzNBbkMySlZ1UE1KSEpYT0MzbWVHMkFLTkN6X1MyZnEzMHc2WmIyaGREWVdn?oc=5",
-      "date": "Sat, 14 Nov 2026 13:05:00 GMT",
-      "source": "코인리더스",
-      "score": 2
-    },
-    {
       "title": "리플(XRP) 10억 개 12월 1일 에스크로 해제…올해 마지막 월간 물량",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5PdlRVLUpCSUxHSkRoaUQwb1g3UVZONjZqRXV6Z0NuSVZPdWlyd3FFT1VzYVBJZDV3Z1UwcUJicjMydVZyOTBlQmF3?oc=5",
       "date": "Sat, 14 Nov 2026 12:51:44 GMT",
@@ -160,6 +153,13 @@
       "date": "Sat, 14 Nov 2026 03:40:00 GMT",
       "source": "CBC뉴스",
       "score": 3
+    },
+    {
+      "title": "AI 에이전트 결제 1500만건…XRP 레저 생태계 확대",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3a0FRdFRmSUFKTnQ5TEFON1hpQWc0Nms3XzJ3SktNcWFxZ3FSSmhBV1ZKQ29oUW9DcS1zeXlCS1o2NlRyc3hBSHlSOVh1ejdXTFNXQkFOdDk?oc=5",
+      "date": "Sat, 14 Nov 2026 03:22:43 GMT",
+      "source": "블록미디어",
+      "score": 2
     }
   ]
 }
