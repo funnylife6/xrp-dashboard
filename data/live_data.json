@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-11-18T02:05:43",
+  "generated_at": "2026-11-18T10:26:38",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 0.971161,
-    "price_krw": 1291.7,
-    "price_change_24h": 1.28895,
-    "price_change_7d": -7.71922,
-    "price_change_30d": -25.88572,
-    "market_cap_usd": 61684844437,
+    "price_usd": 0.999477,
+    "price_krw": 1330.89,
+    "price_change_24h": 4.6388,
+    "price_change_7d": -5.60062,
+    "price_change_30d": -23.84844,
+    "market_cap_usd": 63477642985,
     "market_cap_rank": 6,
-    "volume_24h": 1606001711,
+    "volume_24h": 1798216077,
     "circulating_supply": 63516606953.0,
     "total_supply": 99985583260.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 66.23,
-    "sentiment_votes_down": 33.77,
+    "sentiment_votes_up": 75.61,
+    "sentiment_votes_down": 24.39,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 48.63,
-    "recent_tps": 48.63,
-    "recent_tx_count": 4766,
+    "tps_24h_avg": 55.96,
+    "recent_tps": 55.96,
+    "recent_tx_count": 5036,
     "recent_ledger_count": 24,
-    "recent_window_sec": 98,
-    "ledger_seq": 108401199,
+    "recent_window_sec": 90,
+    "ledger_seq": 108408815,
     "ledger_close_sec": 0.0,
-    "load_factor": 677.4453125,
+    "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-11-18 02:05:34 KST",
+    "updated_at": "2026-11-18 10:26:32 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -48,16 +48,30 @@
   },
   "etf_news": [
     {
-      "title": "EP웰스, XRP 선물 ETF 보유 37% 늘었지만 신고 증권의 0.001% 미만",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ONU8xaGlyTDdFWWF4Qk5RUXFSTEVpUVlQak0yMnU5V1ZJOHpoWG9uRFgtX1RjYUtKTUs4TEJWTEJUVk1uR2ItVnFn?oc=5",
-      "date": "Tue, 17 Nov 2026 12:46:33 GMT",
+      "title": "XRP, 직접 거래보다 유리하면 토큰 교환 다리로…자동 브리징 조건",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5EMFlJZXU0cWZNTmtET1FtNnJxaVpjaGc3S18waHJKNVBNLXpxd2xPNDFoYWoyUDBJSzZPU2R2WllFTUVmT0JYbHlB?oc=5",
+      "date": "Wed, 18 Nov 2026 07:16:56 GMT",
       "source": "코인리더스",
       "score": 0
     },
     {
-      "title": "비트코인 59,000달러까지 추가 하락 가능성…리플·이더리움도 저항선 돌파 관건",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBvU2pZRjV3amxlODhmWm8tYVg4bHkxY2RPX0V0eUtkNXFJV1BER2JaaGhvdWdyb0oxenJ5aUxFTHBveXFMVHBQQnFB?oc=5",
-      "date": "Tue, 17 Nov 2026 10:22:00 GMT",
+      "title": "XRP 레저 검증인, 운영해도 보상 없다…예치 조건도 없어",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9SUUFWZXNMMnlhMGk2aUJWV3dNelIwV000N3VQSjZPUXVtdXlpZWs0bWFmSjNNUzNhdGRhMllpMHUxN2k2UFNiaVVB?oc=5",
+      "date": "Wed, 18 Nov 2026 07:16:11 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
+    {
+      "title": "ETH 현물 ETF 387억원 순유출",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBJNm8yZHZwUURaV2tlaVFvY0llZkRXWUhaY0xQX2FrUUE5azJSdjFMTVdfcFJzZzBRUVdPWjVoNktqbF9tTHNfMkF3?oc=5",
+      "date": "Wed, 18 Nov 2026 05:08:24 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
+    {
+      "title": "EP웰스, XRP 선물 ETF 보유 37% 늘었지만 신고 증권의 0.001% 미만",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ONU8xaGlyTDdFWWF4Qk5RUXFSTEVpUVlQak0yMnU5V1ZJOHpoWG9uRFgtX1RjYUtKTUs4TEJWTEJUVk1uR2ItVnFn?oc=5",
+      "date": "Tue, 17 Nov 2026 12:46:33 GMT",
       "source": "코인리더스",
       "score": 0
     },
@@ -74,28 +88,49 @@
       "date": "Tue, 17 Nov 2026 08:54:44 GMT",
       "source": "코인리더스",
       "score": 0
-    },
-    {
-      "title": "리플(XRP) 1달러 회복할까…ETF 자금 유출 속 0.9400달러 시험대",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9MTkdsT08zU1JyTmJTYThrVHBUR2F6NFA4OUM5Zm5yaTBNSTdENXZ4SnVnemxNYkFVanZSY0ZZNEpmOFE4WWNBdEp3?oc=5",
-      "date": "Tue, 17 Nov 2026 06:04:28 GMT",
-      "source": "코인리더스",
-      "score": 0
-    },
-    {
-      "title": "리플(XRP), 1달러 붕괴·ETF 유출 8개월 최대치...12월에는 만회?",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5xX2NZWkZyNWtLYUNjWEhRODhoX1dmRmpWRFVWOHRPTGx5OGphbjh1V29YQWFVZy1XRmFGemI5WkF5aGNkeHlDcllB?oc=5",
-      "date": "Mon, 16 Nov 2026 02:10:00 GMT",
-      "source": "코인리더스",
-      "score": 0
     }
   ],
   "general_news": [
     {
-      "title": "WLFI, 리플XRP보다 많이 거래됐는데 0.15%↑…왜 못 뛰나",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE04a0I2amRMZVBYSFlkZUo4RE5WdllOaklaTm9JbEYtYUU1cWRVamIxUWpOTlJHY0VjdVhoMFNfZVUyUGNaaUpvUFByeENYd2pKN0ZOUVEyMmdLRW85Tks1NElFcHVidlo2dXBnRjVXX21sZw?oc=5",
-      "date": "Tue, 17 Nov 2026 23:03:52 GMT",
-      "source": "톱스타뉴스",
+      "title": "XRP, 직접 거래보다 유리하면 토큰 교환 다리로…자동 브리징 조건",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5EMFlJZXU0cWZNTmtET1FtNnJxaVpjaGc3S18waHJKNVBNLXpxd2xPNDFoYWoyUDBJSzZPU2R2WllFTUVmT0JYbHlB?oc=5",
+      "date": "Wed, 18 Nov 2026 07:16:56 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
+      "title": "XRP 레저 검증인, 운영해도 보상 없다…예치 조건도 없어",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9SUUFWZXNMMnlhMGk2aUJWV3dNelIwV000N3VQSjZPUXVtdXlpZWs0bWFmSjNNUzNhdGRhMllpMHUxN2k2UFNiaVVB?oc=5",
+      "date": "Wed, 18 Nov 2026 07:16:11 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
+      "title": "리플 지원 에버노스, XRP 또 평가절하 이유?",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBUUGEwS0ZENXNjWDlRMkZlLV96VGxvdHdqcjN4VUJBanllVDM3WE1zV0FwUWlaUXVTSTdrTDNuYXFSZE10WHZ0WF92UHBEM01NNHdWX3J2TWI3S1RmYlpiQThXbFVybkxhNS1RVlBVU2R0U3M?oc=5",
+      "date": "Wed, 18 Nov 2026 07:00:00 GMT",
+      "source": "BeInCrypto",
+      "score": 2
+    },
+    {
+      "title": "비트코인·이더리움·리플 모두 과매도! 전문가 \"하락 추세 여전히 우세\"",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE53TE9nUGhKdHE5T0dOWmRPWUpETDZrZktsbnNPWXJVaXBZSzYydjVfVjJtMVE1cEFFSWkzQjNsNERBTTlIWDl2NWJB?oc=5",
+      "date": "Wed, 18 Nov 2026 03:20:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
+      "title": "리플 레저 ‘데이터 삭제’ D-7…실제 XRP 아닌 테스트 계정 초기화",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1RSXZ4SzJSSzJISUxQdDVXcjNtaUY4Z0hIQXA5cmFVa29VRm4yZHd5bWY3c09MVnJRQ1o3NVFlUXBuOTA1UlE2RTJB?oc=5",
+      "date": "Wed, 18 Nov 2026 01:45:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
+      "title": "XRP 보유자들, 리플에 에스크로 311억 개 소각 요구…규칙상 기한 내 이행 어렵다",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PQ0FqV1ZvVVlheEpxUmYwZl9tYUJITzdpRFJTYlRmX2I5aFpwMWNtR2Z6VUNabjV6NGNINVNIVlpTRmdFN2FlbE9EOGJITDRteGJpTkFR?oc=5",
+      "date": "Tue, 17 Nov 2026 14:04:00 GMT",
+      "source": "위키트리",
       "score": 2
     },
     {
@@ -113,20 +148,6 @@
       "score": 2
     },
     {
-      "title": "리플 5억 달러 손상차손 충격! 에버노스 \"XRP 매도 없었다\"…18달러 전망도 등장",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9adkx3eFZYMUdRX3F3M3VFa0JNLTBRaTFEcHJUM1FMclhJY2FGeEdfM0VCaThyQ3ltVDZpYk44dlp2eWdLVDF2MFBn?oc=5",
-      "date": "Tue, 17 Nov 2026 12:23:00 GMT",
-      "source": "코인리더스",
-      "score": 2
-    },
-    {
-      "title": "리플 지원 에버노스, XRP 또 평가절하 이유?",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBUUGEwS0ZENXNjWDlRMkZlLV96VGxvdHdqcjN4VUJBanllVDM3WE1zV0FwUWlaUXVTSTdrTDNuYXFSZE10WHZ0WF92UHBEM01NNHdWX3J2TWI3S1RmYlpiQThXbFVybkxhNS1RVlBVU2R0U3M?oc=5",
-      "date": "Tue, 17 Nov 2026 10:12:34 GMT",
-      "source": "BeInCrypto",
-      "score": 2
-    },
-    {
       "title": "리플(XRP) 1달러 회복할까…ETF 자금 유출 속 0.9400달러 시험대",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9MTkdsT08zU1JyTmJTYThrVHBUR2F6NFA4OUM5Zm5yaTBNSTdENXZ4SnVnemxNYkFVanZSY0ZZNEpmOFE4WWNBdEp3?oc=5",
       "date": "Tue, 17 Nov 2026 06:04:28 GMT",
@@ -134,32 +155,11 @@
       "score": 3
     },
     {
-      "title": "사토시 코드는 지웠는데...리플(XRP) 레저에 남은 비트코인(BTC) 기술은?",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9LN2hmdTQ0a183U1JZQnF6QW12NFFvZk1neVlQUzV6Yk1aZmxfNFhGZVlGOHNzV3E1N2VEdU13YmZsRnlIX1ZBZ09B?oc=5",
-      "date": "Tue, 17 Nov 2026 03:15:00 GMT",
-      "source": "코인리더스",
-      "score": 2
-    },
-    {
       "title": "300억 달러 XRP 소각 요구 파장…전문가 \"재무제표 스스로 지울 기업은 없다\"",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOUFlbXlWWmo1SWw1OU5tYWFGSkw2SEMwRmJKNU1sclZ4b21Xa0stdWVJM2ZjV3A4NEEyOXJ4cVRyZXppVklfdHNiZkR4ZFlyekllS3RQcHE3YWF1OFp1N2NWeS1xQjJaV3dFYnFYdjJ3RzhGdm93THhaTFJNbGR0S2hCekllN3Zo?oc=5",
       "date": "Tue, 17 Nov 2026 02:15:34 GMT",
       "source": "글로벌이코노믹",
       "score": 2
-    },
-    {
-      "title": "XRP 1000달러 간다면서 250만개 매도하자 비판 쏟아져…리플 전 CTO의 답변은?",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9NSEJSZGMwbnJSTmpwbUtHNTlHbmtwT3l1X3hMa0M2T1NJNnhTTFhJYmhXMTdJMW1rU2F6VWJXRnl3ejVfc3VJQ1plMHpHT3J5UXNyZVZhRzBwWTg3MWNFT19VOG52SjR3U3JJRnBDX0V5TDQ?oc=5",
-      "date": "Tue, 17 Nov 2026 00:26:04 GMT",
-      "source": "디지털투데이",
-      "score": 2
-    },
-    {
-      "title": "리플(XRP) 레저, 스테이블코인 잔약 -7,900만 달러...DEX 거래는 29% 급증",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9LV05SUkNwTm9ZY1JRQXplZFVqbEZfbVNUVnNxcUQwU1BTQ3VNaC1nTHRUV1BlLUFHeVZ1a21EOXE5UXNjS2E1bFVR?oc=5",
-      "date": "Mon, 16 Nov 2026 07:10:00 GMT",
-      "source": "코인리더스",
-      "score": 3
     }
   ]
 }
