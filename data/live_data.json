@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-11-18T10:26:38",
+  "generated_at": "2026-11-18T18:57:03",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 0.999477,
-    "price_krw": 1330.89,
-    "price_change_24h": 4.6388,
-    "price_change_7d": -5.60062,
-    "price_change_30d": -23.84844,
-    "market_cap_usd": 63477642985,
+    "price_usd": 0.979454,
+    "price_krw": 1304.64,
+    "price_change_24h": 2.13585,
+    "price_change_7d": -8.30726,
+    "price_change_30d": -24.65511,
+    "market_cap_usd": 62217156370,
     "market_cap_rank": 6,
-    "volume_24h": 1798216077,
+    "volume_24h": 1726792846,
     "circulating_supply": 63516606953.0,
     "total_supply": 99985583260.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 75.61,
-    "sentiment_votes_down": 24.39,
+    "sentiment_votes_up": 65.59,
+    "sentiment_votes_down": 34.41,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 55.96,
-    "recent_tps": 55.96,
-    "recent_tx_count": 5036,
+    "tps_24h_avg": 30.64,
+    "recent_tps": 30.64,
+    "recent_tx_count": 2758,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 108408815,
+    "ledger_seq": 108416429,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-11-18 10:26:32 KST",
+    "updated_at": "2026-11-18 18:56:56 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -48,16 +48,23 @@
   },
   "etf_news": [
     {
-      "title": "XRP, 직접 거래보다 유리하면 토큰 교환 다리로…자동 브리징 조건",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5EMFlJZXU0cWZNTmtET1FtNnJxaVpjaGc3S18waHJKNVBNLXpxd2xPNDFoYWoyUDBJSzZPU2R2WllFTUVmT0JYbHlB?oc=5",
-      "date": "Wed, 18 Nov 2026 07:16:56 GMT",
+      "title": "골드만삭스, 3분기 XRP ETF 보유 확대…분기 말 이후 XRP는 34% 하락",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9RLWNSc2V6XzhZd0RzZ0JKN3ZRc25paTZpRXF2Wl8yaEE4ejloM0ZNMi12b09OVDJxcHRiS0twWUpieGkySUhZNmhn?oc=5",
+      "date": "Wed, 18 Nov 2026 14:51:53 GMT",
       "source": "코인리더스",
       "score": 0
     },
     {
-      "title": "XRP 레저 검증인, 운영해도 보상 없다…예치 조건도 없어",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9SUUFWZXNMMnlhMGk2aUJWV3dNelIwV000N3VQSjZPUXVtdXlpZWs0bWFmSjNNUzNhdGRhMllpMHUxN2k2UFNiaVVB?oc=5",
-      "date": "Wed, 18 Nov 2026 07:16:11 GMT",
+      "title": "리플 1달러 탈환에도 ETF 600만 달러 순유출…1.20달러 반등 가능할까?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB4dHFPMm5KSFVhZll0S0JFR3BQUFg2U3VHc1JxZElRWHdVSjA2M0UxOFNxc3RGdExxQXRuYkR5N1ZHSzZzTHRjU3Z3?oc=5",
+      "date": "Wed, 18 Nov 2026 12:05:00 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
+    {
+      "title": "BTC 현물 ETF 3195억원 순유출",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBSdFpyUG9oSjZCaEZQandxbF9JSzBQcktqUUU1R3I2NDQtSmE4ODlYb0lPd2h2RHJ1LXBqZ25LSUxUc2dJVThZcXRR?oc=5",
+      "date": "Wed, 18 Nov 2026 05:10:47 GMT",
       "source": "코인리더스",
       "score": 0
     },
@@ -76,13 +83,6 @@
       "score": 0
     },
     {
-      "title": "ETH 현물 ETF 112억원 순유출",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBIZmJkUkVyRng3cDEtVzdTVWpsM3RidDk2bEtJRWt3bEFZSlNiY2R2ZGo5WmRQTmtGLVh0am14ay1JTlFhazBMYjB3?oc=5",
-      "date": "Tue, 17 Nov 2026 08:56:49 GMT",
-      "source": "코인리더스",
-      "score": 0
-    },
-    {
       "title": "BTC 현물 ETF 105억원 순유입...8거래일 만",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1DZ2FjaUVNcnRKNS1BRVg0ODdXU1gxTGZRVVY5aktHOV9hWVVUWmdLWHF0ZWVfRjRjRncwcEc3UkVlTlZJOC05OVF3?oc=5",
       "date": "Tue, 17 Nov 2026 08:54:44 GMT",
@@ -92,16 +92,23 @@
   ],
   "general_news": [
     {
-      "title": "XRP, 직접 거래보다 유리하면 토큰 교환 다리로…자동 브리징 조건",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5EMFlJZXU0cWZNTmtET1FtNnJxaVpjaGc3S18waHJKNVBNLXpxd2xPNDFoYWoyUDBJSzZPU2R2WllFTUVmT0JYbHlB?oc=5",
-      "date": "Wed, 18 Nov 2026 07:16:56 GMT",
+      "title": "골드만삭스, 3분기 XRP ETF 보유 확대…분기 말 이후 XRP는 34% 하락",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9RLWNSc2V6XzhZd0RzZ0JKN3ZRc25paTZpRXF2Wl8yaEE4ejloM0ZNMi12b09OVDJxcHRiS0twWUpieGkySUhZNmhn?oc=5",
+      "date": "Wed, 18 Nov 2026 14:51:53 GMT",
       "source": "코인리더스",
       "score": 2
     },
     {
-      "title": "XRP 레저 검증인, 운영해도 보상 없다…예치 조건도 없어",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9SUUFWZXNMMnlhMGk2aUJWV3dNelIwV000N3VQSjZPUXVtdXlpZWs0bWFmSjNNUzNhdGRhMllpMHUxN2k2UFNiaVVB?oc=5",
-      "date": "Wed, 18 Nov 2026 07:16:11 GMT",
+      "title": "리플 1달러 탈환에도 ETF 600만 달러 순유출…1.20달러 반등 가능할까?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB4dHFPMm5KSFVhZll0S0JFR3BQUFg2U3VHc1JxZElRWHdVSjA2M0UxOFNxc3RGdExxQXRuYkR5N1ZHSzZzTHRjU3Z3?oc=5",
+      "date": "Wed, 18 Nov 2026 12:05:00 GMT",
+      "source": "코인리더스",
+      "score": 3
+    },
+    {
+      "title": "리플(XRP) 반등에 속지 마라?…전문가 \"0.55달러까지 하락 여지\"",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1dzNfdHk4SVZkNnVnbnpFdVBzc2taRTN0Zl9saXA4R1lVQXlld3lrOFVaWS1pdjVQUTJpcHkzT3ZVeTFSWGEwajlB?oc=5",
+      "date": "Wed, 18 Nov 2026 10:49:00 GMT",
       "source": "코인리더스",
       "score": 2
     },
@@ -113,17 +120,10 @@
       "score": 2
     },
     {
-      "title": "비트코인·이더리움·리플 모두 과매도! 전문가 \"하락 추세 여전히 우세\"",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE53TE9nUGhKdHE5T0dOWmRPWUpETDZrZktsbnNPWXJVaXBZSzYydjVfVjJtMVE1cEFFSWkzQjNsNERBTTlIWDl2NWJB?oc=5",
-      "date": "Wed, 18 Nov 2026 03:20:00 GMT",
-      "source": "코인리더스",
-      "score": 2
-    },
-    {
-      "title": "리플 레저 ‘데이터 삭제’ D-7…실제 XRP 아닌 테스트 계정 초기화",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1RSXZ4SzJSSzJISUxQdDVXcjNtaUY4Z0hIQXA5cmFVa29VRm4yZHd5bWY3c09MVnJRQ1o3NVFlUXBuOTA1UlE2RTJB?oc=5",
-      "date": "Wed, 18 Nov 2026 01:45:00 GMT",
-      "source": "코인리더스",
+      "title": "코인 거래대금 23% 늘었지만 팔라에 쏠림…리플XRP 1%대 상승",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yd05TdnRBVkxNMDFMQk42NmE4TG5xOWdIVzZUZzAxYlhxaTVxWmFIYWdUdEhqRFo5U2w0VFd2bWVWVVRjWm9uUHZMU0Q0MklaUzNqMkdhdy1LR2U5X1lEUTZqajg5Nm9PcHFiUHdwQ0c1dw?oc=5",
+      "date": "Tue, 17 Nov 2026 22:18:28 GMT",
+      "source": "톱스타뉴스",
       "score": 2
     },
     {
