@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-11-18T18:57:03",
+  "generated_at": "2026-11-19T00:56:56",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 0.979454,
-    "price_krw": 1304.64,
-    "price_change_24h": 2.13585,
-    "price_change_7d": -8.30726,
-    "price_change_30d": -24.65511,
-    "market_cap_usd": 62217156370,
+    "price_usd": 0.966705,
+    "price_krw": 1286.15,
+    "price_change_24h": -1.14994,
+    "price_change_7d": -8.08637,
+    "price_change_30d": -25.81509,
+    "market_cap_usd": 61386988908,
     "market_cap_rank": 6,
-    "volume_24h": 1726792846,
+    "volume_24h": 1628245152,
     "circulating_supply": 63516606953.0,
     "total_supply": 99985583260.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 65.59,
-    "sentiment_votes_down": 34.41,
+    "sentiment_votes_up": 61.63,
+    "sentiment_votes_down": 38.37,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 30.64,
-    "recent_tps": 30.64,
-    "recent_tx_count": 2758,
+    "tps_24h_avg": 40.29,
+    "recent_tps": 40.29,
+    "recent_tx_count": 3626,
     "recent_ledger_count": 24,
     "recent_window_sec": 90,
-    "ledger_seq": 108416429,
+    "ledger_seq": 108421820,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-11-18 18:56:56 KST",
+    "updated_at": "2026-11-19 00:56:44 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -48,6 +48,20 @@
   },
   "etf_news": [
     {
+      "title": "리플(XRP), 1달러 탈환 시도...ETF 자금은 '탈출'",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5Gb0REdHI3emNPenNPUFkwbEExOWp0OWpQSGxmbVNNelpTREJzM0F1QkJFY25xOW1pYzF3bkczVE5RV2NlUnA5OHZ3?oc=5",
+      "date": "Thu, 19 Nov 2026 00:10:00 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
+    {
+      "title": "카르다노, 고점 대비 95% 하락…ETF·AI·디파이가 1달러 복귀 변수",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBjUmhVQnRkcUo3R0t1ZHBoNEc1Z3k0cC1LN2pXU21xYzBUMmgwcVJ3SXIybFg4LUZPMWNaVHhwNndCRFRPSDRUQ1J3?oc=5",
+      "date": "Wed, 18 Nov 2026 18:51:40 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
+    {
       "title": "골드만삭스, 3분기 XRP ETF 보유 확대…분기 말 이후 XRP는 34% 하락",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9RLWNSc2V6XzhZd0RzZ0JKN3ZRc25paTZpRXF2Wl8yaEE4ejloM0ZNMi12b09OVDJxcHRiS0twWUpieGkySUhZNmhn?oc=5",
       "date": "Wed, 18 Nov 2026 14:51:53 GMT",
@@ -62,41 +76,48 @@
       "score": 0
     },
     {
-      "title": "BTC 현물 ETF 3195억원 순유출",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBSdFpyUG9oSjZCaEZQandxbF9JSzBQcktqUUU1R3I2NDQtSmE4ODlYb0lPd2h2RHJ1LXBqZ25LSUxUc2dJVThZcXRR?oc=5",
-      "date": "Wed, 18 Nov 2026 05:10:47 GMT",
-      "source": "코인리더스",
-      "score": 0
-    },
-    {
-      "title": "ETH 현물 ETF 387억원 순유출",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBJNm8yZHZwUURaV2tlaVFvY0llZkRXWUhaY0xQX2FrUUE5azJSdjFMTVdfcFJzZzBRUVdPWjVoNktqbF9tTHNfMkF3?oc=5",
-      "date": "Wed, 18 Nov 2026 05:08:24 GMT",
-      "source": "코인리더스",
-      "score": 0
-    },
-    {
-      "title": "EP웰스, XRP 선물 ETF 보유 37% 늘었지만 신고 증권의 0.001% 미만",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ONU8xaGlyTDdFWWF4Qk5RUXFSTEVpUVlQak0yMnU5V1ZJOHpoWG9uRFgtX1RjYUtKTUs4TEJWTEJUVk1uR2ItVnFn?oc=5",
-      "date": "Tue, 17 Nov 2026 12:46:33 GMT",
-      "source": "코인리더스",
-      "score": 0
-    },
-    {
       "title": "BTC 현물 ETF 105억원 순유입...8거래일 만",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1DZ2FjaUVNcnRKNS1BRVg0ODdXU1gxTGZRVVY5aktHOV9hWVVUWmdLWHF0ZWVfRjRjRncwcEc3UkVlTlZJOC05OVF3?oc=5",
       "date": "Tue, 17 Nov 2026 08:54:44 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
+    {
+      "title": "리플(XRP) 1달러 회복할까…ETF 자금 유출 속 0.9400달러 시험대",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9MTkdsT08zU1JyTmJTYThrVHBUR2F6NFA4OUM5Zm5yaTBNSTdENXZ4SnVnemxNYkFVanZSY0ZZNEpmOFE4WWNBdEp3?oc=5",
+      "date": "Tue, 17 Nov 2026 06:04:28 GMT",
       "source": "코인리더스",
       "score": 0
     }
   ],
   "general_news": [
     {
+      "title": "리플(XRP), 1달러 탈환 시도...ETF 자금은 '탈출'",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5Gb0REdHI3emNPenNPUFkwbEExOWp0OWpQSGxmbVNNelpTREJzM0F1QkJFY25xOW1pYzF3bkczVE5RV2NlUnA5OHZ3?oc=5",
+      "date": "Thu, 19 Nov 2026 00:10:00 GMT",
+      "source": "코인리더스",
+      "score": 3
+    },
+    {
+      "title": "코인시장 불안 속 리플XRP·비트코인 하락…미국증시와 엇갈린 흐름",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSSnNCWWIxeTRBTEkzRmlobVVrMlN0bi05OVNuald2a1Vodnc3VUFuajF6Zk0wbUxWTmFVMU5QajJTOXFzaDBoWlBlY3Y1elE5YW9wRHdZS1FYOHR1NGR6WV9NdVhuNG1QZ05hMXFKR1hTZw?oc=5",
+      "date": "Wed, 18 Nov 2026 21:37:06 GMT",
+      "source": "톱스타뉴스",
+      "score": 2
+    },
+    {
+      "title": "리플(XRP), 5일 만에 1달러 일시 회복...반등 이어갈까?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB5b1BmVUhVdTNBemVqSXNXVjl5NkNZbUlnbi1EUXNRRDRNU0hUMVVubUN4RGZhOXcxbEg5UDlWcjhjcHVwSkVEcVpB?oc=5",
+      "date": "Wed, 18 Nov 2026 20:30:00 GMT",
+      "source": "코인리더스",
+      "score": 3
+    },
+    {
       "title": "골드만삭스, 3분기 XRP ETF 보유 확대…분기 말 이후 XRP는 34% 하락",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9RLWNSc2V6XzhZd0RzZ0JKN3ZRc25paTZpRXF2Wl8yaEE4ejloM0ZNMi12b09OVDJxcHRiS0twWUpieGkySUhZNmhn?oc=5",
       "date": "Wed, 18 Nov 2026 14:51:53 GMT",
       "source": "코인리더스",
-      "score": 2
+      "score": 3
     },
     {
       "title": "리플 1달러 탈환에도 ETF 600만 달러 순유출…1.20달러 반등 가능할까?",
@@ -120,31 +141,10 @@
       "score": 2
     },
     {
-      "title": "코인 거래대금 23% 늘었지만 팔라에 쏠림…리플XRP 1%대 상승",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yd05TdnRBVkxNMDFMQk42NmE4TG5xOWdIVzZUZzAxYlhxaTVxWmFIYWdUdEhqRFo5U2w0VFd2bWVWVVRjWm9uUHZMU0Q0MklaUzNqMkdhdy1LR2U5X1lEUTZqajg5Nm9PcHFiUHdwQ0c1dw?oc=5",
-      "date": "Tue, 17 Nov 2026 22:18:28 GMT",
-      "source": "톱스타뉴스",
-      "score": 2
-    },
-    {
-      "title": "XRP 보유자들, 리플에 에스크로 311억 개 소각 요구…규칙상 기한 내 이행 어렵다",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PQ0FqV1ZvVVlheEpxUmYwZl9tYUJITzdpRFJTYlRmX2I5aFpwMWNtR2Z6VUNabjV6NGNINVNIVlpTRmdFN2FlbE9EOGJITDRteGJpTkFR?oc=5",
-      "date": "Tue, 17 Nov 2026 14:04:00 GMT",
-      "source": "위키트리",
-      "score": 2
-    },
-    {
       "title": "'최대 XRP 트레저리' 에버노스, 보유 XRP 평가손실만 6700억원",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5LWkVSazJvTTVtcE9OQ3JYY2xNcW1DLVNXejZGYzdPb0QyNXR1eDJsUU5vb29GdjM2VVJMcUNKMk1wRS1fN3lEOHdhQ0I0R2Z5d2REWV9HaGt6TXZia09IUlRpRGxZdENCdXdKRDlxREx1QjQ?oc=5",
       "date": "Tue, 17 Nov 2026 13:01:06 GMT",
       "source": "마켓인",
-      "score": 2
-    },
-    {
-      "title": "EP웰스, XRP 선물 ETF 보유 37% 늘었지만 신고 증권의 0.001% 미만",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ONU8xaGlyTDdFWWF4Qk5RUXFSTEVpUVlQak0yMnU5V1ZJOHpoWG9uRFgtX1RjYUtKTUs4TEJWTEJUVk1uR2ItVnFn?oc=5",
-      "date": "Tue, 17 Nov 2026 12:46:33 GMT",
-      "source": "코인리더스",
       "score": 2
     },
     {
