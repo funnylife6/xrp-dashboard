@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-11-19T23:43:49",
+  "generated_at": "2026-11-20T05:03:46",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 0.959085,
-    "price_krw": 1279.46,
-    "price_change_24h": -0.98854,
-    "price_change_7d": -7.34898,
-    "price_change_30d": -28.26929,
-    "market_cap_usd": 60917792710,
+    "price_usd": 0.961874,
+    "price_krw": 1285.77,
+    "price_change_24h": -1.30422,
+    "price_change_7d": -4.28101,
+    "price_change_30d": -27.79964,
+    "market_cap_usd": 61094979208,
     "market_cap_rank": 6,
-    "volume_24h": 1669867223,
+    "volume_24h": 1667602646,
     "circulating_supply": 63516606953.0,
     "total_supply": 99985583260.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 68.09,
-    "sentiment_votes_down": 31.91,
+    "sentiment_votes_up": 64.71,
+    "sentiment_votes_down": 35.29,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 16.3,
-    "recent_tps": 16.3,
-    "recent_tx_count": 1451,
+    "tps_24h_avg": 63.6,
+    "recent_tps": 63.6,
+    "recent_tx_count": 6360,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 108442264,
+    "recent_window_sec": 100,
+    "ledger_seq": 108447063,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-11-19 23:43:42 KST",
+    "updated_at": "2026-11-20 05:03:36 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -55,13 +55,6 @@
       "score": 0
     },
     {
-      "title": "[시세] 리플(XRP) 시장 약세에 밀렸다…0.9560달러 지킬까",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBhalk5MDhLXzJsazFwVXFwRTRVenlnUzZuTFRkM0FDSi1nQWprVDdTWjlJN01ZZWlxU3o1NE1ibV8xc21HTDdWbUVB?oc=5",
-      "date": "Thu, 19 Nov 2026 06:03:11 GMT",
-      "source": "코인리더스",
-      "score": 0
-    },
-    {
       "title": "XRP 한때 1달러선 회복…ETF 자금 이탈 이어져",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56S0RqUS1VOEdUdTlCLV9IMVFkelh4UlM1VG1KX3lLUzczaFpOamlrNzBsN1lWd3JkdXY2X2VvdWwxSGE5MU5DMGVFMEJpUnlteDNJcEQ5YklBS05YQWQwa0tfXy1FUUhNNHZWZWQ5M2YxWE0?oc=5",
       "date": "Thu, 19 Nov 2026 05:41:40 GMT",
@@ -72,6 +65,13 @@
       "title": "리플(XRP), 1달러 탈환 시도...ETF 자금은 '탈출'",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5Gb0REdHI3emNPenNPUFkwbEExOWp0OWpQSGxmbVNNelpTREJzM0F1QkJFY25xOW1pYzF3bkczVE5RV2NlUnA5OHZ3?oc=5",
       "date": "Thu, 19 Nov 2026 00:10:00 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
+    {
+      "title": "골드만삭스, 3분기 XRP ETF 보유 확대…분기 말 이후 XRP는 34% 하락",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9RLWNSc2V6XzhZd0RzZ0JKN3ZRc25paTZpRXF2Wl8yaEE4ejloM0ZNMi12b09OVDJxcHRiS0twWUpieGkySUhZNmhn?oc=5",
+      "date": "Wed, 18 Nov 2026 14:51:53 GMT",
       "source": "코인리더스",
       "score": 0
     },
@@ -92,16 +92,16 @@
   ],
   "general_news": [
     {
-      "title": "리플(XRP) 0.90달러서 반등했지만 안심은 금물! 전문가 \"0.93달러 재하락 가능성\"",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBxZ2lzZDZibjN1b0pCQUtoaXRYcUZodVJqR1RxZmc1LVB1OERUZ2U0VzRaMkRjT0lzTjZzVHB3UkJPWF9WY3hyaDFR?oc=5",
-      "date": "Thu, 19 Nov 2026 21:28:00 GMT",
+      "title": "[시세] 리플(XRP) 시장 따라 밀렸다…0.9560달러 지킬까",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1HTFNRY3dCRlBiUjA4dGNqLTg5NExfR1VvbEZWaWtWVjl0RWVjNHRobFBjNzVOX3NiOEZLM3Zna2JiSW1tSER1d0RB?oc=5",
+      "date": "Fri, 20 Nov 2026 00:07:28 GMT",
       "source": "코인리더스",
       "score": 2
     },
     {
-      "title": "업홀드 CPO \"리플(XRP) 보유자에게 좋은 연말 될 것\"…수익 서비스 출시 기대감 확대",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBZM25rbWFBQkJlMERlS2ZKN29KV3J0X29LOWVxNkx4QWdfZkFJWlR1STA3eTAzLVpvb0dDWnFWTWRyUk1Sb3FFT3NR?oc=5",
-      "date": "Thu, 19 Nov 2026 12:14:00 GMT",
+      "title": "리플(XRP) 0.90달러서 반등했지만 안심은 금물! 전문가 \"0.93달러 재하락 가능성\"",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBxZ2lzZDZibjN1b0pCQUtoaXRYcUZodVJqR1RxZmc1LVB1OERUZ2U0VzRaMkRjT0lzTjZzVHB3UkJPWF9WY3hyaDFR?oc=5",
+      "date": "Thu, 19 Nov 2026 21:28:00 GMT",
       "source": "코인리더스",
       "score": 2
     },
@@ -113,6 +113,13 @@
       "score": 3
     },
     {
+      "title": "속보 | 폴리티코 \"암호화폐 업계, 美 민주당 '블루 웨이브' 대가 치를 것\"",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1KMmptV2t5bVhySHZudU83RXliQzktUHFPaWQ2dUNSR210R0lDZVN2OXVnUUJnM1hoRmpGbUVicWRoZlR5R09XZA?oc=5",
+      "date": "Thu, 19 Nov 2026 07:28:00 GMT",
+      "source": "CoinNess",
+      "score": 8
+    },
+    {
       "title": "RLUSD 쥐어도 1달러 못 받는다…‘등록 고객’ 전용",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB3c3BHRk5LZ2VQTWd1Z0kxTF9rbldPNkRaNXBNdUpzSmMwcXV1ME15MEJZeWdBdTVYMHN2UmdqX1ppc3NrbllXeER3?oc=5",
       "date": "Thu, 19 Nov 2026 07:16:09 GMT",
@@ -120,9 +127,9 @@
       "score": 1
     },
     {
-      "title": "[시세] 리플(XRP) 시장 약세에 밀렸다…0.9560달러 지킬까",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBhalk5MDhLXzJsazFwVXFwRTRVenlnUzZuTFRkM0FDSi1nQWprVDdTWjlJN01ZZWlxU3o1NE1ibV8xc21HTDdWbUVB?oc=5",
-      "date": "Thu, 19 Nov 2026 06:03:11 GMT",
+      "title": "리플(XRP), 제2의 아마존(AMZN) 되나...2009년 대세 상승 직전 '판박이'",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1HWWNOd09pN2lEa2VvNm5uTDQ5UjFhajFWRXlYVFBIQ2UwaEh0azk0ZV8ycWtuSXB3U0g1d3JsM3pDVlhKUzdtS1BB?oc=5",
+      "date": "Thu, 19 Nov 2026 06:15:00 GMT",
       "source": "코인리더스",
       "score": 2
     },
@@ -141,23 +148,16 @@
       "score": 3
     },
     {
-      "title": "리플(XRP), 1달러 탈환 시도...ETF 자금은 '탈출'",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5Gb0REdHI3emNPenNPUFkwbEExOWp0OWpQSGxmbVNNelpTREJzM0F1QkJFY25xOW1pYzF3bkczVE5RV2NlUnA5OHZ3?oc=5",
-      "date": "Thu, 19 Nov 2026 00:10:00 GMT",
-      "source": "코인리더스",
-      "score": 3
-    },
-    {
-      "title": "리플(XRP) 바닥 아직 아니다?…2년 만의 최저 주간 종가에 추가 폭락 경고",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9sZm50SmlYYmJXam5ScEY4eEpmMGtNcFJ3ZVZQQnI0RnJVaGFyTFRja3pOWE1rTTFDdHNZOHo0NmRFdGwyNnZMSkR3?oc=5",
-      "date": "Wed, 18 Nov 2026 22:36:00 GMT",
+      "title": "리플(XRP) 0.9500달러 지지선 지킬까…반등 뒤 하락 전환",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5haHh5UEJfaUprd01BQU1rUTJ3N0RXd2RhUnJkZXZzT0ZPeFRNbGJXWjBzR0VoVmxEbE8xNDF4WnFQYkQxUFdVYnVn?oc=5",
+      "date": "Thu, 19 Nov 2026 00:10:49 GMT",
       "source": "코인리더스",
       "score": 2
     },
     {
-      "title": "리플(XRP), 5일 만에 1달러 일시 회복...반등 이어갈까?",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB5b1BmVUhVdTNBemVqSXNXVjl5NkNZbUlnbi1EUXNRRDRNU0hUMVVubUN4RGZhOXcxbEg5UDlWcjhjcHVwSkVEcVpB?oc=5",
-      "date": "Wed, 18 Nov 2026 20:30:00 GMT",
+      "title": "리플(XRP), 1달러 탈환 시도...ETF 자금은 '탈출'",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5Gb0REdHI3emNPenNPUFkwbEExOWp0OWpQSGxmbVNNelpTREJzM0F1QkJFY25xOW1pYzF3bkczVE5RV2NlUnA5OHZ3?oc=5",
+      "date": "Thu, 19 Nov 2026 00:10:00 GMT",
       "source": "코인리더스",
       "score": 3
     }
