@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-11-26T09:03:40",
+  "generated_at": "2026-11-26T19:11:33",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 0.955113,
-    "price_krw": 1283.2,
-    "price_change_24h": 3.94151,
-    "price_change_7d": -2.86989,
-    "price_change_30d": -26.46143,
-    "market_cap_usd": 60672259269,
+    "price_usd": 0.95246,
+    "price_krw": 1279.77,
+    "price_change_24h": 2.08352,
+    "price_change_7d": -2.14393,
+    "price_change_30d": -27.95661,
+    "market_cap_usd": 60497566741,
     "market_cap_rank": 6,
-    "volume_24h": 2025655172,
+    "volume_24h": 1433606933,
     "circulating_supply": 63516606953.0,
     "total_supply": 99985583260.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 69.01,
-    "sentiment_votes_down": 30.99,
+    "sentiment_votes_up": 68.49,
+    "sentiment_votes_down": 31.51,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 18.01,
-    "recent_tps": 18.01,
-    "recent_tx_count": 1477,
+    "tps_24h_avg": 35.69,
+    "recent_tps": 35.69,
+    "recent_tx_count": 3212,
     "recent_ledger_count": 24,
-    "recent_window_sec": 82,
-    "ledger_seq": 108580586,
+    "recent_window_sec": 90,
+    "ledger_seq": 108589920,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-11-26 09:03:31 KST",
+    "updated_at": "2026-11-26 19:11:21 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -48,16 +48,23 @@
   },
   "etf_news": [
     {
-      "title": "XRP 제자리여도 2배 ETF는 10% 손실 구조",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE16TlYtVmZKZmVwTHp0ZmdIelFkTTg3bTg3TE5Ka2ZmTjhMVWJ4YU5PWS1hUGRsbk5GaHZkUVAtQjRFYjhjMWhEcWd3?oc=5",
-      "date": "Thu, 26 Nov 2026 06:46:31 GMT",
+      "title": "리플(XRP), 거래소서 50억 개 빠져나갔다…ETF 자금 유입에 전망은?",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNRVRxcm1Bc19KV0dOMUUwdVhoSmRScG94ZjJqX1hXX3BFamUweU01LTFkSUQ0SzR1c0lnUzhkVkE2bHlKTm9vU0daS0k5WmVYSDlMUkFPZVY4V05xU0w4YU9oRXJFNWZv?oc=5",
+      "date": "Thu, 26 Nov 2026 13:37:13 GMT",
+      "source": "CBC뉴스",
+      "score": 0
+    },
+    {
+      "title": "리플(XRP) 현물 ETF 나 홀로 순유입! 비트코인·이더리움은 기관 자금 이탈 지속",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9fTzRhVHRuNFpxdkR1UTN3WThIWGR5bzgwUzVsOGN5bHBfaU9Xd3RKTk9CRmE1YXBsTHFtWEh6NkZycC1ZcU5BY3Bn?oc=5",
+      "date": "Thu, 26 Nov 2026 10:39:00 GMT",
       "source": "코인리더스",
       "score": 0
     },
     {
-      "title": "BTC 현물 ETF 6082억원 순유출",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9yUzlRYmVBVi1mRW9MUzhiN29rOUdRd2swSDFEQ2ZNc0J5dFBwbUVUZ0JuT0w1eThxZHVnNTVpUnNOQUhPazR0dXNR?oc=5",
-      "date": "Thu, 26 Nov 2026 05:07:56 GMT",
+      "title": "XRP 제자리여도 2배 ETF는 10% 손실 구조",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE16TlYtVmZKZmVwTHp0ZmdIelFkTTg3bTg3TE5Ka2ZmTjhMVWJ4YU5PWS1hUGRsbk5GaHZkUVAtQjRFYjhjMWhEcWd3?oc=5",
+      "date": "Thu, 26 Nov 2026 06:46:31 GMT",
       "source": "코인리더스",
       "score": 0
     },
@@ -76,13 +83,6 @@
       "score": 0
     },
     {
-      "title": "평균 손실 50% 육박…XRP ETF 자금도 이탈",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBXcWlOS21ZczNoa3pkOUViV1F4em4wVC1MaUI4N3lQTUJwR3Mzd1NZMlVYSjNRcUtFSWhOZG1fZlVVMHM4Zm9yMDln?oc=5",
-      "date": "Wed, 25 Nov 2026 12:52:21 GMT",
-      "source": "코인리더스",
-      "score": 0
-    },
-    {
       "title": "[시세] 리플(XRP) ETF 돈 빠졌다…0.9000달러 지킬까",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1hODZZTXh1UGd5ZC1uV2lJeWpTUmxuaXBCQ0xtQnJTd1hTSGc1VlZwMm44QW9FRE1INkYwTTh3ektZekhyNjl5M213?oc=5",
       "date": "Wed, 25 Nov 2026 00:10:43 GMT",
@@ -92,9 +92,30 @@
   ],
   "general_news": [
     {
-      "title": "XRP 제자리여도 2배 ETF는 10% 손실 구조",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE16TlYtVmZKZmVwTHp0ZmdIelFkTTg3bTg3TE5Ka2ZmTjhMVWJ4YU5PWS1hUGRsbk5GaHZkUVAtQjRFYjhjMWhEcWd3?oc=5",
-      "date": "Thu, 26 Nov 2026 06:46:31 GMT",
+      "title": "리플(XRP), 거래소서 50억 개 빠져나갔다…ETF 자금 유입에 전망은?",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNRVRxcm1Bc19KV0dOMUUwdVhoSmRScG94ZjJqX1hXX3BFamUweU01LTFkSUQ0SzR1c0lnUzhkVkE2bHlKTm9vU0daS0k5WmVYSDlMUkFPZVY4V05xU0w4YU9oRXJFNWZv?oc=5",
+      "date": "Thu, 26 Nov 2026 13:37:13 GMT",
+      "source": "CBC뉴스",
+      "score": 3
+    },
+    {
+      "title": "리플(XRP) 현물 ETF 나 홀로 순유입! 비트코인·이더리움은 기관 자금 이탈 지속",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9fTzRhVHRuNFpxdkR1UTN3WThIWGR5bzgwUzVsOGN5bHBfaU9Xd3RKTk9CRmE1YXBsTHFtWEh6NkZycC1ZcU5BY3Bn?oc=5",
+      "date": "Thu, 26 Nov 2026 10:39:00 GMT",
+      "source": "코인리더스",
+      "score": 5
+    },
+    {
+      "title": "리플(XRP) 수개월 하락장 드디어 끝났나…엘리엇 상승 3파에 2.90달러 전망",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBIWHJmRnZDZ3diY0xuSzF0WlFOOHJxa3dDT1dMbEtuYXFBTDEwUEVUY2ZsVWxSd3U4UmRvbmEyYzFjZHdnbnBUTkl3?oc=5",
+      "date": "Thu, 26 Nov 2026 10:17:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
+      "title": "리플(XRP), 비트코인 반감기 징크스 또 반복되나…2027년 1.70달러 전망",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5VZmctbVZmY2ZvTDZzUVoxdDc3TGp3TzJaeGJIUlBnNnFiWVZJU0dpYmtRM2Q0QWJWZzFBcXhjdUdPcHRiRkdERl9R?oc=5",
+      "date": "Thu, 26 Nov 2026 09:02:00 GMT",
       "source": "코인리더스",
       "score": 2
     },
@@ -127,38 +148,17 @@
       "score": 2
     },
     {
-      "title": "평균 손실 50% 육박…XRP ETF 자금도 이탈",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBXcWlOS21ZczNoa3pkOUViV1F4em4wVC1MaUI4N3lQTUJwR3Mzd1NZMlVYSjNRcUtFSWhOZG1fZlVVMHM4Zm9yMDln?oc=5",
-      "date": "Wed, 25 Nov 2026 12:52:21 GMT",
+      "title": "바이낸스·빗썸 리플(XRP) 보유량 급감…업비트 보유량만 늘어난 이유는?",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5sNGtTY2I3cXlNNzhkeGIxUUJlMldueDFyeUhwUmN2R2pjMnA5d1p5M1RvVzZ6emE4M2ZIRVZsSGI4NThpRWpqVWpn?oc=5",
+      "date": "Wed, 25 Nov 2026 22:14:00 GMT",
       "source": "코인리더스",
-      "score": 2
-    },
-    {
-      "title": "리플(XRP) 고래 보유량 4억 개 감소…0.90달러마저 무너지나?",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBaV2ZrazZRVDNIZWJiaEFUSEdVbGMzNzQtaGwtVlBobUYydkhQMHhhbk41SVhsQVh6RGNWS3FBSEFVYWRqMUVLMjdB?oc=5",
-      "date": "Wed, 25 Nov 2026 12:04:00 GMT",
-      "source": "코인리더스",
-      "score": 2
+      "score": 4
     },
     {
       "title": "리플 CEO \"비트코인 100만달러 간다\"…XRP는 얼마?",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YSXFDWWpQZ3FYQzN3RmRReGhzMTNrNW5zRzd2YXplRUFpMXNwNzE0bmFnTm43Vkp6a0hBUEJzamF0VkpEZm1tQjBCU3VOc0RVczM4SlBmc0RmR2JleWtMem10ZHcxWEVHVEhyZWE4Q3pOeTQ?oc=5",
       "date": "Wed, 25 Nov 2026 01:45:28 GMT",
       "source": "디지털투데이",
-      "score": 2
-    },
-    {
-      "title": "[시세] 리플(XRP) ETF 돈 빠졌다…0.9000달러 지킬까",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1hODZZTXh1UGd5ZC1uV2lJeWpTUmxuaXBCQ0xtQnJTd1hTSGc1VlZwMm44QW9FRE1INkYwTTh3ektZekhyNjl5M213?oc=5",
-      "date": "Wed, 25 Nov 2026 00:10:43 GMT",
-      "source": "코인리더스",
-      "score": 3
-    },
-    {
-      "title": "리플(XRP) 0.90달러는 저가 매수 기회인가…2018년 폭락장의 재현인가?",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBOd0JTNDBtWXZfbGR1TkJVWmJjb0tkdldWTGdFeXpQVVlnMUZQbkpKUjRCWXAtTlIxSzlsWV9YVHhXTVMtcXA0Y3JB?oc=5",
-      "date": "Tue, 24 Nov 2026 22:42:00 GMT",
-      "source": "코인리더스",
       "score": 2
     }
   ]
