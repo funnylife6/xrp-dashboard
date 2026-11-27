@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-11-27T02:19:43",
+  "generated_at": "2026-11-27T11:06:27",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 0.955773,
-    "price_krw": 1281.87,
-    "price_change_24h": -0.04127,
-    "price_change_7d": 0.39122,
-    "price_change_30d": -28.5177,
-    "market_cap_usd": 60678025977,
+    "price_usd": 0.977733,
+    "price_krw": 1303.95,
+    "price_change_24h": 3.04825,
+    "price_change_7d": 1.59356,
+    "price_change_30d": -26.33591,
+    "market_cap_usd": 62102273604,
     "market_cap_rank": 6,
-    "volume_24h": 1184938451,
+    "volume_24h": 1425670062,
     "circulating_supply": 63516606953.0,
     "total_supply": 99985583260.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 67.31,
-    "sentiment_votes_down": 32.69,
+    "sentiment_votes_up": 67.74,
+    "sentiment_votes_down": 32.26,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 21.27,
-    "recent_tps": 21.27,
-    "recent_tx_count": 1914,
+    "tps_24h_avg": 23.96,
+    "recent_tps": 23.96,
+    "recent_tx_count": 2132,
     "recent_ledger_count": 24,
-    "recent_window_sec": 90,
-    "ledger_seq": 108596456,
+    "recent_window_sec": 89,
+    "ledger_seq": 108604492,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-11-27 02:19:38 KST",
+    "updated_at": "2026-11-27 11:06:17 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -47,6 +47,20 @@
     "data_source": "news_parse"
   },
   "etf_news": [
+    {
+      "title": "비트코인 현물 ETF, 출시 이후 최대 월간 순유출…XRP만 나 홀로 순유입 전환[엠블록레터]",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yVXp2UGROWHBNNEg3eWhrQV93OGJsRWo5M1RpSzNoSHVOWWtSRWlGU2h3dEhwaFNuNnJoUnNBODRFa2hKcHhLTzZMOXZ3aHRFcVE?oc=5",
+      "date": "Fri, 27 Nov 2026 08:15:41 GMT",
+      "source": "매일경제 마켓",
+      "score": 5
+    },
+    {
+      "title": "[시세] 리플(XRP) 시장 따라 올랐다…0.9800달러 넘을까",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE94NFZHNkNfMjROaElZQU9iN3VhbllMOWhQNTFmaHRkR0FEb2Mydnh0MHlWR1laMTJGQUxOZl9vYzJ0OTZqSnlGV0t3?oc=5",
+      "date": "Fri, 27 Nov 2026 06:08:44 GMT",
+      "source": "코인리더스",
+      "score": 0
+    },
     {
       "title": "리플(XRP), 30일 거래소 출금 50억 개·ETF 11월 첫 순유입 전환",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NSFNuYTYteERVN254Yk9hX2FIOUF4cUJ0QjhrZ01Obm9ydk1mNXduRGRER3dqbXZGLVc2Rzd2dXo3ZFp0bHp3bWNPNUpRN0VLZzcxWUhZSUY5Nk9OT1B2OUp1bGZkbmhKajYtMWFMUEQ?oc=5",
@@ -74,27 +88,48 @@
       "date": "Thu, 26 Nov 2026 13:37:13 GMT",
       "source": "CBC뉴스",
       "score": 0
-    },
-    {
-      "title": "리플(XRP) 현물 ETF 나 홀로 순유입! 비트코인·이더리움은 기관 자금 이탈 지속",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9fTzRhVHRuNFpxdkR1UTN3WThIWGR5bzgwUzVsOGN5bHBfaU9Xd3RKTk9CRmE1YXBsTHFtWEh6NkZycC1ZcU5BY3Bn?oc=5",
-      "date": "Thu, 26 Nov 2026 10:39:00 GMT",
-      "source": "코인리더스",
-      "score": 0
-    },
-    {
-      "title": "리플(XRP) 현물 ETF, 3분기 3억 800만 달러 순유입...4분기 관건은 참여자 확대",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE51N2hPRHhfOWhCdFFtaVlEbno0UDQyVHJhVXBvWlR0T0FtNWRxU2RYQWozMjVYQVAyREJmS044LVRoVWhRekMwRFdB?oc=5",
-      "date": "Thu, 26 Nov 2026 04:30:00 GMT",
-      "source": "코인리더스",
-      "score": 0
     }
   ],
   "general_news": [
     {
-      "title": "[시세] 리플(XRP) 반등장 올라탔지만…0.9245달러 지킬까",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9JWmtZQU5qTkJpUGs1VDRJU1NkZnh2eVlPVGtBQ1RBemg0TWEtZ0tNb3FnbmhaRnFuTnRqWWRVT2ZsNERIQVpPN2FR?oc=5",
-      "date": "Fri, 27 Nov 2026 00:07:20 GMT",
+      "title": "리플(XRP) 12년 상승 추세선 주목! 유명 트레이더, 최대 26달러 장기 강세론 제시",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5ER3N4UF9EQ3BCbVBDUVVqUDZGVEx4NDhOaXhuV0ZDdzZMeUVmWU5YSER1enExdU1yYVhVcHFPc2RmSXktV0RXY0VB?oc=5",
+      "date": "Fri, 27 Nov 2026 10:01:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
+      "title": "리플 주식 가치 두고 엇갈린 평가…美 펀드 두 곳 평가액 3배 이상 차이",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93YkhPZndiYjMyeHdmQ1RJS05FR2NZenNoX1I5RTdZRUZWTDY1VzBqZWcwRl90bUJkaVhDdVpjNjloR2hBandFT0FPcWFJVlEtcUVTMWg3c2M?oc=5",
+      "date": "Fri, 27 Nov 2026 08:17:24 GMT",
+      "source": "블록미디어",
+      "score": 2
+    },
+    {
+      "title": "[시세] 리플(XRP) 시장 따라 올랐다…0.9800달러 넘을까",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE94NFZHNkNfMjROaElZQU9iN3VhbllMOWhQNTFmaHRkR0FEb2Mydnh0MHlWR1laMTJGQUxOZl9vYzJ0OTZqSnlGV0t3?oc=5",
+      "date": "Fri, 27 Nov 2026 06:08:44 GMT",
+      "source": "코인리더스",
+      "score": 3
+    },
+    {
+      "title": "리플(XRP) 연말 전망 나왔다! 가장 낙관적인 AI 목표가도 고작 1.08달러",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9ZLW5tVXNpSldCNWk2X1NQdmdaUFpTNGZkUlNBakpCeWtjTGU3VDRtYnhKVDN4YnlUOXctRHAtRkJxRE5lQ0RMOE5R?oc=5",
+      "date": "Fri, 27 Nov 2026 04:57:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
+    {
+      "title": "비트코인(BTC)·리플(XRP) 1%대 상승…업비트 빅타임 17.02% 급등",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9TdnlpNmp4ZlduNjQ4TGZobmRhem5BSE4yUEtCVHRxUFpoYk5SVk1wSGtpMm9TTG1qc1lrbGhvZEpIeXZZSXVWTVpB?oc=5",
+      "date": "Fri, 27 Nov 2026 04:01:20 GMT",
+      "source": "코인리더스",
+      "score": 3
+    },
+    {
+      "title": "리플(XRP), 바닥에서 매물 받아 냈다...1달러 찾으면 '여기'까지 상승 가능",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBIbndRQjNVdnNvYjNLRmpUN0M5OGtER1IyeS1YbjJhMnZaN0wyVWxvMG9fUDloNXEzUU5YcEM0X1ZyZXRVWlZzbFJn?oc=5",
+      "date": "Fri, 27 Nov 2026 01:15:00 GMT",
       "source": "코인리더스",
       "score": 2
     },
@@ -125,41 +160,6 @@
       "date": "Thu, 26 Nov 2026 19:53:19 GMT",
       "source": "코인리더스",
       "score": 2
-    },
-    {
-      "title": "리플(XRP), 거래소서 50억 개 빠져나갔다…ETF 자금 유입에 전망은?",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNRVRxcm1Bc19KV0dOMUUwdVhoSmRScG94ZjJqX1hXX3BFamUweU01LTFkSUQ0SzR1c0lnUzhkVkE2bHlKTm9vU0daS0k5WmVYSDlMUkFPZVY4V05xU0w4YU9oRXJFNWZv?oc=5",
-      "date": "Thu, 26 Nov 2026 13:37:13 GMT",
-      "source": "CBC뉴스",
-      "score": 3
-    },
-    {
-      "title": "리플(XRP) 현물 ETF 나 홀로 순유입! 비트코인·이더리움은 기관 자금 이탈 지속",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9fTzRhVHRuNFpxdkR1UTN3WThIWGR5bzgwUzVsOGN5bHBfaU9Xd3RKTk9CRmE1YXBsTHFtWEh6NkZycC1ZcU5BY3Bn?oc=5",
-      "date": "Thu, 26 Nov 2026 10:39:00 GMT",
-      "source": "코인리더스",
-      "score": 5
-    },
-    {
-      "title": "리플(XRP) 수개월 하락장 드디어 끝났나…엘리엇 상승 3파에 2.90달러 전망",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBIWHJmRnZDZ3diY0xuSzF0WlFOOHJxa3dDT1dMbEtuYXFBTDEwUEVUY2ZsVWxSd3U4UmRvbmEyYzFjZHdnbnBUTkl3?oc=5",
-      "date": "Thu, 26 Nov 2026 10:17:00 GMT",
-      "source": "코인리더스",
-      "score": 2
-    },
-    {
-      "title": "리플(XRP), 비트코인 반감기 징크스 또 반복되나…2027년 1.70달러 전망",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5VZmctbVZmY2ZvTDZzUVoxdDc3TGp3TzJaeGJIUlBnNnFiWVZJU0dpYmtRM2Q0QWJWZzFBcXhjdUdPcHRiRkdERl9R?oc=5",
-      "date": "Thu, 26 Nov 2026 09:02:00 GMT",
-      "source": "코인리더스",
-      "score": 2
-    },
-    {
-      "title": "리플(XRP) 현물 ETF, 3분기 3억 800만 달러 순유입...4분기 관건은 참여자 확대",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE51N2hPRHhfOWhCdFFtaVlEbno0UDQyVHJhVXBvWlR0T0FtNWRxU2RYQWozMjVYQVAyREJmS044LVRoVWhRekMwRFdB?oc=5",
-      "date": "Thu, 26 Nov 2026 04:30:00 GMT",
-      "source": "코인리더스",
-      "score": 5
     }
   ]
 }
