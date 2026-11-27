@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-11-27T11:06:27",
+  "generated_at": "2026-11-27T20:07:03",
   "timezone": "Asia/Seoul",
   "info": {
-    "price_usd": 0.977733,
-    "price_krw": 1303.95,
-    "price_change_24h": 3.04825,
-    "price_change_7d": 1.59356,
-    "price_change_30d": -26.33591,
-    "market_cap_usd": 62102273604,
+    "price_usd": 0.950097,
+    "price_krw": 1266.21,
+    "price_change_24h": -0.1021,
+    "price_change_7d": 6.2598,
+    "price_change_30d": -28.80012,
+    "market_cap_usd": 60341266744,
     "market_cap_rank": 6,
-    "volume_24h": 1425670062,
+    "volume_24h": 1929379139,
     "circulating_supply": 63516606953.0,
     "total_supply": 99985583260.0,
     "ath_usd": 3.65,
     "twitter_followers": 0,
     "reddit_subscribers": 0,
-    "sentiment_votes_up": 67.74,
-    "sentiment_votes_down": 32.26,
+    "sentiment_votes_up": 67.27,
+    "sentiment_votes_down": 32.73,
     "source": "CoinGecko"
   },
   "xrpl_stats": {
     "tx_today": 0,
     "tx_7d_avg": 0,
-    "tps_24h_avg": 23.96,
-    "recent_tps": 23.96,
-    "recent_tx_count": 2132,
+    "tps_24h_avg": 31.73,
+    "recent_tps": 31.73,
+    "recent_tx_count": 2856,
     "recent_ledger_count": 24,
-    "recent_window_sec": 89,
-    "ledger_seq": 108604492,
+    "recent_window_sec": 90,
+    "ledger_seq": 108612646,
     "ledger_close_sec": 0.0,
     "load_factor": 1.0,
     "peers": 0,
-    "updated_at": "2026-11-27 11:06:17 KST",
+    "updated_at": "2026-11-27 20:06:51 KST",
     "status": "ok",
     "status_label": "최근 ledger 평균",
     "data_source": "xrpl_recent_ledgers"
@@ -49,9 +49,9 @@
   "etf_news": [
     {
       "title": "비트코인 현물 ETF, 출시 이후 최대 월간 순유출…XRP만 나 홀로 순유입 전환[엠블록레터]",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yVXp2UGROWHBNNEg3eWhrQV93OGJsRWo5M1RpSzNoSHVOWWtSRWlGU2h3dEhwaFNuNnJoUnNBODRFa2hKcHhLTzZMOXZ3aHRFcVE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Qa0t0TGdJd3pHY05abFU2dzRsTExxZkJ3T2JMRll1cmF1RTRmOHZrOGlvUkNub2d2ZHdHNjRHbFlfMEF0WXZwODNNOVlLeHd4RWc?oc=5",
       "date": "Fri, 27 Nov 2026 08:15:41 GMT",
-      "source": "매일경제 마켓",
+      "source": "매일경제",
       "score": 5
     },
     {
@@ -76,21 +76,28 @@
       "score": 0
     },
     {
-      "title": "XRP 저점서 10.7% 튀었다…‘1달러 벽’ 넘을까",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE10bU42WVFSdWh6UFNQdEZzcjJ6R1dlcW5tMTBWUE9SaHdiUk5KNk42MElwMTJxM0RRcGdBRVlla2VLYXVvaF9jdlJB?oc=5",
-      "date": "Thu, 26 Nov 2026 19:53:19 GMT",
-      "source": "코인리더스",
-      "score": 0
-    },
-    {
       "title": "리플(XRP), 거래소서 50억 개 빠져나갔다…ETF 자금 유입에 전망은?",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNRVRxcm1Bc19KV0dOMUUwdVhoSmRScG94ZjJqX1hXX3BFamUweU01LTFkSUQ0SzR1c0lnUzhkVkE2bHlKTm9vU0daS0k5WmVYSDlMUkFPZVY4V05xU0w4YU9oRXJFNWZv?oc=5",
       "date": "Thu, 26 Nov 2026 13:37:13 GMT",
       "source": "CBC뉴스",
       "score": 0
+    },
+    {
+      "title": "리플 가격 전망: 저가 매수세·ETF 자금 순유입 재개·개인 투자자 수요 개선에 XRP 상승",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQT1JncjA2NExGMkhrdmoyUGdRb0hDWnpxbVJNNkc2cERITHFMZDFIemZvelgzRUtHQmpXTWc4cUZmNjF0UmRzRjhBeURfeFRXemVNdlc2MUxtNlBEeW9VaXUwT2JnVkt4NEV3TzFGNHV3ZXV3NXQ3MmNWREtfcmMwdGxWYUh2TlJlbHNpQ3NtX2d1NUdkc2VzQ0lpLWh6VVNoVHcyRGtGRWJuRXR2TGNKREgtNFhpUE9yYVN4R1pOY1BxWTR4OHNTOHQyZUlEczUxZnhlUGwxYm1vWk5sbi0tRGVfLTQ2VmMtTW43WE9Ldk0tVkcyMDVJ?oc=5",
+      "date": "Thu, 26 Nov 2026 12:16:55 GMT",
+      "source": "www.tmgm.com",
+      "score": 0
     }
   ],
   "general_news": [
+    {
+      "title": "리플(XRP) 저점 대비 14% 급반등…1달러 탈환 신호인가, 숏 스퀴즈의 함정인가",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBSUW1jSHRaQVBHdHQ2OE9XYnRrZTVXN0l3TzJhS3lNWWhmQ3A0TVVHUmdfVmlsUzAwRjI2YzJjdjc2d0IyYkVySjh3?oc=5",
+      "date": "Fri, 27 Nov 2026 12:06:00 GMT",
+      "source": "코인리더스",
+      "score": 2
+    },
     {
       "title": "리플(XRP) 12년 상승 추세선 주목! 유명 트레이더, 최대 26달러 장기 강세론 제시",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5ER3N4UF9EQ3BCbVBDUVVqUDZGVEx4NDhOaXhuV0ZDdzZMeUVmWU5YSER1enExdU1yYVhVcHFPc2RmSXktV0RXY0VB?oc=5",
@@ -127,13 +134,6 @@
       "score": 3
     },
     {
-      "title": "리플(XRP), 바닥에서 매물 받아 냈다...1달러 찾으면 '여기'까지 상승 가능",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBIbndRQjNVdnNvYjNLRmpUN0M5OGtER1IyeS1YbjJhMnZaN0wyVWxvMG9fUDloNXEzUU5YcEM0X1ZyZXRVWlZzbFJn?oc=5",
-      "date": "Fri, 27 Nov 2026 01:15:00 GMT",
-      "source": "코인리더스",
-      "score": 2
-    },
-    {
       "title": "리플(XRP), 30일 거래소 출금 50억 개·ETF 11월 첫 순유입 전환",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NSFNuYTYteERVN254Yk9hX2FIOUF4cUJ0QjhrZ01Obm9ydk1mNXduRGRER3dqbXZGLVc2Rzd2dXo3ZFp0bHp3bWNPNUpRN0VLZzcxWUhZSUY5Nk9OT1B2OUp1bGZkbmhKajYtMWFMUEQ?oc=5",
       "date": "Thu, 26 Nov 2026 23:15:00 GMT",
@@ -155,11 +155,11 @@
       "score": 3
     },
     {
-      "title": "XRP 저점서 10.7% 튀었다…‘1달러 벽’ 넘을까",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE10bU42WVFSdWh6UFNQdEZzcjJ6R1dlcW5tMTBWUE9SaHdiUk5KNk42MElwMTJxM0RRcGdBRVlla2VLYXVvaF9jdlJB?oc=5",
-      "date": "Thu, 26 Nov 2026 19:53:19 GMT",
-      "source": "코인리더스",
-      "score": 2
+      "title": "리플(XRP), 거래소서 50억 개 빠져나갔다…ETF 자금 유입에 전망은?",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNRVRxcm1Bc19KV0dOMUUwdVhoSmRScG94ZjJqX1hXX3BFamUweU01LTFkSUQ0SzR1c0lnUzhkVkE2bHlKTm9vU0daS0k5WmVYSDlMUkFPZVY4V05xU0w4YU9oRXJFNWZv?oc=5",
+      "date": "Thu, 26 Nov 2026 13:37:13 GMT",
+      "source": "CBC뉴스",
+      "score": 3
     }
   ]
 }
